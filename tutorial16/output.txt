@@ -1,0 +1,2 @@
+[32m2023-12-15 20:37:40.420[0m | [1mINFO    [0m | [36m__main__[0m:[36m<module>[0m:[36m17[0m - [1mThe current Prime Minister of India is Narendra Modi.[0m
+[32m2023-12-15 20:38:30.181[0m | [1mINFO    [0m | [36m__main__[0m:[36m<module>[0m:[36m17[0m - [1mThe current Prime Minister of Australia is Anthony Albanese.[0m
