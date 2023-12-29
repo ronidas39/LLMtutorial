@@ -1,0 +1,1001 @@
+date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
+2012-01-22 00:00:00,Ivory Coast,Sudan,1,0,African Cup of Nations,Malabo,Equatorial Guinea,True
+2012-01-22 00:00:00,Lebanon,Iraq,1,0,Friendly,Beirut,Lebanon,False
+2012-01-22 00:00:00,Lesotho,S√£o Tom√© and Pr√≠ncipe,0,0,African Cup of Nations qualification,Maseru,Lesotho,False
+2012-01-22 00:00:00,Trinidad and Tobago,Finland,2,3,Friendly,Port of Spain,Trinidad and Tobago,False
+2012-01-23 00:00:00,Gabon,Niger,2,0,African Cup of Nations,Libreville,Gabon,False
+2012-01-23 00:00:00,Morocco,Tunisia,1,2,African Cup of Nations,Libreville,Gabon,True
+2012-01-24 00:00:00,Ghana,Botswana,1,0,African Cup of Nations,Franceville,Gabon,True
+2012-01-24 00:00:00,Mali,Guinea,1,0,African Cup of Nations,Franceville,Gabon,True
+2012-01-25 00:00:00,Equatorial Guinea,Senegal,2,1,African Cup of Nations,Bata,Equatorial Guinea,False
+2012-01-25 00:00:00,Libya,Zambia,2,2,African Cup of Nations,Bata,Equatorial Guinea,True
+2012-01-25 00:00:00,Mexico,Venezuela,3,1,Friendly,Houston,United States,True
+2012-01-25 00:00:00,Panama,United States,0,1,Friendly,Panama City,Panama,False
+2012-01-26 00:00:00,Ivory Coast,Burkina Faso,2,0,African Cup of Nations,Malabo,Equatorial Guinea,True
+2012-01-26 00:00:00,Sudan,Angola,2,2,African Cup of Nations,Malabo,Equatorial Guinea,True
+2012-01-27 00:00:00,Gabon,Morocco,3,2,African Cup of Nations,Libreville,Gabon,False
+2012-01-27 00:00:00,Niger,Tunisia,1,2,African Cup of Nations,Libreville,Gabon,True
+2012-01-27 00:00:00,Romania,Turkmenistan,4,0,Friendly,Belek,Turkey,True
+2012-01-28 00:00:00,Botswana,Guinea,1,6,African Cup of Nations,Franceville,Gabon,True
+2012-01-28 00:00:00,Ghana,Mali,2,0,African Cup of Nations,Franceville,Gabon,True
+2012-01-29 00:00:00,Equatorial Guinea,Zambia,0,1,African Cup of Nations,Malabo,Equatorial Guinea,False
+2012-01-29 00:00:00,Libya,Senegal,2,1,African Cup of Nations,Bata,Equatorial Guinea,True
+2012-01-29 00:00:00,United Arab Emirates,Uzbekistan,1,0,Friendly,Dubai,United Arab Emirates,False
+2012-01-30 00:00:00,Ivory Coast,Angola,2,0,African Cup of Nations,Malabo,Equatorial Guinea,True
+2012-01-30 00:00:00,Sudan,Burkina Faso,2,1,African Cup of Nations,Bata,Equatorial Guinea,True
+2012-01-31 00:00:00,Gabon,Tunisia,1,0,African Cup of Nations,Franceville,Gabon,False
+2012-01-31 00:00:00,Niger,Morocco,0,1,African Cup of Nations,Libreville,Gabon,True
+2012-02-01 00:00:00,Botswana,Mali,1,2,African Cup of Nations,Libreville,Gabon,True
+2012-02-01 00:00:00,Ghana,Guinea,1,1,African Cup of Nations,Franceville,Gabon,True
+2012-02-04 00:00:00,Equatorial Guinea,Ivory Coast,0,3,African Cup of Nations,Malabo,Equatorial Guinea,False
+2012-02-04 00:00:00,Zambia,Sudan,3,0,African Cup of Nations,Bata,Equatorial Guinea,True
+2012-02-05 00:00:00,Gabon,Mali,1,1,African Cup of Nations,Libreville,Gabon,False
+2012-02-05 00:00:00,Ghana,Tunisia,2,1,African Cup of Nations,Franceville,Gabon,True
+2012-02-08 00:00:00,Mali,Ivory Coast,0,1,African Cup of Nations,Libreville,Gabon,True
+2012-02-08 00:00:00,Zambia,Ghana,1,0,African Cup of Nations,Bata,Equatorial Guinea,True
+2012-02-11 00:00:00,Ghana,Mali,0,2,African Cup of Nations,Malabo,Equatorial Guinea,True
+2012-02-12 00:00:00,Zambia,Ivory Coast,0,0,African Cup of Nations,Libreville,Gabon,True
+2012-02-15 00:00:00,Liberia,Nigeria,0,2,Friendly,Monrovia,Liberia,False
+2012-02-15 00:00:00,Paraguay,Chile,2,0,Friendly,Luque,Paraguay,False
+2012-02-17 00:00:00,North Korea,Kuwait,1,1,Friendly,Changsha,China PR,True
+2012-02-22 00:00:00,China PR,Kuwait,2,0,Friendly,Changsha,China PR,False
+2012-02-22 00:00:00,Grenada,Guyana,1,2,Friendly,St. George's,Grenada,False
+2012-02-22 00:00:00,Jamaica,Cuba,1,0,Friendly,Kingston,Jamaica,False
+2012-02-22 00:00:00,Paraguay,Guatemala,2,1,Friendly,Luque,Paraguay,False
+2012-02-23 00:00:00,Iran,Jordan,2,2,Friendly,Dubai,United Arab Emirates,True
+2012-02-23 00:00:00,Oman,India,5,1,Friendly,Seeb,Oman,False
+2012-02-23 00:00:00,Tanzania,DR Congo,0,0,Friendly,Dar es Salaam,Tanzania,False
+2012-02-24 00:00:00,Jamaica,Cuba,3,0,Friendly,Montego Bay,Jamaica,False
+2012-02-24 00:00:00,Japan,Iceland,3,1,Friendly,Osaka,Japan,False
+2012-02-24 00:00:00,Nicaragua,Puerto Rico,1,0,Friendly,Managua,Nicaragua,False
+2012-02-24 00:00:00,Singapore,Azerbaijan,2,2,Friendly,Dubai,United Arab Emirates,True
+2012-02-24 00:00:00,Thailand,Maldives,3,0,Friendly,Chiang Mai,Thailand,False
+2012-02-24 00:00:00,United Arab Emirates,Palestine,3,0,Friendly,Abu Dhabi,United Arab Emirates,False
+2012-02-25 00:00:00,South Korea,Uzbekistan,4,2,Friendly,Jeonju,South Korea,False
+2012-02-26 00:00:00,Nicaragua,Puerto Rico,4,1,Friendly,Managua,Nicaragua,False
+2012-02-27 00:00:00,Egypt,Kenya,5,0,Friendly,Doha,Qatar,True
+2012-02-27 00:00:00,India,Azerbaijan,0,3,Friendly,Dubai,United Arab Emirates,True
+2012-02-28 00:00:00,Armenia,Serbia,0,2,Friendly,Limassol,Cyprus,True
+2012-02-28 00:00:00,Bosnia and Herzegovina,Brazil,1,2,Friendly,St. Gallen,Switzerland,True
+2012-02-29 00:00:00,Antigua and Barbuda,Trinidad and Tobago,0,4,Friendly,St. John's,Antigua and Barbuda,False
+2012-02-29 00:00:00,Armenia,Canada,3,1,Friendly,Limassol,Cyprus,True
+2012-02-29 00:00:00,Australia,Saudi Arabia,4,2,FIFA World Cup qualification,Melbourne,Australia,False
+2012-02-29 00:00:00,Austria,Finland,3,1,Friendly,Klagenfurt,Austria,False
+2012-02-29 00:00:00,Bahrain,Indonesia,10,0,FIFA World Cup qualification,Riffa,Bahrain,False
+2012-02-29 00:00:00,Bolivia,Cuba,1,0,Friendly,Cochabamba,Bolivia,False
+2012-02-29 00:00:00,Burundi,Zimbabwe,2,1,African Cup of Nations qualification,Bujumbura,Burundi,False
+2012-02-29 00:00:00,Chad,Malawi,3,2,African Cup of Nations qualification,N'Djamena,Chad,False
+2012-02-29 00:00:00,Chile,Ghana,1,1,Friendly,Chester,United States,True
+2012-02-29 00:00:00,China PR,Jordan,3,1,FIFA World Cup qualification,Guangzhou,China PR,False
+2012-02-29 00:00:00,Congo,Uganda,3,1,African Cup of Nations qualification,Brazzaville,Congo,False
+2012-02-29 00:00:00,Croatia,Sweden,1,3,Friendly,Zagreb,Croatia,False
+2012-02-29 00:00:00,Cyprus,Serbia,0,0,Friendly,Larnaca,Cyprus,False
+2012-02-29 00:00:00,Denmark,Russia,0,2,Friendly,Copenhagen,Denmark,False
+2012-02-29 00:00:00,Ecuador,Honduras,2,0,Friendly,Guayaquil,Ecuador,False
+2012-02-29 00:00:00,Egypt,Niger,1,0,Friendly,Doha,Qatar,True
+2012-02-29 00:00:00,El Salvador,Estonia,0,2,Friendly,Los Angeles,United States,True
+2012-02-29 00:00:00,England,Netherlands,2,3,Friendly,London,England,False
+2012-02-29 00:00:00,Ethiopia,Benin,0,0,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+2012-02-29 00:00:00,Gambia,Algeria,1,2,African Cup of Nations qualification,Bakau,Gambia,False
+2012-02-29 00:00:00,Georgia,Albania,2,1,Friendly,Tbilisi,Georgia,False
+2012-02-29 00:00:00,Germany,France,1,2,Friendly,Bremen,Germany,False
+2012-02-29 00:00:00,Greece,Belgium,1,1,Friendly,Heraklion,Greece,False
+2012-02-29 00:00:00,Guinea-Bissau,Cameroon,0,1,African Cup of Nations qualification,Bissau,Guinea-Bissau,False
+2012-02-29 00:00:00,Guyana,Guatemala,0,2,Friendly,Providence,Guyana,False
+2012-02-29 00:00:00,Hong Kong,Taiwan,5,1,Friendly,Kowloon,Hong Kong,False
+2012-02-29 00:00:00,Hungary,Bulgaria,1,1,Friendly,Gy≈ër,Hungary,False
+2012-02-29 00:00:00,Iran,Qatar,2,2,FIFA World Cup qualification,Tehran,Iran,False
+2012-02-29 00:00:00,Iraq,Singapore,7,1,FIFA World Cup qualification,Doha,Qatar,True
+2012-02-29 00:00:00,Republic of Ireland,Czech Republic,1,1,Friendly,Dublin,Republic of Ireland,False
+2012-02-29 00:00:00,Israel,Ukraine,2,3,Friendly,Petah Tikva,Israel,False
+2012-02-29 00:00:00,Italy,United States,0,1,Friendly,Genoa,Italy,False
+2012-02-29 00:00:00,Ivory Coast,Guinea,0,0,Friendly,Abidjan,Ivory Coast,False
+2012-02-29 00:00:00,Japan,Uzbekistan,0,1,FIFA World Cup qualification,Toyota,Japan,False
+2012-02-29 00:00:00,Kenya,Togo,2,1,African Cup of Nations qualification,Nairobi,Kenya,False
+2012-02-29 00:00:00,South Korea,Kuwait,2,0,FIFA World Cup qualification,Seoul,South Korea,False
+2012-02-29 00:00:00,Latvia,Kazakhstan,0,0,Friendly,Antalya,Turkey,True
+2012-02-29 00:00:00,Liberia,Namibia,1,0,African Cup of Nations qualification,Monrovia,Liberia,False
+2012-02-29 00:00:00,Luxembourg,North Macedonia,2,1,Friendly,Luxembourg,Luxembourg,False
+2012-02-29 00:00:00,Madagascar,Cape Verde,0,4,African Cup of Nations qualification,Antananarivo,Madagascar,False
+2012-02-29 00:00:00,Malta,Liechtenstein,2,1,Friendly,Attard,Malta,False
+2012-02-29 00:00:00,Mexico,Colombia,0,2,Friendly,Miami Gardens,United States,True
+2012-02-29 00:00:00,Moldova,Belarus,0,0,Friendly,Antalya,Turkey,True
+2012-02-29 00:00:00,Montenegro,Iceland,2,1,Friendly,Podgorica,Montenegro,False
+2012-02-29 00:00:00,Morocco,Burkina Faso,2,0,Friendly,Marrakech,Morocco,False
+2012-02-29 00:00:00,New Zealand,Jamaica,2,3,Friendly,Auckland,New Zealand,False
+2012-02-29 00:00:00,Northern Ireland,Norway,0,3,Friendly,Belfast,Northern Ireland,False
+2012-02-29 00:00:00,Oman,Thailand,2,0,FIFA World Cup qualification,Muscat,Oman,False
+2012-02-29 00:00:00,Palestine,Azerbaijan,2,0,Friendly,Dubai,United Arab Emirates,True
+2012-02-29 00:00:00,Paraguay,Panama,1,0,Friendly,Asunci√≥n,Paraguay,False
+2012-02-29 00:00:00,Philippines,Malaysia,1,1,Friendly,Manila,Philippines,False
+2012-02-29 00:00:00,Poland,Portugal,0,0,Friendly,Warsaw,Poland,False
+2012-02-29 00:00:00,Romania,Uruguay,1,1,Friendly,Bucharest,Romania,False
+2012-02-29 00:00:00,Rwanda,Nigeria,0,0,African Cup of Nations qualification,Kigali,Rwanda,False
+2012-02-29 00:00:00,S√£o Tom√© and Pr√≠ncipe,Sierra Leone,2,1,African Cup of Nations qualification,S√£o Tom√©,S√£o Tom√© and Pr√≠ncipe,False
+2012-02-29 00:00:00,Seychelles,DR Congo,0,4,African Cup of Nations qualification,Victoria,Seychelles,False
+2012-02-29 00:00:00,Slovenia,Scotland,1,1,Friendly,Koper,Slovenia,False
+2012-02-29 00:00:00,South Africa,Senegal,0,0,Friendly,Durban,South Africa,False
+2012-02-29 00:00:00,Spain,Venezuela,5,0,Friendly,M√°laga,Spain,False
+2012-02-29 00:00:00,Switzerland,Argentina,1,3,Friendly,Berne,Switzerland,False
+2012-02-29 00:00:00,Tajikistan,North Korea,1,1,FIFA World Cup qualification,Xu√ßand,Tajikistan,False
+2012-02-29 00:00:00,Tanzania,Mozambique,1,1,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+2012-02-29 00:00:00,Tunisia,Peru,1,1,Friendly,Tunis,Tunisia,False
+2012-02-29 00:00:00,Turkey,Slovakia,1,2,Friendly,Bursa,Turkey,False
+2012-02-29 00:00:00,United Arab Emirates,Lebanon,4,2,FIFA World Cup qualification,Abu Dhabi,United Arab Emirates,False
+2012-02-29 00:00:00,Wales,Costa Rica,0,1,Friendly,Cardiff,Wales,False
+2012-03-02 00:00:00,Egypt,DR Congo,0,0,Friendly,Doha,Qatar,True
+2012-03-03 00:00:00,Martinique,Guadeloupe,1,2,Friendly,Le Lamentin,Martinique,False
+2012-03-03 00:00:00,Saint Kitts and Nevis,Antigua and Barbuda,1,0,Friendly,Basseterre,Saint Kitts and Nevis,False
+2012-03-08 00:00:00,Nepal,Palestine,0,2,AFC Challenge Cup,Kathmandu,Nepal,False
+2012-03-08 00:00:00,Turkmenistan,Maldives,3,1,AFC Challenge Cup,Kathmandu,Nepal,True
+2012-03-09 00:00:00,India,Tajikistan,0,2,AFC Challenge Cup,Kathmandu,Nepal,True
+2012-03-09 00:00:00,North Korea,Philippines,2,0,AFC Challenge Cup,Kathmandu,Nepal,True
+2012-03-10 00:00:00,Nepal,Maldives,0,1,AFC Challenge Cup,Kathmandu,Nepal,False
+2012-03-10 00:00:00,Palestine,Turkmenistan,0,0,AFC Challenge Cup,Kathmandu,Nepal,True
+2012-03-11 00:00:00,Philippines,India,2,0,AFC Challenge Cup,Kathmandu,Nepal,True
+2012-03-11 00:00:00,Tajikistan,North Korea,0,2,AFC Challenge Cup,Kathmandu,Nepal,True
+2012-03-12 00:00:00,Maldives,Palestine,0,2,AFC Challenge Cup,Kathmandu,Nepal,True
+2012-03-12 00:00:00,Nepal,Turkmenistan,0,3,AFC Challenge Cup,Kathmandu,Nepal,False
+2012-03-13 00:00:00,North Korea,India,4,0,AFC Challenge Cup,Kathmandu,Nepal,True
+2012-03-13 00:00:00,Tajikistan,Philippines,1,2,AFC Challenge Cup,Kathmandu,Nepal,True
+2012-03-16 00:00:00,North Korea,Palestine,2,0,AFC Challenge Cup,Kathmandu,Nepal,True
+2012-03-16 00:00:00,Turkmenistan,Philippines,2,1,AFC Challenge Cup,Kathmandu,Nepal,True
+2012-03-19 00:00:00,Philippines,Palestine,4,3,AFC Challenge Cup,Kathmandu,Nepal,True
+2012-03-19 00:00:00,Turkmenistan,North Korea,1,2,AFC Challenge Cup,Kathmandu,Nepal,True
+2012-03-21 00:00:00,Chile,Peru,3,1,Copa del Pac√≠fico,Arica,Chile,False
+2012-03-21 00:00:00,French Guiana,Guyana,1,0,Friendly,Cayenne,French Guiana,False
+2012-03-21 00:00:00,Jamaica,Costa Rica,0,0,Friendly,Kingston,Jamaica,False
+2012-03-22 00:00:00,French Guiana,Guyana,0,2,Friendly,Cayenne,French Guiana,False
+2012-03-29 00:00:00,Egypt,Uganda,2,1,Friendly,Omdurman,Sudan,True
+2012-03-31 00:00:00,Egypt,Chad,4,0,Friendly,Omdurman,Sudan,True
+2012-04-07 00:00:00,Guadeloupe,Martinique,0,1,Friendly,Les Abymes,Guadeloupe,False
+2012-04-11 00:00:00,Costa Rica,Honduras,1,1,Friendly,San Jos√©,Costa Rica,False
+2012-04-11 00:00:00,Peru,Chile,0,3,Copa del Pac√≠fico,Tacna,Peru,False
+2012-04-12 00:00:00,Egypt,Nigeria,3,2,Friendly,Dubai,United Arab Emirates,True
+2012-04-15 00:00:00,Egypt,Mauritania,3,0,Friendly,Dubai,United Arab Emirates,True
+2012-04-17 00:00:00,Egypt,Iraq,0,0,Friendly,Dubai,United Arab Emirates,True
+2012-04-18 00:00:00,Iran,Mauritania,2,0,Friendly,Tehran,Iran,False
+2012-04-25 00:00:00,Guatemala,Paraguay,0,1,Friendly,Guatemala,Guatemala,False
+2012-04-28 00:00:00,Malaysia,Sri Lanka,6,0,Friendly,Kuala Lumpur,Malaysia,False
+2012-05-02 00:00:00,Iran,Mozambique,3,0,Friendly,Karaj,Iran,False
+2012-05-02 00:00:00,Martinique,Guyana,2,2,Friendly,Le Lamentin,Martinique,False
+2012-05-04 00:00:00,Guadeloupe,Guyana,1,2,Friendly,Les Abymes,Guadeloupe,False
+2012-05-11 00:00:00,Lebanon,Egypt,1,4,Friendly,Tripoli,Lebanon,False
+2012-05-16 00:00:00,Angola,Zambia,0,0,Friendly,Luanda,Angola,False
+2012-05-18 00:00:00,Jamaica,Guyana,1,0,Friendly,Montego Bay,Jamaica,False
+2012-05-18 00:00:00,Lebanon,Jordan,1,2,Friendly,Sidon,Lebanon,False
+2012-05-20 00:00:00,Egypt,Cameroon,2,1,Friendly,Omdurman,Sudan,True
+2012-05-20 00:00:00,Panama,Guyana,2,0,Friendly,Panama City,Panama,False
+2012-05-22 00:00:00,Albania,Qatar,2,1,Friendly,Madrid,Spain,True
+2012-05-22 00:00:00,Egypt,Togo,3,0,Friendly,Omdurman,Sudan,True
+2012-05-22 00:00:00,Latvia,Poland,0,1,Friendly,Klagenfurt,Austria,True
+2012-05-23 00:00:00,Botswana,Lesotho,3,0,Friendly,Gaborone,Botswana,False
+2012-05-23 00:00:00,El Salvador,New Zealand,2,2,Friendly,Houston,United States,True
+2012-05-23 00:00:00,Iraq,Sierra Leone,1,0,Friendly,Istanbul,Turkey,True
+2012-05-23 00:00:00,Japan,Azerbaijan,2,0,Friendly,Shizuoka,Japan,False
+2012-05-23 00:00:00,Libya,Rwanda,2,0,Friendly,Tunis,Tunisia,True
+2012-05-23 00:00:00,Peru,Nigeria,1,0,Friendly,Lima,Peru,False
+2012-05-23 00:00:00,Venezuela,Moldova,4,0,Friendly,Puerto Ordaz,Venezuela,False
+2012-05-24 00:00:00,Georgia,Turkey,1,3,Friendly,Salzburg,Austria,True
+2012-05-25 00:00:00,Belgium,Montenegro,2,2,Friendly,Brussels,Belgium,False
+2012-05-25 00:00:00,Costa Rica,Guatemala,3,2,Friendly,San Jos√©,Costa Rica,False
+2012-05-25 00:00:00,Croatia,Estonia,3,1,Friendly,Rijeka,Croatia,False
+2012-05-25 00:00:00,Morocco,Senegal,0,1,Friendly,Marrakech,Morocco,False
+2012-05-25 00:00:00,Russia,Uruguay,1,1,Friendly,Moscow,Russia,False
+2012-05-26 00:00:00,Algeria,Niger,3,0,Friendly,Blida,Algeria,False
+2012-05-26 00:00:00,Burkina Faso,Benin,2,2,Friendly,Ouagadougou,Burkina Faso,False
+2012-05-26 00:00:00,Czech Republic,Israel,2,1,Friendly,Graz,Austria,True
+2012-05-26 00:00:00,Denmark,Brazil,1,3,Friendly,Hamburg,Germany,True
+2012-05-26 00:00:00,El Salvador,Moldova,2,0,Friendly,Dallas,United States,True
+2012-05-26 00:00:00,Finland,Turkey,3,2,Friendly,Salzburg,Austria,True
+2012-05-26 00:00:00,Greece,Slovenia,1,1,Friendly,Kufstein,Austria,True
+2012-05-26 00:00:00,Guinea,Cameroon,1,2,Friendly,Amanvillers,France,True
+2012-05-26 00:00:00,Honduras,New Zealand,0,1,Friendly,Dallas,United States,True
+2012-05-26 00:00:00,Republic of Ireland,Bosnia and Herzegovina,1,0,Friendly,Dublin,Republic of Ireland,False
+2012-05-26 00:00:00,Jordan,Sierra Leone,4,0,Friendly,Amman,Jordan,False
+2012-05-26 00:00:00,Mozambique,Namibia,0,0,Friendly,W√ºrzburg,Germany,True
+2012-05-26 00:00:00,Netherlands,Bulgaria,1,2,Friendly,Amsterdam,Netherlands,False
+2012-05-26 00:00:00,Norway,England,0,1,Friendly,Oslo,Norway,False
+2012-05-26 00:00:00,Poland,Slovakia,1,0,Friendly,Klagenfurt,Austria,True
+2012-05-26 00:00:00,Portugal,North Macedonia,0,0,Friendly,Leiria,Portugal,False
+2012-05-26 00:00:00,Spain,Serbia,2,0,Friendly,St. Gallen,Switzerland,True
+2012-05-26 00:00:00,Switzerland,Germany,5,3,Friendly,Basel,Switzerland,False
+2012-05-26 00:00:00,Tanzania,Malawi,0,0,Friendly,Dar es Salaam,Tanzania,False
+2012-05-26 00:00:00,United States,Scotland,5,1,Friendly,Jacksonville,United States,False
+2012-05-27 00:00:00,Albania,Iran,1,0,Friendly,Istanbul,Turkey,True
+2012-05-27 00:00:00,Chad,Libya,0,1,Friendly,Tunis,Tunisia,True
+2012-05-27 00:00:00,France,Iceland,3,2,Friendly,Valenciennes,France,False
+2012-05-27 00:00:00,Jamaica,Panama,0,1,Friendly,Kingston,Jamaica,False
+2012-05-27 00:00:00,Mexico,Wales,2,0,Friendly,East Rutherford,United States,True
+2012-05-27 00:00:00,Oman,Lebanon,1,1,Friendly,Muscat,Oman,False
+2012-05-27 00:00:00,Tunisia,Rwanda,5,1,Friendly,Monastir,Tunisia,False
+2012-05-28 00:00:00,Iraq,Botswana,1,1,Friendly,Istanbul,Turkey,True
+2012-05-28 00:00:00,Qatar,Palestine,0,0,Friendly,Doha,Qatar,False
+2012-05-28 00:00:00,Ukraine,Estonia,4,0,Friendly,Kufstein,Austria,True
+2012-05-29 00:00:00,Angola,North Macedonia,0,0,Friendly,Cascais,Portugal,True
+2012-05-29 00:00:00,Bulgaria,Turkey,0,2,Friendly,Salzburg,Austria,True
+2012-05-29 00:00:00,Lithuania,Russia,0,0,Friendly,Nyon,Switzerland,True
+2012-05-30 00:00:00,Azerbaijan,Andorra,0,0,Friendly,Kelsterbach,Germany,True
+2012-05-30 00:00:00,Chad,Rwanda,1,1,Friendly,Port el-Kantaoui,Tunisia,True
+2012-05-30 00:00:00,Netherlands,Slovakia,2,0,Friendly,Rotterdam,Netherlands,False
+2012-05-30 00:00:00,Spain,South Korea,4,1,Friendly,Berne,Switzerland,True
+2012-05-30 00:00:00,Sweden,Iceland,3,2,Friendly,Gothenburg,Sweden,False
+2012-05-30 00:00:00,Switzerland,Romania,0,1,Friendly,Lucerne,Switzerland,False
+2012-05-30 00:00:00,United States,Brazil,1,4,Friendly,Washington,United States,False
+2012-05-31 00:00:00,Armenia,Greece,0,1,Friendly,Kufstein,Austria,True
+2012-05-31 00:00:00,France,Serbia,2,0,Friendly,Reims,France,False
+2012-05-31 00:00:00,Germany,Israel,2,0,Friendly,Leipzig,Germany,False
+2012-05-31 00:00:00,Mexico,Bosnia and Herzegovina,2,1,Friendly,Chicago,United States,True
+2012-06-01 00:00:00,Austria,Ukraine,3,2,Friendly,Innsbruck,Austria,False
+2012-06-01 00:00:00,Czech Republic,Hungary,1,2,Friendly,Prague,Czech Republic,False
+2012-06-01 00:00:00,Egypt,Mozambique,2,0,FIFA World Cup qualification,Alexandria,Egypt,False
+2012-06-01 00:00:00,Estonia,Finland,1,2,Baltic Cup,Tartu,Estonia,False
+2012-06-01 00:00:00,Ghana,Lesotho,7,0,FIFA World Cup qualification,Kumasi,Ghana,False
+2012-06-01 00:00:00,Guatemala,Costa Rica,1,0,Friendly,Guatemala,Guatemala,False
+2012-06-01 00:00:00,Hong Kong,Singapore,1,0,Friendly,So Kon Po,Hong Kong,False
+2012-06-01 00:00:00,Italy,Russia,0,3,Friendly,Z√ºrich,Switzerland,True
+2012-06-01 00:00:00,Kazakhstan,Kyrgyzstan,5,2,Friendly,Almaty,Kazakhstan,False
+2012-06-01 00:00:00,Latvia,Lithuania,5,0,Baltic Cup,V√µru,Estonia,True
+2012-06-01 00:00:00,Malaysia,Philippines,0,0,Friendly,Shah Alam,Malaysia,False
+2012-06-01 00:00:00,Panama,Jamaica,2,1,Friendly,Panama City,Panama,False
+2012-06-01 00:00:00,Puerto Rico,Nicaragua,3,1,Friendly,Bayam√≥n,Puerto Rico,False
+2012-06-01 00:00:00,Samoa,Tahiti,1,10,Oceania Nations Cup,Honiara,Solomon Islands,True
+2012-06-01 00:00:00,Vanuatu,New Caledonia,2,5,Oceania Nations Cup,Honiara,Solomon Islands,True
+2012-06-02 00:00:00,Algeria,Rwanda,4,0,FIFA World Cup qualification,Blida,Algeria,False
+2012-06-02 00:00:00,Argentina,Ecuador,4,0,FIFA World Cup qualification,Buenos Aires,Argentina,False
+2012-06-02 00:00:00,Bolivia,Chile,0,2,FIFA World Cup qualification,La Paz,Bolivia,False
+2012-06-02 00:00:00,Burkina Faso,Congo,0,3,FIFA World Cup qualification,Ouagadougou,Burkina Faso,False
+2012-06-02 00:00:00,Cameroon,DR Congo,1,0,FIFA World Cup qualification,Yaound√©,Cameroon,False
+2012-06-02 00:00:00,Central African Republic,Botswana,2,0,FIFA World Cup qualification,Bangui,Central African Republic,False
+2012-06-02 00:00:00,Denmark,Australia,2,0,Friendly,Copenhagen,Denmark,False
+2012-06-02 00:00:00,El Salvador,Honduras,0,3,Friendly,Washington,United States,True
+2012-06-02 00:00:00,England,Belgium,1,0,Friendly,London,England,False
+2012-06-02 00:00:00,Fiji,New Zealand,0,1,Oceania Nations Cup,Honiara,Solomon Islands,True
+2012-06-02 00:00:00,Gambia,Morocco,1,1,FIFA World Cup qualification,Bakau,Gambia,False
+2012-06-02 00:00:00,Ivory Coast,Tanzania,2,0,FIFA World Cup qualification,Abidjan,Ivory Coast,False
+2012-06-02 00:00:00,Kenya,Malawi,0,0,FIFA World Cup qualification,Nairobi,Kenya,False
+2012-06-02 00:00:00,Luxembourg,Malta,0,2,Friendly,Luxembourg,Luxembourg,False
+2012-06-02 00:00:00,Netherlands,Northern Ireland,6,0,Friendly,Amsterdam,Netherlands,False
+2012-06-02 00:00:00,Norway,Croatia,1,1,Friendly,Oslo,Norway,False
+2012-06-02 00:00:00,Poland,Andorra,4,0,Friendly,Warsaw,Poland,False
+2012-06-02 00:00:00,Portugal,Turkey,1,3,Friendly,Lisbon,Portugal,False
+2012-06-02 00:00:00,Senegal,Liberia,3,1,FIFA World Cup qualification,Dakar,Senegal,False
+2012-06-02 00:00:00,Sierra Leone,Cape Verde,2,1,FIFA World Cup qualification,Freetown,Sierra Leone,False
+2012-06-02 00:00:00,Solomon Islands,Papua New Guinea,1,0,Oceania Nations Cup,Honiara,Solomon Islands,False
+2012-06-02 00:00:00,Sudan,Zambia,0,3,FIFA World Cup qualification,Khartoum,Sudan,False
+2012-06-02 00:00:00,Tunisia,Equatorial Guinea,3,1,FIFA World Cup qualification,Monastir,Tunisia,False
+2012-06-02 00:00:00,Uruguay,Venezuela,1,1,FIFA World Cup qualification,Montevideo,Uruguay,False
+2012-06-03 00:00:00,Angola,Uganda,1,1,FIFA World Cup qualification,Luanda,Angola,False
+2012-06-03 00:00:00,Benin,Mali,1,0,FIFA World Cup qualification,Cotonou,Benin,False
+2012-06-03 00:00:00,Canada,United States,0,0,Friendly,Toronto,Canada,False
+2012-06-03 00:00:00,Estonia,Lithuania,1,0,Baltic Cup,Tartu,Estonia,False
+2012-06-03 00:00:00,Finland,Latvia,1,1,Baltic Cup,V√µru,Estonia,True
+2012-06-03 00:00:00,Japan,Oman,3,0,FIFA World Cup qualification,Saitama,Japan,False
+2012-06-03 00:00:00,Jordan,Iraq,1,1,FIFA World Cup qualification,Amman,Jordan,False
+2012-06-03 00:00:00,Lebanon,Qatar,0,1,FIFA World Cup qualification,Beirut,Lebanon,False
+2012-06-03 00:00:00,Mexico,Brazil,2,0,Friendly,Arlington,United States,True
+2012-06-03 00:00:00,Niger,Gabon,3,0,FIFA World Cup qualification,Niamey,Niger,False
+2012-06-03 00:00:00,Nigeria,Namibia,1,0,FIFA World Cup qualification,Calabar,Nigeria,False
+2012-06-03 00:00:00,Peru,Colombia,0,1,FIFA World Cup qualification,Lima,Peru,False
+2012-06-03 00:00:00,Puerto Rico,Nicaragua,1,1,Friendly,Bayam√≥n,Puerto Rico,False
+2012-06-03 00:00:00,South Africa,Ethiopia,1,1,FIFA World Cup qualification,Rustenburg,South Africa,False
+2012-06-03 00:00:00,Spain,China PR,1,0,Friendly,Seville,Spain,False
+2012-06-03 00:00:00,Tahiti,New Caledonia,4,3,Oceania Nations Cup,Honiara,Solomon Islands,True
+2012-06-03 00:00:00,Togo,Libya,1,1,FIFA World Cup qualification,Lom√©,Togo,False
+2012-06-03 00:00:00,Uzbekistan,Iran,0,1,FIFA World Cup qualification,Tashkent,Uzbekistan,False
+2012-06-03 00:00:00,Vanuatu,Samoa,5,0,Oceania Nations Cup,Honiara,Solomon Islands,True
+2012-06-03 00:00:00,Zimbabwe,Guinea,0,1,FIFA World Cup qualification,Harare,Zimbabwe,False
+2012-06-04 00:00:00,Hungary,Republic of Ireland,0,0,Friendly,Budapest,Hungary,False
+2012-06-04 00:00:00,Papua New Guinea,New Zealand,1,2,Oceania Nations Cup,Honiara,Solomon Islands,True
+2012-06-04 00:00:00,Solomon Islands,Fiji,0,0,Oceania Nations Cup,Honiara,Solomon Islands,False
+2012-06-04 00:00:00,Iraqi Kurdistan,Western Sahara,6,0,Viva World Cup,Erbil,Iraq,False
+2012-06-04 00:00:00,Zanzibar,Raetia,6,0,Viva World Cup,Erbil,Iraq,True
+2012-06-04 00:00:00,Northern Cyprus,Darfur,15,0,Viva World Cup,Erbil,Iraq,True
+2012-06-05 00:00:00,Armenia,Kazakhstan,3,0,Friendly,Yerevan,Armenia,False
+2012-06-05 00:00:00,Austria,Romania,0,0,Friendly,Innsbruck,Austria,False
+2012-06-05 00:00:00,France,Estonia,4,0,Friendly,Le Mans,France,False
+2012-06-05 00:00:00,New Caledonia,Samoa,9,0,Oceania Nations Cup,Honiara,Solomon Islands,True
+2012-06-05 00:00:00,Philippines,Indonesia,2,2,Friendly,Manila,Philippines,False
+2012-06-05 00:00:00,Sweden,Serbia,2,1,Friendly,Solna,Sweden,False
+2012-06-05 00:00:00,Tahiti,Vanuatu,4,1,Oceania Nations Cup,Honiara,Solomon Islands,True
+2012-06-05 00:00:00,Turkey,Ukraine,2,0,Friendly,Ingolstadt,Germany,True
+2012-06-05 00:00:00,Western Sahara,Occitania,2,6,Viva World Cup,Salahaddin,Iraq,True
+2012-06-05 00:00:00,Raetia,Tamil Eelam,1,0,Viva World Cup,Erbil,Iraq,True
+2012-06-05 00:00:00,Darfur,Provence,0,18,Viva World Cup,Erbil,Iraq,True
+2012-06-06 00:00:00,Papua New Guinea,Fiji,1,1,Oceania Nations Cup,Honiara,Solomon Islands,True
+2012-06-06 00:00:00,Solomon Islands,New Zealand,1,1,Oceania Nations Cup,Honiara,Solomon Islands,False
+2012-06-06 00:00:00,Iraqi Kurdistan,Occitania,1,0,Viva World Cup,Sulaymaniyah,Iraq,False
+2012-06-06 00:00:00,Tamil Eelam,Zanzibar,0,3,Viva World Cup,Erbil,Iraq,True
+2012-06-06 00:00:00,Provence,Northern Cyprus,2,1,Viva World Cup,Erbil,Iraq,True
+2012-06-07 00:00:00,Belarus,Lithuania,1,1,Friendly,Minsk,Belarus,False
+2012-06-07 00:00:00,Western Sahara,Darfur,5,1,Viva World Cup,Erbil,Iraq,True
+2012-06-07 00:00:00,Occitania,Tamil Eelam,7,0,Viva World Cup,Erbil,Iraq,True
+2012-06-08 00:00:00,Bahrain,Kuwait,1,1,Friendly,6th of October City,Egypt,True
+2012-06-08 00:00:00,China PR,Vietnam,3,0,Friendly,Wuhan,China PR,False
+2012-06-08 00:00:00,Costa Rica,El Salvador,2,2,FIFA World Cup qualification,San Jos√©,Costa Rica,False
+2012-06-08 00:00:00,Cuba,Canada,0,1,FIFA World Cup qualification,Havana,Cuba,False
+2012-06-08 00:00:00,Honduras,Panama,0,2,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2012-06-08 00:00:00,Jamaica,Guatemala,2,1,FIFA World Cup qualification,Kingston,Jamaica,False
+2012-06-08 00:00:00,Japan,Jordan,6,0,FIFA World Cup qualification,Saitama,Japan,False
+2012-06-08 00:00:00,Lebanon,Uzbekistan,1,1,FIFA World Cup qualification,Beirut,Lebanon,False
+2012-06-08 00:00:00,Mexico,Guyana,3,1,FIFA World Cup qualification,Mexico City,Mexico,False
+2012-06-08 00:00:00,New Zealand,New Caledonia,0,2,Oceania Nations Cup,Honiara,Solomon Islands,True
+2012-06-08 00:00:00,Oman,Australia,0,0,FIFA World Cup qualification,Muscat,Oman,False
+2012-06-08 00:00:00,Poland,Greece,1,1,UEFA Euro,Warsaw,Poland,False
+2012-06-08 00:00:00,Qatar,South Korea,1,4,FIFA World Cup qualification,Doha,Qatar,False
+2012-06-08 00:00:00,Russia,Czech Republic,4,1,UEFA Euro,Wroc≈Çaw,Poland,True
+2012-06-08 00:00:00,Singapore,Malaysia,2,2,Friendly,Singapore,Singapore,False
+2012-06-08 00:00:00,Solomon Islands,Tahiti,0,1,Oceania Nations Cup,Honiara,Solomon Islands,False
+2012-06-08 00:00:00,United States,Antigua and Barbuda,3,1,FIFA World Cup qualification,Tampa,United States,False
+2012-06-08 00:00:00,Western Sahara,Raetia,3,0,Viva World Cup,Erbil,Iraq,True
+2012-06-08 00:00:00,Iraqi Kurdistan,Provence,2,1,Viva World Cup,Duhok,Iraq,False
+2012-06-08 00:00:00,Zanzibar,Northern Cyprus,0,2,Viva World Cup,Duhok,Iraq,True
+2012-06-09 00:00:00,Bolivia,Paraguay,3,1,FIFA World Cup qualification,La Paz,Bolivia,False
+2012-06-09 00:00:00,Botswana,South Africa,1,1,FIFA World Cup qualification,Gaborone,Botswana,False
+2012-06-09 00:00:00,Brazil,Argentina,3,4,Friendly,East Rutherford,United States,True
+2012-06-09 00:00:00,Cape Verde,Tunisia,1,2,FIFA World Cup qualification,Praia,Cape Verde,False
+2012-06-09 00:00:00,Congo,Niger,1,0,FIFA World Cup qualification,Pointe-Noire,Congo,False
+2012-06-09 00:00:00,Equatorial Guinea,Sierra Leone,2,2,FIFA World Cup qualification,Malabo,Equatorial Guinea,False
+2012-06-09 00:00:00,French Guiana,Suriname,2,1,Friendly,Cayenne,French Guiana,False
+2012-06-09 00:00:00,Gabon,Burkina Faso,1,0,FIFA World Cup qualification,Libreville,Gabon,False
+2012-06-09 00:00:00,Germany,Portugal,1,0,UEFA Euro,Lviv,Ukraine,True
+2012-06-09 00:00:00,Malawi,Nigeria,1,1,FIFA World Cup qualification,Blantyre,Malawi,False
+2012-06-09 00:00:00,Morocco,Ivory Coast,2,2,FIFA World Cup qualification,Marrakech,Morocco,False
+2012-06-09 00:00:00,Namibia,Kenya,1,0,FIFA World Cup qualification,Windhoek,Namibia,False
+2012-06-09 00:00:00,Netherlands,Denmark,0,1,UEFA Euro,Kharkiv,Ukraine,True
+2012-06-09 00:00:00,Uganda,Senegal,1,1,FIFA World Cup qualification,Kampala,Uganda,False
+2012-06-09 00:00:00,Venezuela,Chile,0,2,FIFA World Cup qualification,Puerto la Cruz,Venezuela,False
+2012-06-09 00:00:00,Zambia,Ghana,1,0,FIFA World Cup qualification,Ndola,Zambia,False
+2012-06-09 00:00:00,Tamil Eelam,Raetia,4,0,Viva World Cup,Erbil,Iraq,True
+2012-06-09 00:00:00,Occitania,Western Sahara,3,1,Viva World Cup,Salahaddin,Iraq,True
+2012-06-09 00:00:00,Provence,Zanzibar,2,7,Viva World Cup,Erbil,Iraq,True
+2012-06-09 00:00:00,Iraqi Kurdistan,Northern Cyprus,2,1,Viva World Cup,Erbil,Iraq,False
+2012-06-10 00:00:00,DR Congo,Togo,2,0,FIFA World Cup qualification,Kinshasa,DR Congo,False
+2012-06-10 00:00:00,Ecuador,Colombia,1,0,FIFA World Cup qualification,Quito,Ecuador,False
+2012-06-10 00:00:00,Ethiopia,Central African Republic,2,0,FIFA World Cup qualification,Addis Ababa,Ethiopia,False
+2012-06-10 00:00:00,Guinea,Egypt,2,3,FIFA World Cup qualification,Conakry,Guinea,False
+2012-06-10 00:00:00,Hong Kong,Vietnam,1,2,Friendly,Kowloon,Hong Kong,False
+2012-06-10 00:00:00,Republic of Ireland,Croatia,1,3,UEFA Euro,Pozna≈Ñ,Poland,True
+2012-06-10 00:00:00,Lesotho,Sudan,0,0,FIFA World Cup qualification,Maseru,Lesotho,False
+2012-06-10 00:00:00,Liberia,Angola,0,0,FIFA World Cup qualification,Monrovia,Liberia,False
+2012-06-10 00:00:00,Libya,Cameroon,2,1,FIFA World Cup qualification,Sfax,Tunisia,True
+2012-06-10 00:00:00,Mali,Algeria,2,1,FIFA World Cup qualification,Ouagadougou,Burkina Faso,True
+2012-06-10 00:00:00,Mozambique,Zimbabwe,0,0,FIFA World Cup qualification,Maputo,Mozambique,False
+2012-06-10 00:00:00,Rwanda,Benin,1,1,FIFA World Cup qualification,Kigali,Rwanda,False
+2012-06-10 00:00:00,Solomon Islands,New Zealand,3,4,Oceania Nations Cup,Honiara,Solomon Islands,False
+2012-06-10 00:00:00,Spain,Italy,1,1,UEFA Euro,Gda≈Ñsk,Poland,True
+2012-06-10 00:00:00,Tahiti,New Caledonia,1,0,Oceania Nations Cup,Honiara,Solomon Islands,True
+2012-06-10 00:00:00,Tanzania,Gambia,2,1,FIFA World Cup qualification,Dar es Salaam,Tanzania,False
+2012-06-10 00:00:00,Uruguay,Peru,4,2,FIFA World Cup qualification,Montevideo,Uruguay,False
+2012-06-11 00:00:00,France,England,1,1,UEFA Euro,Donets'k,Ukraine,True
+2012-06-11 00:00:00,Ukraine,Sweden,2,1,UEFA Euro,Kyiv,Ukraine,False
+2012-06-12 00:00:00,Antigua and Barbuda,Jamaica,0,0,FIFA World Cup qualification,St. John's,Antigua and Barbuda,False
+2012-06-12 00:00:00,Australia,Japan,1,1,FIFA World Cup qualification,Brisbane,Australia,False
+2012-06-12 00:00:00,Bahrain,Kuwait,0,1,Friendly,6th of October City,Egypt,True
+2012-06-12 00:00:00,Canada,Honduras,0,0,FIFA World Cup qualification,Toronto,Canada,False
+2012-06-12 00:00:00,El Salvador,Mexico,1,2,FIFA World Cup qualification,San Salvador,El Salvador,False
+2012-06-12 00:00:00,Greece,Czech Republic,1,2,UEFA Euro,Wroc≈Çaw,Poland,True
+2012-06-12 00:00:00,Guatemala,United States,1,1,FIFA World Cup qualification,Guatemala,Guatemala,False
+2012-06-12 00:00:00,Guyana,Costa Rica,0,4,FIFA World Cup qualification,Providence,Guyana,False
+2012-06-12 00:00:00,Iran,Qatar,0,0,FIFA World Cup qualification,Tehran,Iran,False
+2012-06-12 00:00:00,Iraq,Oman,1,1,FIFA World Cup qualification,Doha,Qatar,True
+2012-06-12 00:00:00,South Korea,Lebanon,3,0,FIFA World Cup qualification,Goyang,South Korea,False
+2012-06-12 00:00:00,Malaysia,Singapore,2,0,Friendly,Shah Alam,Malaysia,False
+2012-06-12 00:00:00,Panama,Cuba,1,0,FIFA World Cup qualification,Panama City,Panama,False
+2012-06-12 00:00:00,Philippines,Guam,3,0,Friendly,Bacolod,Philippines,False
+2012-06-12 00:00:00,Poland,Russia,1,1,UEFA Euro,Warsaw,Poland,False
+2012-06-13 00:00:00,Denmark,Portugal,2,3,UEFA Euro,Lviv,Ukraine,True
+2012-06-13 00:00:00,Netherlands,Germany,1,2,UEFA Euro,Kharkiv,Ukraine,True
+2012-06-14 00:00:00,Italy,Croatia,1,1,UEFA Euro,Pozna≈Ñ,Poland,True
+2012-06-14 00:00:00,Spain,Republic of Ireland,4,0,UEFA Euro,Gda≈Ñsk,Poland,True
+2012-06-15 00:00:00,Algeria,Gambia,4,1,African Cup of Nations qualification,Blida,Algeria,False
+2012-06-15 00:00:00,Egypt,Central African Republic,2,3,African Cup of Nations qualification,Alexandria,Egypt,False
+2012-06-15 00:00:00,South Africa,Gabon,3,0,Friendly,Nelspruit,South Africa,False
+2012-06-15 00:00:00,Sweden,England,2,3,UEFA Euro,Kyiv,Ukraine,True
+2012-06-15 00:00:00,Ukraine,France,0,2,UEFA Euro,Donets'k,Ukraine,False
+2012-06-16 00:00:00,Cameroon,Guinea-Bissau,1,0,African Cup of Nations qualification,Yaound√©,Cameroon,False
+2012-06-16 00:00:00,Cape Verde,Madagascar,3,1,African Cup of Nations qualification,Praia,Cape Verde,False
+2012-06-16 00:00:00,Greece,Russia,1,0,UEFA Euro,Warsaw,Poland,True
+2012-06-16 00:00:00,Malawi,Chad,2,0,African Cup of Nations qualification,Blantyre,Malawi,False
+2012-06-16 00:00:00,Namibia,Liberia,0,0,African Cup of Nations qualification,Windhoek,Namibia,False
+2012-06-16 00:00:00,Nigeria,Rwanda,2,0,African Cup of Nations qualification,Calabar,Nigeria,False
+2012-06-16 00:00:00,Poland,Czech Republic,0,1,UEFA Euro,Wroc≈Çaw,Poland,False
+2012-06-16 00:00:00,Sierra Leone,S√£o Tom√© and Pr√≠ncipe,4,2,African Cup of Nations qualification,Freetown,Sierra Leone,False
+2012-06-16 00:00:00,Uganda,Congo,4,0,African Cup of Nations qualification,Kampala,Uganda,False
+2012-06-17 00:00:00,Benin,Ethiopia,1,1,African Cup of Nations qualification,Cotonou,Benin,False
+2012-06-17 00:00:00,DR Congo,Seychelles,3,0,African Cup of Nations qualification,Kinshasa,DR Congo,False
+2012-06-17 00:00:00,Denmark,Germany,1,2,UEFA Euro,Lviv,Ukraine,True
+2012-06-17 00:00:00,Portugal,Netherlands,2,1,UEFA Euro,Kharkiv,Ukraine,True
+2012-06-17 00:00:00,Togo,Kenya,1,0,African Cup of Nations qualification,Lom√©,Togo,False
+2012-06-17 00:00:00,Zimbabwe,Burundi,1,0,African Cup of Nations qualification,Harare,Zimbabwe,False
+2012-06-18 00:00:00,Croatia,Spain,0,1,UEFA Euro,Gda≈Ñsk,Poland,True
+2012-06-18 00:00:00,Italy,Republic of Ireland,2,0,UEFA Euro,Pozna≈Ñ,Poland,True
+2012-06-18 00:00:00,Saudi Arabia,Morocco,4,0,Friendly,Taif,Saudi Arabia,False
+2012-06-18 00:00:00,Yemen,Palestine,1,2,Friendly,Sana'a,Yemen,False
+2012-06-19 00:00:00,Sweden,France,2,0,UEFA Euro,Kyiv,Ukraine,True
+2012-06-19 00:00:00,Ukraine,England,0,1,UEFA Euro,Donets'k,Ukraine,False
+2012-06-21 00:00:00,Czech Republic,Portugal,0,1,UEFA Euro,Warsaw,Poland,True
+2012-06-22 00:00:00,Germany,Greece,4,2,UEFA Euro,Gda≈Ñsk,Poland,True
+2012-06-22 00:00:00,Saudi Arabia,Kuwait,4,0,Arab Cup,Taif,Saudi Arabia,False
+2012-06-23 00:00:00,Libya,Yemen,3,1,Arab Cup,Jeddah,Saudi Arabia,True
+2012-06-23 00:00:00,Spain,France,2,0,UEFA Euro,Donets'k,Ukraine,True
+2012-06-24 00:00:00,England,Italy,0,0,UEFA Euro,Kyiv,Ukraine,True
+2012-06-24 00:00:00,Iraq,Lebanon,1,0,Arab Cup,Jeddah,Saudi Arabia,True
+2012-06-25 00:00:00,Kuwait,Palestine,2,0,Arab Cup,Taif,Saudi Arabia,True
+2012-06-26 00:00:00,Bahrain,Yemen,0,2,Arab Cup,Jeddah,Saudi Arabia,True
+2012-06-27 00:00:00,Lebanon,Sudan,0,2,Arab Cup,Jeddah,Saudi Arabia,True
+2012-06-27 00:00:00,Portugal,Spain,0,0,UEFA Euro,Donets'k,Ukraine,True
+2012-06-28 00:00:00,Germany,Italy,1,2,UEFA Euro,Warsaw,Poland,True
+2012-06-28 00:00:00,Saudi Arabia,Palestine,2,2,Arab Cup,Taif,Saudi Arabia,False
+2012-06-29 00:00:00,Libya,Bahrain,2,1,Arab Cup,Taif,Saudi Arabia,True
+2012-06-30 00:00:00,Central African Republic,Egypt,1,1,African Cup of Nations qualification,Bangui,Central African Republic,False
+2012-06-30 00:00:00,Sudan,Iraq,1,1,Arab Cup,Jeddah,Saudi Arabia,True
+2012-07-01 00:00:00,Spain,Italy,4,0,UEFA Euro,Kyiv,Ukraine,True
+2012-07-03 00:00:00,Saudi Arabia,Libya,0,2,Arab Cup,Jeddah,Saudi Arabia,False
+2012-07-05 00:00:00,Saudi Arabia,Iraq,0,1,Arab Cup,Jeddah,Saudi Arabia,False
+2012-07-06 00:00:00,Malawi,Zambia,1,0,Friendly,Blantyre,Malawi,False
+2012-07-07 00:00:00,British Virgin Islands,Anguilla,1,0,Friendly,Road Town,British Virgin Islands,False
+2012-07-10 00:00:00,South Sudan,Uganda,2,2,Friendly,Juba,South Sudan,False
+2012-07-12 00:00:00,Kenya,Botswana,3,1,Friendly,Nairobi,Kenya,False
+2012-07-13 00:00:00,Aruba,Cura√ßao,3,2,ABCS Tournament,Oranjestad,Aruba,False
+2012-07-13 00:00:00,Suriname,Bonaire,8,0,ABCS Tournament,Oranjestad,Aruba,True
+2012-07-15 00:00:00,Aruba,Suriname,1,0,ABCS Tournament,Oranjestad,Aruba,False
+2012-07-15 00:00:00,Bonaire,Cura√ßao,2,9,ABCS Tournament,Oranjestad,Aruba,True
+2012-07-16 00:00:00,Botswana,Zimbabwe,1,0,Friendly,Molepolole,Botswana,False
+2012-07-17 00:00:00,Zimbabwe,Lesotho,5,3,Friendly,Molepolole,Botswana,True
+2012-07-18 00:00:00,Botswana,Lesotho,0,0,Friendly,Molepolole,Botswana,False
+2012-07-18 00:00:00,Guam,Northern Mariana Islands,3,1,EAFF Championship,Yona,Guam,False
+2012-07-20 00:00:00,Northern Mariana Islands,Macau,1,5,EAFF Championship,Yona,Guam,True
+2012-07-22 00:00:00,Guam,Macau,3,0,EAFF Championship,Yona,Guam,False
+2012-08-08 00:00:00,Zambia,Zimbabwe,2,1,Friendly,Ndola,Zambia,False
+2012-08-11 00:00:00,El Salvador,Guatemala,1,0,Friendly,Carson,United States,True
+2012-08-13 00:00:00,Jordan,Uzbekistan,0,1,Friendly,Amman,Jordan,False
+2012-08-14 00:00:00,Burkina Faso,Togo,3,0,Friendly,Saint-Leu-la-For√™t,France,True
+2012-08-14 00:00:00,Liechtenstein,Andorra,1,0,Friendly,Vaduz,Liechtenstein,False
+2012-08-14 00:00:00,San Marino,Malta,2,3,Friendly,Serravalle,San Marino,False
+2012-08-15 00:00:00,Albania,Moldova,0,0,Friendly,Tirana,Albania,False
+2012-08-15 00:00:00,Angola,Mozambique,2,0,Friendly,Benguela,Angola,False
+2012-08-15 00:00:00,Armenia,Belarus,1,2,Friendly,Yerevan,Armenia,False
+2012-08-15 00:00:00,Austria,Turkey,2,0,Friendly,Vienna,Austria,False
+2012-08-15 00:00:00,Azerbaijan,Bahrain,3,0,Friendly,Bakƒ±xanov,Azerbaijan,False
+2012-08-15 00:00:00,Belgium,Netherlands,4,2,Friendly,Brussels,Belgium,False
+2012-08-15 00:00:00,Bolivia,Guyana,2,0,Friendly,Santa Cruz,Bolivia,False
+2012-08-15 00:00:00,Botswana,Tanzania,3,3,Friendly,Molepolole,Botswana,False
+2012-08-15 00:00:00,Bulgaria,Cyprus,1,0,Friendly,Sofia,Bulgaria,False
+2012-08-15 00:00:00,Canada,Trinidad and Tobago,2,0,Friendly,Lauderhill,United States,True
+2012-08-15 00:00:00,China PR,Ghana,1,1,Friendly,Xi'an,China PR,False
+2012-08-15 00:00:00,Costa Rica,Peru,0,1,Friendly,San Jos√©,Costa Rica,False
+2012-08-15 00:00:00,Croatia,Switzerland,2,4,Friendly,Split,Croatia,False
+2012-08-15 00:00:00,Denmark,Slovakia,1,3,Friendly,Odense,Denmark,False
+2012-08-15 00:00:00,Ecuador,Chile,3,0,Friendly,New York,United States,True
+2012-08-15 00:00:00,El Salvador,Jamaica,0,2,Friendly,Washington,United States,True
+2012-08-15 00:00:00,England,Italy,2,1,Friendly,Berne,Switzerland,True
+2012-08-15 00:00:00,Equatorial Guinea,Liberia,1,0,Friendly,Malabo,Equatorial Guinea,False
+2012-08-15 00:00:00,Estonia,Poland,1,0,Friendly,Tallinn,Estonia,False
+2012-08-15 00:00:00,France,Uruguay,0,0,Friendly,Le Havre,France,False
+2012-08-15 00:00:00,Germany,Argentina,1,3,Friendly,Frankfurt am Main,Germany,False
+2012-08-15 00:00:00,Guatemala,Paraguay,3,3,Friendly,Washington,United States,True
+2012-08-15 00:00:00,Hungary,Israel,1,1,Friendly,Budapest,Hungary,False
+2012-08-15 00:00:00,Iceland,Faroe Islands,2,0,Friendly,Reykjav√≠k,Iceland,False
+2012-08-15 00:00:00,Iran,Tunisia,2,2,Friendly,Kecskem√©t,Hungary,True
+2012-08-15 00:00:00,Japan,Venezuela,1,1,Friendly,Sapporo,Japan,False
+2012-08-15 00:00:00,Jordan,Uzbekistan,2,0,Friendly,Amman,Jordan,False
+2012-08-15 00:00:00,South Korea,Zambia,2,1,Friendly,Anyang,South Korea,False
+2012-08-15 00:00:00,Luxembourg,Georgia,1,2,Friendly,Differdange,Luxembourg,False
+2012-08-15 00:00:00,North Macedonia,Lithuania,1,0,Friendly,Skopje,North Macedonia,False
+2012-08-15 00:00:00,Mexico,United States,0,1,Friendly,Mexico City,Mexico,False
+2012-08-15 00:00:00,Montenegro,Latvia,2,0,Friendly,Podgorica,Montenegro,False
+2012-08-15 00:00:00,Morocco,Guinea,1,2,Friendly,Rabat,Morocco,False
+2012-08-15 00:00:00,Niger,Nigeria,0,0,Friendly,Niamey,Niger,False
+2012-08-15 00:00:00,Northern Ireland,Finland,3,3,Friendly,Belfast,Northern Ireland,False
+2012-08-15 00:00:00,Norway,Greece,2,3,Friendly,Oslo,Norway,False
+2012-08-15 00:00:00,Oman,Egypt,1,1,Friendly,Salalah,Oman,False
+2012-08-15 00:00:00,Portugal,Panama,2,0,Friendly,Faro,Portugal,False
+2012-08-15 00:00:00,Puerto Rico,Spain,1,2,Friendly,Bayam√≥n,Puerto Rico,False
+2012-08-15 00:00:00,Russia,Ivory Coast,1,1,Friendly,Moscow,Russia,False
+2012-08-15 00:00:00,Scotland,Australia,3,1,Friendly,Edinburgh,Scotland,False
+2012-08-15 00:00:00,Serbia,Republic of Ireland,0,0,Friendly,Belgrade,Serbia,False
+2012-08-15 00:00:00,Singapore,Hong Kong,2,0,Friendly,Jurong,Singapore,False
+2012-08-15 00:00:00,Slovenia,Romania,4,3,Friendly,Celje,Slovenia,False
+2012-08-15 00:00:00,Sweden,Brazil,0,3,Friendly,Solna,Sweden,False
+2012-08-15 00:00:00,Ukraine,Czech Republic,0,0,Friendly,Lviv,Ukraine,False
+2012-08-15 00:00:00,Wales,Bosnia and Herzegovina,0,2,Friendly,Llanelli,Wales,False
+2012-08-22 00:00:00,India,Syria,2,1,Nehru Cup,New Delhi,India,False
+2012-08-23 00:00:00,Maldives,Nepal,2,1,Nehru Cup,New Delhi,India,True
+2012-08-24 00:00:00,Syria,Cameroon,2,2,Nehru Cup,New Delhi,India,True
+2012-08-25 00:00:00,India,Maldives,3,0,Nehru Cup,New Delhi,India,False
+2012-08-26 00:00:00,Botswana,Uganda,0,0,Friendly,Gaborone,Botswana,False
+2012-08-26 00:00:00,Libya,Sudan,3,0,Friendly,Tunis,Tunisia,True
+2012-08-26 00:00:00,Nepal,Cameroon,0,5,Nehru Cup,New Delhi,India,True
+2012-08-27 00:00:00,Maldives,Syria,2,1,Nehru Cup,New Delhi,India,True
+2012-08-28 00:00:00,India,Nepal,0,0,Nehru Cup,New Delhi,India,False
+2012-08-29 00:00:00,Cameroon,Maldives,3,1,Nehru Cup,New Delhi,India,True
+2012-08-30 00:00:00,Syria,Nepal,2,0,Nehru Cup,New Delhi,India,True
+2012-08-31 00:00:00,India,Cameroon,0,1,Nehru Cup,New Delhi,India,False
+2012-09-02 00:00:00,India,Cameroon,2,2,Nehru Cup,New Delhi,India,False
+2012-09-04 00:00:00,Liberia,Malawi,1,0,Friendly,Paynesville,Liberia,False
+2012-09-05 00:00:00,Cambodia,Philippines,0,0,Friendly,Phnom Penh,Cambodia,False
+2012-09-05 00:00:00,Jordan,Iran,0,0,Friendly,Amman,Jordan,False
+2012-09-05 00:00:00,Martinique,British Virgin Islands,16,0,CFU Caribbean Cup qualification,Le Lamentin,Martinique,False
+2012-09-05 00:00:00,Montserrat,Suriname,1,7,CFU Caribbean Cup qualification,Le Lamentin,Martinique,True
+2012-09-06 00:00:00,Japan,United Arab Emirates,1,0,Friendly,Niigata,Japan,False
+2012-09-06 00:00:00,Lebanon,Australia,0,3,Friendly,Tripoli,Lebanon,False
+2012-09-06 00:00:00,Qatar,Tajikistan,1,2,Friendly,Ingolstadt,Germany,True
+2012-09-06 00:00:00,Sweden,China PR,1,0,Friendly,Helsingborg,Sweden,False
+2012-09-07 00:00:00,Albania,Cyprus,3,1,FIFA World Cup qualification,Tirana,Albania,False
+2012-09-07 00:00:00,Andorra,Hungary,0,5,FIFA World Cup qualification,Sant Juli√† de L√≤ria,Andorra,False
+2012-09-07 00:00:00,Argentina,Paraguay,3,1,FIFA World Cup qualification,C√≥rdoba,Argentina,False
+2012-09-07 00:00:00,Azerbaijan,Israel,1,1,FIFA World Cup qualification,Baku,Azerbaijan,False
+2012-09-07 00:00:00,Bermuda,Puerto Rico,1,2,CFU Caribbean Cup qualification,Port-au-Prince,Haiti,True
+2012-09-07 00:00:00,Brazil,South Africa,1,0,Friendly,S√£o Paulo,Brazil,False
+2012-09-07 00:00:00,British Virgin Islands,Suriname,0,4,CFU Caribbean Cup qualification,Rivi√®re-Pilote,Martinique,True
+2012-09-07 00:00:00,Bulgaria,Italy,2,2,FIFA World Cup qualification,Sofia,Bulgaria,False
+2012-09-07 00:00:00,Canada,Panama,1,0,FIFA World Cup qualification,Toronto,Canada,False
+2012-09-07 00:00:00,Colombia,Uruguay,4,0,FIFA World Cup qualification,Barranquilla,Colombia,False
+2012-09-07 00:00:00,Costa Rica,Mexico,0,2,FIFA World Cup qualification,San Jos√©,Costa Rica,False
+2012-09-07 00:00:00,Croatia,North Macedonia,1,0,FIFA World Cup qualification,Zagreb,Croatia,False
+2012-09-07 00:00:00,Cuba,Honduras,0,3,FIFA World Cup qualification,Havana,Cuba,False
+2012-09-07 00:00:00,Ecuador,Bolivia,1,0,FIFA World Cup qualification,Quito,Ecuador,False
+2012-09-07 00:00:00,El Salvador,Guyana,2,2,FIFA World Cup qualification,San Salvador,El Salvador,False
+2012-09-07 00:00:00,Estonia,Romania,0,2,FIFA World Cup qualification,Tallinn,Estonia,False
+2012-09-07 00:00:00,Finland,France,0,1,FIFA World Cup qualification,Helsinki,Finland,False
+2012-09-07 00:00:00,Georgia,Belarus,1,0,FIFA World Cup qualification,Tbilisi,Georgia,False
+2012-09-07 00:00:00,Germany,Faroe Islands,3,0,FIFA World Cup qualification,Hanover,Germany,False
+2012-09-07 00:00:00,Guatemala,Antigua and Barbuda,3,1,FIFA World Cup qualification,Guatemala,Guatemala,False
+2012-09-07 00:00:00,Haiti,Saint Martin,7,0,CFU Caribbean Cup qualification,Port-au-Prince,Haiti,False
+2012-09-07 00:00:00,Iceland,Norway,2,0,FIFA World Cup qualification,Reykjav√≠k,Iceland,False
+2012-09-07 00:00:00,Jamaica,United States,2,1,FIFA World Cup qualification,Kingston,Jamaica,False
+2012-09-07 00:00:00,Kazakhstan,Republic of Ireland,1,2,FIFA World Cup qualification,Astana,Kazakhstan,False
+2012-09-07 00:00:00,Latvia,Greece,1,2,FIFA World Cup qualification,Riga,Latvia,False
+2012-09-07 00:00:00,Liechtenstein,Bosnia and Herzegovina,1,8,FIFA World Cup qualification,Vaduz,Liechtenstein,False
+2012-09-07 00:00:00,Lithuania,Slovakia,1,1,FIFA World Cup qualification,Vilnius,Lithuania,False
+2012-09-07 00:00:00,Luxembourg,Portugal,1,2,FIFA World Cup qualification,Luxembourg,Luxembourg,False
+2012-09-07 00:00:00,Malta,Armenia,0,1,FIFA World Cup qualification,Attard,Malta,False
+2012-09-07 00:00:00,Martinique,Montserrat,5,0,CFU Caribbean Cup qualification,Rivi√®re-Pilote,Martinique,False
+2012-09-07 00:00:00,Moldova,England,0,5,FIFA World Cup qualification,Chi»ôinƒÉu,Moldova,False
+2012-09-07 00:00:00,Montenegro,Poland,2,2,FIFA World Cup qualification,Podgorica,Montenegro,False
+2012-09-07 00:00:00,Netherlands,Turkey,2,0,FIFA World Cup qualification,Amsterdam,Netherlands,False
+2012-09-07 00:00:00,New Caledonia,New Zealand,0,2,FIFA World Cup qualification,Noum√©a,New Caledonia,False
+2012-09-07 00:00:00,Peru,Venezuela,2,1,FIFA World Cup qualification,Lima,Peru,False
+2012-09-07 00:00:00,Russia,Northern Ireland,2,0,FIFA World Cup qualification,Moscow,Russia,False
+2012-09-07 00:00:00,Singapore,Philippines,0,2,Friendly,Jurong,Singapore,False
+2012-09-07 00:00:00,Slovenia,Switzerland,0,2,FIFA World Cup qualification,Ljubljana,Slovenia,False
+2012-09-07 00:00:00,Solomon Islands,Tahiti,2,0,FIFA World Cup qualification,Honiara,Solomon Islands,False
+2012-09-07 00:00:00,Spain,Saudi Arabia,5,0,Friendly,Pontevedra,Spain,False
+2012-09-07 00:00:00,Uzbekistan,Kuwait,3,0,Friendly,Tashkent,Uzbekistan,False
+2012-09-07 00:00:00,Wales,Belgium,0,2,FIFA World Cup qualification,Cardiff,Wales,False
+2012-09-08 00:00:00,Cape Verde,Cameroon,2,0,African Cup of Nations qualification,Praia,Cape Verde,False
+2012-09-08 00:00:00,Central African Republic,Burkina Faso,1,0,African Cup of Nations qualification,Bangui,Central African Republic,False
+2012-09-08 00:00:00,DR Congo,Equatorial Guinea,4,0,African Cup of Nations qualification,Kinshasa,DR Congo,False
+2012-09-08 00:00:00,Denmark,Czech Republic,0,0,FIFA World Cup qualification,Copenhagen,Denmark,False
+2012-09-08 00:00:00,Gabon,Togo,1,1,African Cup of Nations qualification,Libreville,Gabon,False
+2012-09-08 00:00:00,Ghana,Malawi,2,0,African Cup of Nations qualification,Accra,Ghana,False
+2012-09-08 00:00:00,Ivory Coast,Senegal,4,2,African Cup of Nations qualification,Abidjan,Ivory Coast,False
+2012-09-08 00:00:00,Liberia,Nigeria,2,2,African Cup of Nations qualification,Paynesville,Liberia,False
+2012-09-08 00:00:00,Mali,Botswana,3,0,African Cup of Nations qualification,Bamako,Mali,False
+2012-09-08 00:00:00,Scotland,Serbia,0,0,FIFA World Cup qualification,Glasgow,Scotland,False
+2012-09-08 00:00:00,Sierra Leone,Tunisia,2,2,African Cup of Nations qualification,Freetown,Sierra Leone,False
+2012-09-08 00:00:00,Sudan,Ethiopia,5,3,African Cup of Nations qualification,Khartoum,Sudan,False
+2012-09-08 00:00:00,Zambia,Uganda,1,0,African Cup of Nations qualification,Ndola,Zambia,False
+2012-09-09 00:00:00,British Virgin Islands,Montserrat,0,7,CFU Caribbean Cup qualification,Fort-de-France,Martinique,True
+2012-09-09 00:00:00,Guinea,Niger,1,0,African Cup of Nations qualification,Conakry,Guinea,False
+2012-09-09 00:00:00,Haiti,Bermuda,3,1,CFU Caribbean Cup qualification,Port-au-Prince,Haiti,False
+2012-09-09 00:00:00,Libya,Algeria,0,1,African Cup of Nations qualification,Casablanca,Morocco,True
+2012-09-09 00:00:00,Martinique,Suriname,2,2,CFU Caribbean Cup qualification,Fort-de-France,Martinique,False
+2012-09-09 00:00:00,Mozambique,Morocco,2,0,African Cup of Nations qualification,Maputo,Mozambique,False
+2012-09-09 00:00:00,Puerto Rico,Saint Martin,9,0,CFU Caribbean Cup qualification,Port-au-Prince,Haiti,True
+2012-09-09 00:00:00,Zimbabwe,Angola,3,1,African Cup of Nations qualification,Harare,Zimbabwe,False
+2012-09-10 00:00:00,Brazil,China PR,8,0,Friendly,Recife,Brazil,False
+2012-09-10 00:00:00,Indonesia,North Korea,0,2,Friendly,Jakarta,Indonesia,False
+2012-09-10 00:00:00,Laos,Philippines,2,1,Friendly,Vientiane,Laos,False
+2012-09-11 00:00:00,Antigua and Barbuda,Guatemala,0,1,FIFA World Cup qualification,St. John's,Antigua and Barbuda,False
+2012-09-11 00:00:00,Austria,Germany,1,2,FIFA World Cup qualification,Vienna,Austria,False
+2012-09-11 00:00:00,Belgium,Croatia,1,1,FIFA World Cup qualification,Brussels,Belgium,False
+2012-09-11 00:00:00,Bosnia and Herzegovina,Latvia,4,1,FIFA World Cup qualification,Zenica,Bosnia and Herzegovina,False
+2012-09-11 00:00:00,Bulgaria,Armenia,1,0,FIFA World Cup qualification,Sofia,Bulgaria,False
+2012-09-11 00:00:00,Myanmar,Singapore,1,1,Friendly,Yangon,Myanmar,False
+2012-09-11 00:00:00,Chile,Colombia,1,3,FIFA World Cup qualification,Santiago,Chile,False
+2012-09-11 00:00:00,Cyprus,Iceland,1,0,FIFA World Cup qualification,Larnaca,Cyprus,False
+2012-09-11 00:00:00,Czech Republic,Finland,0,1,Friendly,Teplice,Czech Republic,False
+2012-09-11 00:00:00,England,Ukraine,1,1,FIFA World Cup qualification,London,England,False
+2012-09-11 00:00:00,France,Belarus,3,1,FIFA World Cup qualification,Saint-Denis,France,False
+2012-09-11 00:00:00,Gabon,Saudi Arabia,1,0,Friendly,Amiens,France,True
+2012-09-11 00:00:00,Georgia,Spain,0,1,FIFA World Cup qualification,Tbilisi,Georgia,False
+2012-09-11 00:00:00,Greece,Lithuania,2,0,FIFA World Cup qualification,Piraeus,Greece,False
+2012-09-11 00:00:00,Guyana,El Salvador,2,3,FIFA World Cup qualification,Providence,Guyana,False
+2012-09-11 00:00:00,Haiti,Puerto Rico,2,1,CFU Caribbean Cup qualification,Port-au-Prince,Haiti,False
+2012-09-11 00:00:00,Honduras,Cuba,1,0,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2012-09-11 00:00:00,Hungary,Netherlands,1,4,FIFA World Cup qualification,Budapest,Hungary,False
+2012-09-11 00:00:00,Republic of Ireland,Oman,4,1,Friendly,London,England,True
+2012-09-11 00:00:00,Israel,Russia,0,4,FIFA World Cup qualification,Ramat-Gan,Israel,False
+2012-09-11 00:00:00,Italy,Malta,2,0,FIFA World Cup qualification,Modena,Italy,False
+2012-09-11 00:00:00,Japan,Iraq,1,0,FIFA World Cup qualification,Saitama,Japan,False
+2012-09-11 00:00:00,Jordan,Australia,2,1,FIFA World Cup qualification,Amman,Jordan,False
+2012-09-11 00:00:00,Lebanon,Iran,1,0,FIFA World Cup qualification,Beirut,Lebanon,False
+2012-09-11 00:00:00,Liberia,Ghana,2,0,Friendly,Paynesville,Liberia,False
+2012-09-11 00:00:00,Malaysia,Vietnam,0,2,Friendly,Shah Alam,Malaysia,False
+2012-09-11 00:00:00,Mexico,Costa Rica,1,0,FIFA World Cup qualification,Mexico City,Mexico,False
+2012-09-11 00:00:00,New Zealand,Solomon Islands,6,1,FIFA World Cup qualification,Auckland,New Zealand,False
+2012-09-11 00:00:00,Northern Ireland,Luxembourg,1,1,FIFA World Cup qualification,Belfast,Northern Ireland,False
+2012-09-11 00:00:00,Norway,Slovenia,2,1,FIFA World Cup qualification,Oslo,Norway,False
+2012-09-11 00:00:00,Panama,Canada,2,0,FIFA World Cup qualification,Panama City,Panama,False
+2012-09-11 00:00:00,Paraguay,Venezuela,0,2,FIFA World Cup qualification,Asunci√≥n,Paraguay,False
+2012-09-11 00:00:00,Peru,Argentina,1,1,FIFA World Cup qualification,Lima,Peru,False
+2012-09-11 00:00:00,Poland,Moldova,2,0,FIFA World Cup qualification,Wroc≈Çaw,Poland,False
+2012-09-11 00:00:00,Portugal,Azerbaijan,3,0,FIFA World Cup qualification,Braga,Portugal,False
+2012-09-11 00:00:00,Romania,Andorra,4,0,FIFA World Cup qualification,Bucharest,Romania,False
+2012-09-11 00:00:00,San Marino,Montenegro,0,6,FIFA World Cup qualification,Serravalle,San Marino,False
+2012-09-11 00:00:00,Scotland,North Macedonia,1,1,FIFA World Cup qualification,Glasgow,Scotland,False
+2012-09-11 00:00:00,Serbia,Wales,6,1,FIFA World Cup qualification,Novi Sad,Serbia,False
+2012-09-11 00:00:00,Slovakia,Liechtenstein,2,0,FIFA World Cup qualification,Bratislava,Slovakia,False
+2012-09-11 00:00:00,South Africa,Mozambique,2,0,Friendly,Nelspruit,South Africa,False
+2012-09-11 00:00:00,Saint Martin,Bermuda,0,8,CFU Caribbean Cup qualification,Port-au-Prince,Haiti,True
+2012-09-11 00:00:00,Sweden,Kazakhstan,2,0,FIFA World Cup qualification,Malm√∂,Sweden,False
+2012-09-11 00:00:00,Switzerland,Albania,2,0,FIFA World Cup qualification,Lucerne,Switzerland,False
+2012-09-11 00:00:00,Tahiti,New Caledonia,0,4,FIFA World Cup qualification,Pirae,French Polynesia,True
+2012-09-11 00:00:00,Turkey,Estonia,3,0,FIFA World Cup qualification,Istanbul,Turkey,False
+2012-09-11 00:00:00,United Arab Emirates,Kuwait,3,0,Friendly,Dubai,United Arab Emirates,False
+2012-09-11 00:00:00,Uruguay,Ecuador,1,1,FIFA World Cup qualification,Montevideo,Uruguay,False
+2012-09-11 00:00:00,United States,Jamaica,1,0,FIFA World Cup qualification,Columbus,United States,False
+2012-09-11 00:00:00,Uzbekistan,South Korea,2,2,FIFA World Cup qualification,Tashkent,Uzbekistan,False
+2012-09-12 00:00:00,Thailand,Laos,2,1,Friendly,Bangkok,Thailand,False
+2012-09-13 00:00:00,Senegal,Ivory Coast,0,2,African Cup of Nations qualification,Dakar,Senegal,False
+2012-09-13 00:00:00,Uganda,Zambia,1,0,African Cup of Nations qualification,Kampala,Uganda,False
+2012-09-14 00:00:00,Equatorial Guinea,DR Congo,2,1,African Cup of Nations qualification,Malabo,Equatorial Guinea,False
+2012-09-16 00:00:00,French Guiana,Haiti,1,2,Friendly,Cayenne,French Guiana,False
+2012-09-19 00:00:00,Brazil,Argentina,2,1,Supercl√°sico de las Am√©ricas,Goi√¢nia,Brazil,False
+2012-09-20 00:00:00,Nepal,Bangladesh,1,1,Friendly,Kathmandu,Nepal,False
+2012-09-22 00:00:00,Guadeloupe,Saint Pierre and Miquelon,13,0,African Nations Championship,Versailles,France,True
+2012-09-22 00:00:00,Martinique,New Caledonia,2,0,African Nations Championship,Issy-les-Moulineaux,France,True
+2012-09-22 00:00:00,R√©union,French Guiana,2,0,African Nations Championship,Versailles,France,True
+2012-09-22 00:00:00,Tahiti,Mayotte,1,3,African Nations Championship,Issy-les-Moulineaux,France,True
+2012-09-23 00:00:00,Aruba,Dominican Republic,2,2,CFU Caribbean Cup qualification,Bridgetown,Barbados,True
+2012-09-23 00:00:00,Barbados,Dominica,1,0,CFU Caribbean Cup qualification,Bridgetown,Barbados,False
+2012-09-24 00:00:00,Guadeloupe,French Guiana,4,2,African Nations Championship,Saint-Ouen,France,True
+2012-09-24 00:00:00,Martinique,Tahiti,2,3,African Nations Championship,Corbeil-Essonnes,France,True
+2012-09-24 00:00:00,New Caledonia,Mayotte,0,2,African Nations Championship,Corbeil-Essonnes,France,True
+2012-09-24 00:00:00,R√©union,Saint Pierre and Miquelon,10,0,African Nations Championship,Saint-Ouen,France,True
+2012-09-25 00:00:00,Barbados,Dominican Republic,0,1,CFU Caribbean Cup qualification,Bridgetown,Barbados,False
+2012-09-25 00:00:00,Dominica,Aruba,3,2,CFU Caribbean Cup qualification,Bridgetown,Barbados,True
+2012-09-25 00:00:00,Philippines,Guam,1,0,Friendly,Manila,Philippines,False
+2012-09-25 00:00:00,Abkhazia,Artsakh,1,1,Friendly,Sukhumi,Georgia,False
+2012-09-26 00:00:00,French Guiana,Saint Pierre and Miquelon,11,1,African Nations Championship,Saint-Ouen-l'Aum√¥ne,France,True
+2012-09-26 00:00:00,Martinique,Mayotte,3,0,African Nations Championship,Saint-Ouen-l'Aum√¥ne,France,True
+2012-09-26 00:00:00,New Caledonia,Tahiti,0,1,African Nations Championship,Franconville,France,True
+2012-09-26 00:00:00,R√©union,Guadeloupe,2,1,African Nations Championship,Franconville,France,True
+2012-09-27 00:00:00,Barbados,Aruba,2,1,CFU Caribbean Cup qualification,Bridgetown,Barbados,False
+2012-09-27 00:00:00,Dominican Republic,Dominica,2,1,CFU Caribbean Cup qualification,Bridgetown,Barbados,True
+2012-09-27 00:00:00,Philippines,Macau,5,0,Friendly,Manila,Philippines,False
+2012-09-28 00:00:00,French Guiana,Tahiti,2,1,African Nations Championship,Clairefontaine-en-Yvelines,France,True
+2012-09-28 00:00:00,Oman,Yemen,2,1,Friendly,Muscat,Oman,False
+2012-09-28 00:00:00,Saint Pierre and Miquelon,New Caledonia,1,16,African Nations Championship,Clairefontaine-en-Yvelines,France,True
+2012-09-29 00:00:00,Guadeloupe,Mayotte,1,0,African Nations Championship,Saint-Gratien,France,True
+2012-09-29 00:00:00,Macau,Guam,0,3,Friendly,Manila,Philippines,True
+2012-09-29 00:00:00,Philippines,Taiwan,3,1,Friendly,Manila,Philippines,False
+2012-09-29 00:00:00,R√©union,Martinique,2,2,African Nations Championship,Saint-Gratien,France,True
+2012-10-05 00:00:00,Myanmar,Brunei,1,0,AFF Championship,Yangon,Myanmar,False
+2012-10-05 00:00:00,Cambodia,Timor-Leste,1,5,AFF Championship,Yangon,Myanmar,True
+2012-10-07 00:00:00,Myanmar,Timor-Leste,2,1,AFF Championship,Yangon,Myanmar,False
+2012-10-07 00:00:00,Laos,Cambodia,1,0,AFF Championship,Yangon,Myanmar,True
+2012-10-09 00:00:00,Cambodia,Brunei,2,3,AFF Championship,Yangon,Myanmar,True
+2012-10-09 00:00:00,Timor-Leste,Laos,3,1,AFF Championship,Yangon,Myanmar,True
+2012-10-10 00:00:00,French Guiana,Trinidad and Tobago,1,4,CFU Caribbean Cup qualification,Basseterre,Saint Kitts and Nevis,True
+2012-10-11 00:00:00,Brazil,Iraq,6,0,Friendly,Malm√∂,Sweden,True
+2012-10-11 00:00:00,Brunei,Laos,1,3,AFF Championship,Yangon,Myanmar,True
+2012-10-11 00:00:00,Myanmar,Cambodia,3,0,AFF Championship,Yangon,Myanmar,False
+2012-10-11 00:00:00,Kuwait,Syria,1,1,Friendly,Muscat,Oman,True
+2012-10-12 00:00:00,Albania,Iceland,1,2,FIFA World Cup qualification,Tirana,Albania,False
+2012-10-12 00:00:00,Antigua and Barbuda,United States,1,2,FIFA World Cup qualification,St. John's,Antigua and Barbuda,False
+2012-10-12 00:00:00,Argentina,Uruguay,3,0,FIFA World Cup qualification,Mendoza,Argentina,False
+2012-10-12 00:00:00,Armenia,Italy,1,3,FIFA World Cup qualification,Yerevan,Armenia,False
+2012-10-12 00:00:00,Bahrain,Philippines,0,0,Friendly,Arad,Bahrain,False
+2012-10-12 00:00:00,Belarus,Spain,0,4,FIFA World Cup qualification,Minsk,Belarus,False
+2012-10-12 00:00:00,Bolivia,Peru,1,1,FIFA World Cup qualification,La Paz,Bolivia,False
+2012-10-12 00:00:00,Bulgaria,Denmark,1,1,FIFA World Cup qualification,Sofia,Bulgaria,False
+2012-10-12 00:00:00,Canada,Cuba,3,0,FIFA World Cup qualification,Toronto,Canada,False
+2012-10-12 00:00:00,Colombia,Paraguay,2,0,FIFA World Cup qualification,Barranquilla,Colombia,False
+2012-10-12 00:00:00,Czech Republic,Malta,3,1,FIFA World Cup qualification,Plze≈à,Czech Republic,False
+2012-10-12 00:00:00,Ecuador,Chile,3,1,FIFA World Cup qualification,Quito,Ecuador,False
+2012-10-12 00:00:00,Egypt,Congo,3,0,Friendly,Sharjah,United Arab Emirates,True
+2012-10-12 00:00:00,El Salvador,Costa Rica,0,1,FIFA World Cup qualification,San Salvador,El Salvador,False
+2012-10-12 00:00:00,England,San Marino,5,0,FIFA World Cup qualification,London,England,False
+2012-10-12 00:00:00,Estonia,Hungary,0,1,FIFA World Cup qualification,Tallinn,Estonia,False
+2012-10-12 00:00:00,Faroe Islands,Sweden,1,2,FIFA World Cup qualification,T√≥rshavn,Faroe Islands,False
+2012-10-12 00:00:00,Finland,Georgia,1,1,FIFA World Cup qualification,Helsinki,Finland,False
+2012-10-12 00:00:00,France,Japan,0,1,Friendly,Saint-Denis,France,False
+2012-10-12 00:00:00,French Guiana,Anguilla,4,1,CFU Caribbean Cup qualification,Basseterre,Saint Kitts and Nevis,True
+2012-10-12 00:00:00,Greece,Bosnia and Herzegovina,0,0,FIFA World Cup qualification,Piraeus,Greece,False
+2012-10-12 00:00:00,Guatemala,Jamaica,2,1,FIFA World Cup qualification,Guatemala,Guatemala,False
+2012-10-12 00:00:00,Guyana,Mexico,0,5,FIFA World Cup qualification,Houston,United States,True
+2012-10-12 00:00:00,Republic of Ireland,Germany,1,6,FIFA World Cup qualification,Dublin,Republic of Ireland,False
+2012-10-12 00:00:00,Kazakhstan,Austria,0,0,FIFA World Cup qualification,Astana,Kazakhstan,False
+2012-10-12 00:00:00,Lesotho,Eswatini,2,1,Friendly,Maseru,Lesotho,False
+2012-10-12 00:00:00,Liechtenstein,Lithuania,0,2,FIFA World Cup qualification,Vaduz,Liechtenstein,False
+2012-10-12 00:00:00,Luxembourg,Israel,0,6,FIFA World Cup qualification,Luxembourg,Luxembourg,False
+2012-10-12 00:00:00,North Macedonia,Croatia,1,2,FIFA World Cup qualification,Skopje,North Macedonia,False
+2012-10-12 00:00:00,Moldova,Ukraine,0,0,FIFA World Cup qualification,Chi»ôinƒÉu,Moldova,False
+2012-10-12 00:00:00,Netherlands,Andorra,3,0,FIFA World Cup qualification,Rotterdam,Netherlands,False
+2012-10-12 00:00:00,Panama,Honduras,0,0,FIFA World Cup qualification,Panama City,Panama,False
+2012-10-12 00:00:00,Poland,South Africa,1,0,Friendly,Warsaw,Poland,False
+2012-10-12 00:00:00,Russia,Portugal,1,0,FIFA World Cup qualification,Moscow,Russia,False
+2012-10-12 00:00:00,Serbia,Belgium,0,3,FIFA World Cup qualification,Belgrade,Serbia,False
+2012-10-12 00:00:00,Slovakia,Latvia,2,1,FIFA World Cup qualification,Bratislava,Slovakia,False
+2012-10-12 00:00:00,Slovenia,Cyprus,2,1,FIFA World Cup qualification,Maribor,Slovenia,False
+2012-10-12 00:00:00,Solomon Islands,New Caledonia,2,6,FIFA World Cup qualification,Honiara,Solomon Islands,False
+2012-10-12 00:00:00,Switzerland,Norway,1,1,FIFA World Cup qualification,Berne,Switzerland,False
+2012-10-12 00:00:00,Tahiti,New Zealand,0,2,FIFA World Cup qualification,Pirae,French Polynesia,True
+2012-10-12 00:00:00,Turkey,Romania,0,1,FIFA World Cup qualification,Istanbul,Turkey,False
+2012-10-12 00:00:00,United Arab Emirates,Uzbekistan,2,2,Friendly,Dubai,United Arab Emirates,False
+2012-10-12 00:00:00,Wales,Scotland,2,1,FIFA World Cup qualification,Cardiff,Wales,False
+2012-10-13 00:00:00,Brunei,Timor-Leste,2,1,AFF Championship,Yangon,Myanmar,True
+2012-10-13 00:00:00,Myanmar,Laos,0,0,AFF Championship,Yangon,Myanmar,False
+2012-10-13 00:00:00,Namibia,Rwanda,0,0,Friendly,Windhoek,Namibia,False
+2012-10-14 00:00:00,Lesotho,Eswatini,0,1,Friendly,Maseru,Lesotho,False
+2012-10-14 00:00:00,Saudi Arabia,Congo,3,2,Friendly,al-Ahsa,Saudi Arabia,False
+2012-10-14 00:00:00,Saint Kitts and Nevis,French Guiana,0,3,CFU Caribbean Cup qualification,Basseterre,Saint Kitts and Nevis,False
+2012-10-14 00:00:00,Trinidad and Tobago,Anguilla,10,0,CFU Caribbean Cup qualification,Basseterre,Saint Kitts and Nevis,True
+2012-10-16 00:00:00,Albania,Slovenia,1,0,FIFA World Cup qualification,Tirana,Albania,False
+2012-10-16 00:00:00,Andorra,Estonia,0,1,FIFA World Cup qualification,Sant Juli√† de L√≤ria,Andorra,False
+2012-10-16 00:00:00,Austria,Kazakhstan,4,0,FIFA World Cup qualification,Vienna,Austria,False
+2012-10-16 00:00:00,Belarus,Georgia,2,0,FIFA World Cup qualification,Minsk,Belarus,False
+2012-10-16 00:00:00,Belgium,Scotland,2,0,FIFA World Cup qualification,Brussels,Belgium,False
+2012-10-16 00:00:00,Bolivia,Uruguay,4,1,FIFA World Cup qualification,La Paz,Bolivia,False
+2012-10-16 00:00:00,Bosnia and Herzegovina,Lithuania,3,0,FIFA World Cup qualification,Zenica,Bosnia and Herzegovina,False
+2012-10-16 00:00:00,Chile,Argentina,1,2,FIFA World Cup qualification,Santiago,Chile,False
+2012-10-16 00:00:00,Colombia,Cameroon,3,0,Friendly,Barranquilla,Colombia,False
+2012-10-16 00:00:00,Costa Rica,Guyana,7,0,FIFA World Cup qualification,San Jos√©,Costa Rica,False
+2012-10-16 00:00:00,Croatia,Wales,2,0,FIFA World Cup qualification,Osijek,Croatia,False
+2012-10-16 00:00:00,Cuba,Panama,1,1,FIFA World Cup qualification,Havana,Cuba,False
+2012-10-16 00:00:00,Cyprus,Norway,1,3,FIFA World Cup qualification,Larnaca,Cyprus,False
+2012-10-16 00:00:00,Czech Republic,Bulgaria,0,0,FIFA World Cup qualification,Prague,Czech Republic,False
+2012-10-16 00:00:00,Egypt,Tunisia,0,1,Friendly,Abu Dhabi,United Arab Emirates,True
+2012-10-16 00:00:00,Faroe Islands,Republic of Ireland,1,4,FIFA World Cup qualification,T√≥rshavn,Faroe Islands,False
+2012-10-16 00:00:00,Germany,Sweden,4,4,FIFA World Cup qualification,Berlin,Germany,False
+2012-10-16 00:00:00,Honduras,Canada,8,1,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2012-10-16 00:00:00,Hong Kong,Malaysia,0,3,Friendly,Kowloon,Hong Kong,False
+2012-10-16 00:00:00,Hungary,Turkey,3,1,FIFA World Cup qualification,Budapest,Hungary,False
+2012-10-16 00:00:00,Iceland,Switzerland,0,2,FIFA World Cup qualification,Reykjav√≠k,Iceland,False
+2012-10-16 00:00:00,Iran,South Korea,1,0,FIFA World Cup qualification,Tehran,Iran,False
+2012-10-16 00:00:00,Iraq,Australia,1,2,FIFA World Cup qualification,Doha,Qatar,True
+2012-10-16 00:00:00,Israel,Luxembourg,3,0,FIFA World Cup qualification,Ramat-Gan,Israel,False
+2012-10-16 00:00:00,Italy,Denmark,3,1,FIFA World Cup qualification,Milan,Italy,False
+2012-10-16 00:00:00,Jamaica,Antigua and Barbuda,4,1,FIFA World Cup qualification,Kingston,Jamaica,False
+2012-10-16 00:00:00,Japan,Brazil,0,4,Friendly,Wroc≈Çaw,Poland,True
+2012-10-16 00:00:00,Kenya,South Africa,1,2,Friendly,Nairobi,Kenya,False
+2012-10-16 00:00:00,Kuwait,Philippines,2,1,Friendly,Hawalli,Kuwait,False
+2012-10-16 00:00:00,Latvia,Liechtenstein,2,0,FIFA World Cup qualification,Riga,Latvia,False
+2012-10-16 00:00:00,Lebanon,Yemen,2,1,Friendly,Beirut,Lebanon,False
+2012-10-16 00:00:00,North Macedonia,Serbia,1,0,FIFA World Cup qualification,Skopje,North Macedonia,False
+2012-10-16 00:00:00,Mexico,El Salvador,2,0,FIFA World Cup qualification,Torre√≥n,Mexico,False
+2012-10-16 00:00:00,New Caledonia,Solomon Islands,5,0,FIFA World Cup qualification,Noum√©a,New Caledonia,False
+2012-10-16 00:00:00,New Zealand,Tahiti,3,0,FIFA World Cup qualification,Christchurch,New Zealand,False
+2012-10-16 00:00:00,Oman,Jordan,2,1,FIFA World Cup qualification,Muscat,Oman,False
+2012-10-16 00:00:00,Paraguay,Peru,1,0,FIFA World Cup qualification,Asunci√≥n,Paraguay,False
+2012-10-16 00:00:00,Portugal,Northern Ireland,1,1,FIFA World Cup qualification,Porto,Portugal,False
+2012-10-16 00:00:00,Qatar,Uzbekistan,0,1,FIFA World Cup qualification,Doha,Qatar,False
+2012-10-16 00:00:00,Romania,Netherlands,1,4,FIFA World Cup qualification,Bucharest,Romania,False
+2012-10-16 00:00:00,Russia,Azerbaijan,1,0,FIFA World Cup qualification,Moscow,Russia,False
+2012-10-16 00:00:00,San Marino,Moldova,0,2,FIFA World Cup qualification,Serravalle,San Marino,False
+2012-10-16 00:00:00,Singapore,India,2,0,Friendly,Choa Chu Kang,Singapore,False
+2012-10-16 00:00:00,Slovakia,Greece,0,1,FIFA World Cup qualification,Bratislava,Slovakia,False
+2012-10-16 00:00:00,Spain,France,1,1,FIFA World Cup qualification,Madrid,Spain,False
+2012-10-16 00:00:00,Ukraine,Montenegro,0,1,FIFA World Cup qualification,Kyiv,Ukraine,False
+2012-10-16 00:00:00,United Arab Emirates,Bahrain,6,2,Friendly,Dubai,United Arab Emirates,False
+2012-10-16 00:00:00,United States,Guatemala,3,1,FIFA World Cup qualification,Kansas City,United States,False
+2012-10-16 00:00:00,Venezuela,Ecuador,0,0,FIFA World Cup qualification,Puerto la Cruz,Venezuela,False
+2012-10-16 00:00:00,Vietnam,Indonesia,0,0,Friendly,Hanoi,Vietnam,False
+2012-10-17 00:00:00,Poland,England,1,1,FIFA World Cup qualification,Warsaw,Poland,False
+2012-10-21 00:00:00,Saint Lucia,Cura√ßao,5,1,CFU Caribbean Cup qualification,Gros Islet,Saint Lucia,False
+2012-10-21 00:00:00,Artsakh,Abkhazia,3,0,Friendly,Stepanakert,Azerbaijan,False
+2012-10-23 00:00:00,Cura√ßao,Guyana,1,2,CFU Caribbean Cup qualification,Gros Islet,Saint Lucia,True
+2012-10-23 00:00:00,Guadeloupe,Dominican Republic,0,2,CFU Caribbean Cup qualification,Les Abymes,Guadeloupe,False
+2012-10-23 00:00:00,Martinique,Puerto Rico,2,1,CFU Caribbean Cup qualification,Les Abymes,Guadeloupe,True
+2012-10-24 00:00:00,Vietnam,Turkmenistan,0,1,VFF Cup,Ho Chi Minh City,Vietnam,False
+2012-10-25 00:00:00,Dominican Republic,Martinique,1,1,CFU Caribbean Cup qualification,Les Abymes,Guadeloupe,True
+2012-10-25 00:00:00,Guadeloupe,Puerto Rico,4,1,CFU Caribbean Cup qualification,Les Abymes,Guadeloupe,False
+2012-10-25 00:00:00,Saint Vincent and the Grenadines,Cura√ßao,4,0,CFU Caribbean Cup qualification,Gros Islet,Saint Lucia,True
+2012-10-26 00:00:00,Vietnam,Laos,4,0,VFF Cup,Ho Chi Minh City,Vietnam,False
+2012-10-27 00:00:00,Guadeloupe,Martinique,3,3,CFU Caribbean Cup qualification,Les Abymes,Guadeloupe,False
+2012-10-27 00:00:00,Puerto Rico,Dominican Republic,1,3,CFU Caribbean Cup qualification,Les Abymes,Guadeloupe,True
+2012-10-28 00:00:00,Laos,Turkmenistan,2,4,VFF Cup,Ho Chi Minh City,Vietnam,True
+2012-11-03 00:00:00,Vietnam,Malaysia,1,0,Friendly,Hanoi,Vietnam,False
+2012-11-06 00:00:00,Iran,Tajikistan,6,1,Friendly,Tehran,Iran,False
+2012-11-07 00:00:00,Thailand,Malaysia,2,0,Friendly,Nonthaburi,Thailand,False
+2012-11-08 00:00:00,Bahrain,Jordan,3,0,Friendly,Arad,Bahrain,False
+2012-11-08 00:00:00,Oman,Estonia,1,2,Friendly,Muscat,Oman,False
+2012-11-11 00:00:00,Eswatini,Lesotho,0,0,Friendly,Lobamba,Eswatini,False
+2012-11-14 00:00:00,Albania,Cameroon,0,0,Friendly,Geneva,Switzerland,True
+2012-11-14 00:00:00,Algeria,Bosnia and Herzegovina,0,1,Friendly,Algiers,Algeria,False
+2012-11-14 00:00:00,Andorra,Iceland,0,2,Friendly,Sant Juli√† de L√≤ria,Andorra,False
+2012-11-14 00:00:00,Angola,Congo,1,1,Friendly,Estoril,Portugal,True
+2012-11-14 00:00:00,Armenia,Lithuania,4,2,Friendly,Yerevan,Armenia,False
+2012-11-14 00:00:00,Austria,Ivory Coast,0,3,Friendly,Linz,Austria,False
+2012-11-14 00:00:00,Bolivia,Costa Rica,1,1,Friendly,Santa Cruz,Bolivia,False
+2012-11-14 00:00:00,Brazil,Colombia,1,1,Friendly,East Rutherford,United States,True
+2012-11-14 00:00:00,Bulgaria,Ukraine,0,1,Friendly,Sofia,Bulgaria,False
+2012-11-14 00:00:00,Cape Verde,Ghana,0,1,Friendly,Lisbon,Portugal,True
+2012-11-14 00:00:00,China PR,New Zealand,1,1,Friendly,Shanghai,China PR,False
+2012-11-14 00:00:00,DR Congo,Burkina Faso,0,1,Friendly,Kinshasa,DR Congo,False
+2012-11-14 00:00:00,Cuba,Suriname,5,0,CFU Caribbean Cup qualification,Bacolet,Trinidad and Tobago,True
+2012-11-14 00:00:00,Cyprus,Finland,0,3,Friendly,Nicosia,Cyprus,False
+2012-11-14 00:00:00,Czech Republic,Slovakia,3,0,Friendly,Olomouc,Czech Republic,False
+2012-11-14 00:00:00,Gabon,Portugal,2,2,Friendly,Libreville,Gabon,False
+2012-11-14 00:00:00,Georgia,Egypt,0,0,Friendly,Tbilisi,Georgia,False
+2012-11-14 00:00:00,Grenada,French Guiana,1,1,CFU Caribbean Cup qualification,St. George's,Grenada,False
+2012-11-14 00:00:00,Haiti,Guyana,1,0,CFU Caribbean Cup qualification,St. George's,Grenada,True
+2012-11-14 00:00:00,Honduras,Peru,0,0,Friendly,Houston,United States,True
+2012-11-14 00:00:00,Hungary,Norway,0,2,Friendly,Budapest,Hungary,False
+2012-11-14 00:00:00,Indonesia,Timor-Leste,1,0,Friendly,Jakarta,Indonesia,False
+2012-11-14 00:00:00,Iran,Uzbekistan,0,1,FIFA World Cup qualification,Tehran,Iran,False
+2012-11-14 00:00:00,Iraq,Jordan,1,0,FIFA World Cup qualification,Doha,Qatar,True
+2012-11-14 00:00:00,Republic of Ireland,Greece,0,1,Friendly,Dublin,Republic of Ireland,False
+2012-11-14 00:00:00,Israel,Belarus,1,2,Friendly,Jerusalem,Israel,False
+2012-11-14 00:00:00,Italy,France,1,2,Friendly,Parma,Italy,False
+2012-11-14 00:00:00,South Korea,Australia,1,2,Friendly,Hwaseong,South Korea,False
+2012-11-14 00:00:00,Kuwait,Bahrain,1,1,Friendly,Kuwait City,Kuwait,False
+2012-11-14 00:00:00,Liechtenstein,Malta,0,1,Friendly,Vaduz,Liechtenstein,False
+2012-11-14 00:00:00,Luxembourg,Scotland,1,2,Friendly,Luxembourg,Luxembourg,False
+2012-11-14 00:00:00,North Macedonia,Slovenia,3,2,Friendly,Skopje,North Macedonia,False
+2012-11-14 00:00:00,Malaysia,Hong Kong,1,1,Friendly,Shah Alam,Malaysia,False
+2012-11-14 00:00:00,Montenegro,San Marino,3,0,FIFA World Cup qualification,Podgorica,Montenegro,False
+2012-11-14 00:00:00,Morocco,Togo,0,1,Friendly,Casablanca,Morocco,False
+2012-11-14 00:00:00,Netherlands,Germany,0,0,Friendly,Amsterdam,Netherlands,False
+2012-11-14 00:00:00,Niger,Senegal,1,1,Friendly,Niamey,Niger,False
+2012-11-14 00:00:00,Northern Ireland,Azerbaijan,1,1,FIFA World Cup qualification,Belfast,Northern Ireland,False
+2012-11-14 00:00:00,Oman,Japan,1,2,FIFA World Cup qualification,Muscat,Oman,False
+2012-11-14 00:00:00,Panama,Spain,1,5,Friendly,Panama City,Panama,False
+2012-11-14 00:00:00,Paraguay,Guatemala,3,1,Friendly,Luque,Paraguay,False
+2012-11-14 00:00:00,Poland,Uruguay,1,3,Friendly,Gda≈Ñsk,Poland,False
+2012-11-14 00:00:00,Qatar,Lebanon,1,0,FIFA World Cup qualification,Doha,Qatar,False
+2012-11-14 00:00:00,Romania,Belgium,2,1,Friendly,Bucharest,Romania,False
+2012-11-14 00:00:00,Russia,United States,2,2,Friendly,Krasnodar,Russia,False
+2012-11-14 00:00:00,Rwanda,Namibia,2,2,Friendly,Kigali,Rwanda,False
+2012-11-14 00:00:00,Saudi Arabia,Argentina,0,0,Friendly,Riyadh,Saudi Arabia,False
+2012-11-14 00:00:00,Serbia,Chile,3,1,Friendly,St. Gallen,Switzerland,True
+2012-11-14 00:00:00,South Africa,Zambia,0,1,Friendly,Johannesburg,South Africa,False
+2012-11-14 00:00:00,Sweden,England,4,2,Friendly,Solna,Sweden,False
+2012-11-14 00:00:00,Tanzania,Kenya,1,0,Friendly,Mwanza,Tanzania,False
+2012-11-14 00:00:00,Thailand,Bhutan,5,0,Friendly,Bangkok,Thailand,False
+2012-11-14 00:00:00,Tunisia,Switzerland,1,2,Friendly,Sousse,Tunisia,False
+2012-11-14 00:00:00,Turkey,Denmark,1,1,Friendly,Istanbul,Turkey,False
+2012-11-14 00:00:00,United Arab Emirates,Estonia,2,1,Friendly,Abu Dhabi,United Arab Emirates,False
+2012-11-14 00:00:00,Venezuela,Nigeria,1,3,Friendly,Miami,United States,True
+2012-11-15 00:00:00,Philippines,Singapore,1,0,Friendly,Cebu City,Philippines,False
+2012-11-16 00:00:00,French Guiana,Haiti,1,0,CFU Caribbean Cup qualification,St. George's,Grenada,True
+2012-11-16 00:00:00,Trinidad and Tobago,Suriname,3,0,CFU Caribbean Cup qualification,Bacolet,Trinidad and Tobago,False
+2012-11-17 00:00:00,Indonesia,Cameroon,0,0,Friendly,Jakarta,Indonesia,False
+2012-11-17 00:00:00,Palestine,Syria,1,1,Friendly,Amman,Jordan,True
+2012-11-17 00:00:00,Thailand,Bangladesh,5,0,Friendly,Bangkok,Thailand,False
+2012-11-18 00:00:00,Guyana,French Guiana,4,3,CFU Caribbean Cup qualification,St. George's,Grenada,True
+2012-11-19 00:00:00,Singapore,Pakistan,4,0,Friendly,Jurong,Singapore,False
+2012-11-20 00:00:00,Malaysia,Bangladesh,1,1,Friendly,Kuala Lumpur,Malaysia,False
+2012-11-20 00:00:00,Palestine,Syria,2,1,Friendly,Zarqa,Jordan,True
+2012-11-21 00:00:00,Argentina,Brazil,2,1,Supercl√°sico de las Am√©ricas,Buenos Aires,Argentina,False
+2012-11-24 00:00:00,Ethiopia,South Sudan,1,0,CECAFA Cup,Kampala,Uganda,True
+2012-11-24 00:00:00,Guam,Northern Mariana Islands,8,0,Friendly,Yona,Guam,False
+2012-11-24 00:00:00,Thailand,Philippines,2,1,AFF Championship,Bangkok,Thailand,False
+2012-11-24 00:00:00,Uganda,Kenya,1,0,CECAFA Cup,Kampala,Uganda,False
+2012-11-24 00:00:00,Vietnam,Myanmar,1,1,AFF Championship,Bangkok,Thailand,True
+2012-11-25 00:00:00,Burundi,Somalia,5,1,CECAFA Cup,Kampala,Uganda,True
+2012-11-25 00:00:00,Indonesia,Laos,2,2,AFF Championship,Kuala Lumpur,Malaysia,True
+2012-11-25 00:00:00,Malaysia,Singapore,0,3,AFF Championship,Kuala Lumpur,Malaysia,False
+2012-11-25 00:00:00,Tanzania,Sudan,2,0,CECAFA Cup,Kampala,Uganda,True
+2012-11-26 00:00:00,Rwanda,Malawi,2,0,CECAFA Cup,Kampala,Uganda,True
+2012-11-26 00:00:00,Zanzibar,Eritrea,0,0,CECAFA Cup,Kampala,Uganda,True
+2012-11-27 00:00:00,South Sudan,Kenya,0,2,CECAFA Cup,Kampala,Uganda,True
+2012-11-27 00:00:00,Thailand,Myanmar,4,0,AFF Championship,Bangkok,Thailand,False
+2012-11-27 00:00:00,Uganda,Ethiopia,1,0,CECAFA Cup,Kampala,Uganda,False
+2012-11-27 00:00:00,Vietnam,Philippines,0,1,AFF Championship,Bangkok,Thailand,True
+2012-11-28 00:00:00,Indonesia,Singapore,1,0,AFF Championship,Kuala Lumpur,Malaysia,True
+2012-11-28 00:00:00,Malaysia,Laos,4,1,AFF Championship,Kuala Lumpur,Malaysia,False
+2012-11-28 00:00:00,Somalia,Sudan,0,1,CECAFA Cup,Kampala,Uganda,True
+2012-11-28 00:00:00,Tanzania,Burundi,0,1,CECAFA Cup,Kampala,Uganda,True
+2012-11-29 00:00:00,Malawi,Eritrea,3,2,CECAFA Cup,Kampala,Uganda,True
+2012-11-29 00:00:00,Palestine,Bahrain,0,2,Friendly,Al Wakrah,Qatar,True
+2012-11-29 00:00:00,Rwanda,Zanzibar,1,2,CECAFA Cup,Kampala,Uganda,True
+2012-11-30 00:00:00,Kenya,Ethiopia,3,1,CECAFA Cup,Kampala,Uganda,True
+2012-11-30 00:00:00,Philippines,Myanmar,2,0,AFF Championship,Bangkok,Thailand,True
+2012-11-30 00:00:00,Thailand,Vietnam,3,1,AFF Championship,Bangkok,Thailand,False
+2012-11-30 00:00:00,Uganda,South Sudan,4,0,CECAFA Cup,Kampala,Uganda,False
+2012-12-01 00:00:00,Burkina Faso,Togo,2,1,African Nations Championship,Ouagadougou,Burkina Faso,False
+2012-12-01 00:00:00,Eritrea,Rwanda,0,2,CECAFA Cup,Kampala,Uganda,True
+2012-12-01 00:00:00,Hong Kong,Guam,2,1,EAFF Championship,Kowloon,Hong Kong,False
+2012-12-01 00:00:00,Malawi,Zanzibar,2,0,CECAFA Cup,Kampala,Uganda,True
+2012-12-01 00:00:00,Malaysia,Indonesia,2,0,AFF Championship,Kuala Lumpur,Malaysia,False
+2012-12-01 00:00:00,Mauritius,Comoros,2,0,African Nations Championship,Curepipe,Mauritius,False
+2012-12-01 00:00:00,Singapore,Laos,4,3,AFF Championship,Shah Alam,Malaysia,True
+2012-12-01 00:00:00,Somalia,Tanzania,0,7,CECAFA Cup,Kampala,Uganda,True
+2012-12-01 00:00:00,Sudan,Burundi,0,1,CECAFA Cup,Kampala,Uganda,True
+2012-12-02 00:00:00,Guinea,Sierra Leone,0,0,African Nations Championship,Conakry,Guinea,False
+2012-12-02 00:00:00,Liberia,Mauritania,0,1,African Nations Championship,Paynesville,Liberia,False
+2012-12-02 00:00:00,Mozambique,Seychelles,4,0,African Nations Championship,Maputo,Mozambique,False
+2012-12-03 00:00:00,Burundi,Zanzibar,0,0,CECAFA Cup,Kampala,Uganda,True
+2012-12-03 00:00:00,Hong Kong,Australia,0,1,EAFF Championship,Kowloon,Hong Kong,False
+2012-12-03 00:00:00,North Korea,Guam,5,0,EAFF Championship,Kowloon,Hong Kong,True
+2012-12-03 00:00:00,Rwanda,Tanzania,0,2,CECAFA Cup,Kampala,Uganda,True
+2012-12-04 00:00:00,Kenya,Malawi,1,0,CECAFA Cup,Kampala,Uganda,True
+2012-12-04 00:00:00,Uganda,Ethiopia,2,0,CECAFA Cup,Kampala,Uganda,False
+2012-12-05 00:00:00,North Korea,Australia,1,1,EAFF Championship,So Kon Po,Hong Kong,True
+2012-12-06 00:00:00,Uganda,Tanzania,3,0,CECAFA Cup,Kampala,Uganda,False
+2012-12-06 00:00:00,Zanzibar,Kenya,2,2,CECAFA Cup,Kampala,Uganda,True
+2012-12-07 00:00:00,Antigua and Barbuda,Dominican Republic,1,2,CFU Caribbean Cup,St. John's,Antigua and Barbuda,False
+2012-12-07 00:00:00,Guam,Australia,0,9,EAFF Championship,So Kon Po,Hong Kong,True
+2012-12-07 00:00:00,Haiti,Trinidad and Tobago,0,0,CFU Caribbean Cup,St. John's,Antigua and Barbuda,True
+2012-12-07 00:00:00,Hong Kong,Taiwan,2,0,EAFF Championship,So Kon Po,Hong Kong,False
+2012-12-08 00:00:00,Jamaica,French Guiana,1,2,CFU Caribbean Cup,North Sound,Antigua and Barbuda,True
+2012-12-08 00:00:00,Kuwait,Palestine,2,1,WAFF Championship,Kuwait City,Kuwait,False
+2012-12-08 00:00:00,Martinique,Cuba,1,0,CFU Caribbean Cup,North Sound,Antigua and Barbuda,True
+2012-12-08 00:00:00,Oman,Lebanon,0,1,WAFF Championship,Al Farwaniyah,Kuwait,True
+2012-12-08 00:00:00,Philippines,Singapore,0,0,AFF Championship,Manila,Philippines,False
+2012-12-08 00:00:00,Tanzania,Zanzibar,1,1,CECAFA Cup,Kampala,Uganda,True
+2012-12-08 00:00:00,Uganda,Kenya,2,1,CECAFA Cup,Kampala,Uganda,False
+2012-12-09 00:00:00,Antigua and Barbuda,Trinidad and Tobago,2,0,CFU Caribbean Cup,St. John's,Antigua and Barbuda,False
+2012-12-09 00:00:00,Australia,Taiwan,8,0,EAFF Championship,So Kon Po,Hong Kong,True
+2012-12-09 00:00:00,Bahrain,Yemen,1,0,WAFF Championship,Al Farwaniyah,Kuwait,True
+2012-12-09 00:00:00,Dominican Republic,Haiti,1,2,CFU Caribbean Cup,St. John's,Antigua and Barbuda,True
+2012-12-09 00:00:00,Hong Kong,North Korea,0,4,EAFF Championship,So Kon Po,Hong Kong,False
+2012-12-09 00:00:00,Iran,Saudi Arabia,0,0,WAFF Championship,Kuwait City,Kuwait,True
+2012-12-09 00:00:00,Malaysia,Thailand,1,1,AFF Championship,Kuala Lumpur,Malaysia,False
+2012-12-10 00:00:00,Cuba,French Guiana,2,1,CFU Caribbean Cup,North Sound,Antigua and Barbuda,True
+2012-12-10 00:00:00,Iraq,Jordan,1,0,WAFF Championship,Al Farwaniyah,Kuwait,True
+2012-12-10 00:00:00,Jamaica,Martinique,0,0,CFU Caribbean Cup,North Sound,Antigua and Barbuda,True
+2012-12-11 00:00:00,Antigua and Barbuda,Haiti,0,1,CFU Caribbean Cup,St. John's,Antigua and Barbuda,False
+2012-12-11 00:00:00,Kuwait,Oman,0,2,WAFF Championship,Kuwait City,Kuwait,False
+2012-12-11 00:00:00,Lebanon,Palestine,0,1,WAFF Championship,Al Farwaniyah,Kuwait,True
+2012-12-11 00:00:00,Trinidad and Tobago,Dominican Republic,2,1,CFU Caribbean Cup,St. John's,Antigua and Barbuda,True
+2012-12-12 00:00:00,French Guiana,Martinique,1,3,CFU Caribbean Cup,North Sound,Antigua and Barbuda,True
+2012-12-12 00:00:00,Iran,Bahrain,0,0,WAFF Championship,Kuwait City,Kuwait,True
+2012-12-12 00:00:00,Jamaica,Cuba,0,1,CFU Caribbean Cup,North Sound,Antigua and Barbuda,True
+2012-12-12 00:00:00,Singapore,Philippines,1,0,AFF Championship,Singapore,Singapore,False
+2012-12-12 00:00:00,Yemen,Saudi Arabia,0,1,WAFF Championship,Al Farwaniyah,Kuwait,True
+2012-12-13 00:00:00,Iraq,Syria,1,1,WAFF Championship,Kuwait City,Kuwait,True
+2012-12-13 00:00:00,Thailand,Malaysia,2,0,AFF Championship,Bangkok,Thailand,False
+2012-12-14 00:00:00,Haiti,Cuba,0,1,CFU Caribbean Cup,St. John's,Antigua and Barbuda,True
+2012-12-14 00:00:00,Kuwait,Lebanon,2,1,WAFF Championship,Kuwait City,Kuwait,False
+2012-12-14 00:00:00,North Macedonia,Poland,1,4,Friendly,Antalya,Turkey,True
+2012-12-14 00:00:00,Martinique,Trinidad and Tobago,1,1,CFU Caribbean Cup,St. John's,Antigua and Barbuda,True
+2012-12-14 00:00:00,Oman,Palestine,2,1,WAFF Championship,Al Farwaniyah,Kuwait,True
+2012-12-15 00:00:00,Angola,Gambia,1,1,Friendly,Benguela,Angola,False
+2012-12-15 00:00:00,Bahrain,Saudi Arabia,1,0,WAFF Championship,Al Farwaniyah,Kuwait,True
+2012-12-15 00:00:00,Comoros,Mauritius,0,0,African Nations Championship,Mitsamiouli,Comoros,False
+2012-12-15 00:00:00,Iran,Yemen,2,1,WAFF Championship,Kuwait City,Kuwait,True
+2012-12-15 00:00:00,Mauritania,Liberia,2,1,African Nations Championship,Nouakchott,Mauritania,False
+2012-12-15 00:00:00,Seychelles,Mozambique,1,2,African Nations Championship,Roche Caiman,Seychelles,False
+2012-12-15 00:00:00,Sierra Leone,Guinea,1,1,African Nations Championship,Freetown,Sierra Leone,False
+2012-12-16 00:00:00,Burundi,Kenya,1,0,African Nations Championship,Bujumbura,Burundi,False
+2012-12-16 00:00:00,Cuba,Trinidad and Tobago,1,0,CFU Caribbean Cup,St. John's,Antigua and Barbuda,True
+2012-12-16 00:00:00,Haiti,Martinique,1,0,CFU Caribbean Cup,St. John's,Antigua and Barbuda,True
+2012-12-16 00:00:00,Syria,Jordan,2,1,WAFF Championship,Kuwait City,Kuwait,True
+2012-12-16 00:00:00,Togo,Burkina Faso,0,1,African Nations Championship,Lom√©,Togo,False
+2012-12-18 00:00:00,Bahrain,Syria,1,1,WAFF Championship,Kuwait City,Kuwait,True
+2012-12-18 00:00:00,Oman,Iraq,0,2,WAFF Championship,Al Farwaniyah,Kuwait,True
+2012-12-19 00:00:00,Oman,Benin,2,0,Friendly,Sur,Oman,False
+2012-12-19 00:00:00,Singapore,Thailand,3,1,AFF Championship,Singapore,Singapore,False
+2012-12-20 00:00:00,Iraq,Syria,0,1,WAFF Championship,Kuwait City,Kuwait,True
+2012-12-20 00:00:00,Oman,Bahrain,1,0,WAFF Championship,Kuwait City,Kuwait,True
+2012-12-22 00:00:00,Angola,Rwanda,1,0,Friendly,Luanda,Angola,False
+2012-12-22 00:00:00,South Africa,Malawi,3,1,Friendly,Durban,South Africa,False
+2012-12-22 00:00:00,Tanzania,Zambia,1,0,Friendly,Dar es Salaam,Tanzania,False
+2012-12-22 00:00:00,Thailand,Singapore,1,0,AFF Championship,Bangkok,Thailand,False
+2012-12-25 00:00:00,United Arab Emirates,Yemen,2,0,Friendly,Doha,Qatar,True
+2012-12-26 00:00:00,Bahrain,Burkina Faso,0,0,Friendly,Riffa,Bahrain,False
+2012-12-28 00:00:00,Qatar,Egypt,0,2,Friendly,Doha,Qatar,False
+2012-12-29 00:00:00,Bahrain,Guinea,3,0,Friendly,Riffa,Bahrain,False
+2012-12-29 00:00:00,Oman,Togo,0,1,Friendly,Sohar,Oman,False
+2012-12-29 00:00:00,United Arab Emirates,Yemen,3,1,Friendly,Doha,Qatar,True
+2012-12-29 00:00:00,Basque Country,Bolivia,6,1,Friendly,San Sebasti√°n,Spain,False
+2012-12-30 00:00:00,Ethiopia,Niger,1,0,Friendly,Addis Ababa,Ethiopia,False
+2012-12-30 00:00:00,Iraq,Tunisia,1,2,Friendly,Baghdad,Iraq,False
+2013-01-02 00:00:00,Catalonia,Nigeria,1,1,Friendly,Cornell√† de Llobregat,Spain,False
+2013-01-05 00:00:00,Bahrain,Oman,0,0,Gulf Cup,Riffa,Bahrain,False
+2013-01-05 00:00:00,Niger,Togo,3,1,Friendly,Niamey,Niger,False
+2013-01-05 00:00:00,Qatar,United Arab Emirates,1,3,Gulf Cup,Riffa,Bahrain,True
+2013-01-05 00:00:00,Zambia,Angola,0,2,Friendly,Johannesburg,South Africa,True
+2013-01-06 00:00:00,Kenya,Burundi,0,0,African Nations Championship,Nairobi,Kenya,False
+2013-01-06 00:00:00,Kuwait,Yemen,2,0,Gulf Cup,Isa Town,Bahrain,True
+2013-01-06 00:00:00,Saudi Arabia,Iraq,0,2,Gulf Cup,Isa Town,Bahrain,True
+2013-01-07 00:00:00,Tunisia,Ethiopia,1,1,Friendly,Al Wakrah,Qatar,True
+2013-01-08 00:00:00,Bahrain,United Arab Emirates,1,2,Gulf Cup,Riffa,Bahrain,False
+2013-01-08 00:00:00,Qatar,Oman,2,1,Gulf Cup,Riffa,Bahrain,True
+2013-01-08 00:00:00,South Africa,Norway,0,1,Friendly,Cape Town,South Africa,False
+2013-01-08 00:00:00,Zambia,Morocco,0,0,Friendly,Johannesburg,South Africa,True

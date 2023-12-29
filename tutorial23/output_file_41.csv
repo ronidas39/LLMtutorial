@@ -1,0 +1,1001 @@
+date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
+2019-06-17 00:00:00,Isle of Man,Hitra,7,1,Inter Games Football Tournament,Anglesey,Wales,True
+2019-06-17 00:00:00,Guernsey,Shetland,2,1,Inter Games Football Tournament,Anglesey,Wales,True
+2019-06-17 00:00:00,Japan,Chile,0,4,Copa Am√©rica,S√£o Paulo,Brazil,True
+2019-06-17 00:00:00,Cura√ßao,El Salvador,0,1,Gold Cup,Kingston,Jamaica,True
+2019-06-17 00:00:00,Jamaica,Honduras,3,2,Gold Cup,Kingston,Jamaica,False
+2019-06-17 00:00:00,Tunisia,Burundi,2,1,Friendly,Rad√®s,Tunisia,False
+2019-06-18 00:00:00,Ynys M√¥n,Jersey,1,0,Inter Games Football Tournament,Anglesey,Wales,False
+2019-06-18 00:00:00,Western Isles,Orkney,1,2,Inter Games Football Tournament,Anglesey,Wales,True
+2019-06-18 00:00:00,Isle of Man,Alderney,6,1,Inter Games Football Tournament,Anglesey,Wales,True
+2019-06-18 00:00:00,Guernsey,Saint Helena,9,0,Inter Games Football Tournament,Anglesey,Wales,True
+2019-06-18 00:00:00,Bolivia,Peru,1,3,Copa Am√©rica,Rio de Janeiro,Brazil,True
+2019-06-18 00:00:00,Brazil,Venezuela,0,0,Copa Am√©rica,Salvador,Brazil,False
+2019-06-18 00:00:00,Panama,Trinidad and Tobago,2,0,Gold Cup,Saint Paul,United States,True
+2019-06-18 00:00:00,United States,Guyana,4,0,Gold Cup,Saint Paul,United States,False
+2019-06-18 00:00:00,Benin,Mauritania,3,1,Friendly,Marrakech,Morocco,True
+2019-06-19 00:00:00,Colombia,Qatar,1,0,Copa Am√©rica,S√£o Paulo,Brazil,True
+2019-06-19 00:00:00,Argentina,Paraguay,1,1,Copa Am√©rica,Belo Horizonte,Brazil,True
+2019-06-19 00:00:00,Cuba,Martinique,0,3,Gold Cup,Denver,United States,True
+2019-06-19 00:00:00,Mexico,Canada,3,1,Gold Cup,Denver,United States,True
+2019-06-19 00:00:00,Ivory Coast,Zambia,4,1,Friendly,Abu Dhabi,United Arab Emirates,True
+2019-06-20 00:00:00,Western Isles,Saint Helena,2,1,Inter Games Football Tournament,Anglesey,Wales,True
+2019-06-20 00:00:00,Orkney,Alderney,1,2,Inter Games Football Tournament,Anglesey,Wales,True
+2019-06-20 00:00:00,Jersey,Hitra,3,1,Inter Games Football Tournament,Anglesey,Wales,True
+2019-06-20 00:00:00,Ynys M√¥n,Shetland,2,1,Inter Games Football Tournament,Anglesey,Wales,False
+2019-06-20 00:00:00,Isle of Man,Guernsey,2,3,Inter Games Football Tournament,Anglesey,Wales,True
+2019-06-20 00:00:00,Uruguay,Japan,2,2,Copa Am√©rica,Porto Alegre,Brazil,True
+2019-06-20 00:00:00,Nicaragua,Haiti,0,2,Gold Cup,Frisco,United States,True
+2019-06-20 00:00:00,Costa Rica,Bermuda,2,1,Gold Cup,Frisco,United States,True
+2019-06-21 00:00:00,Shetland,Isle of Man,0,5,Inter Games Football Tournament,Anglesey,Wales,True
+2019-06-21 00:00:00,Ynys M√¥n,Guernsey,2,1,Inter Games Football Tournament,Anglesey,Wales,False
+2019-06-21 00:00:00,Egypt,Zimbabwe,1,0,African Cup of Nations,Cairo,Egypt,False
+2019-06-21 00:00:00,Ecuador,Chile,1,2,Copa Am√©rica,Salvador,Brazil,True
+2019-06-21 00:00:00,El Salvador,Jamaica,0,0,Gold Cup,Houston,United States,True
+2019-06-21 00:00:00,Honduras,Cura√ßao,0,1,Gold Cup,Houston,United States,True
+2019-06-22 00:00:00,DR Congo,Uganda,0,2,African Cup of Nations,Cairo,Egypt,True
+2019-06-22 00:00:00,Nigeria,Burundi,1,0,African Cup of Nations,Alexandria,Egypt,True
+2019-06-22 00:00:00,Guinea,Madagascar,2,2,African Cup of Nations,Alexandria,Egypt,True
+2019-06-22 00:00:00,Bolivia,Venezuela,1,3,Copa Am√©rica,Belo Horizonte,Brazil,True
+2019-06-22 00:00:00,Guyana,Panama,2,4,Gold Cup,Cleveland,United States,True
+2019-06-22 00:00:00,United States,Trinidad and Tobago,6,0,Gold Cup,Cleveland,United States,False
+2019-06-22 00:00:00,Brazil,Peru,5,0,Copa Am√©rica,S√£o Paulo,Brazil,False
+2019-06-23 00:00:00,Senegal,Tanzania,2,0,African Cup of Nations,Cairo,Egypt,True
+2019-06-23 00:00:00,Algeria,Kenya,2,0,African Cup of Nations,Cairo,Egypt,True
+2019-06-23 00:00:00,Morocco,Namibia,1,0,African Cup of Nations,Cairo,Egypt,True
+2019-06-23 00:00:00,Colombia,Paraguay,1,0,Copa Am√©rica,Salvador,Brazil,True
+2019-06-23 00:00:00,Qatar,Argentina,0,2,Copa Am√©rica,Porto Alegre,Brazil,True
+2019-06-23 00:00:00,Canada,Cuba,7,0,Gold Cup,Charlotte,United States,True
+2019-06-23 00:00:00,Martinique,Mexico,2,3,Gold Cup,Charlotte,United States,True
+2019-06-24 00:00:00,Ivory Coast,South Africa,1,0,African Cup of Nations,Cairo,Egypt,True
+2019-06-24 00:00:00,Tunisia,Angola,1,1,African Cup of Nations,Suez,Egypt,True
+2019-06-24 00:00:00,Mali,Mauritania,4,1,African Cup of Nations,Suez,Egypt,True
+2019-06-24 00:00:00,Chile,Uruguay,0,1,Copa Am√©rica,Rio de Janeiro,Brazil,True
+2019-06-24 00:00:00,Ecuador,Japan,1,1,Copa Am√©rica,Belo Horizonte,Brazil,True
+2019-06-24 00:00:00,Bermuda,Nicaragua,2,0,Gold Cup,New Jersey,United States,True
+2019-06-24 00:00:00,Haiti,Costa Rica,2,1,Gold Cup,New Jersey,United States,True
+2019-06-25 00:00:00,Cameroon,Guinea-Bissau,2,0,African Cup of Nations,Ismaila,Egypt,True
+2019-06-25 00:00:00,Ghana,Benin,2,2,African Cup of Nations,Ismaila,Egypt,True
+2019-06-25 00:00:00,Jamaica,Cura√ßao,1,1,Gold Cup,Los Angeles,United States,True
+2019-06-25 00:00:00,Honduras,El Salvador,4,0,Gold Cup,Los Angeles,United States,True
+2019-06-26 00:00:00,Uganda,Zimbabwe,1,1,African Cup of Nations,Cairo,Egypt,True
+2019-06-26 00:00:00,Egypt,DR Congo,2,0,African Cup of Nations,Cairo,Egypt,False
+2019-06-26 00:00:00,Nigeria,Guinea,1,0,African Cup of Nations,Alexandria,Egypt,True
+2019-06-26 00:00:00,Trinidad and Tobago,Guyana,1,1,Gold Cup,Kansas City,United States,True
+2019-06-26 00:00:00,United States,Panama,1,0,Gold Cup,Kansas City,United States,False
+2019-06-27 00:00:00,Madagascar,Burundi,1,0,African Cup of Nations,Alexandria,Egypt,True
+2019-06-27 00:00:00,Senegal,Algeria,0,1,African Cup of Nations,Cairo,Egypt,True
+2019-06-27 00:00:00,Kenya,Tanzania,3,2,African Cup of Nations,Cairo,Egypt,True
+2019-06-27 00:00:00,Brazil,Paraguay,0,0,Copa Am√©rica,Porto Alegre,Brazil,False
+2019-06-28 00:00:00,Morocco,Ivory Coast,1,0,African Cup of Nations,Cairo,Egypt,True
+2019-06-28 00:00:00,South Africa,Namibia,1,0,African Cup of Nations,Cairo,Egypt,True
+2019-06-28 00:00:00,Tunisia,Mali,1,1,African Cup of Nations,Suez,Egypt,True
+2019-06-28 00:00:00,Colombia,Chile,0,0,Copa Am√©rica,S√£o Paulo,Brazil,True
+2019-06-28 00:00:00,Venezuela,Argentina,0,2,Copa Am√©rica,Rio de Janeiro,Brazil,True
+2019-06-29 00:00:00,Mauritania,Angola,0,0,African Cup of Nations,Suez,Egypt,True
+2019-06-29 00:00:00,Cameroon,Ghana,0,0,African Cup of Nations,Ismaila,Egypt,True
+2019-06-29 00:00:00,Benin,Guinea-Bissau,0,0,African Cup of Nations,Ismaila,Egypt,True
+2019-06-29 00:00:00,Uruguay,Peru,0,0,Copa Am√©rica,Salvador,Brazil,True
+2019-06-29 00:00:00,Haiti,Canada,3,2,Gold Cup,Houston,United States,True
+2019-06-29 00:00:00,Mexico,Costa Rica,1,1,Gold Cup,Houston,United States,True
+2019-06-30 00:00:00,Egypt,Uganda,2,0,African Cup of Nations,Cairo,Egypt,False
+2019-06-30 00:00:00,Zimbabwe,DR Congo,0,4,African Cup of Nations,Cairo,Egypt,True
+2019-06-30 00:00:00,Burundi,Guinea,0,2,African Cup of Nations,Cairo,Egypt,True
+2019-06-30 00:00:00,Madagascar,Nigeria,2,0,African Cup of Nations,Alexandria,Egypt,True
+2019-06-30 00:00:00,Jamaica,Panama,1,0,Gold Cup,Philadelphia,United States,True
+2019-06-30 00:00:00,United States,Cura√ßao,1,0,Gold Cup,Philadelphia,United States,False
+2019-07-01 00:00:00,Kenya,Senegal,0,3,African Cup of Nations,Cairo,Egypt,True
+2019-07-01 00:00:00,Tanzania,Algeria,0,3,African Cup of Nations,Cairo,Egypt,True
+2019-07-01 00:00:00,Namibia,Ivory Coast,1,4,African Cup of Nations,Cairo,Egypt,True
+2019-07-01 00:00:00,South Africa,Morocco,0,1,African Cup of Nations,Cairo,Egypt,True
+2019-07-02 00:00:00,Angola,Mali,0,1,African Cup of Nations,Ismaila,Egypt,True
+2019-07-02 00:00:00,Mauritania,Tunisia,0,0,African Cup of Nations,Suez,Egypt,True
+2019-07-02 00:00:00,Benin,Cameroon,0,0,African Cup of Nations,Ismaila,Egypt,True
+2019-07-02 00:00:00,Guinea-Bissau,Ghana,0,2,African Cup of Nations,Suez,Egypt,True
+2019-07-02 00:00:00,Brazil,Argentina,2,0,Copa Am√©rica,Belo Horizonte,Brazil,False
+2019-07-02 00:00:00,Haiti,Mexico,0,1,Gold Cup,Glendale,United States,True
+2019-07-03 00:00:00,Chile,Peru,0,3,Copa Am√©rica,Porto Alegre,Brazil,True
+2019-07-03 00:00:00,United States,Jamaica,3,1,Gold Cup,Nashville,United States,False
+2019-07-05 00:00:00,Morocco,Benin,1,1,African Cup of Nations,Cairo,Egypt,True
+2019-07-05 00:00:00,Uganda,Senegal,0,1,African Cup of Nations,Cairo,Egypt,True
+2019-07-06 00:00:00,Egypt,South Africa,0,1,African Cup of Nations,Cairo,Egypt,False
+2019-07-06 00:00:00,Nigeria,Cameroon,3,2,African Cup of Nations,Alexandria,Egypt,True
+2019-07-06 00:00:00,Argentina,Chile,2,1,Copa Am√©rica,S√£o Paulo,Brazil,True
+2019-07-07 00:00:00,Algeria,Guinea,3,0,African Cup of Nations,Cairo,Egypt,True
+2019-07-07 00:00:00,Madagascar,DR Congo,2,2,African Cup of Nations,Alexandria,Egypt,True
+2019-07-07 00:00:00,Brazil,Peru,3,1,Copa Am√©rica,Rio de Janeiro,Brazil,False
+2019-07-07 00:00:00,United States,Mexico,0,1,Gold Cup,Chicago,United States,False
+2019-07-07 00:00:00,India,Tajikistan,2,4,Intercontinental Cup,Ahmedabad,India,False
+2019-07-08 00:00:00,Ghana,Tunisia,1,1,African Cup of Nations,Ismaila,Egypt,True
+2019-07-08 00:00:00,Mali,Ivory Coast,0,1,African Cup of Nations,Suez,Egypt,True
+2019-07-08 00:00:00,Samoa,Papua New Guinea,0,6,Pacific Games,Apia,Samoa,False
+2019-07-08 00:00:00,American Samoa,New Caledonia,0,5,Pacific Games,Apia,Samoa,True
+2019-07-08 00:00:00,Tuvalu,Solomon Islands,0,13,Pacific Games,Apia,Samoa,True
+2019-07-08 00:00:00,Tahiti,Fiji,1,2,Pacific Games,Apia,Samoa,True
+2019-07-08 00:00:00,Syria,North Korea,5,2,Intercontinental Cup,Ahmedabad,India,True
+2019-07-10 00:00:00,Nigeria,South Africa,2,1,African Cup of Nations,Cairo,Egypt,True
+2019-07-10 00:00:00,Senegal,Benin,1,0,African Cup of Nations,Cairo,Egypt,True
+2019-07-10 00:00:00,Papua New Guinea,Vanuatu,2,0,Pacific Games,Apia,Samoa,True
+2019-07-10 00:00:00,Tuvalu,Tahiti,0,7,Pacific Games,Apia,Samoa,True
+2019-07-10 00:00:00,American Samoa,Fiji,0,9,Pacific Games,Apia,Samoa,True
+2019-07-10 00:00:00,Solomon Islands,New Caledonia,0,2,Pacific Games,Apia,Samoa,True
+2019-07-10 00:00:00,Tajikistan,Syria,2,0,Intercontinental Cup,Ahmedabad,India,True
+2019-07-11 00:00:00,Ivory Coast,Algeria,1,1,African Cup of Nations,Suez,Egypt,True
+2019-07-11 00:00:00,Madagascar,Tunisia,0,3,African Cup of Nations,Cairo,Egypt,True
+2019-07-12 00:00:00,Samoa,Tonga,2,0,Pacific Games,Apia,Samoa,False
+2019-07-12 00:00:00,American Samoa,Tuvalu,1,1,Pacific Games,Apia,Samoa,True
+2019-07-12 00:00:00,Solomon Islands,Tahiti,0,3,Pacific Games,Apia,Samoa,True
+2019-07-12 00:00:00,New Caledonia,Fiji,1,0,Pacific Games,Apia,Samoa,True
+2019-07-13 00:00:00,India,North Korea,2,5,Intercontinental Cup,Ahmedabad,India,False
+2019-07-14 00:00:00,Algeria,Nigeria,2,1,African Cup of Nations,Cairo,Egypt,True
+2019-07-14 00:00:00,Senegal,Tunisia,1,0,African Cup of Nations,Cairo,Egypt,True
+2019-07-15 00:00:00,Tonga,Vanuatu,0,14,Pacific Games,Apia,Samoa,True
+2019-07-15 00:00:00,Fiji,Tuvalu,10,1,Pacific Games,Apia,Samoa,True
+2019-07-15 00:00:00,Solomon Islands,American Samoa,13,0,Pacific Games,Apia,Samoa,True
+2019-07-15 00:00:00,Tahiti,New Caledonia,0,3,Pacific Games,Apia,Samoa,True
+2019-07-15 00:00:00,North Korea,Tajikistan,1,0,Intercontinental Cup,Ahmedabad,India,True
+2019-07-16 00:00:00,India,Syria,1,1,Intercontinental Cup,Ahmedabad,India,False
+2019-07-17 00:00:00,Tunisia,Nigeria,0,1,African Cup of Nations,Cairo,Egypt,True
+2019-07-18 00:00:00,Papua New Guinea,Tonga,8,0,Pacific Games,Apia,Samoa,True
+2019-07-18 00:00:00,Samoa,Vanuatu,0,11,Pacific Games,Apia,Samoa,False
+2019-07-18 00:00:00,New Caledonia,Tuvalu,11,0,Pacific Games,Apia,Samoa,True
+2019-07-18 00:00:00,American Samoa,Tahiti,8,1,Pacific Games,Apia,Samoa,True
+2019-07-18 00:00:00,Fiji,Solomon Islands,4,4,Pacific Games,Apia,Samoa,True
+2019-07-19 00:00:00,Senegal,Algeria,0,1,African Cup of Nations,Cairo,Egypt,True
+2019-07-19 00:00:00,Tajikistan,North Korea,0,1,Intercontinental Cup,Ahmedabad,India,True
+2019-07-20 00:00:00,Papua New Guinea,Fiji,1,1,Pacific Games,Apia,Samoa,True
+2019-07-21 00:00:00,Equatorial Guinea,Liberia,1,1,Friendly,Malabo,Equatorial Guinea,False
+2019-07-26 00:00:00,Djibouti,Ethiopia,0,1,African Nations Championship qualification,Djibouti,Djibouti,False
+2019-07-26 00:00:00,Botswana,Zambia,0,0,African Nations Championship qualification,Francistown,Botswana,False
+2019-07-26 00:00:00,Comoros,Namibia,0,2,African Nations Championship qualification,Moroni,Comoros,False
+2019-07-27 00:00:00,Burundi,South Sudan,2,0,African Nations Championship qualification,Bujumbura,Burundi,False
+2019-07-27 00:00:00,Somalia,Uganda,1,3,African Nations Championship qualification,Djibouti,Djibouti,True
+2019-07-27 00:00:00,Cape Verde,Mauritania,0,0,African Nations Championship qualification,Praia,Cape Verde,False
+2019-07-27 00:00:00,Guinea-Bissau,Mali,0,4,African Nations Championship qualification,Bissau,Guinea-Bissau,False
+2019-07-28 00:00:00,Chad,Equatorial Guinea,3,3,African Nations Championship qualification,N'Djamena,Chad,False
+2019-07-28 00:00:00,Tanzania,Kenya,0,0,African Nations Championship qualification,Dar es Salaam,Tanzania,False
+2019-07-28 00:00:00,Lesotho,South Africa,3,2,African Nations Championship qualification,Maseru,Lesotho,False
+2019-07-28 00:00:00,Madagascar,Mozambique,1,0,African Nations Championship qualification,Antananarivo,Madagascar,False
+2019-07-28 00:00:00,Eswatini,Angola,1,1,African Nations Championship qualification,Manzini,Eswatini,False
+2019-07-28 00:00:00,Liberia,Senegal,1,0,African Nations Championship qualification,Monrovia,Liberia,False
+2019-07-28 00:00:00,Benin,Togo,0,0,African Nations Championship qualification,Porto-Novo,Benin,False
+2019-07-29 00:00:00,Mauritius,Zimbabwe,0,4,African Nations Championship qualification,Centre de Flacq,Mauritius,False
+2019-08-03 00:00:00,Uganda,Somalia,4,1,African Nations Championship qualification,Kampala,Uganda,False
+2019-08-03 00:00:00,Angola,Eswatini,1,1,African Nations Championship qualification,Luanda,Angola,False
+2019-08-03 00:00:00,Zambia,Botswana,3,2,African Nations Championship qualification,Lusaka,Zambia,False
+2019-08-03 00:00:00,Mauritania,Cape Verde,2,1,African Nations Championship qualification,Nouakchott,Mauritania,False
+2019-08-03 00:00:00,Senegal,Liberia,3,0,African Nations Championship qualification,Dakar,Senegal,False
+2019-08-04 00:00:00,Equatorial Guinea,Chad,2,1,African Nations Championship qualification,Malabo,Equatorial Guinea,False
+2019-08-04 00:00:00,Ethiopia,Djibouti,4,3,African Nations Championship qualification,Dire Dawa,Ethiopia,False
+2019-08-04 00:00:00,Kenya,Tanzania,0,0,African Nations Championship qualification,Nairobi,Kenya,False
+2019-08-04 00:00:00,South Sudan,Burundi,1,2,African Nations Championship qualification,Kampala,Uganda,True
+2019-08-04 00:00:00,Mozambique,Madagascar,3,2,African Nations Championship qualification,Maputo,Mozambique,False
+2019-08-04 00:00:00,Namibia,Comoros,0,0,African Nations Championship qualification,Windhoek,Namibia,False
+2019-08-04 00:00:00,South Africa,Lesotho,0,3,African Nations Championship qualification,Soweto,South Africa,False
+2019-08-04 00:00:00,Zimbabwe,Mauritius,3,1,African Nations Championship qualification,Bulawayo,Zimbabwe,False
+2019-08-04 00:00:00,Mali,Guinea-Bissau,3,0,African Nations Championship qualification,Bamako,Mali,False
+2019-08-04 00:00:00,Togo,Benin,1,0,African Nations Championship qualification,Lom√©,Togo,False
+2019-08-11 00:00:00,Saint Vincent and the Grenadines,Trinidad and Tobago,1,0,Friendly,Georgetown,Saint Vincent and the Grenadines,False
+2019-08-14 00:00:00,Dominican Republic,Guatemala,0,0,Friendly,Santiago de los Caballeros,Dominican Republic,False
+2019-08-27 00:00:00,Saint Kitts and Nevis,Antigua and Barbuda,4,3,Friendly,Basseterre,Saint Kitts and Nevis,False
+2019-08-28 00:00:00,Belize,Saint Vincent and the Grenadines,1,1,Friendly,Belmopan,Belize,False
+2019-08-28 00:00:00,Taiwan,Guam,3,0,Friendly,Kaohsiung,Taiwan,False
+2019-08-29 00:00:00,United Arab Emirates,Dominican Republic,4,0,Friendly,Riffa,Bahrain,True
+2019-08-30 00:00:00,Belize,Saint Vincent and the Grenadines,1,0,Friendly,Belmopan,Belize,False
+2019-08-30 00:00:00,China PR,Myanmar,4,1,Friendly,Xianghe,Egypt,True
+2019-08-30 00:00:00,Malaysia,Jordan,0,1,Friendly,Kuala Lumpur,Malaysia,False
+2019-08-31 00:00:00,United Arab Emirates,Sri Lanka,5,1,Friendly,Riffa,Bahrain,True
+2019-09-04 00:00:00,Libya,Burkina Faso,0,1,Friendly,Marrakech,Morocco,True
+2019-09-04 00:00:00,Burundi,Tanzania,1,1,FIFA World Cup qualification,Bujumbura,Burundi,False
+2019-09-04 00:00:00,Djibouti,Eswatini,2,1,FIFA World Cup qualification,Djibouti,Djibouti,False
+2019-09-04 00:00:00,Eritrea,Namibia,1,2,FIFA World Cup qualification,Asmara,Eritrea,False
+2019-09-04 00:00:00,Ethiopia,Lesotho,0,0,FIFA World Cup qualification,Bahir Dar,Ethiopia,False
+2019-09-04 00:00:00,Liberia,Sierra Leone,3,1,FIFA World Cup qualification,Monrovia,Liberia,False
+2019-09-04 00:00:00,Mauritius,Mozambique,0,1,FIFA World Cup qualification,Belle Vue Maurel,Mauritius,False
+2019-09-04 00:00:00,S√£o Tom√© and Pr√≠ncipe,Guinea-Bissau,0,1,FIFA World Cup qualification,S√£o Tom√©,S√£o Tom√© and Pr√≠ncipe,False
+2019-09-04 00:00:00,South Sudan,Equatorial Guinea,1,1,FIFA World Cup qualification,Omdurman,Sudan,True
+2019-09-05 00:00:00,Argentina,Chile,0,0,Friendly,Los Angeles,United States,True
+2019-09-05 00:00:00,Honduras,Puerto Rico,4,0,Friendly,Tegucigalpa,Honduras,False
+2019-09-05 00:00:00,South Korea,Georgia,2,2,Friendly,Istanbul,Turkey,True
+2019-09-05 00:00:00,Montenegro,Hungary,2,1,Friendly,Podgorica,Montenegro,False
+2019-09-05 00:00:00,Northern Ireland,Luxembourg,1,0,Friendly,Belfast,Northern Ireland,False
+2019-09-05 00:00:00,Peru,Ecuador,0,1,Friendly,Harrison,United States,True
+2019-09-05 00:00:00,Saudi Arabia,Mali,1,1,Friendly,Riyadh,Saudi Arabia,False
+2019-09-05 00:00:00,Republic of Ireland,Switzerland,1,1,UEFA Euro qualification,Dublin,Republic of Ireland,False
+2019-09-05 00:00:00,Gibraltar,Denmark,0,6,UEFA Euro qualification,Gibraltar,Gibraltar,False
+2019-09-05 00:00:00,Faroe Islands,Sweden,0,4,UEFA Euro qualification,T√≥rshavn,Faroe Islands,False
+2019-09-05 00:00:00,Norway,Malta,2,0,UEFA Euro qualification,Oslo,Norway,False
+2019-09-05 00:00:00,Romania,Spain,1,2,UEFA Euro qualification,Bucharest,Romania,False
+2019-09-05 00:00:00,Israel,North Macedonia,1,1,UEFA Euro qualification,Beer Sheva,Israel,False
+2019-09-05 00:00:00,Armenia,Italy,1,3,UEFA Euro qualification,Yerevan,Armenia,False
+2019-09-05 00:00:00,Bosnia and Herzegovina,Liechtenstein,5,0,UEFA Euro qualification,Zenica,Bosnia and Herzegovina,False
+2019-09-05 00:00:00,Finland,Greece,1,0,UEFA Euro qualification,Tampere,Finland,False
+2019-09-05 00:00:00,Japan,Paraguay,2,0,Kirin Challenge Cup,Kashima,Japan,False
+2019-09-05 00:00:00,Bermuda,Panama,1,4,CONCACAF Nations League,Hamilton,Bermuda,False
+2019-09-05 00:00:00,Grenada,Saint Kitts and Nevis,2,1,CONCACAF Nations League,St. George's,Grenada,False
+2019-09-05 00:00:00,French Guiana,Belize,3,0,CONCACAF Nations League,Cayenne,French Guiana,False
+2019-09-05 00:00:00,Dominica,Suriname,1,2,CONCACAF Nations League,Roseau,Dominica,False
+2019-09-05 00:00:00,United States Virgin Islands,Cayman Islands,0,2,CONCACAF Nations League,Saint Croix,United States Virgin Islands,False
+2019-09-05 00:00:00,Barbados,Saint Martin,4,0,CONCACAF Nations League,Bridgetown,Barbados,False
+2019-09-05 00:00:00,Guatemala,Anguilla,10,0,CONCACAF Nations League,Guatemala City,Guatemala,False
+2019-09-05 00:00:00,Guam,Maldives,0,1,FIFA World Cup qualification,Dededo,Guam,False
+2019-09-05 00:00:00,Philippines,Syria,2,5,FIFA World Cup qualification,Bacolod,Philippines,False
+2019-09-05 00:00:00,Taiwan,Jordan,1,2,FIFA World Cup qualification,Taipei,Taiwan,False
+2019-09-05 00:00:00,Kuwait,Nepal,7,0,FIFA World Cup qualification,Kuwait City,Kuwait,False
+2019-09-05 00:00:00,Cambodia,Hong Kong,1,1,FIFA World Cup qualification,Phnom Penh,Cambodia,False
+2019-09-05 00:00:00,Bahrain,Iraq,1,1,FIFA World Cup qualification,Riffa,Bahrain,False
+2019-09-05 00:00:00,Palestine,Uzbekistan,2,0,FIFA World Cup qualification,Al-Ram,Palestine,False
+2019-09-05 00:00:00,Singapore,Yemen,2,2,FIFA World Cup qualification,Kallang,Singapore,False
+2019-09-05 00:00:00,India,Oman,1,2,FIFA World Cup qualification,Guwahati,India,False
+2019-09-05 00:00:00,Qatar,Afghanistan,6,0,FIFA World Cup qualification,Doha,Qatar,False
+2019-09-05 00:00:00,Mongolia,Myanmar,1,0,FIFA World Cup qualification,Ulaanbaatar,Mongolia,False
+2019-09-05 00:00:00,Tajikistan,Kyrgyzstan,1,0,FIFA World Cup qualification,Dushanbe,Tajikistan,False
+2019-09-05 00:00:00,Thailand,Vietnam,0,0,FIFA World Cup qualification,Pathum Thani,Thailand,False
+2019-09-05 00:00:00,Indonesia,Malaysia,2,3,FIFA World Cup qualification,Jakarta,Indonesia,False
+2019-09-05 00:00:00,North Korea,Lebanon,2,0,FIFA World Cup qualification,Pyongyang,North Korea,False
+2019-09-05 00:00:00,Sri Lanka,Turkmenistan,0,2,FIFA World Cup qualification,Colombo,Sri Lanka,False
+2019-09-05 00:00:00,Chad,Sudan,1,3,FIFA World Cup qualification,N'Djamena,Chad,False
+2019-09-05 00:00:00,Seychelles,Rwanda,0,3,FIFA World Cup qualification,Victoria,Seychelles,False
+2019-09-05 00:00:00,Somalia,Zimbabwe,1,0,FIFA World Cup qualification,Djibouti,Djibouti,True
+2019-09-06 00:00:00,Brazil,Colombia,2,2,Friendly,Miami Gardens,United States,True
+2019-09-06 00:00:00,Costa Rica,Uruguay,1,2,Friendly,San Jos√©,Costa Rica,False
+2019-09-06 00:00:00,Ivory Coast,Benin,1,2,Friendly,Caen,Egypt,True
+2019-09-06 00:00:00,Morocco,Burkina Faso,1,1,Friendly,Marrakech,Morocco,False
+2019-09-06 00:00:00,Tunisia,Mauritania,1,0,Friendly,Rad√®s,Tunisia,False
+2019-09-06 00:00:00,United States,Mexico,0,3,Friendly,East Rutherford,United States,False
+2019-09-06 00:00:00,Estonia,Belarus,1,2,UEFA Euro qualification,Tallinn,Estonia,False
+2019-09-06 00:00:00,Germany,Netherlands,2,4,UEFA Euro qualification,Hamburg,Germany,False
+2019-09-06 00:00:00,Wales,Azerbaijan,2,1,UEFA Euro qualification,Cardiff,Wales,False
+2019-09-06 00:00:00,Slovakia,Croatia,0,4,UEFA Euro qualification,Trnava,Slovakia,False
+2019-09-06 00:00:00,Austria,Latvia,6,0,UEFA Euro qualification,Salzburg,Austria,False
+2019-09-06 00:00:00,Slovenia,Poland,2,0,UEFA Euro qualification,Ljubljana,Slovenia,False
+2019-09-06 00:00:00,Cyprus,Kazakhstan,1,1,UEFA Euro qualification,Nicosia,Cyprus,False
+2019-09-06 00:00:00,Scotland,Russia,1,2,UEFA Euro qualification,Glasgow,Scotland,False
+2019-09-06 00:00:00,San Marino,Belgium,0,4,UEFA Euro qualification,Serravalle,San Marino,False
+2019-09-06 00:00:00,Martinique,Trinidad and Tobago,1,1,CONCACAF Nations League,Fort-de-France,Martinique,False
+2019-09-06 00:00:00,Aruba,Guyana,0,1,CONCACAF Nations League,Willemstad,Cura√ßao,True
+2019-09-06 00:00:00,Jamaica,Antigua and Barbuda,6,0,CONCACAF Nations League,Montego Bay,Jamaica,False
+2019-09-06 00:00:00,Nicaragua,Saint Vincent and the Grenadines,1,1,CONCACAF Nations League,Managua,Nicaragua,False
+2019-09-06 00:00:00,Bonaire,British Virgin Islands,4,2,CONCACAF Nations League,Willemstad,Cura√ßao,True
+2019-09-06 00:00:00,Comoros,Togo,1,1,FIFA World Cup qualification,Moroni,Comoros,False
+2019-09-06 00:00:00,Gambia,Angola,0,1,FIFA World Cup qualification,Bakau,Gambia,False
+2019-09-07 00:00:00,Libya,Niger,2,0,Friendly,Berrechid,Egypt,True
+2019-09-07 00:00:00,Kosovo,Czech Republic,2,1,UEFA Euro qualification,Pristina,Kosovo,False
+2019-09-07 00:00:00,England,Bulgaria,4,0,UEFA Euro qualification,London,England,False
+2019-09-07 00:00:00,Lithuania,Ukraine,0,3,UEFA Euro qualification,Vilnius,Lithuania,False
+2019-09-07 00:00:00,Serbia,Portugal,2,4,UEFA Euro qualification,Belgrade,Serbia,False
+2019-09-07 00:00:00,Iceland,Moldova,3,0,UEFA Euro qualification,Reykjav√≠k,Iceland,False
+2019-09-07 00:00:00,France,Albania,4,1,UEFA Euro qualification,Paris,France,False
+2019-09-07 00:00:00,Turkey,Andorra,1,0,UEFA Euro qualification,Istanbul,Turkey,False
+2019-09-07 00:00:00,Canada,Cuba,6,0,CONCACAF Nations League,Toronto,Canada,False
+2019-09-07 00:00:00,Cura√ßao,Haiti,1,0,CONCACAF Nations League,Willemstad,Cura√ßao,False
+2019-09-07 00:00:00,Montserrat,Dominican Republic,2,1,CONCACAF Nations League,Lookout,Montserrat,False
+2019-09-07 00:00:00,El Salvador,Saint Lucia,3,0,CONCACAF Nations League,San Salvador,El Salvador,False
+2019-09-07 00:00:00,Guadeloupe,Sint Maarten,5,1,CONCACAF Nations League,Les Abymes,Guadeloupe,False
+2019-09-07 00:00:00,Botswana,Malawi,0,0,FIFA World Cup qualification,Francistown,Botswana,False
+2019-09-08 00:00:00,Kenya,Uganda,1,1,Friendly,Nairobi,Kenya,False
+2019-09-08 00:00:00,Switzerland,Gibraltar,4,0,UEFA Euro qualification,Sion,Switzerland,False
+2019-09-08 00:00:00,Georgia,Denmark,0,0,UEFA Euro qualification,Tbilisi,Georgia,False
+2019-09-08 00:00:00,Romania,Malta,1,0,UEFA Euro qualification,Ploie»ôti,Romania,False
+2019-09-08 00:00:00,Spain,Faroe Islands,4,0,UEFA Euro qualification,Gijon,Egypt,True
+2019-09-08 00:00:00,Sweden,Norway,1,1,UEFA Euro qualification,Stockholm,Sweden,False
+2019-09-08 00:00:00,Armenia,Bosnia and Herzegovina,4,2,UEFA Euro qualification,Yerevan,Armenia,False
+2019-09-08 00:00:00,Finland,Italy,1,2,UEFA Euro qualification,Tampere,Finland,False
+2019-09-08 00:00:00,Greece,Liechtenstein,1,1,UEFA Euro qualification,Athens,Greece,False
+2019-09-08 00:00:00,Panama,Bermuda,0,2,CONCACAF Nations League,Panama City,Panama,False
+2019-09-08 00:00:00,Belize,Grenada,1,2,CONCACAF Nations League,Belmopan,Belize,False
+2019-09-08 00:00:00,Saint Kitts and Nevis,French Guiana,2,2,CONCACAF Nations League,Basseterre,Saint Kitts and Nevis,False
+2019-09-08 00:00:00,Saint Vincent and the Grenadines,Dominica,1,0,CONCACAF Nations League,Arnos Vale,Saint Vincent and the Grenadines,False
+2019-09-08 00:00:00,Suriname,Nicaragua,6,0,CONCACAF Nations League,Paramaribo,Suriname,False
+2019-09-08 00:00:00,Saint Martin,United States Virgin Islands,1,2,CONCACAF Nations League,The Valley,Anguilla,True
+2019-09-08 00:00:00,Cayman Islands,Barbados,3,2,CONCACAF Nations League,George Town,Cayman Islands,False
+2019-09-08 00:00:00,Equatorial Guinea,South Sudan,1,0,FIFA World Cup qualification,Malabo,Equatorial Guinea,False
+2019-09-08 00:00:00,Lesotho,Ethiopia,1,1,FIFA World Cup qualification,Maseru,Lesotho,False
+2019-09-08 00:00:00,Sierra Leone,Liberia,1,0,FIFA World Cup qualification,Freetown,Sierra Leone,False
+2019-09-08 00:00:00,Tanzania,Burundi,1,1,FIFA World Cup qualification,Dar es Salaam,Tanzania,False
+2019-09-09 00:00:00,Algeria,Benin,1,0,Friendly,Algiers,Algeria,False
+2019-09-09 00:00:00,Iraq,Uzbekistan,0,0,Friendly,Amman,Jordan,True
+2019-09-09 00:00:00,Wales,Belarus,1,0,Friendly,Cardiff,Wales,False
+2019-09-09 00:00:00,Northern Ireland,Germany,0,2,UEFA Euro qualification,Belfast,Northern Ireland,False
+2019-09-09 00:00:00,Estonia,Netherlands,0,4,UEFA Euro qualification,Tallinn,Estonia,False
+2019-09-09 00:00:00,Azerbaijan,Croatia,1,1,UEFA Euro qualification,Baku,Azerbaijan,False
+2019-09-09 00:00:00,Hungary,Slovakia,1,2,UEFA Euro qualification,Budapest,Hungary,False
+2019-09-09 00:00:00,Poland,Austria,0,0,UEFA Euro qualification,Warsaw,Poland,False
+2019-09-09 00:00:00,Slovenia,Israel,3,2,UEFA Euro qualification,Ljubljana,Slovenia,False
+2019-09-09 00:00:00,Latvia,North Macedonia,0,2,UEFA Euro qualification,Riga,Latvia,False
+2019-09-09 00:00:00,Scotland,Belgium,0,4,UEFA Euro qualification,Glasgow,Scotland,False
+2019-09-09 00:00:00,Russia,Kazakhstan,1,0,UEFA Euro qualification,Kaliningrad,Russia,False
+2019-09-09 00:00:00,San Marino,Cyprus,0,4,UEFA Euro qualification,Serravalle,San Marino,False
+2019-09-09 00:00:00,Trinidad and Tobago,Martinique,2,2,CONCACAF Nations League,Couva,Trinidad and Tobago,False
+2019-09-09 00:00:00,Antigua and Barbuda,Aruba,2,1,CONCACAF Nations League,North Sound,Antigua and Barbuda,False
+2019-09-09 00:00:00,Guyana,Jamaica,0,4,CONCACAF Nations League,Georgetown,Guyana,False
+2019-09-09 00:00:00,Bahamas,Bonaire,2,1,CONCACAF Nations League,Nassau,Bahamas,False
+2019-09-10 00:00:00,Argentina,Mexico,4,0,Friendly,San Antonio,United States,True
+2019-09-10 00:00:00,Brazil,Peru,0,1,Friendly,Los Angeles,United States,True
+2019-09-10 00:00:00,Colombia,Venezuela,0,0,Friendly,Tampa,United States,True
+2019-09-10 00:00:00,Ecuador,Bolivia,3,0,Friendly,Cuenca,Ecuador,False
+2019-09-10 00:00:00,Honduras,Chile,2,1,Friendly,San Pedro Sula,Honduras,False
+2019-09-10 00:00:00,Ivory Coast,Tunisia,2,1,Friendly,Rouen,France,True
+2019-09-10 00:00:00,Jordan,Paraguay,2,4,Friendly,Amman,Jordan,False
+2019-09-10 00:00:00,Morocco,Niger,1,0,Friendly,Marrakech,Morocco,False
+2019-09-10 00:00:00,Oman,Lebanon,1,0,Friendly,Muscat,Oman,False
+2019-09-10 00:00:00,Republic of Ireland,Bulgaria,3,1,Friendly,Dublin,Republic of Ireland,False
+2019-09-10 00:00:00,Ukraine,Nigeria,2,2,Friendly,Dnipro,Ukraine,False
+2019-09-10 00:00:00,United States,Uruguay,1,1,Friendly,St. Louis,United States,False
+2019-09-10 00:00:00,England,Kosovo,5,3,UEFA Euro qualification,London,England,False
+2019-09-10 00:00:00,Montenegro,Czech Republic,0,3,UEFA Euro qualification,Podgorica,Montenegro,False
+2019-09-10 00:00:00,Luxembourg,Serbia,1,3,UEFA Euro qualification,Luxembourg City,Luxembourg,False
+2019-09-10 00:00:00,Lithuania,Portugal,1,5,UEFA Euro qualification,Vilnius,Lithuania,False
+2019-09-10 00:00:00,Albania,Iceland,4,2,UEFA Euro qualification,Elbasan,Albania,False
+2019-09-10 00:00:00,France,Andorra,3,0,UEFA Euro qualification,Paris,France,False
+2019-09-10 00:00:00,Moldova,Turkey,0,4,UEFA Euro qualification,Chi»ôinƒÉu,Moldova,False
+2019-09-10 00:00:00,Cuba,Canada,0,1,CONCACAF Nations League,George Town,Cayman Islands,True
+2019-09-10 00:00:00,Haiti,Cura√ßao,1,1,CONCACAF Nations League,Port-au-Prince,Haiti,False
+2019-09-10 00:00:00,Montserrat,Saint Lucia,1,1,CONCACAF Nations League,Lookout,Montserrat,False
+2019-09-10 00:00:00,Dominican Republic,El Salvador,1,0,CONCACAF Nations League,Santiago de los Caballeros,Dominican Republic,False
+2019-09-10 00:00:00,Puerto Rico,Guatemala,0,5,CONCACAF Nations League,Mayag√ºez,Puerto Rico,False
+2019-09-10 00:00:00,Turks and Caicos Islands,Guadeloupe,0,3,CONCACAF Nations League,Providenciales,Turks and Caicos Islands,False
+2019-09-10 00:00:00,Guam,Philippines,1,4,FIFA World Cup qualification,Dededo,Guam,False
+2019-09-10 00:00:00,Maldives,China PR,0,5,FIFA World Cup qualification,Mal√©,Maldives,False
+2019-09-10 00:00:00,Kuwait,Australia,0,3,FIFA World Cup qualification,Kuwait City,Kuwait,False
+2019-09-10 00:00:00,Taiwan,Nepal,0,2,FIFA World Cup qualification,Taipei,Taiwan,False
+2019-09-10 00:00:00,Cambodia,Bahrain,0,1,FIFA World Cup qualification,Phnom Penh,Cambodia,False
+2019-09-10 00:00:00,Hong Kong,Iran,0,2,FIFA World Cup qualification,Hong Kong,Hong Kong,False
+2019-09-10 00:00:00,Yemen,Saudi Arabia,2,2,FIFA World Cup qualification,Riffa,Bahrain,True
+2019-09-10 00:00:00,Singapore,Palestine,2,1,FIFA World Cup qualification,Singapore,Singapore,False
+2019-09-10 00:00:00,Afghanistan,Bangladesh,1,0,FIFA World Cup qualification,Dushanbe,Tajikistan,True
+2019-09-10 00:00:00,Qatar,India,0,0,FIFA World Cup qualification,Doha,Qatar,False
+2019-09-10 00:00:00,Mongolia,Tajikistan,0,1,FIFA World Cup qualification,Ulaanbaatar,Mongolia,False
+2019-09-10 00:00:00,Myanmar,Japan,0,2,FIFA World Cup qualification,Yangon,Myanmar,False
+2019-09-10 00:00:00,Indonesia,Thailand,0,3,FIFA World Cup qualification,Jakarta,Indonesia,False
+2019-09-10 00:00:00,Malaysia,United Arab Emirates,1,2,FIFA World Cup qualification,Kuala Lumpur,Malaysia,False
+2019-09-10 00:00:00,Turkmenistan,South Korea,0,2,FIFA World Cup qualification,Ashgabat,Turkmenistan,False
+2019-09-10 00:00:00,Sri Lanka,North Korea,0,1,FIFA World Cup qualification,Colombo,Sri Lanka,False
+2019-09-10 00:00:00,Angola,Gambia,2,1,FIFA World Cup qualification,Luanda,Angola,False
+2019-09-10 00:00:00,Guinea-Bissau,S√£o Tom√© and Pr√≠ncipe,2,1,FIFA World Cup qualification,Bissau,Guinea-Bissau,False
+2019-09-10 00:00:00,Malawi,Botswana,1,0,FIFA World Cup qualification,Blantyre,Malawi,False
+2019-09-10 00:00:00,Mozambique,Mauritius,2,0,FIFA World Cup qualification,Maputo,Mozambique,False
+2019-09-10 00:00:00,Namibia,Eritrea,2,0,FIFA World Cup qualification,Windhoek,Namibia,False
+2019-09-10 00:00:00,Rwanda,Seychelles,7,0,FIFA World Cup qualification,Kigali,Rwanda,False
+2019-09-10 00:00:00,Sudan,Chad,0,0,FIFA World Cup qualification,Omdurman,Sudan,False
+2019-09-10 00:00:00,Eswatini,Djibouti,0,0,FIFA World Cup qualification,Manzini,Eswatini,False
+2019-09-10 00:00:00,Togo,Comoros,2,0,FIFA World Cup qualification,Lom√©,Togo,False
+2019-09-10 00:00:00,Zimbabwe,Somalia,3,1,FIFA World Cup qualification,Harare,Zimbabwe,False
+2019-09-18 00:00:00,DR Congo,Rwanda,2,3,Friendly,Kinshasa,DR Congo,False
+2019-09-21 00:00:00,Burundi,Uganda,0,3,African Nations Championship qualification,Bujumbura,Burundi,False
+2019-09-21 00:00:00,Algeria,Morocco,0,0,African Nations Championship qualification,Blida,Algeria,False
+2019-09-21 00:00:00,Tunisia,Libya,1,0,African Nations Championship qualification,Rad√®s,Tunisia,False
+2019-09-21 00:00:00,Mauritania,Mali,0,0,African Nations Championship qualification,Nouakchott,Mauritania,False
+2019-09-21 00:00:00,Senegal,Guinea,1,0,African Nations Championship qualification,Thi√®s,Senegal,False
+2019-09-22 00:00:00,Central African Republic,DR Congo,0,2,African Nations Championship qualification,Bangui,Central African Republic,False
+2019-09-22 00:00:00,Equatorial Guinea,Congo,2,2,African Nations Championship qualification,Malabo,Equatorial Guinea,False
+2019-09-22 00:00:00,Ethiopia,Rwanda,0,1,African Nations Championship qualification,Mekele,Ethiopia,False
+2019-09-22 00:00:00,Tanzania,Sudan,0,1,African Nations Championship qualification,Dar es Salaam,Tanzania,False
+2019-09-22 00:00:00,Madagascar,Namibia,1,0,African Nations Championship qualification,Antananarivo,Madagascar,False
+2019-09-22 00:00:00,Eswatini,Zambia,0,1,African Nations Championship qualification,Manzini,Eswatini,False
+2019-09-22 00:00:00,Zimbabwe,Lesotho,3,1,African Nations Championship qualification,Harare,Zimbabwe,False
+2019-09-22 00:00:00,Ghana,Burkina Faso,0,1,African Nations Championship qualification,Kumasi,Ghana,False
+2019-09-22 00:00:00,Niger,Ivory Coast,2,0,African Nations Championship qualification,Niamey,Niger,False
+2019-09-22 00:00:00,Togo,Nigeria,4,1,African Nations Championship qualification,Lom√©,Togo,False
+2019-09-29 00:00:00,Bangladesh,Bhutan,4,1,Friendly,Dhaka,Bangladesh,False
+2019-09-30 00:00:00,Botswana,Liberia,0,0,Friendly,Gaborone,Botswana,False
+2019-10-02 00:00:00,Mexico,Trinidad and Tobago,2,0,Friendly,Toluca,Mexico,False
+2019-10-03 00:00:00,Bangladesh,Bhutan,2,0,Friendly,Dhaka,Bangladesh,False
+2019-10-05 00:00:00,Jordan,Singapore,0,0,Friendly,Amman,Jordan,False
+2019-10-05 00:00:00,Malaysia,Sri Lanka,6,0,Friendly,Kuala Lumpur,Malaysia,False
+2019-10-09 00:00:00,Djibouti,Gambia,1,1,African Cup of Nations qualification,Djibouti,Djibouti,False
+2019-10-09 00:00:00,Liberia,Chad,1,0,African Cup of Nations qualification,Monrovia,Liberia,False
+2019-10-09 00:00:00,Mauritius,S√£o Tom√© and Pr√≠ncipe,1,3,African Cup of Nations qualification,Belle Vue Harel,Mauritius,False
+2019-10-09 00:00:00,South Sudan,Seychelles,2,1,African Cup of Nations qualification,Omdurman,Sudan,True
+2019-10-09 00:00:00,Bahrain,Azerbaijan,2,3,Friendly,Riffa,Bahrain,False
+2019-10-09 00:00:00,Germany,Argentina,2,2,Friendly,Dortmund,Germany,False
+2019-10-10 00:00:00,Belarus,Estonia,0,0,UEFA Euro qualification,Minsk,Belarus,False
+2019-10-10 00:00:00,Netherlands,Northern Ireland,3,1,UEFA Euro qualification,Rotterdam,Netherlands,False
+2019-10-10 00:00:00,Croatia,Hungary,3,0,UEFA Euro qualification,Split,Croatia,False
+2019-10-10 00:00:00,Slovakia,Wales,1,1,UEFA Euro qualification,Trnava,Slovakia,False
+2019-10-10 00:00:00,Austria,Israel,3,1,UEFA Euro qualification,Vienna,Austria,False
+2019-10-10 00:00:00,North Macedonia,Slovenia,2,1,UEFA Euro qualification,Skopje,North Macedonia,False
+2019-10-10 00:00:00,Latvia,Poland,0,3,UEFA Euro qualification,Riga,Latvia,False
+2019-10-10 00:00:00,Kazakhstan,Cyprus,1,2,UEFA Euro qualification,Nur-Sultan,Kazakhstan,False
+2019-10-10 00:00:00,Belgium,San Marino,9,0,UEFA Euro qualification,Brussels,Belgium,False
+2019-10-10 00:00:00,Russia,Scotland,4,0,UEFA Euro qualification,Moscow,Russia,False
+2019-10-10 00:00:00,Algeria,DR Congo,1,1,Friendly,Blida,Algeria,False
+2019-10-10 00:00:00,Brazil,Senegal,1,1,Friendly,Kallang,Singapore,True
+2019-10-10 00:00:00,Cape Verde,Togo,2,1,Friendly,Fos-sur-Mer,Cape Verde,False
+2019-10-10 00:00:00,Gabon,Burkina Faso,1,0,Friendly,Paris,France,True
+2019-10-10 00:00:00,Kosovo,Gibraltar,1,0,Friendly,Pristina,Kosovo,False
+2019-10-10 00:00:00,Niger,Zambia,1,1,Friendly,Niamey,Niger,False
+2019-10-10 00:00:00,Serbia,Paraguay,1,0,Friendly,Belgrade,Serbia,False
+2019-10-10 00:00:00,Thailand,Congo,1,1,Friendly,Thanyaburi,Thailand,False
+2019-10-10 00:00:00,Venezuela,Bolivia,4,1,Friendly,Caracas,Venezuela,False
+2019-10-10 00:00:00,Trinidad and Tobago,Honduras,0,2,CONCACAF Nations League,Port of Spain,Trinidad and Tobago,False
+2019-10-10 00:00:00,Haiti,Costa Rica,1,1,CONCACAF Nations League,Port-au-Prince,Haiti,False
+2019-10-10 00:00:00,Belize,Saint Kitts and Nevis,0,4,CONCACAF Nations League,Belmopan,Belize,False
+2019-10-10 00:00:00,French Guiana,Grenada,0,0,CONCACAF Nations League,Cayenne,French Guiana,False
+2019-10-10 00:00:00,British Virgin Islands,Bahamas,0,4,CONCACAF Nations League,Basseterre,Saint Kitts and Nevis,True
+2019-10-10 00:00:00,Sint Maarten,Turks and Caicos Islands,2,5,CONCACAF Nations League,Willemstad,Cura√ßao,True
+2019-10-10 00:00:00,Syria,Maldives,2,1,FIFA World Cup qualification,Dubai,United Arab Emirates,True
+2019-10-10 00:00:00,China PR,Guam,7,0,FIFA World Cup qualification,Guangzhou,China PR,False
+2019-10-10 00:00:00,Jordan,Kuwait,0,0,FIFA World Cup qualification,Amman,Jordan,False
+2019-10-10 00:00:00,Australia,Nepal,5,0,FIFA World Cup qualification,Canberra,Australia,False
+2019-10-10 00:00:00,Iran,Cambodia,14,0,FIFA World Cup qualification,Tehran,Iran,False
+2019-10-10 00:00:00,Iraq,Hong Kong,2,0,FIFA World Cup qualification,Basra,Iraq,False
+2019-10-10 00:00:00,Uzbekistan,Yemen,5,0,FIFA World Cup qualification,Tashkent,Uzbekistan,False
+2019-10-10 00:00:00,Saudi Arabia,Singapore,3,0,FIFA World Cup qualification,Buraidah,Saudi Arabia,False
+2019-10-10 00:00:00,Bangladesh,Qatar,0,2,FIFA World Cup qualification,Dhaka,Bangladesh,False
+2019-10-10 00:00:00,Oman,Afghanistan,3,0,FIFA World Cup qualification,Seeb,Oman,False
+2019-10-10 00:00:00,Japan,Mongolia,6,0,FIFA World Cup qualification,Saitama,Japan,False
+2019-10-10 00:00:00,Kyrgyzstan,Myanmar,7,0,FIFA World Cup qualification,Bishkek,Kyrgyzstan,False
+2019-10-10 00:00:00,United Arab Emirates,Indonesia,5,0,FIFA World Cup qualification,Dubai,United Arab Emirates,False
+2019-10-10 00:00:00,Vietnam,Malaysia,1,0,FIFA World Cup qualification,Hanoi,Vietnam,False
+2019-10-10 00:00:00,Lebanon,Turkmenistan,2,1,FIFA World Cup qualification,Beirut,Lebanon,False
+2019-10-10 00:00:00,South Korea,Sri Lanka,8,0,FIFA World Cup qualification,Hwaseong,South Korea,False
+2019-10-11 00:00:00,Czech Republic,England,2,1,UEFA Euro qualification,Prague,Czech Republic,False
+2019-10-11 00:00:00,Montenegro,Bulgaria,0,0,UEFA Euro qualification,Podgorica,Montenegro,False
+2019-10-11 00:00:00,Portugal,Luxembourg,3,0,UEFA Euro qualification,Lisbon,Portugal,False
+2019-10-11 00:00:00,Ukraine,Lithuania,2,0,UEFA Euro qualification,Kharkiv,Ukraine,False
+2019-10-11 00:00:00,Iceland,France,0,1,UEFA Euro qualification,Reykjav√≠k,Iceland,False
+2019-10-11 00:00:00,Andorra,Moldova,1,0,UEFA Euro qualification,Andorra la Vella,Andorra,False
+2019-10-11 00:00:00,Turkey,Albania,1,0,UEFA Euro qualification,Istanbul,Turkey,False
+2019-10-11 00:00:00,Morocco,Libya,1,1,Friendly,Morocco,Morocco,False
+2019-10-11 00:00:00,Uruguay,Peru,1,0,Friendly,Montevideo,Uruguay,False
+2019-10-11 00:00:00,United States,Cuba,7,0,CONCACAF Nations League,Washington,United States,False
+2019-10-11 00:00:00,Bermuda,Mexico,1,5,CONCACAF Nations League,Hamilton,Bermuda,False
+2019-10-11 00:00:00,Antigua and Barbuda,Guyana,2,1,CONCACAF Nations League,North Sound,Antigua and Barbuda,False
+2019-10-11 00:00:00,Saint Vincent and the Grenadines,Suriname,2,2,CONCACAF Nations League,Arnos Vale,Saint Vincent and the Grenadines,False
+2019-10-11 00:00:00,Nicaragua,Dominica,3,1,CONCACAF Nations League,Managua,Nicaragua,False
+2019-10-12 00:00:00,Georgia,Republic of Ireland,0,0,UEFA Euro qualification,Tbilisi,Georgia,False
+2019-10-12 00:00:00,Denmark,Switzerland,1,0,UEFA Euro qualification,Copenhagen,Denmark,False
+2019-10-12 00:00:00,Faroe Islands,Romania,0,3,UEFA Euro qualification,T√≥rshavn,Faroe Islands,False
+2019-10-12 00:00:00,Malta,Sweden,0,4,UEFA Euro qualification,Attard,Malta,False
+2019-10-12 00:00:00,Norway,Spain,1,1,UEFA Euro qualification,Oslo,Norway,False
+2019-10-12 00:00:00,Bosnia and Herzegovina,Finland,4,1,UEFA Euro qualification,Zenica,Bosnia and Herzegovina,False
+2019-10-12 00:00:00,Italy,Greece,2,0,UEFA Euro qualification,Rome,Italy,False
+2019-10-12 00:00:00,Liechtenstein,Armenia,1,1,UEFA Euro qualification,Vaduz,Liechtenstein,False
+2019-10-12 00:00:00,Colombia,Chile,0,0,Friendly,Alicante,Spain,True
+2019-10-12 00:00:00,Guinea,Comoros,0,1,Friendly,Guinea,Guinea,False
+2019-10-12 00:00:00,Ivory Coast,DR Congo,3,1,Friendly,Ivory Coast,Ivory Coast,False
+2019-10-12 00:00:00,Tunisia,Cameroon,0,0,Friendly,Rad√®s,Tunisia,False
+2019-10-12 00:00:00,Dominican Republic,Saint Lucia,3,0,CONCACAF Nations League,Santo Domingo,Dominican Republic,False
+2019-10-12 00:00:00,Montserrat,El Salvador,0,2,CONCACAF Nations League,Lookout,Montserrat,False
+2019-10-12 00:00:00,Jamaica,Aruba,2,0,CONCACAF Nations League,Kingston,Jamaica,False
+2019-10-12 00:00:00,Barbados,United States Virgin Islands,1,0,CONCACAF Nations League,Bridgetown,Barbados,False
+2019-10-12 00:00:00,Saint Martin,Cayman Islands,3,0,CONCACAF Nations League,The Valley,Anguilla,True
+2019-10-12 00:00:00,Anguilla,Guatemala,0,5,CONCACAF Nations League,The Valley,Anguilla,False
+2019-10-13 00:00:00,Belarus,Netherlands,1,2,UEFA Euro qualification,Minsk,Belarus,False
+2019-10-13 00:00:00,Estonia,Germany,0,3,UEFA Euro qualification,Tallinn,Estonia,False
+2019-10-13 00:00:00,Hungary,Azerbaijan,1,0,UEFA Euro qualification,Budapest,Hungary,False
+2019-10-13 00:00:00,Wales,Croatia,1,1,UEFA Euro qualification,Cardiff,Wales,False
+2019-10-13 00:00:00,Poland,North Macedonia,2,0,UEFA Euro qualification,Warsaw,Poland,False
+2019-10-13 00:00:00,Slovenia,Austria,0,1,UEFA Euro qualification,Ljubljana,Slovenia,False
+2019-10-13 00:00:00,Scotland,San Marino,6,0,UEFA Euro qualification,Glasgow,Scotland,False
+2019-10-13 00:00:00,Cyprus,Russia,0,5,UEFA Euro qualification,Nicosia,Cyprus,False
+2019-10-13 00:00:00,Kazakhstan,Belgium,0,2,UEFA Euro qualification,Nur-Sultan,Kazakhstan,False
+2019-10-13 00:00:00,Gambia,Djibouti,1,1,African Cup of Nations qualification,Bakau,Gambia,False
+2019-10-13 00:00:00,Chad,Liberia,1,0,African Cup of Nations qualification,N'Djamena,Chad,False
+2019-10-13 00:00:00,S√£o Tom√© and Pr√≠ncipe,Mauritius,2,1,African Cup of Nations qualification,S√£o Tom√©,S√£o Tom√© and Pr√≠ncipe,False
+2019-10-13 00:00:00,Seychelles,South Sudan,0,1,African Cup of Nations qualification,Victoria,Seychelles,False
+2019-10-13 00:00:00,Benin,Zambia,2,2,Friendly,Benin,Benin,False
+2019-10-13 00:00:00,Brazil,Nigeria,1,1,Friendly,Kallang,Singapore,True
+2019-10-13 00:00:00,Ecuador,Argentina,1,6,Friendly,Elche,Spain,True
+2019-10-13 00:00:00,Equatorial Guinea,Togo,1,1,Friendly,Equatorial Guinea,Equatorial Guinea,False
+2019-10-13 00:00:00,Ethiopia,Uganda,0,1,Friendly,Ethiopia,Ethiopia,False
+2019-10-13 00:00:00,Kenya,Mozambique,0,1,Friendly,Kenya,Kenya,False
+2019-10-13 00:00:00,Lesotho,Malawi,1,1,Friendly,Lesotho,Lesotho,False
+2019-10-13 00:00:00,Niger,Central African Republic,0,2,Friendly,Niger,Niger,False
+2019-10-13 00:00:00,Slovakia,Paraguay,1,1,Friendly,Bratislava,Slovakia,False
+2019-10-13 00:00:00,South Africa,Mali,2,1,Friendly,Port Elizabeth,South Africa,False
+2019-10-13 00:00:00,Honduras,Martinique,1,0,CONCACAF Nations League,San Pedro Sula,Honduras,False
+2019-10-13 00:00:00,Costa Rica,Cura√ßao,0,0,CONCACAF Nations League,San Jos√©,Costa Rica,False
+2019-10-13 00:00:00,Saint Kitts and Nevis,Belize,0,1,CONCACAF Nations League,Saint Kitts and Nevis,Saint Kitts and Nevis,False
+2019-10-13 00:00:00,Grenada,French Guiana,1,0,CONCACAF Nations League,Grenada,Grenada,False
+2019-10-13 00:00:00,British Virgin Islands,Bonaire,3,4,CONCACAF Nations League,Basseterre,Saint Kitts and Nevis,True
+2019-10-14 00:00:00,Kosovo,Montenegro,2,0,UEFA Euro qualification,Pristina,Kosovo,False
+2019-10-14 00:00:00,Bulgaria,England,0,6,UEFA Euro qualification,Sofia,Bulgaria,False
+2019-10-14 00:00:00,Lithuania,Serbia,1,2,UEFA Euro qualification,Vilnius,Lithuania,False
+2019-10-14 00:00:00,Ukraine,Portugal,2,1,UEFA Euro qualification,Kyiv,Ukraine,False
+2019-10-14 00:00:00,Iceland,Andorra,2,0,UEFA Euro qualification,Reykjav√≠k,Iceland,False
+2019-10-14 00:00:00,France,Turkey,1,1,UEFA Euro qualification,Paris,France,False
+2019-10-14 00:00:00,Moldova,Albania,0,4,UEFA Euro qualification,Chi»ôinƒÉu,Moldova,False
+2019-10-14 00:00:00,Czech Republic,Northern Ireland,2,3,Friendly,Prague,Czech Republic,False
+2019-10-14 00:00:00,Egypt,Botswana,1,0,Friendly,Cairo,Egypt,False
+2019-10-14 00:00:00,Rwanda,Tanzania,0,0,Friendly,Rwanda,Rwanda,False
+2019-10-14 00:00:00,Venezuela,Trinidad and Tobago,2,0,Friendly,Caracas,Venezuela,False
+2019-10-14 00:00:00,Guyana,Antigua and Barbuda,5,1,CONCACAF Nations League,Leonora,Guyana,False
+2019-10-14 00:00:00,Dominica,Nicaragua,0,4,CONCACAF Nations League,Roseau,Dominica,False
+2019-10-14 00:00:00,Suriname,Saint Vincent and the Grenadines,0,1,CONCACAF Nations League,Paramaribo,Suriname,False
+2019-10-14 00:00:00,Sint Maarten,Guadeloupe,1,2,CONCACAF Nations League,Willemstad,Cura√ßao,True
+2019-10-15 00:00:00,Gibraltar,Georgia,2,3,UEFA Euro qualification,Gibraltar,Gibraltar,False
+2019-10-15 00:00:00,Switzerland,Republic of Ireland,2,0,UEFA Euro qualification,Geneva,Switzerland,False
+2019-10-15 00:00:00,Faroe Islands,Malta,1,0,UEFA Euro qualification,T√≥rshavn,Faroe Islands,False
+2019-10-15 00:00:00,Sweden,Spain,1,1,UEFA Euro qualification,Stockholm,Sweden,False
+2019-10-15 00:00:00,Romania,Norway,1,1,UEFA Euro qualification,Bucharest,Romania,False
+2019-10-15 00:00:00,Israel,Latvia,3,1,UEFA Euro qualification,Beer Sheva,Israel,False
+2019-10-15 00:00:00,Finland,Armenia,3,0,UEFA Euro qualification,Turku,Finland,False
+2019-10-15 00:00:00,Liechtenstein,Italy,0,5,UEFA Euro qualification,Vaduz,Liechtenstein,False
+2019-10-15 00:00:00,Greece,Bosnia and Herzegovina,2,1,UEFA Euro qualification,Athens,Greece,False
+2019-10-15 00:00:00,Algeria,Colombia,3,0,Friendly,Villeneuve D'Ascq,Algeria,False
+2019-10-15 00:00:00,Bermuda,Guatemala,0,0,Friendly,Hamilton,Bermuda,False
+2019-10-15 00:00:00,Bolivia,Haiti,3,1,Friendly,Santa Cruz,Bolivia,False
+2019-10-15 00:00:00,Chile,Guinea,3,2,Friendly,Alicante,Spain,True
+2019-10-15 00:00:00,Denmark,Luxembourg,4,0,Friendly,Aalborg,Denmark,False
+2019-10-15 00:00:00,Kuwait,Turkmenistan,1,1,Friendly,Kuwait City,Kuwait,False
+2019-10-15 00:00:00,Mauritania,Libya,0,0,Friendly,Nouakchott,Mauritania,False
+2019-10-15 00:00:00,Morocco,Gabon,2,3,Friendly,Morocco,Morocco,False
+2019-10-15 00:00:00,Peru,Uruguay,1,1,Friendly,Lima,Peru,False
+2019-10-15 00:00:00,Canada,United States,2,0,CONCACAF Nations League,Toronto,Canada,False
+2019-10-15 00:00:00,Mexico,Panama,3,1,CONCACAF Nations League,Mexico City,Mexico,False
+2019-10-15 00:00:00,Dominican Republic,Montserrat,0,0,CONCACAF Nations League,Santo Domingo,Dominican Republic,False
+2019-10-15 00:00:00,Saint Lucia,El Salvador,0,2,CONCACAF Nations League,Gros Islet,Saint Lucia,False
+2019-10-15 00:00:00,Aruba,Jamaica,0,6,CONCACAF Nations League,Willemstad,Cura√ßao,True
+2019-10-15 00:00:00,Cayman Islands,Saint Martin,1,0,CONCACAF Nations League,George Town,Cayman Islands,False
+2019-10-15 00:00:00,United States Virgin Islands,Barbados,0,4,CONCACAF Nations League,Saint Croix,United States Virgin Islands,False
+2019-10-15 00:00:00,Anguilla,Puerto Rico,2,3,CONCACAF Nations League,The Valley,Anguilla,False
+2019-10-15 00:00:00,Syria,Guam,4,0,FIFA World Cup qualification,Dubai,United Arab Emirates,True
+2019-10-15 00:00:00,Philippines,China PR,0,0,FIFA World Cup qualification,Bacolod,Philippines,False
+2019-10-15 00:00:00,Jordan,Nepal,3,0,FIFA World Cup qualification,Amman,Jordan,False
+2019-10-15 00:00:00,Taiwan,Australia,1,7,FIFA World Cup qualification,Kaohsiung,Taiwan,False
+2019-10-15 00:00:00,Cambodia,Iraq,0,4,FIFA World Cup qualification,Phnom Penh,Cambodia,False
+2019-10-15 00:00:00,Bahrain,Iran,1,0,FIFA World Cup qualification,Riffa,Bahrain,False
+2019-10-15 00:00:00,Palestine,Saudi Arabia,0,0,FIFA World Cup qualification,Al-Ram,Palestine,False
+2019-10-15 00:00:00,Singapore,Uzbekistan,1,3,FIFA World Cup qualification,Kallang,Singapore,False
+2019-10-15 00:00:00,India,Bangladesh,1,1,FIFA World Cup qualification,Kolkota,India,False
+2019-10-15 00:00:00,Qatar,Oman,2,1,FIFA World Cup qualification,Al Wakrah,Qatar,False
+2019-10-15 00:00:00,Mongolia,Kyrgyzstan,1,2,FIFA World Cup qualification,Ulaanbaatar,Mongolia,False
+2019-10-15 00:00:00,Tajikistan,Japan,0,3,FIFA World Cup qualification,Dushanbe,Tajikistan,False
+2019-10-15 00:00:00,Thailand,United Arab Emirates,2,1,FIFA World Cup qualification,Pathum Thani,Thailand,False
+2019-10-15 00:00:00,Indonesia,Vietnam,1,3,FIFA World Cup qualification,Gianyar,Indonesia,False
+2019-10-15 00:00:00,North Korea,South Korea,0,0,FIFA World Cup qualification,Pyongyang,North Korea,False
+2019-10-15 00:00:00,Sri Lanka,Lebanon,0,3,FIFA World Cup qualification,Colombo,Sri Lanka,False
+2019-10-18 00:00:00,Sudan,Tanzania,1,2,African Nations Championship qualification,Omdurman,Sudan,False
+2019-10-19 00:00:00,Rwanda,Ethiopia,1,1,African Nations Championship qualification,Rwanda,Rwanda,False
+2019-10-19 00:00:00,Uganda,Burundi,3,0,African Nations Championship qualification,Uganda,Uganda,False
+2019-10-19 00:00:00,Morocco,Algeria,3,0,African Nations Championship qualification,Berkane,Morocco,False
+2019-10-19 00:00:00,Namibia,Madagascar,2,0,African Nations Championship qualification,Namibia,Namibia,False
+2019-10-19 00:00:00,Zambia,Eswatini,2,2,African Nations Championship qualification,Zambia,Zambia,False
+2019-10-19 00:00:00,Nigeria,Togo,2,0,African Nations Championship qualification,Nigeria,Nigeria,False
+2019-10-20 00:00:00,Congo,Equatorial Guinea,1,0,African Nations Championship qualification,Congo,Congo,False
+2019-10-20 00:00:00,DR Congo,Central African Republic,4,1,African Nations Championship qualification,DR Congo,DR Congo,False
+2019-10-20 00:00:00,Libya,Tunisia,1,2,African Nations Championship qualification,Libya,Libya,False
+2019-10-20 00:00:00,Lesotho,Zimbabwe,0,0,African Nations Championship qualification,Lesotho,Lesotho,False
+2019-10-20 00:00:00,Guinea,Senegal,1,0,African Nations Championship qualification,Conakry,Guinea,False
+2019-10-20 00:00:00,Mali,Mauritania,2,0,African Nations Championship qualification,Mali,Mali,False
+2019-10-20 00:00:00,Burkina Faso,Ghana,0,0,African Nations Championship qualification,Burkina Faso,Burkina Faso,False
+2019-10-20 00:00:00,Ivory Coast,Niger,1,0,African Nations Championship qualification,Ivory Coast,Ivory Coast,False
+2019-11-07 00:00:00,Egypt,Liberia,1,0,Friendly,Alexandria,Egypt,False
+2019-11-07 00:00:00,Nicaragua,Cuba,0,0,Friendly,Managua,Nicaragua,False
+2019-11-09 00:00:00,Malaysia,Tajikistan,1,0,Friendly,Kuala Lumpur,Malaysia,False
+2019-11-09 00:00:00,Namibia,Zambia,0,2,Friendly,Windhoek,Namibia,False
+2019-11-09 00:00:00,Uzbekistan,Kyrgyzstan,3,1,Friendly,Tashkent,Uzbekistan,False
+2019-11-10 00:00:00,Nicaragua,Cuba,0,1,Friendly,Managua,Nicaragua,False
+2019-11-10 00:00:00,Trinidad and Tobago,Anguilla,15,0,Friendly,Couva,Trinidad and Tobago,False
+2019-11-13 00:00:00,Namibia,Chad,2,1,African Cup of Nations qualification,Windhoek,Namibia,False
+2019-11-13 00:00:00,Malawi,South Sudan,1,0,African Cup of Nations qualification,Blantyre,Malawi,False
+2019-11-13 00:00:00,Burkina Faso,Uganda,0,0,African Cup of Nations qualification,Ouagadougou,Burkina Faso,False
+2019-11-13 00:00:00,Sudan,S√£o Tom√© and Pr√≠ncipe,4,0,African Cup of Nations qualification,Omdurman,Sudan,False
+2019-11-13 00:00:00,Angola,Gambia,1,3,African Cup of Nations qualification,Luanda,Angola,False
+2019-11-13 00:00:00,Central African Republic,Burundi,2,0,African Cup of Nations qualification,Bangui,Central African Republic,False
+2019-11-13 00:00:00,Cameroon,Cape Verde,0,0,African Cup of Nations qualification,Yaound√©,Cameroon,False
+2019-11-13 00:00:00,Guinea-Bissau,Eswatini,3,0,African Cup of Nations qualification,Bissau,Guinea-Bissau,False
+2019-11-13 00:00:00,Senegal,Congo,2,0,African Cup of Nations qualification,Thi√®s,Senegal,False
+2019-11-13 00:00:00,Nigeria,Benin,2,1,African Cup of Nations qualification,Uyo,Nigeria,False
+2019-11-13 00:00:00,Sierra Leone,Lesotho,1,1,African Cup of Nations qualification,Freetown,Sierra Leone,False
+2019-11-14 00:00:00,Mali,Guinea,2,2,African Cup of Nations qualification,Bamako,Mali,False
+2019-11-14 00:00:00,Ghana,South Africa,2,0,African Cup of Nations qualification,Cape Coast,Ghana,False
+2019-11-14 00:00:00,DR Congo,Gabon,0,0,African Cup of Nations qualification,Kinshasa,DR Congo,False
+2019-11-14 00:00:00,Mozambique,Rwanda,2,0,African Cup of Nations qualification,Maputo,Mozambique,False
+2019-11-14 00:00:00,Egypt,Kenya,1,1,African Cup of Nations qualification,Alexandria,Egypt,False
+2019-11-14 00:00:00,Togo,Comoros,0,1,African Cup of Nations qualification,Lom√©,Togo,False
+2019-11-14 00:00:00,Algeria,Zambia,5,0,African Cup of Nations qualification,Blida,Algeria,False
+2019-11-14 00:00:00,England,Montenegro,7,0,UEFA Euro qualification,London,England,False
+2019-11-14 00:00:00,Czech Republic,Kosovo,2,1,UEFA Euro qualification,Plze≈à,Czech Republic,False
+2019-11-14 00:00:00,Portugal,Lithuania,6,0,UEFA Euro qualification,Faro-Loul√©,Portugal,False
+2019-11-14 00:00:00,Serbia,Luxembourg,3,2,UEFA Euro qualification,Belgrade,Serbia,False
+2019-11-14 00:00:00,Turkey,Iceland,0,0,UEFA Euro qualification,Istanbul,Turkey,False
+2019-11-14 00:00:00,Albania,Andorra,2,2,UEFA Euro qualification,Elbasan,Albania,False
+2019-11-14 00:00:00,France,Moldova,2,1,UEFA Euro qualification,Paris,France,False
+2019-11-14 00:00:00,Martinique,Honduras,1,1,CONCACAF Nations League,Fort-de-France,Martinique,False
+2019-11-14 00:00:00,Cura√ßao,Costa Rica,1,2,CONCACAF Nations League,Willemstad,Cura√ßao,False
+2019-11-14 00:00:00,Saint Kitts and Nevis,Grenada,0,0,CONCACAF Nations League,Basseterre,Saint Kitts and Nevis,False
+2019-11-14 00:00:00,Belize,French Guiana,2,0,CONCACAF Nations League,Belmopan,Belize,False
+2019-11-14 00:00:00,Bahamas,British Virgin Islands,3,0,CONCACAF Nations League,Nassau,Bahamas,False
+2019-11-14 00:00:00,Turks and Caicos Islands,Sint Maarten,3,2,CONCACAF Nations League,Providenciales,Turks and Caicos Islands,False
+2019-11-14 00:00:00,Bulgaria,Paraguay,0,1,Friendly,Sofia,Bulgaria,False
+2019-11-14 00:00:00,Cambodia,Mongolia,1,1,Friendly,Phnom Penh,Cambodia,False
+2019-11-14 00:00:00,Ecuador,Trinidad and Tobago,3,0,Friendly,Portoviejo,Ecuador,False
+2019-11-14 00:00:00,Qatar,Singapore,2,0,Friendly,Doha,Qatar,False
+2019-11-14 00:00:00,Republic of Ireland,New Zealand,3,1,Friendly,Dublin,Republic of Ireland,False
+2019-11-14 00:00:00,Ukraine,Estonia,1,0,Friendly,Zaporizhia,Ukraine,False
+2019-11-14 00:00:00,Maldives,Philippines,1,2,FIFA World Cup qualification,Mal√©,Maldives,False
+2019-11-14 00:00:00,Syria,China PR,2,1,FIFA World Cup qualification,Dubai,United Arab Emirates,True
+2019-11-14 00:00:00,Jordan,Australia,0,1,FIFA World Cup qualification,Amman,Jordan,False
+2019-11-14 00:00:00,Kuwait,Taiwan,9,0,FIFA World Cup qualification,Kuwait City,Kuwait,False
+2019-11-14 00:00:00,Iraq,Iran,2,1,FIFA World Cup qualification,Amman,Jordan,True
+2019-11-14 00:00:00,Hong Kong,Bahrain,0,0,FIFA World Cup qualification,Hong Kong,Hong Kong,False
+2019-11-14 00:00:00,Uzbekistan,Saudi Arabia,2,3,FIFA World Cup qualification,Tashkent,Uzbekistan,False
+2019-11-14 00:00:00,Yemen,Palestine,1,0,FIFA World Cup qualification,Muharraq,Bahrain,True
+2019-11-14 00:00:00,Afghanistan,India,1,1,FIFA World Cup qualification,Dushanbe,Tajikistan,True
+2019-11-14 00:00:00,Oman,Bangladesh,4,1,FIFA World Cup qualification,Muscat,Oman,False
+2019-11-14 00:00:00,Myanmar,Tajikistan,4,3,FIFA World Cup qualification,Mandalay,Myanmar,False
+2019-11-14 00:00:00,Kyrgyzstan,Japan,0,2,FIFA World Cup qualification,Bishkek,Kyrgyzstan,False
+2019-11-14 00:00:00,Vietnam,United Arab Emirates,1,0,FIFA World Cup qualification,Hanoi,Vietnam,False
+2019-11-14 00:00:00,Malaysia,Thailand,2,1,FIFA World Cup qualification,Kuala Lumpur,Malaysia,False
+2019-11-14 00:00:00,Lebanon,South Korea,0,0,FIFA World Cup qualification,Beirut,Lebanon,False
+2019-11-14 00:00:00,Turkmenistan,North Korea,3,1,FIFA World Cup qualification,Ashgabat,Turkmenistan,False
+2019-11-15 00:00:00,Morocco,Mauritania,0,0,African Cup of Nations qualification,Rabat,Morocco,False
+2019-11-15 00:00:00,Zimbabwe,Botswana,0,0,African Cup of Nations qualification,Harare,Zimbabwe,False
+2019-11-15 00:00:00,Tanzania,Equatorial Guinea,2,1,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+2019-11-15 00:00:00,Tunisia,Libya,4,1,African Cup of Nations qualification,Rad√®s,Tunisia,False
+2019-11-15 00:00:00,Denmark,Gibraltar,6,0,UEFA Euro qualification,Copenhagen,Denmark,False
+2019-11-15 00:00:00,Switzerland,Georgia,1,0,UEFA Euro qualification,St. Gallen,Switzerland,False
+2019-11-15 00:00:00,Norway,Faroe Islands,4,0,UEFA Euro qualification,Oslo,Norway,False
+2019-11-15 00:00:00,Spain,Malta,7,0,UEFA Euro qualification,C√°diz,Spain,False
+2019-11-15 00:00:00,Romania,Sweden,0,2,UEFA Euro qualification,Bucharest,Romania,False
+2019-11-15 00:00:00,Finland,Liechtenstein,3,0,UEFA Euro qualification,Helsinki,Finland,False
+2019-11-15 00:00:00,Brazil,Argentina,0,1,Supercl√°sico de las Am√©ricas,Riyadh,Saudi Arabia,True
+2019-11-15 00:00:00,Bosnia and Herzegovina,Italy,0,3,UEFA Euro qualification,Zenica,Bosnia and Herzegovina,False
+2019-11-15 00:00:00,Armenia,Greece,0,1,UEFA Euro qualification,Yerevan,Armenia,False
+2019-11-15 00:00:00,United States,Canada,4,1,CONCACAF Nations League,Orlando,United States,False
+2019-11-15 00:00:00,Panama,Mexico,0,3,CONCACAF Nations League,Panama City,Panama,False
+2019-11-15 00:00:00,Antigua and Barbuda,Jamaica,0,2,CONCACAF Nations League,North Sound,Antigua and Barbuda,False
+2019-11-15 00:00:00,Guyana,Aruba,4,2,CONCACAF Nations League,Leonora,Guyana,False
+2019-11-15 00:00:00,Saint Vincent and the Grenadines,Nicaragua,1,0,CONCACAF Nations League,Arnos Vale,Saint Vincent and the Grenadines,False
+2019-11-15 00:00:00,Suriname,Dominica,4,0,CONCACAF Nations League,Paramaribo,Suriname,False
+2019-11-15 00:00:00,Colombia,Peru,1,0,Friendly,Miami Gardens,United States,True
+2019-11-15 00:00:00,Hungary,Uruguay,1,2,Friendly,Budapest,Hungary,False
+2019-11-16 00:00:00,Ivory Coast,Niger,1,0,African Cup of Nations qualification,Abidjan,Ivory Coast,False
+2019-11-16 00:00:00,Madagascar,Ethiopia,1,0,African Cup of Nations qualification,Antananarivo,Madagascar,False
+2019-11-16 00:00:00,Northern Ireland,Netherlands,0,0,UEFA Euro qualification,Belfast,Northern Ireland,False
+2019-11-16 00:00:00,Germany,Belarus,4,0,UEFA Euro qualification,M√∂nchengladbach,Germany,False
+2019-11-16 00:00:00,Croatia,Slovakia,3,1,UEFA Euro qualification,Rijeka,Croatia,False
+2019-11-16 00:00:00,Azerbaijan,Wales,0,2,UEFA Euro qualification,Baku,Azerbaijan,False
+2019-11-16 00:00:00,Slovenia,Latvia,1,0,UEFA Euro qualification,Ljubljana,Slovenia,False
+2019-11-16 00:00:00,Austria,North Macedonia,2,1,UEFA Euro qualification,Vienna,Austria,False
+2019-11-16 00:00:00,Israel,Poland,1,2,UEFA Euro qualification,Jerusalem,Israel,False
+2019-11-16 00:00:00,Cyprus,Scotland,1,2,UEFA Euro qualification,Nicosia,Cyprus,False
+2019-11-16 00:00:00,San Marino,Kazakhstan,1,3,UEFA Euro qualification,Serravalle,San Marino,False
+2019-11-16 00:00:00,Russia,Belgium,1,4,UEFA Euro qualification,Saint Petersburg,Russia,False
+2019-11-16 00:00:00,Saint Lucia,Dominican Republic,1,0,CONCACAF Nations League,Gros Islet,Saint Lucia,False
+2019-11-16 00:00:00,El Salvador,Montserrat,1,0,CONCACAF Nations League,San Salvador,El Salvador,False
+2019-11-16 00:00:00,Saint Martin,Barbados,1,0,CONCACAF Nations League,The Valley,Anguilla,True
+2019-11-16 00:00:00,Cayman Islands,United States Virgin Islands,1,0,CONCACAF Nations League,George Town,Cayman Islands,False
+2019-11-16 00:00:00,Guatemala,Puerto Rico,5,0,CONCACAF Nations League,Guatemala City,Guatemala,False
+2019-11-17 00:00:00,Chad,Mali,0,2,African Cup of Nations qualification,N'Djamena,Chad,False
+2019-11-17 00:00:00,Guinea,Namibia,2,0,African Cup of Nations qualification,Conakry,Guinea,False
+2019-11-17 00:00:00,South Sudan,Burkina Faso,1,2,African Cup of Nations qualification,Khartoum,Sudan,True
+2019-11-17 00:00:00,Uganda,Malawi,2,0,African Cup of Nations qualification,Kira,Uganda,False
+2019-11-17 00:00:00,South Africa,Sudan,1,0,African Cup of Nations qualification,Johannesburg,South Africa,False
+2019-11-17 00:00:00,Gabon,Angola,2,1,African Cup of Nations qualification,Franceville,Gabon,False
+2019-11-17 00:00:00,Rwanda,Cameroon,0,1,African Cup of Nations qualification,Kigali,Rwanda,False
+2019-11-17 00:00:00,Congo,Guinea-Bissau,3,0,African Cup of Nations qualification,Brazzaville,Congo,False
+2019-11-17 00:00:00,Eswatini,Senegal,1,4,African Cup of Nations qualification,Manzini,Eswatini,False
+2019-11-17 00:00:00,Benin,Sierra Leone,1,0,African Cup of Nations qualification,Porto-Novo,Benin,False
+2019-11-17 00:00:00,Lesotho,Nigeria,2,4,African Cup of Nations qualification,Maseru,Lesotho,False
+2019-11-17 00:00:00,Kosovo,England,0,4,UEFA Euro qualification,Pristina,Kosovo,False
+2019-11-17 00:00:00,Bulgaria,Czech Republic,1,0,UEFA Euro qualification,Sofia,Bulgaria,False
+2019-11-17 00:00:00,Luxembourg,Portugal,0,2,UEFA Euro qualification,Luxembourg City,Luxembourg,False
+2019-11-17 00:00:00,Serbia,Ukraine,2,2,UEFA Euro qualification,Belgrade,Serbia,False
+2019-11-17 00:00:00,Albania,France,0,2,UEFA Euro qualification,Tirana,Albania,False
+2019-11-17 00:00:00,Andorra,Turkey,0,2,UEFA Euro qualification,Andorra la Vella,Andorra,False
+2019-11-17 00:00:00,Moldova,Iceland,1,2,UEFA Euro qualification,Chi»ôinƒÉu,Moldova,False
+2019-11-17 00:00:00,Honduras,Trinidad and Tobago,4,0,CONCACAF Nations League,San Pedro Sula,Honduras,False
+2019-11-17 00:00:00,Costa Rica,Haiti,1,1,CONCACAF Nations League,San Jos√©,Costa Rica,False
+2019-11-17 00:00:00,Grenada,Belize,3,2,CONCACAF Nations League,St. George's,Grenada,False
+2019-11-17 00:00:00,French Guiana,Saint Kitts and Nevis,3,1,CONCACAF Nations League,Cayenne,French Guiana,False
+2019-11-17 00:00:00,Bonaire,Bahamas,1,1,CONCACAF Nations League,Willemstad,Cura√ßao,True
+2019-11-17 00:00:00,Guadeloupe,Turks and Caicos Islands,10,0,CONCACAF Nations League,Les Abymes,Guadeloupe,False
+2019-11-17 00:00:00,Lithuania,New Zealand,1,0,Friendly,Vilnius,Lithuania,False
+2019-11-18 00:00:00,S√£o Tom√© and Pr√≠ncipe,Ghana,0,1,African Cup of Nations qualification,S√£o Tom√©,S√£o Tom√© and Pr√≠ncipe,False
+2019-11-18 00:00:00,Gambia,DR Congo,2,2,African Cup of Nations qualification,Bakau,Gambia,False
+2019-11-18 00:00:00,Cape Verde,Mozambique,2,2,African Cup of Nations qualification,Praia,Cape Verde,False
+2019-11-18 00:00:00,Comoros,Egypt,0,0,African Cup of Nations qualification,Moroni,Comoros,False
+2019-11-18 00:00:00,Kenya,Togo,1,1,African Cup of Nations qualification,Kasarani,Kenya,False
+2019-11-18 00:00:00,Botswana,Algeria,0,1,African Cup of Nations qualification,Gaborone,Botswana,False
+2019-11-18 00:00:00,Niger,Madagascar,2,6,African Cup of Nations qualification,Niamey,Niger,False
+2019-11-18 00:00:00,Republic of Ireland,Denmark,1,1,UEFA Euro qualification,Dublin,Republic of Ireland,False
+2019-11-18 00:00:00,Gibraltar,Switzerland,1,6,UEFA Euro qualification,Gibraltar,Gibraltar,False
+2019-11-18 00:00:00,Malta,Norway,1,2,UEFA Euro qualification,Attard,Malta,False
+2019-11-18 00:00:00,Spain,Romania,5,0,UEFA Euro qualification,Madrid,Spain,False
+2019-11-18 00:00:00,Sweden,Faroe Islands,3,0,UEFA Euro qualification,Stockholm,Sweden,False
+2019-11-18 00:00:00,Italy,Armenia,9,1,UEFA Euro qualification,Palermo,Italy,False
+2019-11-18 00:00:00,Liechtenstein,Bosnia and Herzegovina,0,3,UEFA Euro qualification,Vaduz,Liechtenstein,False
+2019-11-18 00:00:00,Greece,Finland,2,1,UEFA Euro qualification,Athens,Greece,False
+2019-11-18 00:00:00,Jamaica,Guyana,1,1,CONCACAF Nations League,Montego Bay,Jamaica,False
+2019-11-18 00:00:00,Aruba,Antigua and Barbuda,2,3,CONCACAF Nations League,Willemstad,Aruba,False
+2019-11-18 00:00:00,Nicaragua,Suriname,1,2,CONCACAF Nations League,Managua,Nicaragua,False
+2019-11-18 00:00:00,Dominica,Saint Vincent and the Grenadines,1,0,CONCACAF Nations League,Roseau,Dominica,False
+2019-11-18 00:00:00,Argentina,Uruguay,2,2,Friendly,Tel Aviv,Israel,True
+2019-11-19 00:00:00,Burundi,Morocco,0,3,African Cup of Nations qualification,Bujumbura,Burundi,False
+2019-11-19 00:00:00,Mauritania,Central African Republic,2,0,African Cup of Nations qualification,Nouakchott,Mauritania,False
+2019-11-19 00:00:00,Zambia,Zimbabwe,1,2,African Cup of Nations qualification,Lusaka,Zambia,False
+2019-11-19 00:00:00,Equatorial Guinea,Tunisia,0,1,African Cup of Nations qualification,Malabo,Equatorial Guinea,False
+2019-11-19 00:00:00,Libya,Tanzania,2,1,African Cup of Nations qualification,Monastir,Tunisia,True
+2019-11-19 00:00:00,Ethiopia,Ivory Coast,2,1,African Cup of Nations qualification,Ethiopia,Ethiopia,False
+2019-11-19 00:00:00,Germany,Northern Ireland,6,1,UEFA Euro qualification,Frankfurt,Germany,False
+2019-11-19 00:00:00,Netherlands,Estonia,5,0,UEFA Euro qualification,Amsterdam,Netherlands,False
+2019-11-19 00:00:00,Wales,Hungary,2,0,UEFA Euro qualification,Cardiff,Wales,False
+2019-11-19 00:00:00,Slovakia,Azerbaijan,2,0,UEFA Euro qualification,Trnava,Slovakia,False
+2019-11-19 00:00:00,North Macedonia,Israel,1,0,UEFA Euro qualification,Skopje,North Macedonia,False
+2019-11-19 00:00:00,Japan,Venezuela,1,4,Kirin Challenge Cup,Suita,Japan,False
+2019-11-19 00:00:00,Poland,Slovenia,3,2,UEFA Euro qualification,Warsaw,Poland,False
+2019-11-19 00:00:00,Latvia,Austria,1,0,UEFA Euro qualification,Riga,Latvia,False
+2019-11-19 00:00:00,Scotland,Kazakhstan,3,1,UEFA Euro qualification,Glasgow,Scotland,False
+2019-11-19 00:00:00,Belgium,Cyprus,6,1,UEFA Euro qualification,Brussels,Belgium,False
+2019-11-19 00:00:00,San Marino,Russia,0,5,UEFA Euro qualification,Serravalle,San Marino,False
+2019-11-19 00:00:00,Cuba,United States,0,4,CONCACAF Nations League,George Town,Cayman Islands,True
+2019-11-19 00:00:00,Mexico,Bermuda,2,1,CONCACAF Nations League,Mexico City,Mexico,False
+2019-11-19 00:00:00,El Salvador,Dominican Republic,2,0,CONCACAF Nations League,San Salvador,El Salvador,False
+2019-11-19 00:00:00,Saint Lucia,Montserrat,0,1,CONCACAF Nations League,Gros Islet,Saint Lucia,False
+2019-11-19 00:00:00,Barbados,Cayman Islands,3,0,CONCACAF Nations League,Bridgetown,Barbados,False
+2019-11-19 00:00:00,United States Virgin Islands,Saint Martin,1,2,CONCACAF Nations League,Upper Bethlehem,United States Virgin Islands,False
+2019-11-19 00:00:00,Puerto Rico,Anguilla,3,0,CONCACAF Nations League,Bayam√≥n,Puerto Rico,False
+2019-11-19 00:00:00,Brazil,South Korea,3,0,Friendly,Abu Dhabi,United Arab Emirates,True
+2019-11-19 00:00:00,Croatia,Georgia,2,1,Friendly,Pula,Croatia,False
+2019-11-19 00:00:00,Ecuador,Colombia,0,1,Friendly,Harrison,United States,True
+2019-11-19 00:00:00,Montenegro,Belarus,2,0,Friendly,Podgorica,Montenegro,False
+2019-11-19 00:00:00,Saudi Arabia,Paraguay,0,0,Friendly,Riyadh,Saudi Arabia,False
+2019-11-19 00:00:00,Maldives,Guam,3,1,FIFA World Cup qualification,Mal√©,Maldives,False
+2019-11-19 00:00:00,Syria,Philippines,1,0,FIFA World Cup qualification,Dubai,United Arab Emirates,True
+2019-11-19 00:00:00,Nepal,Kuwait,0,1,FIFA World Cup qualification,Thimphu,Bhutan,True
+2019-11-19 00:00:00,Jordan,Taiwan,5,0,FIFA World Cup qualification,Amman,Jordan,False
+2019-11-19 00:00:00,Iraq,Bahrain,0,0,FIFA World Cup qualification,Amman,Jordan,True
+2019-11-19 00:00:00,Hong Kong,Cambodia,2,0,FIFA World Cup qualification,Hong Kong,Hong Kong,False
+2019-11-19 00:00:00,Uzbekistan,Palestine,2,0,FIFA World Cup qualification,Tashkent,Uzbekistan,False
+2019-11-19 00:00:00,Yemen,Singapore,1,2,FIFA World Cup qualification,Muharraq,Bahrain,True
+2019-11-19 00:00:00,Afghanistan,Qatar,0,1,FIFA World Cup qualification,Dushanbe,Tajikistan,True
+2019-11-19 00:00:00,Oman,India,1,0,FIFA World Cup qualification,Muscat,Oman,False
+2019-11-19 00:00:00,Myanmar,Mongolia,1,0,FIFA World Cup qualification,Mandalay,Myanmar,False
+2019-11-19 00:00:00,Kyrgyzstan,Tajikistan,1,1,FIFA World Cup qualification,Bishkek,Kyrgyzstan,False
+2019-11-19 00:00:00,Vietnam,Thailand,0,0,FIFA World Cup qualification,Hanoi,Vietnam,False
+2019-11-19 00:00:00,Malaysia,Indonesia,2,0,FIFA World Cup qualification,Kuala Lumpur,Malaysia,False
+2019-11-19 00:00:00,Turkmenistan,Sri Lanka,2,0,FIFA World Cup qualification,Ashgabat,Turkmenistan,False
+2019-11-19 00:00:00,Lebanon,North Korea,0,0,FIFA World Cup qualification,Beirut,Lebanon,False
+2019-11-21 00:00:00,Guatemala,Antigua and Barbuda,8,0,Friendly,Guatemala City,Guatemala,False
+2019-11-26 00:00:00,Qatar,Iraq,1,2,Gulf Cup,Doha,Qatar,False
+2019-11-26 00:00:00,United Arab Emirates,Yemen,3,0,Gulf Cup,Doha,Qatar,True
+2019-11-27 00:00:00,Oman,Bahrain,0,0,Gulf Cup,Doha,Qatar,True
+2019-11-27 00:00:00,Saudi Arabia,Kuwait,1,3,Gulf Cup,Doha,Qatar,True
+2019-11-29 00:00:00,United Arab Emirates,Iraq,0,2,Gulf Cup,Doha,Qatar,True
+2019-11-29 00:00:00,Qatar,Yemen,6,0,Gulf Cup,Doha,Qatar,False
+2019-11-30 00:00:00,Kuwait,Oman,1,2,Gulf Cup,Doha,Qatar,True
+2019-11-30 00:00:00,Bahrain,Saudi Arabia,0,2,Gulf Cup,Doha,Qatar,True
+2019-12-02 00:00:00,Qatar,United Arab Emirates,4,2,Gulf Cup,Doha,Qatar,False
+2019-12-02 00:00:00,Yemen,Iraq,0,0,Gulf Cup,Doha,Qatar,True
+2019-12-02 00:00:00,Kuwait,Bahrain,2,4,Gulf Cup,Doha,Qatar,True
+2019-12-02 00:00:00,Oman,Saudi Arabia,1,3,Gulf Cup,Doha,Qatar,True
+2019-12-05 00:00:00,Iraq,Bahrain,2,2,Gulf Cup,Doha,Qatar,True
+2019-12-05 00:00:00,Qatar,Saudi Arabia,0,1,Gulf Cup,Al Wakrah,Qatar,False
+2019-12-08 00:00:00,Bahrain,Saudi Arabia,1,0,Gulf Cup,Doha,Qatar,True
+2019-12-10 00:00:00,China PR,Japan,1,2,EAFF Championship,Busan,South Korea,True
+2019-12-11 00:00:00,South Korea,Hong Kong,2,0,EAFF Championship,Busan,South Korea,False
+2019-12-14 00:00:00,Japan,Hong Kong,5,0,EAFF Championship,Busan,South Korea,True
+2019-12-15 00:00:00,South Korea,China PR,1,0,EAFF Championship,Busan,South Korea,False
+2019-12-18 00:00:00,Hong Kong,China PR,0,2,EAFF Championship,Busan,South Korea,True
+2019-12-18 00:00:00,South Korea,Japan,1,0,EAFF Championship,Busan,South Korea,False
+2020-01-07 00:00:00,Barbados,Canada,1,4,Friendly,Irvine,United States,True
+2020-01-09 00:00:00,Moldova,Sweden,0,1,Friendly,Doha,Qatar,True
+2020-01-10 00:00:00,Barbados,Canada,1,4,Friendly,Irvine,United States,True
+2020-01-12 00:00:00,Kosovo,Sweden,0,1,Friendly,Doha,Qatar,True
+2020-01-15 00:00:00,Canada,Iceland,0,1,Friendly,Irvine,United States,True
+2020-01-19 00:00:00,El Salvador,Iceland,0,1,Friendly,Carson,United States,True
+2020-02-01 00:00:00,United States,Costa Rica,1,0,Friendly,Carson,United States,False
+2020-09-03 00:00:00,Germany,Spain,1,1,UEFA Nations League,Stuttgart,Germany,False
+2020-09-03 00:00:00,Ukraine,Switzerland,2,1,UEFA Nations League,Lviv,Ukraine,False
+2020-09-03 00:00:00,Russia,Serbia,3,1,UEFA Nations League,Moscow,Russia,False
+2020-09-03 00:00:00,Turkey,Hungary,0,1,UEFA Nations League,Sivas,Turkey,False
+2020-09-03 00:00:00,Bulgaria,Republic of Ireland,1,1,UEFA Nations League,Sofia,Bulgaria,False
+2020-09-03 00:00:00,Finland,Wales,0,1,UEFA Nations League,Helsinki,Finland,False
+2020-09-03 00:00:00,Moldova,Kosovo,1,1,UEFA Nations League,Parma,Italy,True
+2020-09-03 00:00:00,Slovenia,Greece,0,0,UEFA Nations League,Ljubljana,Slovenia,False
+2020-09-03 00:00:00,Latvia,Andorra,0,0,UEFA Nations League,Riga,Latvia,False
+2020-09-03 00:00:00,Faroe Islands,Malta,3,2,UEFA Nations League,T√≥rshavn,Faroe Islands,False
+2020-09-04 00:00:00,Italy,Bosnia and Herzegovina,1,1,UEFA Nations League,Florence,Italy,False
+2020-09-04 00:00:00,Netherlands,Poland,1,0,UEFA Nations League,Amsterdam,Netherlands,False
+2020-09-04 00:00:00,Norway,Austria,1,2,UEFA Nations League,Oslo,Norway,False
+2020-09-04 00:00:00,Romania,Northern Ireland,1,1,UEFA Nations League,Bucharest,Romania,False
+2020-09-04 00:00:00,Scotland,Israel,1,1,UEFA Nations League,Glasgow,Scotland,False
+2020-09-04 00:00:00,Slovakia,Czech Republic,1,3,UEFA Nations League,Bratislava,Slovakia,False
+2020-09-04 00:00:00,Lithuania,Kazakhstan,0,2,UEFA Nations League,Vilnius,Lithuania,False
+2020-09-04 00:00:00,Belarus,Albania,0,2,UEFA Nations League,Minsk,Belarus,False
+2020-09-05 00:00:00,Iceland,England,0,1,UEFA Nations League,Reykjav√≠k,Iceland,False
+2020-09-05 00:00:00,Denmark,Belgium,0,2,UEFA Nations League,Copenhagen,Denmark,False
+2020-09-05 00:00:00,Portugal,Croatia,4,1,UEFA Nations League,Porto,Portugal,False
+2020-09-05 00:00:00,Sweden,France,0,1,UEFA Nations League,Stockholm,Sweden,False
+2020-09-05 00:00:00,Cyprus,Montenegro,0,2,UEFA Nations League,Nicosia,Cyprus,False
+2020-09-05 00:00:00,Azerbaijan,Luxembourg,1,2,UEFA Nations League,Baku,Azerbaijan,False
+2020-09-05 00:00:00,North Macedonia,Armenia,2,1,UEFA Nations League,Skopje,North Macedonia,False
+2020-09-05 00:00:00,Estonia,Georgia,0,1,UEFA Nations League,Tallinn,Estonia,False
+2020-09-05 00:00:00,Gibraltar,San Marino,1,0,UEFA Nations League,Gibraltar,Gibraltar,False
+2020-09-06 00:00:00,Spain,Ukraine,4,0,UEFA Nations League,Madrid,Spain,False
+2020-09-06 00:00:00,Switzerland,Germany,1,1,UEFA Nations League,Basel,Switzerland,False
+2020-09-06 00:00:00,Hungary,Russia,2,3,UEFA Nations League,Budapest,Hungary,False
+2020-09-06 00:00:00,Serbia,Turkey,0,0,UEFA Nations League,Belgrade,Serbia,False
+2020-09-06 00:00:00,Wales,Bulgaria,1,0,UEFA Nations League,Cardiff,Wales,False
+2020-09-06 00:00:00,Republic of Ireland,Finland,0,1,UEFA Nations League,Dublin,Republic of Ireland,False
+2020-09-06 00:00:00,Slovenia,Moldova,1,0,UEFA Nations League,Ljubljana,Slovenia,False
+2020-09-06 00:00:00,Kosovo,Greece,1,2,UEFA Nations League,Pristina,Kosovo,False
+2020-09-06 00:00:00,Andorra,Faroe Islands,0,1,UEFA Nations League,Andorra la Vella,Andorra,False
+2020-09-06 00:00:00,Malta,Latvia,1,1,UEFA Nations League,Attard,Malta,False
+2020-09-07 00:00:00,Bosnia and Herzegovina,Poland,1,2,UEFA Nations League,Zenica,Bosnia and Herzegovina,False
+2020-09-07 00:00:00,Netherlands,Italy,0,1,UEFA Nations League,Amsterdam,Netherlands,False
+2020-09-07 00:00:00,Northern Ireland,Norway,1,5,UEFA Nations League,Belfast,Northern Ireland,False
+2020-09-07 00:00:00,Austria,Romania,2,3,UEFA Nations League,Klagenfurt,Austria,False
+2020-09-07 00:00:00,Czech Republic,Scotland,1,2,UEFA Nations League,Olomouc,Czech Republic,False
+2020-09-07 00:00:00,Israel,Slovakia,1,1,UEFA Nations League,Netanya,Israel,False
+2020-09-07 00:00:00,Kazakhstan,Belarus,1,2,UEFA Nations League,Almaty,Kazakhstan,False
+2020-09-07 00:00:00,Albania,Lithuania,0,1,UEFA Nations League,Tirana,Albania,False
+2020-09-08 00:00:00,Belgium,Iceland,5,1,UEFA Nations League,Brussels,Belgium,False
+2020-09-08 00:00:00,Denmark,England,0,0,UEFA Nations League,Copenhagen,Denmark,False
+2020-09-08 00:00:00,France,Croatia,4,2,UEFA Nations League,Paris,France,False
+2020-09-08 00:00:00,Sweden,Portugal,0,2,UEFA Nations League,Stockholm,Sweden,False
+2020-09-08 00:00:00,Luxembourg,Montenegro,0,1,UEFA Nations League,Luxembourg City,Luxembourg,False
+2020-09-08 00:00:00,Cyprus,Azerbaijan,0,1,UEFA Nations League,Nicosia,Cyprus,False
+2020-09-08 00:00:00,Armenia,Estonia,2,0,UEFA Nations League,Yerevan,Armenia,False
+2020-09-08 00:00:00,Georgia,North Macedonia,1,1,UEFA Nations League,Tbilisi,Georgia,False
+2020-09-08 00:00:00,San Marino,Liechtenstein,0,2,UEFA Nations League,Rimini,Italy,True
+2020-10-06 00:00:00,Nicaragua,Guatemala,0,0,Friendly,Managua,Nicaragua,False
+2020-10-07 00:00:00,Andorra,Cape Verde,1,2,Friendly,Andorra la Vella,Andorra,False
+2020-10-07 00:00:00,Austria,Greece,2,1,Friendly,Klagenfurt,Austria,False
+2020-10-07 00:00:00,Cyprus,Czech Republic,1,2,Friendly,Larnaca,Cyprus,False
+2020-10-07 00:00:00,Denmark,Faroe Islands,4,0,Friendly,Herning,Denmark,False
+2020-10-07 00:00:00,Estonia,Lithuania,1,3,Friendly,Tallinn,Estonia,False
+2020-10-07 00:00:00,France,Ukraine,7,1,Friendly,Paris,France,False
+2020-10-07 00:00:00,Germany,Turkey,3,3,Friendly,Cologne,Germany,False
+2020-10-07 00:00:00,Italy,Moldova,6,0,Friendly,Florence,Italy,False
+2020-10-07 00:00:00,Luxembourg,Liechtenstein,1,2,Friendly,Luxembourg City,Luxembourg,False
+2020-10-07 00:00:00,Malta,Gibraltar,2,0,Friendly,Ta' Qali,Malta,False
+2020-10-07 00:00:00,Montenegro,Latvia,1,1,Friendly,Podgorica,Montenegro,False
+2020-10-07 00:00:00,Netherlands,Mexico,0,1,Friendly,Amsterdam,Netherlands,False
+2020-10-07 00:00:00,Poland,Finland,5,1,Friendly,Gda≈Ñsk,Poland,False
+2020-10-07 00:00:00,Portugal,Spain,0,0,Friendly,Lisbon,Portugal,False
+2020-10-07 00:00:00,Slovenia,San Marino,4,0,Friendly,Ljubljana,Slovenia,False
+2020-10-07 00:00:00,Switzerland,Croatia,1,2,Friendly,St. Gallen,Switzerland,False
+2020-10-07 00:00:00,Zambia,Malawi,1,0,Friendly,Lusaka,Zambia,False
+2020-10-08 00:00:00,Belgium,Ivory Coast,1,1,Friendly,Brussels,Belgium,False
+2020-10-08 00:00:00,England,Wales,3,0,Friendly,London,England,False
+2020-10-08 00:00:00,Russia,Sweden,1,2,Friendly,Moscow,Russia,False
+2020-10-08 00:00:00,South Africa,Namibia,1,1,Friendly,Rustenburg,South Africa,False
+2020-10-08 00:00:00,Uzbekistan,Iran,1,2,Friendly,Tashkent,Uzbekistan,False
+2020-10-08 00:00:00,Paraguay,Peru,2,2,FIFA World Cup qualification,Asunci√≥n,Paraguay,False
+2020-10-08 00:00:00,Uruguay,Chile,2,1,FIFA World Cup qualification,Montevideo,Uruguay,False
+2020-10-08 00:00:00,Argentina,Ecuador,1,0,FIFA World Cup qualification,Buenos Aires,Argentina,False
+2020-10-08 00:00:00,Iceland,Romania,2,1,UEFA Euro qualification,Reykjav√≠k,Iceland,False
+2020-10-08 00:00:00,Bulgaria,Hungary,1,3,UEFA Euro qualification,Sofia,Bulgaria,False
+2020-10-08 00:00:00,Bosnia and Herzegovina,Northern Ireland,1,1,UEFA Euro qualification,Sarajevo,Bosnia and Herzegovina,False
+2020-10-08 00:00:00,Slovakia,Republic of Ireland,0,0,UEFA Euro qualification,Bratislava,Slovakia,False
+2020-10-08 00:00:00,Scotland,Israel,0,0,UEFA Euro qualification,Glasgow,Scotland,False
+2020-10-08 00:00:00,Norway,Serbia,1,2,UEFA Euro qualification,Oslo,Norway,False
+2020-10-08 00:00:00,Georgia,Belarus,1,0,UEFA Euro qualification,Tbilisi,Georgia,False
+2020-10-08 00:00:00,North Macedonia,Kosovo,2,1,UEFA Euro qualification,Skopje,North Macedonia,False
+2020-10-09 00:00:00,Burkina Faso,DR Congo,3,0,Friendly,Mohammedia,Morocco,True
+2020-10-09 00:00:00,Congo,Gambia,0,1,Friendly,Parchal,Portugal,True
+2020-10-09 00:00:00,Japan,Cameroon,0,0,Friendly,Utrecht,Netherlands,True
+2020-10-09 00:00:00,Kenya,Zambia,2,1,Friendly,Nairobi,Kenya,False
+2020-10-09 00:00:00,Mali,Ghana,3,0,Friendly,Antalya,Turkey,True
+2020-10-09 00:00:00,Mauritania,Sierra Leone,2,1,Friendly,Nouakchott,Mauritania,False
+2020-10-09 00:00:00,Morocco,Senegal,3,1,Friendly,Rabat,Morocco,False
+2020-10-09 00:00:00,Nigeria,Algeria,0,1,Friendly,Klagenfurt,Austria,True
+2020-10-09 00:00:00,Tunisia,Sudan,3,0,Friendly,Rad√®s,Tunisia,False
+2020-10-09 00:00:00,Colombia,Venezuela,3,0,FIFA World Cup qualification,Barranquilla,Colombia,False
+2020-10-09 00:00:00,Brazil,Bolivia,5,0,FIFA World Cup qualification,S√£o Paulo,Brazil,False
+2020-10-10 00:00:00,Spain,Switzerland,1,0,UEFA Nations League,Madrid,Spain,False
+2020-10-10 00:00:00,Ukraine,Germany,1,2,UEFA Nations League,Kyiv,Ukraine,False
+2020-10-10 00:00:00,Luxembourg,Cyprus,2,0,UEFA Nations League,Luxembourg City,Luxembourg,False
+2020-10-10 00:00:00,Montenegro,Azerbaijan,2,0,UEFA Nations League,Podgorica,Montenegro,False
+2020-10-10 00:00:00,Faroe Islands,Latvia,1,1,UEFA Nations League,T√≥rshavn,Faroe Islands,False
+2020-10-10 00:00:00,Andorra,Malta,0,0,UEFA Nations League,Andorra la Vella,Andorra,False
+2020-10-10 00:00:00,Liechtenstein,Gibraltar,0,1,UEFA Nations League,Vaduz,Liechtenstein,False
+2020-10-10 00:00:00,Cape Verde,Guinea,1,2,Friendly,Faro-Loul√©,Portugal,True
+2020-10-10 00:00:00,Costa Rica,Panama,0,1,Friendly,San Jos√©,Costa Rica,False
+2020-10-10 00:00:00,Honduras,Nicaragua,1,1,Friendly,Comayagua,Honduras,False
+2020-10-10 00:00:00,Niger,Chad,2,0,Friendly,Niamey,Niger,False
+2020-10-11 00:00:00,Bosnia and Herzegovina,Netherlands,0,0,UEFA Nations League,Zenica,Bosnia and Herzegovina,False
+2020-10-11 00:00:00,Poland,Italy,0,0,UEFA Nations League,Gda≈Ñsk,Poland,False
+2020-10-11 00:00:00,England,Belgium,2,1,UEFA Nations League,London,England,False
+2020-10-11 00:00:00,Iceland,Denmark,0,3,UEFA Nations League,Reykjav√≠k,Iceland,False
+2020-10-11 00:00:00,Croatia,Sweden,2,1,UEFA Nations League,Zagreb,Croatia,False
+2020-10-11 00:00:00,France,Portugal,0,0,UEFA Nations League,Paris,France,False
+2020-10-11 00:00:00,Norway,Romania,4,0,UEFA Nations League,Oslo,Norway,False
+2020-10-11 00:00:00,Northern Ireland,Austria,0,1,UEFA Nations League,Belfast,Northern Ireland,False
+2020-10-11 00:00:00,Scotland,Slovakia,1,0,UEFA Nations League,Glasgow,Scotland,False
+2020-10-11 00:00:00,Israel,Czech Republic,1,2,UEFA Nations League,Haifa,Israel,False
+2020-10-11 00:00:00,Serbia,Hungary,0,1,UEFA Nations League,Belgrade,Serbia,False
+2020-10-11 00:00:00,Russia,Turkey,1,1,UEFA Nations League,Moscow,Russia,False
+2020-10-11 00:00:00,Republic of Ireland,Wales,0,0,UEFA Nations League,Dublin,Republic of Ireland,False
+2020-10-11 00:00:00,Finland,Bulgaria,2,0,UEFA Nations League,Helsinki,Finland,False
+2020-10-11 00:00:00,Armenia,Georgia,2,2,UEFA Nations League,Tychy,Poland,True
+2020-10-11 00:00:00,Estonia,North Macedonia,3,3,UEFA Nations League,Tallinn,Estonia,False
+2020-10-11 00:00:00,Kosovo,Slovenia,0,1,UEFA Nations League,Pristina,Kosovo,False
+2020-10-11 00:00:00,Greece,Moldova,2,0,UEFA Nations League,Athens,Greece,False
+2020-10-11 00:00:00,Kazakhstan,Albania,0,0,UEFA Nations League,Almaty,Kazakhstan,False
+2020-10-11 00:00:00,Lithuania,Belarus,2,2,UEFA Nations League,Vilnius,Lithuania,False
+2020-10-11 00:00:00,Gabon,Benin,0,2,Friendly,Lisbon,Portugal,True
+2020-10-11 00:00:00,Malawi,Zimbabwe,0,0,Friendly,Blantyre,Malawi,False
+2020-10-11 00:00:00,South Africa,Zambia,1,2,Friendly,Rustenburg,South Africa,False
+2020-10-11 00:00:00,Tanzania,Burundi,0,1,Friendly,Dar es Salaam,Tanzania,False
+2020-10-12 00:00:00,Burkina Faso,Madagascar,2,1,Friendly,El Jadida,Morocco,True
+2020-10-12 00:00:00,Ghana,Qatar,5,1,Friendly,Aksu,Turkey,True
+2020-10-12 00:00:00,Togo,Sudan,1,1,Friendly,Tunis,Tunisia,True
+2020-10-12 00:00:00,United Arab Emirates,Uzbekistan,1,2,Friendly,Dubai,United Arab Emirates,False
+2020-10-13 00:00:00,Cameroon,South Sudan,0,0,Friendly,Yaound√©,Cameroon,False
+2020-10-13 00:00:00,Germany,Switzerland,3,3,UEFA Nations League,Cologne,Germany,False
+2020-10-13 00:00:00,Ukraine,Spain,1,0,UEFA Nations League,Kyiv,Ukraine,False
+2020-10-13 00:00:00,Azerbaijan,Cyprus,0,0,UEFA Nations League,Elbasan,Albania,True
+2020-10-13 00:00:00,Montenegro,Luxembourg,1,2,UEFA Nations League,Podgorica,Montenegro,False
+2020-10-13 00:00:00,Latvia,Malta,0,1,UEFA Nations League,Riga,Latvia,False
+2020-10-13 00:00:00,Faroe Islands,Andorra,2,0,UEFA Nations League,T√≥rshavn,Faroe Islands,False
+2020-10-13 00:00:00,Liechtenstein,San Marino,0,0,UEFA Nations League,Vaduz,Liechtenstein,False
+2020-10-13 00:00:00,Costa Rica,Panama,0,1,Friendly,San Jos√©,Costa Rica,False
+2020-10-13 00:00:00,Japan,Ivory Coast,1,0,Friendly,Utrecht,Netherlands,True
+2020-10-13 00:00:00,Mexico,Algeria,2,2,Friendly,The Hague,Netherlands,True
+2020-10-13 00:00:00,Morocco,DR Congo,1,1,Friendly,Rabat,Morocco,False
+2020-10-13 00:00:00,Mozambique,Angola,0,3,Friendly,Rio Maior,Portugal,True
+2020-10-13 00:00:00,Niger,Sierra Leone,1,0,Friendly,Niamey,Niger,False
+2020-10-13 00:00:00,Nigeria,Tunisia,1,1,Friendly,Sankt Veit an der Glan,Austria,True
+2020-10-13 00:00:00,Bolivia,Argentina,1,2,FIFA World Cup qualification,La Paz,Bolivia,False
+2020-10-13 00:00:00,Ecuador,Uruguay,4,2,FIFA World Cup qualification,Quito,Ecuador,False
+2020-10-13 00:00:00,Venezuela,Paraguay,0,1,FIFA World Cup qualification,M√©rida,Venezuela,False
+2020-10-13 00:00:00,Peru,Brazil,2,4,FIFA World Cup qualification,Lima,Peru,False
+2020-10-13 00:00:00,Chile,Colombia,2,2,FIFA World Cup qualification,Santiago,Chile,False
+2020-10-14 00:00:00,Italy,Netherlands,1,1,UEFA Nations League,Bergamo,Italy,False
+2020-10-14 00:00:00,Poland,Bosnia and Herzegovina,3,0,UEFA Nations League,Wroc≈Çaw,Poland,False
+2020-10-14 00:00:00,Iceland,Belgium,1,2,UEFA Nations League,Reykjav√≠k,Iceland,False
+2020-10-14 00:00:00,England,Denmark,0,1,UEFA Nations League,London,England,False
+2020-10-14 00:00:00,Portugal,Sweden,3,0,UEFA Nations League,Lisbon,Portugal,False
+2020-10-14 00:00:00,Croatia,France,1,2,UEFA Nations League,Zagreb,Croatia,False
+2020-10-14 00:00:00,Norway,Northern Ireland,1,0,UEFA Nations League,Oslo,Norway,False
+2020-10-14 00:00:00,Romania,Austria,0,1,UEFA Nations League,Ploie»ôti,Romania,False
+2020-10-14 00:00:00,Scotland,Czech Republic,1,0,UEFA Nations League,Glasgow,Scotland,False
+2020-10-14 00:00:00,Slovakia,Israel,2,3,UEFA Nations League,Trnava,Slovakia,False
+2020-10-14 00:00:00,Russia,Hungary,0,0,UEFA Nations League,Moscow,Russia,False
+2020-10-14 00:00:00,Turkey,Serbia,2,2,UEFA Nations League,Istanbul,Turkey,False
+2020-10-14 00:00:00,Finland,Republic of Ireland,1,0,UEFA Nations League,Helsinki,Finland,False
+2020-10-14 00:00:00,Bulgaria,Wales,0,1,UEFA Nations League,Sofia,Bulgaria,False
+2020-10-14 00:00:00,North Macedonia,Georgia,1,1,UEFA Nations League,Skopje,North Macedonia,False
+2020-10-14 00:00:00,Estonia,Armenia,1,1,UEFA Nations League,Tallinn,Estonia,False
+2020-10-14 00:00:00,Greece,Kosovo,0,0,UEFA Nations League,Athens,Greece,False
+2020-10-14 00:00:00,Moldova,Slovenia,0,4,UEFA Nations League,Chi»ôinƒÉu,Moldova,False
+2020-10-14 00:00:00,Lithuania,Albania,0,0,UEFA Nations League,Vilnius,Lithuania,False
+2020-10-14 00:00:00,Belarus,Kazakhstan,2,0,UEFA Nations League,Minsk,Belarus,False
+2020-11-06 00:00:00,Ethiopia,Sudan,2,2,Friendly,Addis Ababa,Ethiopia,False
+2020-11-07 00:00:00,Bahrain,Tajikistan,1,0,Friendly,Dubai,United Arab Emirates,True
+2020-11-11 00:00:00,Albania,Kosovo,2,1,Friendly,Elbasan,Albania,False
+2020-11-11 00:00:00,Belgium,Switzerland,2,1,Friendly,Leuven,Belgium,False
+2020-11-11 00:00:00,Bulgaria,Gibraltar,3,0,Friendly,Sofia,Bulgaria,False
+2020-11-11 00:00:00,Denmark,Sweden,2,0,Friendly,Brondbyvester,Denmark,False
+2020-11-11 00:00:00,France,Finland,0,2,Friendly,Paris,France,False
+2020-11-11 00:00:00,Germany,Czech Republic,1,0,Friendly,Leipzig,Germany,False
+2020-11-11 00:00:00,Greece,Cyprus,2,1,Friendly,Athens,Greece,False
+2020-11-11 00:00:00,Italy,Estonia,4,0,Friendly,Florence,Italy,False
+2020-11-11 00:00:00,Lithuania,Faroe Islands,2,1,Friendly,Vilnius,Lithuania,False
+2020-11-11 00:00:00,Luxembourg,Austria,0,3,Friendly,Luxembourg City,Luxembourg,False
+2020-11-11 00:00:00,Malta,Liechtenstein,3,0,Friendly,Ta' Qali,Malta,False
+2020-11-11 00:00:00,Montenegro,Kazakhstan,0,0,Friendly,Podgorica,Montenegro,False
+2020-11-11 00:00:00,Netherlands,Spain,1,1,Friendly,Amsterdam,Netherlands,False
+2020-11-11 00:00:00,Poland,Ukraine,2,0,Friendly,Chorz√≥w,Poland,False
+2020-11-11 00:00:00,Portugal,Andorra,7,0,Friendly,Lisbon,Portugal,False
+2020-11-11 00:00:00,Romania,Belarus,5,3,Friendly,Ploie»ôti,Romania,False
+2020-11-11 00:00:00,San Marino,Latvia,0,3,Friendly,Serravalle,San Marino,False
+2020-11-11 00:00:00,Slovenia,Azerbaijan,0,0,Friendly,Ljubljana,Slovenia,False
+2020-11-11 00:00:00,Turkey,Croatia,3,3,Friendly,Istanbul,Turkey,False
+2020-11-12 00:00:00,Hungary,Iceland,2,1,UEFA Euro qualification,Budapest,Hungary,False
+2020-11-12 00:00:00,Northern Ireland,Slovakia,1,2,UEFA Euro qualification,Belfast,Northern Ireland,False
+2020-11-12 00:00:00,Serbia,Scotland,1,1,UEFA Euro qualification,Belgrade,Serbia,False
+2020-11-12 00:00:00,Georgia,North Macedonia,0,1,UEFA Euro qualification,Tbilisi,Georgia,False
+2020-11-12 00:00:00,Bosnia and Herzegovina,Iran,0,2,Friendly,Sarajevo,Bosnia and Herzegovina,False
+2020-11-12 00:00:00,England,Republic of Ireland,3,0,Friendly,London,England,False
+2020-11-12 00:00:00,Jordan,Iraq,0,0,Friendly,Dubai,United Arab Emirates,True
+2020-11-12 00:00:00,Lebanon,Bahrain,1,3,Friendly,Dubai,United Arab Emirates,True
+2020-11-12 00:00:00,Moldova,Russia,0,0,Friendly,Chi»ôinƒÉu,Moldova,False
+2020-11-12 00:00:00,United Arab Emirates,Tajikistan,3,2,Friendly,Dubai,United Arab Emirates,False
+2020-11-12 00:00:00,Uzbekistan,Syria,0,1,Friendly,Sharjah,United Arab Emirates,True
+2020-11-12 00:00:00,Wales,United States,0,0,Friendly,Cardiff,Wales,False
+2020-11-12 00:00:00,Bolivia,Ecuador,2,3,FIFA World Cup qualification,La Paz,Bolivia,False
+2020-11-12 00:00:00,Argentina,Paraguay,1,1,FIFA World Cup qualification,Buenos Aires,Argentina,False
+2020-11-13 00:00:00,Bangladesh,Nepal,2,0,Friendly,Dhaka,Bangladesh,False
+2020-11-13 00:00:00,Costa Rica,Qatar,1,1,Friendly,Maria Enzersdorf,Austria,True
+2020-11-13 00:00:00,Japan,Panama,1,0,Friendly,Graz,Austria,True
+2020-11-13 00:00:00,Colombia,Uruguay,0,3,FIFA World Cup qualification,Barranquilla,Colombia,False
+2020-11-13 00:00:00,Chile,Peru,2,0,FIFA World Cup qualification,Santiago,Chile,False
+2020-11-13 00:00:00,Brazil,Venezuela,1,0,FIFA World Cup qualification,S√£o Paulo,Brazil,False
+2020-11-14 00:00:00,Portugal,France,0,1,UEFA Nations League,Lisbon,Portugal,False

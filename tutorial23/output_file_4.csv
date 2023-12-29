@@ -1,0 +1,1001 @@
+date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
+1956-07-05 00:00:00,Madagascar,R√©union,4,2,Friendly,Antananarivo,Madagascar,False
+1956-07-08 00:00:00,Argentina,Brazil,0,0,Atlantic Cup,Avellaneda,Argentina,False
+1956-07-08 00:00:00,Madagascar,Mauritius,3,3,Friendly,Antananarivo,Madagascar,False
+1956-07-15 00:00:00,Hungary,Poland,4,1,Friendly,Budapest,Hungary,False
+1956-07-15 00:00:00,Paraguay,Uruguay,2,2,Friendly,Asunci√≥n,Paraguay,False
+1956-07-22 00:00:00,Poland,German DR,0,2,Friendly,Chorz√≥w,Poland,False
+1956-08-03 00:00:00,Belarus,Kyrgyzstan,1,0,Friendly,Moscow,Soviet Union,True
+1956-08-03 00:00:00,Estonia,Lithuania,0,1,Friendly,Moscow,Soviet Union,True
+1956-08-05 00:00:00,Brazil,Czechoslovakia,0,1,Friendly,Rio de Janeiro,Brazil,False
+1956-08-05 00:00:00,Russia,Lithuania,2,0,Friendly,Moscow,Soviet Union,False
+1956-08-08 00:00:00,Brazil,Czechoslovakia,4,1,Friendly,S√£o Paulo,Brazil,False
+1956-08-09 00:00:00,Russia,Belarus,5,1,Friendly,Moscow,Soviet Union,False
+1956-08-09 00:00:00,Yugoslavia,China PR,4,0,Friendly,Belgrade,Yugoslavia,False
+1956-08-10 00:00:00,Estonia,Lithuania,0,2,Friendly,Moscow,Soviet Union,True
+1956-08-11 00:00:00,Russia,Belarus,4,2,Friendly,Moscow,Soviet Union,False
+1956-08-12 00:00:00,Lithuania,Moldova,1,4,Friendly,Moscow,Soviet Union,True
+1956-08-12 00:00:00,Uruguay,Czechoslovakia,2,1,Friendly,Montevideo,Uruguay,False
+1956-08-15 00:00:00,Paraguay,Argentina,0,1,Copa Chevallier Boutell,Asunci√≥n,Paraguay,False
+1956-08-19 00:00:00,Argentina,Czechoslovakia,1,0,Friendly,Buenos Aires,Argentina,False
+1956-08-26 00:00:00,Chile,Czechoslovakia,3,0,Friendly,Santiago,Chile,False
+1956-08-26 00:00:00,South Korea,Taiwan,2,0,AFC Asian Cup qualification,Seoul,South Korea,False
+1956-08-26 00:00:00,Norway,Finland,1,1,Nordic Championship,Oslo,Norway,False
+1956-08-26 00:00:00,Poland,Bulgaria,1,2,Friendly,Wroc≈Çaw,Poland,False
+1956-09-01 00:00:00,Hong Kong,Israel,2,3,AFC Asian Cup,So Kon Po,Hong Kong,False
+1956-09-06 00:00:00,Hong Kong,South Korea,2,2,AFC Asian Cup,So Kon Po,Hong Kong,False
+1956-09-08 00:00:00,Israel,South Korea,1,2,AFC Asian Cup,So Kon Po,Hong Kong,True
+1956-09-09 00:00:00,Hong Kong,Vietnam Republic,2,2,AFC Asian Cup,So Kon Po,Hong Kong,False
+1956-09-09 00:00:00,Yugoslavia,Indonesia,4,2,Friendly,Belgrade,Yugoslavia,False
+1956-09-10 00:00:00,Bulgaria,Romania,2,0,Friendly,Sofia,Bulgaria,False
+1956-09-12 00:00:00,Croatia,Indonesia,5,2,Friendly,Zagreb,Yugoslavia,False
+1956-09-12 00:00:00,Israel,Vietnam Republic,2,1,AFC Asian Cup,So Kon Po,Hong Kong,True
+1956-09-12 00:00:00,Singapore,Pakistan,1,1,Friendly,Kallang,Singapore,False
+1956-09-15 00:00:00,Germany,Russia,1,2,Friendly,Hanover,Germany,False
+1956-09-15 00:00:00,South Korea,Vietnam Republic,5,3,AFC Asian Cup,So Kon Po,Hong Kong,True
+1956-09-15 00:00:00,Switzerland,Netherlands,2,3,Friendly,Lausanne,Switzerland,False
+1956-09-16 00:00:00,Finland,Denmark,0,4,Nordic Championship,Helsinki,Finland,False
+1956-09-16 00:00:00,Norway,Sweden,3,1,Nordic Championship,Oslo,Norway,False
+1956-09-16 00:00:00,Yugoslavia,Hungary,1,3,International Cup,Belgrade,Yugoslavia,False
+1956-09-17 00:00:00,Hong Kong,South Korea,2,4,Friendly,So Kon Po,Hong Kong,False
+1956-09-20 00:00:00,German DR,Indonesia,3,1,Friendly,Karl-Marx-Stadt,German DR,False
+1956-09-23 00:00:00,Russia,Hungary,0,1,Friendly,Moscow,Soviet Union,False
+1956-09-25 00:00:00,Guyana,Suriname,1,1,Friendly,Georgetown,British Guyana,False
+1956-09-28 00:00:00,Guyana,Suriname,2,1,Friendly,Georgetown,British Guyana,False
+1956-09-30 00:00:00,Austria,Luxembourg,7,0,FIFA World Cup qualification,Vienna,Austria,False
+1956-09-30 00:00:00,Guyana,Suriname,1,2,Friendly,Georgetown,British Guyana,False
+1956-09-30 00:00:00,Yugoslavia,Czechoslovakia,1,2,International Cup,Belgrade,Yugoslavia,False
+1956-10-03 00:00:00,Republic of Ireland,Denmark,2,1,FIFA World Cup qualification,Dublin,Republic of Ireland,False
+1956-10-04 00:00:00,China PR,North Vietnam,5,3,Friendly,Beijing,China PR,False
+1956-10-06 00:00:00,Nigeria,Togo,1,1,Friendly,Lagos,Nigeria,False
+1956-10-06 00:00:00,Northern Ireland,England,1,1,British Championship,Belfast,Northern Ireland,False
+1956-10-07 00:00:00,China PR,North Korea,0,1,Friendly,Beijing,China PR,False
+1956-10-07 00:00:00,France,Hungary,1,2,Friendly,Colombes,France,False
+1956-10-10 00:00:00,North Korea,North Vietnam,3,0,Friendly,Beijing,China PR,True
+1956-10-10 00:00:00,Uruguay,Argentina,1,2,Friendly,Paysand√∫,Uruguay,False
+1956-10-14 00:00:00,Austria,Hungary,0,2,Friendly,Vienna,Austria,False
+1956-10-14 00:00:00,Belgium,Netherlands,2,3,Friendly,Antwerp,Belgium,False
+1956-10-14 00:00:00,Bulgaria,German DR,3,1,Friendly,Sofia,Bulgaria,False
+1956-10-19 00:00:00,Vietnam Republic,Thailand,2,1,Friendly,Saigon,Vietnam Republic,False
+1956-10-20 00:00:00,Togo,Ghana,1,1,Friendly,Lom√©,Togo,False
+1956-10-20 00:00:00,Wales,Scotland,2,2,British Championship,Cardiff,Wales,False
+1956-10-21 00:00:00,France,Russia,2,1,Friendly,Colombes,France,False
+1956-10-21 00:00:00,Sweden,Denmark,1,1,Nordic Championship,Solna,Sweden,False
+1956-10-22 00:00:00,Vietnam Republic,Thailand,3,1,Friendly,Saigon,Vietnam Republic,False
+1956-10-27 00:00:00,Nigeria,Ghana,3,0,Friendly,Lagos,Nigeria,False
+1956-10-28 00:00:00,Poland,Norway,5,3,Friendly,Warsaw,Poland,False
+1956-10-31 00:00:00,South Korea,United States,1,0,Friendly,Seoul,South Korea,False
+1956-11-04 00:00:00,Denmark,Netherlands,2,2,Friendly,Copenhagen,Denmark,False
+1956-11-04 00:00:00,Poland,Finland,5,0,Friendly,Cracow,Poland,False
+1956-11-07 00:00:00,Scotland,Northern Ireland,1,0,British Championship,Glasgow,Scotland,False
+1956-11-10 00:00:00,Philippines,United States,0,4,Friendly,Manila,Philippines,False
+1956-11-10 00:00:00,Sierra Leone,Gambia,1,0,Friendly,Freetown,Sierra Leone,False
+1956-11-11 00:00:00,France,Belgium,6,3,FIFA World Cup qualification,Colombes,France,False
+1956-11-11 00:00:00,Switzerland,Italy,1,1,International Cup,Berne,Switzerland,False
+1956-11-14 00:00:00,Argentina,Uruguay,2,2,Friendly,Buenos Aires,Argentina,False
+1956-11-14 00:00:00,England,Wales,3,1,British Championship,London,England,False
+1956-11-16 00:00:00,Ethiopia,Sudan,2,1,Friendly,Addis Ababa,Ethiopia,False
+1956-11-16 00:00:00,Indonesia,United States,7,5,Friendly,Jakarta,Indonesia,False
+1956-11-16 00:00:00,Turkey,Poland,1,1,Friendly,Istanbul,Turkey,False
+1956-11-21 00:00:00,Germany,Switzerland,1,3,Friendly,Frankfurt am Main,Germany,False
+1956-11-21 00:00:00,Scotland,Yugoslavia,2,0,Friendly,Glasgow,Scotland,False
+1956-11-25 00:00:00,Czechoslovakia,Turkey,1,1,Friendly,Prague,Czechoslovakia,False
+1956-11-25 00:00:00,Republic of Ireland,Germany,3,0,Friendly,Dublin,Republic of Ireland,False
+1956-11-27 00:00:00,Tanzania,Kenya,0,9,Friendly,Kampala,Uganda,True
+1956-11-28 00:00:00,England,Yugoslavia,3,0,Friendly,London,England,False
+1956-11-28 00:00:00,Uganda,Zanzibar,5,2,Friendly,Kampala,Uganda,False
+1956-11-30 00:00:00,Tanzania,Zanzibar,2,3,Friendly,Kampala,Uganda,True
+1956-12-01 00:00:00,Uganda,Kenya,3,2,Friendly,Kampala,Uganda,False
+1956-12-05 00:00:00,England,Denmark,5,2,FIFA World Cup qualification,Wolverhampton,England,False
+1956-12-09 00:00:00,Italy,Austria,2,1,International Cup,Genoa,Italy,False
+1956-12-12 00:00:00,Australia,India,1,7,Friendly,Sydney,Australia,False
+1956-12-13 00:00:00,Singapore,Bulgaria,2,10,Friendly,Kallang,Singapore,False
+1956-12-16 00:00:00,Ghana,Sierra Leone,4,3,Friendly,Accra,Gold Coast,False
+1956-12-23 00:00:00,Germany,Belgium,4,1,Friendly,Cologne,Germany,False
+1956-12-23 00:00:00,Indonesia,Yugoslavia,1,5,Friendly,Jakarta,Indonesia,False
+1956-12-29 00:00:00,India,Yugoslavia,0,3,Friendly,Calcutta,India,False
+1957-01-16 00:00:00,Portugal,Northern Ireland,1,1,FIFA World Cup qualification,Lisbon,Portugal,False
+1957-01-21 00:00:00,Jamaica,Trinidad and Tobago,2,0,Friendly,Kingston,Jamaica,False
+1957-01-26 00:00:00,Jamaica,Trinidad and Tobago,1,0,Friendly,Kingston,Jamaica,False
+1957-01-28 00:00:00,Jamaica,Trinidad and Tobago,2,1,Friendly,Kingston,Jamaica,False
+1957-01-30 00:00:00,Spain,Netherlands,5,1,Friendly,Madrid,Spain,False
+1957-02-09 00:00:00,Singapore,India,2,3,Friendly,Kallang,Singapore,False
+1957-02-10 00:00:00,Guatemala,Costa Rica,2,6,FIFA World Cup qualification,Guatemala,Guatemala,False
+1957-02-10 00:00:00,Sudan,Egypt,1,2,African Cup of Nations,Khartoum,Sudan,False
+1957-02-16 00:00:00,Egypt,Ethiopia,4,0,African Cup of Nations,Khartoum,Sudan,True
+1957-02-16 00:00:00,Malaysia,India,2,3,Friendly,Kuala Lumpur,Malaya,False
+1957-02-17 00:00:00,Costa Rica,Guatemala,3,1,FIFA World Cup qualification,San Jos√©,Costa Rica,False
+1957-02-17 00:00:00,Sudan,Egypt,3,4,Friendly,Khartoum,Sudan,False
+1957-02-24 00:00:00,Malta,Austria,2,3,Friendly,G≈ºira,Malta,False
+1957-03-03 00:00:00,Costa Rica,Cura√ßao,4,0,FIFA World Cup qualification,San Jos√©,Costa Rica,False
+1957-03-07 00:00:00,Ecuador,Uruguay,2,5,Copa Am√©rica,Lima,Peru,True
+1957-03-08 00:00:00,Sudan,Syria,1,0,FIFA World Cup qualification,Khartoum,Sudan,False
+1957-03-10 00:00:00,Austria,Germany,2,3,Friendly,Vienna,Austria,False
+1957-03-10 00:00:00,German DR,Luxembourg,3,0,Friendly,Berlin,German DR,False
+1957-03-10 00:00:00,Guatemala,Cura√ßao,1,3,FIFA World Cup qualification,Guatemala,Guatemala,False
+1957-03-10 00:00:00,Peru,Ecuador,2,1,Copa Am√©rica,Lima,Peru,False
+1957-03-10 00:00:00,Spain,Switzerland,2,2,FIFA World Cup qualification,Madrid,Spain,False
+1957-03-13 00:00:00,Argentina,Colombia,8,2,Copa Am√©rica,Lima,Peru,True
+1957-03-13 00:00:00,Brazil,Chile,4,2,Copa Am√©rica,Lima,Peru,True
+1957-03-16 00:00:00,Peru,Chile,1,0,Copa Am√©rica,Lima,Peru,False
+1957-03-17 00:00:00,Argentina,Ecuador,3,0,Copa Am√©rica,Lima,Peru,True
+1957-03-17 00:00:00,Colombia,Uruguay,1,0,Copa Am√©rica,Lima,Peru,True
+1957-03-20 00:00:00,Argentina,Uruguay,4,0,Copa Am√©rica,Lima,Peru,True
+1957-03-20 00:00:00,Netherlands,Luxembourg,4,1,FIFA World Cup qualification,Rotterdam,Netherlands,False
+1957-03-21 00:00:00,Brazil,Ecuador,7,1,Copa Am√©rica,Lima,Peru,True
+1957-03-21 00:00:00,Chile,Colombia,3,2,Copa Am√©rica,Lima,Peru,True
+1957-03-23 00:00:00,Peru,Uruguay,3,5,Copa Am√©rica,Lima,Peru,False
+1957-03-24 00:00:00,Brazil,Colombia,9,0,Copa Am√©rica,Lima,Peru,True
+1957-03-24 00:00:00,Chile,Ecuador,2,2,Copa Am√©rica,Lima,Peru,True
+1957-03-27 00:00:00,Peru,Colombia,4,1,Copa Am√©rica,Lima,Peru,False
+1957-03-28 00:00:00,Argentina,Chile,6,2,Copa Am√©rica,Lima,Peru,True
+1957-03-28 00:00:00,Brazil,Uruguay,2,3,Copa Am√©rica,Lima,Peru,True
+1957-03-31 00:00:00,Belgium,Spain,0,5,Friendly,Brussels,Belgium,False
+1957-03-31 00:00:00,Peru,Brazil,0,1,Copa Am√©rica,Lima,Peru,False
+1957-04-01 00:00:00,Chile,Uruguay,0,2,Copa Am√©rica,Lima,Peru,True
+1957-04-01 00:00:00,Colombia,Ecuador,4,1,Copa Am√©rica,Lima,Peru,True
+1957-04-03 00:00:00,Argentina,Brazil,3,0,Copa Am√©rica,Lima,Peru,True
+1957-04-03 00:00:00,Netherlands,Germany,1,2,Friendly,Amsterdam,Netherlands,False
+1957-04-06 00:00:00,England,Scotland,2,1,British Championship,London,England,False
+1957-04-06 00:00:00,Peru,Argentina,2,1,Copa Am√©rica,Lima,Peru,False
+1957-04-07 00:00:00,Mexico,United States,6,0,FIFA World Cup qualification,Mexico City,Mexico,False
+1957-04-09 00:00:00,Peru,Argentina,1,4,Friendly,Lima,Peru,False
+1957-04-10 00:00:00,Northern Ireland,Wales,0,0,British Championship,Belfast,Northern Ireland,False
+1957-04-13 00:00:00,Peru,Brazil,1,1,FIFA World Cup qualification,Lima,Peru,False
+1957-04-14 00:00:00,Austria,Switzerland,4,0,International Cup,Vienna,Austria,False
+1957-04-17 00:00:00,Mauritius,R√©union,1,0,Friendly,Curepipe,Mauritius,False
+1957-04-20 00:00:00,Martinique,Guadeloupe,6,1,Friendly,Fort-de-France,Martinique,False
+1957-04-21 00:00:00,Brazil,Peru,1,0,FIFA World Cup qualification,Rio de Janeiro,Brazil,False
+1957-04-25 00:00:00,Italy,Northern Ireland,1,0,FIFA World Cup qualification,Rome,Italy,False
+1957-04-28 00:00:00,Netherlands,Belgium,1,1,Friendly,Amsterdam,Netherlands,False
+1957-04-28 00:00:00,United States,Mexico,2,7,FIFA World Cup qualification,Long Beach,United States,False
+1957-05-01 00:00:00,Northern Ireland,Portugal,3,0,FIFA World Cup qualification,Belfast,Northern Ireland,False
+1957-05-01 00:00:00,Wales,Czechoslovakia,1,0,FIFA World Cup qualification,Cardiff,Wales,False
+1957-05-05 00:00:00,Austria,Sweden,1,0,Friendly,Vienna,Austria,False
+1957-05-05 00:00:00,Greece,Yugoslavia,0,0,FIFA World Cup qualification,Athens,Greece,False
+1957-05-08 00:00:00,England,Republic of Ireland,5,1,FIFA World Cup qualification,London,England,False
+1957-05-08 00:00:00,Scotland,Spain,4,2,FIFA World Cup qualification,Glasgow,Scotland,False
+1957-05-12 00:00:00,Indonesia,China PR,2,0,FIFA World Cup qualification,Jakarta,Indonesia,False
+1957-05-12 00:00:00,Yugoslavia,Italy,6,1,International Cup,Zagreb,Yugoslavia,False
+1957-05-15 00:00:00,Denmark,England,1,4,FIFA World Cup qualification,Copenhagen,Denmark,False
+1957-05-15 00:00:00,Guadeloupe,Martinique,5,2,Friendly,Basse-Terre,Guadeloupe,False
+1957-05-18 00:00:00,Czechoslovakia,Yugoslavia,1,0,International Cup,Bratislava,Czechoslovakia,False
+1957-05-19 00:00:00,German DR,Wales,2,1,FIFA World Cup qualification,Leipzig,German DR,False
+1957-05-19 00:00:00,Republic of Ireland,England,1,1,FIFA World Cup qualification,Dublin,Republic of Ireland,False
+1957-05-19 00:00:00,Poland,Turkey,0,1,Friendly,Warsaw,Poland,False
+1957-05-19 00:00:00,Switzerland,Scotland,1,2,FIFA World Cup qualification,Basel,Switzerland,False
+1957-05-22 00:00:00,Germany,Scotland,1,3,Friendly,Stuttgart,Germany,False
+1957-05-22 00:00:00,Norway,Bulgaria,1,2,FIFA World Cup qualification,Oslo,Norway,False
+1957-05-23 00:00:00,Uruguay,Argentina,0,0,Copa Newton,Montevideo,Uruguay,False
+1957-05-24 00:00:00,Syria,Sudan,1,1,FIFA World Cup qualification,Damascus,Syria,False
+1957-05-26 00:00:00,Austria,Netherlands,3,2,FIFA World Cup qualification,Vienna,Austria,False
+1957-05-26 00:00:00,Belgium,Romania,1,0,Friendly,Brussels,Belgium,False
+1957-05-26 00:00:00,Czechoslovakia,Wales,2,0,FIFA World Cup qualification,Prague,Czechoslovakia,False
+1957-05-26 00:00:00,Denmark,Bulgaria,1,1,Friendly,Copenhagen,Denmark,False
+1957-05-26 00:00:00,Portugal,Italy,3,0,FIFA World Cup qualification,Oeiras,Portugal,False
+1957-05-26 00:00:00,Spain,Scotland,4,1,FIFA World Cup qualification,Madrid,Spain,False
+1957-06-01 00:00:00,Russia,Romania,1,1,Friendly,Moscow,Soviet Union,False
+1957-06-02 00:00:00,China PR,Indonesia,4,3,FIFA World Cup qualification,Beijing,China PR,False
+1957-06-02 00:00:00,France,Iceland,8,0,FIFA World Cup qualification,Nantes,France,False
+1957-06-02 00:00:00,Tunisia,Libya,4,2,Friendly,Tunis,Tunisia,False
+1957-06-05 00:00:00,Argentina,Uruguay,1,1,Copa Lipton,Buenos Aires,Argentina,False
+1957-06-05 00:00:00,Belgium,Iceland,8,3,FIFA World Cup qualification,Brussels,Belgium,False
+1957-06-06 00:00:00,Paraguay,Bolivia,5,2,Copa Paz del Chaco,Asunci√≥n,Paraguay,False
+1957-06-11 00:00:00,Brazil,Portugal,2,1,Friendly,Rio de Janeiro,Brazil,False
+1957-06-12 00:00:00,Norway,Hungary,2,1,FIFA World Cup qualification,Oslo,Norway,False
+1957-06-13 00:00:00,Paraguay,Bolivia,0,1,Copa Paz del Chaco,Asunci√≥n,Paraguay,False
+1957-06-16 00:00:00,Brazil,Portugal,3,0,Friendly,S√£o Paulo,Brazil,False
+1957-06-16 00:00:00,Colombia,Uruguay,1,1,FIFA World Cup qualification,Bogot√°,Colombia,False
+1957-06-16 00:00:00,Czechoslovakia,German DR,3,1,FIFA World Cup qualification,Brno,Czechoslovakia,False
+1957-06-16 00:00:00,Greece,Romania,1,2,FIFA World Cup qualification,Athens,Greece,False
+1957-06-16 00:00:00,Sweden,Hungary,0,0,Friendly,Solna,Sweden,False
+1957-06-18 00:00:00,Finland,Denmark,2,0,Friendly,Helsinki,Finland,False
+1957-06-18 00:00:00,Norway,Sweden,0,0,Friendly,Turku,Finland,True
+1957-06-19 00:00:00,Denmark,Norway,2,0,Friendly,Tampere,Finland,True
+1957-06-19 00:00:00,Finland,Sweden,1,5,Friendly,Helsinki,Finland,False
+1957-06-20 00:00:00,Colombia,Paraguay,2,3,FIFA World Cup qualification,Bogot√°,Colombia,False
+1957-06-22 00:00:00,Canada,United States,5,1,FIFA World Cup qualification,Toronto,Canada,False
+1957-06-23 00:00:00,China PR,Indonesia,0,0,FIFA World Cup qualification,Yangon,Burma,True
+1957-06-23 00:00:00,Colombia,Paraguay,1,2,Friendly,Medell√≠n,Colombia,False
+1957-06-23 00:00:00,Hungary,Bulgaria,4,1,FIFA World Cup qualification,Budapest,Hungary,False
+1957-06-23 00:00:00,Russia,Poland,3,0,FIFA World Cup qualification,Moscow,Soviet Union,True
+1957-06-27 00:00:00,Myanmar,China PR,2,1,Friendly,Yangon,Burma,False
+1957-06-30 00:00:00,Denmark,Sweden,1,2,Nordic Championship,Copenhagen,Denmark,False
+1957-06-30 00:00:00,Mexico,Canada,3,0,FIFA World Cup qualification,Mexico City,Mexico,False
+1957-06-30 00:00:00,Uruguay,Colombia,1,0,FIFA World Cup qualification,Montevideo,Uruguay,False
+1957-07-03 00:00:00,Mexico,Canada,2,0,FIFA World Cup qualification,Mexico City,Mexico,False
+1957-07-05 00:00:00,Finland,Poland,1,3,FIFA World Cup qualification,Helsinki,Finland,False
+1957-07-06 00:00:00,United States,Canada,2,3,FIFA World Cup qualification,St. Louis,United States,False
+1957-07-07 00:00:00,Brazil,Argentina,1,2,Copa Roca,Rio de Janeiro,Brazil,False
+1957-07-07 00:00:00,Paraguay,Colombia,3,0,FIFA World Cup qualification,Asunci√≥n,Paraguay,False
+1957-07-08 00:00:00,Iceland,Norway,0,3,Friendly,Reykjav√≠k,Iceland,False
+1957-07-10 00:00:00,Brazil,Argentina,2,0,Copa Roca,S√£o Paulo,Brazil,False
+1957-07-10 00:00:00,Iceland,Denmark,2,6,Friendly,Reykjav√≠k,Iceland,False
+1957-07-12 00:00:00,Denmark,Norway,1,3,Friendly,Reykjav√≠k,Iceland,True
+1957-07-14 00:00:00,Paraguay,Uruguay,5,0,FIFA World Cup qualification,Asunci√≥n,Paraguay,False
+1957-07-21 00:00:00,Bulgaria,Russia,0,4,Friendly,Sofia,Bulgaria,False
+1957-07-21 00:00:00,China PR,Sudan,4,1,Friendly,Beijing,China PR,False
+1957-07-27 00:00:00,Russia,Finland,2,1,FIFA World Cup qualification,Moscow,Soviet Union,True
+1957-07-28 00:00:00,Uruguay,Paraguay,2,0,FIFA World Cup qualification,Montevideo,Uruguay,False
+1957-08-04 00:00:00,Cura√ßao,Costa Rica,1,2,FIFA World Cup qualification,Willemstad,Netherlands Antilles,True
+1957-08-13 00:00:00,Cura√ßao,Haiti,1,3,CCCF Championship,Willemstad,Netherlands Antilles,False
+1957-08-14 00:00:00,Cuba,Panama,0,1,CCCF Championship,Willemstad,Netherlands Antilles,True
+1957-08-15 00:00:00,Finland,Russia,0,10,FIFA World Cup qualification,Helsinki,Finland,False
+1957-08-18 00:00:00,Bolivia,Paraguay,3,3,Copa Paz del Chaco,La Paz,Bolivia,False
+1957-08-18 00:00:00,Cura√ßao,Cuba,2,0,CCCF Championship,Willemstad,Netherlands Antilles,False
+1957-08-21 00:00:00,Bolivia,Paraguay,2,1,Copa Paz del Chaco,La Paz,Bolivia,False
+1957-08-21 00:00:00,Cuba,Honduras,0,2,CCCF Championship,Willemstad,Netherlands Antilles,True
+1957-08-21 00:00:00,Cura√ßao,Panama,3,0,CCCF Championship,Willemstad,Netherlands Antilles,False
+1957-08-23 00:00:00,Cuba,Haiti,1,6,CCCF Championship,Willemstad,Netherlands Antilles,True
+1957-08-24 00:00:00,Sierra Leone,Ghana,2,3,Friendly,Freetown,Sierra Leone,False
+1957-08-25 00:00:00,Cura√ßao,Honduras,1,1,CCCF Championship,Willemstad,Netherlands Antilles,False
+1957-08-26 00:00:00,Aruba,Panama,2,2,Friendly,Oranjestad,Aruba,False
+1957-08-28 00:00:00,Malawi,Zambia,0,5,Friendly,Blantyre,Nyasaland,False
+1957-08-31 00:00:00,Indonesia,Thailand,4,0,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1957-08-31 00:00:00,Singapore,Vietnam Republic,5,5,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1957-09-01 00:00:00,Cambodia,Thailand,0,3,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1957-09-01 00:00:00,Finland,Norway,0,4,Nordic Championship,Helsinki,Finland,False
+1957-09-01 00:00:00,Iceland,France,1,5,FIFA World Cup qualification,Reykjav√≠k,Iceland,False
+1957-09-01 00:00:00,Malaysia,Myanmar,5,2,Merdeka Tournament,Kuala Lumpur,Malaya,False
+1957-09-01 00:00:00,Singapore,Vietnam Republic,1,2,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1957-09-03 00:00:00,Myanmar,Cambodia,2,0,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1957-09-03 00:00:00,Malaysia,Vietnam Republic,1,4,Merdeka Tournament,Kuala Lumpur,Malaya,False
+1957-09-03 00:00:00,Singapore,Thailand,6,0,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1957-09-03 00:00:00,Tanzania,Uganda,2,4,Friendly,Zanzibar,Zanzibar,True
+1957-09-04 00:00:00,Iceland,Belgium,2,5,FIFA World Cup qualification,Reykjav√≠k,Iceland,False
+1957-09-04 00:00:00,Zanzibar,Kenya,1,5,Friendly,Zanzibar,Zanzibar,False
+1957-09-05 00:00:00,Myanmar,Thailand,5,2,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1957-09-05 00:00:00,Cambodia,Singapore,1,1,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1957-09-05 00:00:00,Indonesia,Vietnam Republic,3,1,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1957-09-05 00:00:00,Zanzibar,Tanzania,3,3,Friendly,Zanzibar,Zanzibar,False
+1957-09-07 00:00:00,Myanmar,Singapore,2,3,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1957-09-07 00:00:00,Malaysia,Indonesia,4,2,Merdeka Tournament,Kuala Lumpur,Malaya,False
+1957-09-07 00:00:00,Kenya,Uganda,1,2,Friendly,Zanzibar,Zanzibar,True
+1957-09-09 00:00:00,Tahiti,Vanuatu,2,1,Friendly,Papeete,French Polynesia,False
+1957-09-10 00:00:00,Singapore,Myanmar,2,1,Friendly,Singapore,Singapore,False
+1957-09-11 00:00:00,Netherlands,Luxembourg,5,2,FIFA World Cup qualification,Rotterdam,Netherlands,False
+1957-09-15 00:00:00,Bulgaria,Hungary,1,2,FIFA World Cup qualification,Sofia,Bulgaria,False
+1957-09-15 00:00:00,Chile,Brazil,1,0,Copa Bernardo O'Higgins,Santiago,Chile,False
+1957-09-15 00:00:00,China PR,Albania,3,2,Friendly,Beijing,China PR,False
+1957-09-15 00:00:00,New Caledonia,Tahiti,2,4,Friendly,Noum√©a,New Caledonia,False
+1957-09-15 00:00:00,Yugoslavia,Austria,3,3,Friendly,Belgrade,Yugoslavia,False
+1957-09-18 00:00:00,Chile,Brazil,1,1,Copa Bernardo O'Higgins,Santiago,Chile,False
+1957-09-18 00:00:00,New Caledonia,Tahiti,2,1,Friendly,Noum√©a,New Caledonia,False
+1957-09-22 00:00:00,Chile,Bolivia,2,1,FIFA World Cup qualification,Santiago,Chile,False
+1957-09-22 00:00:00,Hungary,Russia,1,2,Friendly,Budapest,Hungary,False
+1957-09-22 00:00:00,Norway,Denmark,2,2,Nordic Championship,Oslo,Norway,False
+1957-09-22 00:00:00,Sweden,Finland,5,1,Nordic Championship,Solna,Sweden,False
+1957-09-25 00:00:00,Netherlands,Austria,1,1,FIFA World Cup qualification,Amsterdam,Netherlands,False
+1957-09-25 00:00:00,Wales,German DR,4,1,FIFA World Cup qualification,Cardiff,Wales,False
+1957-09-27 00:00:00,New Caledonia,Tahiti,2,0,Friendly,Noum√©a,New Caledonia,False
+1957-09-29 00:00:00,Bolivia,Chile,3,0,FIFA World Cup qualification,La Paz,Bolivia,False
+1957-09-29 00:00:00,Bulgaria,Poland,1,1,Friendly,Sofia,Bulgaria,False
+1957-09-29 00:00:00,Luxembourg,Austria,0,3,FIFA World Cup qualification,Luxembourg,Luxembourg,False
+1957-09-29 00:00:00,Romania,Yugoslavia,1,1,FIFA World Cup qualification,Bucharest,Romania,False
+1957-10-02 00:00:00,Denmark,Republic of Ireland,0,2,FIFA World Cup qualification,Copenhagen,Denmark,False
+1957-10-05 00:00:00,Northern Ireland,Scotland,1,1,British Championship,Belfast,Northern Ireland,False
+1957-10-06 00:00:00,Bolivia,Argentina,2,0,FIFA World Cup qualification,La Paz,Bolivia,False
+1957-10-06 00:00:00,Hungary,France,2,0,Friendly,Budapest,Hungary,False
+1957-10-13 00:00:00,Austria,Czechoslovakia,2,2,International Cup,Vienna,Austria,False
+1957-10-13 00:00:00,Chile,Argentina,0,2,FIFA World Cup qualification,Santiago,Chile,False
+1957-10-13 00:00:00,Denmark,Finland,3,0,Nordic Championship,Copenhagen,Denmark,False
+1957-10-13 00:00:00,Sweden,Norway,5,2,Nordic Championship,Solna,Sweden,False
+1957-10-19 00:00:00,Wales,England,0,4,British Championship,Cardiff,Wales,False
+1957-10-20 00:00:00,Argentina,Chile,4,0,FIFA World Cup qualification,Buenos Aires,Argentina,False
+1957-10-20 00:00:00,Madagascar,R√©union,0,1,Friendly,Curepipe,Mauritius,True
+1957-10-20 00:00:00,Mexico,Costa Rica,2,0,FIFA World Cup qualification,Mexico City,Mexico,False
+1957-10-20 00:00:00,Poland,Russia,2,1,FIFA World Cup qualification,Chorz√≥w,Poland,False
+1957-10-24 00:00:00,Mauritius,Madagascar,4,0,Friendly,Curepipe,Mauritius,False
+1957-10-27 00:00:00,Argentina,Bolivia,4,0,FIFA World Cup qualification,Avellaneda,Argentina,False
+1957-10-27 00:00:00,Belgium,France,0,0,FIFA World Cup qualification,Brussels,Belgium,False
+1957-10-27 00:00:00,Costa Rica,Mexico,1,1,FIFA World Cup qualification,San Jos√©,Costa Rica,False
+1957-10-27 00:00:00,German DR,Czechoslovakia,1,4,FIFA World Cup qualification,Leipzig,German DR,False
+1957-10-27 00:00:00,Ghana,Nigeria,3,3,Friendly,Accra,Ghana,False
+1957-10-27 00:00:00,Mauritius,R√©union,1,0,Friendly,Curepipe,Mauritius,False
+1957-10-31 00:00:00,Cambodia,Malaysia,1,3,Friendly,Phnom Penh,Cambodia,False
+1957-11-03 00:00:00,Bulgaria,Norway,7,0,FIFA World Cup qualification,Sofia,Bulgaria,False
+1957-11-03 00:00:00,Poland,Finland,4,0,FIFA World Cup qualification,Warsaw,Poland,False
+1957-11-03 00:00:00,Romania,Greece,3,0,FIFA World Cup qualification,Bucharest,Romania,False
+1957-11-06 00:00:00,England,Northern Ireland,2,3,British Championship,London,England,False
+1957-11-06 00:00:00,Scotland,Switzerland,3,2,FIFA World Cup qualification,Glasgow,Scotland,False
+1957-11-10 00:00:00,Hungary,Norway,5,0,FIFA World Cup qualification,Budapest,Hungary,False
+1957-11-10 00:00:00,Yugoslavia,Greece,4,1,FIFA World Cup qualification,Belgrade,Yugoslavia,False
+1957-11-13 00:00:00,Scotland,Wales,1,1,British Championship,Glasgow,Scotland,False
+1957-11-17 00:00:00,Netherlands,Belgium,5,2,Friendly,Rotterdam,Netherlands,False
+1957-11-17 00:00:00,Yugoslavia,Romania,2,0,FIFA World Cup qualification,Belgrade,Yugoslavia,False
+1957-11-20 00:00:00,Germany,Sweden,1,0,Friendly,Hamburg,Germany,False
+1957-11-24 00:00:00,Poland,Russia,0,2,FIFA World Cup qualification,Leipzig,German DR,True
+1957-11-24 00:00:00,Switzerland,Spain,1,4,FIFA World Cup qualification,Lausanne,Switzerland,False
+1957-11-27 00:00:00,England,France,4,0,Friendly,London,England,False
+1957-12-04 00:00:00,Northern Ireland,Italy,2,2,Friendly,Belfast,Northern Ireland,False
+1957-12-08 00:00:00,Turkey,Belgium,1,1,Friendly,Ankara,Turkey,False
+1957-12-13 00:00:00,Egypt,Czechoslovakia,1,2,Friendly,Cairo,Egypt,False
+1957-12-22 00:00:00,Germany,Hungary,1,0,Friendly,Hanover,Germany,False
+1957-12-22 00:00:00,Italy,Portugal,3,0,FIFA World Cup qualification,Milan,Italy,False
+1957-12-25 00:00:00,France,Bulgaria,2,2,Friendly,Colombes,France,False
+1958-01-15 00:00:00,Israel,Wales,0,2,FIFA World Cup qualification,Ramat-Gan,Israel,False
+1958-01-15 00:00:00,Northern Ireland,Italy,2,1,FIFA World Cup qualification,Belfast,Northern Ireland,False
+1958-01-25 00:00:00,Malta,Denmark,3,0,Friendly,G≈ºira,Malta,False
+1958-02-05 00:00:00,Wales,Israel,2,0,FIFA World Cup qualification,Cardiff,Wales,False
+1958-02-18 00:00:00,Hong Kong,South Korea,3,2,Friendly,So Kon Po,Hong Kong,False
+1958-02-20 00:00:00,Ghana,Togo,5,2,Friendly,Accra,Ghana,False
+1958-02-25 00:00:00,Hong Kong,South Korea,1,1,Friendly,So Kon Po,Hong Kong,False
+1958-03-01 00:00:00,Malaysia,Singapore,5,2,Friendly,Kuala Lumpur,Malaya,False
+1958-03-02 00:00:00,Belgium,Germany,0,2,Friendly,Brussels,Belgium,False
+1958-03-02 00:00:00,Malaysia,Singapore,3,1,Friendly,Kuala Lumpur,Malaya,False
+1958-03-13 00:00:00,France,Spain,2,2,Friendly,Paris,France,False
+1958-03-19 00:00:00,Germany,Spain,2,0,Friendly,Frankfurt am Main,Germany,False
+1958-03-23 00:00:00,Austria,Italy,3,2,International Cup,Vienna,Austria,False
+1958-04-02 00:00:00,Czechoslovakia,Germany,3,2,Friendly,Prague,Czechoslovakia,False
+1958-04-03 00:00:00,Morocco,Libya,3,1,Friendly,Casablanca,Morocco,False
+1958-04-06 00:00:00,Uruguay,Argentina,1,0,Friendly,Montevideo,Uruguay,False
+1958-04-13 00:00:00,Belgium,Netherlands,2,7,Friendly,Antwerp,Belgium,False
+1958-04-13 00:00:00,Spain,Portugal,1,0,Friendly,Madrid,Spain,False
+1958-04-14 00:00:00,Martinique,Guadeloupe,1,1,Friendly,Fort-de-France,Martinique,False
+1958-04-16 00:00:00,France,Switzerland,0,0,Friendly,Paris,France,False
+1958-04-16 00:00:00,Wales,Northern Ireland,1,1,British Championship,Cardiff,Wales,False
+1958-04-19 00:00:00,Scotland,England,0,4,British Championship,Glasgow,Scotland,False
+1958-04-20 00:00:00,Hungary,Yugoslavia,2,0,Friendly,Budapest,Hungary,False
+1958-04-20 00:00:00,Paraguay,Argentina,1,0,Friendly,Asunci√≥n,Paraguay,False
+1958-04-22 00:00:00,Zimbabwe,Zambia,0,2,Friendly,Salisbury,Southern Rhodesia,False
+1958-04-23 00:00:00,Netherlands,Cura√ßao,8,1,Friendly,Rotterdam,Netherlands,False
+1958-04-26 00:00:00,Argentina,Paraguay,2,0,Friendly,Avellaneda,Argentina,False
+1958-04-30 00:00:00,Argentina,Uruguay,2,0,Friendly,Buenos Aires,Argentina,False
+1958-05-03 00:00:00,Singapore,Malaysia,3,3,Friendly,Kallang,Singapore,False
+1958-05-04 00:00:00,Albania,German DR,1,1,Friendly,Tirana,Albania,False
+1958-05-04 00:00:00,Brazil,Paraguay,5,1,Copa Oswaldo Cruz,Rio de Janeiro,Brazil,False
+1958-05-04 00:00:00,Netherlands,Turkey,1,2,Friendly,Amsterdam,Netherlands,False
+1958-05-04 00:00:00,Singapore,Malaysia,0,3,Friendly,Kallang,Singapore,False
+1958-05-04 00:00:00,Trinidad and Tobago,Jamaica,1,0,Friendly,Port of Spain,Trinidad and Tobago,False
+1958-05-07 00:00:00,Brazil,Paraguay,0,0,Copa Oswaldo Cruz,S√£o Paulo,Brazil,False
+1958-05-07 00:00:00,England,Portugal,2,1,Friendly,London,England,False
+1958-05-07 00:00:00,Scotland,Hungary,1,1,Friendly,Glasgow,Scotland,False
+1958-05-07 00:00:00,Sweden,Switzerland,3,2,Friendly,Helsingborg,Sweden,False
+1958-05-09 00:00:00,Philippines,Indonesia,1,2,Friendly,Manila,Philippines,False
+1958-05-09 00:00:00,Tunisia,Libya,4,1,Friendly,Tunis,Tunisia,False
+1958-05-11 00:00:00,Poland,Republic of Ireland,2,2,Friendly,Chorz√≥w,Poland,False
+1958-05-11 00:00:00,Trinidad and Tobago,Jamaica,4,0,Friendly,Port of Spain,Trinidad and Tobago,False
+1958-05-11 00:00:00,Yugoslavia,England,5,0,Friendly,Belgrade,Yugoslavia,False
+1958-05-13 00:00:00,Philippines,Indonesia,0,3,Friendly,Manila,Philippines,False
+1958-05-13 00:00:00,Trinidad and Tobago,Jamaica,0,1,Friendly,Port of Spain,Trinidad and Tobago,False
+1958-05-14 00:00:00,Austria,Republic of Ireland,3,1,Friendly,Vienna,Austria,False
+1958-05-14 00:00:00,Brazil,Bulgaria,4,0,Friendly,Rio de Janeiro,Brazil,False
+1958-05-14 00:00:00,Hong Kong,Taiwan,2,1,Friendly,Victoria,Hong Kong,False
+1958-05-14 00:00:00,Malaysia,Pakistan,4,2,Friendly,Kuala Lumpur,Malaya,False
+1958-05-15 00:00:00,Denmark,Cura√ßao,3,2,Friendly,Aarhus,Denmark,False
+1958-05-17 00:00:00,Singapore,Pakistan,4,4,Friendly,Kallang,Singapore,False
+1958-05-18 00:00:00,Brazil,Bulgaria,3,1,Friendly,S√£o Paulo,Brazil,False
+1958-05-18 00:00:00,Russia,England,1,1,Friendly,Moscow,Soviet Union,False
+1958-05-25 00:00:00,Denmark,Poland,3,2,Friendly,Copenhagen,Denmark,False
+1958-05-26 00:00:00,Switzerland,Belgium,0,2,Friendly,Z√ºrich,Switzerland,False
+1958-05-28 00:00:00,Norway,Netherlands,0,0,Friendly,Oslo,Norway,False
+1958-06-01 00:00:00,Poland,Scotland,1,2,Friendly,Warsaw,Poland,False
+1958-06-04 00:00:00,Hong Kong,Malaysia,2,2,Friendly,Victoria,Hong Kong,False
+1958-06-08 00:00:00,Argentina,Germany,1,3,FIFA World Cup,Malm√∂,Sweden,True
+1958-06-08 00:00:00,Austria,Brazil,0,3,FIFA World Cup,Uddevalla,Sweden,True
+1958-06-08 00:00:00,Czechoslovakia,Northern Ireland,0,1,FIFA World Cup,Halmstad,Sweden,True
+1958-06-08 00:00:00,England,Russia,2,2,FIFA World Cup,Gothenburg,Sweden,True
+1958-06-08 00:00:00,France,Paraguay,7,3,FIFA World Cup,Norrk√∂ping,Sweden,True
+1958-06-08 00:00:00,Hungary,Wales,1,1,FIFA World Cup,Sandviken,Sweden,True
+1958-06-08 00:00:00,Scotland,Yugoslavia,1,1,FIFA World Cup,V√§ster√•s,Sweden,True
+1958-06-08 00:00:00,Sweden,Mexico,3,0,FIFA World Cup,Solna,Sweden,False
+1958-06-11 00:00:00,Argentina,Northern Ireland,3,1,FIFA World Cup,Halmstad,Sweden,True
+1958-06-11 00:00:00,Austria,Russia,0,2,FIFA World Cup,Bor√•s,Sweden,True
+1958-06-11 00:00:00,Brazil,England,0,0,FIFA World Cup,Gothenburg,Sweden,True
+1958-06-11 00:00:00,Czechoslovakia,Germany,2,2,FIFA World Cup,Helsingborg,Sweden,True
+1958-06-11 00:00:00,France,Yugoslavia,2,3,FIFA World Cup,V√§ster√•s,Sweden,True
+1958-06-11 00:00:00,Mexico,Wales,1,1,FIFA World Cup,Solna,Sweden,True
+1958-06-11 00:00:00,Paraguay,Scotland,3,2,FIFA World Cup,Norrk√∂ping,Sweden,True
+1958-06-12 00:00:00,Sweden,Hungary,2,1,FIFA World Cup,Solna,Sweden,False
+1958-06-15 00:00:00,Argentina,Czechoslovakia,1,6,FIFA World Cup,Helsingborg,Sweden,True
+1958-06-15 00:00:00,Austria,England,2,2,FIFA World Cup,Bor√•s,Sweden,True
+1958-06-15 00:00:00,Brazil,Russia,2,0,FIFA World Cup,Gothenburg,Sweden,True
+1958-06-15 00:00:00,France,Scotland,2,1,FIFA World Cup,√ñrebro,Sweden,True
+1958-06-15 00:00:00,Germany,Northern Ireland,2,2,FIFA World Cup,Malm√∂,Sweden,True
+1958-06-15 00:00:00,Hungary,Mexico,4,0,FIFA World Cup,Sandviken,Sweden,True
+1958-06-15 00:00:00,Norway,Finland,2,0,Nordic Championship,Oslo,Norway,False
+1958-06-15 00:00:00,Paraguay,Yugoslavia,3,3,FIFA World Cup,Eskilstuna,Sweden,True
+1958-06-15 00:00:00,Sweden,Wales,0,0,FIFA World Cup,Solna,Sweden,False
+1958-06-17 00:00:00,Czechoslovakia,Northern Ireland,1,2,FIFA World Cup,Malm√∂,Sweden,True
+1958-06-17 00:00:00,England,Russia,0,1,FIFA World Cup,Gothenburg,Sweden,True
+1958-06-17 00:00:00,Hungary,Wales,1,2,FIFA World Cup,Solna,Sweden,True
+1958-06-19 00:00:00,Brazil,Wales,1,0,FIFA World Cup,Gothenburg,Sweden,True
+1958-06-19 00:00:00,France,Northern Ireland,4,0,FIFA World Cup,Norrk√∂ping,Sweden,True
+1958-06-19 00:00:00,Germany,Yugoslavia,1,0,FIFA World Cup,Malm√∂,Sweden,True
+1958-06-19 00:00:00,Sweden,Russia,2,0,FIFA World Cup,Solna,Sweden,False
+1958-06-24 00:00:00,Brazil,France,5,2,FIFA World Cup,Solna,Sweden,True
+1958-06-24 00:00:00,Sweden,Germany,3,1,FIFA World Cup,Gothenburg,Sweden,False
+1958-06-28 00:00:00,France,Germany,6,3,FIFA World Cup,Gothenburg,Sweden,True
+1958-06-28 00:00:00,German DR,Poland,1,1,Friendly,Rostock,German DR,False
+1958-06-29 00:00:00,Denmark,Norway,1,2,Nordic Championship,Copenhagen,Denmark,False
+1958-06-29 00:00:00,Sweden,Brazil,2,5,FIFA World Cup,Solna,Sweden,False
+1958-07-02 00:00:00,Singapore,Indonesia,0,5,Friendly,Kallang,Singapore,False
+1958-07-03 00:00:00,Malaysia,Indonesia,2,4,Friendly,Kallang,Singapore,True
+1958-08-13 00:00:00,Norway,German DR,6,5,Friendly,Oslo,Norway,False
+1958-08-16 00:00:00,New Zealand,Australia,2,3,Friendly,Wellington,New Zealand,False
+1958-08-20 00:00:00,Finland,Sweden,1,7,Nordic Championship,Helsinki,Finland,False
+1958-08-23 00:00:00,New Zealand,Australia,2,2,Friendly,Auckland,New Zealand,False
+1958-08-30 00:00:00,Czechoslovakia,Russia,1,2,Friendly,Prague,Czechoslovakia,False
+1958-08-30 00:00:00,Singapore,Vietnam Republic,4,4,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1958-08-30 00:00:00,Malaysia,Indonesia,3,2,Merdeka Tournament,Kuala Lumpur,Malaya,False
+1958-08-31 00:00:00,Indonesia,Singapore,2,0,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1958-08-31 00:00:00,New Caledonia,New Zealand,1,2,Friendly,Noum√©a,New Caledonia,False
+1958-09-02 00:00:00,Indonesia,Vietnam Republic,4,1,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1958-09-02 00:00:00,Malaysia,Singapore,0,0,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1958-09-04 00:00:00,Malaysia,Vietnam Republic,2,0,Merdeka Tournament,Kuala Lumpur,Malaya,False
+1958-09-07 00:00:00,New Caledonia,New Zealand,1,5,Friendly,Noum√©a,New Caledonia,False
+1958-09-09 00:00:00,Zimbabwe,Zambia,4,2,Friendly,Salisbury,Southern Rhodesia,False
+1958-09-14 00:00:00,Austria,Yugoslavia,3,4,Friendly,Vienna,Austria,False
+1958-09-14 00:00:00,Finland,Denmark,1,4,Nordic Championship,Helsinki,Finland,False
+1958-09-14 00:00:00,German DR,Romania,3,2,Friendly,Leipzig,German DR,False
+1958-09-14 00:00:00,New Caledonia,New Zealand,1,2,Friendly,Noum√©a,New Caledonia,False
+1958-09-14 00:00:00,Norway,Sweden,0,2,Nordic Championship,Oslo,Norway,False
+1958-09-14 00:00:00,Poland,Hungary,1,3,Friendly,Chorz√≥w,Poland,False
+1958-09-20 00:00:00,Czechoslovakia,Switzerland,2,1,International Cup,Bratislava,Czechoslovakia,False
+1958-09-24 00:00:00,Denmark,Germany,1,1,Friendly,Copenhagen,Denmark,False
+1958-09-28 00:00:00,Belgium,Netherlands,2,3,Friendly,Antwerp,Belgium,False
+1958-09-28 00:00:00,Russia,Hungary,3,1,UEFA Euro qualification,Moscow,Soviet Union,False
+1958-10-01 00:00:00,France,Greece,7,1,UEFA Euro qualification,Paris,France,False
+1958-10-04 00:00:00,Northern Ireland,England,3,3,British Championship,Belfast,Northern Ireland,False
+1958-10-04 00:00:00,Uganda,Zanzibar,1,1,Friendly,Nairobi,Kenya,True
+1958-10-05 00:00:00,Austria,France,1,2,Friendly,Vienna,Austria,False
+1958-10-05 00:00:00,German DR,Bulgaria,1,1,Friendly,Berlin,German DR,False
+1958-10-05 00:00:00,Republic of Ireland,Poland,2,2,Friendly,Dublin,Republic of Ireland,False
+1958-10-05 00:00:00,Kenya,Tanzania,3,1,Friendly,Nairobi,Kenya,False
+1958-10-05 00:00:00,Yugoslavia,Hungary,4,4,Friendly,Zagreb,Yugoslavia,False
+1958-10-07 00:00:00,Uganda,Tanzania,2,0,Friendly,Nairobi,Kenya,True
+1958-10-08 00:00:00,Kenya,Zanzibar,4,0,Friendly,Nairobi,Kenya,False
+1958-10-10 00:00:00,Tanzania,Zanzibar,3,2,Friendly,Nairobi,Kenya,True
+1958-10-11 00:00:00,Kenya,Uganda,2,0,Friendly,Nairobi,Kenya,False
+1958-10-12 00:00:00,Czechoslovakia,Bulgaria,0,1,Friendly,Ostrava,Czechoslovakia,False
+1958-10-15 00:00:00,Netherlands,Denmark,5,1,Friendly,Rotterdam,Netherlands,False
+1958-10-15 00:00:00,Spain,Northern Ireland,6,2,Friendly,Madrid,Spain,False
+1958-10-16 00:00:00,R√©union,Mauritius,0,2,Friendly,Saint-Pierre,R√©union,False
+1958-10-18 00:00:00,Wales,Scotland,0,3,British Championship,Cardiff,Wales,False
+1958-10-19 00:00:00,R√©union,Madagascar,1,3,Friendly,Saint-Pierre,R√©union,False
+1958-10-22 00:00:00,England,Russia,5,0,Friendly,London,England,False
+1958-10-23 00:00:00,Madagascar,Mauritius,3,2,Friendly,Saint-Pierre,R√©union,True
+1958-10-25 00:00:00,Nigeria,Ghana,3,2,Friendly,Lagos,Nigeria,False
+1958-10-26 00:00:00,Belgium,Turkey,1,1,Friendly,Brussels,Belgium,False
+1958-10-26 00:00:00,France,Germany,2,2,Friendly,Colombes,France,False
+1958-10-26 00:00:00,Romania,Hungary,1,2,Friendly,Bucharest,Romania,False
+1958-10-26 00:00:00,Sweden,Denmark,4,4,Nordic Championship,Solna,Sweden,False
+1958-11-02 00:00:00,German DR,Norway,4,1,Friendly,Leipzig,German DR,False
+1958-11-02 00:00:00,Netherlands,Switzerland,2,0,Friendly,Rotterdam,Netherlands,False
+1958-11-02 00:00:00,Romania,Turkey,3,0,UEFA Euro qualification,Bucharest,Romania,False
+1958-11-05 00:00:00,Scotland,Northern Ireland,2,2,British Championship,Glasgow,Scotland,False
+1958-11-09 00:00:00,France,Italy,2,2,Friendly,Colombes,France,False
+1958-11-12 00:00:00,Netherlands,South Africa,9,3,Friendly,Eindhoven,Netherlands,False
+1958-11-19 00:00:00,Germany,Austria,2,2,Friendly,Berlin,Germany,False
+1958-11-23 00:00:00,Hungary,Belgium,3,1,Friendly,Budapest,Hungary,False
+1958-11-26 00:00:00,England,Wales,2,2,British Championship,Birmingham,England,False
+1958-12-03 00:00:00,Greece,France,1,1,UEFA Euro qualification,Athens,Greece,False
+1958-12-07 00:00:00,Turkey,Bulgaria,0,0,Friendly,Ankara,Turkey,False
+1958-12-13 00:00:00,Italy,Czechoslovakia,1,1,International Cup,Genoa,Italy,False
+1958-12-18 00:00:00,Turkey,Czechoslovakia,1,0,Friendly,Istanbul,Turkey,False
+1958-12-21 00:00:00,Germany,Bulgaria,3,0,Friendly,Augsburg,Germany,False
+1958-12-25 00:00:00,Hong Kong,Japan,5,2,Friendly,So Kon Po,Hong Kong,False
+1958-12-28 00:00:00,Egypt,Germany,2,1,Friendly,Cairo,United Arab Republic,True
+1958-12-28 00:00:00,Malaysia,Japan,6,2,Friendly,Kuala Lumpur,Malaya,False
+1959-01-04 00:00:00,Malaysia,Japan,1,3,Friendly,George Town,Malaya,True
+1959-01-10 00:00:00,Singapore,Japan,3,4,Friendly,Kallang,Singapore,False
+1959-01-11 00:00:00,Singapore,Japan,3,2,Friendly,Kallang,Singapore,False
+1959-02-11 00:00:00,Indonesia,German DR,2,2,Friendly,Jakarta,Indonesia,False
+1959-02-28 00:00:00,Italy,Spain,1,1,Friendly,Rome,Italy,False
+1959-03-01 00:00:00,France,Belgium,2,2,Friendly,Colombes,France,False
+1959-03-01 00:00:00,Guyana,Jamaica,2,2,Friendly,Port of Spain,Trinidad and Tobago,True
+1959-03-01 00:00:00,Mexico,Costa Rica,3,1,Friendly,Mexico City,Mexico,False
+1959-03-02 00:00:00,Trinidad and Tobago,Barbados,2,0,Friendly,Port of Spain,Trinidad and Tobago,False
+1959-03-04 00:00:00,Barbados,Jamaica,1,3,Friendly,Port of Spain,Trinidad and Tobago,True
+1959-03-05 00:00:00,Trinidad and Tobago,Guyana,2,1,Friendly,San Fernando,Trinidad and Tobago,False
+1959-03-07 00:00:00,Argentina,Chile,6,1,Copa Am√©rica,Buenos Aires,Argentina,False
+1959-03-08 00:00:00,Bolivia,Uruguay,0,7,Copa Am√©rica,Buenos Aires,Argentina,True
+1959-03-08 00:00:00,Costa Rica,Mexico,1,2,Friendly,San Jos√©,Costa Rica,False
+1959-03-08 00:00:00,Tunisia,Malta,0,0,Friendly,Tunis,Tunisia,False
+1959-03-09 00:00:00,Barbados,Guyana,2,1,Friendly,Port of Spain,Trinidad and Tobago,True
+1959-03-10 00:00:00,Brazil,Peru,2,2,Copa Am√©rica,Buenos Aires,Argentina,True
+1959-03-10 00:00:00,Trinidad and Tobago,Jamaica,2,1,Friendly,Port of Spain,Trinidad and Tobago,False
+1959-03-11 00:00:00,Argentina,Bolivia,2,0,Copa Am√©rica,Buenos Aires,Argentina,False
+1959-03-11 00:00:00,Chile,Paraguay,1,2,Copa Am√©rica,Buenos Aires,Argentina,True
+1959-03-11 00:00:00,Martinique,Guadeloupe,3,0,Friendly,Fort-de-France,Martinique,False
+1959-03-14 00:00:00,Peru,Uruguay,5,3,Copa Am√©rica,Buenos Aires,Argentina,True
+1959-03-15 00:00:00,Bolivia,Paraguay,0,5,Copa Am√©rica,Buenos Aires,Argentina,True
+1959-03-15 00:00:00,Brazil,Chile,3,0,Copa Am√©rica,Buenos Aires,Argentina,True
+1959-03-18 00:00:00,Argentina,Peru,3,1,Copa Am√©rica,Buenos Aires,Argentina,False
+1959-03-18 00:00:00,Paraguay,Uruguay,1,3,Copa Am√©rica,Buenos Aires,Argentina,True
+1959-03-21 00:00:00,Bolivia,Brazil,2,4,Copa Am√©rica,Buenos Aires,Argentina,True
+1959-03-21 00:00:00,Chile,Peru,1,1,Copa Am√©rica,Buenos Aires,Argentina,True
+1959-03-22 00:00:00,Argentina,Paraguay,3,1,Copa Am√©rica,Buenos Aires,Argentina,False
+1959-03-26 00:00:00,Bolivia,Chile,2,5,Copa Am√©rica,Buenos Aires,Argentina,True
+1959-03-26 00:00:00,Brazil,Uruguay,3,1,Copa Am√©rica,Buenos Aires,Argentina,True
+1959-03-29 00:00:00,Bolivia,Peru,0,0,Copa Am√©rica,Buenos Aires,Argentina,True
+1959-03-29 00:00:00,Brazil,Paraguay,4,1,Copa Am√©rica,Buenos Aires,Argentina,True
+1959-03-29 00:00:00,Philippines,Hong Kong,0,7,AFC Asian Cup qualification,Manila,Philippines,False
+1959-03-30 00:00:00,Argentina,Uruguay,4,1,Copa Am√©rica,Buenos Aires,Argentina,False
+1959-03-31 00:00:00,Philippines,Taiwan,4,7,AFC Asian Cup qualification,Manila,Philippines,False
+1959-04-02 00:00:00,Chile,Uruguay,1,0,Copa Am√©rica,Buenos Aires,Argentina,True
+1959-04-02 00:00:00,Paraguay,Peru,2,1,Copa Am√©rica,Buenos Aires,Argentina,True
+1959-04-04 00:00:00,Argentina,Brazil,1,1,Copa Am√©rica,Buenos Aires,Argentina,False
+1959-04-05 00:00:00,Republic of Ireland,Czechoslovakia,2,0,UEFA Euro qualification,Dublin,Republic of Ireland,False
+1959-04-11 00:00:00,England,Scotland,1,0,British Championship,London,England,False
+1959-04-14 00:00:00,Kenya,R√©union,1,0,Friendly,Nairobi,Kenya,False
+1959-04-19 00:00:00,Hungary,Yugoslavia,4,0,Friendly,Budapest,Hungary,False
+1959-04-19 00:00:00,Netherlands,Belgium,2,2,Friendly,Amsterdam,Netherlands,False
+1959-04-22 00:00:00,Northern Ireland,Wales,4,1,British Championship,Belfast,Northern Ireland,False
+1959-04-26 00:00:00,Switzerland,Yugoslavia,1,5,International Cup,Basel,Switzerland,False
+1959-04-26 00:00:00,Turkey,Romania,2,0,UEFA Euro qualification,Istanbul,Turkey,False
+1959-05-01 00:00:00,German DR,Hungary,0,1,Friendly,Dresden,German DR,False
+1959-05-01 00:00:00,Uruguay,Paraguay,1,3,Friendly,Montevideo,Uruguay,False
+1959-05-06 00:00:00,England,Italy,2,2,Friendly,London,England,False
+1959-05-06 00:00:00,Scotland,Germany,3,2,Friendly,Glasgow,Scotland,False
+1959-05-09 00:00:00,Singapore,Vietnam Republic,1,4,AFC Asian Cup qualification,Kallang,Singapore,False
+1959-05-10 00:00:00,Czechoslovakia,Republic of Ireland,4,0,UEFA Euro qualification,Bratislava,Czechoslovakia,False
+1959-05-10 00:00:00,Turkey,Netherlands,0,0,Friendly,Istanbul,Turkey,False
+1959-05-11 00:00:00,Singapore,Malaysia,2,5,AFC Asian Cup qualification,Kallang,Singapore,False
+1959-05-13 00:00:00,Brazil,England,2,0,Friendly,Rio de Janeiro,Brazil,False
+1959-05-13 00:00:00,Bulgaria,Netherlands,3,2,Friendly,Sofia,Bulgaria,False
+1959-05-13 00:00:00,Malaysia,Vietnam Republic,0,1,AFC Asian Cup qualification,Kallang,Singapore,True
+1959-05-16 00:00:00,Switzerland,Portugal,4,3,Friendly,Geneva,Switzerland,False
+1959-05-17 00:00:00,Peru,England,4,1,Friendly,Lima,Peru,False
+1959-05-20 00:00:00,Germany,Poland,1,1,Friendly,Hamburg,Germany,False
+1959-05-20 00:00:00,Norway,Austria,0,1,UEFA Euro qualification,Oslo,Norway,False
+1959-05-21 00:00:00,Martinique,Guadeloupe,1,2,Friendly,Fort-de-France,Martinique,False
+1959-05-21 00:00:00,Sweden,Portugal,2,0,Friendly,Gothenburg,Sweden,False
+1959-05-22 00:00:00,Egypt,Ethiopia,4,0,African Cup of Nations,Cairo,United Arab Republic,True
+1959-05-24 00:00:00,Belgium,Austria,0,2,Friendly,Brussels,Belgium,False
+1959-05-24 00:00:00,Mexico,England,2,1,Friendly,Mexico City,Mexico,False
+1959-05-25 00:00:00,Ethiopia,Sudan,0,1,African Cup of Nations,Cairo,United Arab Republic,True
+1959-05-27 00:00:00,Netherlands,Scotland,1,2,Friendly,Amsterdam,Netherlands,False
+1959-05-28 00:00:00,United States,England,1,8,Friendly,Los Angeles,United States,False
+1959-05-29 00:00:00,Egypt,Sudan,2,1,African Cup of Nations,Cairo,United Arab Republic,True
+1959-05-30 00:00:00,Martinique,Suriname,3,1,Friendly,Fort-de-France,Martinique,False
+1959-05-31 00:00:00,Martinique,Suriname,3,0,Friendly,Fort-de-France,Martinique,False
+1959-05-31 00:00:00,Yugoslavia,Bulgaria,2,0,UEFA Euro qualification,Belgrade,Yugoslavia,False
+1959-06-03 00:00:00,Portugal,Scotland,1,0,Friendly,Lisbon,Portugal,False
+1959-06-06 00:00:00,Guadeloupe,Suriname,3,3,Friendly,Basse-Terre,Guadeloupe,False
+1959-06-07 00:00:00,Guadeloupe,Suriname,3,1,Friendly,Basse-Terre,Guadeloupe,False
+1959-06-14 00:00:00,Austria,Belgium,4,2,Friendly,Vienna,Austria,False
+1959-06-17 00:00:00,Norway,Luxembourg,1,0,Friendly,Oslo,Norway,False
+1959-06-21 00:00:00,Denmark,Sweden,0,6,Nordic Championship,Copenhagen,Denmark,False
+1959-06-21 00:00:00,German DR,Portugal,0,2,UEFA Euro qualification,Berlin,German DR,False
+1959-06-21 00:00:00,Poland,Israel,7,2,Friendly,Wroc≈Çaw,Poland,False
+1959-06-28 00:00:00,Finland,Norway,2,4,Nordic Championship,Helsinki,Finland,False
+1959-06-28 00:00:00,Hungary,Sweden,3,2,Friendly,Budapest,Hungary,False
+1959-06-28 00:00:00,Poland,Spain,2,4,UEFA Euro qualification,Chorz√≥w,Poland,False
+1959-06-28 00:00:00,Portugal,German DR,3,2,UEFA Euro qualification,Porto,Portugal,False
+1959-07-21 00:00:00,Tahiti,New Caledonia,2,4,Friendly,Papeete,French Polynesia,False
+1959-07-22 00:00:00,Tahiti,New Caledonia,3,1,Friendly,Papeete,French Polynesia,False
+1959-08-02 00:00:00,Sweden,Finland,3,1,Nordic Championship,Malm√∂,Sweden,False
+1959-08-12 00:00:00,German DR,Czechoslovakia,2,1,Friendly,Leipzig,Germany,True
+1959-08-22 00:00:00,Hong Kong,Taiwan,1,3,Friendly,Victoria,Hong Kong,False
+1959-08-30 00:00:00,South Korea,Vietnam Republic,2,3,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1959-08-30 00:00:00,Poland,Romania,2,3,Friendly,Warsaw,Poland,False
+1959-08-31 00:00:00,India,Singapore,2,0,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1959-09-02 00:00:00,South Korea,Singapore,4,1,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1959-09-02 00:00:00,Malaysia,Vietnam Republic,4,3,Merdeka Tournament,Kuala Lumpur,Malaya,False
+1959-09-03 00:00:00,Japan,Singapore,4,1,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1959-09-04 00:00:00,Malaysia,India,1,1,Merdeka Tournament,Kuala Lumpur,Malaya,False
+1959-09-05 00:00:00,Japan,South Korea,0,0,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1959-09-06 00:00:00,Finland,German DR,3,2,Friendly,Helsinki,Finland,False
+1959-09-06 00:00:00,India,Vietnam Republic,2,2,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1959-09-06 00:00:00,Japan,South Korea,1,3,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1959-09-06 00:00:00,Russia,Czechoslovakia,3,1,Friendly,Moscow,Soviet Union,False
+1959-09-07 00:00:00,Malaysia,South Korea,2,4,Friendly,Kuala Lumpur,Malaya,False
+1959-09-08 00:00:00,India,South Korea,1,1,Friendly,George Town,Malaya,True
+1959-09-10 00:00:00,Hong Kong,South Korea,2,3,Friendly,George Town,Malaya,True
+1959-09-10 00:00:00,India,Vietnam Republic,1,5,Friendly,Kallang,Singapore,True
+1959-09-11 00:00:00,Singapore,India,2,3,Friendly,Kallang,Singapore,False
+1959-09-13 00:00:00,Singapore,South Korea,0,4,Friendly,Kallang,Singapore,False
+1959-09-17 00:00:00,Brazil,Chile,7,0,Copa Bernardo O'Higgins,Rio de Janeiro,Brazil,False
+1959-09-20 00:00:00,Brazil,Chile,1,0,Copa Bernardo O'Higgins,Rio de Janeiro,Brazil,False
+1959-09-20 00:00:00,Suriname,Martinique,1,0,Friendly,Paramaribo,Suriname,False
+1959-09-23 00:00:00,Austria,Norway,5,2,UEFA Euro qualification,Vienna,Austria,False
+1959-09-23 00:00:00,Denmark,Czechoslovakia,2,2,UEFA Euro qualification,Copenhagen,Denmark,False
+1959-09-25 00:00:00,Suriname,Martinique,4,1,Friendly,Paramaribo,Suriname,False
+1959-09-27 00:00:00,Hungary,Russia,0,1,UEFA Euro qualification,Budapest,Hungary,False
+1959-10-03 00:00:00,China PR,Russia,0,1,Friendly,Beijing,China PR,False
+1959-10-03 00:00:00,Northern Ireland,Scotland,0,4,British Championship,Belfast,Northern Ireland,False
+1959-10-03 00:00:00,Tanzania,Zanzibar,2,2,Friendly,Dar es Salaam,Tanganyika,False
+1959-10-04 00:00:00,Denmark,Finland,4,0,Nordic Championship,Copenhagen,Denmark,False
+1959-10-04 00:00:00,Kenya,Uganda,0,0,Friendly,Dar es Salaam,Tanganyika,True
+1959-10-04 00:00:00,Netherlands,Belgium,9,1,Friendly,Rotterdam,Netherlands,False
+1959-10-04 00:00:00,Switzerland,Germany,0,4,Friendly,Berne,Switzerland,False
+1959-10-06 00:00:00,Tanzania,Uganda,2,2,Friendly,Dar es Salaam,Tanganyika,False
+1959-10-07 00:00:00,Kenya,Zanzibar,5,0,Friendly,Dar es Salaam,Tanganyika,True
+1959-10-09 00:00:00,Zanzibar,Uganda,1,0,Friendly,Dar es Salaam,Tanganyika,True
+1959-10-10 00:00:00,Tanzania,Kenya,0,2,Friendly,Dar es Salaam,Tanganyika,False
+1959-10-11 00:00:00,Bulgaria,France,1,0,Friendly,Sofia,Bulgaria,False
+1959-10-11 00:00:00,Yugoslavia,Hungary,2,4,Friendly,Belgrade,Yugoslavia,False
+1959-10-14 00:00:00,Spain,Poland,3,0,UEFA Euro qualification,Madrid,Spain,False
+1959-10-17 00:00:00,Wales,England,1,1,British Championship,Cardiff,Wales,False
+1959-10-18 00:00:00,Czechoslovakia,Denmark,5,1,UEFA Euro qualification,Brno,Czechoslovakia,False
+1959-10-18 00:00:00,Sweden,Norway,6,2,Nordic Championship,Gothenburg,Sweden,False
+1959-10-21 00:00:00,Germany,Netherlands,7,0,Friendly,Cologne,Germany,False
+1959-10-22 00:00:00,North Korea,North Vietnam,5,0,Friendly,Pyongyang,North Korea,False
+1959-10-25 00:00:00,Bulgaria,Yugoslavia,1,1,UEFA Euro qualification,Sofia,Bulgaria,False
+1959-10-25 00:00:00,Hungary,Switzerland,8,0,International Cup,Budapest,Hungary,False
+1959-10-25 00:00:00,North Korea,China PR,1,0,Friendly,Pyongyang,North Korea,False
+1959-10-28 00:00:00,China PR,North Vietnam,2,0,Friendly,Pyongyang,North Korea,True
+1959-10-28 00:00:00,England,Sweden,2,3,Friendly,London,England,False
+1959-11-01 00:00:00,Czechoslovakia,Italy,2,1,International Cup,Prague,Czechoslovakia,False
+1959-11-01 00:00:00,Republic of Ireland,Sweden,3,2,Friendly,Dublin,Republic of Ireland,False
+1959-11-04 00:00:00,Netherlands,Norway,7,1,Friendly,Rotterdam,Netherlands,False
+1959-11-08 00:00:00,Benin,Nigeria,0,1,Friendly,Cotonou,Dahomey,False
+1959-11-08 00:00:00,Hungary,Germany,4,3,Friendly,Budapest,Hungary,False
+1959-11-11 00:00:00,France,Portugal,5,3,Friendly,Colombes,France,False
+1959-11-18 00:00:00,Chile,Argentina,4,2,Friendly,Santiago,Chile,False
+1959-11-18 00:00:00,England,Northern Ireland,2,1,British Championship,London,England,False
+1959-11-21 00:00:00,Ghana,Nigeria,5,2,Friendly,Accra,Ghana,False
+1959-11-22 00:00:00,Spain,Austria,6,3,Friendly,Valencia,Spain,False
+1959-11-28 00:00:00,Nigeria,Benin,10,1,Friendly,Lagos,Nigeria,False
+1959-11-29 00:00:00,Israel,Poland,1,1,Friendly,Ramat-Gan,Israel,False
+1959-11-29 00:00:00,Italy,Hungary,1,1,International Cup,Florence,Italy,False
+1959-12-02 00:00:00,Greece,Denmark,1,3,Friendly,Athens,Greece,False
+1959-12-05 00:00:00,Brazil,Paraguay,3,2,Copa Am√©rica,Guayaquil,Ecuador,True
+1959-12-05 00:00:00,Iran,Israel,3,0,AFC Asian Cup qualification,Ernakulam,India,True
+1959-12-06 00:00:00,Bulgaria,Denmark,2,1,Friendly,Sofia,Bulgaria,False
+1959-12-06 00:00:00,Ecuador,Uruguay,0,4,Copa Am√©rica,Guayaquil,Ecuador,False
+1959-12-06 00:00:00,India,Pakistan,1,0,AFC Asian Cup qualification,Ernakulam,India,False
+1959-12-08 00:00:00,India,Israel,1,3,AFC Asian Cup qualification,Ernakulam,India,False
+1959-12-09 00:00:00,Argentina,Paraguay,4,2,Copa Am√©rica,Guayaquil,Ecuador,True
+1959-12-10 00:00:00,Israel,Pakistan,2,0,AFC Asian Cup qualification,Ernakulam,India,True
+1959-12-12 00:00:00,Brazil,Uruguay,0,3,Copa Am√©rica,Guayaquil,Ecuador,True
+1959-12-12 00:00:00,Ecuador,Argentina,1,1,Copa Am√©rica,Guayaquil,Ecuador,False
+1959-12-12 00:00:00,Israel,Iran,1,1,AFC Asian Cup qualification,Ernakulam,India,True
+1959-12-13 00:00:00,El Salvador,Honduras,1,0,Friendly,San Salvador,El Salvador,False
+1959-12-13 00:00:00,France,Austria,5,2,UEFA Euro qualification,Colombes,France,False
+1959-12-14 00:00:00,Costa Rica,Honduras,6,1,Friendly,San Salvador,El Salvador,True
+1959-12-16 00:00:00,Argentina,Uruguay,0,5,Copa Am√©rica,Guayaquil,Ecuador,True
+1959-12-17 00:00:00,France,Spain,4,3,Friendly,Paris,France,False
+1959-12-17 00:00:00,Pakistan,Israel,2,2,AFC Asian Cup qualification,Ernakulam,India,True
+1959-12-19 00:00:00,Ecuador,Brazil,1,3,Copa Am√©rica,Guayaquil,Ecuador,False
+1959-12-20 00:00:00,Gambia,Cape Verde,3,2,Friendly,Bathurst,Gambia,False
+1959-12-20 00:00:00,Germany,Yugoslavia,1,1,Friendly,Hanover,Germany,False
+1959-12-22 00:00:00,Argentina,Brazil,4,1,Copa Am√©rica,Guayaquil,Ecuador,True
+1959-12-22 00:00:00,Paraguay,Uruguay,1,1,Copa Am√©rica,Guayaquil,Ecuador,True
+1959-12-25 00:00:00,Ecuador,Paraguay,3,1,Copa Am√©rica,Guayaquil,Ecuador,False
+1959-12-27 00:00:00,Ecuador,Brazil,1,2,Friendly,Guayaquil,Ecuador,False
+1960-01-01 00:00:00,Morocco,Yugoslavia,0,5,Friendly,Casablanca,Morocco,False
+1960-01-03 00:00:00,Tunisia,Yugoslavia,1,5,Friendly,Tunis,Tunisia,False
+1960-01-06 00:00:00,Italy,Switzerland,3,0,International Cup,Naples,Italy,False
+1960-01-08 00:00:00,Egypt,Yugoslavia,0,1,Friendly,Cairo,United Arab Republic,True
+1960-01-27 00:00:00,Guinea-Bissau,Gambia,3,2,Friendly,Bissau,Guinea-Bissau,False
+1960-01-31 00:00:00,Guinea-Bissau,Sierra Leone,3,4,Friendly,Kumasi,Ghana,True
+1960-02-07 00:00:00,Ghana,Sierra Leone,6,2,Friendly,Accra,Ghana,False
+1960-02-14 00:00:00,Costa Rica,Cura√ßao,1,1,CCCF Championship,Havana,Cuba,True
+1960-02-19 00:00:00,Honduras,Cura√ßao,3,3,CCCF Championship,Havana,Cuba,True
+1960-02-20 00:00:00,Martinique,Guadeloupe,2,2,Friendly,Fort-de-France,Martinique,False
+1960-02-23 00:00:00,Cuba,Cura√ßao,3,4,CCCF Championship,Havana,Cuba,False
+1960-02-27 00:00:00,Cura√ßao,Suriname,1,0,CCCF Championship,Havana,Cuba,True
+1960-02-28 00:00:00,Belgium,France,1,0,Friendly,Brussels,Belgium,False
+1960-02-29 00:00:00,Costa Rica,Cura√ßao,4,0,CCCF Championship,Havana,Cuba,True
+1960-03-06 00:00:00,Brazil,Mexico,2,2,Pan American Championship,San Jos√©,Costa Rica,True
+1960-03-08 00:00:00,Costa Rica,Argentina,0,0,Pan American Championship,San Jos√©,Costa Rica,False
+1960-03-10 00:00:00,Argentina,Mexico,3,2,Pan American Championship,San Jos√©,Costa Rica,True
+1960-03-10 00:00:00,Costa Rica,Brazil,3,0,Pan American Championship,San Jos√©,Costa Rica,False
+1960-03-13 00:00:00,Argentina,Brazil,2,1,Pan American Championship,San Jos√©,Costa Rica,True
+1960-03-13 00:00:00,Spain,Italy,3,1,Friendly,Barcelona,Spain,False
+1960-03-15 00:00:00,Brazil,Mexico,2,1,Pan American Championship,San Jos√©,Costa Rica,True
+1960-03-15 00:00:00,Costa Rica,Argentina,0,2,Pan American Championship,San Jos√©,Costa Rica,False
+1960-03-16 00:00:00,France,Chile,6,0,Friendly,Paris,France,False
+1960-03-17 00:00:00,Argentina,Mexico,2,0,Pan American Championship,San Jos√©,Costa Rica,True
+1960-03-17 00:00:00,Costa Rica,Brazil,0,4,Pan American Championship,San Jos√©,Costa Rica,False
+1960-03-20 00:00:00,Argentina,Brazil,0,1,Pan American Championship,San Jos√©,Costa Rica,True
+1960-03-23 00:00:00,Germany,Chile,2,1,Friendly,Stuttgart,Germany,False
+1960-03-27 00:00:00,Austria,France,2,4,UEFA Euro qualification,Vienna,Austria,False
+1960-03-27 00:00:00,Belgium,Switzerland,3,1,Friendly,Brussels,Belgium,False
+1960-03-30 00:00:00,Republic of Ireland,Chile,2,0,Friendly,Dublin,Republic of Ireland,False
+1960-04-03 00:00:00,Netherlands,Bulgaria,4,2,Friendly,Amsterdam,Netherlands,False
+1960-04-06 00:00:00,Switzerland,Chile,4,2,Friendly,Basel,Switzerland,False
+1960-04-06 00:00:00,Wales,Northern Ireland,3,2,British Championship,Wrexham,Wales,False
+1960-04-09 00:00:00,Scotland,England,1,1,British Championship,Glasgow,Scotland,False
+1960-04-13 00:00:00,Belgium,Chile,1,1,Friendly,Brussels,Belgium,False
+1960-04-14 00:00:00,Cameroon,Djibouti,9,2,Friendly,Antananarivo,Madagascar,True
+1960-04-14 00:00:00,Central African Republic,Mali,3,4,Friendly,Antananarivo,Madagascar,True
+1960-04-14 00:00:00,Gabon,Burkina Faso,4,5,Friendly,Antananarivo,Madagascar,True
+1960-04-14 00:00:00,Ivory Coast,Benin,3,2,Friendly,Antananarivo,Madagascar,True
+1960-04-15 00:00:00,Cameroon,Mali,3,2,Friendly,Antananarivo,Madagascar,True
+1960-04-15 00:00:00,Congo,Ivory Coast,3,2,Friendly,Antananarivo,Madagascar,True
+1960-04-15 00:00:00,Madagascar,Burkina Faso,6,1,Friendly,Antananarivo,Madagascar,False
+1960-04-17 00:00:00,Congo,Cameroon,4,5,Friendly,Antananarivo,Madagascar,True
+1960-04-20 00:00:00,Indonesia,Malaysia,5,0,Friendly,Surakarta,Indonesia,False
+1960-04-24 00:00:00,Belgium,Netherlands,2,1,Friendly,Antwerp,Belgium,False
+1960-04-24 00:00:00,Togo,Nigeria,1,1,Friendly,Lom√©,Togo,False
+1960-04-26 00:00:00,Cameroon,Nigeria,0,0,Friendly,Lom√©,Togo,True
+1960-04-27 00:00:00,Germany,Portugal,2,1,Friendly,Ludwigshafen,Germany,False
+1960-04-29 00:00:00,Egypt,Brazil,0,5,Friendly,Cairo,United Arab Republic,True
+1960-05-01 00:00:00,Czechoslovakia,Austria,4,0,Friendly,Prague,Czechoslovakia,False
+1960-05-01 00:00:00,Egypt,Brazil,1,3,Friendly,Alexandria,United Arab Republic,True
+1960-05-01 00:00:00,Togo,Ghana,2,3,Friendly,Lom√©,Togo,False
+1960-05-04 00:00:00,Scotland,Poland,2,3,Friendly,Glasgow,Scotland,False
+1960-05-05 00:00:00,Singapore,India,3,0,Friendly,Kallang,Singapore,False
+1960-05-06 00:00:00,Egypt,Brazil,0,3,Friendly,Cairo,United Arab Republic,True
+1960-05-06 00:00:00,Malaysia,India,0,0,Friendly,Kuala Lumpur,Malaya,False
+1960-05-08 00:00:00,Portugal,Yugoslavia,2,1,UEFA Euro qualification,Oeiras,Portugal,False
+1960-05-10 00:00:00,Denmark,Brazil,3,4,Friendly,Esbjerg,Denmark,False
+1960-05-11 00:00:00,England,Yugoslavia,3,3,Friendly,London,England,False
+1960-05-11 00:00:00,Germany,Republic of Ireland,0,1,Friendly,D√ºsseldorf,Germany,False
+1960-05-15 00:00:00,Spain,England,3,0,Friendly,Madrid,Spain,False
+1960-05-18 00:00:00,Sweden,Republic of Ireland,4,1,Friendly,Malm√∂,Sweden,False
+1960-05-18 00:00:00,Switzerland,Netherlands,3,1,Friendly,Z√ºrich,Switzerland,False
+1960-05-19 00:00:00,Russia,Poland,7,1,Friendly,Moscow,Soviet Union,False
+1960-05-22 00:00:00,Bulgaria,Belgium,4,1,Friendly,Sofia,Bulgaria,False
+1960-05-22 00:00:00,Hungary,England,2,0,Friendly,Budapest,Hungary,False
+1960-05-22 00:00:00,Romania,Czechoslovakia,0,2,UEFA Euro qualification,Bucharest,Romania,False
+1960-05-22 00:00:00,Yugoslavia,Portugal,5,1,UEFA Euro qualification,Belgrade,Yugoslavia,False
+1960-05-26 00:00:00,Argentina,Brazil,4,2,Copa Roca,Buenos Aires,Argentina,False
+1960-05-26 00:00:00,Denmark,Norway,3,0,Nordic Championship,Copenhagen,Denmark,False
+1960-05-29 00:00:00,Argentina,Brazil,1,4,Copa Roca,Buenos Aires,Argentina,False
+1960-05-29 00:00:00,Austria,Scotland,4,1,Friendly,Vienna,Austria,False
+1960-05-29 00:00:00,Czechoslovakia,Romania,3,0,UEFA Euro qualification,Bratislava,Czechoslovakia,False
+1960-06-01 00:00:00,Chile,Uruguay,2,3,Friendly,Santiago,Chile,False
+1960-06-01 00:00:00,Mali,Nigeria,3,2,Friendly,Bamako,Mali Federation,False
+1960-06-05 00:00:00,Hungary,Scotland,3,3,Friendly,Budapest,Hungary,False
+1960-06-05 00:00:00,Tunisia,Iraq,2,1,Friendly,Tunis,Tunisia,False
+1960-06-05 00:00:00,Uruguay,Chile,2,2,Friendly,Montevideo,Uruguay,False
+1960-06-08 00:00:00,Turkey,Scotland,4,2,Friendly,Ankara,Turkey,False
+1960-06-09 00:00:00,Norway,Iceland,4,0,Friendly,Oslo,Norway,False
+1960-06-16 00:00:00,Martinique,Guadeloupe,1,0,Friendly,Fort-de-France,Martinique,False
+1960-06-22 00:00:00,Finland,Sweden,0,3,Nordic Championship,Helsinki,Finland,False
+1960-06-22 00:00:00,Norway,Austria,1,2,Friendly,Oslo,Norway,False
+1960-06-26 00:00:00,Mexico,Netherlands,3,1,Friendly,Mexico City,Mexico,False
+1960-06-26 00:00:00,Poland,Bulgaria,4,0,Friendly,Chorz√≥w,Poland,False
+1960-06-29 00:00:00,Brazil,Chile,4,0,Friendly,Rio de Janeiro,Brazil,False
+1960-06-29 00:00:00,Cura√ßao,Netherlands,0,0,Friendly,Willemstad,Netherlands Antilles,False
+1960-07-03 00:00:00,Denmark,Greece,7,2,Friendly,Copenhagen,Denmark,False
+1960-07-03 00:00:00,Ghana,Egypt,2,2,Friendly,Accra,Ghana,False
+1960-07-03 00:00:00,Paraguay,Brazil,1,2,Atlantic Cup,Asunci√≥n,Paraguay,False
+1960-07-03 00:00:00,Suriname,Netherlands,3,4,Friendly,Paramaribo,Suriname,False
+1960-07-06 00:00:00,Czechoslovakia,Russia,0,3,UEFA Euro,Marseille,France,True
+1960-07-06 00:00:00,France,Yugoslavia,4,5,UEFA Euro,Paris,France,False
+1960-07-09 00:00:00,Argentina,Paraguay,1,0,Atlantic Cup,Buenos Aires,Argentina,False
+1960-07-09 00:00:00,France,Czechoslovakia,0,2,UEFA Euro,Marseille,France,False
+1960-07-09 00:00:00,Uruguay,Brazil,1,0,Atlantic Cup,Montevideo,Uruguay,False
+1960-07-10 00:00:00,Bulgaria,German DR,2,0,Friendly,Sofia,Bulgaria,False
+1960-07-10 00:00:00,Mali,Sierra Leone,1,0,Friendly,Bamako,Mali,False
+1960-07-10 00:00:00,Peru,Spain,1,3,Friendly,Lima,Peru,False
+1960-07-10 00:00:00,Russia,Yugoslavia,2,1,UEFA Euro,Paris,France,True
+1960-07-12 00:00:00,Brazil,Argentina,5,1,Atlantic Cup,Rio de Janeiro,Brazil,False
+1960-07-13 00:00:00,Uruguay,Paraguay,2,1,Atlantic Cup,Montevideo,Uruguay,False
+1960-07-14 00:00:00,Chile,Spain,0,4,Friendly,Santiago,Chile,False
+1960-07-17 00:00:00,Chile,Spain,1,4,Friendly,Santiago,Chile,False
+1960-07-24 00:00:00,Argentina,Spain,2,0,Friendly,Buenos Aires,Argentina,False
+1960-08-03 00:00:00,Iceland,Germany,0,5,Friendly,Reykjav√≠k,Iceland,False
+1960-08-05 00:00:00,Malaysia,Japan,3,0,Merdeka Tournament,Kuala Lumpur,Malaya,False
+1960-08-05 00:00:00,Pakistan,Thailand,7,0,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1960-08-06 00:00:00,South Korea,Indonesia,2,0,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1960-08-06 00:00:00,Yugoslavia,Tunisia,7,0,Friendly,Belgrade,Yugoslavia,False
+1960-08-07 00:00:00,Malaysia,Thailand,8,2,Merdeka Tournament,Kuala Lumpur,Malaya,False
+1960-08-07 00:00:00,Vietnam Republic,Singapore,2,1,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1960-08-08 00:00:00,Indonesia,Singapore,8,3,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1960-08-10 00:00:00,Denmark,Finland,2,1,Nordic Championship,Copenhagen,Denmark,False
+1960-08-10 00:00:00,Vietnam Republic,South Korea,0,0,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1960-08-10 00:00:00,Pakistan,Japan,3,1,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1960-08-11 00:00:00,South Korea,Singapore,3,3,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1960-08-12 00:00:00,Japan,Thailand,3,1,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1960-08-12 00:00:00,Malaysia,Pakistan,1,0,Merdeka Tournament,Kuala Lumpur,Malaya,False
+1960-08-13 00:00:00,Indonesia,Vietnam Republic,5,3,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1960-08-14 00:00:00,Indonesia,Pakistan,4,0,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1960-08-14 00:00:00,Malaysia,South Korea,0,0,Merdeka Tournament,Kuala Lumpur,Malaya,False
+1960-08-17 00:00:00,Argentina,Uruguay,4,0,Atlantic Cup,Buenos Aires,Argentina,False
+1960-08-17 00:00:00,German DR,Russia,0,1,Friendly,Leipzig,German DR,False
+1960-08-17 00:00:00,Indonesia,Vietnam Republic,1,1,Friendly,Kallang,Singapore,True
+1960-08-18 00:00:00,Pakistan,Vietnam Republic,2,2,Friendly,Kallang,Singapore,True
+1960-08-19 00:00:00,Singapore,Pakistan,4,1,Friendly,Kallang,Singapore,False
+1960-08-21 00:00:00,Costa Rica,Guatemala,3,2,FIFA World Cup qualification,San Jos√©,Costa Rica,False
+1960-08-21 00:00:00,India,Tunisia,2,2,Friendly,Rome,Italy,True
+1960-08-21 00:00:00,Indonesia,Pakistan,5,2,Friendly,Jakarta,Indonesia,False
+1960-08-28 00:00:00,Ghana,Nigeria,4,1,FIFA World Cup qualification,Accra,Ghana,False
+1960-08-28 00:00:00,Guatemala,Costa Rica,4,4,FIFA World Cup qualification,Guatemala,Guatemala,False
+1960-08-28 00:00:00,Norway,Finland,6,3,Nordic Championship,Oslo,Norway,False
+1960-09-04 00:00:00,Austria,Russia,3,1,Friendly,Vienna,Austria,False
+1960-09-04 00:00:00,Honduras,Costa Rica,2,1,FIFA World Cup qualification,Tegucigalpa,Honduras,False
+1960-09-05 00:00:00,Tahiti,New Zealand,1,5,Friendly,Pirae,French Polynesia,False
+1960-09-10 00:00:00,Nigeria,Ghana,2,2,FIFA World Cup qualification,Lagos,Nigeria,False
+1960-09-11 00:00:00,Costa Rica,Honduras,5,0,FIFA World Cup qualification,San Jos√©,Costa Rica,False
+1960-09-12 00:00:00,Tahiti,New Zealand,1,2,Friendly,Pirae,French Polynesia,False
+1960-09-18 00:00:00,Norway,Sweden,3,1,Nordic Championship,Oslo,Norway,False
+1960-09-18 00:00:00,Trinidad and Tobago,Martinique,1,1,Friendly,Port of Spain,Trinidad and Tobago,False
+1960-09-20 00:00:00,Trinidad and Tobago,Martinique,1,1,Friendly,Port of Spain,Trinidad and Tobago,False
+1960-09-22 00:00:00,Trinidad and Tobago,Martinique,3,1,Friendly,Port of Spain,Trinidad and Tobago,False
+1960-09-24 00:00:00,Trinidad and Tobago,Martinique,0,0,Friendly,Port of Spain,Trinidad and Tobago,False
+1960-09-25 00:00:00,Finland,France,1,2,FIFA World Cup qualification,Helsinki,Finland,False
+1960-09-25 00:00:00,Honduras,Guatemala,1,1,FIFA World Cup qualification,Tegucigalpa,Honduras,False
+1960-09-28 00:00:00,Republic of Ireland,Wales,2,3,Friendly,Dublin,Republic of Ireland,False
+1960-09-28 00:00:00,Poland,France,2,2,Friendly,Warsaw,Poland,False
+1960-10-02 00:00:00,Belgium,Netherlands,1,4,Friendly,Antwerp,Belgium,False
+1960-10-02 00:00:00,Ghana,Mali,5,1,Friendly,Ibadan,Nigeria,True
+1960-10-02 00:00:00,Nigeria,Guinea-Bissau,4,1,Friendly,Lagos,Nigeria,False
+1960-10-02 00:00:00,Suriname,Cura√ßao,1,2,FIFA World Cup qualification,Paramaribo,Suriname,False
+1960-10-03 00:00:00,North Vietnam,Mongolia,3,1,Friendly,Hanoi,Vietnam DR,False
+1960-10-04 00:00:00,China PR,North Korea,1,0,Friendly,Hanoi,Vietnam DR,True
+1960-10-05 00:00:00,Nigeria,Mali,2,3,Friendly,Lagos,Nigeria,False
+1960-10-07 00:00:00,China PR,Mongolia,6,1,Friendly,Hanoi,Vietnam DR,True
+1960-10-08 00:00:00,North Vietnam,North Korea,1,3,Friendly,Hanoi,Vietnam DR,False
+1960-10-08 00:00:00,Northern Ireland,England,2,5,British Championship,Belfast,Northern Ireland,False
+1960-10-08 00:00:00,Uganda,Tanzania,1,0,Friendly,Kampala,Uganda,False
+1960-10-09 00:00:00,Hungary,Yugoslavia,1,1,Friendly,Budapest,Hungary,False
+1960-10-09 00:00:00,Nigeria,Ghana,0,3,Friendly,Lagos,Nigeria,False
+1960-10-10 00:00:00,Kenya,Zanzibar,4,1,Friendly,Kampala,Uganda,True
+1960-10-10 00:00:00,Mongolia,North Korea,1,10,Friendly,Hanoi,Vietnam DR,True
+1960-10-11 00:00:00,North Vietnam,China PR,3,4,Friendly,Hanoi,Vietnam DR,False
+1960-10-11 00:00:00,Uganda,Zanzibar,3,0,Friendly,Kampala,Uganda,False
+1960-10-12 00:00:00,Kenya,Tanzania,5,0,Friendly,Kampala,Uganda,True
+1960-10-12 00:00:00,Switzerland,France,6,2,Friendly,Basel,Switzerland,False
+1960-10-14 00:00:00,South Korea,Vietnam Republic,5,1,AFC Asian Cup,Seoul,South Korea,False
+1960-10-14 00:00:00,Tanzania,Zanzibar,4,2,Friendly,Kampala,Uganda,True
+1960-10-15 00:00:00,Uganda,Kenya,1,1,Friendly,Kampala,Uganda,False
+1960-10-17 00:00:00,South Korea,Israel,3,0,AFC Asian Cup,Seoul,South Korea,False
+1960-10-17 00:00:00,Taiwan,Vietnam Republic,2,0,AFC Asian Cup,Seoul,South Korea,True
+1960-10-19 00:00:00,Israel,Vietnam Republic,5,1,AFC Asian Cup,Seoul,South Korea,True
+1960-10-19 00:00:00,Luxembourg,England,0,9,FIFA World Cup qualification,Luxembourg,Luxembourg,False
+1960-10-19 00:00:00,Sweden,Belgium,2,0,FIFA World Cup qualification,Solna,Sweden,False
+1960-10-20 00:00:00,Israel,Taiwan,1,0,AFC Asian Cup,Seoul,South Korea,True
+1960-10-21 00:00:00,South Korea,Taiwan,1,0,AFC Asian Cup,Seoul,South Korea,False
+1960-10-22 00:00:00,Wales,Scotland,2,0,British Championship,Cardiff,Wales,False
+1960-10-23 00:00:00,Sweden,Denmark,2,0,Nordic Championship,Gothenburg,Sweden,False
+1960-10-26 00:00:00,England,Spain,4,2,Friendly,London,England,False
+1960-10-26 00:00:00,Northern Ireland,Germany,3,4,FIFA World Cup qualification,Belfast,Northern Ireland,False
+1960-10-29 00:00:00,Nigeria,Ghana,1,1,Friendly,Lagos,Nigeria,False
+1960-10-30 00:00:00,Austria,Spain,3,0,Friendly,Vienna,Austria,False
+1960-10-30 00:00:00,Belgium,Hungary,2,1,Friendly,Brussels,Belgium,False
+1960-10-30 00:00:00,Czechoslovakia,Netherlands,4,0,Friendly,Prague,Czechoslovakia,False
+1960-10-30 00:00:00,German DR,Finland,5,1,Friendly,Rostock,German DR,False
+1960-10-30 00:00:00,Morocco,Tunisia,2,1,FIFA World Cup qualification,Casablanca,Morocco,False
+1960-10-30 00:00:00,Sweden,France,1,0,Friendly,Solna,Sweden,False
+1960-11-06 00:00:00,Republic of Ireland,Norway,3,1,Friendly,Dublin,Republic of Ireland,False
+1960-11-06 00:00:00,South Korea,Japan,2,1,FIFA World Cup qualification,Seoul,South Korea,False
+1960-11-06 00:00:00,United States,Mexico,3,3,FIFA World Cup qualification,Los Angeles,United States,False
+1960-11-09 00:00:00,Scotland,Northern Ireland,5,2,British Championship,Glasgow,Scotland,False
+1960-11-13 00:00:00,Cyprus,Israel,1,1,FIFA World Cup qualification,Nicosia,Cyprus,False
+1960-11-13 00:00:00,Hungary,Poland,4,1,Friendly,Budapest,Hungary,False
+1960-11-13 00:00:00,Mexico,United States,3,0,FIFA World Cup qualification,Mexico City,Mexico,False
+1960-11-13 00:00:00,Tunisia,Morocco,2,1,FIFA World Cup qualification,Tunis,Tunisia,False
+1960-11-20 00:00:00,Belgium,Switzerland,2,4,FIFA World Cup qualification,Brussels,Belgium,False
+1960-11-20 00:00:00,Greece,Germany,0,3,FIFA World Cup qualification,Athens,Greece,False
+1960-11-20 00:00:00,Hungary,Austria,2,0,Friendly,Budapest,Hungary,False
+1960-11-23 00:00:00,Bulgaria,Germany,2,1,Friendly,Sofia,Bulgaria,False
+1960-11-23 00:00:00,England,Wales,5,1,British Championship,London,England,False
+1960-11-27 00:00:00,Bulgaria,Turkey,2,1,Friendly,Sofia,Bulgaria,False
+1960-11-27 00:00:00,Cura√ßao,Suriname,0,0,FIFA World Cup qualification,Willemstad,Netherlands Antilles,True
+1960-11-27 00:00:00,Israel,Cyprus,6,1,FIFA World Cup qualification,Ramat-Gan,Israel,False
+1960-12-04 00:00:00,Ecuador,Argentina,3,6,FIFA World Cup qualification,Guayaquil,Ecuador,False
+1960-12-04 00:00:00,Tunisia,German DR,0,3,Friendly,Tunis,Tunisia,False
+1960-12-08 00:00:00,Malta,Tunisia,1,0,Friendly,G≈ºira,Malta,False
+1960-12-10 00:00:00,Italy,Austria,1,2,Friendly,Naples,Italy,False
+1960-12-11 00:00:00,France,Bulgaria,3,0,FIFA World Cup qualification,Colombes,France,False
+1960-12-11 00:00:00,Morocco,German DR,2,3,Friendly,Casablanca,Morocco,False
+1960-12-17 00:00:00,Argentina,Ecuador,5,0,FIFA World Cup qualification,Buenos Aires,Argentina,False
+1960-12-18 00:00:00,Chile,Paraguay,4,1,Friendly,Santiago,Chile,False
+1960-12-21 00:00:00,Chile,Paraguay,3,1,Friendly,Santiago,Chile,False
+1960-12-23 00:00:00,Iraq,Tunisia,3,2,Friendly,Baghdad,Iraq,False
+1961-01-14 00:00:00,Costa Rica,Honduras,1,0,FIFA World Cup qualification,Guatemala,Guatemala,True
+1961-01-15 00:00:00,Saint Lucia,Dominica,4,1,Windward Islands Tournament,Castries,Saint Lucia,False
+1961-01-16 00:00:00,Grenada,Saint Vincent and the Grenadines,3,6,Windward Islands Tournament,Castries,Saint Lucia,True
+1961-01-17 00:00:00,Saint Lucia,Grenada,0,4,Windward Islands Tournament,Castries,Saint Lucia,False
+1961-01-18 00:00:00,Dominica,Saint Vincent and the Grenadines,1,1,Windward Islands Tournament,Castries,Saint Lucia,True
+1961-01-19 00:00:00,Dominica,Grenada,1,8,Windward Islands Tournament,Castries,Saint Lucia,True
+1961-01-20 00:00:00,Saint Lucia,Saint Vincent and the Grenadines,2,2,Windward Islands Tournament,Castries,Saint Lucia,False
+1961-02-05 00:00:00,Colombia,United States,2,0,Friendly,Bogot√°,Colombia,False
+1961-02-17 00:00:00,Egypt,Hungary,0,2,Friendly,Cairo,Egypt,False
+1961-02-22 00:00:00,Morocco,Tunisia,1,1,FIFA World Cup qualification,Palermo,Italy,True
+1961-03-05 00:00:00,Costa Rica,Cuba,4,1,CCCF Championship,San Jos√©,Costa Rica,False
+1961-03-05 00:00:00,Ghana,Mali,3,0,Friendly,Accra,Ghana,False
+1961-03-06 00:00:00,Cura√ßao,El Salvador,0,0,CCCF Championship,San Jos√©,Costa Rica,True
+1961-03-07 00:00:00,Cuba,Haiti,1,2,CCCF Championship,San Jos√©,Costa Rica,True
+1961-03-08 00:00:00,Germany,Belgium,1,0,Friendly,Frankfurt am Main,Germany,False
+1961-03-09 00:00:00,Guatemala,Haiti,1,3,CCCF Championship,San Jos√©,Costa Rica,True
+1961-03-10 00:00:00,Cuba,Panama,0,1,CCCF Championship,San Jos√©,Costa Rica,True
+1961-03-10 00:00:00,Cura√ßao,Honduras,2,4,CCCF Championship,San Jos√©,Costa Rica,True
+1961-03-12 00:00:00,Cuba,Guatemala,0,2,CCCF Championship,San Jos√©,Costa Rica,True
+1961-03-13 00:00:00,Cura√ßao,Nicaragua,2,1,CCCF Championship,San Jos√©,Costa Rica,True
+1961-03-13 00:00:00,Haiti,Panama,3,1,CCCF Championship,San Jos√©,Costa Rica,True
+1961-03-14 00:00:00,Israel,Ethiopia,1,0,FIFA World Cup qualification,Ramat-Gan,Israel,False
+1961-03-15 00:00:00,France,Belgium,1,1,Friendly,Paris,France,False
+1961-03-17 00:00:00,Haiti,Honduras,0,2,CCCF Championship,San Jos√©,Costa Rica,True
+1961-03-19 00:00:00,Chile,Peru,5,2,Friendly,Santiago,Chile,False
+1961-03-19 00:00:00,Israel,Ethiopia,3,2,FIFA World Cup qualification,Ramat-Gan,Israel,False
+1961-03-19 00:00:00,Panama,Paraguay,0,0,Friendly,Panama City,Panama,False
+1961-03-19 00:00:00,Portugal,Luxembourg,6,0,FIFA World Cup qualification,Oeiras,Portugal,False
+1961-03-22 00:00:00,Costa Rica,Mexico,1,0,FIFA World Cup qualification,San Jos√©,Costa Rica,False
+1961-03-22 00:00:00,Netherlands,Belgium,6,2,Friendly,Rotterdam,Netherlands,False
+1961-03-22 00:00:00,Panama,Haiti,0,3,Friendly,Panama City,Panama,False
+1961-03-23 00:00:00,Panama,Haiti,0,2,Friendly,Panama City,Panama,False
+1961-03-26 00:00:00,Chile,Germany,3,1,Friendly,Santiago,Chile,False
+1961-03-26 00:00:00,Czechoslovakia,Sweden,2,1,Friendly,Prague,Czechoslovakia,False
+1961-03-29 00:00:00,Costa Rica,Cura√ßao,6,0,FIFA World Cup qualification,San Jos√©,Costa Rica,False
+1961-04-02 00:00:00,Ghana,Morocco,0,0,FIFA World Cup qualification,Accra,Ghana,False
+1961-04-02 00:00:00,Spain,France,2,0,Friendly,Madrid,Spain,False
+1961-04-05 00:00:00,Mexico,Cura√ßao,7,0,FIFA World Cup qualification,Mexico City,Mexico,False
+1961-04-08 00:00:00,Nigeria,Ghana,0,0,African Cup of Nations qualification,Lagos,Nigeria,False
+1961-04-11 00:00:00,Martinique,Guadeloupe,2,2,Friendly,Fort-de-France,Martinique,False
+1961-04-12 00:00:00,Mexico,Costa Rica,4,1,FIFA World Cup qualification,Mexico City,Mexico,False
+1961-04-12 00:00:00,Northern Ireland,Wales,1,5,British Championship,Belfast,Northern Ireland,False
+1961-04-15 00:00:00,England,Scotland,9,3,British Championship,London,England,False
+1961-04-16 00:00:00,Hungary,German DR,2,0,FIFA World Cup qualification,Budapest,Hungary,False
+1961-04-19 00:00:00,Netherlands,Mexico,1,2,Friendly,Amsterdam,Netherlands,False
+1961-04-19 00:00:00,Wales,Spain,1,2,FIFA World Cup qualification,Cardiff,Wales,False
+1961-04-22 00:00:00,Sierra Leone,Nigeria,1,4,Friendly,Freetown,Sierra Leone,False
+1961-04-23 00:00:00,Cura√ßao,Costa Rica,2,0,FIFA World Cup qualification,Willemstad,Netherlands Antilles,True
+1961-04-25 00:00:00,Italy,Northern Ireland,3,2,Friendly,Bologna,Italy,False
+1961-04-29 00:00:00,Czechoslovakia,Mexico,2,1,Friendly,Ostrava,Czechoslovakia,False
+1961-04-30 00:00:00,Colombia,Peru,1,0,FIFA World Cup qualification,Bogot√°,Colombia,False
+1961-04-30 00:00:00,Ghana,Nigeria,2,2,African Cup of Nations qualification,Accra,Ghana,False
+1961-04-30 00:00:00,Netherlands,Hungary,0,3,FIFA World Cup qualification,Rotterdam,Netherlands,False
+1961-04-30 00:00:00,Paraguay,Brazil,0,2,Copa Oswaldo Cruz,Asunci√≥n,Paraguay,False
+1961-05-03 00:00:00,Greece,Northern Ireland,2,1,FIFA World Cup qualification,Athens,Greece,False
+1961-05-03 00:00:00,Paraguay,Brazil,2,3,Copa Oswaldo Cruz,Asunci√≥n,Paraguay,False
+1961-05-03 00:00:00,Scotland,Republic of Ireland,4,1,FIFA World Cup qualification,Glasgow,Scotland,False
+1961-05-07 00:00:00,Chile,Brazil,1,2,Copa Bernardo O'Higgins,Santiago,Chile,False
+1961-05-07 00:00:00,Republic of Ireland,Scotland,0,3,FIFA World Cup qualification,Dublin,Republic of Ireland,False
+1961-05-07 00:00:00,Peru,Colombia,1,1,FIFA World Cup qualification,Lima,Peru,False
+1961-05-07 00:00:00,Yugoslavia,Hungary,2,4,Friendly,Belgrade,Yugoslavia,False
+1961-05-10 00:00:00,England,Mexico,8,0,Friendly,London,England,False
+1961-05-10 00:00:00,Germany,Northern Ireland,2,1,FIFA World Cup qualification,Berlin,Germany,False
+1961-05-11 00:00:00,Chile,Brazil,0,1,Copa Bernardo O'Higgins,Santiago,Chile,False
+1961-05-14 00:00:00,Czechoslovakia,Scotland,4,0,FIFA World Cup qualification,Bratislava,Czechoslovakia,False
+1961-05-14 00:00:00,German DR,Netherlands,1,1,FIFA World Cup qualification,Leipzig,German DR,False
+1961-05-14 00:00:00,Turkey,Romania,0,1,Friendly,Ankara,Turkey,False
+1961-05-16 00:00:00,Norway,Mexico,1,1,Friendly,Bergen,Norway,False
+1961-05-17 00:00:00,Paraguay,Argentina,0,0,Friendly,Asunci√≥n,Paraguay,False
+1961-05-18 00:00:00,Spain,Wales,1,1,FIFA World Cup qualification,Madrid,Spain,False
+1961-05-20 00:00:00,Switzerland,Belgium,2,1,FIFA World Cup qualification,Lausanne,Switzerland,False
+1961-05-21 00:00:00,Cura√ßao,Mexico,0,0,FIFA World Cup qualification,Willemstad,Netherlands Antilles,True
+1961-05-21 00:00:00,Poland,Russia,1,0,Friendly,Warsaw,Poland,False
+1961-05-21 00:00:00,Portugal,England,1,1,FIFA World Cup qualification,Oeiras,Portugal,False
+1961-05-24 00:00:00,Italy,England,2,3,Friendly,Rome,Italy,False
+1961-05-27 00:00:00,Austria,England,3,1,Friendly,Vienna,Austria,False
+1961-05-28 00:00:00,Denmark,German DR,1,1,Friendly,Copenhagen,Denmark,False
+1961-05-28 00:00:00,Hungary,Wales,3,2,Friendly,Budapest,Hungary,False
+1961-05-28 00:00:00,Japan,Malaysia,3,2,Friendly,Tokyo,Japan,False
+1961-05-28 00:00:00,Morocco,Ghana,1,0,FIFA World Cup qualification,Casablanca,Morocco,False
+1961-05-28 00:00:00,Sweden,Switzerland,4,0,FIFA World Cup qualification,Solna,Sweden,False
+1961-06-01 00:00:00,Ghana,Nigeria,3,0,Friendly,Accra,Ghana,False
+1961-06-01 00:00:00,Norway,Turkey,0,1,FIFA World Cup qualification,Oslo,Norway,False
+1961-06-04 00:00:00,Portugal,Argentina,0,2,Friendly,Oeiras,Portugal,False
+1961-06-04 00:00:00,Yugoslavia,Poland,2,1,FIFA World Cup qualification,Belgrade,Yugoslavia,False
+1961-06-11 00:00:00,Hungary,Austria,1,2,Friendly,Budapest,Hungary,False
+1961-06-11 00:00:00,Japan,South Korea,0,2,FIFA World Cup qualification,Tokyo,Japan,False
+1961-06-11 00:00:00,Spain,Argentina,2,0,Friendly,Seville,Spain,False
+1961-06-15 00:00:00,Italy,Argentina,4,1,Friendly,Florence,Italy,False
+1961-06-16 00:00:00,Finland,Bulgaria,0,2,FIFA World Cup qualification,Helsinki,Finland,False
+1961-06-18 00:00:00,Denmark,Sweden,1,2,Nordic Championship,Copenhagen,Denmark,False
+1961-06-18 00:00:00,Russia,Turkey,1,0,FIFA World Cup qualification,Moscow,Soviet Union,True
+1961-06-18 00:00:00,Yugoslavia,Morocco,3,2,Friendly,Belgrade,Yugoslavia,False
+1961-06-19 00:00:00,Czechoslovakia,Argentina,3,3,Friendly,Brno,Czechoslovakia,False
+1961-06-21 00:00:00,German DR,Morocco,1,2,Friendly,Erfurt,German DR,False
+1961-06-24 00:00:00,Russia,Argentina,0,0,Friendly,Moscow,Soviet Union,False
+1961-06-25 00:00:00,Poland,Yugoslavia,1,1,FIFA World Cup qualification,Chorz√≥w,Poland,False
+1961-06-27 00:00:00,Finland,Norway,4,1,Nordic Championship,Helsinki,Finland,False
+1961-06-29 00:00:00,Brazil,Paraguay,3,2,Friendly,Rio de Janeiro,Brazil,False
+1961-07-01 00:00:00,Russia,Norway,5,2,FIFA World Cup qualification,Moscow,Soviet Union,True
+1961-07-15 00:00:00,Bolivia,Uruguay,1,1,FIFA World Cup qualification,La Paz,Bolivia,False
+1961-07-30 00:00:00,Uruguay,Bolivia,2,1,FIFA World Cup qualification,Montevideo,Uruguay,False
+1961-08-02 00:00:00,Indonesia,Singapore,1,0,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1961-08-02 00:00:00,Malaysia,Japan,3,2,Merdeka Tournament,Kuala Lumpur,Malaya,False
+1961-08-03 00:00:00,India,Vietnam Republic,1,2,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1961-08-05 00:00:00,Kenya,Uganda,0,1,African Cup of Nations qualification,Nairobi,Kenya,False
+1961-08-05 00:00:00,Malaysia,Vietnam Republic,3,1,Merdeka Tournament,Kuala Lumpur,Malaya,False
+1961-08-06 00:00:00,Hong Kong,Thailand,2,1,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1961-08-06 00:00:00,India,Japan,1,3,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1961-08-09 00:00:00,Indonesia,Thailand,2,1,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1961-08-09 00:00:00,Malaysia,India,1,2,Merdeka Tournament,Kuala Lumpur,Malaya,False
+1961-08-09 00:00:00,Sweden,Finland,4,0,Nordic Championship,Norrk√∂ping,Sweden,False
+1961-08-10 00:00:00,Japan,Vietnam Republic,2,3,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1961-08-12 00:00:00,Singapore,Thailand,5,3,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1961-08-13 00:00:00,Malaysia,Indonesia,1,2,Merdeka Tournament,Kuala Lumpur,Malaya,False
+1961-08-13 00:00:00,Singapore,Vietnam Republic,1,2,Merdeka Tournament,Kuala Lumpur,Malaya,True
+1961-08-15 00:00:00,Indonesia,Japan,2,0,Friendly,Kallang,Singapore,True
+1961-08-16 00:00:00,Thailand,Vietnam Republic,1,2,Friendly,Kallang,Singapore,True
+1961-08-17 00:00:00,India,Vietnam Republic,1,3,Friendly,Kallang,Singapore,True
+1961-08-23 00:00:00,Norway,Russia,0,3,FIFA World Cup qualification,Oslo,Norway,False
+1961-09-05 00:00:00,New Caledonia,Tahiti,2,2,Friendly,Noum√©a,New Caledonia,False
+1961-09-08 00:00:00,New Caledonia,Tahiti,3,0,Friendly,Noum√©a,New Caledonia,False
+1961-09-10 00:00:00,German DR,Hungary,2,3,FIFA World Cup qualification,Berlin,German DR,False
+1961-09-10 00:00:00,Russia,Austria,0,1,Friendly,Moscow,Soviet Union,False
+1961-09-17 00:00:00,Norway,Denmark,0,4,Nordic Championship,Oslo,Norway,False
+1961-09-20 00:00:00,Germany,Denmark,5,1,Friendly,D√ºsseldorf,Germany,False
+1961-09-22 00:00:00,New Caledonia,Tahiti,2,1,Friendly,Noum√©a,New Caledonia,False
+1961-09-23 00:00:00,Uganda,Kenya,0,1,African Cup of Nations qualification,Kampala,Uganda,False
+1961-09-26 00:00:00,Scotland,Czechoslovakia,3,2,FIFA World Cup qualification,Glasgow,Scotland,False
+1961-09-28 00:00:00,England,Luxembourg,4,1,FIFA World Cup qualification,London,England,False

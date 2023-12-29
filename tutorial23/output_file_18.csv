@@ -1,0 +1,1001 @@
+date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
+1993-06-26 00:00:00,Ecuador,Paraguay,3,0,Copa Am√©rica,Quito,Ecuador,False
+1993-06-26 00:00:00,Egypt,Romania,3,2,Korea Cup,Seoul,South Korea,True
+1993-06-26 00:00:00,South Korea,Czech Republic,1,0,Korea Cup,Seoul,South Korea,False
+1993-06-27 00:00:00,Brazil,Argentina,1,1,Copa Am√©rica,Guayaquil,Ecuador,True
+1993-06-27 00:00:00,Iran,Syria,1,1,FIFA World Cup qualification,Tehran,Iran,False
+1993-06-27 00:00:00,Oman,Taiwan,2,1,FIFA World Cup qualification,Tehran,Iran,True
+1993-06-27 00:00:00,Peru,Mexico,2,4,Copa Am√©rica,Quito,Ecuador,True
+1993-06-28 00:00:00,South Korea,Egypt,0,1,Korea Cup,Seoul,South Korea,False
+1993-06-29 00:00:00,Costa Rica,Mexico,0,2,Friendly,San Jos√©,Costa Rica,False
+1993-06-30 00:00:00,Ecuador,Mexico,0,2,Copa Am√©rica,Quito,Ecuador,False
+1993-07-01 00:00:00,Colombia,Argentina,0,0,Copa Am√©rica,Guayaquil,Ecuador,True
+1993-07-02 00:00:00,Estonia,Latvia,0,2,Baltic Cup,P√§rnu,Estonia,False
+1993-07-02 00:00:00,Oman,Iran,0,1,FIFA World Cup qualification,Damascus,Syria,True
+1993-07-02 00:00:00,Syria,Taiwan,8,1,FIFA World Cup qualification,Damascus,Syria,False
+1993-07-03 00:00:00,Ecuador,Colombia,0,1,Copa Am√©rica,Portoviejo,Ecuador,False
+1993-07-03 00:00:00,Latvia,Lithuania,0,0,Baltic Cup,P√§rnu,Estonia,True
+1993-07-03 00:00:00,Nigeria,Algeria,4,1,FIFA World Cup qualification,Lagos,Nigeria,False
+1993-07-04 00:00:00,Argentina,Mexico,2,1,Copa Am√©rica,Guayaquil,Ecuador,True
+1993-07-04 00:00:00,Estonia,Lithuania,2,1,Baltic Cup,P√§rnu,Estonia,False
+1993-07-04 00:00:00,Gabon,Mali,0,2,Friendly,Moanda,Gabon,False
+1993-07-04 00:00:00,Jamaica,Costa Rica,1,1,Friendly,Kingston,Jamaica,False
+1993-07-04 00:00:00,Syria,Oman,2,1,FIFA World Cup qualification,Damascus,Syria,False
+1993-07-04 00:00:00,Zambia,Morocco,2,1,FIFA World Cup qualification,Lusaka,Zambia,False
+1993-07-04 00:00:00,Zimbabwe,Cameroon,1,0,FIFA World Cup qualification,Harare,Zimbabwe,False
+1993-07-04 00:00:00,Gibraltar,Jersey,1,2,Island Games,Isle of Wight,England,True
+1993-07-04 00:00:00,Ynys M√¥n,Greenland,0,1,Island Games,Isle of Wight,England,True
+1993-07-04 00:00:00,Isle of Wight,Isle of Man,1,0,Island Games,Isle of Wight,England,False
+1993-07-04 00:00:00,√Öland Islands,Shetland,3,1,Island Games,Isle of Wight,England,True
+1993-07-05 00:00:00,Jersey,Greenland,4,2,Island Games,Isle of Wight,England,True
+1993-07-05 00:00:00,Ynys M√¥n,Gibraltar,1,0,Island Games,Isle of Wight,England,True
+1993-07-05 00:00:00,Isle of Man,√Öland Islands,2,0,Island Games,Isle of Wight,England,True
+1993-07-05 00:00:00,Isle of Wight,Shetland,2,0,Island Games,Isle of Wight,England,False
+1993-07-06 00:00:00,Malawi,Eswatini,3,1,Friendly,Blantyre,Malawi,False
+1993-07-06 00:00:00,Syria,Iran,1,1,FIFA World Cup qualification,Damascus,Syria,False
+1993-07-06 00:00:00,Greenland,Gibraltar,5,0,Island Games,Isle of Wight,England,True
+1993-07-06 00:00:00,Jersey,Ynys M√¥n,2,2,Island Games,Isle of Wight,England,True
+1993-07-06 00:00:00,Shetland,Isle of Man,1,5,Island Games,Isle of Wight,England,True
+1993-07-06 00:00:00,Isle of Wight,√Öland Islands,0,2,Island Games,Isle of Wight,England,False
+1993-07-07 00:00:00,Ivory Coast,Niger,3,2,Friendly,Abidjan,Ivory Coast,False
+1993-07-08 00:00:00,Malawi,Eswatini,1,1,Friendly,Lilongwe,Malawi,False
+1993-07-08 00:00:00,Shetland,Gibraltar,1,0,Island Games,Isle of Wight,England,True
+1993-07-08 00:00:00,Isle of Wight,Ynys M√¥n,1,1,Island Games,Isle of Wight,England,False
+1993-07-09 00:00:00,Greenland,√Öland Islands,1,2,Island Games,Isle of Wight,England,True
+1993-07-09 00:00:00,Jersey,Isle of Man,5,1,Island Games,Isle of Wight,England,True
+1993-07-10 00:00:00,Honduras,Panama,5,1,Gold Cup,Dallas,United States,True
+1993-07-10 00:00:00,Malawi,Eswatini,0,1,Friendly,Mzuzu,Malawi,False
+1993-07-10 00:00:00,United States,Jamaica,1,0,Gold Cup,Dallas,United States,False
+1993-07-11 00:00:00,Benin,Cameroon,0,3,African Cup of Nations qualification,Cotonou,Benin,False
+1993-07-11 00:00:00,Burundi,Guinea,2,2,African Cup of Nations qualification,Bujumbura,Burundi,False
+1993-07-11 00:00:00,Canada,Costa Rica,1,1,Gold Cup,Mexico City,Mexico,True
+1993-07-11 00:00:00,DR Congo,Kenya,0,1,African Cup of Nations qualification,Kinshasa,Za√Øre,False
+1993-07-11 00:00:00,Egypt,Morocco,1,1,African Cup of Nations qualification,Alexandria,Egypt,False
+1993-07-11 00:00:00,Gabon,Niger,3,0,African Cup of Nations qualification,Libreville,Gabon,False
+1993-07-11 00:00:00,Lesotho,Mozambique,1,1,African Cup of Nations qualification,Maseru,Lesotho,False
+1993-07-11 00:00:00,Mali,Malawi,2,1,African Cup of Nations qualification,Bamako,Mali,False
+1993-07-11 00:00:00,Mexico,Martinique,9,0,Gold Cup,Mexico City,Mexico,False
+1993-07-11 00:00:00,Senegal,Sierra Leone,1,1,African Cup of Nations qualification,Dakar,Senegal,False
+1993-07-11 00:00:00,Zambia,South Africa,3,0,African Cup of Nations qualification,Lusaka,Zambia,False
+1993-07-11 00:00:00,Zimbabwe,Mauritius,2,0,African Cup of Nations qualification,Harare,Zimbabwe,False
+1993-07-13 00:00:00,Peru,Uruguay,1,2,Friendly,Lima,Peru,False
+1993-07-14 00:00:00,Brazil,Paraguay,2,0,Friendly,Rio de Janeiro,Brazil,False
+1993-07-14 00:00:00,Honduras,Jamaica,1,3,Gold Cup,Dallas,United States,True
+1993-07-14 00:00:00,United States,Panama,2,1,Gold Cup,Dallas,United States,False
+1993-07-15 00:00:00,Canada,Martinique,2,2,Gold Cup,Mexico City,Mexico,True
+1993-07-15 00:00:00,Mexico,Costa Rica,1,1,Gold Cup,Mexico City,Mexico,False
+1993-07-17 00:00:00,Jamaica,Panama,1,1,Gold Cup,Dallas,United States,True
+1993-07-17 00:00:00,Senegal,Morocco,1,3,FIFA World Cup qualification,Dakar,Senegal,False
+1993-07-17 00:00:00,Uganda,Nigeria,0,0,African Cup of Nations qualification,Kampala,Uganda,False
+1993-07-17 00:00:00,Uruguay,Peru,3,0,Friendly,Montevideo,Uruguay,False
+1993-07-17 00:00:00,United States,Honduras,1,0,Gold Cup,Dallas,United States,False
+1993-07-18 00:00:00,Costa Rica,Martinique,3,1,Gold Cup,Mexico City,Mexico,True
+1993-07-18 00:00:00,Ecuador,Brazil,0,0,FIFA World Cup qualification,Guayaquil,Ecuador,False
+1993-07-18 00:00:00,Guinea,Cameroon,0,1,FIFA World Cup qualification,Conakry,Guinea,False
+1993-07-18 00:00:00,Ivory Coast,Algeria,1,0,FIFA World Cup qualification,Abidjan,Ivory Coast,False
+1993-07-18 00:00:00,Mexico,Canada,8,0,Gold Cup,Mexico City,Mexico,False
+1993-07-18 00:00:00,Venezuela,Bolivia,1,7,FIFA World Cup qualification,Puerto Ordaz,Venezuela,False
+1993-07-21 00:00:00,United States,Costa Rica,1,0,Gold Cup,Dallas,United States,False
+1993-07-22 00:00:00,Mexico,Jamaica,6,1,Gold Cup,Mexico City,Mexico,False
+1993-07-24 00:00:00,Nigeria,Ethiopia,6,0,African Cup of Nations qualification,Lagos,Nigeria,False
+1993-07-24 00:00:00,Uganda,Sudan,1,0,African Cup of Nations qualification,Kampala,Uganda,False
+1993-07-25 00:00:00,Algeria,Senegal,4,0,African Cup of Nations qualification,Tlemcen,Algeria,False
+1993-07-25 00:00:00,Benin,Gabon,1,2,African Cup of Nations qualification,Cotonou,Benin,False
+1993-07-25 00:00:00,Bolivia,Brazil,2,0,FIFA World Cup qualification,La Paz,Bolivia,False
+1993-07-25 00:00:00,Cameroon,Niger,2,0,African Cup of Nations qualification,Yaound√©,Cameroon,False
+1993-07-25 00:00:00,DR Congo,Lesotho,7,0,African Cup of Nations qualification,Kinshasa,Za√Øre,False
+1993-07-25 00:00:00,Jamaica,Costa Rica,1,1,Gold Cup,Mexico City,Mexico,True
+1993-07-25 00:00:00,Liberia,Ghana,0,2,African Cup of Nations qualification,Monrovia,Liberia,False
+1993-07-25 00:00:00,Malawi,Morocco,0,2,African Cup of Nations qualification,Lilongwe,Malawi,False
+1993-07-25 00:00:00,Mali,Egypt,2,1,African Cup of Nations qualification,Bamako,Mali,False
+1993-07-25 00:00:00,Mauritius,South Africa,1,3,African Cup of Nations qualification,Mapou,Mauritius,False
+1993-07-25 00:00:00,Mexico,United States,4,0,Gold Cup,Mexico City,Mexico,False
+1993-07-25 00:00:00,Venezuela,Uruguay,0,1,FIFA World Cup qualification,San Crist√≥bal,Venezuela,False
+1993-07-25 00:00:00,Zimbabwe,Zambia,1,1,African Cup of Nations qualification,Harare,Zimbabwe,False
+1993-07-28 00:00:00,France,Russia,3,1,Friendly,Caen,France,False
+1993-07-29 00:00:00,Malawi,Eswatini,3,0,Friendly,Blantyre,Malawi,False
+1993-07-31 00:00:00,Canada,Australia,2,1,FIFA World Cup qualification,Edmonton,Canada,False
+1993-08-01 00:00:00,Colombia,Paraguay,0,0,FIFA World Cup qualification,Barranquilla,Colombia,False
+1993-08-01 00:00:00,Peru,Argentina,0,1,FIFA World Cup qualification,Lima,Peru,False
+1993-08-01 00:00:00,Uruguay,Ecuador,0,0,FIFA World Cup qualification,Montevideo,Uruguay,False
+1993-08-01 00:00:00,Venezuela,Brazil,1,5,FIFA World Cup qualification,San Crist√≥bal,Venezuela,False
+1993-08-07 00:00:00,Senegal,Zambia,0,0,FIFA World Cup qualification,Abidjan,Ivory Coast,True
+1993-08-08 00:00:00,Bolivia,Uruguay,3,1,FIFA World Cup qualification,La Paz,Bolivia,False
+1993-08-08 00:00:00,Brazil,Mexico,1,1,Friendly,Macei√≥,Brazil,False
+1993-08-08 00:00:00,Ecuador,Venezuela,5,0,FIFA World Cup qualification,Quito,Ecuador,False
+1993-08-08 00:00:00,Guinea,Sierra Leone,1,0,Friendly,Conakry,Guinea,False
+1993-08-08 00:00:00,Paraguay,Argentina,1,3,FIFA World Cup qualification,Asunci√≥n,Paraguay,False
+1993-08-08 00:00:00,Peru,Colombia,0,1,FIFA World Cup qualification,Lima,Peru,False
+1993-08-08 00:00:00,Zimbabwe,Eswatini,2,0,Friendly,Harare,Zimbabwe,False
+1993-08-09 00:00:00,Guinea,Sierra Leone,4,0,Friendly,Conakry,Guinea,False
+1993-08-11 00:00:00,Faroe Islands,Norway,0,7,Friendly,Toftir,Faroe Islands,False
+1993-08-11 00:00:00,Sweden,Switzerland,1,2,Friendly,Bor√•s,Sweden,False
+1993-08-15 00:00:00,Australia,Canada,2,1,FIFA World Cup qualification,Sydney,Australia,False
+1993-08-15 00:00:00,Bolivia,Ecuador,1,0,FIFA World Cup qualification,La Paz,Bolivia,False
+1993-08-15 00:00:00,Colombia,Argentina,2,1,FIFA World Cup qualification,Barranquilla,Colombia,False
+1993-08-15 00:00:00,Congo,Guinea,0,0,African Cup of Nations qualification,Pointe-Noire,Congo,False
+1993-08-15 00:00:00,Paraguay,Peru,2,1,FIFA World Cup qualification,Asunci√≥n,Paraguay,False
+1993-08-15 00:00:00,Uruguay,Brazil,1,1,FIFA World Cup qualification,Montevideo,Uruguay,False
+1993-08-22 00:00:00,Argentina,Peru,2,1,FIFA World Cup qualification,Buenos Aires,Argentina,False
+1993-08-22 00:00:00,Bolivia,Venezuela,7,0,FIFA World Cup qualification,La Paz,Bolivia,False
+1993-08-22 00:00:00,Brazil,Ecuador,2,0,FIFA World Cup qualification,S√£o Paulo,Brazil,False
+1993-08-22 00:00:00,Paraguay,Colombia,1,1,FIFA World Cup qualification,Asunci√≥n,Paraguay,False
+1993-08-22 00:00:00,Sweden,France,1,1,FIFA World Cup qualification,Solna,Sweden,False
+1993-08-25 00:00:00,Austria,Finland,3,0,FIFA World Cup qualification,Vienna,Austria,False
+1993-08-25 00:00:00,Denmark,Lithuania,4,0,FIFA World Cup qualification,Copenhagen,Denmark,False
+1993-08-29 00:00:00,Argentina,Paraguay,0,0,FIFA World Cup qualification,Buenos Aires,Argentina,False
+1993-08-29 00:00:00,Brazil,Bolivia,6,0,FIFA World Cup qualification,Recife,Brazil,False
+1993-08-29 00:00:00,Colombia,Peru,4,0,FIFA World Cup qualification,Barranquilla,Colombia,False
+1993-08-29 00:00:00,Uruguay,Venezuela,4,0,FIFA World Cup qualification,Montevideo,Uruguay,False
+1993-08-31 00:00:00,Iceland,United States,0,1,Friendly,Reykjav√≠k,Iceland,False
+1993-09-05 00:00:00,Argentina,Colombia,0,5,FIFA World Cup qualification,Buenos Aires,Argentina,False
+1993-09-05 00:00:00,Brazil,Venezuela,4,0,FIFA World Cup qualification,Belo Horizonte,Brazil,False
+1993-09-05 00:00:00,Ecuador,Uruguay,0,1,FIFA World Cup qualification,Guayaquil,Ecuador,False
+1993-09-05 00:00:00,Estonia,Portugal,0,2,FIFA World Cup qualification,Tallinn,Estonia,False
+1993-09-05 00:00:00,Peru,Paraguay,2,2,FIFA World Cup qualification,Lima,Peru,False
+1993-09-06 00:00:00,Eswatini,Zimbabwe,0,1,Friendly,Mbabane,Eswatini,False
+1993-09-08 00:00:00,Albania,Denmark,0,1,FIFA World Cup qualification,Tirana,Albania,False
+1993-09-08 00:00:00,Bulgaria,Sweden,1,1,FIFA World Cup qualification,Sofia,Bulgaria,False
+1993-09-08 00:00:00,England,Poland,3,0,FIFA World Cup qualification,London,England,False
+1993-09-08 00:00:00,Faroe Islands,Romania,0,4,FIFA World Cup qualification,Toftir,Faroe Islands,False
+1993-09-08 00:00:00,Finland,France,0,2,FIFA World Cup qualification,Tampere,Finland,False
+1993-09-08 00:00:00,Hungary,Russia,1,3,FIFA World Cup qualification,Budapest,Hungary,False
+1993-09-08 00:00:00,Iceland,Luxembourg,1,0,FIFA World Cup qualification,Reykjav√≠k,Iceland,False
+1993-09-08 00:00:00,Republic of Ireland,Lithuania,2,0,FIFA World Cup qualification,Dublin,Republic of Ireland,False
+1993-09-08 00:00:00,Northern Ireland,Latvia,2,0,FIFA World Cup qualification,Belfast,Northern Ireland,False
+1993-09-08 00:00:00,Norway,United States,1,0,Friendly,Oslo,Norway,False
+1993-09-08 00:00:00,Scotland,Switzerland,1,1,FIFA World Cup qualification,Aberdeen,Scotland,False
+1993-09-08 00:00:00,Spain,Chile,2,0,Friendly,Alicante,Spain,False
+1993-09-08 00:00:00,Wales,Czech Republic,2,2,FIFA World Cup qualification,Cardiff,Wales,False
+1993-09-12 00:00:00,Uruguay,Bolivia,2,1,FIFA World Cup qualification,Montevideo,Uruguay,False
+1993-09-12 00:00:00,Venezuela,Ecuador,2,1,FIFA World Cup qualification,Puerto Ordaz,Venezuela,False
+1993-09-15 00:00:00,Morocco,Mali,3,0,Friendly,Casablanca,Morocco,False
+1993-09-17 00:00:00,Saudi Arabia,Thailand,4,0,Friendly,Dammam,Saudi Arabia,False
+1993-09-19 00:00:00,Brazil,Uruguay,2,0,FIFA World Cup qualification,Rio de Janeiro,Brazil,False
+1993-09-19 00:00:00,Ecuador,Bolivia,1,1,FIFA World Cup qualification,Guayaquil,Ecuador,False
+1993-09-19 00:00:00,Zimbabwe,Senegal,2,0,Friendly,Harare,Zimbabwe,False
+1993-09-20 00:00:00,Saudi Arabia,Thailand,3,0,Friendly,Dammam,Saudi Arabia,False
+1993-09-22 00:00:00,Albania,Spain,1,5,FIFA World Cup qualification,Tirana,Albania,False
+1993-09-22 00:00:00,Estonia,Italy,0,3,FIFA World Cup qualification,Tallinn,Estonia,False
+1993-09-22 00:00:00,Mexico,Cameroon,1,0,Friendly,Los Angeles,United States,True
+1993-09-22 00:00:00,Norway,Poland,1,0,FIFA World Cup qualification,Oslo,Norway,False
+1993-09-22 00:00:00,Romania,Israel,1,0,Friendly,Bucharest,Romania,False
+1993-09-22 00:00:00,San Marino,Netherlands,0,7,FIFA World Cup qualification,Bologna,Italy,True
+1993-09-22 00:00:00,Tunisia,Germany,1,1,Friendly,Tunis,Tunisia,False
+1993-09-23 00:00:00,Saudi Arabia,Costa Rica,1,2,Friendly,Khobar,Saudi Arabia,False
+1993-09-24 00:00:00,South Korea,Australia,1,1,Friendly,Seoul,South Korea,False
+1993-09-25 00:00:00,Nigeria,Ivory Coast,4,1,FIFA World Cup qualification,Lagos,Nigeria,False
+1993-09-26 00:00:00,South Korea,Australia,1,0,Friendly,Seoul,South Korea,False
+1993-09-26 00:00:00,Zambia,Senegal,4,0,FIFA World Cup qualification,Lusaka,Zambia,False
+1993-09-26 00:00:00,Zimbabwe,Guinea,1,0,FIFA World Cup qualification,Harare,Zimbabwe,False
+1993-09-27 00:00:00,Saudi Arabia,Costa Rica,3,2,Friendly,Khobar,Saudi Arabia,False
+1993-09-29 00:00:00,Mexico,Poland,0,0,Friendly,Oakland,United States,True
+1993-10-01 00:00:00,Morocco,Gabon,1,0,Friendly,Rabat,Morocco,False
+1993-10-04 00:00:00,Japan,Ivory Coast,1,0,Friendly,Tokyo,Japan,False
+1993-10-05 00:00:00,Cyprus,Israel,2,2,Friendly,Limassol,Cyprus,False
+1993-10-06 00:00:00,Belgium,Gabon,2,1,Friendly,Brussels,Belgium,False
+1993-10-06 00:00:00,Mexico,South Africa,4,0,Friendly,Los Angeles,United States,True
+1993-10-06 00:00:00,Saudi Arabia,Russia,4,2,Friendly,Khobar,Saudi Arabia,False
+1993-10-08 00:00:00,Algeria,Nigeria,1,1,FIFA World Cup qualification,Algiers,Algeria,False
+1993-10-10 00:00:00,Cameroon,Zimbabwe,3,1,FIFA World Cup qualification,Yaound√©,Cameroon,False
+1993-10-10 00:00:00,Morocco,Zambia,1,0,FIFA World Cup qualification,Casablanca,Morocco,False
+1993-10-12 00:00:00,Luxembourg,Greece,1,3,FIFA World Cup qualification,Luxembourg,Luxembourg,False
+1993-10-13 00:00:00,Bulgaria,Austria,4,1,FIFA World Cup qualification,Sofia,Bulgaria,False
+1993-10-13 00:00:00,Denmark,Northern Ireland,1,0,FIFA World Cup qualification,Copenhagen,Denmark,False
+1993-10-13 00:00:00,France,Israel,2,3,FIFA World Cup qualification,Paris,France,False
+1993-10-13 00:00:00,Germany,Uruguay,5,0,Friendly,Karlsruhe,Germany,False
+1993-10-13 00:00:00,Republic of Ireland,Spain,1,3,FIFA World Cup qualification,Dublin,Republic of Ireland,False
+1993-10-13 00:00:00,Italy,Scotland,3,1,FIFA World Cup qualification,Rome,Italy,False
+1993-10-13 00:00:00,Netherlands,England,2,0,FIFA World Cup qualification,Rotterdam,Netherlands,False
+1993-10-13 00:00:00,Poland,Norway,0,3,FIFA World Cup qualification,Pozna≈Ñ,Poland,False
+1993-10-13 00:00:00,Portugal,Switzerland,1,0,FIFA World Cup qualification,Porto,Portugal,False
+1993-10-13 00:00:00,Romania,Belgium,2,1,FIFA World Cup qualification,Bucharest,Romania,False
+1993-10-13 00:00:00,Slovenia,North Macedonia,1,4,Friendly,Kranj,Slovenia,False
+1993-10-13 00:00:00,Sweden,Finland,3,2,FIFA World Cup qualification,Solna,Sweden,False
+1993-10-13 00:00:00,United States,Mexico,1,1,Friendly,Washington,United States,False
+1993-10-13 00:00:00,Wales,Cyprus,2,0,FIFA World Cup qualification,Cardiff,Wales,False
+1993-10-15 00:00:00,North Korea,Iraq,3,2,FIFA World Cup qualification,Doha,Qatar,True
+1993-10-15 00:00:00,Saudi Arabia,Japan,0,0,FIFA World Cup qualification,Doha,Qatar,True
+1993-10-16 00:00:00,Iran,South Korea,0,3,FIFA World Cup qualification,Doha,Qatar,True
+1993-10-16 00:00:00,United States,Ukraine,1,2,Friendly,High Point,United States,False
+1993-10-17 00:00:00,Tunisia,Iceland,3,1,Friendly,Tunis,Tunisia,False
+1993-10-18 00:00:00,Japan,Iran,1,2,FIFA World Cup qualification,Doha,Qatar,True
+1993-10-18 00:00:00,North Korea,Saudi Arabia,1,2,FIFA World Cup qualification,Doha,Qatar,True
+1993-10-19 00:00:00,Iraq,South Korea,2,2,FIFA World Cup qualification,Doha,Qatar,True
+1993-10-20 00:00:00,Mexico,Ukraine,2,1,Friendly,San Diego,United States,True
+1993-10-21 00:00:00,North Korea,Japan,0,3,FIFA World Cup qualification,Doha,Qatar,True
+1993-10-22 00:00:00,Iran,Iraq,1,2,FIFA World Cup qualification,Doha,Qatar,True
+1993-10-22 00:00:00,South Korea,Saudi Arabia,1,1,FIFA World Cup qualification,Doha,Qatar,True
+1993-10-23 00:00:00,United States,Ukraine,0,1,Friendly,Bethlehem,United States,False
+1993-10-24 00:00:00,Burundi,Guinea,0,0,African Cup of Nations qualification,Libreville,Gabon,True
+1993-10-24 00:00:00,Iraq,Saudi Arabia,1,1,FIFA World Cup qualification,Doha,Qatar,True
+1993-10-25 00:00:00,Iran,North Korea,2,1,FIFA World Cup qualification,Doha,Qatar,True
+1993-10-25 00:00:00,Japan,South Korea,1,0,FIFA World Cup qualification,Doha,Qatar,True
+1993-10-26 00:00:00,Liechtenstein,Estonia,0,2,Friendly,Balzers,Liechtenstein,False
+1993-10-26 00:00:00,United Arab Emirates,Jordan,2,1,Friendly,Al Ain,United Arab Emirates,False
+1993-10-27 00:00:00,Czech Republic,Cyprus,3,0,FIFA World Cup qualification,Ko≈°ice,Slovakia,True
+1993-10-27 00:00:00,Hungary,Luxembourg,1,0,FIFA World Cup qualification,Budapest,Hungary,False
+1993-10-27 00:00:00,Israel,Austria,1,1,FIFA World Cup qualification,Ramat-Gan,Israel,False
+1993-10-27 00:00:00,Turkey,Poland,2,1,FIFA World Cup qualification,Istanbul,Turkey,False
+1993-10-28 00:00:00,Iraq,Japan,2,2,FIFA World Cup qualification,Doha,Qatar,True
+1993-10-28 00:00:00,South Korea,North Korea,3,0,FIFA World Cup qualification,Doha,Qatar,True
+1993-10-28 00:00:00,Saudi Arabia,Iran,4,3,FIFA World Cup qualification,Doha,Qatar,True
+1993-10-28 00:00:00,United Arab Emirates,Jordan,0,2,Friendly,Al Ain,United Arab Emirates,False
+1993-10-31 00:00:00,Australia,Argentina,1,1,FIFA World Cup qualification,Sydney,Australia,False
+1993-11-03 00:00:00,Mexico,China PR,3,0,Friendly,San Diego,United States,True
+1993-11-05 00:00:00,Egypt,Malta,3,0,Friendly,Tunis,Tunisia,True
+1993-11-05 00:00:00,Tunisia,Gabon,4,0,Friendly,Tunis,Tunisia,False
+1993-11-07 00:00:00,Gabon,Malta,1,2,Friendly,Tunis,Tunisia,True
+1993-11-07 00:00:00,Tunisia,Egypt,2,1,Friendly,Tunis,Tunisia,False
+1993-11-07 00:00:00,United States,Jamaica,1,0,Friendly,Fullerton,United States,False
+1993-11-10 00:00:00,Austria,Sweden,1,1,FIFA World Cup qualification,Vienna,Austria,False
+1993-11-10 00:00:00,Israel,Finland,1,3,FIFA World Cup qualification,Ramat-Gan,Israel,False
+1993-11-10 00:00:00,Portugal,Estonia,3,0,FIFA World Cup qualification,Lisbon,Portugal,False
+1993-11-10 00:00:00,Turkey,Norway,2,1,FIFA World Cup qualification,Istanbul,Turkey,False
+1993-11-14 00:00:00,Antigua and Barbuda,Saint Kitts and Nevis,3,0,Friendly,St. John's,Antigua and Barbuda,False
+1993-11-14 00:00:00,United States,Cayman Islands,8,1,Friendly,Mission Viejo,United States,False
+1993-11-16 00:00:00,Slovakia,Slovenia,2,0,Friendly,Prievidza,Slovakia,False
+1993-11-17 00:00:00,Argentina,Australia,1,0,FIFA World Cup qualification,Buenos Aires,Argentina,False
+1993-11-17 00:00:00,Belgium,Czech Republic,0,0,FIFA World Cup qualification,Brussels,Belgium,False
+1993-11-17 00:00:00,France,Bulgaria,1,2,FIFA World Cup qualification,Paris,France,False
+1993-11-17 00:00:00,Germany,Brazil,2,1,Friendly,Cologne,Germany,False
+1993-11-17 00:00:00,Greece,Russia,1,0,FIFA World Cup qualification,Athens,Greece,False
+1993-11-17 00:00:00,Italy,Portugal,1,0,FIFA World Cup qualification,Milan,Italy,False
+1993-11-17 00:00:00,Malta,Scotland,0,2,FIFA World Cup qualification,Attard,Malta,False
+1993-11-17 00:00:00,Northern Ireland,Republic of Ireland,1,1,FIFA World Cup qualification,Belfast,Northern Ireland,False
+1993-11-17 00:00:00,Poland,Netherlands,1,3,FIFA World Cup qualification,Pozna≈Ñ,Poland,False
+1993-11-17 00:00:00,San Marino,England,1,7,FIFA World Cup qualification,Bologna,Italy,True
+1993-11-17 00:00:00,Spain,Denmark,1,0,FIFA World Cup qualification,Seville,Spain,False
+1993-11-17 00:00:00,Switzerland,Estonia,4,0,FIFA World Cup qualification,Z√ºrich,Switzerland,False
+1993-11-17 00:00:00,Wales,Romania,1,2,FIFA World Cup qualification,Cardiff,Wales,False
+1993-11-22 00:00:00,Gambia,Mauritania,2,4,Friendly,Banjul,Gambia,False
+1993-11-26 00:00:00,Gambia,Ghana,3,0,Friendly,Freetown,Sierra Leone,True
+1993-11-26 00:00:00,Sierra Leone,Guinea,1,1,Am√≠lcar Cabral Cup,Freetown,Sierra Leone,False
+1993-11-27 00:00:00,Guinea-Bissau,Mauritania,1,0,Am√≠lcar Cabral Cup,Freetown,Sierra Leone,True
+1993-11-27 00:00:00,Senegal,Mali,0,1,Am√≠lcar Cabral Cup,Freetown,Sierra Leone,True
+1993-11-28 00:00:00,Guinea,Gambia,1,2,Am√≠lcar Cabral Cup,Freetown,Sierra Leone,True
+1993-11-28 00:00:00,Sierra Leone,Ghana,2,3,Friendly,Freetown,Sierra Leone,False
+1993-11-29 00:00:00,Mali,Guinea-Bissau,3,0,Am√≠lcar Cabral Cup,Freetown,Sierra Leone,True
+1993-11-29 00:00:00,Senegal,Mauritania,4,0,Am√≠lcar Cabral Cup,Freetown,Sierra Leone,True
+1993-11-30 00:00:00,Ghana,Guinea,1,0,Friendly,Freetown,Sierra Leone,True
+1993-11-30 00:00:00,Sierra Leone,Gambia,1,1,Am√≠lcar Cabral Cup,Freetown,Sierra Leone,False
+1993-11-30 00:00:00,Tahiti,Fiji,3,0,Friendly,Papeete,French Polynesia,False
+1993-12-01 00:00:00,Kenya,Uganda,2,1,Friendly,Nairobi,Kenya,False
+1993-12-01 00:00:00,Mali,Mauritania,0,0,Am√≠lcar Cabral Cup,Freetown,Sierra Leone,True
+1993-12-01 00:00:00,Senegal,Guinea-Bissau,0,0,Am√≠lcar Cabral Cup,Freetown,Sierra Leone,True
+1993-12-03 00:00:00,Gambia,Senegal,0,2,Am√≠lcar Cabral Cup,Freetown,Sierra Leone,True
+1993-12-03 00:00:00,Sierra Leone,Mali,2,0,Am√≠lcar Cabral Cup,Freetown,Sierra Leone,False
+1993-12-05 00:00:00,Gambia,Mali,2,0,Am√≠lcar Cabral Cup,Freetown,Sierra Leone,True
+1993-12-05 00:00:00,Sierra Leone,Senegal,2,0,Am√≠lcar Cabral Cup,Freetown,Sierra Leone,False
+1993-12-05 00:00:00,United States,El Salvador,7,0,Friendly,Mission Viejo,United States,False
+1993-12-06 00:00:00,Tanzania,Uganda,1,0,Friendly,Nairobi,Kenya,True
+1993-12-10 00:00:00,Bangladesh,Myanmar,3,1,Friendly,Dhaka,Bangladesh,False
+1993-12-10 00:00:00,Kenya,Tanzania,2,1,Friendly,Nairobi,Kenya,False
+1993-12-15 00:00:00,Argentina,Germany,2,1,Friendly,Miami,United States,True
+1993-12-16 00:00:00,Mexico,Brazil,0,1,Friendly,Guadalajara,Mexico,False
+1993-12-18 00:00:00,United States,Germany,0,3,Friendly,Palo Alto,United States,False
+1993-12-19 00:00:00,Mali,Ivory Coast,0,1,Friendly,Bamako,Mali,False
+1993-12-22 00:00:00,Mexico,Germany,0,0,Friendly,Mexico City,Mexico,False
+1993-12-22 00:00:00,Basque Country,Bolivia,3,1,Friendly,San Sebasti√°n,Spain,False
+1993-12-29 00:00:00,Ghana,Egypt,0,0,Friendly,Accra,Ghana,False
+1993-12-31 00:00:00,Ghana,Tunisia,1,1,Friendly,Accra,Ghana,False
+1994-01-02 00:00:00,Barbados,Grenada,0,0,Friendly,Bridgetown,Barbados,False
+1994-01-02 00:00:00,Ghana,Egypt,2,1,Friendly,Accra,Ghana,False
+1994-01-05 00:00:00,Mali,Burkina Faso,1,1,Friendly,Bamako,Mali,False
+1994-01-09 00:00:00,Mauritania,Mali,1,3,Friendly,Nouakchott,Mauritania,False
+1994-01-11 00:00:00,Thailand,Nigeria,1,1,Friendly,Bangkok,Thailand,False
+1994-01-15 00:00:00,United States,Norway,2,1,Friendly,Tempe,United States,False
+1994-01-18 00:00:00,Guinea,Ivory Coast,3,0,Friendly,Conakry,Guinea,False
+1994-01-19 00:00:00,Costa Rica,Norway,0,0,Friendly,San Diego,United States,True
+1994-01-19 00:00:00,Mexico,Bulgaria,1,1,Friendly,San Diego,United States,True
+1994-01-19 00:00:00,Spain,Portugal,2,2,Friendly,Vigo,Spain,False
+1994-01-19 00:00:00,Suriname,French Guiana,1,0,CFU Caribbean Cup qualification,Paramaribo,Suriname,False
+1994-01-19 00:00:00,Tunisia,Netherlands,2,2,Friendly,Tunis,Tunisia,False
+1994-01-21 00:00:00,Guyana,French Guiana,1,1,CFU Caribbean Cup qualification,Paramaribo,Suriname,True
+1994-01-22 00:00:00,United States,Switzerland,1,1,Friendly,Fullerton,United States,False
+1994-01-23 00:00:00,Barbados,Puerto Rico,0,1,CFU Caribbean Cup qualification,Bridgetown,Barbados,False
+1994-01-23 00:00:00,Mali,Senegal,1,0,Friendly,Bamako,Mali,False
+1994-01-23 00:00:00,Saudi Arabia,China PR,1,0,Friendly,Riyadh,Saudi Arabia,False
+1994-01-23 00:00:00,Suriname,Guyana,2,0,CFU Caribbean Cup qualification,Paramaribo,Suriname,False
+1994-01-25 00:00:00,Grenada,Puerto Rico,1,0,CFU Caribbean Cup qualification,Bridgetown,Barbados,True
+1994-01-25 00:00:00,Qatar,Finland,1,0,Friendly,Doha,Qatar,False
+1994-01-26 00:00:00,Mexico,Switzerland,1,5,Friendly,Oakland,United States,True
+1994-01-26 00:00:00,Saudi Arabia,China PR,1,1,Friendly,Riyadh,Saudi Arabia,False
+1994-01-27 00:00:00,Barbados,Grenada,3,2,CFU Caribbean Cup qualification,Bridgetown,Barbados,False
+1994-01-27 00:00:00,Qatar,Finland,0,0,Friendly,Doha,Qatar,False
+1994-01-28 00:00:00,Venezuela,Colombia,1,2,Friendly,Barinas,Venezuela,False
+1994-01-29 00:00:00,Burkina Faso,Guinea,1,1,Friendly,Ouagadougou,Burkina Faso,False
+1994-01-29 00:00:00,Ivory Coast,Niger,5,3,Friendly,Ouagadougou,Burkina Faso,True
+1994-01-29 00:00:00,United States,Russia,1,1,Friendly,Seattle,United States,False
+1994-01-30 00:00:00,Burkina Faso,Ivory Coast,0,1,Friendly,Ouagadougou,Burkina Faso,False
+1994-01-30 00:00:00,Guinea,Niger,1,3,Friendly,Ouagadougou,Burkina Faso,True
+1994-01-30 00:00:00,Oman,Finland,0,2,Friendly,Muscat,Oman,False
+1994-01-30 00:00:00,Senegal,Mali,0,0,Friendly,Dakar,Senegal,False
+1994-02-01 00:00:00,Oman,Finland,1,1,Friendly,Muscat,Oman,False
+1994-02-02 00:00:00,Egypt,Morocco,1,1,United Arab Emirates Friendship Tournament,Sharjah,United Arab Emirates,True
+1994-02-02 00:00:00,Mexico,Russia,1,4,Friendly,Oakland,United States,True
+1994-02-02 00:00:00,United Arab Emirates,Slovakia,0,1,United Arab Emirates Friendship Tournament,Sharjah,United Arab Emirates,False
+1994-02-04 00:00:00,Egypt,Slovakia,1,0,United Arab Emirates Friendship Tournament,Sharjah,United Arab Emirates,True
+1994-02-04 00:00:00,Oman,Kenya,1,0,Friendly,Muscat,Oman,False
+1994-02-04 00:00:00,United Arab Emirates,Morocco,1,1,United Arab Emirates Friendship Tournament,Sharjah,United Arab Emirates,False
+1994-02-06 00:00:00,Morocco,Slovakia,2,1,United Arab Emirates Friendship Tournament,Sharjah,United Arab Emirates,True
+1994-02-06 00:00:00,Oman,Kenya,2,0,Friendly,Muscat,Oman,False
+1994-02-06 00:00:00,Saudi Arabia,Colombia,1,1,Friendly,Jeddah,Saudi Arabia,False
+1994-02-06 00:00:00,United Arab Emirates,Egypt,0,1,United Arab Emirates Friendship Tournament,Dubai,United Arab Emirates,False
+1994-02-07 00:00:00,Gambia,Senegal,0,0,Friendly,Banjul,Gambia,False
+1994-02-08 00:00:00,Georgia,Slovenia,0,1,Malta International Tournament,Attard,Malta,True
+1994-02-08 00:00:00,Malta,Tunisia,1,1,Malta International Tournament,Attard,Malta,False
+1994-02-09 00:00:00,Spain,Poland,1,1,Friendly,Santa Cruz de Tenerife,Spain,False
+1994-02-10 00:00:00,Malta,Georgia,0,1,Malta International Tournament,Attard,Malta,False
+1994-02-10 00:00:00,Slovenia,Tunisia,2,2,Malta International Tournament,Attard,Malta,True
+1994-02-12 00:00:00,Georgia,Tunisia,2,0,Malta International Tournament,Attard,Malta,True
+1994-02-12 00:00:00,Malawi,Zambia,0,3,Friendly,Blantyre,Malawi,False
+1994-02-12 00:00:00,Malta,Slovenia,0,1,Malta International Tournament,Attard,Malta,False
+1994-02-13 00:00:00,Malawi,Zambia,0,2,Friendly,Blantyre,Malawi,False
+1994-02-13 00:00:00,Romania,United States,2,1,Lunar New Year Cup,Kowloon,Hong Kong,True
+1994-02-16 00:00:00,Italy,France,0,1,Friendly,Naples,Italy,False
+1994-02-16 00:00:00,South Korea,Romania,1,2,Friendly,Changwon,South Korea,False
+1994-02-16 00:00:00,Malta,Belgium,1,0,Friendly,Attard,Malta,False
+1994-02-18 00:00:00,Colombia,Sweden,0,0,Friendly,Miami,United States,True
+1994-02-18 00:00:00,United States,Bolivia,1,1,Friendly,Miami,United States,False
+1994-02-20 00:00:00,Bolivia,Colombia,0,2,Friendly,Miami,United States,True
+1994-02-20 00:00:00,United States,Sweden,1,3,Friendly,Miami,United States,False
+1994-02-23 00:00:00,Dominica,Antigua and Barbuda,3,2,CFU Caribbean Cup qualification,Basseterre,Saint Kitts and Nevis,True
+1994-02-23 00:00:00,Israel,Georgia,2,0,Friendly,Ashdod,Israel,False
+1994-02-23 00:00:00,Mali,Ghana,0,0,Friendly,Bamako,Mali,False
+1994-02-23 00:00:00,Morocco,Finland,0,0,Friendly,Casablanca,Morocco,False
+1994-02-23 00:00:00,Saint Kitts and Nevis,Montserrat,9,1,CFU Caribbean Cup qualification,Basseterre,Saint Kitts and Nevis,False
+1994-02-23 00:00:00,Turkey,Czech Republic,1,4,Friendly,Istanbul,Turkey,False
+1994-02-24 00:00:00,Mexico,Sweden,2,1,Friendly,Fresno,United States,True
+1994-02-25 00:00:00,Antigua and Barbuda,Montserrat,8,0,CFU Caribbean Cup qualification,Basseterre,Saint Kitts and Nevis,True
+1994-02-25 00:00:00,Saint Kitts and Nevis,Dominica,2,3,CFU Caribbean Cup qualification,Basseterre,Saint Kitts and Nevis,False
+1994-02-26 00:00:00,Colombia,South Korea,2,2,Friendly,Monterey Park,United States,True
+1994-02-26 00:00:00,Zimbabwe,Zambia,2,2,Friendly,Harare,Zimbabwe,False
+1994-02-27 00:00:00,Gabon,Senegal,0,0,Friendly,Moanda,Gabon,False
+1994-03-02 00:00:00,Cayman Islands,British Virgin Islands,5,0,CFU Caribbean Cup qualification,George Town,Cayman Islands,False
+1994-03-02 00:00:00,Jamaica,Sint Maarten,3,2,CFU Caribbean Cup qualification,George Town,Cayman Islands,True
+1994-03-02 00:00:00,Mexico,Colombia,0,0,Friendly,Mexico City,Mexico,False
+1994-03-04 00:00:00,Cayman Islands,Sint Maarten,5,0,CFU Caribbean Cup qualification,George Town,Cayman Islands,False
+1994-03-04 00:00:00,Guadeloupe,Anguilla,9,0,CFU Caribbean Cup qualification,Kingstown,Saint Vincent and the Grenadines,True
+1994-03-04 00:00:00,Jamaica,British Virgin Islands,12,0,CFU Caribbean Cup qualification,George Town,Cayman Islands,True
+1994-03-05 00:00:00,United States,South Korea,1,0,Friendly,Monterey Park,United States,False
+1994-03-06 00:00:00,Cayman Islands,Jamaica,3,2,CFU Caribbean Cup qualification,West Bay,Cayman Islands,False
+1994-03-06 00:00:00,Sint Maarten,British Virgin Islands,3,0,CFU Caribbean Cup qualification,George Town,Cayman Islands,True
+1994-03-06 00:00:00,Saint Vincent and the Grenadines,Anguilla,2,0,CFU Caribbean Cup qualification,Kingstown,Saint Vincent and the Grenadines,False
+1994-03-09 00:00:00,Cyprus,Estonia,2,0,Friendly,Paral√≠mni,Cyprus,False
+1994-03-09 00:00:00,England,Denmark,1,0,Friendly,London,England,False
+1994-03-09 00:00:00,Hungary,Switzerland,1,2,Friendly,Budapest,Hungary,False
+1994-03-09 00:00:00,Nigeria,Ghana,0,0,Friendly,Lagos,Nigeria,False
+1994-03-09 00:00:00,Wales,Norway,1,3,Friendly,Cardiff,Wales,False
+1994-03-10 00:00:00,Dominican Republic,Haiti,0,1,CFU Caribbean Cup qualification,Santo Domingo,Dominican Republic,False
+1994-03-12 00:00:00,Congo,DR Congo,2,1,Friendly,Brazzaville,Congo,False
+1994-03-12 00:00:00,United States,South Korea,1,1,Friendly,Fullerton,United States,False
+1994-03-12 00:00:00,Zambia,Zimbabwe,2,1,Friendly,Lusaka,Zambia,False
+1994-03-15 00:00:00,Gabon,DR Congo,2,1,Friendly,Libreville,Gabon,False
+1994-03-15 00:00:00,Israel,Ukraine,1,0,Friendly,Haifa,Israel,False
+1994-03-16 00:00:00,Egypt,Cameroon,0,0,Friendly,Cairo,Egypt,False
+1994-03-17 00:00:00,Tunisia,Niger,4,2,Friendly,Tunis,Tunisia,False
+1994-03-19 00:00:00,Angola,Gabon,2,1,Friendly,Luanda,Angola,False
+1994-03-22 00:00:00,France,Chile,3,1,Friendly,Lyon,France,False
+1994-03-23 00:00:00,Austria,Hungary,1,1,Friendly,Linz,Austria,False
+1994-03-23 00:00:00,Brazil,Argentina,2,0,Friendly,Recife,Brazil,False
+1994-03-23 00:00:00,Germany,Italy,2,1,Friendly,Stuttgart,Germany,False
+1994-03-23 00:00:00,Greece,Poland,0,0,Friendly,Salonica,Greece,False
+1994-03-23 00:00:00,Republic of Ireland,Russia,0,0,Friendly,Dublin,Republic of Ireland,False
+1994-03-23 00:00:00,Luxembourg,Morocco,1,2,Friendly,Luxembourg,Luxembourg,False
+1994-03-23 00:00:00,North Macedonia,Slovenia,2,0,Friendly,Skopje,North Macedonia,False
+1994-03-23 00:00:00,Northern Ireland,Romania,2,0,Friendly,Belfast,Northern Ireland,False
+1994-03-23 00:00:00,Scotland,Netherlands,0,1,Friendly,Glasgow,Scotland,False
+1994-03-23 00:00:00,Spain,Croatia,0,2,Friendly,Valencia,Spain,False
+1994-03-26 00:00:00,Nigeria,Gabon,3,0,African Cup of Nations,Tunis,Tunisia,True
+1994-03-26 00:00:00,Saudi Arabia,Chile,0,2,Friendly,Riyadh,Saudi Arabia,False
+1994-03-26 00:00:00,Tunisia,Mali,0,2,African Cup of Nations,Tunis,Tunisia,False
+1994-03-26 00:00:00,United States,Bolivia,2,2,Friendly,Dallas,United States,False
+1994-03-27 00:00:00,Ghana,Guinea,1,0,African Cup of Nations,Sousse,Tunisia,True
+1994-03-27 00:00:00,Ivory Coast,Sierra Leone,4,0,African Cup of Nations,Sousse,Tunisia,True
+1994-03-28 00:00:00,Egypt,Gabon,4,0,African Cup of Nations,Tunis,Tunisia,True
+1994-03-28 00:00:00,Mali,DR Congo,0,1,African Cup of Nations,Tunis,Tunisia,True
+1994-03-29 00:00:00,Senegal,Guinea,2,1,African Cup of Nations,Sousse,Tunisia,True
+1994-03-29 00:00:00,Zambia,Sierra Leone,0,0,African Cup of Nations,Sousse,Tunisia,True
+1994-03-30 00:00:00,Malta,Slovakia,1,2,Friendly,Attard,Malta,False
+1994-03-30 00:00:00,Nigeria,Egypt,0,0,African Cup of Nations,Tunis,Tunisia,True
+1994-03-30 00:00:00,Tunisia,DR Congo,1,1,African Cup of Nations,Tunis,Tunisia,False
+1994-03-31 00:00:00,Ghana,Senegal,1,0,African Cup of Nations,Sousse,Tunisia,True
+1994-03-31 00:00:00,Zambia,Ivory Coast,1,0,African Cup of Nations,Sousse,Tunisia,True
+1994-04-02 00:00:00,DR Congo,Nigeria,0,2,African Cup of Nations,Tunis,Tunisia,True
+1994-04-02 00:00:00,Egypt,Mali,0,1,African Cup of Nations,Tunis,Tunisia,True
+1994-04-03 00:00:00,Ghana,Ivory Coast,1,2,African Cup of Nations,Sousse,Tunisia,True
+1994-04-03 00:00:00,Zambia,Senegal,1,0,African Cup of Nations,Sousse,Tunisia,True
+1994-04-06 00:00:00,Hungary,Slovenia,0,1,Friendly,Szombathely,Hungary,False
+1994-04-06 00:00:00,Nigeria,Ivory Coast,2,2,African Cup of Nations,Tunis,Tunisia,True
+1994-04-06 00:00:00,Zambia,Mali,4,0,African Cup of Nations,Tunis,Tunisia,True
+1994-04-07 00:00:00,Cayman Islands,Haiti,2,3,CFU Caribbean Cup,San Fernando,Trinidad and Tobago,True
+1994-04-07 00:00:00,Colombia,Bolivia,0,1,Friendly,Villavicencio,Colombia,False
+1994-04-07 00:00:00,Martinique,Suriname,2,0,CFU Caribbean Cup,San Fernando,Trinidad and Tobago,True
+1994-04-09 00:00:00,Martinique,Haiti,3,0,CFU Caribbean Cup,San Fernando,Trinidad and Tobago,True
+1994-04-09 00:00:00,Suriname,Cayman Islands,2,0,CFU Caribbean Cup,San Fernando,Trinidad and Tobago,True
+1994-04-10 00:00:00,Ivory Coast,Mali,3,1,African Cup of Nations,Tunis,Tunisia,True
+1994-04-10 00:00:00,Nigeria,Zambia,2,1,African Cup of Nations,Tunis,Tunisia,True
+1994-04-11 00:00:00,Kazakhstan,Tajikistan,1,0,Friendly,Tashkent,Uzbekistan,True
+1994-04-11 00:00:00,Martinique,Cayman Islands,1,1,CFU Caribbean Cup,San Fernando,Trinidad and Tobago,True
+1994-04-11 00:00:00,Suriname,Haiti,1,1,CFU Caribbean Cup,San Fernando,Trinidad and Tobago,True
+1994-04-11 00:00:00,Uzbekistan,Turkmenistan,4,0,Friendly,Tashkent,Uzbekistan,False
+1994-04-13 00:00:00,Kyrgyzstan,Turkmenistan,1,5,Friendly,Tashkent,Uzbekistan,True
+1994-04-13 00:00:00,Poland,Saudi Arabia,1,0,Friendly,Cannes,France,True
+1994-04-13 00:00:00,Uzbekistan,Kazakhstan,1,0,Friendly,Tashkent,Uzbekistan,False
+1994-04-14 00:00:00,Martinique,Guadeloupe,4,2,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,True
+1994-04-14 00:00:00,Trinidad and Tobago,Suriname,3,2,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,False
+1994-04-15 00:00:00,Kazakhstan,Turkmenistan,0,0,Friendly,Tashkent,Uzbekistan,True
+1994-04-15 00:00:00,Kyrgyzstan,Tajikistan,0,1,Friendly,Tashkent,Uzbekistan,True
+1994-04-15 00:00:00,Oman,Bulgaria,1,1,Friendly,Muscat,Oman,False
+1994-04-16 00:00:00,United States,Moldova,1,1,Friendly,Jacksonville,United States,False
+1994-04-17 00:00:00,Colombia,Nigeria,1,0,Friendly,Armenia,Colombia,False
+1994-04-17 00:00:00,Guadeloupe,Suriname,2,0,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,True
+1994-04-17 00:00:00,Kazakhstan,Kyrgyzstan,0,0,Friendly,Tashkent,Uzbekistan,True
+1994-04-17 00:00:00,Trinidad and Tobago,Martinique,7,2,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,False
+1994-04-17 00:00:00,Uzbekistan,Tajikistan,1,1,Friendly,Tashkent,Uzbekistan,False
+1994-04-18 00:00:00,Tunisia,Saudi Arabia,2,0,Friendly,Tunis,Tunisia,False
+1994-04-19 00:00:00,Malta,Azerbaijan,5,0,Friendly,Attard,Malta,False
+1994-04-19 00:00:00,Tajikistan,Turkmenistan,0,2,Friendly,Tashkent,Uzbekistan,True
+1994-04-19 00:00:00,Uzbekistan,Kyrgyzstan,3,0,Friendly,Tashkent,Uzbekistan,False
+1994-04-20 00:00:00,Argentina,Morocco,3,1,Friendly,Salta,Argentina,False
+1994-04-20 00:00:00,Austria,Scotland,1,2,Friendly,Vienna,Austria,False
+1994-04-20 00:00:00,Denmark,Hungary,3,1,Friendly,Copenhagen,Denmark,False
+1994-04-20 00:00:00,Iceland,Saudi Arabia,0,2,Friendly,Toulon,France,True
+1994-04-20 00:00:00,Lithuania,Israel,1,1,Friendly,Vilnius,Lithuania,False
+1994-04-20 00:00:00,Netherlands,Republic of Ireland,0,1,Friendly,Tilburg,Netherlands,False
+1994-04-20 00:00:00,Northern Ireland,Liechtenstein,4,1,UEFA Euro qualification,Belfast,Northern Ireland,False
+1994-04-20 00:00:00,Norway,Portugal,0,0,Friendly,Oslo,Norway,False
+1994-04-20 00:00:00,Romania,Bolivia,3,0,Friendly,Bucharest,Romania,False
+1994-04-20 00:00:00,Slovakia,Croatia,4,1,Friendly,Bratislava,Slovakia,False
+1994-04-20 00:00:00,Switzerland,Czech Republic,3,0,Friendly,Z√ºrich,Switzerland,False
+1994-04-20 00:00:00,Turkey,Russia,0,1,Friendly,Bursa,Turkey,False
+1994-04-20 00:00:00,United States,Moldova,3,0,Friendly,Davidson,United States,False
+1994-04-20 00:00:00,Wales,Sweden,0,2,Friendly,Wrexham,Wales,False
+1994-04-22 00:00:00,Eswatini,Mozambique,0,1,Friendly,Mbabane,Eswatini,False
+1994-04-24 00:00:00,South Africa,Zimbabwe,1,0,Friendly,Mafikeng,South Africa,False
+1994-04-24 00:00:00,United States,Iceland,1,2,Friendly,Chula Vista,United States,False
+1994-04-27 00:00:00,Greece,Saudi Arabia,5,1,Friendly,Athens,Greece,False
+1994-04-27 00:00:00,Slovenia,Cyprus,3,0,Friendly,Maribor,Slovenia,False
+1994-04-27 00:00:00,United Arab Emirates,Germany,0,2,Friendly,Abu Dhabi,United Arab Emirates,False
+1994-04-28 00:00:00,Kuwait,Bulgaria,2,2,Friendly,Kuwait City,Kuwait,False
+1994-04-30 00:00:00,United States,Chile,0,2,Friendly,Albuquerque,United States,False
+1994-05-01 00:00:00,South Korea,Cameroon,2,2,Friendly,Seoul,South Korea,False
+1994-05-02 00:00:00,Jersey,Guernsey,3,1,Friendly,St. Helier,Jersey,False
+1994-05-03 00:00:00,Colombia,Peru,1,0,Friendly,Miami,United States,True
+1994-05-03 00:00:00,El Salvador,Honduras,3,1,Friendly,Miami,United States,True
+1994-05-03 00:00:00,South Korea,Cameroon,2,1,Friendly,Changwon,South Korea,False
+1994-05-04 00:00:00,Bolivia,Saudi Arabia,1,0,Friendly,Cannes,France,True
+1994-05-04 00:00:00,Brazil,Iceland,3,0,Friendly,Florian√≥polis,Brazil,False
+1994-05-04 00:00:00,Poland,Hungary,3,2,Friendly,Cracow,Poland,False
+1994-05-05 00:00:00,Colombia,El Salvador,3,0,Friendly,Miami,United States,True
+1994-05-05 00:00:00,Honduras,Peru,2,1,Friendly,Miami,United States,True
+1994-05-05 00:00:00,Sweden,Nigeria,3,1,Friendly,Solna,Sweden,False
+1994-05-07 00:00:00,United States,Estonia,4,0,Friendly,Fullerton,United States,False
+1994-05-09 00:00:00,Greece,Cameroon,0,3,Friendly,Piraeus,Greece,False
+1994-05-11 00:00:00,Bolivia,Cameroon,1,1,Friendly,Piraeus,Greece,True
+1994-05-13 00:00:00,Greece,Bolivia,0,0,Friendly,Piraeus,Greece,False
+1994-05-14 00:00:00,North Macedonia,Albania,5,1,Friendly,Tetovo,North Macedonia,False
+1994-05-14 00:00:00,Nigeria,Suriname,2,1,Friendly,Amsterdam,Netherlands,True
+1994-05-15 00:00:00,United States,Armenia,1,0,Friendly,Fullerton,United States,False
+1994-05-17 00:00:00,England,Greece,5,0,Friendly,London,England,False
+1994-05-17 00:00:00,Poland,Austria,3,4,Friendly,Katowice,Poland,False
+1994-05-18 00:00:00,Chile,Argentina,3,3,Friendly,Santiago,Chile,False
+1994-05-18 00:00:00,Hungary,Croatia,2,2,Friendly,Gy≈ër,Hungary,False
+1994-05-19 00:00:00,Iceland,Bolivia,1,0,Friendly,Reykjav√≠k,Iceland,False
+1994-05-22 00:00:00,England,Norway,0,0,Friendly,London,England,False
+1994-05-22 00:00:00,Japan,Australia,1,1,Kirin Cup,Hiroshima,Japan,False
+1994-05-23 00:00:00,Estonia,Wales,1,2,Friendly,Tallinn,Estonia,False
+1994-05-23 00:00:00,Fiji,Tahiti,2,2,Friendly,Suva,Fiji,False
+1994-05-24 00:00:00,Republic of Ireland,Bolivia,1,0,Friendly,Dublin,Republic of Ireland,False
+1994-05-25 00:00:00,Chile,Peru,2,1,Friendly,Santiago,Chile,False
+1994-05-25 00:00:00,Czech Republic,Lithuania,5,3,Friendly,Ostrava,Czech Republic,False
+1994-05-25 00:00:00,Ecuador,Argentina,1,0,Friendly,Guayaquil,Ecuador,False
+1994-05-25 00:00:00,Fiji,Tahiti,2,0,Friendly,Lautoka,Fiji,False
+1994-05-25 00:00:00,Ukraine,Belarus,3,1,Friendly,Kyiv,Ukraine,False
+1994-05-25 00:00:00,United States,Saudi Arabia,0,0,Friendly,Piscataway,United States,False
+1994-05-26 00:00:00,Australia,France,0,1,Kirin Cup,Kobe,Japan,True
+1994-05-26 00:00:00,Denmark,Sweden,1,0,Friendly,Copenhagen,Denmark,False
+1994-05-27 00:00:00,Italy,Finland,2,0,Friendly,Parma,Italy,False
+1994-05-27 00:00:00,Netherlands,Scotland,3,1,Friendly,Utrecht,Netherlands,False
+1994-05-27 00:00:00,Switzerland,Liechtenstein,2,0,Friendly,Basel,Switzerland,False
+1994-05-28 00:00:00,United States,Greece,1,1,Friendly,New Haven,United States,False
+1994-05-29 00:00:00,Germany,Republic of Ireland,0,2,Friendly,Hanover,Germany,False
+1994-05-29 00:00:00,Japan,France,1,4,Kirin Cup,Tokyo,Japan,False
+1994-05-29 00:00:00,Russia,Slovakia,2,1,Friendly,Moscow,Russia,False
+1994-05-31 00:00:00,Israel,Argentina,0,3,Friendly,Ramat-Gan,Israel,False
+1994-06-01 00:00:00,Canada,Morocco,1,1,Friendly,Montr√©al,Canada,False
+1994-06-01 00:00:00,North Macedonia,Estonia,2,0,Friendly,Skopje,North Macedonia,False
+1994-06-01 00:00:00,Netherlands,Hungary,7,1,Friendly,Eindhoven,Netherlands,False
+1994-06-01 00:00:00,Norway,Denmark,2,1,Friendly,Oslo,Norway,False
+1994-06-01 00:00:00,Romania,Slovenia,0,0,Friendly,Bucharest,Romania,False
+1994-06-02 00:00:00,Austria,Germany,1,5,Friendly,Vienna,Austria,False
+1994-06-02 00:00:00,Finland,Spain,1,2,Friendly,Tampere,Finland,False
+1994-06-02 00:00:00,Latvia,Malta,2,0,Friendly,Riga,Latvia,False
+1994-06-03 00:00:00,Bulgaria,Ukraine,1,1,Friendly,Sofia,Bulgaria,False
+1994-06-03 00:00:00,Colombia,Northern Ireland,2,0,Friendly,Foxborough,United States,True
+1994-06-03 00:00:00,Italy,Switzerland,1,0,Friendly,Rome,Italy,False
+1994-06-04 00:00:00,Croatia,Argentina,0,0,Friendly,Zagreb,Croatia,False
+1994-06-04 00:00:00,Trinidad and Tobago,Saudi Arabia,2,3,Friendly,Pomona,United States,True
+1994-06-04 00:00:00,United States,Mexico,1,0,Friendly,Pasadena,United States,False
+1994-06-05 00:00:00,Canada,Brazil,1,1,Friendly,Edmonton,Canada,False
+1994-06-05 00:00:00,Colombia,Greece,2,0,Friendly,East Rutherford,United States,True
+1994-06-05 00:00:00,Ecuador,South Korea,2,1,Friendly,Wakefield,United States,True
+1994-06-05 00:00:00,Republic of Ireland,Czech Republic,1,3,Friendly,Dublin,Republic of Ireland,False
+1994-06-05 00:00:00,Ivory Coast,Liberia,4,1,Friendly,Abidjan,Ivory Coast,False
+1994-06-05 00:00:00,Sweden,Norway,2,0,Friendly,Solna,Sweden,False
+1994-06-08 00:00:00,Australia,South Africa,1,0,Friendly,Adelaide,Australia,False
+1994-06-08 00:00:00,Belgium,Hungary,3,1,Friendly,Brussels,Belgium,False
+1994-06-08 00:00:00,Bolivia,Peru,0,0,Friendly,Santa Cruz,Bolivia,False
+1994-06-08 00:00:00,Canada,Germany,0,2,Friendly,Toronto,Canada,False
+1994-06-08 00:00:00,Honduras,Brazil,2,8,Friendly,San Diego,United States,True
+1994-06-10 00:00:00,Canada,Spain,0,2,Friendly,Montr√©al,Canada,False
+1994-06-11 00:00:00,Bolivia,Switzerland,0,0,Friendly,Montr√©al,Canada,True
+1994-06-11 00:00:00,Costa Rica,Italy,0,1,Friendly,New Haven,United States,True
+1994-06-11 00:00:00,Honduras,South Korea,0,3,Friendly,Duncanville,United States,True
+1994-06-11 00:00:00,Mexico,Northern Ireland,3,0,Friendly,Miami,United States,True
+1994-06-11 00:00:00,Nigeria,Georgia,5,1,Friendly,Ibadan,Nigeria,False
+1994-06-12 00:00:00,Australia,South Africa,1,0,Friendly,Sydney,Australia,False
+1994-06-12 00:00:00,Canada,Netherlands,0,3,Friendly,Toronto,Canada,False
+1994-06-12 00:00:00,El Salvador,Brazil,0,4,Friendly,Fresno,United States,True
+1994-06-12 00:00:00,Romania,Sweden,1,1,Friendly,Mission Viejo,United States,True
+1994-06-17 00:00:00,Germany,Bolivia,1,0,FIFA World Cup,Chicago,United States,True
+1994-06-17 00:00:00,Spain,South Korea,2,2,FIFA World Cup,Dallas,United States,True
+1994-06-18 00:00:00,Colombia,Romania,1,3,FIFA World Cup,Pasadena,United States,True
+1994-06-18 00:00:00,Italy,Republic of Ireland,0,1,FIFA World Cup,East Rutherford,United States,True
+1994-06-18 00:00:00,United States,Switzerland,1,1,FIFA World Cup,Pontiac,United States,False
+1994-06-19 00:00:00,Belgium,Morocco,1,0,FIFA World Cup,Orlando,United States,True
+1994-06-19 00:00:00,Cameroon,Sweden,2,2,FIFA World Cup,Pasadena,United States,True
+1994-06-19 00:00:00,Norway,Mexico,1,0,FIFA World Cup,Washington,United States,True
+1994-06-20 00:00:00,Brazil,Russia,2,0,FIFA World Cup,Palo Alto,United States,True
+1994-06-20 00:00:00,Netherlands,Saudi Arabia,2,1,FIFA World Cup,Washington,United States,True
+1994-06-21 00:00:00,Argentina,Greece,4,0,FIFA World Cup,Foxborough,United States,True
+1994-06-21 00:00:00,Germany,Spain,1,1,FIFA World Cup,Chicago,United States,True
+1994-06-21 00:00:00,Nigeria,Bulgaria,3,0,FIFA World Cup,Dallas,United States,True
+1994-06-22 00:00:00,Romania,Switzerland,1,4,FIFA World Cup,Pontiac,United States,True
+1994-06-22 00:00:00,United States,Colombia,2,1,FIFA World Cup,Pasadena,United States,False
+1994-06-23 00:00:00,Italy,Norway,1,0,FIFA World Cup,East Rutherford,United States,True
+1994-06-23 00:00:00,South Korea,Bolivia,0,0,FIFA World Cup,Foxborough,United States,True
+1994-06-24 00:00:00,Brazil,Cameroon,3,0,FIFA World Cup,Palo Alto,United States,True
+1994-06-24 00:00:00,Mexico,Republic of Ireland,2,1,FIFA World Cup,Orlando,United States,True
+1994-06-24 00:00:00,Sweden,Russia,3,1,FIFA World Cup,Pontiac,United States,True
+1994-06-25 00:00:00,Argentina,Nigeria,2,1,FIFA World Cup,Foxborough,United States,True
+1994-06-25 00:00:00,Belgium,Netherlands,1,0,FIFA World Cup,Orlando,United States,True
+1994-06-25 00:00:00,Saudi Arabia,Morocco,2,1,FIFA World Cup,East Rutherford,United States,True
+1994-06-26 00:00:00,Bulgaria,Greece,4,0,FIFA World Cup,Chicago,United States,True
+1994-06-26 00:00:00,Latvia,Georgia,1,3,Friendly,Riga,Latvia,False
+1994-06-26 00:00:00,Switzerland,Colombia,0,2,FIFA World Cup,Palo Alto,United States,True
+1994-06-26 00:00:00,United States,Romania,0,1,FIFA World Cup,Pasadena,United States,False
+1994-06-27 00:00:00,Bolivia,Spain,1,3,FIFA World Cup,Chicago,United States,True
+1994-06-27 00:00:00,Germany,South Korea,3,2,FIFA World Cup,Dallas,United States,True
+1994-06-28 00:00:00,Brazil,Sweden,1,1,FIFA World Cup,Pontiac,United States,True
+1994-06-28 00:00:00,Republic of Ireland,Norway,0,0,FIFA World Cup,East Rutherford,United States,True
+1994-06-28 00:00:00,Italy,Mexico,1,1,FIFA World Cup,Washington,United States,True
+1994-06-28 00:00:00,Russia,Cameroon,6,1,FIFA World Cup,Palo Alto,United States,True
+1994-06-29 00:00:00,Belgium,Saudi Arabia,0,1,FIFA World Cup,Washington,United States,True
+1994-06-29 00:00:00,Morocco,Netherlands,1,2,FIFA World Cup,Orlando,United States,True
+1994-06-30 00:00:00,Argentina,Bulgaria,0,2,FIFA World Cup,Dallas,United States,True
+1994-06-30 00:00:00,Greece,Nigeria,0,2,FIFA World Cup,Foxborough,United States,True
+1994-07-01 00:00:00,Botswana,Namibia,0,1,Friendly,Gaborone,Botswana,False
+1994-07-02 00:00:00,Germany,Belgium,3,2,FIFA World Cup,Chicago,United States,True
+1994-07-02 00:00:00,Spain,Switzerland,3,0,FIFA World Cup,Washington,United States,True
+1994-07-03 00:00:00,Papua New Guinea,New Caledonia,1,0,Oceania Nations Cup qualification,Honiara,Solomon Islands,True
+1994-07-03 00:00:00,Romania,Argentina,3,2,FIFA World Cup,Pasadena,United States,True
+1994-07-03 00:00:00,Saudi Arabia,Sweden,1,3,FIFA World Cup,Dallas,United States,True
+1994-07-04 00:00:00,Fiji,New Caledonia,3,1,Oceania Nations Cup qualification,Honiara,Solomon Islands,True
+1994-07-04 00:00:00,Netherlands,Republic of Ireland,2,0,FIFA World Cup,Orlando,United States,True
+1994-07-04 00:00:00,United States,Brazil,0,1,FIFA World Cup,Palo Alto,United States,False
+1994-07-05 00:00:00,Mexico,Bulgaria,1,1,FIFA World Cup,East Rutherford,United States,True
+1994-07-05 00:00:00,Nigeria,Italy,1,2,FIFA World Cup,Foxborough,United States,True
+1994-07-05 00:00:00,Solomon Islands,Papua New Guinea,2,0,Oceania Nations Cup qualification,Honiara,Solomon Islands,False
+1994-07-05 00:00:00,Vanuatu,New Caledonia,2,3,Oceania Nations Cup qualification,Honiara,Solomon Islands,True
+1994-07-06 00:00:00,Papua New Guinea,Fiji,0,1,Oceania Nations Cup qualification,Honiara,Solomon Islands,True
+1994-07-06 00:00:00,Solomon Islands,Vanuatu,4,0,Oceania Nations Cup qualification,Honiara,Solomon Islands,False
+1994-07-07 00:00:00,Solomon Islands,Fiji,1,0,Oceania Nations Cup qualification,Honiara,Solomon Islands,False
+1994-07-07 00:00:00,Vanuatu,Papua New Guinea,1,1,Oceania Nations Cup qualification,Honiara,Solomon Islands,True
+1994-07-08 00:00:00,Japan,Ghana,3,2,Friendly,Nagoya,Japan,False
+1994-07-08 00:00:00,Solomon Islands,New Caledonia,3,1,Oceania Nations Cup qualification,Honiara,Solomon Islands,False
+1994-07-08 00:00:00,Vanuatu,Fiji,2,4,Oceania Nations Cup qualification,Honiara,Solomon Islands,True
+1994-07-09 00:00:00,Italy,Spain,2,1,FIFA World Cup,Foxborough,United States,True
+1994-07-09 00:00:00,Netherlands,Brazil,2,3,FIFA World Cup,Dallas,United States,True
+1994-07-10 00:00:00,Bulgaria,Germany,2,1,FIFA World Cup,East Rutherford,United States,True
+1994-07-10 00:00:00,Romania,Sweden,2,2,FIFA World Cup,Palo Alto,United States,True
+1994-07-13 00:00:00,Bulgaria,Italy,1,2,FIFA World Cup,East Rutherford,United States,True
+1994-07-13 00:00:00,Sweden,Brazil,0,1,FIFA World Cup,Pasadena,United States,True
+1994-07-14 00:00:00,Japan,Ghana,2,1,Friendly,Kobe,Japan,False
+1994-07-16 00:00:00,Armenia,Malta,1,0,Friendly,Yerevan,Armenia,False
+1994-07-16 00:00:00,Sweden,Bulgaria,4,0,FIFA World Cup,Pasadena,United States,True
+1994-07-17 00:00:00,Brazil,Italy,0,0,FIFA World Cup,Pasadena,United States,True
+1994-07-19 00:00:00,Georgia,Malta,1,1,Friendly,Tbilisi,Georgia,False
+1994-07-29 00:00:00,Lithuania,Estonia,3,0,Baltic Cup,Vilnius,Lithuania,False
+1994-07-30 00:00:00,Estonia,Latvia,0,2,Baltic Cup,Vilnius,Lithuania,True
+1994-07-31 00:00:00,Lithuania,Latvia,1,0,Baltic Cup,Vilnius,Lithuania,False
+1994-08-08 00:00:00,Ivory Coast,Mali,2,1,Friendly,Abidjan,Ivory Coast,False
+1994-08-12 00:00:00,Myanmar,Thailand,2,2,Friendly,Surabaya,Indonesia,True
+1994-08-16 00:00:00,Iceland,Estonia,4,0,Friendly,Akureyri,Iceland,False
+1994-08-16 00:00:00,Niger,Togo,3,2,Friendly,Niamey,Niger,False
+1994-08-16 00:00:00,Slovakia,Malta,1,1,Friendly,Bratislava,Slovakia,False
+1994-08-17 00:00:00,Austria,Russia,0,3,Friendly,Klagenfurt,Austria,False
+1994-08-17 00:00:00,Denmark,Finland,2,1,Friendly,Copenhagen,Denmark,False
+1994-08-17 00:00:00,France,Czech Republic,2,2,Friendly,Bordeaux,France,False
+1994-08-17 00:00:00,Israel,Croatia,0,4,Friendly,Ramat-Gan,Israel,False
+1994-08-17 00:00:00,Peru,Ecuador,2,0,Friendly,Lima,Peru,False
+1994-08-17 00:00:00,Poland,Belarus,1,1,Friendly,Radom,Poland,False
+1994-08-17 00:00:00,Sweden,Lithuania,4,2,Friendly,√ñrebro,Sweden,False
+1994-08-19 00:00:00,Congo,DR Congo,2,0,Friendly,Brazzaville,Congo,False
+1994-08-19 00:00:00,Egypt,Mali,2,1,Friendly,Cairo,Egypt,False
+1994-08-21 00:00:00,Egypt,Mali,0,1,Friendly,Cairo,Egypt,False
+1994-08-23 00:00:00,Burkina Faso,Niger,0,0,Friendly,Ouagadougou,Burkina Faso,False
+1994-08-23 00:00:00,Egypt,Ghana,2,0,Friendly,Cairo,Egypt,False
+1994-08-24 00:00:00,DR Congo,Congo,2,0,Friendly,Kinshasa,Za√Øre,False
+1994-08-25 00:00:00,Ghana,Zambia,1,0,Friendly,Cairo,Egypt,True
+1994-08-25 00:00:00,Namibia,Botswana,2,3,Friendly,Windhoek,Namibia,False
+1994-08-26 00:00:00,DR Congo,Congo,1,1,Friendly,Kinshasa,Za√Øre,False
+1994-08-26 00:00:00,Ukraine,United Arab Emirates,1,1,Friendly,Grassau,Austria,True
+1994-08-27 00:00:00,Egypt,Zambia,0,4,Friendly,Cairo,Egypt,False
+1994-08-30 00:00:00,Iceland,United Arab Emirates,1,0,Friendly,Reykjav√≠k,Iceland,False
+1994-08-31 00:00:00,North Macedonia,Turkey,0,2,Friendly,Skopje,North Macedonia,False
+1994-09-02 00:00:00,Solomon Islands,Fiji,1,0,Friendly,Honiara,Solomon Islands,False
+1994-09-03 00:00:00,Tanzania,Uganda,4,0,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+1994-09-04 00:00:00,Angola,Namibia,2,0,African Cup of Nations qualification,Luanda,Angola,False
+1994-09-04 00:00:00,Botswana,Guinea,0,1,African Cup of Nations qualification,Gaborone,Botswana,False
+1994-09-04 00:00:00,Burkina Faso,Morocco,2,1,African Cup of Nations qualification,Ouagadougou,Burkina Faso,False
+1994-09-04 00:00:00,Congo,Gambia,1,1,African Cup of Nations qualification,Pointe-Noire,Congo,False
+1994-09-04 00:00:00,DR Congo,Malawi,1,1,African Cup of Nations qualification,Kinshasa,Za√Øre,False
+1994-09-04 00:00:00,Estonia,Croatia,0,2,UEFA Euro qualification,Tallinn,Estonia,False
+1994-09-04 00:00:00,Ethiopia,Algeria,0,0,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+1994-09-04 00:00:00,Guinea-Bissau,Tunisia,1,3,African Cup of Nations qualification,Bissau,Guinea-Bissau,False
+1994-09-04 00:00:00,Israel,Poland,2,1,UEFA Euro qualification,Ramat-Gan,Israel,False
+1994-09-04 00:00:00,Liberia,Togo,1,0,African Cup of Nations qualification,Monrovia,Liberia,False
+1994-09-04 00:00:00,Madagascar,South Africa,0,1,African Cup of Nations qualification,Antananarivo,Madagascar,False
+1994-09-04 00:00:00,Mali,Mozambique,2,1,African Cup of Nations qualification,Bamako,Mali,False
+1994-09-04 00:00:00,Sudan,Egypt,0,0,African Cup of Nations qualification,Khartoum,Sudan,False
+1994-09-06 00:00:00,Czech Republic,Malta,6,1,UEFA Euro qualification,Ostrava,Czech Republic,False
+1994-09-06 00:00:00,Liberia,Togo,1,1,Friendly,Monrovia,Liberia,False
+1994-09-06 00:00:00,Switzerland,United Arab Emirates,1,0,Friendly,Sion,Switzerland,False
+1994-09-07 00:00:00,Belgium,Armenia,2,0,UEFA Euro qualification,Brussels,Belgium,False
+1994-09-07 00:00:00,Cyprus,Spain,1,2,UEFA Euro qualification,Limassol,Cyprus,False
+1994-09-07 00:00:00,England,United States,2,0,Friendly,London,England,False
+1994-09-07 00:00:00,Faroe Islands,Greece,1,5,UEFA Euro qualification,Toftir,Faroe Islands,False
+1994-09-07 00:00:00,Finland,Scotland,0,2,UEFA Euro qualification,Helsinki,Finland,False
+1994-09-07 00:00:00,Georgia,Moldova,0,1,UEFA Euro qualification,Tbilisi,Georgia,False
+1994-09-07 00:00:00,Hungary,Turkey,2,2,UEFA Euro qualification,Budapest,Hungary,False
+1994-09-07 00:00:00,Iceland,Sweden,0,1,UEFA Euro qualification,Reykjav√≠k,Iceland,False
+1994-09-07 00:00:00,Latvia,Republic of Ireland,0,3,UEFA Euro qualification,Riga,Latvia,False
+1994-09-07 00:00:00,Liechtenstein,Austria,0,4,UEFA Euro qualification,Eschen,Liechtenstein,False
+1994-09-07 00:00:00,Luxembourg,Netherlands,0,4,UEFA Euro qualification,Luxembourg,Luxembourg,False
+1994-09-07 00:00:00,North Macedonia,Denmark,1,1,UEFA Euro qualification,Skopje,North Macedonia,False
+1994-09-07 00:00:00,Northern Ireland,Portugal,1,2,UEFA Euro qualification,Belfast,Northern Ireland,False
+1994-09-07 00:00:00,Norway,Belarus,1,0,UEFA Euro qualification,Oslo,Norway,False
+1994-09-07 00:00:00,Romania,Azerbaijan,3,0,UEFA Euro qualification,Bucharest,Romania,False
+1994-09-07 00:00:00,Russia,Germany,0,1,Friendly,Moscow,Russia,False
+1994-09-07 00:00:00,Slovakia,France,0,0,UEFA Euro qualification,Bratislava,Slovakia,False
+1994-09-07 00:00:00,Slovenia,Italy,1,1,UEFA Euro qualification,Maribor,Slovenia,False
+1994-09-07 00:00:00,Ukraine,Lithuania,0,2,UEFA Euro qualification,Kyiv,Ukraine,False
+1994-09-07 00:00:00,Wales,Albania,2,0,UEFA Euro qualification,Cardiff,Wales,False
+1994-09-10 00:00:00,Qatar,Oman,0,2,Friendly,Doha,Qatar,False
+1994-09-11 00:00:00,South Korea,Ukraine,1,0,Friendly,Gangneung,South Korea,False
+1994-09-12 00:00:00,Bangladesh,India,2,4,Friendly,Doha,Qatar,True
+1994-09-13 00:00:00,South Korea,Ukraine,2,0,Friendly,Seoul,South Korea,False
+1994-09-14 00:00:00,India,Yemen,0,1,Friendly,Doha,Qatar,True
+1994-09-14 00:00:00,Oman,Sudan,1,1,Friendly,Doha,Qatar,True
+1994-09-16 00:00:00,India,Oman,1,4,Friendly,Doha,Qatar,True
+1994-09-16 00:00:00,Qatar,Yemen,2,0,Friendly,Doha,Qatar,False
+1994-09-18 00:00:00,India,Yemen,0,2,Friendly,Doha,Qatar,True
+1994-09-19 00:00:00,South Korea,United Arab Emirates,0,0,Friendly,Seoul,South Korea,False
+1994-09-21 00:00:00,Chile,Bolivia,1,2,Friendly,Santiago,Chile,False
+1994-09-21 00:00:00,Ecuador,Peru,0,0,Friendly,Machala,Ecuador,False
+1994-09-22 00:00:00,Malaysia,Kuwait,0,2,Friendly,Kuala Lumpur,Malaysia,False
+1994-09-24 00:00:00,Australia,Kuwait,0,0,Friendly,Kuala Lumpur,Malaysia,True
+1994-09-25 00:00:00,Zambia,Ghana,3,0,Friendly,Lusaka,Zambia,False
+1994-09-27 00:00:00,Japan,Australia,0,0,Friendly,Tokyo,Japan,False
+1994-10-08 00:00:00,Armenia,Cyprus,0,0,UEFA Euro qualification,Yerevan,Armenia,False
+1994-10-08 00:00:00,Estonia,Italy,0,2,UEFA Euro qualification,Tallinn,Estonia,False
+1994-10-08 00:00:00,France,Romania,0,0,UEFA Euro qualification,Saint-√âtienne,France,False
+1994-10-09 00:00:00,Croatia,Lithuania,2,0,UEFA Euro qualification,Zagreb,Croatia,False
+1994-10-09 00:00:00,Latvia,Portugal,1,3,UEFA Euro qualification,Riga,Latvia,False
+1994-10-09 00:00:00,Senegal,Niger,3,1,Friendly,Dakar,Senegal,False
+1994-10-09 00:00:00,Zambia,Malawi,2,1,Friendly,Lusaka,Zambia,False
+1994-10-12 00:00:00,Austria,Northern Ireland,1,2,UEFA Euro qualification,Vienna,Austria,False
+1994-10-12 00:00:00,Belarus,Luxembourg,2,0,UEFA Euro qualification,Minsk,Belarus,False
+1994-10-12 00:00:00,Bulgaria,Georgia,2,0,UEFA Euro qualification,Sofia,Bulgaria,False
+1994-10-12 00:00:00,Denmark,Belgium,3,1,UEFA Euro qualification,Copenhagen,Denmark,False
+1994-10-12 00:00:00,England,Romania,1,1,Friendly,London,England,False
+1994-10-12 00:00:00,Greece,Finland,4,0,UEFA Euro qualification,Salonica,Greece,False
+1994-10-12 00:00:00,Hungary,Germany,0,0,Friendly,Budapest,Hungary,False
+1994-10-12 00:00:00,Republic of Ireland,Liechtenstein,4,0,UEFA Euro qualification,Dublin,Republic of Ireland,False
+1994-10-12 00:00:00,Israel,Slovakia,2,2,UEFA Euro qualification,Ramat-Gan,Israel,False
+1994-10-12 00:00:00,North Macedonia,Spain,0,2,UEFA Euro qualification,Skopje,North Macedonia,False
+1994-10-12 00:00:00,Malta,Czech Republic,0,0,UEFA Euro qualification,Attard,Malta,False
+1994-10-12 00:00:00,Moldova,Wales,3,2,UEFA Euro qualification,Chi»ôinƒÉu,Moldova,False
+1994-10-12 00:00:00,Norway,Netherlands,1,1,UEFA Euro qualification,Oslo,Norway,False
+1994-10-12 00:00:00,Poland,Azerbaijan,1,0,UEFA Euro qualification,Mielec,Poland,False
+1994-10-12 00:00:00,Russia,San Marino,4,0,UEFA Euro qualification,Moscow,Russia,False
+1994-10-12 00:00:00,Scotland,Faroe Islands,5,1,UEFA Euro qualification,Glasgow,Scotland,False
+1994-10-12 00:00:00,Switzerland,Sweden,4,2,UEFA Euro qualification,Berne,Switzerland,False
+1994-10-12 00:00:00,Turkey,Iceland,5,0,UEFA Euro qualification,Istanbul,Turkey,False
+1994-10-12 00:00:00,Ukraine,Slovenia,0,0,UEFA Euro qualification,Kyiv,Ukraine,False
+1994-10-14 00:00:00,Algeria,Sudan,1,1,African Cup of Nations qualification,Algiers,Algeria,False
+1994-10-14 00:00:00,Egypt,Tanzania,5,1,African Cup of Nations qualification,Cairo,Egypt,False
+1994-10-14 00:00:00,Mauritania,Guinea-Bissau,1,1,African Cup of Nations qualification,Nouakchott,Mauritania,False
+1994-10-15 00:00:00,Malawi,Zimbabwe,3,1,African Cup of Nations qualification,Blantyre,Malawi,False
+1994-10-15 00:00:00,Namibia,Mali,2,1,African Cup of Nations qualification,Windhoek,Namibia,False
+1994-10-15 00:00:00,Uganda,Ethiopia,4,1,African Cup of Nations qualification,Kampala,Uganda,False
+1994-10-16 00:00:00,Cameroon,DR Congo,1,0,African Cup of Nations qualification,Douala,Cameroon,False
+1994-10-16 00:00:00,Guinea,Angola,3,1,African Cup of Nations qualification,Conakry,Guinea,False
+1994-10-16 00:00:00,Mozambique,Botswana,3,1,African Cup of Nations qualification,Maputo,Mozambique,False
+1994-10-16 00:00:00,Niger,Ghana,1,5,African Cup of Nations qualification,Niamey,Niger,False
+1994-10-16 00:00:00,Togo,Senegal,2,0,African Cup of Nations qualification,Lom√©,Togo,False
+1994-10-19 00:00:00,Peru,Uruguay,0,1,Friendly,Lima,Peru,False
+1994-10-19 00:00:00,Saudi Arabia,United States,2,1,Friendly,Khobar,Saudi Arabia,False
+1994-10-23 00:00:00,Oman,Senegal,0,1,Friendly,Muscat,Oman,False
+1994-10-25 00:00:00,Oman,Senegal,2,1,Friendly,Muscat,Oman,False
+1994-10-26 00:00:00,Estonia,Finland,0,7,Friendly,Tallinn,Estonia,False
+1994-10-26 00:00:00,Saudi Arabia,Trinidad and Tobago,1,0,Friendly,Riyadh,Saudi Arabia,False
+1994-10-28 00:00:00,United Arab Emirates,Senegal,3,2,Friendly,Abu Dhabi,United Arab Emirates,False
+1994-10-29 00:00:00,Kuwait,Iceland,0,1,Friendly,Al Ain,United Arab Emirates,True
+1994-11-03 00:00:00,United Arab Emirates,Qatar,2,0,Gulf Cup,Abu Dhabi,United Arab Emirates,False
+1994-11-04 00:00:00,Bahrain,Kuwait,2,1,Gulf Cup,Abu Dhabi,United Arab Emirates,True
+1994-11-04 00:00:00,Oman,Saudi Arabia,1,2,Gulf Cup,Abu Dhabi,United Arab Emirates,True
+1994-11-06 00:00:00,Latvia,Estonia,0,0,Friendly,Ozolnieki,Latvia,False
+1994-11-06 00:00:00,United Arab Emirates,Saudi Arabia,1,1,Gulf Cup,Abu Dhabi,United Arab Emirates,False
+1994-11-06 00:00:00,Oman,Bahrain,1,1,Gulf Cup,Abu Dhabi,United Arab Emirates,True
+1994-11-07 00:00:00,Kuwait,Qatar,1,0,Gulf Cup,Abu Dhabi,United Arab Emirates,True
+1994-11-07 00:00:00,Morocco,Cameroon,1,1,Friendly,Casablanca,Morocco,False
+1994-11-08 00:00:00,Tunisia,Ivory Coast,2,0,Friendly,Tunis,Tunisia,False
+1994-11-09 00:00:00,Qatar,Oman,4,2,Gulf Cup,Abu Dhabi,United Arab Emirates,True
+1994-11-09 00:00:00,United Arab Emirates,Kuwait,2,0,Gulf Cup,Abu Dhabi,United Arab Emirates,False
+1994-11-10 00:00:00,Saudi Arabia,Bahrain,3,1,Gulf Cup,Abu Dhabi,United Arab Emirates,True
+1994-11-11 00:00:00,Egypt,Ethiopia,5,0,African Cup of Nations qualification,Cairo,Egypt,False
+1994-11-11 00:00:00,Mauritania,Liberia,1,1,African Cup of Nations qualification,Nouakchott,Mauritania,False
+1994-11-12 00:00:00,Gambia,Ghana,1,2,African Cup of Nations qualification,Banjul,Gambia,False
+1994-11-12 00:00:00,Qatar,Saudi Arabia,1,2,Gulf Cup,Abu Dhabi,United Arab Emirates,True
+1994-11-12 00:00:00,Romania,Slovakia,3,2,UEFA Euro qualification,Bucharest,Romania,False
+1994-11-12 00:00:00,Tanzania,Sudan,2,0,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+1994-11-12 00:00:00,Uganda,Algeria,1,1,African Cup of Nations qualification,Kampala,Uganda,False
+1994-11-12 00:00:00,United Arab Emirates,Bahrain,0,0,Gulf Cup,Abu Dhabi,United Arab Emirates,False
+1994-11-13 00:00:00,Gabon,Mauritius,3,0,African Cup of Nations qualification,Libreville,Gabon,False
+1994-11-13 00:00:00,Guinea-Bissau,Senegal,1,4,African Cup of Nations qualification,Bissau,Guinea-Bissau,False
+1994-11-13 00:00:00,Lesotho,Cameroon,2,0,African Cup of Nations qualification,Maseru,Lesotho,False
+1994-11-13 00:00:00,Mali,Angola,0,0,African Cup of Nations qualification,Bamako,Mali,False
+1994-11-13 00:00:00,Morocco,Ivory Coast,1,0,African Cup of Nations qualification,Casablanca,Morocco,False
+1994-11-13 00:00:00,Mozambique,Guinea,2,1,African Cup of Nations qualification,Maputo,Mozambique,False
+1994-11-13 00:00:00,Niger,Sierra Leone,4,2,African Cup of Nations qualification,Niamey,Niger,False
+1994-11-13 00:00:00,Oman,Kuwait,0,0,Gulf Cup,Abu Dhabi,United Arab Emirates,True
+1994-11-13 00:00:00,Portugal,Austria,1,0,UEFA Euro qualification,Lisbon,Portugal,False
+1994-11-13 00:00:00,Ukraine,Estonia,3,0,UEFA Euro qualification,Kyiv,Ukraine,False
+1994-11-13 00:00:00,Zambia,South Africa,1,1,African Cup of Nations qualification,Lusaka,Zambia,False
+1994-11-13 00:00:00,Zimbabwe,DR Congo,2,1,African Cup of Nations qualification,Harare,Zimbabwe,False
+1994-11-15 00:00:00,Bahrain,Qatar,1,1,Gulf Cup,Abu Dhabi,United Arab Emirates,True
+1994-11-15 00:00:00,Grenada,Trinidad and Tobago,1,2,Friendly,St. George's,Grenada,False
+1994-11-15 00:00:00,Liechtenstein,Latvia,0,1,UEFA Euro qualification,Eschen,Liechtenstein,False
+1994-11-16 00:00:00,Albania,Germany,1,2,UEFA Euro qualification,Tirana,Albania,False
+1994-11-16 00:00:00,Azerbaijan,Israel,0,2,UEFA Euro qualification,Trabzon,Turkey,True
+1994-11-16 00:00:00,Belarus,Norway,0,4,UEFA Euro qualification,Minsk,Belarus,False
+1994-11-16 00:00:00,Belgium,North Macedonia,1,1,UEFA Euro qualification,Brussels,Belgium,False
+1994-11-16 00:00:00,Bulgaria,Moldova,4,1,UEFA Euro qualification,Sofia,Bulgaria,False
+1994-11-16 00:00:00,Chile,Argentina,0,3,Friendly,Santiago,Chile,False
+1994-11-16 00:00:00,Cyprus,Armenia,2,0,UEFA Euro qualification,Limassol,Cyprus,False
+1994-11-16 00:00:00,England,Nigeria,1,0,Friendly,London,England,False
+1994-11-16 00:00:00,Finland,Faroe Islands,5,0,UEFA Euro qualification,Helsinki,Finland,False
+1994-11-16 00:00:00,Georgia,Wales,5,0,UEFA Euro qualification,Tbilisi,Georgia,False
+1994-11-16 00:00:00,Greece,San Marino,2,0,UEFA Euro qualification,Athens,Greece,False
+1994-11-16 00:00:00,Italy,Croatia,1,2,UEFA Euro qualification,Palermo,Italy,False
+1994-11-16 00:00:00,Kuwait,Saudi Arabia,0,2,Gulf Cup,Abu Dhabi,United Arab Emirates,True
+1994-11-16 00:00:00,Netherlands,Czech Republic,0,0,UEFA Euro qualification,Rotterdam,Netherlands,False
+1994-11-16 00:00:00,Northern Ireland,Republic of Ireland,0,4,UEFA Euro qualification,Belfast,Northern Ireland,False
+1994-11-16 00:00:00,Poland,France,0,0,UEFA Euro qualification,Zabrze,Poland,False
+1994-11-16 00:00:00,Scotland,Russia,1,1,UEFA Euro qualification,Glasgow,Scotland,False
+1994-11-16 00:00:00,Slovenia,Lithuania,1,2,UEFA Euro qualification,Maribor,Slovenia,False
+1994-11-16 00:00:00,Spain,Denmark,3,0,UEFA Euro qualification,Seville,Spain,False
+1994-11-16 00:00:00,Sweden,Hungary,2,0,UEFA Euro qualification,Solna,Sweden,False
+1994-11-16 00:00:00,Switzerland,Iceland,1,0,UEFA Euro qualification,Lausanne,Switzerland,False
+1994-11-16 00:00:00,United Arab Emirates,Oman,2,0,Gulf Cup,Abu Dhabi,United Arab Emirates,False
+1994-11-19 00:00:00,Trinidad and Tobago,United States,1,0,Friendly,Port of Spain,Trinidad and Tobago,False
+1994-11-20 00:00:00,Gabon,Zambia,2,1,African Cup of Nations qualification,Libreville,Gabon,False
+1994-11-22 00:00:00,Jamaica,United States,0,3,Friendly,Kingston,Jamaica,False
+1994-11-24 00:00:00,Samoa,American Samoa,3,1,Oceania Nations Cup qualification,Apia,Western Samoa,False
+1994-11-24 00:00:00,Tahiti,Tonga,1,0,Oceania Nations Cup qualification,Apia,Western Samoa,True
+1994-11-25 00:00:00,Samoa,Tonga,2,2,Oceania Nations Cup qualification,Apia,Western Samoa,False
+1994-11-25 00:00:00,Tahiti,American Samoa,2,1,Oceania Nations Cup qualification,Apia,Western Samoa,True
+1994-11-26 00:00:00,Cameroon,Ivory Coast,1,2,Simba Tournament,Pretoria,South Africa,True
+1994-11-26 00:00:00,Kenya,Somalia,3,1,CECAFA Cup,Nairobi,Kenya,False
+1994-11-28 00:00:00,Kenya,Djibouti,4,1,CECAFA Cup,Nairobi,Kenya,False
+1994-11-28 00:00:00,Samoa,Tahiti,0,7,Oceania Nations Cup qualification,Apia,Western Samoa,False
+1994-11-28 00:00:00,Tonga,American Samoa,2,1,Oceania Nations Cup qualification,Apia,Western Samoa,True
+1994-11-29 00:00:00,Israel,Cyprus,4,3,Friendly,Jerusalem,Israel,False
+1994-11-29 00:00:00,Tanzania,Somalia,4,0,CECAFA Cup,Nairobi,Kenya,True
+1994-11-30 00:00:00,Cameroon,Ghana,0,1,Simba Tournament,Port Elizabeth,South Africa,True
+1994-11-30 00:00:00,South Africa,Ivory Coast,0,0,Simba Tournament,Port Elizabeth,South Africa,False
+1994-11-30 00:00:00,Spain,Finland,2,0,Friendly,M√°laga,Spain,False
+1994-12-01 00:00:00,Kenya,Tanzania,0,1,CECAFA Cup,Nairobi,Kenya,False
+1994-12-01 00:00:00,Somalia,Djibouti,2,1,CECAFA Cup,Nairobi,Kenya,True
+1994-12-01 00:00:00,Uganda,Seychelles,2,0,CECAFA Cup,Nairobi,Kenya,True
+1994-12-03 00:00:00,Tanzania,Djibouti,3,0,CECAFA Cup,Nairobi,Kenya,True
+1994-12-03 00:00:00,Uganda,Eritrea,0,0,CECAFA Cup,Nairobi,Kenya,True
+1994-12-04 00:00:00,Ghana,Ivory Coast,1,1,Simba Tournament,Johannesburg,South Africa,True
+1994-12-04 00:00:00,South Africa,Cameroon,1,1,Simba Tournament,Johannesburg,South Africa,False
+1994-12-04 00:00:00,Togo,Burkina Faso,2,0,Friendly,Lom√©,Togo,False
+1994-12-05 00:00:00,Kenya,Uganda,0,1,CECAFA Cup,Nairobi,Kenya,False
+1994-12-05 00:00:00,Tanzania,Eritrea,1,0,CECAFA Cup,Nairobi,Kenya,True
+1994-12-08 00:00:00,Kenya,Eritrea,1,0,CECAFA Cup,Nairobi,Kenya,False
+1994-12-08 00:00:00,Saudi Arabia,Poland,0,2,Friendly,Riyadh,Saudi Arabia,False
+1994-12-08 00:00:00,Tanzania,Uganda,2,2,Friendly,Nairobi,Kenya,True
+1994-12-10 00:00:00,Namibia,Ivory Coast,2,1,Friendly,Windhoek,Namibia,False
+1994-12-10 00:00:00,Saudi Arabia,Poland,1,2,Friendly,Riyadh,Saudi Arabia,False
+1994-12-11 00:00:00,United States,Honduras,1,1,Friendly,Fullerton,United States,False
+1994-12-14 00:00:00,Albania,Georgia,0,1,UEFA Euro qualification,Tirana,Albania,False
+1994-12-14 00:00:00,Finland,San Marino,4,1,UEFA Euro qualification,Helsinki,Finland,False
+1994-12-14 00:00:00,Israel,Romania,1,1,UEFA Euro qualification,Ramat-Gan,Israel,False
+1994-12-14 00:00:00,Malta,Norway,0,1,UEFA Euro qualification,Attard,Malta,False
+1994-12-14 00:00:00,Mexico,Hungary,5,1,Friendly,Mexico City,Mexico,False
+1994-12-14 00:00:00,Moldova,Germany,0,3,UEFA Euro qualification,Chi»ôinƒÉu,Moldova,False
+1994-12-14 00:00:00,Netherlands,Luxembourg,5,0,UEFA Euro qualification,Rotterdam,Netherlands,False
+1994-12-14 00:00:00,Turkey,Switzerland,1,2,UEFA Euro qualification,Istanbul,Turkey,False
+1994-12-14 00:00:00,Wales,Bulgaria,0,3,UEFA Euro qualification,Cardiff,Wales,False
+1994-12-16 00:00:00,Tunisia,Algeria,1,0,Friendly,Sfax,Tunisia,False
+1994-12-17 00:00:00,Belgium,Spain,1,4,UEFA Euro qualification,Brussels,Belgium,False
+1994-12-17 00:00:00,North Macedonia,Cyprus,3,0,UEFA Euro qualification,Skopje,North Macedonia,False
+1994-12-17 00:00:00,Saudi Arabia,Costa Rica,1,3,Friendly,Riyadh,Saudi Arabia,False
+1994-12-18 00:00:00,Cameroon,Togo,1,1,Friendly,Douala,Cameroon,False
+1994-12-18 00:00:00,Germany,Albania,2,1,UEFA Euro qualification,Kaiserslautern,Germany,False
+1994-12-18 00:00:00,Greece,Scotland,1,0,UEFA Euro qualification,Athens,Greece,False
+1994-12-18 00:00:00,Portugal,Liechtenstein,8,0,UEFA Euro qualification,Lisbon,Portugal,False
+1994-12-21 00:00:00,Italy,Turkey,3,1,Friendly,Pescara,Italy,False
+1994-12-23 00:00:00,Brazil,Serbia,2,0,Friendly,Porto Alegre,Brazil,False
+1994-12-23 00:00:00,Basque Country,Russia,1,0,Friendly,Bilbao,Spain,False
+1994-12-25 00:00:00,Mali,Mauritania,0,0,Friendly,Bamako,Mali,False
+1994-12-27 00:00:00,Argentina,Serbia,1,0,Friendly,Buenos Aires,Argentina,False
+1994-12-29 00:00:00,Liberia,Guinea,0,0,Friendly,Monrovia,Liberia,False
+1994-12-29 00:00:00,Mali,Mauritania,0,0,Friendly,Bamako,Mali,False
+1994-12-29 00:00:00,Saudi Arabia,Zambia,1,0,Friendly,Riyadh,Saudi Arabia,False
+1995-01-01 00:00:00,Guinea,Sierra Leone,3,1,Friendly,Conakry,Guinea,False
+1995-01-02 00:00:00,Mali,Mauritania,0,1,Friendly,Bamako,Mali,False
+1995-01-02 00:00:00,Tunisia,Egypt,2,0,Friendly,Sousse,Tunisia,False
+1995-01-04 00:00:00,Vietnam,Estonia,1,0,Friendly,Ho Chi Minh City,Vietnam,False
+1995-01-06 00:00:00,Japan,Nigeria,0,3,Confederations Cup,Riyadh,Saudi Arabia,True
+1995-01-06 00:00:00,Saudi Arabia,Mexico,0,2,Confederations Cup,Riyadh,Saudi Arabia,False
+1995-01-07 00:00:00,Senegal,Tunisia,0,0,African Cup of Nations qualification,Ziguinchor,Senegal,False
+1995-01-07 00:00:00,Sierra Leone,Gambia,2,0,African Cup of Nations qualification,Freetown,Sierra Leone,False
+1995-01-08 00:00:00,Angola,Mozambique,1,0,African Cup of Nations qualification,Luanda,Angola,False
+1995-01-08 00:00:00,Cameroon,Malawi,0,0,African Cup of Nations qualification,Yaound√©,Cameroon,False
+1995-01-08 00:00:00,Congo,Niger,3,1,African Cup of Nations qualification,Brazzaville,Congo,False
+1995-01-08 00:00:00,DR Congo,Lesotho,3,0,African Cup of Nations qualification,Kinshasa,Za√Øre,False
+1995-01-08 00:00:00,Ethiopia,Tanzania,1,0,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+1995-01-08 00:00:00,Guinea,Namibia,3,0,African Cup of Nations qualification,Conakry,Guinea,False
+1995-01-08 00:00:00,Japan,Argentina,1,5,Confederations Cup,Riyadh,Saudi Arabia,True
+1995-01-08 00:00:00,Saudi Arabia,Denmark,0,2,Confederations Cup,Riyadh,Saudi Arabia,False
+1995-01-08 00:00:00,Togo,Mauritania,0,0,African Cup of Nations qualification,Lom√©,Togo,False
+1995-01-09 00:00:00,Mauritius,Zambia,0,3,African Cup of Nations qualification,Port Louis,Mauritius,False
+1995-01-10 00:00:00,Denmark,Mexico,1,1,Confederations Cup,Riyadh,Saudi Arabia,True
+1995-01-10 00:00:00,Nigeria,Argentina,0,0,Confederations Cup,Riyadh,Saudi Arabia,True
+1995-01-13 00:00:00,Denmark,Argentina,2,0,Confederations Cup,Riyadh,Saudi Arabia,True
+1995-01-13 00:00:00,Mexico,Nigeria,1,1,Confederations Cup,Riyadh,Saudi Arabia,True
+1995-01-15 00:00:00,Ivory Coast,Togo,0,0,Friendly,Bouak√©,Ivory Coast,False
+1995-01-18 00:00:00,Netherlands,France,0,1,Friendly,Utrecht,Netherlands,False
+1995-01-18 00:00:00,Spain,Uruguay,2,2,Friendly,La Coru√±a,Spain,False
+1995-01-21 00:00:00,Tanzania,Algeria,2,1,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+1995-01-21 00:00:00,Uganda,Egypt,0,0,African Cup of Nations qualification,Kampala,Uganda,False
+1995-01-22 00:00:00,Botswana,Angola,1,2,African Cup of Nations qualification,Gaborone,Botswana,False
+1995-01-22 00:00:00,Ethiopia,Sudan,2,0,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+1995-01-22 00:00:00,Ghana,Congo,3,1,African Cup of Nations qualification,Accra,Ghana,False
+1995-01-22 00:00:00,Ivory Coast,Burkina Faso,2,2,African Cup of Nations qualification,Abidjan,Ivory Coast,False
+1995-01-22 00:00:00,Lesotho,Malawi,0,2,African Cup of Nations qualification,Maseru,Lesotho,False
+1995-01-22 00:00:00,Liberia,Senegal,1,1,African Cup of Nations qualification,Monrovia,Liberia,False
+1995-01-22 00:00:00,Mozambique,Namibia,4,2,African Cup of Nations qualification,Maputo,Mozambique,False
+1995-01-22 00:00:00,Niger,Gambia,1,1,African Cup of Nations qualification,Niamey,Niger,False
+1995-01-22 00:00:00,Zimbabwe,Cameroon,4,1,African Cup of Nations qualification,Harare,Zimbabwe,False
+1995-01-25 00:00:00,Cyprus,Greece,2,3,Friendly,Larnaca,Cyprus,False
+1995-01-26 00:00:00,Canada,Portugal,1,1,Friendly,Toronto,Canada,False
+1995-01-29 00:00:00,Tunisia,Mauritania,1,0,African Cup of Nations qualification,Tunis,Tunisia,False
+1995-01-31 00:00:00,South Korea,Colombia,1,0,Lunar New Year Cup,So Kon Po,Hong Kong,True
+1995-02-01 00:00:00,Mexico,Uruguay,1,0,Friendly,San Diego,United States,True
+1995-02-04 00:00:00,South Korea,Serbia,0,1,Lunar New Year Cup,So Kon Po,Hong Kong,True
+1995-02-06 00:00:00,Estonia,Norway,0,7,Friendly,Larnaca,Cyprus,True
+1995-02-08 00:00:00,Cyprus,Norway,0,2,Friendly,Nicosia,Cyprus,False
+1995-02-08 00:00:00,Greece,Romania,1,0,Friendly,Kalam√°ta,Greece,False
+1995-02-10 00:00:00,Tunisia,Liberia,0,0,African Cup of Nations qualification,Tunis,Tunisia,False
+1995-02-11 00:00:00,Australia,Colombia,0,1,Friendly,Sydney,Australia,False
+1995-02-14 00:00:00,Argentina,Bulgaria,4,1,Friendly,Mendoza,Argentina,False
+1995-02-14 00:00:00,Israel,Luxembourg,4,2,Friendly,Ashdod,Israel,False
+1995-02-15 00:00:00,Australia,Japan,2,1,Friendly,Sydney,Australia,False
+1995-02-15 00:00:00,Cyprus,Estonia,3,1,Friendly,Limassol,Cyprus,False
+1995-02-15 00:00:00,Republic of Ireland,England,1,0,Friendly,Dublin,Republic of Ireland,False
+1995-02-15 00:00:00,Trinidad and Tobago,Finland,2,1,Friendly,Port of Spain,Trinidad and Tobago,False
+1995-02-15 00:00:00,Turkey,Romania,1,1,Friendly,ƒ∞zmir,Turkey,False
+1995-02-17 00:00:00,Trinidad and Tobago,Finland,2,2,Friendly,Port of Spain,Trinidad and Tobago,False
+1995-02-19 00:00:00,China PR,South Korea,0,0,Dynasty Cup,Victoria,Hong Kong,True
+1995-02-19 00:00:00,Hong Kong,Japan,0,3,Dynasty Cup,Victoria,Hong Kong,False
+1995-02-21 00:00:00,Hong Kong,China PR,0,0,Dynasty Cup,Victoria,Hong Kong,False
+1995-02-21 00:00:00,Japan,South Korea,1,1,Dynasty Cup,Victoria,Hong Kong,True
+1995-02-21 00:00:00,New Zealand,Singapore,3,0,Friendly,Tauranga,New Zealand,False
+1995-02-22 00:00:00,Brazil,Slovakia,5,0,Friendly,Fortaleza,Brazil,False
+1995-02-22 00:00:00,Malta,Luxembourg,0,1,UEFA Euro qualification,Attard,Malta,False
+1995-02-22 00:00:00,Netherlands,Portugal,0,1,Friendly,Eindhoven,Netherlands,False
+1995-02-22 00:00:00,Spain,Germany,0,0,Friendly,Jerez de la Frontera,Spain,False
+1995-02-22 00:00:00,Thailand,Japan,3,2,King's Cup,Bangkok,Thailand,False
+1995-02-23 00:00:00,China PR,Japan,1,2,Dynasty Cup,Victoria,Hong Kong,True
+1995-02-23 00:00:00,Hong Kong,South Korea,2,3,Dynasty Cup,Victoria,Hong Kong,False
+1995-02-26 00:00:00,Hong Kong,China PR,1,1,Dynasty Cup,Victoria,Hong Kong,False
+1995-02-26 00:00:00,Japan,South Korea,2,2,Dynasty Cup,Victoria,Hong Kong,True
+1995-03-01 00:00:00,Morocco,Senegal,2,0,Friendly,Casablanca,Morocco,False
+1995-03-08 00:00:00,Cyprus,Sweden,3,3,Friendly,Limassol,Cyprus,False
+1995-03-08 00:00:00,Czech Republic,Finland,4,1,Friendly,Brno,Czech Republic,False
+1995-03-08 00:00:00,Greece,Switzerland,1,1,Friendly,Athens,Greece,False
+1995-03-08 00:00:00,Hungary,Latvia,3,1,Friendly,Budapest,Hungary,False
+1995-03-08 00:00:00,Iraq,Uzbekistan,3,1,Nehru Cup,Calcutta,India,True
+1995-03-08 00:00:00,Slovakia,Russia,2,1,Friendly,Ko≈°ice,Slovakia,False
+1995-03-08 00:00:00,Turkey,Israel,2,1,Friendly,Istanbul,Turkey,False
+1995-03-10 00:00:00,India,Thailand,0,5,Nehru Cup,Calcutta,India,False
+1995-03-12 00:00:00,Barbados,Saint Kitts and Nevis,0,1,Friendly,Bridgetown,Barbados,False
+1995-03-12 00:00:00,India,Iraq,1,1,Nehru Cup,Calcutta,India,False
+1995-03-12 00:00:00,Jamaica,Cuba,0,0,Friendly,Kingston,Jamaica,False
+1995-03-14 00:00:00,India,Uzbekistan,1,0,Nehru Cup,Calcutta,India,False
+1995-03-14 00:00:00,Iraq,Thailand,3,1,Nehru Cup,Calcutta,India,True
+1995-03-15 00:00:00,Poland,Lithuania,4,1,Friendly,Ostrowiec ≈öwiƒôtokrzyski,Poland,False
+1995-03-16 00:00:00,Thailand,Uzbekistan,0,1,Nehru Cup,Calcutta,India,True
+1995-03-19 00:00:00,Sint Maarten,Saint Kitts and Nevis,0,2,CFU Caribbean Cup qualification,Philipsburg,Sint Maarten,False
+1995-03-21 00:00:00,Grenada,Saint Lucia,2,0,CFU Caribbean Cup qualification,St. George's,Grenada,False
+1995-03-22 00:00:00,Colombia,Uruguay,2,1,Friendly,Medell√≠n,Colombia,False
+1995-03-23 00:00:00,Morocco,Mali,3,0,Friendly,Casablanca,Morocco,False
+1995-03-24 00:00:00,Tahiti,Fiji,3,3,Friendly,Papeete,French Polynesia,False
+1995-03-25 00:00:00,Croatia,Ukraine,4,0,UEFA Euro qualification,Zagreb,Croatia,False
+1995-03-25 00:00:00,Italy,Estonia,4,1,UEFA Euro qualification,Salerno,Italy,False
+1995-03-25 00:00:00,Nepal,Bangladesh,0,2,SAFF Cup,Colombo,Sri Lanka,True
+1995-03-25 00:00:00,Pakistan,Bangladesh,1,0,SAFF Cup,Colombo,Sri Lanka,True
+1995-03-25 00:00:00,United States,Uruguay,2,2,Friendly,Dallas,United States,False
+1995-03-26 00:00:00,Barbados,Guyana,3,0,CFU Caribbean Cup qualification,Bridgetown,Barbados,False
+1995-03-26 00:00:00,Lebanon,Egypt,1,1,Friendly,Beirut,Lebanon,False
+1995-03-26 00:00:00,Montserrat,Anguilla,3,2,CFU Caribbean Cup qualification,Plymouth,Montserrat,False
+1995-03-26 00:00:00,Saint Kitts and Nevis,Sint Maarten,0,1,CFU Caribbean Cup qualification,Basseterre,Saint Kitts and Nevis,False
+1995-03-29 00:00:00,Albania,Moldova,3,0,UEFA Euro qualification,Tirana,Albania,False
+1995-03-29 00:00:00,Austria,Latvia,5,0,UEFA Euro qualification,Salzburg,Austria,False
+1995-03-29 00:00:00,Brazil,Honduras,1,1,Friendly,Goi√¢nia,Brazil,False
+1995-03-29 00:00:00,Bulgaria,Wales,3,1,UEFA Euro qualification,Sofia,Bulgaria,False
+1995-03-29 00:00:00,Cyprus,Denmark,1,1,UEFA Euro qualification,Limassol,Cyprus,False
+1995-03-29 00:00:00,Czech Republic,Belarus,4,2,UEFA Euro qualification,Ostrava,Czech Republic,False
+1995-03-29 00:00:00,England,Uruguay,0,0,Friendly,London,England,False
+1995-03-29 00:00:00,Georgia,Germany,0,2,UEFA Euro qualification,Tbilisi,Georgia,False
+1995-03-29 00:00:00,Hungary,Switzerland,2,2,UEFA Euro qualification,Budapest,Hungary,False
+1995-03-29 00:00:00,Republic of Ireland,Northern Ireland,1,1,UEFA Euro qualification,Dublin,Republic of Ireland,False
+1995-03-29 00:00:00,Israel,France,0,0,UEFA Euro qualification,Ramat-Gan,Israel,False
+1995-03-29 00:00:00,Lithuania,Croatia,0,0,UEFA Euro qualification,Vilnius,Lithuania,False
+1995-03-29 00:00:00,Luxembourg,Norway,0,2,UEFA Euro qualification,Luxembourg,Luxembourg,False
+1995-03-29 00:00:00,Mexico,Chile,1,2,Friendly,Los Angeles,United States,True
+1995-03-29 00:00:00,Nepal,Pakistan,2,0,SAFF Cup,Colombo,Sri Lanka,True
+1995-03-29 00:00:00,Netherlands,Malta,4,0,UEFA Euro qualification,Rotterdam,Netherlands,False
+1995-03-29 00:00:00,Romania,Poland,2,1,UEFA Euro qualification,Bucharest,Romania,False
+1995-03-29 00:00:00,Russia,Scotland,0,0,UEFA Euro qualification,Moscow,Russia,False
+1995-03-29 00:00:00,San Marino,Finland,0,2,UEFA Euro qualification,Serravalle,San Marino,False
+1995-03-29 00:00:00,Slovakia,Azerbaijan,4,1,UEFA Euro qualification,Ko≈°ice,Slovakia,False
+1995-03-29 00:00:00,Slovenia,Estonia,3,0,UEFA Euro qualification,Maribor,Slovenia,False
+1995-03-29 00:00:00,Spain,Belgium,1,1,UEFA Euro qualification,Seville,Spain,False
+1995-03-29 00:00:00,Sri Lanka,India,2,2,SAFF Cup,Colombo,Sri Lanka,False
+1995-03-29 00:00:00,Turkey,Sweden,2,1,UEFA Euro qualification,Istanbul,Turkey,False
+1995-03-29 00:00:00,Ukraine,Italy,0,2,UEFA Euro qualification,Kyiv,Ukraine,False
+1995-03-30 00:00:00,Tahiti,Fiji,3,0,Friendly,Papeete,French Polynesia,False
+1995-03-31 00:00:00,India,Bangladesh,0,0,SAFF Cup,Colombo,Sri Lanka,True
+1995-03-31 00:00:00,Serbia,Uruguay,1,0,Friendly,Belgrade,Yugoslavia,False
+1995-03-31 00:00:00,Sri Lanka,Nepal,2,1,SAFF Cup,Colombo,Sri Lanka,False
+1995-03-31 00:00:00,Syria,Egypt,1,2,Friendly,Damascus,Syria,False
+1995-04-02 00:00:00,Anguilla,Montserrat,0,1,CFU Caribbean Cup qualification,The Valley,Anguilla,False
+1995-04-02 00:00:00,Gabon,Benin,7,0,Friendly,Libreville,Gabon,False
+1995-04-02 00:00:00,Guyana,Barbados,0,4,CFU Caribbean Cup qualification,Georgetown,Guyana,False
+1995-04-02 00:00:00,Sri Lanka,India,1,0,SAFF Cup,Colombo,Sri Lanka,False
+1995-04-03 00:00:00,Bolivia,Venezuela,0,0,Friendly,Sucre,Bolivia,False
+1995-04-05 00:00:00,Uruguay,Peru,1,0,Friendly,Montevideo,Uruguay,False
+1995-04-07 00:00:00,Mauritania,Senegal,0,1,African Cup of Nations qualification,Nouakchott,Mauritania,False
+1995-04-08 00:00:00,Sierra Leone,Ghana,1,0,African Cup of Nations qualification,Freetown,Sierra Leone,False
+1995-04-08 00:00:00,Uganda,Tanzania,2,0,African Cup of Nations qualification,Kampala,Uganda,False
+1995-04-08 00:00:00,Zambia,Gabon,1,0,African Cup of Nations qualification,Lusaka,Zambia,False
+1995-04-09 00:00:00,Gambia,Congo,1,1,African Cup of Nations qualification,Banjul,Gambia,False
+1995-04-09 00:00:00,Guinea,Botswana,5,0,African Cup of Nations qualification,Conakry,Guinea,False
+1995-04-09 00:00:00,Lesotho,Zimbabwe,0,2,African Cup of Nations qualification,Maseru,Lesotho,False
+1995-04-09 00:00:00,Malawi,DR Congo,0,1,African Cup of Nations qualification,Lilongwe,Malawi,False
+1995-04-09 00:00:00,Morocco,Burkina Faso,0,0,African Cup of Nations qualification,Casablanca,Morocco,False
+1995-04-09 00:00:00,Mozambique,Mali,1,0,African Cup of Nations qualification,Maputo,Mozambique,False
+1995-04-09 00:00:00,Saint Lucia,Grenada,4,0,CFU Caribbean Cup qualification,Castries,Saint Lucia,False
+1995-04-09 00:00:00,Togo,Liberia,0,0,African Cup of Nations qualification,Lom√©,Togo,False
+1995-04-12 00:00:00,North Macedonia,Bulgaria,0,0,Friendly,Strumica,North Macedonia,False
+1995-04-14 00:00:00,Egypt,Tunisia,1,0,Friendly,Port Said,Egypt,False
+1995-04-19 00:00:00,Peru,Chile,6,0,Friendly,Lima,Peru,False

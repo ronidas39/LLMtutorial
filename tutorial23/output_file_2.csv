@@ -1,0 +1,1001 @@
+date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
+1937-06-25 00:00:00,Latvia,Germany,1,3,Friendly,Riga,Latvia,False
+1937-06-27 00:00:00,Romania,Sweden,2,2,Friendly,Bucharest,Romania,False
+1937-06-29 00:00:00,Finland,Germany,0,2,FIFA World Cup qualification,Helsinki,Finland,False
+1937-07-04 00:00:00,Poland,Romania,2,4,Friendly,≈Å√≥d≈∫,Poland,False
+1937-07-14 00:00:00,Estonia,Romania,2,1,Friendly,Tallinn,Estonia,False
+1937-07-29 00:00:00,Latvia,Lithuania,4,2,FIFA World Cup qualification,Riga,Latvia,False
+1937-08-01 00:00:00,Yugoslavia,Turkey,3,1,Friendly,Belgrade,Yugoslavia,False
+1937-08-19 00:00:00,Finland,Estonia,0,1,FIFA World Cup qualification,Turku,Finland,False
+1937-08-22 00:00:00,Norway,Basque Country,1,3,Friendly,Oslo,Norway,False
+1937-08-29 00:00:00,Germany,Estonia,4,1,FIFA World Cup qualification,K√∂nigsberg,Germany,False
+1937-08-29 00:00:00,Denmark,Basque Country,1,11,Friendly,Copenhagen,Denmark,False
+1937-09-03 00:00:00,Lithuania,Latvia,1,5,FIFA World Cup qualification,Kaunas,Lithuania,False
+1937-09-04 00:00:00,Estonia,Latvia,1,1,Baltic Cup,Kaunas,Lithuania,True
+1937-09-05 00:00:00,Finland,Norway,0,2,Nordic Championship,Helsinki,Finland,False
+1937-09-05 00:00:00,Lithuania,Estonia,0,4,Baltic Cup,Kaunas,Lithuania,False
+1937-09-07 00:00:00,Estonia,Latvia,0,2,Baltic Cup,Kaunas,Lithuania,True
+1937-09-12 00:00:00,Bulgaria,Poland,3,3,Friendly,Sofia,Bulgaria,False
+1937-09-12 00:00:00,Mexico,United States,7,2,Friendly,Mexico City,Mexico,False
+1937-09-12 00:00:00,Poland,Denmark,3,1,Friendly,Warsaw,Poland,False
+1937-09-19 00:00:00,Austria,Switzerland,4,3,International Cup,Vienna,Austria,False
+1937-09-19 00:00:00,Hungary,Czechoslovakia,8,3,International Cup,Budapest,Hungary,False
+1937-09-19 00:00:00,Latvia,Estonia,3,1,Friendly,Riga,Latvia,False
+1937-09-19 00:00:00,Mexico,United States,7,3,Friendly,Mexico City,Mexico,False
+1937-09-19 00:00:00,Norway,Sweden,3,2,Nordic Championship,Oslo,Norway,False
+1937-10-03 00:00:00,Czechoslovakia,Yugoslavia,5,4,Friendly,Prague,Czechoslovakia,False
+1937-10-03 00:00:00,Sweden,Denmark,1,2,Nordic Championship,Solna,Sweden,False
+1937-10-05 00:00:00,Austria,Latvia,2,1,FIFA World Cup qualification,Vienna,Austria,False
+1937-10-10 00:00:00,Austria,Hungary,1,2,International Cup,Vienna,Austria,False
+1937-10-10 00:00:00,France,Switzerland,2,1,Friendly,Paris,France,False
+1937-10-10 00:00:00,Norway,Republic of Ireland,3,2,FIFA World Cup qualification,Oslo,Norway,False
+1937-10-10 00:00:00,Poland,Yugoslavia,4,0,FIFA World Cup qualification,Warsaw,Poland,False
+1937-10-10 00:00:00,Poland,Latvia,2,1,Friendly,Katowice,Poland,False
+1937-10-10 00:00:00,Uruguay,Argentina,0,3,Copa Newton,Montevideo,Uruguay,False
+1937-10-11 00:00:00,El Salvador,Honduras,3,2,Friendly,San Salvador,El Salvador,False
+1937-10-13 00:00:00,Czechoslovakia,Latvia,4,0,Friendly,Prague,Czechoslovakia,False
+1937-10-17 00:00:00,Denmark,Finland,2,1,Nordic Championship,Copenhagen,Denmark,False
+1937-10-23 00:00:00,Northern Ireland,England,1,5,British Championship,Belfast,Northern Ireland,False
+1937-10-24 00:00:00,Czechoslovakia,Austria,2,1,International Cup,Prague,Czechoslovakia,False
+1937-10-24 00:00:00,Germany,Norway,3,0,Friendly,Berlin,Germany,False
+1937-10-30 00:00:00,Wales,Scotland,2,1,British Championship,Cardiff,Wales,False
+1937-10-31 00:00:00,Netherlands,France,2,3,Friendly,Amsterdam,Netherlands,False
+1937-10-31 00:00:00,Switzerland,Italy,2,2,International Cup,Geneva,Switzerland,False
+1937-11-07 00:00:00,Bulgaria,Czechoslovakia,1,1,FIFA World Cup qualification,Sofia,Bulgaria,False
+1937-11-07 00:00:00,Republic of Ireland,Norway,3,3,FIFA World Cup qualification,Dublin,Irish Free State,True
+1937-11-10 00:00:00,Scotland,Northern Ireland,1,1,British Championship,Aberdeen,Scotland,False
+1937-11-11 00:00:00,Argentina,Uruguay,5,1,Copa Lipton,Avellaneda,Argentina,False
+1937-11-14 00:00:00,Hungary,Switzerland,2,0,International Cup,Budapest,Hungary,False
+1937-11-17 00:00:00,England,Wales,2,1,British Championship,Middlesbrough,England,False
+1937-11-21 00:00:00,Germany,Sweden,5,0,FIFA World Cup qualification,Altona,Germany,False
+1937-11-28 00:00:00,Netherlands,Luxembourg,4,0,FIFA World Cup qualification,Rotterdam,Netherlands,False
+1937-11-28 00:00:00,Spain,Portugal,1,2,Friendly,Vigo,Spain,False
+1937-11-28 00:00:00,Mexico,Basque Country,1,4,Friendly,Mexico City,Mexico,False
+1937-12-01 00:00:00,England,Czechoslovakia,5,4,Friendly,London,England,False
+1937-12-05 00:00:00,France,Italy,0,0,Friendly,Paris,France,False
+1937-12-05 00:00:00,Mexico,Basque Country,1,2,Friendly,Mexico City,Mexico,False
+1937-12-08 00:00:00,Scotland,Czechoslovakia,5,0,Friendly,Glasgow,Scotland,False
+1937-12-12 00:00:00,Mexico,Basque Country,0,4,Friendly,Mexico City,Mexico,False
+1938-01-09 00:00:00,Dominica,Saint Lucia,4,1,Friendly,Roseau,Dominica,False
+1938-01-09 00:00:00,Portugal,Hungary,4,0,Friendly,Lisbon,Portugal,False
+1938-01-09 00:00:00,Mexico,Basque Country,3,1,Friendly,Mexico City,Mexico,False
+1938-01-10 00:00:00,Dominica,Saint Lucia,1,3,Friendly,Roseau,Dominica,False
+1938-01-11 00:00:00,Dominica,Saint Lucia,1,0,Friendly,Roseau,Dominica,False
+1938-01-16 00:00:00,Luxembourg,Hungary,0,6,Friendly,Luxembourg,Luxembourg,False
+1938-01-22 00:00:00,Israel,Greece,1,3,FIFA World Cup qualification,Tel Aviv,Palestine,True
+1938-01-30 00:00:00,France,Belgium,5,3,Friendly,Paris,France,False
+1938-01-30 00:00:00,Portugal,Spain,1,0,Friendly,Lisbon,Portugal,False
+1938-02-06 00:00:00,Germany,Switzerland,1,1,Friendly,Cologne,Germany,False
+1938-02-20 00:00:00,Greece,Israel,1,0,FIFA World Cup qualification,Athens,Greece,False
+1938-02-27 00:00:00,Netherlands,Belgium,7,2,Friendly,Rotterdam,Netherlands,False
+1938-03-13 00:00:00,Haiti,Jamaica,5,2,Friendly,Port-au-Prince,Haiti,False
+1938-03-13 00:00:00,Luxembourg,Belgium,2,3,FIFA World Cup qualification,Luxembourg,Luxembourg,False
+1938-03-13 00:00:00,Switzerland,Poland,3,3,Friendly,Z√ºrich,Switzerland,False
+1938-03-16 00:00:00,Northern Ireland,Wales,1,0,British Championship,Belfast,Northern Ireland,False
+1938-03-17 00:00:00,Haiti,Jamaica,2,0,Friendly,Port-au-Prince,Haiti,False
+1938-03-20 00:00:00,Germany,Luxembourg,2,1,Friendly,Wuppertal,Germany,False
+1938-03-20 00:00:00,Germany,Hungary,1,1,Friendly,Nuremberg,Germany,False
+1938-03-20 00:00:00,Haiti,Jamaica,2,0,Friendly,Port-au-Prince,Haiti,False
+1938-03-24 00:00:00,France,Bulgaria,6,1,Friendly,Paris,France,False
+1938-03-25 00:00:00,Hungary,Greece,11,1,FIFA World Cup qualification,Budapest,Hungary,False
+1938-03-28 00:00:00,Guyana,Trinidad and Tobago,1,1,Friendly,Georgetown,British Guyana,False
+1938-04-01 00:00:00,Guyana,Trinidad and Tobago,0,3,Friendly,Georgetown,British Guyana,False
+1938-04-03 00:00:00,Belgium,Netherlands,1,1,FIFA World Cup qualification,Antwerp,Belgium,False
+1938-04-03 00:00:00,Switzerland,Czechoslovakia,4,0,International Cup,Basel,Switzerland,False
+1938-04-03 00:00:00,Yugoslavia,Poland,1,0,FIFA World Cup qualification,Belgrade,Yugoslavia,False
+1938-04-07 00:00:00,Guyana,Trinidad and Tobago,0,2,Friendly,Georgetown,British Guyana,False
+1938-04-09 00:00:00,England,Scotland,0,1,British Championship,London,England,False
+1938-04-24 00:00:00,Czechoslovakia,Bulgaria,6,0,FIFA World Cup qualification,Prague,Czechoslovakia,False
+1938-04-24 00:00:00,Germany,Portugal,1,1,Friendly,Frankfurt am Main,Germany,False
+1938-05-01 00:00:00,Switzerland,Portugal,2,1,FIFA World Cup qualification,Milan,Italy,True
+1938-05-08 00:00:00,Romania,Yugoslavia,0,1,Friendly,Bucharest,Romania,False
+1938-05-08 00:00:00,Switzerland,Belgium,0,3,Friendly,Lausanne,Switzerland,False
+1938-05-14 00:00:00,Germany,England,3,6,Friendly,Berlin,Germany,False
+1938-05-15 00:00:00,Italy,Belgium,6,1,Friendly,Milan,Italy,False
+1938-05-17 00:00:00,Latvia,Lithuania,2,0,Friendly,Riga,Latvia,False
+1938-05-18 00:00:00,Czechoslovakia,Republic of Ireland,2,2,Friendly,Prague,Czechoslovakia,False
+1938-05-21 00:00:00,Netherlands,Scotland,1,3,Friendly,Amsterdam,Netherlands,False
+1938-05-21 00:00:00,Switzerland,England,2,1,Friendly,Z√ºrich,Switzerland,False
+1938-05-22 00:00:00,Italy,Yugoslavia,4,0,Friendly,Genoa,Italy,False
+1938-05-22 00:00:00,Poland,Republic of Ireland,6,0,Friendly,Warsaw,Poland,False
+1938-05-26 00:00:00,France,England,2,4,Friendly,Colombes,France,False
+1938-05-29 00:00:00,Belgium,Yugoslavia,2,2,Friendly,Brussels,Belgium,False
+1938-05-29 00:00:00,Cuba,Basque Country,0,4,Friendly,Havana,Cuba,False
+1938-05-31 00:00:00,Norway,Estonia,1,0,Friendly,Oslo,Norway,False
+1938-06-04 00:00:00,Germany,Switzerland,1,1,FIFA World Cup,Paris,France,True
+1938-06-05 00:00:00,Brazil,Poland,6,5,FIFA World Cup,Strasbourg,France,True
+1938-06-05 00:00:00,Cuba,Romania,3,3,FIFA World Cup,Toulouse,France,True
+1938-06-05 00:00:00,Czechoslovakia,Netherlands,3,0,FIFA World Cup,Le Havre,France,True
+1938-06-05 00:00:00,France,Belgium,3,1,FIFA World Cup,Colombes,France,False
+1938-06-05 00:00:00,Hungary,Indonesia,6,0,FIFA World Cup,Reims,France,True
+1938-06-05 00:00:00,Italy,Norway,2,1,FIFA World Cup,Marseille,France,True
+1938-06-09 00:00:00,Cuba,Romania,2,1,FIFA World Cup,Toulouse,France,True
+1938-06-09 00:00:00,Germany,Switzerland,2,4,FIFA World Cup,Paris,France,True
+1938-06-10 00:00:00,Sweden,Latvia,3,3,Friendly,Solna,Sweden,False
+1938-06-11 00:00:00,Lithuania,Estonia,0,2,Friendly,Kaunas,Lithuania,False
+1938-06-12 00:00:00,Brazil,Czechoslovakia,1,1,FIFA World Cup,Bordeaux,France,True
+1938-06-12 00:00:00,Cuba,Sweden,0,8,FIFA World Cup,Antibes,France,True
+1938-06-12 00:00:00,France,Italy,1,3,FIFA World Cup,Colombes,France,False
+1938-06-12 00:00:00,Hungary,Switzerland,2,0,FIFA World Cup,Lille,France,True
+1938-06-14 00:00:00,Brazil,Czechoslovakia,2,1,FIFA World Cup,Bordeaux,France,True
+1938-06-15 00:00:00,Sweden,Finland,2,0,Friendly,Solna,Sweden,False
+1938-06-16 00:00:00,Brazil,Italy,1,2,FIFA World Cup,Marseille,France,True
+1938-06-16 00:00:00,Hungary,Sweden,5,1,FIFA World Cup,Paris,France,True
+1938-06-17 00:00:00,Norway,Finland,9,0,Nordic Championship,Oslo,Norway,False
+1938-06-18 00:00:00,Argentina,Uruguay,1,0,Friendly,Buenos Aires,Argentina,False
+1938-06-19 00:00:00,Brazil,Sweden,4,2,FIFA World Cup,Bordeaux,France,True
+1938-06-19 00:00:00,Hungary,Italy,2,4,FIFA World Cup,Colombes,France,True
+1938-06-20 00:00:00,Cuba,Basque Country,3,4,Friendly,Havana,Cuba,False
+1938-06-21 00:00:00,Denmark,Sweden,0,1,Nordic Championship,Copenhagen,Denmark,False
+1938-06-22 00:00:00,Estonia,Hungary,2,3,Friendly,Tallinn,Estonia,False
+1938-06-26 00:00:00,Netherlands,Indonesia,9,2,Friendly,Amsterdam,Netherlands,False
+1938-07-04 00:00:00,Finland,Sweden,2,4,Nordic Championship,Helsinki,Finland,False
+1938-07-05 00:00:00,Cura√ßao,Suriname,2,1,Friendly,Willemstad,Cura√ßao,False
+1938-07-07 00:00:00,Cura√ßao,Suriname,1,0,Friendly,Willemstad,Cura√ßao,False
+1938-07-08 00:00:00,Aruba,Suriname,5,0,Friendly,Oranjestad,Aruba,False
+1938-07-10 00:00:00,Cura√ßao,Suriname,4,1,Friendly,Willemstad,Cura√ßao,False
+1938-07-16 00:00:00,Trinidad and Tobago,Suriname,1,2,Friendly,Port of Spain,Trinidad and Tobago,False
+1938-07-18 00:00:00,Suriname,Trinidad and Tobago,3,0,Friendly,Paramaribo,Netherlands Guyana,False
+1938-07-20 00:00:00,Estonia,Latvia,0,2,Friendly,Tallinn,Estonia,False
+1938-07-20 00:00:00,Suriname,Trinidad and Tobago,0,1,Friendly,Paramaribo,Netherlands Guyana,False
+1938-08-07 00:00:00,Sweden,Czechoslovakia,2,6,Friendly,Solna,Sweden,False
+1938-08-08 00:00:00,Bolivia,Ecuador,1,1,Bolivarian Games,Bogot√°,Colombia,True
+1938-08-08 00:00:00,Colombia,Peru,2,4,Bolivarian Games,Bogot√°,Colombia,False
+1938-08-10 00:00:00,Colombia,Ecuador,1,2,Bolivarian Games,Bogot√°,Colombia,False
+1938-08-11 00:00:00,Bolivia,Venezuela,3,1,Bolivarian Games,Bogot√°,Colombia,True
+1938-08-11 00:00:00,Ecuador,Peru,1,9,Bolivarian Games,Bogot√°,Colombia,True
+1938-08-13 00:00:00,Colombia,Venezuela,2,0,Bolivarian Games,Bogot√°,Colombia,False
+1938-08-16 00:00:00,Colombia,Bolivia,1,2,Bolivarian Games,Bogot√°,Colombia,False
+1938-08-17 00:00:00,Estonia,Finland,1,3,Friendly,Tallinn,Estonia,False
+1938-08-17 00:00:00,Peru,Venezuela,2,1,Bolivarian Games,Bogot√°,Colombia,True
+1938-08-17 00:00:00,Saint Kitts and Nevis,Grenada,0,4,Friendly,Basseterre,Saint Kitts and Nevis,False
+1938-08-18 00:00:00,Saint Kitts and Nevis,Grenada,2,4,Friendly,Basseterre,Saint Kitts and Nevis,False
+1938-08-19 00:00:00,Ecuador,Venezuela,5,2,Bolivarian Games,Bogot√°,Colombia,True
+1938-08-22 00:00:00,Bolivia,Ecuador,2,1,Bolivarian Games,Bogot√°,Colombia,True
+1938-08-28 00:00:00,Yugoslavia,Czechoslovakia,1,3,Friendly,Zagreb,Yugoslavia,False
+1938-08-31 00:00:00,Finland,Denmark,2,1,Nordic Championship,Helsinki,Finland,False
+1938-09-03 00:00:00,Australia,India,5,3,Friendly,Sydney,Australia,False
+1938-09-03 00:00:00,Estonia,Lithuania,3,1,Baltic Cup,Tallinn,Estonia,False
+1938-09-04 00:00:00,Latvia,Lithuania,1,1,Baltic Cup,Tallinn,Estonia,True
+1938-09-04 00:00:00,Norway,Sweden,2,1,Friendly,Oslo,Norway,False
+1938-09-05 00:00:00,Estonia,Latvia,1,1,Baltic Cup,Tallinn,Estonia,False
+1938-09-06 00:00:00,Yugoslavia,Romania,1,1,Friendly,Belgrade,Yugoslavia,False
+1938-09-10 00:00:00,Australia,India,4,4,Friendly,Brisbane,Australia,False
+1938-09-17 00:00:00,Australia,India,1,4,Friendly,Newcastle,Australia,False
+1938-09-18 00:00:00,Finland,Lithuania,3,1,Friendly,Helsinki,Finland,False
+1938-09-18 00:00:00,Germany,Poland,4,1,Friendly,Chemnitz,Germany,False
+1938-09-18 00:00:00,Republic of Ireland,Switzerland,4,0,Friendly,Dublin,√âire,False
+1938-09-18 00:00:00,Norway,Denmark,1,1,Nordic Championship,Oslo,Norway,False
+1938-09-24 00:00:00,Australia,India,5,4,Friendly,Sydney,Australia,False
+1938-09-25 00:00:00,Latvia,Poland,2,1,Friendly,Riga,Latvia,False
+1938-09-25 00:00:00,Poland,Yugoslavia,4,4,Friendly,Warsaw,Poland,False
+1938-09-25 00:00:00,Romania,Germany,1,4,Friendly,Bucharest,Romania,False
+1938-10-01 00:00:00,Australia,India,3,1,Friendly,Melbourne,Australia,False
+1938-10-02 00:00:00,Sweden,Norway,2,3,Nordic Championship,Solna,Sweden,False
+1938-10-08 00:00:00,Northern Ireland,Scotland,0,2,British Championship,Belfast,Northern Ireland,False
+1938-10-10 00:00:00,Kenya,Uganda,1,3,Friendly,Nairobi,Kenya,False
+1938-10-12 00:00:00,Uruguay,Argentina,2,3,Friendly,Montevideo,Uruguay,False
+1938-10-16 00:00:00,Mexico,Basque Country,8,4,Friendly,Mexico City,Mexico,False
+1938-10-22 00:00:00,Wales,England,4,2,British Championship,Cardiff,Wales,False
+1938-10-23 00:00:00,Denmark,Netherlands,2,2,Friendly,Copenhagen,Denmark,False
+1938-10-23 00:00:00,Poland,Norway,2,2,Friendly,Warsaw,Poland,False
+1938-10-23 00:00:00,Mexico,Basque Country,2,6,Friendly,Mexico City,Mexico,False
+1938-10-30 00:00:00,Mexico,Basque Country,1,3,Friendly,Mexico City,Mexico,False
+1938-11-06 00:00:00,Switzerland,Portugal,1,0,Friendly,Lausanne,Switzerland,False
+1938-11-09 00:00:00,England,Norway,4,0,Friendly,Newcastle,England,False
+1938-11-09 00:00:00,Scotland,Wales,3,2,British Championship,Edinburgh,Scotland,False
+1938-11-13 00:00:00,Republic of Ireland,Poland,3,2,Friendly,Dublin,√âire,False
+1938-11-16 00:00:00,England,Northern Ireland,7,0,British Championship,Manchester,England,False
+1938-11-20 00:00:00,Italy,Switzerland,2,0,Friendly,Bologna,Italy,False
+1938-12-04 00:00:00,Czechoslovakia,Romania,6,2,Friendly,Prague,Czechoslovakia,False
+1938-12-04 00:00:00,Italy,France,1,0,Friendly,Naples,Italy,False
+1938-12-07 00:00:00,Scotland,Hungary,3,1,Friendly,Glasgow,Scotland,False
+1939-01-12 00:00:00,Dominica,Martinique,3,1,Friendly,Roseau,Dominica,False
+1939-01-15 00:00:00,Brazil,Argentina,1,5,Copa Roca,Rio de Janeiro,Brazil,False
+1939-01-15 00:00:00,Chile,Paraguay,1,5,Copa Am√©rica,Lima,Peru,True
+1939-01-15 00:00:00,Peru,Ecuador,5,2,Copa Am√©rica,Lima,Peru,False
+1939-01-22 00:00:00,Brazil,Argentina,3,2,Copa Roca,Rio de Janeiro,Brazil,False
+1939-01-22 00:00:00,Ecuador,Uruguay,0,6,Copa Am√©rica,Lima,Peru,True
+1939-01-22 00:00:00,France,Poland,4,0,Friendly,Paris,France,False
+1939-01-22 00:00:00,Peru,Chile,3,1,Copa Am√©rica,Lima,Peru,False
+1939-01-29 00:00:00,Belgium,Germany,1,4,Friendly,Brussels,Belgium,False
+1939-01-29 00:00:00,Chile,Uruguay,2,3,Copa Am√©rica,Lima,Peru,True
+1939-01-29 00:00:00,Peru,Paraguay,3,0,Copa Am√©rica,Lima,Peru,False
+1939-02-05 00:00:00,Chile,Ecuador,4,1,Copa Am√©rica,Lima,Peru,True
+1939-02-05 00:00:00,Paraguay,Uruguay,1,3,Copa Am√©rica,Lima,Peru,True
+1939-02-12 00:00:00,Ecuador,Paraguay,1,3,Copa Am√©rica,Lima,Peru,True
+1939-02-12 00:00:00,Peru,Uruguay,2,1,Copa Am√©rica,Lima,Peru,False
+1939-02-12 00:00:00,Portugal,Switzerland,2,4,Friendly,Lisbon,Portugal,False
+1939-02-26 00:00:00,Chile,Paraguay,4,1,Friendly,Santiago,Chile,False
+1939-02-26 00:00:00,Germany,Yugoslavia,3,2,Friendly,Berlin,Germany,False
+1939-02-26 00:00:00,Netherlands,Hungary,3,2,Friendly,Rotterdam,Netherlands,False
+1939-03-15 00:00:00,Haiti,Panama,1,0,Friendly,Port-au-Prince,Haiti,False
+1939-03-15 00:00:00,Wales,Northern Ireland,3,1,British Championship,Wrexham,Wales,False
+1939-03-16 00:00:00,France,Hungary,2,2,Friendly,Paris,France,False
+1939-03-19 00:00:00,Belgium,Netherlands,5,4,Friendly,Antwerp,Belgium,False
+1939-03-19 00:00:00,Haiti,Panama,1,1,Friendly,Port-au-Prince,Haiti,False
+1939-03-19 00:00:00,Republic of Ireland,Hungary,2,2,Friendly,Cork,√âire,False
+1939-03-24 00:00:00,Haiti,Panama,3,0,Friendly,Port-au-Prince,Haiti,False
+1939-03-26 00:00:00,Italy,Germany,3,2,Friendly,Florence,Italy,False
+1939-03-26 00:00:00,Luxembourg,Germany,2,1,Friendly,Differdange,Luxembourg,False
+1939-04-02 00:00:00,Switzerland,Hungary,3,1,Friendly,Z√ºrich,Switzerland,False
+1939-04-15 00:00:00,Scotland,England,1,2,British Championship,Glasgow,Scotland,False
+1939-04-23 00:00:00,Netherlands,Belgium,3,2,Friendly,Amsterdam,Netherlands,False
+1939-04-23 00:00:00,Brittany,Luxembourg,3,1,Friendly,Brest,France,False
+1939-05-07 00:00:00,Romania,Yugoslavia,1,0,Friendly,Bucharest,Romania,False
+1939-05-07 00:00:00,Switzerland,Netherlands,2,1,Friendly,Berne,Switzerland,False
+1939-05-13 00:00:00,Italy,England,2,2,Friendly,Milan,Italy,False
+1939-05-14 00:00:00,Belgium,Switzerland,1,2,Friendly,Li√®ge,Belgium,False
+1939-05-18 00:00:00,Belgium,France,1,3,Friendly,Brussels,Belgium,False
+1939-05-18 00:00:00,Hungary,Republic of Ireland,2,2,Friendly,Budapest,Hungary,False
+1939-05-18 00:00:00,Romania,Latvia,4,0,Friendly,Bucharest,Romania,False
+1939-05-18 00:00:00,Yugoslavia,England,2,1,Friendly,Belgrade,Yugoslavia,False
+1939-05-20 00:00:00,France,Wales,2,1,Friendly,Colombes,France,False
+1939-05-23 00:00:00,Germany,Republic of Ireland,1,1,Friendly,Bremen,Germany,False
+1939-05-24 00:00:00,Bulgaria,Latvia,3,0,Friendly,Sofia,Bulgaria,False
+1939-05-24 00:00:00,Romania,England,0,2,Friendly,Bucharest,Romania,False
+1939-05-27 00:00:00,Poland,Belgium,3,3,Friendly,≈Å√≥d≈∫,Poland,False
+1939-06-02 00:00:00,Sweden,Norway,3,2,Friendly,Solna,Sweden,False
+1939-06-04 00:00:00,Poland,Switzerland,1,1,Friendly,Warsaw,Poland,False
+1939-06-04 00:00:00,Yugoslavia,Italy,1,2,Friendly,Belgrade,Yugoslavia,False
+1939-06-08 00:00:00,Hungary,Italy,1,3,Friendly,Budapest,Hungary,False
+1939-06-09 00:00:00,Sweden,Finland,5,1,Nordic Championship,Solna,Sweden,False
+1939-06-11 00:00:00,Romania,Italy,0,1,Friendly,Bucharest,Romania,False
+1939-06-11 00:00:00,Sweden,Lithuania,7,0,Friendly,Karlstad,Sweden,False
+1939-06-14 00:00:00,Norway,Sweden,1,0,Friendly,Copenhagen,Denmark,True
+1939-06-15 00:00:00,Denmark,Finland,5,0,Friendly,Copenhagen,Denmark,False
+1939-06-18 00:00:00,Denmark,Norway,6,3,Friendly,Copenhagen,Denmark,False
+1939-06-22 00:00:00,Norway,Germany,0,4,Friendly,Oslo,Norway,False
+1939-06-25 00:00:00,Denmark,Germany,0,2,Friendly,Copenhagen,Denmark,False
+1939-06-29 00:00:00,Estonia,Germany,0,2,Friendly,Tallinn,Estonia,False
+1939-07-20 00:00:00,Finland,Italy,2,3,Friendly,Helsinki,Finland,False
+1939-07-27 00:00:00,Latvia,Estonia,3,3,Friendly,Riga,Latvia,False
+1939-08-04 00:00:00,Finland,Estonia,4,2,Friendly,Helsinki,Finland,False
+1939-08-06 00:00:00,Panama,Cuba,0,4,Friendly,Panama City,Panama,False
+1939-08-14 00:00:00,Paraguay,Argentina,0,1,Copa Chevallier Boutell,Asunci√≥n,Paraguay,False
+1939-08-16 00:00:00,Paraguay,Argentina,2,2,Copa Chevallier Boutell,Asunci√≥n,Paraguay,False
+1939-08-27 00:00:00,Czechoslovakia,Yugoslavia,7,3,Friendly,Prague,Bohemia and Moravia,False
+1939-08-27 00:00:00,Estonia,Lithuania,0,1,Friendly,Tallinn,Estonia,False
+1939-08-27 00:00:00,Poland,Hungary,4,2,Friendly,Warsaw,Poland,False
+1939-08-27 00:00:00,Slovakia,Germany,2,0,Friendly,Bratislava,Slovakia,False
+1939-09-02 00:00:00,China PR,Japan,0,3,Friendly,Xinjing,Manchuria,True
+1939-09-03 00:00:00,Finland,Norway,1,2,Nordic Championship,Helsinki,Finland,False
+1939-09-03 00:00:00,Manchukuo,Japan,0,6,Friendly,Xinjing,Manchuria,False
+1939-09-17 00:00:00,Denmark,Finland,8,1,Nordic Championship,Copenhagen,Denmark,False
+1939-09-17 00:00:00,Norway,Sweden,2,3,Nordic Championship,Oslo,Norway,False
+1939-09-24 00:00:00,Finland,Latvia,0,3,Friendly,Helsinki,Finland,False
+1939-09-24 00:00:00,Hungary,Germany,5,1,Friendly,Budapest,Hungary,False
+1939-10-01 00:00:00,Sweden,Denmark,4,1,Nordic Championship,Solna,Sweden,False
+1939-10-15 00:00:00,Yugoslavia,Germany,1,5,Friendly,Zagreb,Yugoslavia,False
+1939-10-22 00:00:00,Bulgaria,Germany,1,2,Friendly,Sofia,Bulgaria,False
+1939-10-22 00:00:00,Denmark,Norway,4,1,Nordic Championship,Copenhagen,Denmark,False
+1939-11-12 00:00:00,Germany,Czechoslovakia,4,4,Friendly,Breslau,Germany,False
+1939-11-12 00:00:00,Switzerland,Italy,3,1,Friendly,Z√ºrich,Switzerland,False
+1939-11-12 00:00:00,Yugoslavia,Hungary,0,2,Friendly,Belgrade,Yugoslavia,False
+1939-11-26 00:00:00,Germany,Italy,5,2,Friendly,Berlin,Germany,False
+1939-11-28 00:00:00,Uganda,Kenya,5,2,Friendly,Kampala,Uganda,False
+1939-12-03 00:00:00,Germany,Slovakia,3,1,Friendly,Chemnitz,Germany,False
+1940-01-28 00:00:00,France,Portugal,3,2,Friendly,Paris,France,False
+1940-02-18 00:00:00,Argentina,Paraguay,3,1,Copa Chevallier Boutell,Avellaneda,Argentina,False
+1940-02-18 00:00:00,Brazil,Argentina,2,2,Copa Roca,S√£o Paulo,Brazil,False
+1940-02-20 00:00:00,Kenya,Uganda,3,6,Friendly,Nairobi,Kenya,False
+1940-02-25 00:00:00,Argentina,Paraguay,4,0,Copa Chevallier Boutell,Buenos Aires,Argentina,False
+1940-02-25 00:00:00,Brazil,Argentina,0,3,Copa Roca,S√£o Paulo,Brazil,False
+1940-03-02 00:00:00,Argentina,Chile,4,1,Friendly,San Mart√≠n,Argentina,False
+1940-03-03 00:00:00,Italy,Switzerland,1,1,Friendly,Turin,Italy,False
+1940-03-05 00:00:00,Argentina,Brazil,6,1,Copa Roca,Buenos Aires,Argentina,False
+1940-03-09 00:00:00,Argentina,Chile,3,2,Friendly,Buenos Aires,Argentina,False
+1940-03-10 00:00:00,Argentina,Brazil,2,3,Copa Roca,Buenos Aires,Argentina,False
+1940-03-12 00:00:00,Uruguay,Chile,3,2,Friendly,Montevideo,Uruguay,False
+1940-03-17 00:00:00,Argentina,Brazil,5,1,Copa Roca,Avellaneda,Argentina,False
+1940-03-17 00:00:00,Belgium,Netherlands,7,1,Friendly,Antwerp,Belgium,False
+1940-03-24 00:00:00,Brazil,Uruguay,3,4,Copa Rio Branco,Rio de Janeiro,Brazil,False
+1940-03-31 00:00:00,Brazil,Uruguay,1,1,Copa Rio Branco,Rio de Janeiro,Brazil,False
+1940-03-31 00:00:00,Hungary,Switzerland,3,0,Friendly,Budapest,Hungary,False
+1940-03-31 00:00:00,Netherlands,Luxembourg,4,5,Friendly,Rotterdam,Netherlands,False
+1940-03-31 00:00:00,Romania,Yugoslavia,3,3,Friendly,Bucharest,Romania,False
+1940-04-02 00:00:00,Croatia,Switzerland,4,0,Friendly,Zagreb,Croatia,False
+1940-04-07 00:00:00,Germany,Hungary,2,2,Friendly,Berlin,Germany,False
+1940-04-14 00:00:00,Germany,Yugoslavia,1,2,Friendly,Vienna,Germany,False
+1940-04-14 00:00:00,Italy,Romania,2,1,Friendly,Rome,Italy,False
+1940-04-21 00:00:00,Netherlands,Belgium,4,2,Friendly,Amsterdam,Netherlands,False
+1940-04-21 00:00:00,Switzerland,Croatia,0,1,Friendly,Berne,Switzerland,False
+1940-04-27 00:00:00,Israel,Lebanon,5,1,Friendly,Tel Aviv,Palestine,False
+1940-05-02 00:00:00,Hungary,Croatia,1,0,Friendly,Budapest,Hungary,False
+1940-05-05 00:00:00,Italy,Germany,3,2,Friendly,Milan,Italy,False
+1940-05-19 00:00:00,Hungary,Romania,2,0,Friendly,Budapest,Hungary,False
+1940-06-06 00:00:00,Bulgaria,Slovakia,1,4,Friendly,Sofia,Bulgaria,False
+1940-06-07 00:00:00,Japan,Manchukuo,7,0,Friendly,Tokyo,Japan,False
+1940-06-09 00:00:00,Japan,China PR,6,0,Friendly,Tokyo,Japan,False
+1940-06-16 00:00:00,Japan,Philippines,1,0,Friendly,Nishinomiya,Japan,False
+1940-07-14 00:00:00,Germany,Romania,9,3,Friendly,Frankfurt am Main,Germany,False
+1940-07-18 00:00:00,Estonia,Latvia,2,1,Friendly,Tallinn,Estonia,False
+1940-07-18 00:00:00,Uruguay,Argentina,3,0,Friendly,Montevideo,Uruguay,False
+1940-08-11 00:00:00,Lithuania,Estonia,2,0,Friendly,Kaunas,Soviet Union,False
+1940-08-15 00:00:00,Argentina,Uruguay,5,0,Friendly,Buenos Aires,Argentina,False
+1940-08-29 00:00:00,Finland,Sweden,2,3,Friendly,Helsinki,Finland,False
+1940-09-01 00:00:00,Germany,Finland,13,0,Friendly,Leipzig,Germany,False
+1940-09-06 00:00:00,Latvia,Lithuania,1,0,Baltic Cup,Riga,Soviet Union,False
+1940-09-07 00:00:00,Estonia,Lithuania,1,1,Baltic Cup,Riga,Soviet Union,True
+1940-09-08 00:00:00,Latvia,Estonia,2,2,Baltic Cup,Riga,Soviet Union,False
+1940-09-15 00:00:00,Slovakia,Germany,0,1,Friendly,Bratislava,Slovakia,False
+1940-09-22 00:00:00,Sweden,Finland,5,0,Friendly,Solna,Sweden,False
+1940-09-22 00:00:00,Yugoslavia,Romania,1,2,Friendly,Belgrade,Yugoslavia,False
+1940-09-29 00:00:00,Hungary,Yugoslavia,0,0,Friendly,Budapest,Hungary,False
+1940-10-06 00:00:00,Hungary,Germany,2,2,Friendly,Budapest,Hungary,False
+1940-10-06 00:00:00,Sweden,Denmark,1,1,Friendly,Solna,Sweden,False
+1940-10-13 00:00:00,Lithuania,Latvia,4,3,Friendly,Kaunas,Soviet Union,False
+1940-10-20 00:00:00,Denmark,Sweden,3,3,Friendly,Copenhagen,Denmark,False
+1940-10-20 00:00:00,Germany,Bulgaria,7,3,Friendly,Munich,Germany,False
+1940-11-03 00:00:00,Yugoslavia,Germany,2,0,Friendly,Zagreb,Yugoslavia,False
+1940-11-12 00:00:00,Cuba,Puerto Rico,1,1,Friendly,Havana,Cuba,False
+1940-11-17 00:00:00,Germany,Denmark,1,0,Friendly,Hamburg,Germany,False
+1940-12-01 00:00:00,Italy,Hungary,1,1,Friendly,Genoa,Italy,False
+1940-12-08 00:00:00,Croatia,Hungary,1,1,Friendly,Zagreb,Croatia,False
+1941-01-05 00:00:00,Chile,Argentina,1,2,Friendly,Santiago,Chile,False
+1941-01-09 00:00:00,Chile,Argentina,2,5,Friendly,Santiago,Chile,False
+1941-01-12 00:00:00,Portugal,Spain,2,2,Friendly,Lisbon,Portugal,False
+1941-01-18 00:00:00,Cura√ßao,Aruba,4,0,Friendly,Willemstad,Cura√ßao,False
+1941-01-19 00:00:00,Cura√ßao,Aruba,2,1,Friendly,Willemstad,Cura√ßao,False
+1941-01-19 00:00:00,Peru,Argentina,1,1,Friendly,Lima,Peru,False
+1941-01-26 00:00:00,Peru,Argentina,1,1,Friendly,Lima,Peru,False
+1941-01-29 00:00:00,Peru,Argentina,0,3,Friendly,Lima,Peru,False
+1941-02-02 00:00:00,Chile,Ecuador,5,0,Copa Am√©rica,Santiago,Chile,False
+1941-02-09 00:00:00,Chile,Peru,1,0,Copa Am√©rica,Santiago,Chile,False
+1941-02-09 00:00:00,Ecuador,Uruguay,0,6,Copa Am√©rica,Santiago,Chile,True
+1941-02-12 00:00:00,Argentina,Peru,2,1,Copa Am√©rica,Santiago,Chile,True
+1941-02-16 00:00:00,Argentina,Ecuador,6,1,Copa Am√©rica,Santiago,Chile,True
+1941-02-16 00:00:00,Chile,Uruguay,0,2,Copa Am√©rica,Santiago,Chile,False
+1941-02-22 00:00:00,Guadeloupe,Martinique,1,2,Friendly,Basse-Terre,Guadeloupe,False
+1941-02-22 00:00:00,Uganda,Kenya,3,4,Friendly,Kampala,Uganda,False
+1941-02-23 00:00:00,Argentina,Uruguay,1,0,Copa Am√©rica,Santiago,Chile,True
+1941-02-23 00:00:00,Ecuador,Peru,0,4,Copa Am√©rica,Santiago,Chile,True
+1941-02-26 00:00:00,Peru,Uruguay,0,2,Copa Am√©rica,Santiago,Chile,True
+1941-03-04 00:00:00,Chile,Argentina,0,1,Copa Am√©rica,Santiago,Chile,False
+1941-03-09 00:00:00,Germany,Switzerland,4,2,Friendly,Stuttgart,Germany,False
+1941-03-16 00:00:00,Spain,Portugal,5,1,Friendly,Bilbao,Spain,False
+1941-03-23 00:00:00,Yugoslavia,Hungary,1,1,Friendly,Belgrade,Yugoslavia,False
+1941-04-06 00:00:00,Germany,Hungary,7,0,Friendly,Cologne,Germany,False
+1941-04-13 00:00:00,Aruba,Cura√ßao,0,0,Friendly,Oranjestad,Aruba,False
+1941-04-14 00:00:00,Aruba,Cura√ßao,2,2,Friendly,Oranjestad,Aruba,False
+1941-04-20 00:00:00,Switzerland,Germany,2,1,Friendly,Berne,Switzerland,False
+1941-05-08 00:00:00,Cura√ßao,Panama,3,3,CCCF Championship,San Jos√©,Costa Rica,True
+1941-05-10 00:00:00,Costa Rica,Nicaragua,7,2,CCCF Championship,San Jos√©,Costa Rica,False
+1941-05-11 00:00:00,Costa Rica,Panama,7,0,CCCF Championship,San Jos√©,Costa Rica,False
+1941-05-11 00:00:00,Cura√ßao,El Salvador,2,2,CCCF Championship,San Jos√©,Costa Rica,True
+1941-05-13 00:00:00,Costa Rica,Cura√ßao,6,2,CCCF Championship,San Jos√©,Costa Rica,False
+1941-05-13 00:00:00,El Salvador,Nicaragua,8,0,CCCF Championship,San Jos√©,Costa Rica,True
+1941-05-15 00:00:00,Cura√ßao,Nicaragua,9,1,CCCF Championship,San Jos√©,Costa Rica,True
+1941-05-15 00:00:00,El Salvador,Panama,4,3,CCCF Championship,San Jos√©,Costa Rica,True
+1941-05-18 00:00:00,Costa Rica,El Salvador,3,1,CCCF Championship,San Jos√©,Costa Rica,False
+1941-05-18 00:00:00,Nicaragua,Panama,2,5,CCCF Championship,San Jos√©,Costa Rica,True
+1941-06-01 00:00:00,Romania,Germany,1,4,Friendly,Bucharest,Romania,False
+1941-06-15 00:00:00,Germany,Croatia,5,1,Friendly,Vienna,Germany,False
+1941-08-10 00:00:00,Afghanistan,India,1,3,Friendly,Kabul,Afghanistan,False
+1941-08-23 00:00:00,India,Iran,0,1,Friendly,Kabul,Afghanistan,True
+1941-09-07 00:00:00,Martinique,Guadeloupe,5,0,Friendly,Fort-de-France,Martinique,False
+1941-09-14 00:00:00,Sweden,Denmark,2,2,Friendly,Solna,Sweden,False
+1941-09-28 00:00:00,Croatia,Slovakia,5,2,Friendly,Zagreb,Croatia,False
+1941-10-05 00:00:00,Finland,Germany,0,6,Friendly,Helsinki,Finland,False
+1941-10-05 00:00:00,Sweden,Germany,4,2,Friendly,Solna,Sweden,False
+1941-10-12 00:00:00,Romania,Slovakia,3,2,Friendly,Bucharest,Romania,False
+1941-10-19 00:00:00,Denmark,Sweden,2,1,Friendly,Copenhagen,Denmark,False
+1941-11-16 00:00:00,Germany,Denmark,1,1,Friendly,Dresden,Germany,False
+1941-11-16 00:00:00,Switzerland,Hungary,1,2,Friendly,Z√ºrich,Switzerland,False
+1941-12-07 00:00:00,Germany,Slovakia,4,0,Friendly,Breslau,Germany,False
+1941-12-28 00:00:00,Spain,Switzerland,3,2,Friendly,Valencia,Spain,False
+1942-01-01 00:00:00,Portugal,Switzerland,3,0,Friendly,Lisbon,Portugal,False
+1942-01-10 00:00:00,Uruguay,Chile,6,1,Copa Am√©rica,Montevideo,Uruguay,False
+1942-01-11 00:00:00,Argentina,Paraguay,4,3,Copa Am√©rica,Montevideo,Uruguay,True
+1942-01-14 00:00:00,Brazil,Chile,6,1,Copa Am√©rica,Montevideo,Uruguay,True
+1942-01-17 00:00:00,Argentina,Brazil,2,1,Copa Am√©rica,Montevideo,Uruguay,True
+1942-01-18 00:00:00,Paraguay,Peru,1,1,Copa Am√©rica,Montevideo,Uruguay,True
+1942-01-18 00:00:00,Uruguay,Ecuador,7,0,Copa Am√©rica,Montevideo,Uruguay,False
+1942-01-18 00:00:00,Croatia,Germany,0,2,Friendly,Zagreb,Croatia,False
+1942-01-21 00:00:00,Brazil,Peru,2,1,Copa Am√©rica,Montevideo,Uruguay,True
+1942-01-22 00:00:00,Argentina,Ecuador,12,0,Copa Am√©rica,Montevideo,Uruguay,True
+1942-01-22 00:00:00,Chile,Paraguay,0,2,Copa Am√©rica,Montevideo,Uruguay,True
+1942-01-24 00:00:00,Uruguay,Brazil,1,0,Copa Am√©rica,Montevideo,Uruguay,False
+1942-01-25 00:00:00,Argentina,Peru,3,1,Copa Am√©rica,Montevideo,Uruguay,True
+1942-01-25 00:00:00,Ecuador,Paraguay,1,3,Copa Am√©rica,Montevideo,Uruguay,True
+1942-01-26 00:00:00,Cuba,Puerto Rico,1,0,Friendly,Havana,Cuba,False
+1942-01-28 00:00:00,Ecuador,Peru,1,2,Copa Am√©rica,Montevideo,Uruguay,True
+1942-01-28 00:00:00,Uruguay,Paraguay,3,1,Copa Am√©rica,Montevideo,Uruguay,False
+1942-01-29 00:00:00,Cuba,Puerto Rico,1,0,Friendly,Havana,Cuba,False
+1942-01-31 00:00:00,Argentina,Chile,0,0,Copa Am√©rica,Montevideo,Uruguay,True
+1942-01-31 00:00:00,Brazil,Ecuador,5,1,Copa Am√©rica,Montevideo,Uruguay,True
+1942-02-01 00:00:00,Germany,Switzerland,1,2,Friendly,Vienna,Germany,False
+1942-02-01 00:00:00,Uruguay,Peru,3,0,Copa Am√©rica,Montevideo,Uruguay,False
+1942-02-05 00:00:00,Brazil,Paraguay,1,1,Copa Am√©rica,Montevideo,Uruguay,True
+1942-02-05 00:00:00,Chile,Ecuador,2,1,Copa Am√©rica,Montevideo,Uruguay,True
+1942-02-07 00:00:00,Chile,Peru,0,0,Copa Am√©rica,Montevideo,Uruguay,True
+1942-02-07 00:00:00,Uruguay,Argentina,1,0,Copa Am√©rica,Montevideo,Uruguay,False
+1942-03-08 00:00:00,France,Switzerland,0,2,Friendly,Marseille,France,False
+1942-03-15 00:00:00,Spain,France,4,0,Friendly,Seville,Spain,False
+1942-04-05 00:00:00,Italy,Croatia,4,0,Friendly,Genoa,Italy,False
+1942-04-11 00:00:00,Barbados,Trinidad and Tobago,3,3,Friendly,Bridgetown,Barbados,False
+1942-04-12 00:00:00,Germany,Spain,1,1,Friendly,Berlin,Germany,False
+1942-04-19 00:00:00,Italy,Spain,4,0,Friendly,Milan,Italy,False
+1942-05-03 00:00:00,Hungary,Germany,3,5,Friendly,Budapest,Hungary,False
+1942-05-25 00:00:00,Argentina,Uruguay,4,1,Copa Newton,Buenos Aires,Argentina,False
+1942-05-25 00:00:00,Cura√ßao,Aruba,2,2,Friendly,Willemstad,Cura√ßao,False
+1942-06-07 00:00:00,Slovakia,Croatia,1,2,Friendly,Bratislava,Slovakia,False
+1942-06-14 00:00:00,Hungary,Croatia,1,1,Friendly,Budapest,Hungary,False
+1942-06-28 00:00:00,Denmark,Sweden,0,3,Friendly,Copenhagen,Denmark,False
+1942-07-07 00:00:00,Kenya,Uganda,4,3,Friendly,Nairobi,Kenya,False
+1942-07-19 00:00:00,Bulgaria,Germany,0,3,Friendly,Sofia,Bulgaria,False
+1942-08-03 00:00:00,Latvia,Estonia,4,0,Friendly,Riga,Soviet Union,False
+1942-08-08 00:00:00,China PR,Japan,1,6,Friendly,Xinjing,Manchuria,True
+1942-08-09 00:00:00,Manchukuo,Japan,0,3,Friendly,Xinjing,Manchuria,False
+1942-08-10 00:00:00,Japan,Mongolia,12,0,Friendly,Xinjing,Manchuria,True
+1942-08-16 00:00:00,Germany,Romania,7,0,Friendly,Beuthen,Germany,False
+1942-08-18 00:00:00,Estonia,Latvia,1,8,Friendly,Tallinn,Soviet Union,False
+1942-08-23 00:00:00,Slovakia,Romania,1,0,Friendly,Bratislava,Slovakia,False
+1942-08-25 00:00:00,Uruguay,Argentina,1,1,Copa Lipton,Montevideo,Uruguay,False
+1942-09-06 00:00:00,Croatia,Slovakia,6,1,Friendly,Zagreb,Croatia,False
+1942-09-20 00:00:00,Germany,Sweden,2,3,Friendly,Berlin,Germany,False
+1942-10-04 00:00:00,Sweden,Denmark,2,1,Friendly,Solna,Sweden,False
+1942-10-11 00:00:00,Romania,Croatia,2,2,Friendly,Bucharest,Romania,False
+1942-10-18 00:00:00,Switzerland,Germany,3,5,Friendly,Berne,Switzerland,False
+1942-11-01 00:00:00,Germany,Croatia,5,1,Friendly,Stuttgart,Germany,False
+1942-11-01 00:00:00,Hungary,Switzerland,3,0,Friendly,Budapest,Hungary,False
+1942-11-15 00:00:00,Switzerland,Sweden,3,1,Friendly,Z√ºrich,Switzerland,False
+1942-11-22 00:00:00,Slovakia,Germany,2,5,Friendly,Bratislava,Slovakia,False
+1943-03-19 00:00:00,Uganda,Kenya,2,1,Friendly,Kampala,Uganda,False
+1943-03-28 00:00:00,Argentina,Uruguay,3,3,Friendly,Buenos Aires,Argentina,False
+1943-04-04 00:00:00,Switzerland,Croatia,1,0,Friendly,Z√ºrich,Switzerland,False
+1943-04-04 00:00:00,Uruguay,Argentina,0,1,Friendly,Montevideo,Uruguay,False
+1943-04-10 00:00:00,Croatia,Slovakia,1,0,Friendly,Zagreb,Croatia,False
+1943-05-16 00:00:00,Switzerland,Hungary,1,3,Friendly,Geneva,Switzerland,False
+1943-06-06 00:00:00,Bulgaria,Hungary,2,4,Friendly,Sofia,Bulgaria,False
+1943-06-13 00:00:00,Romania,Slovakia,2,2,Friendly,Bucharest,Romania,False
+1943-06-14 00:00:00,Sweden,Switzerland,1,0,Friendly,Solna,Sweden,False
+1943-06-20 00:00:00,Denmark,Sweden,3,2,Friendly,Copenhagen,Denmark,False
+1943-07-10 00:00:00,Paraguay,Argentina,2,5,Copa Chevallier Boutell,Asunci√≥n,Paraguay,False
+1943-07-11 00:00:00,Paraguay,Argentina,2,1,Copa Chevallier Boutell,Asunci√≥n,Paraguay,False
+1943-09-12 00:00:00,Sweden,Hungary,2,3,Friendly,Solna,Sweden,False
+1943-09-15 00:00:00,Finland,Hungary,0,3,Friendly,Helsinki,Finland,False
+1943-09-25 00:00:00,Cura√ßao,Aruba,3,3,Friendly,Willemstad,Cura√ßao,False
+1943-09-26 00:00:00,Cura√ßao,Aruba,2,2,Friendly,Willemstad,Cura√ßao,False
+1943-10-03 00:00:00,Finland,Sweden,1,1,Friendly,Helsinki,Finland,False
+1943-11-07 00:00:00,Hungary,Sweden,2,7,Friendly,Budapest,Hungary,False
+1943-11-14 00:00:00,Guyana,Suriname,2,0,Friendly,Georgetown,British Guyana,False
+1943-11-21 00:00:00,Guyana,Suriname,0,1,Friendly,Georgetown,British Guyana,False
+1943-11-22 00:00:00,Guyana,Suriname,0,4,Friendly,Georgetown,British Guyana,False
+1943-12-05 00:00:00,Costa Rica,Nicaragua,7,0,CCCF Championship,San Salvador,El Salvador,True
+1943-12-05 00:00:00,El Salvador,Guatemala,2,2,CCCF Championship,San Salvador,El Salvador,False
+1943-12-07 00:00:00,Costa Rica,Guatemala,2,3,CCCF Championship,San Salvador,El Salvador,True
+1943-12-07 00:00:00,El Salvador,Nicaragua,8,1,CCCF Championship,San Salvador,El Salvador,False
+1943-12-09 00:00:00,El Salvador,Costa Rica,4,2,CCCF Championship,San Salvador,El Salvador,False
+1943-12-09 00:00:00,Guatemala,Nicaragua,6,2,CCCF Championship,San Salvador,El Salvador,True
+1943-12-11 00:00:00,Aruba,Cura√ßao,1,2,Friendly,Oranjestad,Aruba,False
+1943-12-12 00:00:00,Aruba,Cura√ßao,1,1,Friendly,Oranjestad,Aruba,False
+1943-12-12 00:00:00,El Salvador,Guatemala,2,1,CCCF Championship,San Salvador,El Salvador,False
+1943-12-12 00:00:00,Nicaragua,Costa Rica,2,3,CCCF Championship,San Salvador,El Salvador,True
+1943-12-16 00:00:00,El Salvador,Nicaragua,10,1,CCCF Championship,San Salvador,El Salvador,False
+1943-12-16 00:00:00,Guatemala,Costa Rica,4,2,CCCF Championship,San Salvador,El Salvador,True
+1943-12-19 00:00:00,El Salvador,Costa Rica,2,4,CCCF Championship,San Salvador,El Salvador,False
+1943-12-19 00:00:00,Nicaragua,Guatemala,1,5,CCCF Championship,San Salvador,El Salvador,True
+1944-02-17 00:00:00,Trinidad and Tobago,Barbados,5,0,Friendly,Port of Spain,Trinidad and Tobago,False
+1944-04-01 00:00:00,Aruba,Venezuela,1,3,Friendly,Willemstad,Cura√ßao,True
+1944-04-02 00:00:00,Cura√ßao,Haiti,5,0,Friendly,Willemstad,Cura√ßao,False
+1944-04-05 00:00:00,Haiti,Venezuela,0,2,Friendly,Willemstad,Cura√ßao,True
+1944-04-08 00:00:00,Aruba,Haiti,1,1,Friendly,Willemstad,Cura√ßao,True
+1944-04-09 00:00:00,Croatia,Slovakia,7,3,Friendly,Zagreb,Croatia,False
+1944-04-09 00:00:00,Cura√ßao,Venezuela,3,3,Friendly,Willemstad,Cura√ßao,False
+1944-04-10 00:00:00,Cura√ßao,Aruba,3,1,Friendly,Willemstad,Cura√ßao,False
+1944-05-14 00:00:00,Brazil,Uruguay,6,1,Friendly,Rio de Janeiro,Brazil,False
+1944-05-17 00:00:00,Brazil,Uruguay,4,0,Friendly,S√£o Paulo,Brazil,False
+1944-07-29 00:00:00,Cura√ßao,Aruba,2,4,Friendly,Willemstad,Cura√ßao,False
+1944-07-30 00:00:00,Cura√ßao,Aruba,2,3,Friendly,Willemstad,Cura√ßao,False
+1944-08-25 00:00:00,Suriname,Cura√ßao,1,2,Friendly,Paramaribo,Netherlands Guyana,False
+1944-08-27 00:00:00,Suriname,Aruba,5,0,Friendly,Paramaribo,Netherlands Guyana,False
+1944-08-29 00:00:00,Aruba,Cura√ßao,1,2,Friendly,Paramaribo,Netherlands Guyana,True
+1944-08-31 00:00:00,Suriname,Cura√ßao,0,2,Friendly,Paramaribo,Netherlands Guyana,False
+1944-09-02 00:00:00,Aruba,Cura√ßao,1,5,Friendly,Paramaribo,Netherlands Guyana,True
+1944-09-05 00:00:00,Suriname,Aruba,2,3,Friendly,Paramaribo,Netherlands Guyana,False
+1944-10-04 00:00:00,Trinidad and Tobago,Guyana,1,1,Friendly,Port of Spain,Trinidad and Tobago,False
+1944-10-04 00:00:00,Barbados,Trinidad and Tobago,1,1,Friendly,Bridgetown,Barbados,False
+1944-10-05 00:00:00,Trinidad and Tobago,Barbados,3,0,Friendly,Port of Spain,Trinidad and Tobago,False
+1944-10-07 00:00:00,Barbados,Guyana,0,3,Friendly,Port of Spain,Trinidad and Tobago,True
+1944-10-08 00:00:00,Barbados,Trinidad and Tobago,1,1,Friendly,Bridgetown,Barbados,False
+1944-10-09 00:00:00,Trinidad and Tobago,Barbados,6,1,Friendly,Port of Spain,Trinidad and Tobago,False
+1944-10-11 00:00:00,Barbados,Guyana,0,1,Friendly,Port of Spain,Trinidad and Tobago,True
+1944-10-13 00:00:00,Trinidad and Tobago,Guyana,3,0,Friendly,Port of Spain,Trinidad and Tobago,False
+1944-10-14 00:00:00,Barbados,Trinidad and Tobago,1,4,Friendly,Bridgetown,Barbados,False
+1944-10-16 00:00:00,Trinidad and Tobago,Guyana,3,0,Friendly,Port of Spain,Trinidad and Tobago,False
+1944-11-07 00:00:00,Kenya,Uganda,2,1,Friendly,Nairobi,Kenya,False
+1944-12-24 00:00:00,France,Belgium,3,1,Friendly,Paris,France,False
+1945-01-06 00:00:00,Argentina,Paraguay,5,2,Copa Chevallier Boutell,Buenos Aires,Argentina,False
+1945-01-09 00:00:00,Argentina,Paraguay,5,3,Copa Chevallier Boutell,Buenos Aires,Argentina,False
+1945-01-14 00:00:00,Chile,Ecuador,6,3,Copa Am√©rica,Santiago,Chile,False
+1945-01-18 00:00:00,Argentina,Bolivia,4,0,Copa Am√©rica,Santiago,Chile,True
+1945-01-21 00:00:00,Brazil,Colombia,3,0,Copa Am√©rica,Santiago,Chile,True
+1945-01-24 00:00:00,Chile,Bolivia,5,0,Copa Am√©rica,Santiago,Chile,False
+1945-01-24 00:00:00,Ecuador,Uruguay,1,5,Copa Am√©rica,Santiago,Chile,True
+1945-01-28 00:00:00,Bolivia,Brazil,0,2,Copa Am√©rica,Santiago,Chile,True
+1945-01-28 00:00:00,Colombia,Uruguay,0,7,Copa Am√©rica,Santiago,Chile,True
+1945-01-31 00:00:00,Argentina,Ecuador,4,2,Copa Am√©rica,Santiago,Chile,True
+1945-01-31 00:00:00,Chile,Colombia,2,0,Copa Am√©rica,Santiago,Chile,False
+1945-02-07 00:00:00,Argentina,Colombia,9,1,Copa Am√©rica,Santiago,Chile,True
+1945-02-07 00:00:00,Brazil,Uruguay,3,0,Copa Am√©rica,Santiago,Chile,True
+1945-02-11 00:00:00,Bolivia,Ecuador,0,0,Copa Am√©rica,Santiago,Chile,True
+1945-02-11 00:00:00,Chile,Argentina,1,1,Copa Am√©rica,Santiago,Chile,False
+1945-02-15 00:00:00,Argentina,Brazil,3,1,Copa Am√©rica,Santiago,Chile,True
+1945-02-15 00:00:00,Bolivia,Uruguay,0,2,Copa Am√©rica,Santiago,Chile,True
+1945-02-18 00:00:00,Chile,Uruguay,1,0,Copa Am√©rica,Santiago,Chile,False
+1945-02-18 00:00:00,Colombia,Ecuador,3,1,Copa Am√©rica,Santiago,Chile,True
+1945-02-21 00:00:00,Bolivia,Colombia,3,3,Copa Am√©rica,Santiago,Chile,True
+1945-02-21 00:00:00,Brazil,Ecuador,9,2,Copa Am√©rica,Santiago,Chile,True
+1945-02-25 00:00:00,Argentina,Uruguay,1,0,Copa Am√©rica,Santiago,Chile,True
+1945-02-28 00:00:00,Chile,Brazil,0,1,Copa Am√©rica,Santiago,Chile,False
+1945-03-11 00:00:00,Portugal,Spain,2,2,Friendly,Oeiras,Portugal,False
+1945-04-08 00:00:00,Switzerland,France,1,0,Friendly,Lausanne,Switzerland,False
+1945-04-14 00:00:00,Uganda,Kenya,4,1,Friendly,Kampala,Uganda,False
+1945-05-06 00:00:00,Spain,Portugal,4,2,Friendly,La Coru√±a,Spain,False
+1945-05-13 00:00:00,Luxembourg,Belgium,4,1,Friendly,Luxembourg,Luxembourg,False
+1945-05-21 00:00:00,Switzerland,Portugal,1,0,Friendly,Basel,Switzerland,False
+1945-05-26 00:00:00,England,France,2,2,Friendly,London,England,False
+1945-06-24 00:00:00,Sweden,Denmark,2,1,Friendly,Solna,Sweden,False
+1945-06-30 00:00:00,Latvia,Lithuania,3,7,Friendly,Riga,Soviet Union,False
+1945-07-01 00:00:00,Denmark,Sweden,3,4,Friendly,Copenhagen,Denmark,False
+1945-07-07 00:00:00,Paraguay,Argentina,5,1,Copa Chevallier Boutell,Asunci√≥n,Paraguay,False
+1945-07-09 00:00:00,Paraguay,Argentina,1,3,Copa Chevallier Boutell,Asunci√≥n,Paraguay,False
+1945-07-18 00:00:00,Uruguay,Argentina,2,2,Copa Lipton,Montevideo,Uruguay,False
+1945-07-21 00:00:00,Switzerland,England,3,1,Friendly,Berne,Switzerland,False
+1945-08-15 00:00:00,Argentina,Uruguay,6,2,Copa Newton,Buenos Aires,Argentina,False
+1945-08-19 00:00:00,Hungary,Austria,2,0,Friendly,Budapest,Hungary,False
+1945-08-20 00:00:00,Hungary,Austria,5,2,Friendly,Budapest,Hungary,False
+1945-08-20 00:00:00,Uganda,Tanzania,7,0,Friendly,Kampala,Uganda,False
+1945-08-26 00:00:00,Denmark,Norway,4,2,Friendly,Copenhagen,Denmark,False
+1945-08-26 00:00:00,Suriname,Guyana,3,1,Friendly,Paramaribo,Netherlands Guyana,False
+1945-08-26 00:00:00,Sweden,Finland,7,2,Friendly,Gothenburg,Sweden,False
+1945-08-31 00:00:00,Suriname,Guyana,4,1,Friendly,Paramaribo,Netherlands Guyana,False
+1945-09-02 00:00:00,Suriname,Guyana,6,0,Friendly,Paramaribo,Netherlands Guyana,False
+1945-09-05 00:00:00,Lithuania,Estonia,2,3,Friendly,Vilnius,Soviet Union,False
+1945-09-09 00:00:00,Norway,Denmark,1,5,Friendly,Oslo,Norway,False
+1945-09-15 00:00:00,Northern Ireland,England,0,1,Friendly,Belfast,Northern Ireland,False
+1945-09-17 00:00:00,Estonia,Lithuania,1,2,Friendly,Tallinn,Soviet Union,False
+1945-09-30 00:00:00,Finland,Sweden,1,6,Friendly,Helsinki,Finland,False
+1945-09-30 00:00:00,Hungary,Romania,7,2,Friendly,Budapest,Hungary,False
+1945-09-30 00:00:00,Sweden,Denmark,4,1,Friendly,Solna,Sweden,False
+1945-10-20 00:00:00,England,Wales,0,1,Friendly,Birmingham,England,False
+1945-10-21 00:00:00,Sweden,Norway,10,0,Friendly,Solna,Sweden,False
+1945-11-11 00:00:00,Switzerland,Italy,4,4,Friendly,Z√ºrich,Switzerland,False
+1945-11-25 00:00:00,Switzerland,Sweden,3,0,Friendly,Geneva,Switzerland,False
+1945-12-06 00:00:00,Austria,France,4,1,Friendly,Vienna,Austria,False
+1945-12-08 00:00:00,Aruba,Cura√ßao,2,1,Friendly,Oranjestad,Aruba,False
+1945-12-09 00:00:00,Aruba,Cura√ßao,2,1,Friendly,Oranjestad,Aruba,False
+1945-12-15 00:00:00,Belgium,France,2,1,Friendly,Brussels,Belgium,False
+1945-12-16 00:00:00,Brazil,Argentina,3,4,Copa Roca,S√£o Paulo,Brazil,False
+1945-12-20 00:00:00,Brazil,Argentina,6,2,Copa Roca,Rio de Janeiro,Brazil,False
+1945-12-23 00:00:00,Brazil,Argentina,3,1,Copa Roca,Rio de Janeiro,Brazil,False
+1946-01-05 00:00:00,Uruguay,Brazil,4,3,Copa Rio Branco,Montevideo,Uruguay,False
+1946-01-12 00:00:00,Argentina,Paraguay,2,0,Copa Am√©rica,Buenos Aires,Argentina,False
+1946-01-16 00:00:00,Bolivia,Brazil,0,3,Copa Am√©rica,Buenos Aires,Argentina,True
+1946-01-16 00:00:00,Chile,Uruguay,0,1,Copa Am√©rica,Buenos Aires,Argentina,True
+1946-01-19 00:00:00,Argentina,Bolivia,7,1,Copa Am√©rica,Buenos Aires,Argentina,False
+1946-01-19 00:00:00,Chile,Paraguay,2,1,Copa Am√©rica,Buenos Aires,Argentina,True
+1946-01-19 00:00:00,England,Belgium,2,0,Friendly,London,England,False
+1946-01-23 00:00:00,Brazil,Uruguay,4,3,Copa Am√©rica,Buenos Aires,Argentina,True
+1946-01-23 00:00:00,Scotland,Belgium,2,2,Friendly,Glasgow,Scotland,False
+1946-01-26 00:00:00,Argentina,Chile,3,1,Copa Am√©rica,Buenos Aires,Argentina,False
+1946-01-26 00:00:00,Bolivia,Paraguay,2,4,Copa Am√©rica,Buenos Aires,Argentina,True
+1946-01-29 00:00:00,Bolivia,Uruguay,0,5,Copa Am√©rica,Avellaneda,Argentina,True
+1946-01-29 00:00:00,Brazil,Paraguay,1,1,Copa Am√©rica,Avellaneda,Argentina,True
+1946-02-02 00:00:00,Argentina,Uruguay,3,1,Copa Am√©rica,Buenos Aires,Argentina,False
+1946-02-03 00:00:00,Brazil,Chile,5,1,Copa Am√©rica,Buenos Aires,Argentina,True
+1946-02-08 00:00:00,Bolivia,Chile,1,4,Copa Am√©rica,Buenos Aires,Argentina,True
+1946-02-08 00:00:00,Paraguay,Uruguay,2,1,Copa Am√©rica,Buenos Aires,Argentina,True
+1946-02-10 00:00:00,Argentina,Brazil,2,0,Copa Am√©rica,Buenos Aires,Argentina,False
+1946-02-23 00:00:00,Belgium,Luxembourg,7,0,Friendly,Charleroi,Belgium,False
+1946-02-23 00:00:00,El Salvador,Guatemala,1,3,CCCF Championship,San Jos√©,Costa Rica,True
+1946-02-23 00:00:00,Panama,Honduras,1,0,CCCF Championship,San Jos√©,Costa Rica,True
+1946-02-24 00:00:00,Costa Rica,Nicaragua,7,1,CCCF Championship,San Jos√©,Costa Rica,False
+1946-02-26 00:00:00,Costa Rica,Panama,7,0,CCCF Championship,San Jos√©,Costa Rica,False
+1946-02-28 00:00:00,El Salvador,Nicaragua,7,2,CCCF Championship,San Jos√©,Costa Rica,True
+1946-02-28 00:00:00,Honduras,Guatemala,5,3,CCCF Championship,San Jos√©,Costa Rica,True
+1946-03-07 00:00:00,Costa Rica,Honduras,5,1,CCCF Championship,San Jos√©,Costa Rica,False
+1946-03-07 00:00:00,El Salvador,Panama,4,1,CCCF Championship,San Jos√©,Costa Rica,True
+1946-03-07 00:00:00,Guatemala,Nicaragua,7,0,CCCF Championship,San Jos√©,Costa Rica,True
+1946-03-10 00:00:00,Costa Rica,Guatemala,1,4,CCCF Championship,San Jos√©,Costa Rica,False
+1946-03-10 00:00:00,El Salvador,Honduras,3,1,CCCF Championship,San Jos√©,Costa Rica,True
+1946-03-10 00:00:00,Luxembourg,Netherlands,2,6,Friendly,Luxembourg,Luxembourg,False
+1946-03-10 00:00:00,Panama,Nicaragua,0,2,CCCF Championship,San Jos√©,Costa Rica,True
+1946-03-13 00:00:00,Costa Rica,El Salvador,4,0,CCCF Championship,San Jos√©,Costa Rica,False
+1946-03-13 00:00:00,Honduras,Nicaragua,10,0,CCCF Championship,San Jos√©,Costa Rica,True
+1946-03-13 00:00:00,Panama,Guatemala,3,3,CCCF Championship,San Jos√©,Costa Rica,True
+1946-04-07 00:00:00,France,Czechoslovakia,3,0,Friendly,Colombes,France,False
+1946-04-13 00:00:00,Scotland,England,1,0,Friendly,Glasgow,Scotland,False
+1946-04-14 00:00:00,Austria,Hungary,3,2,Friendly,Vienna,Austria,False
+1946-04-14 00:00:00,Portugal,France,2,1,Friendly,Oeiras,Portugal,False
+1946-04-24 00:00:00,England,Scotland,2,2,Friendly,Manchester,England,False
+1946-05-05 00:00:00,France,Austria,3,1,Friendly,Colombes,France,False
+1946-05-09 00:00:00,Czechoslovakia,Yugoslavia,0,2,Friendly,Prague,Czechoslovakia,False
+1946-05-11 00:00:00,England,Switzerland,4,1,Friendly,London,England,False
+1946-05-12 00:00:00,Netherlands,Belgium,6,3,Friendly,Amsterdam,Netherlands,False
+1946-05-15 00:00:00,Scotland,Switzerland,3,1,Friendly,Glasgow,Scotland,False
+1946-05-19 00:00:00,France,England,2,1,Friendly,Colombes,France,False
+1946-05-26 00:00:00,Cura√ßao,Aruba,2,1,Friendly,Willemstad,Cura√ßao,False
+1946-05-30 00:00:00,Belgium,Netherlands,2,2,Friendly,Antwerp,Belgium,False
+1946-06-06 00:00:00,Aruba,Suriname,8,1,Friendly,Willemstad,Cura√ßao,True
+1946-06-10 00:00:00,Cura√ßao,Suriname,6,0,Friendly,Willemstad,Cura√ßao,False
+1946-06-16 00:00:00,Norway,Denmark,2,1,Friendly,Oslo,Norway,False
+1946-06-16 00:00:00,Portugal,Republic of Ireland,3,1,Friendly,Oeiras,Portugal,False
+1946-06-16 00:00:00,Zimbabwe,Zambia,0,4,Friendly,Salisbury,Southern Rhodesia,False
+1946-06-23 00:00:00,Denmark,Sweden,3,1,Friendly,Copenhagen,Denmark,False
+1946-06-23 00:00:00,Spain,Republic of Ireland,0,1,Friendly,Madrid,Spain,False
+1946-06-28 00:00:00,Norway,Finland,12,0,Friendly,Bergen,Norway,False
+1946-07-07 00:00:00,Sweden,Switzerland,7,2,Friendly,Solna,Sweden,False
+1946-07-08 00:00:00,Denmark,Norway,2,0,Friendly,Copenhagen,Denmark,False
+1946-07-17 00:00:00,Iceland,Denmark,0,3,Friendly,Reykjav√≠k,Iceland,False
+1946-07-28 00:00:00,Luxembourg,Norway,3,2,Friendly,Luxembourg,Luxembourg,False
+1946-08-22 00:00:00,Albania,Montenegro,5,0,Friendly,Shkod√´r,Albania,False
+1946-09-01 00:00:00,Finland,Denmark,2,5,Friendly,Helsinki,Finland,False
+1946-09-14 00:00:00,Czechoslovakia,Switzerland,3,2,Friendly,Prague,Czechoslovakia,False
+1946-09-15 00:00:00,Finland,Sweden,0,7,Friendly,Helsinki,Finland,False
+1946-09-15 00:00:00,Norway,Sweden,0,3,Friendly,Oslo,Norway,False
+1946-09-18 00:00:00,Kenya,Tanzania,3,0,Friendly,Nairobi,Kenya,False
+1946-09-21 00:00:00,Kenya,Uganda,2,1,Friendly,Nairobi,Kenya,False
+1946-09-28 00:00:00,Northern Ireland,England,2,7,British Championship,Belfast,Northern Ireland,False
+1946-09-30 00:00:00,Republic of Ireland,England,0,1,Friendly,Dublin,√âire,False
+1946-10-06 00:00:00,Hungary,Austria,2,0,Friendly,Budapest,Hungary,False
+1946-10-06 00:00:00,Sweden,Denmark,3,3,Friendly,Gothenburg,Sweden,False
+1946-10-07 00:00:00,Albania,Yugoslavia,2,3,Balkan Cup,Tirana,Albania,False
+1946-10-08 00:00:00,Bulgaria,Romania,2,2,Balkan Cup,Tirana,Albania,True
+1946-10-09 00:00:00,Albania,Bulgaria,3,1,Balkan Cup,Tirana,Albania,False
+1946-10-11 00:00:00,Romania,Yugoslavia,2,1,Balkan Cup,Tirana,Albania,True
+1946-10-13 00:00:00,Albania,Romania,1,0,Balkan Cup,Tirana,Albania,False
+1946-10-19 00:00:00,Wales,Scotland,3,1,British Championship,Wrexham,Wales,False
+1946-10-20 00:00:00,Denmark,Norway,7,1,Friendly,Copenhagen,Denmark,False
+1946-10-21 00:00:00,Guyana,Suriname,0,3,Friendly,Georgetown,British Guyana,False
+1946-10-24 00:00:00,Guyana,Suriname,0,1,Friendly,Georgetown,British Guyana,False
+1946-10-27 00:00:00,Austria,Czechoslovakia,3,4,Friendly,Vienna,Austria,False
+1946-10-29 00:00:00,Guyana,Suriname,3,1,Friendly,Georgetown,British Guyana,False
+1946-10-30 00:00:00,Luxembourg,Hungary,2,7,Friendly,Esch-sur-Alzette,Luxembourg,False
+1946-11-05 00:00:00,El Salvador,Panama,2,3,Friendly,San Salvador,El Salvador,False
+1946-11-10 00:00:00,El Salvador,Panama,3,3,Friendly,San Salvador,El Salvador,False
+1946-11-10 00:00:00,Switzerland,Austria,1,0,Friendly,Berne,Switzerland,False
+1946-11-13 00:00:00,England,Wales,3,0,British Championship,Manchester,England,False
+1946-11-23 00:00:00,Aruba,Cura√ßao,0,4,Friendly,Oranjestad,Aruba,False
+1946-11-24 00:00:00,Aruba,Cura√ßao,3,1,Friendly,Oranjestad,Aruba,False
+1946-11-27 00:00:00,England,Netherlands,8,2,Friendly,Huddersfield,England,False
+1946-11-27 00:00:00,Scotland,Northern Ireland,0,0,British Championship,Glasgow,Scotland,False
+1946-12-01 00:00:00,Italy,Austria,3,2,Friendly,Milan,Italy,False
+1947-01-05 00:00:00,Venezuela,Bolivia,2,2,Bolivarian Games,Lima,Peru,True
+1947-01-05 00:00:00,Portugal,Switzerland,2,2,Friendly,Lisbon,Portugal,False
+1947-01-26 00:00:00,Portugal,Spain,4,1,Friendly,Oeiras,Portugal,False
+1947-02-12 00:00:00,Jamaica,Trinidad and Tobago,0,0,Friendly,Kingston,Jamaica,False
+1947-02-15 00:00:00,Jamaica,Trinidad and Tobago,2,1,Friendly,Kingston,Jamaica,False
+1947-02-15 00:00:00,Madagascar,Mauritius,1,2,Friendly,Antananarivo,Madagascar,False
+1947-02-19 00:00:00,Jamaica,Trinidad and Tobago,1,0,Friendly,Kingston,Jamaica,False
+1947-02-22 00:00:00,Jamaica,Trinidad and Tobago,1,2,Friendly,Kingston,Jamaica,False
+1947-02-22 00:00:00,Zambia,Zimbabwe,2,2,Friendly,Kitwe,Northern Rhodesia,False
+1947-02-26 00:00:00,Jamaica,Trinidad and Tobago,0,6,Friendly,Kingston,Jamaica,False
+1947-03-01 00:00:00,Cura√ßao,Trinidad and Tobago,4,0,Friendly,Willemstad,Cura√ßao,False
+1947-03-02 00:00:00,Cura√ßao,Trinidad and Tobago,3,0,Friendly,Willemstad,Cura√ßao,False
+1947-03-02 00:00:00,Republic of Ireland,Spain,3,2,Friendly,Dublin,√âire,False
+1947-03-02 00:00:00,Suriname,French Guiana,9,1,Friendly,Paramaribo,Netherlands Guyana,False
+1947-03-23 00:00:00,France,Portugal,1,0,Friendly,Colombes,France,False
+1947-03-29 00:00:00,Uruguay,Brazil,0,0,Copa Rio Branco,Montevideo,Uruguay,False
+1947-04-01 00:00:00,Brazil,Uruguay,3,2,Copa Rio Branco,Rio de Janeiro,Brazil,False
+1947-04-07 00:00:00,Netherlands,Belgium,2,1,Friendly,Amsterdam,Netherlands,False
+1947-04-12 00:00:00,England,Scotland,1,1,British Championship,London,England,False
+1947-04-16 00:00:00,Northern Ireland,Wales,2,1,British Championship,Belfast,Northern Ireland,False
+1947-04-27 00:00:00,Italy,Switzerland,5,2,Friendly,Florence,Italy,False
+1947-05-03 00:00:00,England,France,3,0,Friendly,London,England,False
+1947-05-04 00:00:00,Belgium,Netherlands,1,2,Friendly,Antwerp,Belgium,False
+1947-05-04 00:00:00,Hungary,Austria,5,2,Friendly,Budapest,Hungary,False
+1947-05-04 00:00:00,Republic of Ireland,Portugal,0,2,Friendly,Dublin,√âire,False
+1947-05-10 00:00:00,Australia,South Africa,1,2,Friendly,Sydney,Australia,False
+1947-05-11 00:00:00,Czechoslovakia,Yugoslavia,3,1,Friendly,Prague,Czechoslovakia,False
+1947-05-11 00:00:00,Italy,Hungary,3,2,Friendly,Turin,Italy,False
+1947-05-15 00:00:00,Mauritius,R√©union,2,1,Friendly,Antananarivo,Madagascar,True
+1947-05-18 00:00:00,Belgium,Scotland,2,1,Friendly,Brussels,Belgium,False
+1947-05-18 00:00:00,Switzerland,England,1,0,Friendly,Z√ºrich,Switzerland,False
+1947-05-24 00:00:00,Australia,South Africa,2,4,Friendly,Brisbane,Australia,False
+1947-05-24 00:00:00,Luxembourg,Scotland,0,6,Friendly,Luxembourg,Luxembourg,False
+1947-05-25 00:00:00,Albania,Romania,0,4,Balkan Cup,Tirana,Albania,False
+1947-05-25 00:00:00,Portugal,England,0,10,Friendly,Oeiras,Portugal,False
+1947-05-26 00:00:00,France,Netherlands,4,0,Friendly,Colombes,France,False
+1947-05-31 00:00:00,Australia,South Africa,3,3,Friendly,Sydney,Australia,False
+1947-06-01 00:00:00,France,Belgium,4,2,Friendly,Colombes,France,False
+1947-06-06 00:00:00,Madagascar,R√©union,4,2,Friendly,Antananarivo,Madagascar,False
+1947-06-07 00:00:00,Australia,South Africa,5,1,Friendly,Newcastle,Australia,False
+1947-06-08 00:00:00,Switzerland,France,1,2,Friendly,Lausanne,Switzerland,False
+1947-06-11 00:00:00,Norway,Poland,3,1,Friendly,Oslo,Norway,False
+1947-06-14 00:00:00,Australia,South Africa,1,2,Friendly,Sydney,Australia,False
+1947-06-15 00:00:00,Bulgaria,Albania,2,0,Balkan Cup,Sofia,Bulgaria,False
+1947-06-15 00:00:00,Denmark,Sweden,1,4,Nordic Championship,Copenhagen,Denmark,False
+1947-06-20 00:00:00,Denmark,Czechoslovakia,2,2,Friendly,Copenhagen,Denmark,False
+1947-06-21 00:00:00,Cura√ßao,Aruba,4,1,Friendly,Willemstad,Cura√ßao,False
+1947-06-22 00:00:00,Cura√ßao,Aruba,0,0,Friendly,Willemstad,Cura√ßao,False
+1947-06-22 00:00:00,Romania,Yugoslavia,1,3,Balkan Cup,Bucharest,Romania,False
+1947-06-26 00:00:00,Finland,Norway,1,2,Friendly,Helsinki,Finland,False
+1947-06-26 00:00:00,Sweden,Denmark,6,1,Friendly,Solna,Sweden,False
+1947-06-28 00:00:00,New Zealand,South Africa,5,6,Friendly,Christchurch,New Zealand,False
+1947-06-28 00:00:00,Norway,Sweden,1,5,Friendly,Helsinki,Finland,True
+1947-06-29 00:00:00,Yugoslavia,Hungary,2,3,Balkan Cup,Belgrade,Yugoslavia,False
+1947-07-05 00:00:00,New Zealand,South Africa,0,6,Friendly,Dunedin,New Zealand,False
+1947-07-06 00:00:00,Bulgaria,Romania,2,3,Balkan Cup,Sofia,Bulgaria,False
+1947-07-12 00:00:00,New Zealand,South Africa,3,8,Friendly,Wellington,New Zealand,False
+1947-07-13 00:00:00,Mexico,United States,5,0,NAFU Championship,Havana,Cuba,True
+1947-07-17 00:00:00,Cuba,Mexico,1,3,NAFU Championship,Havana,Cuba,False
+1947-07-19 00:00:00,New Zealand,South Africa,1,4,Friendly,Auckland,New Zealand,False
+1947-07-19 00:00:00,Poland,Romania,1,2,Friendly,Warsaw,Poland,False
+1947-07-20 00:00:00,Cuba,United States,5,2,NAFU Championship,Havana,Cuba,False
+1947-07-24 00:00:00,Iceland,Norway,2,4,Friendly,Reykjav√≠k,Iceland,False
+1947-08-17 00:00:00,Hungary,Bulgaria,9,0,Balkan Cup,Budapest,Hungary,False
+1947-08-20 00:00:00,Hungary,Albania,3,0,Balkan Cup,Budapest,Hungary,False
+1947-08-24 00:00:00,Sweden,Finland,7,0,Nordic Championship,Bor√•s,Sweden,False
+1947-08-31 00:00:00,Czechoslovakia,Poland,6,3,Friendly,Prague,Czechoslovakia,False
+1947-09-01 00:00:00,Suriname,Guyana,4,0,Friendly,Paramaribo,Netherlands Guyana,False
+1947-09-05 00:00:00,Suriname,Guyana,0,0,Friendly,Paramaribo,Netherlands Guyana,False
+1947-09-07 00:00:00,Finland,Norway,3,3,Nordic Championship,Helsinki,Finland,False
+1947-09-07 00:00:00,Suriname,Guyana,1,0,Friendly,Paramaribo,Netherlands Guyana,False
+1947-09-14 00:00:00,Albania,Yugoslavia,2,4,Balkan Cup,Tirana,Albania,False
+1947-09-14 00:00:00,Austria,Hungary,4,3,Friendly,Vienna,Austria,False
+1947-09-14 00:00:00,Sweden,Poland,5,4,Friendly,Solna,Sweden,False
+1947-09-17 00:00:00,Finland,Poland,1,4,Friendly,Helsinki,Finland,False
+1947-09-17 00:00:00,Kenya,Uganda,2,3,Friendly,Dar es Salaam,Tanganyika,True
+1947-09-18 00:00:00,Tanzania,Zanzibar,3,1,Friendly,Dar es Salaam,Tanganyika,False
+1947-09-20 00:00:00,Tanzania,Uganda,2,4,Friendly,Dar es Salaam,Tanganyika,False
+1947-09-21 00:00:00,Belgium,England,2,5,Friendly,Brussels,Belgium,False
+1947-09-21 00:00:00,Netherlands,Switzerland,6,2,Friendly,Amsterdam,Netherlands,False
+1947-09-21 00:00:00,Norway,Denmark,3,5,Nordic Championship,Oslo,Norway,False
+1947-09-21 00:00:00,Romania,Czechoslovakia,2,6,Friendly,Bucharest,Romania,False
+1947-09-28 00:00:00,Latvia,Lithuania,3,2,Friendly,Riga,Soviet Union,False
+1947-10-04 00:00:00,Northern Ireland,Scotland,2,0,British Championship,Belfast,Northern Ireland,False
+1947-10-05 00:00:00,Czechoslovakia,Austria,3,2,Friendly,Prague,Czechoslovakia,False
+1947-10-05 00:00:00,Denmark,Finland,4,1,Nordic Championship,Aarhus,Denmark,False
+1947-10-05 00:00:00,Lithuania,Latvia,0,3,Friendly,Vilnius,Soviet Union,False
+1947-10-05 00:00:00,Sweden,Norway,4,1,Nordic Championship,Solna,Sweden,False
+1947-10-12 00:00:00,Lithuania,Estonia,0,0,Friendly,Vilnius,Soviet Union,False
+1947-10-12 00:00:00,Romania,Hungary,0,3,Balkan Cup,Bucharest,Romania,False
+1947-10-12 00:00:00,Yugoslavia,Bulgaria,2,1,Balkan Cup,Zagreb,Yugoslavia,False
+1947-10-18 00:00:00,Wales,England,0,3,British Championship,Cardiff,Wales,False
+1947-10-19 00:00:00,Yugoslavia,Poland,7,1,Friendly,Belgrade,Yugoslavia,False
+1947-10-19 00:00:00,Catalonia,Spain,3,1,Friendly,Barcelona,Spain,False
+1947-10-26 00:00:00,Iran,Turkey,1,3,Friendly,Tehran,Iran,False
+1947-10-26 00:00:00,Romania,Poland,0,0,Friendly,Bucharest,Romania,False
+1947-11-02 00:00:00,Switzerland,Belgium,4,0,Friendly,Geneva,Switzerland,False
+1947-11-05 00:00:00,England,Northern Ireland,2,2,British Championship,Liverpool,England,False
+1947-11-05 00:00:00,Trinidad and Tobago,Guyana,1,2,Friendly,Port of Spain,Trinidad and Tobago,False
+1947-11-06 00:00:00,Guyana,Jamaica,2,0,Friendly,Port of Spain,Trinidad and Tobago,True
+1947-11-08 00:00:00,Trinidad and Tobago,Jamaica,6,0,Friendly,Port of Spain,Trinidad and Tobago,False
+1947-11-09 00:00:00,Austria,Italy,5,1,Friendly,Vienna,Austria,False
+1947-11-10 00:00:00,Guyana,Jamaica,0,0,Friendly,Port of Spain,Trinidad and Tobago,True
+1947-11-12 00:00:00,Scotland,Wales,1,2,British Championship,Glasgow,Scotland,False
+1947-11-12 00:00:00,Trinidad and Tobago,Jamaica,1,0,Friendly,San Fernando,Trinidad and Tobago,False
+1947-11-14 00:00:00,Trinidad and Tobago,Guyana,2,0,Friendly,Port of Spain,Trinidad and Tobago,False
+1947-11-19 00:00:00,England,Sweden,4,2,Friendly,London,England,False
+1947-11-23 00:00:00,Portugal,France,2,4,Friendly,Oeiras,Portugal,False
+1947-11-30 00:00:00,Ecuador,Bolivia,2,2,Copa Am√©rica,Guayaquil,Ecuador,False
+1947-12-02 00:00:00,Argentina,Paraguay,6,0,Copa Am√©rica,Guayaquil,Ecuador,True
+1947-12-02 00:00:00,Colombia,Uruguay,0,2,Copa Am√©rica,Guayaquil,Ecuador,True
+1947-12-04 00:00:00,Argentina,Bolivia,7,0,Copa Am√©rica,Guayaquil,Ecuador,True
+1947-12-04 00:00:00,Ecuador,Colombia,0,0,Copa Am√©rica,Guayaquil,Ecuador,False
+1947-12-05 00:00:00,Djibouti,Ethiopia,0,5,Friendly,Djibouti,French Somaliland,False
+1947-12-06 00:00:00,Chile,Uruguay,0,6,Copa Am√©rica,Guayaquil,Ecuador,True
+1947-12-06 00:00:00,Cuba,Puerto Rico,4,0,Friendly,Havana,Cuba,False
+1947-12-06 00:00:00,Paraguay,Peru,2,2,Copa Am√©rica,Guayaquil,Ecuador,True
+1947-12-09 00:00:00,Bolivia,Uruguay,0,3,Copa Am√©rica,Guayaquil,Ecuador,True
+1947-12-09 00:00:00,Chile,Peru,2,1,Copa Am√©rica,Guayaquil,Ecuador,True
+1947-12-10 00:00:00,Cuba,Puerto Rico,0,0,Friendly,Havana,Cuba,False
+1947-12-11 00:00:00,Argentina,Peru,3,2,Copa Am√©rica,Guayaquil,Ecuador,True
+1947-12-11 00:00:00,Ecuador,Chile,0,3,Copa Am√©rica,Guayaquil,Ecuador,False
+1947-12-13 00:00:00,Bolivia,Colombia,0,0,Copa Am√©rica,Guayaquil,Ecuador,True
+1947-12-13 00:00:00,Paraguay,Uruguay,4,2,Copa Am√©rica,Guayaquil,Ecuador,True
+1947-12-14 00:00:00,Italy,Czechoslovakia,3,1,Friendly,Bari,Italy,False
+1947-12-16 00:00:00,Argentina,Chile,1,1,Copa Am√©rica,Guayaquil,Ecuador,True
+1947-12-16 00:00:00,Ecuador,Uruguay,1,6,Copa Am√©rica,Guayaquil,Ecuador,False
+1947-12-18 00:00:00,Argentina,Colombia,6,0,Copa Am√©rica,Guayaquil,Ecuador,True
+1947-12-18 00:00:00,Bolivia,Paraguay,1,3,Copa Am√©rica,Guayaquil,Ecuador,True
+1947-12-20 00:00:00,Colombia,Paraguay,0,2,Copa Am√©rica,Guayaquil,Ecuador,True
+1947-12-20 00:00:00,Ecuador,Peru,0,0,Copa Am√©rica,Guayaquil,Ecuador,False
+1947-12-23 00:00:00,Chile,Paraguay,0,1,Copa Am√©rica,Guayaquil,Ecuador,True
+1947-12-23 00:00:00,Colombia,Peru,1,5,Copa Am√©rica,Guayaquil,Ecuador,True
+1947-12-25 00:00:00,Ecuador,Argentina,0,2,Copa Am√©rica,Guayaquil,Ecuador,False
+1947-12-25 00:00:00,Peru,Uruguay,0,1,Copa Am√©rica,Guayaquil,Ecuador,True
+1947-12-27 00:00:00,Bolivia,Peru,0,2,Copa Am√©rica,Guayaquil,Ecuador,True
+1947-12-28 00:00:00,Argentina,Uruguay,3,1,Copa Am√©rica,Guayaquil,Ecuador,True
+1947-12-29 00:00:00,Chile,Colombia,4,1,Copa Am√©rica,Guayaquil,Ecuador,True
+1947-12-29 00:00:00,Ecuador,Paraguay,0,4,Copa Am√©rica,Guayaquil,Ecuador,False
+1947-12-31 00:00:00,Bolivia,Chile,3,4,Copa Am√©rica,Guayaquil,Ecuador,True
+1948-02-29 00:00:00,Costa Rica,El Salvador,3,1,CCCF Championship,Guatemala,Guatemala,True
+1948-03-02 00:00:00,Guatemala,El Salvador,3,0,CCCF Championship,Guatemala,Guatemala,False
+1948-03-04 00:00:00,Guatemala,Costa Rica,1,1,CCCF Championship,Guatemala,Guatemala,False
+1948-03-04 00:00:00,Panama,Cura√ßao,1,3,CCCF Championship,Guatemala,Guatemala,True
+1948-03-05 00:00:00,Guatemala,Cura√ßao,2,2,CCCF Championship,Guatemala,Guatemala,False
+1948-03-07 00:00:00,Costa Rica,Cura√ßao,2,1,CCCF Championship,Guatemala,Guatemala,True
+1948-03-07 00:00:00,El Salvador,Panama,1,2,CCCF Championship,Guatemala,Guatemala,True
+1948-03-09 00:00:00,El Salvador,Cura√ßao,1,0,CCCF Championship,Guatemala,Guatemala,True
+1948-03-09 00:00:00,Guatemala,Panama,4,3,CCCF Championship,Guatemala,Guatemala,False
+1948-03-10 00:00:00,Wales,Northern Ireland,2,0,British Championship,Wrexham,Wales,False
+1948-03-11 00:00:00,Costa Rica,Panama,3,1,CCCF Championship,Guatemala,Guatemala,True
+1948-03-11 00:00:00,Cura√ßao,El Salvador,0,2,CCCF Championship,Guatemala,Guatemala,True
+1948-03-12 00:00:00,Suriname,Trinidad and Tobago,0,2,Friendly,Paramaribo,Netherlands Guyana,False
+1948-03-13 00:00:00,Guatemala,El Salvador,1,1,CCCF Championship,Guatemala,Guatemala,False
+1948-03-14 00:00:00,Belgium,Netherlands,1,1,Friendly,Antwerp,Belgium,False
+1948-03-14 00:00:00,Cura√ßao,Panama,2,5,CCCF Championship,Guatemala,Guatemala,True
+1948-03-14 00:00:00,Suriname,Trinidad and Tobago,0,0,Friendly,Paramaribo,Netherlands Guyana,False
+1948-03-16 00:00:00,Guatemala,Costa Rica,3,2,CCCF Championship,Guatemala,Guatemala,False
+1948-03-16 00:00:00,Panama,El Salvador,2,0,CCCF Championship,Guatemala,Guatemala,True
+1948-03-16 00:00:00,Suriname,Trinidad and Tobago,1,0,Friendly,Paramaribo,Netherlands Guyana,False
+1948-03-18 00:00:00,El Salvador,Costa Rica,0,6,CCCF Championship,Guatemala,Guatemala,True
+1948-03-18 00:00:00,Guatemala,Cura√ßao,2,2,CCCF Championship,Guatemala,Guatemala,False
+1948-03-20 00:00:00,Cura√ßao,Costa Rica,4,1,CCCF Championship,Guatemala,Guatemala,True
+1948-03-21 00:00:00,Guatemala,Panama,4,5,CCCF Championship,Guatemala,Guatemala,False
+1948-03-21 00:00:00,Spain,Portugal,2,0,Friendly,Madrid,Spain,False
+1948-04-04 00:00:00,Bulgaria,Poland,1,1,Balkan Cup,Sofia,Bulgaria,False
+1948-04-04 00:00:00,France,Italy,1,3,Friendly,Colombes,France,False
+1948-04-04 00:00:00,Uruguay,Brazil,1,1,Copa Rio Branco,Montevideo,Uruguay,False
+1948-04-10 00:00:00,Scotland,England,0,2,British Championship,Glasgow,Scotland,False
+1948-04-11 00:00:00,Uruguay,Brazil,4,2,Copa Rio Branco,Montevideo,Uruguay,False
+1948-04-18 00:00:00,Austria,Switzerland,3,1,Friendly,Vienna,Austria,False
+1948-04-18 00:00:00,Netherlands,Belgium,2,2,Friendly,Rotterdam,Netherlands,False
+1948-04-18 00:00:00,Poland,Czechoslovakia,3,1,Balkan Cup,Warsaw,Poland,False
+1948-04-20 00:00:00,Silesia,Czechoslovakia,2,1,Friendly,Chorz√≥w,Poland,False
+1948-04-21 00:00:00,Hungary,Switzerland,7,4,International Cup,Budapest,Hungary,False
+1948-04-23 00:00:00,Greece,Turkey,1,3,Friendly,Athens,Greece,False
+1948-04-28 00:00:00,Scotland,Belgium,2,0,Friendly,Glasgow,Scotland,False
+1948-05-02 00:00:00,Austria,Hungary,3,2,International Cup,Vienna,Austria,False
+1948-05-02 00:00:00,Romania,Albania,0,1,Balkan Cup,Bucharest,Romania,False
+1948-05-16 00:00:00,Italy,England,0,4,Friendly,Turin,Italy,False
+1948-05-17 00:00:00,Switzerland,Scotland,2,1,Friendly,Berne,Switzerland,False
+1948-05-23 00:00:00,Albania,Hungary,0,0,Balkan Cup,Tirana,Albania,False
+1948-05-23 00:00:00,France,Scotland,3,0,Friendly,Colombes,France,False
+1948-05-23 00:00:00,Hungary,Czechoslovakia,2,1,International Cup,Budapest,Hungary,False
+1948-05-23 00:00:00,Portugal,Republic of Ireland,2,0,Friendly,Oeiras,Portugal,False
+1948-05-25 00:00:00,DR Congo,Zambia,2,3,Friendly,Brazzaville,Belgian Congo,False
+1948-05-26 00:00:00,Norway,Netherlands,1,2,Friendly,Oslo,Norway,False
+1948-05-30 00:00:00,Spain,Republic of Ireland,2,1,Friendly,Barcelona,Spain,False
+1948-05-30 00:00:00,Turkey,Austria,0,1,Friendly,Istanbul,Turkey,False
+1948-06-01 00:00:00,Djibouti,Ethiopia,1,2,Friendly,Djibouti,French Somaliland,False
+1948-06-06 00:00:00,Belgium,France,4,2,Friendly,Brussels,Belgium,False
+1948-06-06 00:00:00,Hungary,Romania,9,0,Balkan Cup,Budapest,Hungary,False
+1948-06-09 00:00:00,Jamaica,Cuba,3,0,Friendly,Kingston,Jamaica,False
+1948-06-09 00:00:00,Netherlands,Sweden,1,0,Friendly,Amsterdam,Netherlands,False
+1948-06-12 00:00:00,Czechoslovakia,France,0,4,Friendly,Prague,Czechoslovakia,False
+1948-06-12 00:00:00,Denmark,Norway,1,2,Nordic Championship,Copenhagen,Denmark,False
+1948-06-12 00:00:00,Jamaica,Cuba,1,1,Friendly,Kingston,Jamaica,False
+1948-06-15 00:00:00,Finland,Denmark,0,3,Nordic Championship,Helsinki,Finland,False
+1948-06-20 00:00:00,Romania,Bulgaria,3,2,Balkan Cup,Bucharest,Romania,False
+1948-06-20 00:00:00,Switzerland,Spain,3,3,Friendly,Z√ºrich,Switzerland,False
+1948-06-26 00:00:00,Denmark,Poland,8,0,Friendly,Copenhagen,Denmark,False
+1948-06-27 00:00:00,Yugoslavia,Albania,0,0,Balkan Cup,Belgrade,Yugoslavia,False
+1948-07-02 00:00:00,Iceland,Finland,2,0,Friendly,Reykjav√≠k,Iceland,False
+1948-07-04 00:00:00,Bulgaria,Yugoslavia,1,3,Balkan Cup,Sofia,Bulgaria,False
+1948-07-04 00:00:00,Romania,Czechoslovakia,2,1,Balkan Cup,Bucharest,Romania,False
+1948-07-11 00:00:00,Sweden,Austria,3,2,Friendly,Solna,Sweden,False
+1948-07-15 00:00:00,Madagascar,R√©union,2,1,Friendly,Curepipe,Mauritius,True
+1948-07-17 00:00:00,Mauritius,Madagascar,4,1,Friendly,Curepipe,Mauritius,False
+1948-07-19 00:00:00,Mauritius,R√©union,5,1,Friendly,Curepipe,Mauritius,False
+1948-08-02 00:00:00,Sweden,Austria,3,0,Friendly,London,England,True
+1948-08-06 00:00:00,Norway,United States,11,0,Friendly,Oslo,Norway,False
+1948-08-11 00:00:00,Northern Ireland,United States,5,0,Friendly,Belfast,Northern Ireland,False
+1948-08-14 00:00:00,New Zealand,Australia,0,6,Friendly,Wellington,New Zealand,False
+1948-08-25 00:00:00,Poland,Yugoslavia,0,1,Balkan Cup,Warsaw,Poland,False
+1948-08-27 00:00:00,Zimbabwe,Zambia,4,0,Friendly,Salisbury,Southern Rhodesia,False
+1948-08-28 00:00:00,New Zealand,Australia,0,7,Friendly,Christchurch,New Zealand,False
+1948-08-29 00:00:00,Bulgaria,Czechoslovakia,1,0,Balkan Cup,Sofia,Bulgaria,False
+1948-09-01 00:00:00,Martinique,Dominica,5,0,Friendly,Fort-de-France,Martinique,False
+1948-09-04 00:00:00,New Zealand,Australia,0,4,Friendly,Wellington,New Zealand,False
+1948-09-05 00:00:00,Norway,Finland,2,0,Nordic Championship,Oslo,Norway,False
+1948-09-11 00:00:00,New Zealand,Australia,1,8,Friendly,Auckland,New Zealand,False
+1948-09-19 00:00:00,Finland,Sweden,2,2,Nordic Championship,Helsinki,Finland,False
+1948-09-19 00:00:00,Norway,Sweden,3,5,Nordic Championship,Oslo,Norway,False
+1948-09-19 00:00:00,Poland,Hungary,2,6,Balkan Cup,Warsaw,Poland,False
+1948-09-22 00:00:00,Kenya,Zanzibar,3,1,Friendly,Kampala,Uganda,True
+1948-09-23 00:00:00,Uganda,Tanzania,6,0,Friendly,Kampala,Uganda,False
+1948-09-25 00:00:00,Uganda,Kenya,2,1,Friendly,Kampala,Uganda,False
+1948-09-26 00:00:00,Denmark,England,0,0,Friendly,Copenhagen,Denmark,False
+1948-09-26 00:00:00,French Guiana,Suriname,2,4,Friendly,Cayenne,French Guiana,False
+1948-09-26 00:00:00,Latvia,Lithuania,0,1,Baltic Cup,Riga,Soviet Union,False
+1948-09-26 00:00:00,United States,Israel,3,1,Friendly,East Rutherford,United States,False
+1948-09-27 00:00:00,Estonia,Lithuania,1,2,Baltic Cup,Riga,Soviet Union,True
+1948-09-27 00:00:00,Latvia,Estonia,1,1,Baltic Cup,Riga,Soviet Union,False
+1948-10-01 00:00:00,Suriname,Guyana,3,0,Friendly,Cayenne,French Guiana,True
+1948-10-03 00:00:00,Hungary,Austria,2,1,Friendly,Budapest,Hungary,False
+1948-10-09 00:00:00,Northern Ireland,England,2,6,British Championship,Belfast,Northern Ireland,False
+1948-10-10 00:00:00,French Guiana,Guyana,3,2,Friendly,Cayenne,French Guiana,False
+1948-10-10 00:00:00,Poland,Romania,0,0,Balkan Cup,Chorz√≥w,Poland,False
+1948-10-10 00:00:00,Sweden,Denmark,1,0,Nordic Championship,Solna,Sweden,False
+1948-10-10 00:00:00,Switzerland,Czechoslovakia,1,1,International Cup,Basel,Switzerland,False
+1948-10-11 00:00:00,Jamaica,Haiti,1,0,Friendly,Kingston,Jamaica,False
+1948-10-13 00:00:00,Jamaica,Haiti,1,2,Friendly,Kingston,Jamaica,False
+1948-10-16 00:00:00,Jamaica,Haiti,3,0,Friendly,Kingston,Jamaica,False
+1948-10-17 00:00:00,France,Belgium,3,3,Friendly,Colombes,France,False
+1948-10-17 00:00:00,Poland,Finland,1,0,Friendly,Warsaw,Poland,False
+1948-10-23 00:00:00,Trinidad and Tobago,Haiti,0,0,Friendly,Port of Spain,Trinidad and Tobago,False
+1948-10-23 00:00:00,Wales,Scotland,1,3,British Championship,Cardiff,Wales,False
+1948-10-24 00:00:00,Romania,Hungary,1,5,Balkan Cup,Bucharest,Romania,False
+1948-10-27 00:00:00,Trinidad and Tobago,Haiti,4,0,Friendly,Port of Spain,Trinidad and Tobago,False
+1948-10-28 00:00:00,Iran,Turkey,1,1,Friendly,Tehran,Iran,False
+1948-10-30 00:00:00,Trinidad and Tobago,Haiti,4,0,Friendly,Port of Spain,Trinidad and Tobago,False
+1948-10-31 00:00:00,Czechoslovakia,Austria,3,1,International Cup,Bratislava,Czechoslovakia,False
+1948-11-07 00:00:00,Bulgaria,Hungary,1,0,Balkan Cup,Sofia,Bulgaria,False
+1948-11-10 00:00:00,England,Wales,1,0,British Championship,Birmingham,England,False
+1948-11-14 00:00:00,Austria,Sweden,2,1,Friendly,Vienna,Austria,False
+1948-11-17 00:00:00,Scotland,Northern Ireland,3,2,British Championship,Glasgow,Scotland,False
+1948-11-21 00:00:00,Belgium,Netherlands,1,1,Friendly,Antwerp,Belgium,False
+1948-11-28 00:00:00,Turkey,Greece,2,1,Friendly,Istanbul,Turkey,False
+1948-12-02 00:00:00,England,Switzerland,6,0,Friendly,London,England,False
+1948-12-05 00:00:00,Republic of Ireland,Switzerland,0,1,Friendly,Dublin,√âire,False
+1948-12-16 00:00:00,Dominica,Martinique,0,6,Friendly,Basse-Terre,Guadeloupe,True
+1948-12-16 00:00:00,Guadeloupe,Haiti,1,0,Friendly,Pointe-√†-Pitre,Guadeloupe,False
+1948-12-18 00:00:00,Guadeloupe,French Guiana,7,2,Friendly,Pointe-√†-Pitre,Guadeloupe,False
+1948-12-18 00:00:00,Martinique,Suriname,4,3,Friendly,Basse-Terre,Guadeloupe,True
+1948-12-20 00:00:00,Guadeloupe,Martinique,3,0,Friendly,Pointe-√†-Pitre,Guadeloupe,False
+1948-12-24 00:00:00,Egypt,Norway,1,1,Friendly,Cairo,Egypt,False
+1949-01-02 00:00:00,China PR,South Korea,3,2,Friendly,So Kon Po,Hong Kong,True
+1949-01-02 00:00:00,Spain,Belgium,1,1,Friendly,Barcelona,Spain,False
+1949-01-16 00:00:00,Vietnam,South Korea,3,3,Friendly,Saigon,Vietnam,False
+1949-01-25 00:00:00,Macau,South Korea,1,5,Friendly,Macau,Macau,False
+1949-02-27 00:00:00,Italy,Portugal,4,1,Friendly,Genoa,Italy,False
+1949-03-09 00:00:00,Northern Ireland,Wales,0,2,British Championship,Belfast,Northern Ireland,False
+1949-03-13 00:00:00,Netherlands,Belgium,3,3,Friendly,Amsterdam,Netherlands,False
+1949-03-20 00:00:00,Austria,Turkey,1,0,Friendly,Vienna,Austria,False
+1949-03-20 00:00:00,Portugal,Spain,1,1,Friendly,Oeiras,Portugal,False
+1949-03-23 00:00:00,Czechoslovakia,Luxembourg,2,2,Friendly,Bratislava,Czechoslovakia,False
+1949-03-27 00:00:00,Spain,Italy,1,3,Friendly,Madrid,Spain,False
+1949-04-03 00:00:00,Brazil,Ecuador,9,1,Copa Am√©rica,Rio de Janeiro,Brazil,False
+1949-04-03 00:00:00,Switzerland,Austria,1,2,International Cup,Lausanne,Switzerland,False
+1949-04-06 00:00:00,Bolivia,Chile,3,2,Copa Am√©rica,S√£o Paulo,Brazil,True
+1949-04-06 00:00:00,Colombia,Paraguay,0,3,Copa Am√©rica,S√£o Paulo,Brazil,True
+1949-04-09 00:00:00,England,Scotland,1,3,British Championship,London,England,False
+1949-04-10 00:00:00,Brazil,Bolivia,10,1,Copa Am√©rica,S√£o Paulo,Brazil,False
+1949-04-10 00:00:00,Colombia,Peru,0,4,Copa Am√©rica,Rio de Janeiro,Brazil,True
+1949-04-10 00:00:00,Czechoslovakia,Hungary,5,2,International Cup,Prague,Czechoslovakia,False
+1949-04-10 00:00:00,Ecuador,Paraguay,0,1,Copa Am√©rica,Rio de Janeiro,Brazil,True
+1949-04-13 00:00:00,Brazil,Chile,2,1,Copa Am√©rica,S√£o Paulo,Brazil,False
+1949-04-13 00:00:00,Ecuador,Uruguay,2,3,Copa Am√©rica,Rio de Janeiro,Brazil,True
+1949-04-13 00:00:00,Paraguay,Peru,3,1,Copa Am√©rica,Rio de Janeiro,Brazil,True
+1949-04-17 00:00:00,Bolivia,Uruguay,3,2,Copa Am√©rica,Rio de Janeiro,Brazil,True
+1949-04-17 00:00:00,Brazil,Colombia,5,0,Copa Am√©rica,S√£o Paulo,Brazil,False
+1949-04-17 00:00:00,Chile,Ecuador,1,0,Copa Am√©rica,S√£o Paulo,Brazil,True
+1949-04-20 00:00:00,Chile,Colombia,1,1,Copa Am√©rica,Rio de Janeiro,Brazil,True
+1949-04-20 00:00:00,Ecuador,Peru,0,4,Copa Am√©rica,Rio de Janeiro,Brazil,True
+1949-04-20 00:00:00,Haiti,Trinidad and Tobago,2,2,Friendly,Port-au-Prince,Haiti,False
+1949-04-20 00:00:00,Paraguay,Uruguay,1,2,Copa Am√©rica,S√£o Paulo,Brazil,True
+1949-04-23 00:00:00,Haiti,Trinidad and Tobago,2,3,Friendly,Port-au-Prince,Haiti,False
+1949-04-23 00:00:00,Netherlands,France,4,1,Friendly,Rotterdam,Netherlands,False
+1949-04-24 00:00:00,Brazil,Peru,7,1,Copa Am√©rica,Rio de Janeiro,Brazil,False
+1949-04-24 00:00:00,Republic of Ireland,Belgium,0,2,Friendly,Dublin,Republic of Ireland,False
+1949-04-25 00:00:00,Bolivia,Ecuador,2,0,Copa Am√©rica,S√£o Paulo,Brazil,True
+1949-04-25 00:00:00,Haiti,Trinidad and Tobago,5,0,Friendly,Port-au-Prince,Haiti,False
+1949-04-25 00:00:00,Uruguay,Colombia,2,2,Copa Am√©rica,S√£o Paulo,Brazil,True
+1949-04-27 00:00:00,Bolivia,Peru,0,3,Copa Am√©rica,Santos,Brazil,True
+1949-04-27 00:00:00,Chile,Paraguay,2,4,Copa Am√©rica,S√£o Paulo,Brazil,True
+1949-04-27 00:00:00,Scotland,France,2,0,Friendly,Glasgow,Scotland,False
+1949-04-30 00:00:00,Bolivia,Paraguay,0,7,Copa Am√©rica,Rio de Janeiro,Brazil,True
+1949-04-30 00:00:00,Brazil,Uruguay,5,1,Copa Am√©rica,Rio de Janeiro,Brazil,False
+1949-04-30 00:00:00,Chile,Peru,0,3,Copa Am√©rica,S√£o Paulo,Brazil,True
+1949-05-01 00:00:00,Ethiopia,Djibouti,6,0,Friendly,Addis Ababa,Ethiopia,False
+1949-05-02 00:00:00,Jamaica,Trinidad and Tobago,3,1,Friendly,Kingston,Jamaica,False
+1949-05-03 00:00:00,Colombia,Ecuador,1,4,Copa Am√©rica,Rio de Janeiro,Brazil,True
+1949-05-04 00:00:00,Jamaica,Trinidad and Tobago,2,1,Friendly,Kingston,Jamaica,False
+1949-05-04 00:00:00,Peru,Uruguay,4,3,Copa Am√©rica,Rio de Janeiro,Brazil,True
+1949-05-06 00:00:00,Bolivia,Colombia,4,0,Copa Am√©rica,Rio de Janeiro,Brazil,True
+1949-05-07 00:00:00,Jamaica,Trinidad and Tobago,1,2,Friendly,Kingston,Jamaica,False
+1949-05-08 00:00:00,Brazil,Paraguay,1,2,Copa Am√©rica,Rio de Janeiro,Brazil,False
+1949-05-08 00:00:00,Chile,Uruguay,3,1,Copa Am√©rica,Belo Horizonte,Brazil,True
+1949-05-08 00:00:00,Hungary,Austria,6,1,International Cup,Budapest,Hungary,False
+1949-05-08 00:00:00,Romania,Poland,2,1,Friendly,Bucharest,Romania,False
+1949-05-09 00:00:00,Cuba,Martinique,0,0,Friendly,Paramaribo,Suriname,True
+1949-05-09 00:00:00,Puerto Rico,Trinidad and Tobago,2,8,Friendly,San Juan,Puerto Rico,False
+1949-05-11 00:00:00,Brazil,Paraguay,7,0,Copa Am√©rica,Rio de Janeiro,Brazil,False
+1949-05-11 00:00:00,Puerto Rico,Trinidad and Tobago,0,7,Friendly,San Juan,Puerto Rico,False
+1949-05-12 00:00:00,Egypt,Turkey,2,3,Friendly,Athens,Greece,True
+1949-05-12 00:00:00,Suriname,Cuba,0,1,Friendly,Paramaribo,Suriname,False
+1949-05-13 00:00:00,Sweden,England,3,1,Friendly,Solna,Sweden,False
+1949-05-14 00:00:00,Cuba,Dominican Republic,0,1,Friendly,Paramaribo,Suriname,True
+1949-05-15 00:00:00,Greece,Turkey,1,2,Friendly,Athens,Greece,False
+1949-05-15 00:00:00,Portugal,Wales,3,2,Friendly,Oeiras,Portugal,False
+1949-05-18 00:00:00,Greece,Egypt,1,3,Friendly,Athens,Greece,False
+1949-05-18 00:00:00,Norway,England,1,4,Friendly,Oslo,Norway,False
+1949-05-22 00:00:00,Belgium,Wales,3,1,Friendly,Li√®ge,Belgium,False
+1949-05-22 00:00:00,Czechoslovakia,Romania,3,2,Friendly,Prague,Czechoslovakia,False
+1949-05-22 00:00:00,France,England,1,3,Friendly,Colombes,France,False
+1949-05-22 00:00:00,Republic of Ireland,Portugal,1,0,Friendly,Dublin,Republic of Ireland,False
+1949-05-22 00:00:00,Italy,Austria,3,1,International Cup,Florence,Italy,False

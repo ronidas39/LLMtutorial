@@ -1,0 +1,1001 @@
+date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
+1999-03-17 00:00:00,British Virgin Islands,Dominican Republic,0,0,CFU Caribbean Cup qualification,Port-au-Prince,Haiti,True
+1999-03-17 00:00:00,Costa Rica,Belize,7,0,UNCAF Cup,San Jos√©,Costa Rica,False
+1999-03-17 00:00:00,Guatemala,Nicaragua,1,0,UNCAF Cup,San Jos√©,Costa Rica,True
+1999-03-17 00:00:00,Haiti,Puerto Rico,2,0,CFU Caribbean Cup qualification,Port-au-Prince,Haiti,False
+1999-03-19 00:00:00,British Virgin Islands,Puerto Rico,5,0,CFU Caribbean Cup qualification,Port-au-Prince,Haiti,True
+1999-03-19 00:00:00,Guatemala,El Salvador,1,1,UNCAF Cup,San Jos√©,Costa Rica,True
+1999-03-19 00:00:00,Haiti,Dominican Republic,4,0,CFU Caribbean Cup qualification,Port-au-Prince,Haiti,False
+1999-03-19 00:00:00,Honduras,Belize,5,1,UNCAF Cup,San Jos√©,Costa Rica,True
+1999-03-20 00:00:00,Georgia,Ukraine,0,1,Friendly,Tbilisi,Georgia,False
+1999-03-21 00:00:00,Costa Rica,Honduras,0,1,UNCAF Cup,San Jos√©,Costa Rica,False
+1999-03-21 00:00:00,Dominican Republic,Puerto Rico,2,0,CFU Caribbean Cup qualification,Port-au-Prince,Haiti,True
+1999-03-21 00:00:00,El Salvador,Nicaragua,1,0,UNCAF Cup,San Jos√©,Costa Rica,True
+1999-03-21 00:00:00,Haiti,British Virgin Islands,6,0,CFU Caribbean Cup qualification,Port-au-Prince,Haiti,False
+1999-03-24 00:00:00,Costa Rica,Guatemala,1,0,UNCAF Cup,San Jos√©,Costa Rica,False
+1999-03-24 00:00:00,Honduras,El Salvador,3,1,UNCAF Cup,San Jos√©,Costa Rica,True
+1999-03-26 00:00:00,Costa Rica,Honduras,1,2,UNCAF Cup,San Jos√©,Costa Rica,False
+1999-03-26 00:00:00,Guatemala,El Salvador,1,0,UNCAF Cup,San Jos√©,Costa Rica,True
+1999-03-26 00:00:00,Portugal,Azerbaijan,7,0,UEFA Euro qualification,Guimar√£es,Portugal,False
+1999-03-27 00:00:00,Andorra,Iceland,0,2,UEFA Euro qualification,Sant Juli√† de L√≤ria,Andorra,False
+1999-03-27 00:00:00,Armenia,Russia,0,3,UEFA Euro qualification,Yerevan,Armenia,False
+1999-03-27 00:00:00,Belarus,Switzerland,0,1,UEFA Euro qualification,Minsk,Belarus,False
+1999-03-27 00:00:00,Belgium,Bulgaria,0,1,Friendly,Brussels,Belgium,False
+1999-03-27 00:00:00,Czech Republic,Lithuania,2,0,UEFA Euro qualification,Teplice,Czech Republic,False
+1999-03-27 00:00:00,Denmark,Italy,1,2,UEFA Euro qualification,Copenhagen,Denmark,False
+1999-03-27 00:00:00,England,Poland,3,1,UEFA Euro qualification,London,England,False
+1999-03-27 00:00:00,France,Ukraine,0,0,UEFA Euro qualification,Saint-Denis,France,False
+1999-03-27 00:00:00,Georgia,Slovenia,1,1,UEFA Euro qualification,Tbilisi,Georgia,False
+1999-03-27 00:00:00,Greece,Norway,0,2,UEFA Euro qualification,Athens,Greece,False
+1999-03-27 00:00:00,Hungary,Liechtenstein,5,0,UEFA Euro qualification,Budapest,Hungary,False
+1999-03-27 00:00:00,Northern Ireland,Germany,0,3,UEFA Euro qualification,Belfast,Northern Ireland,False
+1999-03-27 00:00:00,Romania,Slovakia,0,0,UEFA Euro qualification,Bucharest,Romania,False
+1999-03-27 00:00:00,Spain,Austria,9,0,UEFA Euro qualification,Valencia,Spain,False
+1999-03-27 00:00:00,Sweden,Luxembourg,2,0,UEFA Euro qualification,Gothenburg,Sweden,False
+1999-03-27 00:00:00,Turkey,Moldova,2,0,UEFA Euro qualification,Istanbul,Turkey,False
+1999-03-28 00:00:00,Costa Rica,El Salvador,4,0,UNCAF Cup,San Jos√©,Costa Rica,False
+1999-03-28 00:00:00,Honduras,Guatemala,0,2,UNCAF Cup,San Jos√©,Costa Rica,True
+1999-03-28 00:00:00,Israel,Cyprus,3,0,UEFA Euro qualification,Ramat-Gan,Israel,False
+1999-03-28 00:00:00,South Korea,Brazil,1,0,Friendly,Seoul,South Korea,False
+1999-03-28 00:00:00,Trinidad and Tobago,Jamaica,2,0,Friendly,Port of Spain,Trinidad and Tobago,False
+1999-03-30 00:00:00,Belgium,Egypt,0,1,Friendly,Li√®ge,Belgium,False
+1999-03-30 00:00:00,Venezuela,Colombia,0,0,Friendly,Maracaibo,Venezuela,False
+1999-03-31 00:00:00,Azerbaijan,Romania,0,1,UEFA Euro qualification,Baku,Azerbaijan,False
+1999-03-31 00:00:00,France,Armenia,2,0,UEFA Euro qualification,Saint-Denis,France,False
+1999-03-31 00:00:00,Germany,Finland,2,0,UEFA Euro qualification,Nuremberg,Germany,False
+1999-03-31 00:00:00,Italy,Belarus,1,1,UEFA Euro qualification,Ancona,Italy,False
+1999-03-31 00:00:00,Jamaica,Paraguay,3,0,Friendly,Kingston,Jamaica,False
+1999-03-31 00:00:00,Japan,Brazil,0,2,Friendly,Tokyo,Japan,False
+1999-03-31 00:00:00,Latvia,Greece,0,0,UEFA Euro qualification,Riga,Latvia,False
+1999-03-31 00:00:00,Liechtenstein,Portugal,0,5,UEFA Euro qualification,Vaduz,Liechtenstein,False
+1999-03-31 00:00:00,Lithuania,Estonia,1,2,UEFA Euro qualification,Vilnius,Lithuania,False
+1999-03-31 00:00:00,Luxembourg,Bulgaria,0,2,UEFA Euro qualification,Luxembourg,Luxembourg,False
+1999-03-31 00:00:00,Moldova,Northern Ireland,0,0,UEFA Euro qualification,Chi»ôinƒÉu,Moldova,False
+1999-03-31 00:00:00,Netherlands,Argentina,1,1,Friendly,Amsterdam,Netherlands,False
+1999-03-31 00:00:00,Poland,Sweden,0,1,UEFA Euro qualification,Chorz√≥w,Poland,False
+1999-03-31 00:00:00,Russia,Andorra,6,1,UEFA Euro qualification,Moscow,Russia,False
+1999-03-31 00:00:00,San Marino,Spain,0,6,UEFA Euro qualification,Serravalle,San Marino,False
+1999-03-31 00:00:00,Scotland,Czech Republic,1,2,UEFA Euro qualification,Glasgow,Scotland,False
+1999-03-31 00:00:00,Slovakia,Hungary,0,0,UEFA Euro qualification,Bratislava,Slovakia,False
+1999-03-31 00:00:00,Switzerland,Wales,2,0,UEFA Euro qualification,Z√ºrich,Switzerland,False
+1999-03-31 00:00:00,Ukraine,Iceland,1,1,UEFA Euro qualification,Kyiv,Ukraine,False
+1999-04-03 00:00:00,Mali,Burkina Faso,5,2,Friendly,Bamako,Mali,False
+1999-04-03 00:00:00,Eswatini,Namibia,1,1,Friendly,Mbabane,Eswatini,False
+1999-04-09 00:00:00,Algeria,Liberia,4,1,African Cup of Nations qualification,Annaba,Algeria,False
+1999-04-10 00:00:00,Gabon,South Africa,1,0,African Cup of Nations qualification,Libreville,Gabon,False
+1999-04-10 00:00:00,Mauritius,Angola,1,1,African Cup of Nations qualification,Curepipe,Mauritius,False
+1999-04-10 00:00:00,Uganda,Tunisia,0,2,African Cup of Nations qualification,Kampala,Uganda,False
+1999-04-10 00:00:00,Zambia,Kenya,1,0,African Cup of Nations qualification,Lusaka,Zambia,False
+1999-04-11 00:00:00,Burkina Faso,Burundi,3,1,African Cup of Nations qualification,Ouagadougou,Burkina Faso,False
+1999-04-11 00:00:00,DR Congo,Madagascar,2,0,African Cup of Nations qualification,Kinshasa,DR Congo,False
+1999-04-11 00:00:00,Ivory Coast,Congo,2,0,African Cup of Nations qualification,Abidjan,Ivory Coast,False
+1999-04-11 00:00:00,Mali,Namibia,2,1,African Cup of Nations qualification,Bamako,Mali,False
+1999-04-11 00:00:00,Mozambique,Cameroon,1,6,African Cup of Nations qualification,Maputo,Mozambique,False
+1999-04-13 00:00:00,Saint Vincent and the Grenadines,Grenada,2,1,Friendly,Kingstown,Saint Vincent and the Grenadines,False
+1999-04-14 00:00:00,Mexico,Ecuador,0,0,Friendly,Monterrey,Mexico,False
+1999-04-15 00:00:00,Venezuela,Colombia,1,1,Friendly,Caracas,Venezuela,False
+1999-04-17 00:00:00,Saint Lucia,Martinique,3,1,CFU Caribbean Cup qualification,Kingstown,Saint Vincent and the Grenadines,True
+1999-04-17 00:00:00,Saint Vincent and the Grenadines,Saint Kitts and Nevis,3,4,CFU Caribbean Cup qualification,Kingstown,Saint Vincent and the Grenadines,False
+1999-04-18 00:00:00,Martinique,Saint Kitts and Nevis,2,1,CFU Caribbean Cup qualification,Kingstown,Saint Vincent and the Grenadines,True
+1999-04-18 00:00:00,Saint Vincent and the Grenadines,Saint Lucia,2,2,CFU Caribbean Cup qualification,Kingstown,Saint Vincent and the Grenadines,False
+1999-04-20 00:00:00,Saint Kitts and Nevis,Saint Lucia,4,3,CFU Caribbean Cup qualification,Kingstown,Saint Vincent and the Grenadines,True
+1999-04-22 00:00:00,India,Bangladesh,0,0,SAFF Cup,Margao,India,False
+1999-04-22 00:00:00,Paraguay,Colombia,0,2,Friendly,Luque,Paraguay,False
+1999-04-23 00:00:00,Sri Lanka,Maldives,0,0,SAFF Cup,Margao,India,True
+1999-04-24 00:00:00,Malawi,Angola,1,2,COSAFA Cup qualification,Blantyre,Malawi,False
+1999-04-24 00:00:00,Pakistan,Bangladesh,0,4,SAFF Cup,Margao,India,True
+1999-04-25 00:00:00,Sri Lanka,Nepal,2,3,SAFF Cup,Margao,India,True
+1999-04-25 00:00:00,Eswatini,Lesotho,4,1,Friendly,Lobamba,Eswatini,False
+1999-04-26 00:00:00,India,Pakistan,2,0,SAFF Cup,Margao,India,False
+1999-04-27 00:00:00,Nepal,Maldives,2,3,SAFF Cup,Margao,India,True
+1999-04-27 00:00:00,Northern Ireland,Canada,1,1,Friendly,Belfast,Northern Ireland,False
+1999-04-28 00:00:00,Austria,San Marino,7,0,UEFA Euro qualification,Graz,Austria,False
+1999-04-28 00:00:00,Bolivia,Chile,1,1,Friendly,Cochabamba,Bolivia,False
+1999-04-28 00:00:00,Croatia,Italy,0,0,Friendly,Zagreb,Croatia,False
+1999-04-28 00:00:00,Denmark,South Africa,1,1,Friendly,Copenhagen,Denmark,False
+1999-04-28 00:00:00,Georgia,Norway,1,4,UEFA Euro qualification,Tbilisi,Georgia,False
+1999-04-28 00:00:00,Germany,Scotland,0,1,Friendly,Bremen,Germany,False
+1999-04-28 00:00:00,Greece,Switzerland,1,1,Friendly,Athens,Greece,False
+1999-04-28 00:00:00,Hungary,England,1,1,Friendly,Budapest,Hungary,False
+1999-04-28 00:00:00,Republic of Ireland,Sweden,2,0,Friendly,Dublin,Republic of Ireland,False
+1999-04-28 00:00:00,Latvia,Albania,0,0,UEFA Euro qualification,Riga,Latvia,False
+1999-04-28 00:00:00,Malta,Iceland,1,2,Friendly,Attard,Malta,False
+1999-04-28 00:00:00,Netherlands,Morocco,1,2,Friendly,Arnhem,Netherlands,False
+1999-04-28 00:00:00,Paraguay,Mexico,2,1,Friendly,Pedro Juan Caballero,Paraguay,False
+1999-04-28 00:00:00,Poland,Czech Republic,2,1,Friendly,Warsaw,Poland,False
+1999-04-28 00:00:00,Romania,Belgium,1,0,Friendly,Bucharest,Romania,False
+1999-04-28 00:00:00,Slovenia,Finland,1,1,Friendly,Ljubljana,Slovenia,False
+1999-04-29 00:00:00,Bangladesh,Nepal,2,1,SAFF Cup,Margao,India,True
+1999-04-29 00:00:00,India,Maldives,2,1,SAFF Cup,Margao,India,False
+1999-05-01 00:00:00,India,Bangladesh,2,0,SAFF Cup,Margao,India,False
+1999-05-01 00:00:00,Maldives,Nepal,2,0,SAFF Cup,Margao,India,True
+1999-05-03 00:00:00,Guernsey,Jersey,2,0,Friendly,St. Sampson,Guernsey,False
+1999-05-04 00:00:00,Cura√ßao,Grenada,1,3,CFU Caribbean Cup qualification,Willemstad,Netherlands Antilles,True
+1999-05-05 00:00:00,Bermuda,Bahamas,6,0,CFU Caribbean Cup qualification,Hamilton,Bermuda,False
+1999-05-05 00:00:00,Cuba,Cayman Islands,4,1,CFU Caribbean Cup qualification,Hamilton,Bermuda,True
+1999-05-05 00:00:00,Spain,Croatia,3,1,Friendly,Seville,Spain,False
+1999-05-06 00:00:00,Grenada,Suriname,0,0,CFU Caribbean Cup qualification,Willemstad,Netherlands Antilles,True
+1999-05-06 00:00:00,Trinidad and Tobago,South Africa,2,0,Friendly,Port of Spain,Trinidad and Tobago,False
+1999-05-07 00:00:00,Bermuda,Cayman Islands,4,1,CFU Caribbean Cup qualification,Hamilton,Bermuda,False
+1999-05-07 00:00:00,Cuba,Bahamas,7,0,CFU Caribbean Cup qualification,Hamilton,Bermuda,True
+1999-05-08 00:00:00,Cura√ßao,Suriname,1,1,CFU Caribbean Cup qualification,Willemstad,Netherlands Antilles,True
+1999-05-08 00:00:00,Namibia,Mali,0,0,African Cup of Nations qualification,Windhoek,Namibia,False
+1999-05-09 00:00:00,Bermuda,Cuba,1,2,CFU Caribbean Cup qualification,Hamilton,Bermuda,False
+1999-05-09 00:00:00,Cayman Islands,Bahamas,4,1,CFU Caribbean Cup qualification,Hamilton,Bermuda,True
+1999-05-09 00:00:00,Jamaica,South Africa,1,1,Friendly,Kingston,Jamaica,False
+1999-05-09 00:00:00,Eswatini,Mozambique,3,1,COSAFA Cup qualification,Lobamba,Eswatini,False
+1999-05-16 00:00:00,Libya,Senegal,2,1,Friendly,Tripoli,Libya,False
+1999-05-16 00:00:00,Eswatini,Botswana,2,1,Friendly,Lobamba,Eswatini,False
+1999-05-19 00:00:00,Russia,Belarus,1,1,Friendly,Tula,Russia,False
+1999-05-19 00:00:00,Slovakia,Bulgaria,2,0,Friendly,Dubnica nad V√°hom,Slovakia,False
+1999-05-20 00:00:00,Norway,Jamaica,6,0,Friendly,Oslo,Norway,False
+1999-05-21 00:00:00,Haiti,Honduras,0,2,Friendly,Miami,United States,True
+1999-05-22 00:00:00,Malawi,Namibia,1,1,COSAFA Cup qualification,Blantyre,Malawi,False
+1999-05-22 00:00:00,Uganda,Zambia,0,1,Friendly,Kampala,Uganda,False
+1999-05-27 00:00:00,Sweden,Jamaica,2,1,Friendly,Solna,Sweden,False
+1999-05-28 00:00:00,Botswana,Mozambique,0,2,COSAFA Cup qualification,Gaborone,Botswana,False
+1999-05-29 00:00:00,Canada,Guatemala,1,0,Friendly,Toronto,Canada,False
+1999-05-29 00:00:00,Chile,Costa Rica,3,0,Friendly,Concepci√≥n,Chile,False
+1999-05-29 00:00:00,El Salvador,Colombia,2,1,Friendly,East Rutherford,United States,True
+1999-05-29 00:00:00,Republic of Ireland,Northern Ireland,0,1,Friendly,Dublin,Republic of Ireland,False
+1999-05-29 00:00:00,Saint Kitts and Nevis,Antigua and Barbuda,4,1,Friendly,Basseterre,Saint Kitts and Nevis,False
+1999-05-30 00:00:00,Belgium,Peru,1,1,Kirin Cup,Kyoto,Japan,True
+1999-05-30 00:00:00,Lesotho,Mauritius,1,2,Friendly,Maseru,Lesotho,False
+1999-05-30 00:00:00,Norway,Georgia,1,0,UEFA Euro qualification,Oslo,Norway,False
+1999-06-01 00:00:00,Mali,Senegal,1,1,Friendly,Bamako,Mali,False
+1999-06-02 00:00:00,Canada,Guatemala,2,0,Friendly,Edmonton,Canada,False
+1999-06-02 00:00:00,Ecuador,Iran,1,1,Friendly,Edmonton,Canada,True
+1999-06-03 00:00:00,Grenada,Guadeloupe,2,1,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,True
+1999-06-03 00:00:00,Japan,Belgium,0,0,Kirin Cup,Tokyo,Japan,False
+1999-06-03 00:00:00,Trinidad and Tobago,Jamaica,1,0,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,False
+1999-06-04 00:00:00,Canada,Iran,0,1,Friendly,Edmonton,Canada,False
+1999-06-04 00:00:00,Cuba,Haiti,3,1,CFU Caribbean Cup,Macoya,Trinidad and Tobago,True
+1999-06-04 00:00:00,Ecuador,Guatemala,3,1,Friendly,Edmonton,Canada,True
+1999-06-04 00:00:00,Germany,Moldova,6,1,UEFA Euro qualification,Leverkusen,Germany,False
+1999-06-04 00:00:00,Poland,Bulgaria,2,0,UEFA Euro qualification,Warsaw,Poland,False
+1999-06-05 00:00:00,Albania,Norway,1,2,UEFA Euro qualification,Tirana,Albania,False
+1999-06-05 00:00:00,Azerbaijan,Liechtenstein,4,0,UEFA Euro qualification,Baku,Azerbaijan,False
+1999-06-05 00:00:00,Bosnia and Herzegovina,Lithuania,2,0,UEFA Euro qualification,Sarajevo,Bosnia and Herzegovina,False
+1999-06-05 00:00:00,Brazil,Netherlands,2,2,Friendly,Salvador,Brazil,False
+1999-06-05 00:00:00,Denmark,Belarus,1,0,UEFA Euro qualification,Copenhagen,Denmark,False
+1999-06-05 00:00:00,England,Sweden,0,0,UEFA Euro qualification,London,England,False
+1999-06-05 00:00:00,Estonia,Czech Republic,0,2,UEFA Euro qualification,Tallinn,Estonia,False
+1999-06-05 00:00:00,Faroe Islands,Scotland,1,1,UEFA Euro qualification,Toftir,Faroe Islands,False
+1999-06-05 00:00:00,Finland,Turkey,2,4,UEFA Euro qualification,Helsinki,Finland,False
+1999-06-05 00:00:00,France,Russia,2,3,UEFA Euro qualification,Saint-Denis,France,False
+1999-06-05 00:00:00,Georgia,Greece,1,2,UEFA Euro qualification,Tbilisi,Georgia,False
+1999-06-05 00:00:00,Guam,Micronesia,3,0,Friendly,Hag√§t√±a,Guam,False
+1999-06-05 00:00:00,Iceland,Armenia,2,0,UEFA Euro qualification,Reykjav√≠k,Iceland,False
+1999-06-05 00:00:00,Italy,Wales,4,0,UEFA Euro qualification,Bologna,Italy,False
+1999-06-05 00:00:00,Jamaica,Guadeloupe,5,1,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,True
+1999-06-05 00:00:00,South Korea,Belgium,1,2,Friendly,Seoul,South Korea,False
+1999-06-05 00:00:00,Latvia,Slovenia,1,2,UEFA Euro qualification,Riga,Latvia,False
+1999-06-05 00:00:00,North Macedonia,Croatia,1,1,UEFA Euro qualification,Skopje,North Macedonia,False
+1999-06-05 00:00:00,Namibia,Ivory Coast,1,1,African Cup of Nations qualification,Windhoek,Namibia,False
+1999-06-05 00:00:00,Portugal,Slovakia,1,0,UEFA Euro qualification,Lisbon,Portugal,False
+1999-06-05 00:00:00,Romania,Hungary,2,0,UEFA Euro qualification,Bucharest,Romania,False
+1999-06-05 00:00:00,South Africa,Mauritius,2,0,African Cup of Nations qualification,Durban,South Africa,False
+1999-06-05 00:00:00,Spain,San Marino,9,0,UEFA Euro qualification,Vila-real,Spain,False
+1999-06-05 00:00:00,Trinidad and Tobago,Grenada,7,0,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,False
+1999-06-05 00:00:00,Uganda,Liberia,1,0,African Cup of Nations qualification,Kampala,Uganda,False
+1999-06-05 00:00:00,Ukraine,Andorra,4,0,UEFA Euro qualification,Kyiv,Ukraine,False
+1999-06-06 00:00:00,Burkina Faso,Senegal,2,2,African Cup of Nations qualification,Ouagadougou,Burkina Faso,False
+1999-06-06 00:00:00,Cameroon,Eritrea,1,0,African Cup of Nations qualification,Yaound√©,Cameroon,False
+1999-06-06 00:00:00,Canada,Ecuador,1,2,Friendly,Edmonton,Canada,False
+1999-06-06 00:00:00,Gabon,Angola,3,1,African Cup of Nations qualification,Libreville,Gabon,False
+1999-06-06 00:00:00,Guatemala,Iran,2,2,Friendly,Edmonton,Canada,True
+1999-06-06 00:00:00,Haiti,Saint Kitts and Nevis,2,0,CFU Caribbean Cup,Macoya,Trinidad and Tobago,True
+1999-06-06 00:00:00,Israel,Austria,5,0,UEFA Euro qualification,Ramat-Gan,Israel,False
+1999-06-06 00:00:00,Japan,Peru,0,0,Kirin Cup,Yokohama,Japan,False
+1999-06-06 00:00:00,Kenya,DR Congo,0,1,African Cup of Nations qualification,Nairobi,Kenya,False
+1999-06-06 00:00:00,Mali,Congo,3,1,African Cup of Nations qualification,Bamako,Mali,False
+1999-06-06 00:00:00,Morocco,Guinea,1,0,African Cup of Nations qualification,Rabat,Morocco,False
+1999-06-06 00:00:00,Tunisia,Algeria,2,0,African Cup of Nations qualification,Tunis,Tunisia,False
+1999-06-07 00:00:00,Jamaica,Grenada,2,1,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,True
+1999-06-07 00:00:00,Trinidad and Tobago,Guadeloupe,3,2,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,False
+1999-06-08 00:00:00,Brazil,Netherlands,3,1,Friendly,Goi√¢nia,Brazil,False
+1999-06-08 00:00:00,Cuba,Saint Kitts and Nevis,2,0,CFU Caribbean Cup,Macoya,Trinidad and Tobago,True
+1999-06-08 00:00:00,Serbia,Malta,4,1,UEFA Euro qualification,Salonica,Greece,True
+1999-06-09 00:00:00,Albania,Slovenia,0,1,UEFA Euro qualification,Tirana,Albania,False
+1999-06-09 00:00:00,Andorra,France,0,1,UEFA Euro qualification,Barcelona,Spain,True
+1999-06-09 00:00:00,Armenia,Ukraine,0,0,UEFA Euro qualification,Yerevan,Armenia,False
+1999-06-09 00:00:00,Bulgaria,England,1,1,UEFA Euro qualification,Sofia,Bulgaria,False
+1999-06-09 00:00:00,Czech Republic,Scotland,3,2,UEFA Euro qualification,Prague,Czech Republic,False
+1999-06-09 00:00:00,Estonia,Lithuania,1,2,UEFA Euro qualification,Tallinn,Estonia,False
+1999-06-09 00:00:00,Faroe Islands,Bosnia and Herzegovina,2,2,UEFA Euro qualification,Toftir,Faroe Islands,False
+1999-06-09 00:00:00,Greece,Latvia,1,2,UEFA Euro qualification,Athens,Greece,False
+1999-06-09 00:00:00,Hungary,Slovakia,0,1,UEFA Euro qualification,Gy≈ër,Hungary,False
+1999-06-09 00:00:00,Republic of Ireland,North Macedonia,1,0,UEFA Euro qualification,Dublin,Republic of Ireland,False
+1999-06-09 00:00:00,Luxembourg,Poland,2,3,UEFA Euro qualification,Luxembourg,Luxembourg,False
+1999-06-09 00:00:00,Mexico,Argentina,2,2,Friendly,Chicago,United States,True
+1999-06-09 00:00:00,Moldova,Finland,0,0,UEFA Euro qualification,Chi»ôinƒÉu,Moldova,False
+1999-06-09 00:00:00,Portugal,Liechtenstein,8,0,UEFA Euro qualification,Coimbra,Portugal,False
+1999-06-09 00:00:00,Romania,Azerbaijan,4,0,UEFA Euro qualification,Bucharest,Romania,False
+1999-06-09 00:00:00,Russia,Iceland,1,0,UEFA Euro qualification,Moscow,Russia,False
+1999-06-09 00:00:00,Switzerland,Italy,0,0,UEFA Euro qualification,Lausanne,Switzerland,False
+1999-06-09 00:00:00,Wales,Denmark,0,2,UEFA Euro qualification,Liverpool,England,True
+1999-06-10 00:00:00,Cuba,Jamaica,2,0,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,True
+1999-06-10 00:00:00,Guam,Micronesia,4,1,Friendly,Hag√§t√±a,Guam,False
+1999-06-11 00:00:00,Trinidad and Tobago,Haiti,6,1,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,False
+1999-06-12 00:00:00,South Korea,Mexico,1,1,Korea Cup,Seoul,South Korea,False
+1999-06-13 00:00:00,Croatia,Egypt,2,2,Korea Cup,Seoul,South Korea,True
+1999-06-13 00:00:00,Kenya,Zanzibar,0,1,Friendly,Mombasa,Kenya,False
+1999-06-13 00:00:00,Trinidad and Tobago,Cuba,2,1,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,False
+1999-06-13 00:00:00,United States,Argentina,1,0,Friendly,Washington,United States,False
+1999-06-15 00:00:00,Venezuela,Ecuador,3,2,Friendly,San Crist√≥bal,Venezuela,False
+1999-06-16 00:00:00,Brazil,Poland,2,0,Friendly,Bangkok,Thailand,True
+1999-06-16 00:00:00,Croatia,Mexico,2,1,Korea Cup,Seoul,South Korea,True
+1999-06-16 00:00:00,South Korea,Egypt,0,0,Korea Cup,Seoul,South Korea,False
+1999-06-16 00:00:00,South Africa,Zimbabwe,0,1,Friendly,Johannesburg,South Africa,False
+1999-06-16 00:00:00,Thailand,New Zealand,2,2,Friendly,Bangkok,Thailand,False
+1999-06-17 00:00:00,Colombia,Peru,3,3,Friendly,Manizales,Colombia,False
+1999-06-17 00:00:00,Paraguay,Uruguay,2,3,Friendly,Ciudad del Este,Paraguay,False
+1999-06-18 00:00:00,Egypt,Mexico,0,2,Korea Cup,Seoul,South Korea,True
+1999-06-18 00:00:00,Saudi Arabia,Jordan,2,1,Friendly,Riyadh,Saudi Arabia,False
+1999-06-19 00:00:00,Eritrea,Mozambique,1,0,African Cup of Nations qualification,Asmara,Eritrea,False
+1999-06-19 00:00:00,South Korea,Croatia,1,1,Korea Cup,Seoul,South Korea,False
+1999-06-19 00:00:00,New Zealand,Poland,0,0,Friendly,Bangkok,Thailand,True
+1999-06-19 00:00:00,Senegal,Burundi,1,0,African Cup of Nations qualification,Dakar,Senegal,False
+1999-06-19 00:00:00,Thailand,Brazil,0,2,Friendly,Bangkok,Thailand,False
+1999-06-20 00:00:00,Algeria,Uganda,2,0,African Cup of Nations qualification,Annaba,Algeria,False
+1999-06-20 00:00:00,Angola,South Africa,2,2,African Cup of Nations qualification,Luanda,Angola,False
+1999-06-20 00:00:00,Chile,Bolivia,1,0,Friendly,Santiago,Chile,False
+1999-06-20 00:00:00,Congo,Namibia,3,0,African Cup of Nations qualification,Pointe-Noire,Congo,False
+1999-06-20 00:00:00,DR Congo,Zambia,0,1,African Cup of Nations qualification,Kinshasa,DR Congo,False
+1999-06-20 00:00:00,Guinea,Togo,2,1,African Cup of Nations qualification,Conakry,Guinea,False
+1999-06-20 00:00:00,Ivory Coast,Mali,0,0,African Cup of Nations qualification,Abidjan,Ivory Coast,False
+1999-06-20 00:00:00,Liberia,Tunisia,2,0,African Cup of Nations qualification,Monrovia,Liberia,False
+1999-06-20 00:00:00,Madagascar,Kenya,1,1,African Cup of Nations qualification,Antananarivo,Madagascar,False
+1999-06-20 00:00:00,Mauritius,Gabon,2,2,African Cup of Nations qualification,Les Avirons,R√©union,True
+1999-06-20 00:00:00,Venezuela,Peru,3,0,Friendly,Valencia,Venezuela,False
+1999-06-22 00:00:00,Oman,New Zealand,1,0,Friendly,Muscat,Oman,False
+1999-06-22 00:00:00,Saudi Arabia,Jordan,2,0,Friendly,Riyadh,Saudi Arabia,False
+1999-06-22 00:00:00,Uganda,Zambia,0,1,Friendly,Kampala,Uganda,False
+1999-06-23 00:00:00,Peru,Venezuela,3,0,Friendly,Lima,Peru,False
+1999-06-24 00:00:00,Oman,New Zealand,2,2,Friendly,Muscat,Oman,False
+1999-06-24 00:00:00,Paraguay,Colombia,2,1,Friendly,Asunci√≥n,Paraguay,False
+1999-06-26 00:00:00,Argentina,Lithuania,0,0,Friendly,Buenos Aires,Argentina,False
+1999-06-26 00:00:00,Brazil,Latvia,3,0,Friendly,Curitiba,Brazil,False
+1999-06-27 00:00:00,Jersey,√Öland Islands,1,0,Island Games,Visby,Sweden,True
+1999-06-27 00:00:00,Gotland,Hitra,12,1,Island Games,Gutavallen,Sweden,False
+1999-06-27 00:00:00,Isle of Man,Shetland,2,1,Island Games,Dalhem,Sweden,True
+1999-06-27 00:00:00,Isle of Wight,Fr√∏ya,6,2,Island Games,Fardhem,Sweden,True
+1999-06-27 00:00:00,Greenland,Saare County,4,1,Island Games,V√§skinde,Sweden,True
+1999-06-27 00:00:00,Ynys M√¥n,Rhodes,1,1,Island Games,F√•r√∂sund,Sweden,True
+1999-06-28 00:00:00,Jordan,Iraq,0,1,Friendly,Amman,Jordan,False
+1999-06-28 00:00:00,√Öland Islands,Gibraltar,2,1,Island Games,V√§skinde,Sweden,True
+1999-06-28 00:00:00,Gotland,Shetland,3,1,Island Games,Visby,Sweden,False
+1999-06-28 00:00:00,Hitra,Isle of Man,0,13,Island Games,Fardhem,Sweden,True
+1999-06-28 00:00:00,Fr√∏ya,Greenland,1,3,Island Games,Dalhem,Sweden,True
+1999-06-28 00:00:00,Saare County,Isle of Wight,1,6,Island Games,F√•r√∂sund,Sweden,True
+1999-06-28 00:00:00,Rhodes,Guernsey,0,0,Island Games,Visby,Sweden,True
+1999-06-29 00:00:00,Paraguay,Bolivia,0,0,Copa Am√©rica,Asunci√≥n,Paraguay,False
+1999-06-29 00:00:00,Peru,Japan,3,2,Copa Am√©rica,Asunci√≥n,Paraguay,True
+1999-06-29 00:00:00,Singapore,New Zealand,0,1,Friendly,Singapore,Singapore,False
+1999-06-29 00:00:00,Zimbabwe,Egypt,1,1,Friendly,Harare,Zimbabwe,False
+1999-06-29 00:00:00,Gibraltar,Jersey,1,5,Island Games,Fardhem,Sweden,True
+1999-06-29 00:00:00,Gotland,Isle of Man,4,4,Island Games,Visby,Sweden,False
+1999-06-29 00:00:00,Shetland,Hitra,4,1,Island Games,F√•r√∂sund,Sweden,True
+1999-06-29 00:00:00,Isle of Wight,Greenland,7,2,Island Games,V√§skinde,Sweden,True
+1999-06-29 00:00:00,Saare County,Fr√∏ya,1,4,Island Games,Dalhem,Sweden,True
+1999-06-29 00:00:00,Guernsey,Ynys M√¥n,1,1,Island Games,Visby,Sweden,True
+1999-06-30 00:00:00,Brazil,Venezuela,7,0,Copa Am√©rica,Ciudad del Este,Paraguay,True
+1999-06-30 00:00:00,Chile,Mexico,0,1,Copa Am√©rica,Ciudad del Este,Paraguay,True
+1999-06-30 00:00:00,Jordan,Iraq,1,1,Friendly,Amman,Jordan,False
+1999-07-01 00:00:00,Argentina,Ecuador,3,1,Copa Am√©rica,Luque,Paraguay,True
+1999-07-01 00:00:00,Malaysia,New Zealand,2,1,Friendly,Shah Alam,Malaysia,False
+1999-07-01 00:00:00,Uruguay,Colombia,0,1,Copa Am√©rica,Asunci√≥n,Paraguay,True
+1999-07-01 00:00:00,Hitra,Saare County,2,1,Island Games,Dalhem,Sweden,True
+1999-07-01 00:00:00,Guernsey,Fr√∏ya,4,2,Island Games,V√§skinde,Sweden,True
+1999-07-01 00:00:00,Shetland,Gibraltar,3,2,Island Games,Visby,Sweden,True
+1999-07-01 00:00:00,Greenland,Rhodes,0,2,Island Games,F√•r√∂sund,Sweden,True
+1999-07-01 00:00:00,Gotland,√Öland Islands,1,4,Island Games,Fardhem,Sweden,False
+1999-07-01 00:00:00,Gotland,Greenland,7,2,Island Games,Norrbacka,Sweden,False
+1999-07-01 00:00:00,Isle of Wight,Ynys M√¥n,1,3,Island Games,Visby,Sweden,True
+1999-07-01 00:00:00,Isle of Man,Jersey,1,0,Island Games,Visby,Sweden,True
+1999-07-02 00:00:00,Lithuania,Indonesia,2,2,Friendly,Valga,Estonia,True
+1999-07-02 00:00:00,Paraguay,Japan,4,0,Copa Am√©rica,Asunci√≥n,Paraguay,False
+1999-07-02 00:00:00,Peru,Bolivia,1,0,Copa Am√©rica,Asunci√≥n,Paraguay,True
+1999-07-02 00:00:00,Gibraltar,Fr√∏ya,5,1,Island Games,Visby,Sweden,True
+1999-07-02 00:00:00,Guernsey,Shetland,6,5,Island Games,Visby,Sweden,True
+1999-07-02 00:00:00,Rhodes,√Öland Islands,3,2,Island Games,Visby,Sweden,True
+1999-07-02 00:00:00,Isle of Wight,Jersey,2,0,Island Games,Visby,Sweden,True
+1999-07-02 00:00:00,Ynys M√¥n,Isle of Man,1,0,Island Games,Visby,Sweden,True
+1999-07-03 00:00:00,Brazil,Mexico,2,1,Copa Am√©rica,Ciudad del Este,Paraguay,True
+1999-07-03 00:00:00,Chile,Venezuela,3,0,Copa Am√©rica,Ciudad del Este,Paraguay,True
+1999-07-03 00:00:00,Malaysia,New Zealand,1,5,Friendly,Kuala Lumpur,Malaysia,False
+1999-07-04 00:00:00,Argentina,Colombia,0,3,Copa Am√©rica,Luque,Paraguay,True
+1999-07-04 00:00:00,Lesotho,Angola,0,1,COSAFA Cup,Maseru,Lesotho,False
+1999-07-04 00:00:00,Uruguay,Ecuador,2,1,Copa Am√©rica,Luque,Paraguay,True
+1999-07-05 00:00:00,Bolivia,Japan,1,1,Copa Am√©rica,Pedro Juan Caballero,Paraguay,True
+1999-07-05 00:00:00,Paraguay,Peru,1,0,Copa Am√©rica,Pedro Juan Caballero,Paraguay,False
+1999-07-06 00:00:00,Brazil,Chile,1,0,Copa Am√©rica,Ciudad del Este,Paraguay,True
+1999-07-06 00:00:00,Malawi,Uganda,0,2,Friendly,Blantyre,Malawi,False
+1999-07-06 00:00:00,Mexico,Venezuela,3,1,Copa Am√©rica,Ciudad del Este,Paraguay,True
+1999-07-07 00:00:00,Colombia,Ecuador,2,1,Copa Am√©rica,Luque,Paraguay,True
+1999-07-07 00:00:00,Uruguay,Argentina,0,2,Copa Am√©rica,Luque,Paraguay,True
+1999-07-09 00:00:00,Canada,Saudi Arabia,0,2,Friendly,Fullerton,United States,True
+1999-07-10 00:00:00,Egypt,New Zealand,1,1,Friendly,Mexico City,Mexico,True
+1999-07-10 00:00:00,Mexico,Peru,3,3,Copa Am√©rica,Asunci√≥n,Paraguay,True
+1999-07-10 00:00:00,Paraguay,Uruguay,1,1,Copa Am√©rica,Asunci√≥n,Paraguay,False
+1999-07-11 00:00:00,Brazil,Argentina,2,1,Copa Am√©rica,Ciudad del Este,Paraguay,True
+1999-07-11 00:00:00,Chile,Colombia,3,2,Copa Am√©rica,Luque,Paraguay,True
+1999-07-11 00:00:00,Uzbekistan,Malaysia,3,0,Friendly,Samarqand,Uzbekistan,False
+1999-07-12 00:00:00,Micronesia,Northern Mariana Islands,7,0,Friendly,Colonia,Micronesia,False
+1999-07-13 00:00:00,Jamaica,Saudi Arabia,2,1,Friendly,San Bernardino,United States,True
+1999-07-13 00:00:00,Uruguay,Chile,1,1,Copa Am√©rica,Asunci√≥n,Paraguay,True
+1999-07-14 00:00:00,Mexico,Brazil,0,2,Copa Am√©rica,Ciudad del Este,Paraguay,True
+1999-07-15 00:00:00,Egypt,New Zealand,1,0,Friendly,Guadalajara,Mexico,True
+1999-07-15 00:00:00,Jamaica,Saudi Arabia,0,4,Friendly,Fullerton,United States,True
+1999-07-16 00:00:00,Jordan,Syria,1,0,Friendly,Amman,Jordan,False
+1999-07-17 00:00:00,Chile,Mexico,1,2,Copa Am√©rica,Asunci√≥n,Paraguay,True
+1999-07-17 00:00:00,Costa Rica,Saudi Arabia,1,0,Friendly,Fullerton,United States,True
+1999-07-18 00:00:00,Brazil,Uruguay,3,0,Copa Am√©rica,Asunci√≥n,Paraguay,True
+1999-07-18 00:00:00,Jordan,Syria,4,0,Friendly,Amman,Jordan,False
+1999-07-18 00:00:00,Senegal,Eritrea,6,2,African Cup of Nations qualification,Dakar,Senegal,False
+1999-07-18 00:00:00,Eswatini,Zimbabwe,1,1,COSAFA Cup,Lobamba,Eswatini,False
+1999-07-21 00:00:00,Oman,Kenya,2,2,Friendly,Muscat,Oman,False
+1999-07-24 00:00:00,Brazil,Germany,4,0,Confederations Cup,Guadalajara,Mexico,True
+1999-07-24 00:00:00,New Zealand,United States,1,2,Confederations Cup,Guadalajara,Mexico,True
+1999-07-24 00:00:00,Rwanda,Djibouti,4,1,CECAFA Cup,Kigali,Rwanda,False
+1999-07-24 00:00:00,Thailand,Uzbekistan,1,0,Friendly,Bangkok,Thailand,False
+1999-07-25 00:00:00,Bolivia,Egypt,2,2,Confederations Cup,Mexico City,Mexico,True
+1999-07-25 00:00:00,Burundi,Uganda,0,0,CECAFA Cup,Kigali,Rwanda,True
+1999-07-25 00:00:00,Ethiopia,Zanzibar,2,0,CECAFA Cup,Kigali,Rwanda,True
+1999-07-25 00:00:00,Mexico,Saudi Arabia,5,1,Confederations Cup,Mexico City,Mexico,False
+1999-07-26 00:00:00,Tanzania,Djibouti,2,1,CECAFA Cup,Kigali,Rwanda,True
+1999-07-27 00:00:00,Burundi,Somalia,3,0,CECAFA Cup,Kigali,Rwanda,True
+1999-07-27 00:00:00,Ethiopia,Sudan,0,0,CECAFA Cup,Kigali,Rwanda,True
+1999-07-27 00:00:00,Mexico,Egypt,2,2,Confederations Cup,Mexico City,Mexico,False
+1999-07-27 00:00:00,Saudi Arabia,Bolivia,0,0,Confederations Cup,Mexico City,Mexico,True
+1999-07-28 00:00:00,Brazil,United States,1,0,Confederations Cup,Guadalajara,Mexico,True
+1999-07-28 00:00:00,El Salvador,Guatemala,0,2,Friendly,Los Angeles,United States,True
+1999-07-28 00:00:00,Germany,New Zealand,2,0,Confederations Cup,Guadalajara,Mexico,True
+1999-07-28 00:00:00,Kenya,Eritrea,1,0,CECAFA Cup,Kigali,Rwanda,True
+1999-07-28 00:00:00,Rwanda,Tanzania,0,0,CECAFA Cup,Kigali,Rwanda,False
+1999-07-29 00:00:00,Egypt,Saudi Arabia,1,5,Confederations Cup,Mexico City,Mexico,True
+1999-07-29 00:00:00,Mexico,Bolivia,1,0,Confederations Cup,Mexico City,Mexico,False
+1999-07-29 00:00:00,Somalia,Uganda,0,2,CECAFA Cup,Kigali,Rwanda,True
+1999-07-29 00:00:00,Sudan,Zanzibar,1,1,CECAFA Cup,Kigali,Rwanda,True
+1999-07-30 00:00:00,New Zealand,Brazil,0,2,Confederations Cup,Guadalajara,Mexico,True
+1999-07-30 00:00:00,United States,Germany,2,0,Confederations Cup,Guadalajara,Mexico,True
+1999-07-31 00:00:00,Burundi,Tanzania,1,0,CECAFA Cup,Kigali,Rwanda,True
+1999-07-31 00:00:00,Namibia,South Africa,1,1,COSAFA Cup,Windhoek,Namibia,False
+1999-07-31 00:00:00,Rwanda,Uganda,1,0,CECAFA Cup,Kigali,Rwanda,False
+1999-08-01 00:00:00,Brazil,Saudi Arabia,8,2,Confederations Cup,Guadalajara,Mexico,True
+1999-08-01 00:00:00,Kenya,Sudan,3,0,CECAFA Cup,Kigali,Rwanda,True
+1999-08-01 00:00:00,Mexico,United States,1,0,Confederations Cup,Mexico City,Mexico,False
+1999-08-03 00:00:00,Oman,Kyrgyzstan,3,0,AFC Asian Cup qualification,Dushanbe,Tajikistan,True
+1999-08-03 00:00:00,Rwanda,Kenya,0,0,Friendly,Kigali,Rwanda,False
+1999-08-03 00:00:00,Tajikistan,Iraq,1,2,AFC Asian Cup qualification,Dushanbe,Tajikistan,False
+1999-08-03 00:00:00,United States,Saudi Arabia,2,0,Confederations Cup,Guadalajara,Mexico,True
+1999-08-04 00:00:00,Mexico,Brazil,4,3,Confederations Cup,Mexico City,Mexico,False
+1999-08-05 00:00:00,Iraq,Oman,2,0,AFC Asian Cup qualification,Dushanbe,Tajikistan,True
+1999-08-05 00:00:00,Tajikistan,Kyrgyzstan,3,2,AFC Asian Cup qualification,Dushanbe,Tajikistan,False
+1999-08-07 00:00:00,Ghana,Jamaica,2,1,Friendly,Accra,Ghana,False
+1999-08-07 00:00:00,Iraq,Kyrgyzstan,5,1,AFC Asian Cup qualification,Dushanbe,Tajikistan,True
+1999-08-07 00:00:00,Rwanda,Burundi,0,0,Friendly,Kigali,Rwanda,False
+1999-08-07 00:00:00,Tajikistan,Oman,2,1,AFC Asian Cup qualification,Dushanbe,Tajikistan,False
+1999-08-07 00:00:00,Zambia,Mozambique,1,1,COSAFA Cup,Lusaka,Zambia,False
+1999-08-08 00:00:00,Senegal,Zimbabwe,2,0,African Cup of Nations qualification,Dakar,Senegal,False
+1999-08-14 00:00:00,Zambia,Angola,0,1,COSAFA Cup,Lusaka,Zambia,False
+1999-08-15 00:00:00,Lesotho,Eswatini,0,3,Friendly,Maseru,Lesotho,False
+1999-08-15 00:00:00,Zimbabwe,Eritrea,4,0,African Cup of Nations qualification,Harare,Zimbabwe,False
+1999-08-17 00:00:00,Mozambique,Nigeria,0,1,Friendly,Maputo,Mozambique,False
+1999-08-18 00:00:00,Belarus,Russia,0,2,Friendly,Minsk,Belarus,False
+1999-08-18 00:00:00,Belgium,Finland,3,4,Friendly,Bruges,Belgium,False
+1999-08-18 00:00:00,Cyprus,Romania,2,2,Friendly,Limassol,Cyprus,False
+1999-08-18 00:00:00,Czech Republic,Switzerland,3,0,Friendly,Drnovice,Czech Republic,False
+1999-08-18 00:00:00,Denmark,Netherlands,0,0,Friendly,Copenhagen,Denmark,False
+1999-08-18 00:00:00,Estonia,Armenia,2,0,Friendly,P√§rnu,Estonia,False
+1999-08-18 00:00:00,Faroe Islands,Iceland,0,1,Friendly,T√≥rshavn,Faroe Islands,False
+1999-08-18 00:00:00,Greece,El Salvador,3,1,Friendly,Kav√°la,Greece,False
+1999-08-18 00:00:00,Hungary,Moldova,1,1,Friendly,Budapest,Hungary,False
+1999-08-18 00:00:00,Liechtenstein,Bosnia and Herzegovina,0,0,Friendly,Vaduz,Liechtenstein,False
+1999-08-18 00:00:00,Northern Ireland,France,0,1,Friendly,Belfast,Northern Ireland,False
+1999-08-18 00:00:00,Norway,Lithuania,1,0,Friendly,Oslo,Norway,False
+1999-08-18 00:00:00,Poland,Spain,1,2,Friendly,Warsaw,Poland,False
+1999-08-18 00:00:00,Portugal,Andorra,4,0,Friendly,Oeiras,Portugal,False
+1999-08-18 00:00:00,Serbia,Croatia,0,0,UEFA Euro qualification,Belgrade,Yugoslavia,False
+1999-08-18 00:00:00,Slovakia,Israel,1,0,Friendly,Bratislava,Slovakia,False
+1999-08-18 00:00:00,Slovenia,Albania,2,0,UEFA Euro qualification,Ljubljana,Slovenia,False
+1999-08-18 00:00:00,Sweden,Austria,0,0,Friendly,Malm√∂,Sweden,False
+1999-08-18 00:00:00,Ukraine,Bulgaria,1,1,Friendly,Kyiv,Ukraine,False
+1999-08-18 00:00:00,Uruguay,Costa Rica,5,4,Friendly,Montevideo,Uruguay,False
+1999-08-18 00:00:00,Uzbekistan,Azerbaijan,5,1,Friendly,Samarqand,Uzbekistan,False
+1999-08-20 00:00:00,Greece,El Salvador,3,0,Friendly,Kav√°la,Greece,False
+1999-08-21 00:00:00,Croatia,Malta,2,1,UEFA Euro qualification,Zagreb,Croatia,False
+1999-08-25 00:00:00,Bolivia,Venezuela,0,0,Friendly,Sucre,Bolivia,False
+1999-08-28 00:00:00,Namibia,Eswatini,1,1,COSAFA Cup,Windhoek,Namibia,False
+1999-08-28 00:00:00,Nigeria,Ghana,0,0,Friendly,Lagos,Nigeria,False
+1999-09-01 00:00:00,Republic of Ireland,Serbia,2,1,UEFA Euro qualification,Dublin,Republic of Ireland,False
+1999-09-02 00:00:00,Canada,Jamaica,1,0,Friendly,Toronto,Canada,False
+1999-09-04 00:00:00,Albania,Latvia,3,3,UEFA Euro qualification,Tirana,Albania,False
+1999-09-04 00:00:00,Argentina,Brazil,2,0,Friendly,Buenos Aires,Argentina,False
+1999-09-04 00:00:00,Austria,Spain,1,3,UEFA Euro qualification,Vienna,Austria,False
+1999-09-04 00:00:00,Belarus,Wales,1,2,UEFA Euro qualification,Minsk,Belarus,False
+1999-09-04 00:00:00,Bosnia and Herzegovina,Scotland,1,2,UEFA Euro qualification,Sarajevo,Bosnia and Herzegovina,False
+1999-09-04 00:00:00,Croatia,Republic of Ireland,1,0,UEFA Euro qualification,Zagreb,Croatia,False
+1999-09-04 00:00:00,Denmark,Switzerland,2,1,UEFA Euro qualification,Copenhagen,Denmark,False
+1999-09-04 00:00:00,England,Luxembourg,6,0,UEFA Euro qualification,London,England,False
+1999-09-04 00:00:00,Faroe Islands,Estonia,0,2,UEFA Euro qualification,T√≥rshavn,Faroe Islands,False
+1999-09-04 00:00:00,Finland,Germany,1,2,UEFA Euro qualification,Helsinki,Finland,False
+1999-09-04 00:00:00,Iceland,Andorra,3,0,UEFA Euro qualification,Reykjav√≠k,Iceland,False
+1999-09-04 00:00:00,Liechtenstein,Hungary,0,0,UEFA Euro qualification,Vaduz,Liechtenstein,False
+1999-09-04 00:00:00,Lithuania,Czech Republic,0,4,UEFA Euro qualification,Vilnius,Lithuania,False
+1999-09-04 00:00:00,Netherlands,Belgium,5,5,Friendly,Rotterdam,Netherlands,False
+1999-09-04 00:00:00,Northern Ireland,Turkey,0,3,UEFA Euro qualification,Belfast,Northern Ireland,False
+1999-09-04 00:00:00,Norway,Greece,1,0,UEFA Euro qualification,Oslo,Norway,False
+1999-09-04 00:00:00,Russia,Armenia,2,0,UEFA Euro qualification,Moscow,Russia,False
+1999-09-04 00:00:00,Slovakia,Romania,1,5,UEFA Euro qualification,Bratislava,Slovakia,False
+1999-09-04 00:00:00,Slovenia,Georgia,2,1,UEFA Euro qualification,Ljubljana,Slovenia,False
+1999-09-04 00:00:00,Sweden,Bulgaria,1,0,UEFA Euro qualification,Solna,Sweden,False
+1999-09-04 00:00:00,Ukraine,France,0,0,UEFA Euro qualification,Kyiv,Ukraine,False
+1999-09-05 00:00:00,Cyprus,Israel,3,2,UEFA Euro qualification,Limassol,Cyprus,False
+1999-09-05 00:00:00,Serbia,North Macedonia,3,1,UEFA Euro qualification,Belgrade,Yugoslavia,False
+1999-09-07 00:00:00,Belgium,Morocco,4,0,Friendly,Li√®ge,Belgium,False
+1999-09-07 00:00:00,Brazil,Argentina,4,2,Friendly,Porto Alegre,Brazil,False
+1999-09-08 00:00:00,Andorra,Russia,1,2,UEFA Euro qualification,Sant Juli√† de L√≤ria,Andorra,False
+1999-09-08 00:00:00,Armenia,France,2,3,UEFA Euro qualification,Yerevan,Armenia,False
+1999-09-08 00:00:00,Czech Republic,Bosnia and Herzegovina,3,0,UEFA Euro qualification,Teplice,Czech Republic,False
+1999-09-08 00:00:00,Estonia,Scotland,0,0,UEFA Euro qualification,Tallinn,Estonia,False
+1999-09-08 00:00:00,Faroe Islands,Lithuania,0,1,UEFA Euro qualification,T√≥rshavn,Faroe Islands,False
+1999-09-08 00:00:00,Georgia,Latvia,2,2,UEFA Euro qualification,Tbilisi,Georgia,False
+1999-09-08 00:00:00,Germany,Northern Ireland,4,0,UEFA Euro qualification,Dortmund,Germany,False
+1999-09-08 00:00:00,Hungary,Azerbaijan,3,0,UEFA Euro qualification,Budapest,Hungary,False
+1999-09-08 00:00:00,Iceland,Ukraine,0,1,UEFA Euro qualification,Reykjav√≠k,Iceland,False
+1999-09-08 00:00:00,Israel,San Marino,8,0,UEFA Euro qualification,Ramat-Gan,Israel,False
+1999-09-08 00:00:00,Italy,Denmark,2,3,UEFA Euro qualification,Naples,Italy,False
+1999-09-08 00:00:00,Jamaica,United States,2,2,Friendly,Kingston,Jamaica,False
+1999-09-08 00:00:00,Japan,Iran,1,1,Friendly,Yokohama,Japan,False
+1999-09-08 00:00:00,Luxembourg,Sweden,0,1,UEFA Euro qualification,Luxembourg,Luxembourg,False
+1999-09-08 00:00:00,North Macedonia,Serbia,2,4,UEFA Euro qualification,Skopje,North Macedonia,False
+1999-09-08 00:00:00,Malta,Republic of Ireland,2,3,UEFA Euro qualification,Attard,Malta,False
+1999-09-08 00:00:00,Moldova,Turkey,1,1,UEFA Euro qualification,Chi»ôinƒÉu,Moldova,False
+1999-09-08 00:00:00,Norway,Slovenia,4,0,UEFA Euro qualification,Oslo,Norway,False
+1999-09-08 00:00:00,Poland,England,0,0,UEFA Euro qualification,Warsaw,Poland,False
+1999-09-08 00:00:00,Romania,Portugal,1,1,UEFA Euro qualification,Bucharest,Romania,False
+1999-09-08 00:00:00,Slovakia,Liechtenstein,2,0,UEFA Euro qualification,Dubnica nad V√°hom,Slovakia,False
+1999-09-08 00:00:00,Spain,Cyprus,8,0,UEFA Euro qualification,Badajoz,Spain,False
+1999-09-08 00:00:00,Switzerland,Belarus,2,0,UEFA Euro qualification,Lausanne,Switzerland,False
+1999-09-08 00:00:00,Trinidad and Tobago,Colombia,4,3,Friendly,Miami,United States,True
+1999-09-08 00:00:00,Uruguay,Venezuela,2,0,Friendly,Montevideo,Uruguay,False
+1999-09-08 00:00:00,Zambia,Saudi Arabia,0,0,Friendly,Harare,Zimbabwe,True
+1999-09-09 00:00:00,Bermuda,Cayman Islands,3,1,Friendly,Hamilton,Bermuda,False
+1999-09-09 00:00:00,Dominica,Saint Lucia,0,2,Friendly,Georgetown,Guyana,True
+1999-09-11 00:00:00,Bermuda,Cayman Islands,1,0,Friendly,Hamilton,Bermuda,False
+1999-09-11 00:00:00,Zambia,Saudi Arabia,1,2,Friendly,Harare,Zimbabwe,True
+1999-09-19 00:00:00,South Africa,Saudi Arabia,1,0,Friendly,Cape Town,South Africa,False
+1999-09-22 00:00:00,Cayman Islands,Bahamas,4,0,Friendly,George Town,Cayman Islands,False
+1999-09-26 00:00:00,Angola,Namibia,1,0,COSAFA Cup,Luanda,Angola,False
+1999-09-28 00:00:00,Haiti,Venezuela,3,2,Friendly,Port-au-Prince,Haiti,False
+1999-09-30 00:00:00,Saudi Arabia,South Africa,0,0,Friendly,Riyadh,Saudi Arabia,False
+1999-10-02 00:00:00,Namibia,Angola,1,1,COSAFA Cup,Windhoek,Namibia,False
+1999-10-05 00:00:00,Scotland,Bosnia and Herzegovina,1,0,UEFA Euro qualification,Glasgow,Scotland,False
+1999-10-06 00:00:00,Canada,Cuba,0,0,Gold Cup qualification,Los Angeles,United States,True
+1999-10-06 00:00:00,El Salvador,Haiti,1,1,Gold Cup qualification,Los Angeles,United States,True
+1999-10-06 00:00:00,Greece,Albania,2,0,UEFA Euro qualification,Athens,Greece,False
+1999-10-08 00:00:00,Canada,El Salvador,2,1,Gold Cup qualification,Los Angeles,United States,True
+1999-10-08 00:00:00,Cuba,Haiti,0,1,Gold Cup qualification,Los Angeles,United States,True
+1999-10-09 00:00:00,Albania,Georgia,2,1,UEFA Euro qualification,Tirana,Albania,False
+1999-10-09 00:00:00,Andorra,Armenia,0,3,UEFA Euro qualification,Sant Juli√† de L√≤ria,Andorra,False
+1999-10-09 00:00:00,Azerbaijan,Slovakia,0,1,UEFA Euro qualification,Baku,Azerbaijan,False
+1999-10-09 00:00:00,Belarus,Italy,0,0,UEFA Euro qualification,Minsk,Belarus,False
+1999-10-09 00:00:00,Croatia,Serbia,2,2,UEFA Euro qualification,Zagreb,Croatia,False
+1999-10-09 00:00:00,Czech Republic,Faroe Islands,2,0,UEFA Euro qualification,Prague,Czech Republic,False
+1999-10-09 00:00:00,Estonia,Bosnia and Herzegovina,1,4,UEFA Euro qualification,Tallinn,Estonia,False
+1999-10-09 00:00:00,Finland,Northern Ireland,4,1,UEFA Euro qualification,Helsinki,Finland,False
+1999-10-09 00:00:00,France,Iceland,3,2,UEFA Euro qualification,Saint-Denis,France,False
+1999-10-09 00:00:00,Germany,Turkey,0,0,UEFA Euro qualification,Munich,Germany,False
+1999-10-09 00:00:00,Latvia,Norway,1,2,UEFA Euro qualification,Riga,Latvia,False
+1999-10-09 00:00:00,Liechtenstein,Romania,0,3,UEFA Euro qualification,Vaduz,Liechtenstein,False
+1999-10-09 00:00:00,North Macedonia,Republic of Ireland,1,1,UEFA Euro qualification,Skopje,North Macedonia,False
+1999-10-09 00:00:00,Netherlands,Brazil,2,2,Friendly,Amsterdam,Netherlands,False
+1999-10-09 00:00:00,Portugal,Hungary,3,0,UEFA Euro qualification,Lisbon,Portugal,False
+1999-10-09 00:00:00,Russia,Ukraine,1,1,UEFA Euro qualification,Moscow,Russia,False
+1999-10-09 00:00:00,Scotland,Lithuania,3,0,UEFA Euro qualification,Glasgow,Scotland,False
+1999-10-09 00:00:00,Slovenia,Greece,0,3,UEFA Euro qualification,Maribor,Slovenia,False
+1999-10-09 00:00:00,Sweden,Poland,2,0,UEFA Euro qualification,Solna,Sweden,False
+1999-10-09 00:00:00,Wales,Switzerland,0,2,UEFA Euro qualification,Wrexham,Wales,False
+1999-10-10 00:00:00,Austria,Cyprus,3,1,UEFA Euro qualification,Vienna,Austria,False
+1999-10-10 00:00:00,Bulgaria,Luxembourg,3,0,UEFA Euro qualification,Sofia,Bulgaria,False
+1999-10-10 00:00:00,Canada,Haiti,2,1,Gold Cup qualification,Los Angeles,United States,True
+1999-10-10 00:00:00,Cuba,El Salvador,3,1,Gold Cup qualification,Los Angeles,United States,True
+1999-10-10 00:00:00,Denmark,Iran,0,0,Friendly,Copenhagen,Denmark,False
+1999-10-10 00:00:00,England,Belgium,2,1,Friendly,Sunderland,England,False
+1999-10-10 00:00:00,Spain,Israel,3,0,UEFA Euro qualification,Albacete,Spain,False
+1999-10-12 00:00:00,Hong Kong,Mauritius,4,3,Friendly,Victoria,Hong Kong,False
+1999-10-12 00:00:00,Panama,Trinidad and Tobago,2,2,Friendly,Panama City,Panama,False
+1999-10-12 00:00:00,Uruguay,Ecuador,0,0,Friendly,Montevideo,Uruguay,False
+1999-10-13 00:00:00,Argentina,Colombia,2,1,Friendly,C√≥rdoba,Argentina,False
+1999-10-13 00:00:00,Mexico,Paraguay,0,1,Friendly,Chicago,United States,True
+1999-10-15 00:00:00,Guatemala,Paraguay,0,0,Friendly,Guatemala,Guatemala,False
+1999-10-16 00:00:00,Tunisia,United Arab Emirates,1,0,Friendly,Tunis,Tunisia,False
+1999-10-18 00:00:00,Hong Kong,Cambodia,4,1,AFC Asian Cup qualification,Victoria,Hong Kong,False
+1999-10-20 00:00:00,Mexico,Colombia,0,0,Friendly,San Diego,United States,True
+1999-10-24 00:00:00,Cayman Islands,Jamaica,1,4,Friendly,George Town,Cayman Islands,False
+1999-10-24 00:00:00,Hong Kong,Indonesia,1,1,AFC Asian Cup qualification,Victoria,Hong Kong,False
+1999-10-27 00:00:00,Mexico,Ecuador,0,0,Friendly,Houston,United States,True
+1999-10-30 00:00:00,Cambodia,Indonesia,1,5,AFC Asian Cup qualification,Phnom Penh,Cambodia,False
+1999-10-30 00:00:00,DR Congo,Congo,1,1,Friendly,Kinshasa,DR Congo,False
+1999-10-30 00:00:00,Iraq,Estonia,1,1,United Arab Emirates Friendship Tournament,Abu Dhabi,United Arab Emirates,True
+1999-10-30 00:00:00,Ivory Coast,Gabon,0,1,Friendly,Abidjan,Ivory Coast,False
+1999-10-30 00:00:00,United Arab Emirates,Turkmenistan,3,1,United Arab Emirates Friendship Tournament,Abu Dhabi,United Arab Emirates,False
+1999-10-31 00:00:00,Tunisia,Zambia,2,1,Friendly,Tunis,Tunisia,False
+1999-11-01 00:00:00,Iraq,Turkmenistan,3,0,United Arab Emirates Friendship Tournament,Abu Dhabi,United Arab Emirates,True
+1999-11-01 00:00:00,United Arab Emirates,Estonia,2,2,United Arab Emirates Friendship Tournament,Abu Dhabi,United Arab Emirates,False
+1999-11-02 00:00:00,Tunisia,Zambia,0,0,Friendly,Tunis,Tunisia,False
+1999-11-03 00:00:00,Bolivia,Paraguay,0,0,Copa Paz del Chaco,Buenos Aires,Argentina,True
+1999-11-03 00:00:00,Turkmenistan,Estonia,1,1,United Arab Emirates Friendship Tournament,Abu Dhabi,United Arab Emirates,True
+1999-11-03 00:00:00,United Arab Emirates,Iraq,2,2,United Arab Emirates Friendship Tournament,Abu Dhabi,United Arab Emirates,False
+1999-11-07 00:00:00,Burkina Faso,Togo,1,0,Friendly,Ouagadougou,Burkina Faso,False
+1999-11-07 00:00:00,Cambodia,Hong Kong,0,1,AFC Asian Cup qualification,Phnom Penh,Cambodia,False
+1999-11-07 00:00:00,Gabon,Equatorial Guinea,4,0,UNIFFAC Cup,Libreville,Gabon,False
+1999-11-08 00:00:00,Central African Republic,Chad,4,1,UNIFFAC Cup,Libreville,Gabon,True
+1999-11-10 00:00:00,Burkina Faso,Togo,1,1,Friendly,Ouagadougou,Burkina Faso,False
+1999-11-10 00:00:00,Chad,S√£o Tom√© and Pr√≠ncipe,5,0,UNIFFAC Cup,Libreville,Gabon,True
+1999-11-10 00:00:00,Congo,Equatorial Guinea,2,1,UNIFFAC Cup,Libreville,Gabon,True
+1999-11-10 00:00:00,Gabon,Central African Republic,1,0,UNIFFAC Cup,Libreville,Gabon,False
+1999-11-11 00:00:00,Congo,Chad,0,2,UNIFFAC Cup,Libreville,Gabon,True
+1999-11-11 00:00:00,Equatorial Guinea,Central African Republic,4,2,UNIFFAC Cup,Libreville,Gabon,True
+1999-11-11 00:00:00,Gabon,S√£o Tom√© and Pr√≠ncipe,1,0,UNIFFAC Cup,Libreville,Gabon,False
+1999-11-12 00:00:00,Congo,S√£o Tom√© and Pr√≠ncipe,1,0,UNIFFAC Cup,Libreville,Gabon,True
+1999-11-12 00:00:00,Egypt,Ghana,1,2,Friendly,Cairo,Egypt,False
+1999-11-13 00:00:00,Central African Republic,S√£o Tom√© and Pr√≠ncipe,3,0,UNIFFAC Cup,Libreville,Gabon,True
+1999-11-13 00:00:00,Chad,Equatorial Guinea,1,0,UNIFFAC Cup,Libreville,Gabon,True
+1999-11-13 00:00:00,France,Croatia,3,0,Friendly,Saint-Denis,France,False
+1999-11-13 00:00:00,Gabon,Congo,0,0,UNIFFAC Cup,Libreville,Gabon,False
+1999-11-13 00:00:00,Greece,Nigeria,2,0,Friendly,Kilk√≠s,Greece,False
+1999-11-13 00:00:00,Republic of Ireland,Turkey,1,1,UEFA Euro qualification,Dublin,Republic of Ireland,False
+1999-11-13 00:00:00,Israel,Denmark,0,5,UEFA Euro qualification,Ramat-Gan,Israel,False
+1999-11-13 00:00:00,Italy,Belgium,1,3,Friendly,Lecce,Italy,False
+1999-11-13 00:00:00,Netherlands,Czech Republic,1,1,Friendly,Eindhoven,Netherlands,False
+1999-11-13 00:00:00,Scotland,England,0,2,UEFA Euro qualification,Glasgow,Scotland,False
+1999-11-13 00:00:00,Slovenia,Ukraine,2,1,UEFA Euro qualification,Ljubljana,Slovenia,False
+1999-11-13 00:00:00,Spain,Brazil,0,0,Friendly,Vigo,Spain,False
+1999-11-14 00:00:00,Central African Republic,Congo,4,2,UNIFFAC Cup,Libreville,Gabon,True
+1999-11-14 00:00:00,Gabon,Chad,2,0,UNIFFAC Cup,Libreville,Gabon,False
+1999-11-14 00:00:00,Indonesia,Hong Kong,3,1,AFC Asian Cup qualification,Jakarta,Indonesia,False
+1999-11-14 00:00:00,Norway,Germany,0,1,Friendly,Oslo,Norway,False
+1999-11-14 00:00:00,S√£o Tom√© and Pr√≠ncipe,Equatorial Guinea,2,0,UNIFFAC Cup,Libreville,Gabon,True
+1999-11-15 00:00:00,Namibia,Egypt,0,1,Friendly,Windhoek,Namibia,False
+1999-11-17 00:00:00,Denmark,Israel,3,0,UEFA Euro qualification,Copenhagen,Denmark,False
+1999-11-17 00:00:00,England,Scotland,0,1,UEFA Euro qualification,London,England,False
+1999-11-17 00:00:00,Greece,Bulgaria,1,0,Friendly,Koz√°ni,Greece,False
+1999-11-17 00:00:00,Honduras,Trinidad and Tobago,3,2,Friendly,San Pedro Sula,Honduras,False
+1999-11-17 00:00:00,Morocco,United States,2,1,Friendly,Marrakech,Morocco,False
+1999-11-17 00:00:00,Peru,Slovakia,2,1,Friendly,Lima,Peru,False
+1999-11-17 00:00:00,Spain,Argentina,0,2,Friendly,Seville,Spain,False
+1999-11-17 00:00:00,Turkey,Republic of Ireland,0,0,UEFA Euro qualification,Bursa,Turkey,False
+1999-11-17 00:00:00,Ukraine,Slovenia,1,1,UEFA Euro qualification,Kyiv,Ukraine,False
+1999-11-17 00:00:00,Uruguay,Paraguay,0,1,Friendly,Maldonado,Uruguay,False
+1999-11-19 00:00:00,Libya,Togo,2,1,Friendly,Agilat,Libya,False
+1999-11-20 00:00:00,Indonesia,Cambodia,9,2,AFC Asian Cup qualification,Jakarta,Indonesia,False
+1999-11-20 00:00:00,Senegal,Ivory Coast,3,0,Friendly,Dakar,Senegal,False
+1999-11-21 00:00:00,Bangladesh,Uzbekistan,0,6,AFC Asian Cup qualification,Abu Dhabi,United Arab Emirates,True
+1999-11-21 00:00:00,Gabon,Nigeria,0,2,Friendly,Libreville,Gabon,False
+1999-11-21 00:00:00,United Arab Emirates,India,3,1,AFC Asian Cup qualification,Abu Dhabi,United Arab Emirates,False
+1999-11-23 00:00:00,Guatemala,Slovakia,0,1,Friendly,Guatemala,Guatemala,False
+1999-11-23 00:00:00,Sri Lanka,Uzbekistan,0,6,AFC Asian Cup qualification,Abu Dhabi,United Arab Emirates,True
+1999-11-23 00:00:00,United Arab Emirates,Bangladesh,3,0,AFC Asian Cup qualification,Abu Dhabi,United Arab Emirates,False
+1999-11-24 00:00:00,Lebanon,Malta,0,0,Friendly,Beirut,Lebanon,False
+1999-11-25 00:00:00,Costa Rica,Slovakia,4,0,Friendly,San Jos√©,Costa Rica,False
+1999-11-25 00:00:00,India,Uzbekistan,2,3,AFC Asian Cup qualification,Abu Dhabi,United Arab Emirates,True
+1999-11-25 00:00:00,Sri Lanka,Bangladesh,1,3,AFC Asian Cup qualification,Abu Dhabi,United Arab Emirates,True
+1999-11-26 00:00:00,Gabon,Togo,0,0,Friendly,Libreville,Gabon,False
+1999-11-27 00:00:00,Congo,Burkina Faso,2,1,Friendly,Libreville,Gabon,True
+1999-11-27 00:00:00,South Africa,Sweden,1,0,Friendly,Pretoria,South Africa,False
+1999-11-27 00:00:00,Sri Lanka,India,1,3,AFC Asian Cup qualification,Abu Dhabi,United Arab Emirates,True
+1999-11-27 00:00:00,United Arab Emirates,Uzbekistan,0,1,AFC Asian Cup qualification,Abu Dhabi,United Arab Emirates,False
+1999-11-27 00:00:00,Zimbabwe,Libya,2,1,Friendly,Harare,Zimbabwe,False
+1999-11-28 00:00:00,Congo,Togo,2,1,Friendly,Libreville,Gabon,True
+1999-11-28 00:00:00,Gabon,Burkina Faso,3,2,Friendly,Libreville,Gabon,False
+1999-11-29 00:00:00,India,Bangladesh,2,2,AFC Asian Cup qualification,Abu Dhabi,United Arab Emirates,True
+1999-11-29 00:00:00,United Arab Emirates,Sri Lanka,6,0,AFC Asian Cup qualification,Abu Dhabi,United Arab Emirates,False
+1999-12-01 00:00:00,Congo,DR Congo,0,1,Friendly,Brazzaville,Congo,False
+1999-12-01 00:00:00,Peru,Honduras,0,0,Friendly,Lima,Peru,False
+1999-12-04 00:00:00,Gambia,Sierra Leone,0,0,Friendly,Banjul,Gambia,False
+1999-12-04 00:00:00,Malawi,Libya,1,2,Friendly,Lilongwe,Malawi,False
+1999-12-05 00:00:00,Panama,Cuba,1,0,Friendly,Panama City,Panama,False
+1999-12-11 00:00:00,Malawi,Rwanda,1,1,Friendly,Lilongwe,Malawi,False
+1999-12-12 00:00:00,Senegal,Gambia,3,0,Friendly,Dakar,Senegal,False
+1999-12-12 00:00:00,Saint Lucia,Dominica,3,1,Friendly,Vieux Fort,Saint Lucia,False
+1999-12-13 00:00:00,Malawi,Rwanda,1,1,Friendly,Blantyre,Malawi,False
+1999-12-13 00:00:00,Saint Lucia,Dominica,2,1,Friendly,Vieux Fort,Saint Lucia,False
+1999-12-14 00:00:00,Greece,Ghana,1,1,Friendly,Salonica,Greece,False
+1999-12-15 00:00:00,Malawi,Rwanda,1,2,Friendly,Blantyre,Malawi,False
+1999-12-16 00:00:00,Greece,Moldova,2,0,Friendly,L√°risa,Greece,False
+1999-12-16 00:00:00,Honduras,Zambia,7,1,Friendly,San Pedro Sula,Honduras,False
+1999-12-18 00:00:00,Dominica,Saint Lucia,2,1,Friendly,Roseau,Dominica,False
+1999-12-18 00:00:00,Greece,Estonia,2,2,Friendly,Tr√≠kala,Greece,False
+1999-12-19 00:00:00,Dominica,Saint Lucia,2,1,Friendly,Roseau,Dominica,False
+1999-12-21 00:00:00,Morocco,Senegal,0,0,Friendly,Agadir,Morocco,False
+1999-12-22 00:00:00,Tunisia,Ghana,2,0,Friendly,Sfax,Tunisia,False
+1999-12-23 00:00:00,Libya,Gabon,2,0,Friendly,Benghazi,Libya,False
+1999-12-23 00:00:00,Catalonia,Yugoslavia,1,0,Friendly,Barcelona,Spain,False
+1999-12-27 00:00:00,Gabon,Togo,3,2,Friendly,Benghazi,Libya,True
+1999-12-28 00:00:00,Malaysia,Singapore,1,0,Friendly,Dubai,United Arab Emirates,True
+1999-12-28 00:00:00,Andalusia,Estonia,1,0,Friendly,Granada,Spain,False
+1999-12-29 00:00:00,Costa Rica,Honduras,1,1,Friendly,Alajuela,Costa Rica,False
+1999-12-29 00:00:00,Ivory Coast,Burkina Faso,3,1,Friendly,Abidjan,Ivory Coast,False
+1999-12-29 00:00:00,Libya,Togo,2,0,Friendly,Benghazi,Libya,False
+1999-12-29 00:00:00,Basque Country,Nigeria,5,1,Friendly,Bilbao,Spain,False
+2000-01-04 00:00:00,Egypt,Togo,2,1,Friendly,Aswan,Egypt,False
+2000-01-07 00:00:00,Tunisia,Togo,7,0,Friendly,Tunis,Tunisia,False
+2000-01-08 00:00:00,Trinidad and Tobago,Canada,0,0,Friendly,Port of Spain,Trinidad and Tobago,False
+2000-01-09 00:00:00,Burkina Faso,Gabon,1,1,Friendly,Ouagadougou,Burkina Faso,False
+2000-01-09 00:00:00,Guatemala,Armenia,1,1,Friendly,Los Angeles,United States,True
+2000-01-09 00:00:00,Ivory Coast,Egypt,2,0,Friendly,Abidjan,Ivory Coast,False
+2000-01-09 00:00:00,Mexico,Iran,2,1,Friendly,Oakland,United States,True
+2000-01-11 00:00:00,Bermuda,Canada,0,2,Friendly,Hamilton,Bermuda,False
+2000-01-11 00:00:00,Burkina Faso,Cameroon,2,2,Friendly,Ouagadougou,Burkina Faso,False
+2000-01-13 00:00:00,Senegal,Cameroon,0,0,Friendly,Dakar,Senegal,False
+2000-01-14 00:00:00,China PR,New Zealand,1,0,Friendly,Guangzhou,China PR,False
+2000-01-16 00:00:00,Jamaica,New Zealand,2,1,Friendly,Guangzhou,China PR,True
+2000-01-16 00:00:00,United States,Iran,1,1,Friendly,Pasadena,United States,False
+2000-01-18 00:00:00,Ghana,Tunisia,2,0,Friendly,Accra,Ghana,False
+2000-01-18 00:00:00,Morocco,Trinidad and Tobago,1,0,Friendly,El Jadida,Morocco,False
+2000-01-19 00:00:00,Panama,Guatemala,2,0,Friendly,Panama City,Panama,False
+2000-01-19 00:00:00,Togo,Egypt,1,0,Friendly,Lom√©,Togo,False
+2000-01-20 00:00:00,Burkina Faso,Algeria,1,0,Friendly,Ouagadougou,Burkina Faso,False
+2000-01-20 00:00:00,Malta,Qatar,2,0,Friendly,Attard,Malta,False
+2000-01-21 00:00:00,New Zealand,South Korea,0,1,Friendly,Auckland,New Zealand,False
+2000-01-22 00:00:00,Ghana,Cameroon,1,1,African Cup of Nations,Accra,Ghana,False
+2000-01-23 00:00:00,China PR,Philippines,8,0,AFC Asian Cup qualification,Hanoi,Vietnam,True
+2000-01-23 00:00:00,Egypt,Zambia,2,0,African Cup of Nations,Kano,Nigeria,True
+2000-01-23 00:00:00,New Zealand,South Korea,0,0,Friendly,Palmerston North,New Zealand,False
+2000-01-23 00:00:00,Nigeria,Tunisia,4,2,African Cup of Nations,Lagos,Nigeria,False
+2000-01-23 00:00:00,South Africa,Gabon,3,1,African Cup of Nations,Kumasi,Ghana,True
+2000-01-23 00:00:00,Vietnam,Guam,11,0,AFC Asian Cup qualification,Hanoi,Vietnam,False
+2000-01-24 00:00:00,DR Congo,Algeria,0,0,African Cup of Nations,Kumasi,Ghana,True
+2000-01-24 00:00:00,Ivory Coast,Togo,1,1,African Cup of Nations,Accra,Ghana,True
+2000-01-24 00:00:00,Qatar,Bosnia and Herzegovina,2,0,Friendly,Doha,Qatar,False
+2000-01-25 00:00:00,Burkina Faso,Senegal,1,3,African Cup of Nations,Kano,Nigeria,True
+2000-01-25 00:00:00,Morocco,Congo,1,0,African Cup of Nations,Lagos,Nigeria,True
+2000-01-26 00:00:00,China PR,Guam,19,0,AFC Asian Cup qualification,Hanoi,Vietnam,True
+2000-01-26 00:00:00,Costa Rica,Trinidad and Tobago,2,1,Friendly,San Jos√©,Costa Rica,False
+2000-01-26 00:00:00,Guatemala,Panama,1,1,Friendly,Guatemala,Guatemala,False
+2000-01-26 00:00:00,Spain,Poland,3,0,Friendly,Cartagena,Spain,False
+2000-01-26 00:00:00,Uganda,Libya,3,2,Friendly,Kampala,Uganda,False
+2000-01-26 00:00:00,Vietnam,Philippines,3,0,AFC Asian Cup qualification,Hanoi,Vietnam,False
+2000-01-27 00:00:00,Ghana,Togo,2,0,African Cup of Nations,Accra,Ghana,False
+2000-01-27 00:00:00,South Africa,DR Congo,1,0,African Cup of Nations,Kumasi,Ghana,True
+2000-01-28 00:00:00,Cameroon,Ivory Coast,3,0,African Cup of Nations,Accra,Ghana,True
+2000-01-28 00:00:00,Egypt,Senegal,1,0,African Cup of Nations,Kano,Nigeria,True
+2000-01-28 00:00:00,Nigeria,Congo,0,0,African Cup of Nations,Lagos,Nigeria,False
+2000-01-28 00:00:00,United States Virgin Islands,Saint Lucia,0,9,Friendly,Saint Croix,United States Virgin Islands,False
+2000-01-29 00:00:00,Algeria,Gabon,3,1,African Cup of Nations,Kumasi,Ghana,True
+2000-01-29 00:00:00,Chile,United States,1,2,Friendly,Coquimbo,Chile,False
+2000-01-29 00:00:00,Philippines,Guam,2,0,AFC Asian Cup qualification,Hanoi,Vietnam,True
+2000-01-29 00:00:00,Tunisia,Morocco,0,0,African Cup of Nations,Lagos,Nigeria,True
+2000-01-29 00:00:00,Vietnam,China PR,0,2,AFC Asian Cup qualification,Hanoi,Vietnam,False
+2000-01-29 00:00:00,Zambia,Burkina Faso,1,1,African Cup of Nations,Kano,Nigeria,True
+2000-01-30 00:00:00,United States Virgin Islands,Saint Lucia,0,2,Friendly,Saint Croix,United States Virgin Islands,False
+2000-01-31 00:00:00,Cameroon,Togo,0,1,African Cup of Nations,Kumasi,Ghana,True
+2000-01-31 00:00:00,Faroe Islands,Finland,0,1,Nordic Championship,Cartagena,Spain,True
+2000-01-31 00:00:00,Ghana,Ivory Coast,0,2,African Cup of Nations,Accra,Ghana,False
+2000-01-31 00:00:00,Iceland,Norway,0,0,Nordic Championship,Cartagena,Spain,True
+2000-01-31 00:00:00,Kuwait,Syria,4,0,Friendly,Kuwait City,Kuwait,False
+2000-02-01 00:00:00,British Virgin Islands,Saint Lucia,2,3,Friendly,Road Town,British Virgin Islands,False
+2000-02-01 00:00:00,Egypt,Burkina Faso,4,2,African Cup of Nations,Kano,Nigeria,True
+2000-02-01 00:00:00,Zambia,Senegal,2,2,African Cup of Nations,Lagos,Nigeria,True
+2000-02-02 00:00:00,Armenia,Moldova,2,1,Cyprus International Tournament,Larnaca,Cyprus,True
+2000-02-02 00:00:00,DR Congo,Gabon,0,0,African Cup of Nations,Accra,Ghana,True
+2000-02-02 00:00:00,Costa Rica,Chile,1,0,Friendly,San Jos√©,Costa Rica,False
+2000-02-02 00:00:00,Cyprus,Lithuania,2,1,Cyprus International Tournament,Limassol,Cyprus,False
+2000-02-02 00:00:00,Finland,Iceland,0,1,Nordic Championship,Cartagena,Spain,True
+2000-02-02 00:00:00,Romania,Latvia,2,0,Cyprus International Tournament,Paphos,Cyprus,True
+2000-02-02 00:00:00,South Africa,Algeria,1,1,African Cup of Nations,Kumasi,Ghana,True
+2000-02-02 00:00:00,Saint Kitts and Nevis,Saint Lucia,0,1,Friendly,Basseterre,Saint Kitts and Nevis,False
+2000-02-03 00:00:00,Nigeria,Morocco,2,0,African Cup of Nations,Lagos,Nigeria,False
+2000-02-03 00:00:00,Tunisia,Congo,1,0,African Cup of Nations,Kano,Nigeria,True
+2000-02-04 00:00:00,Cyprus,Armenia,3,2,Cyprus International Tournament,Nicosia,Cyprus,False
+2000-02-04 00:00:00,Faroe Islands,Iceland,2,3,Nordic Championship,Cartagena,Spain,True
+2000-02-04 00:00:00,Kuwait,Iran,1,1,Friendly,Kuwait City,Kuwait,False
+2000-02-04 00:00:00,Moldova,Lithuania,2,1,Cyprus International Tournament,Larnaca,Cyprus,True
+2000-02-04 00:00:00,Norway,Sweden,1,1,Nordic Championship,Cartagena,Spain,True
+2000-02-04 00:00:00,Romania,Georgia,1,1,Cyprus International Tournament,Larnaca,Cyprus,True
+2000-02-05 00:00:00,Guatemala,Chile,2,1,Friendly,Guatemala,Guatemala,False
+2000-02-05 00:00:00,Japan,Mexico,0,1,Lunar New Year Cup,So Kon Po,Hong Kong,True
+2000-02-06 00:00:00,Albania,Andorra,3,0,Malta International Tournament,Attard,Malta,True
+2000-02-06 00:00:00,Cameroon,Algeria,2,1,African Cup of Nations,Accra,Ghana,True
+2000-02-06 00:00:00,Cayman Islands,Jamaica,0,0,Friendly,George Town,Cayman Islands,False
+2000-02-06 00:00:00,Cyprus,Romania,3,2,Cyprus International Tournament,Nicosia,Cyprus,False
+2000-02-06 00:00:00,Georgia,Armenia,2,1,Cyprus International Tournament,Limassol,Cyprus,True
+2000-02-06 00:00:00,Ghana,South Africa,0,1,African Cup of Nations,Kumasi,Ghana,False
+2000-02-06 00:00:00,Latvia,Lithuania,1,2,Cyprus International Tournament,Larnaca,Cyprus,True
+2000-02-06 00:00:00,Malta,Azerbaijan,3,0,Malta International Tournament,Attard,Malta,False
+2000-02-07 00:00:00,Egypt,Tunisia,0,1,African Cup of Nations,Kano,Nigeria,True
+2000-02-07 00:00:00,Nigeria,Senegal,2,1,African Cup of Nations,Lagos,Nigeria,False
+2000-02-07 00:00:00,Singapore,Malaysia,3,1,Friendly,Singapore,Singapore,False
+2000-02-08 00:00:00,Albania,Azerbaijan,1,0,Malta International Tournament,Attard,Malta,True
+2000-02-08 00:00:00,Malta,Andorra,1,1,Malta International Tournament,Attard,Malta,False
+2000-02-08 00:00:00,Mexico,Czech Republic,1,2,Lunar New Year Cup,So Kon Po,Hong Kong,True
+2000-02-08 00:00:00,Syria,North Korea,5,1,Friendly,Damascus,Syria,False
+2000-02-09 00:00:00,Bulgaria,Slovakia,1,0,Friendly,Valpara√≠so,Chile,True
+2000-02-09 00:00:00,Cayman Islands,Jamaica,0,1,Friendly,George Town,Cayman Islands,False
+2000-02-09 00:00:00,Chile,Australia,2,1,Friendly,Valpara√≠so,Chile,False
+2000-02-09 00:00:00,Honduras,El Salvador,5,1,Friendly,San Pedro Sula,Honduras,False
+2000-02-10 00:00:00,Andorra,Azerbaijan,0,0,Malta International Tournament,Attard,Malta,True
+2000-02-10 00:00:00,Cameroon,Tunisia,3,0,African Cup of Nations,Accra,Ghana,True
+2000-02-10 00:00:00,Hong Kong,Singapore,0,0,Friendly,Victoria,Hong Kong,False
+2000-02-10 00:00:00,Kuwait,Turkmenistan,6,1,AFC Asian Cup qualification,Kuwait City,Kuwait,False
+2000-02-10 00:00:00,Malta,Albania,0,1,Malta International Tournament,Attard,Malta,False
+2000-02-10 00:00:00,Nepal,Yemen,0,3,AFC Asian Cup qualification,Kuwait City,Kuwait,True
+2000-02-10 00:00:00,Nigeria,South Africa,2,0,African Cup of Nations,Lagos,Nigeria,False
+2000-02-12 00:00:00,Australia,Slovakia,0,0,Friendly,Valpara√≠so,Chile,True
+2000-02-12 00:00:00,Chile,Bulgaria,3,2,Friendly,Valpara√≠so,Chile,False
+2000-02-12 00:00:00,Colombia,Jamaica,1,0,Gold Cup,Miami,United States,True
+2000-02-12 00:00:00,Nepal,Bhutan,3,0,AFC Asian Cup qualification,Kuwait City,Kuwait,True
+2000-02-12 00:00:00,South Africa,Tunisia,2,2,African Cup of Nations,Accra,Ghana,True
+2000-02-12 00:00:00,United States,Haiti,3,0,Gold Cup,Miami,United States,False
+2000-02-12 00:00:00,Yemen,Turkmenistan,0,1,AFC Asian Cup qualification,Kuwait City,Kuwait,True
+2000-02-13 00:00:00,Costa Rica,Canada,2,2,Gold Cup,San Diego,United States,True
+2000-02-13 00:00:00,Dominican Republic,British Virgin Islands,1,0,Friendly,Santo Domingo,Dominican Republic,False
+2000-02-13 00:00:00,Macau,Brunei,1,0,AFC Asian Cup qualification,Macau,Macau,False
+2000-02-13 00:00:00,Mexico,Trinidad and Tobago,4,0,Gold Cup,San Diego,United States,True
+2000-02-13 00:00:00,Nigeria,Cameroon,2,2,African Cup of Nations,Lagos,Nigeria,False
+2000-02-13 00:00:00,Singapore,Japan,0,3,AFC Asian Cup qualification,Macau,Macau,True
+2000-02-13 00:00:00,Syria,North Korea,0,0,Friendly,Damascus,Syria,False
+2000-02-14 00:00:00,Haiti,Peru,1,1,Gold Cup,Miami,United States,True
+2000-02-14 00:00:00,Jamaica,Honduras,0,2,Gold Cup,Miami,United States,True
+2000-02-14 00:00:00,Kuwait,Bhutan,20,0,AFC Asian Cup qualification,Kuwait City,Kuwait,False
+2000-02-14 00:00:00,Turkmenistan,Nepal,5,0,AFC Asian Cup qualification,Kuwait City,Kuwait,True
+2000-02-15 00:00:00,Australia,Bulgaria,1,1,Friendly,Valpara√≠so,Chile,True
+2000-02-15 00:00:00,Canada,South Korea,0,0,Gold Cup,Los Angeles,United States,True
+2000-02-15 00:00:00,Chile,Slovakia,0,2,Friendly,Valpara√≠so,Chile,False
+2000-02-15 00:00:00,Malaysia,Maldives,2,0,Friendly,Kuala Lumpur,Malaysia,False
+2000-02-15 00:00:00,Trinidad and Tobago,Guatemala,4,2,Gold Cup,Los Angeles,United States,True
+2000-02-16 00:00:00,Bhutan,Turkmenistan,0,8,AFC Asian Cup qualification,Kuwait City,Kuwait,True
+2000-02-16 00:00:00,Honduras,Colombia,2,0,Gold Cup,Miami,United States,True
+2000-02-16 00:00:00,Japan,Brunei,9,0,AFC Asian Cup qualification,Macau,Macau,True
+2000-02-16 00:00:00,Kuwait,Yemen,2,0,AFC Asian Cup qualification,Kuwait City,Kuwait,False
+2000-02-16 00:00:00,Lebanon,North Korea,1,0,Friendly,Beirut,Lebanon,False
+2000-02-16 00:00:00,Macau,Singapore,0,1,AFC Asian Cup qualification,Macau,Macau,False
+2000-02-16 00:00:00,Panama,El Salvador,4,1,Friendly,Panama City,Panama,False
+2000-02-16 00:00:00,United States,Peru,1,0,Gold Cup,Miami,United States,False
+2000-02-17 00:00:00,Barbados,Saint Kitts and Nevis,1,0,Friendly,Bridgetown,Barbados,False
+2000-02-17 00:00:00,South Korea,Costa Rica,2,2,Gold Cup,Los Angeles,United States,True
+2000-02-17 00:00:00,Malaysia,Maldives,3,0,Friendly,Kuala Lumpur,Malaysia,False
+2000-02-17 00:00:00,Mexico,Guatemala,1,1,Gold Cup,Los Angeles,United States,True
+2000-02-18 00:00:00,Kuwait,Nepal,5,0,AFC Asian Cup qualification,Kuwait City,Kuwait,False
+2000-02-18 00:00:00,Yemen,Bhutan,11,2,AFC Asian Cup qualification,Kuwait City,Kuwait,True
+2000-02-19 00:00:00,Dominica,Antigua and Barbuda,2,0,Friendly,Roseau,Dominica,False
+2000-02-19 00:00:00,Honduras,Peru,3,5,Gold Cup,Miami,United States,True
+2000-02-19 00:00:00,Oman,Switzerland,1,4,Friendly,Muscat,Oman,False
+2000-02-19 00:00:00,United Arab Emirates,Slovenia,1,1,Friendly,Muscat,Oman,True
+2000-02-19 00:00:00,United States,Colombia,2,2,Gold Cup,Miami,United States,False
+2000-02-20 00:00:00,Costa Rica,Trinidad and Tobago,1,2,Gold Cup,San Diego,United States,True
+2000-02-20 00:00:00,Lesotho,Eswatini,1,0,Friendly,Maseru,Lesotho,False
+2000-02-20 00:00:00,Macau,Japan,0,3,AFC Asian Cup qualification,Macau,Macau,False
+2000-02-20 00:00:00,Mexico,Canada,1,2,Gold Cup,San Diego,United States,True
+2000-02-20 00:00:00,Singapore,Brunei,1,0,AFC Asian Cup qualification,Macau,Macau,True
+2000-02-20 00:00:00,Thailand,Finland,0,0,King's Cup,Bangkok,Thailand,False
+2000-02-20 00:00:00,Kernow,Guernsey,1,2,Friendly,Cornwall,England,False
+2000-02-21 00:00:00,Oman,United Arab Emirates,0,1,Friendly,Muscat,Oman,False
+2000-02-23 00:00:00,Belgium,Portugal,1,1,Friendly,Charleroi,Belgium,False
+2000-02-23 00:00:00,Colombia,Peru,2,1,Gold Cup,San Diego,United States,True
+2000-02-23 00:00:00,Croatia,Spain,0,0,Friendly,Split,Croatia,False
+2000-02-23 00:00:00,England,Argentina,0,0,Friendly,London,England,False
+2000-02-23 00:00:00,Estonia,Finland,2,4,King's Cup,Bangkok,Thailand,True
+2000-02-23 00:00:00,France,Poland,1,0,Friendly,Saint-Denis,France,False
+2000-02-23 00:00:00,Greece,Austria,4,1,Friendly,Kalam√°ta,Greece,False
+2000-02-23 00:00:00,Hungary,Australia,0,3,Friendly,Budapest,Hungary,False
+2000-02-23 00:00:00,Republic of Ireland,Czech Republic,3,2,Friendly,Dublin,Republic of Ireland,False
+2000-02-23 00:00:00,Israel,Russia,4,1,Friendly,Haifa,Israel,False
+2000-02-23 00:00:00,Italy,Sweden,1,0,Friendly,Palermo,Italy,False
+2000-02-23 00:00:00,Lebanon,Jordan,1,1,Friendly,Tripoli,Lebanon,False
+2000-02-23 00:00:00,Luxembourg,Northern Ireland,1,3,Friendly,Luxembourg,Luxembourg,False
+2000-02-23 00:00:00,North Macedonia,Serbia,1,2,Friendly,Skopje,North Macedonia,False
+2000-02-23 00:00:00,Netherlands,Germany,2,1,Friendly,Amsterdam,Netherlands,False
+2000-02-23 00:00:00,Oman,Slovenia,0,4,Friendly,Muscat,Oman,False
+2000-02-23 00:00:00,Qatar,Wales,0,1,Friendly,Doha,Qatar,False
+2000-02-23 00:00:00,Thailand,Brazil,0,7,King's Cup,Bangkok,Thailand,False
+2000-02-23 00:00:00,Turkey,Norway,0,2,Friendly,Istanbul,Turkey,False
+2000-02-23 00:00:00,United Arab Emirates,Switzerland,1,0,Friendly,Muscat,Oman,True
+2000-02-24 00:00:00,Trinidad and Tobago,Canada,0,1,Gold Cup,Los Angeles,United States,True
+2000-02-25 00:00:00,British Virgin Islands,Anguilla,3,4,Friendly,Road Town,British Virgin Islands,False
+2000-02-25 00:00:00,Thailand,Estonia,2,1,King's Cup,Bangkok,Thailand,False
+2000-02-27 00:00:00,Botswana,Lesotho,1,0,Friendly,Gaborone,Botswana,False
+2000-02-27 00:00:00,British Virgin Islands,Anguilla,5,0,Friendly,Road Town,British Virgin Islands,False
+2000-02-27 00:00:00,Canada,Colombia,2,0,Gold Cup,Los Angeles,United States,True
+2000-02-27 00:00:00,Thailand,Finland,5,1,King's Cup,Bangkok,Thailand,False
+2000-02-29 00:00:00,Barbados,Antigua and Barbuda,2,2,Friendly,Bridgetown,Barbados,False
+2000-02-29 00:00:00,El Salvador,Panama,3,1,Friendly,San Salvador,El Salvador,False
+2000-02-29 00:00:00,Uzbekistan,Mongolia,8,1,Friendly,Tashkent,Uzbekistan,False
+2000-03-01 00:00:00,Zambia,Lesotho,2,0,Friendly,Lusaka,Zambia,False
+2000-03-04 00:00:00,Honduras,Nicaragua,3,0,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2000-03-04 00:00:00,Trinidad and Tobago,Cura√ßao,5,0,FIFA World Cup qualification,Macoya,Trinidad and Tobago,False
+2000-03-05 00:00:00,Anguilla,Bahamas,1,3,FIFA World Cup qualification,The Valley,Anguilla,False
+2000-03-05 00:00:00,Barbados,Grenada,2,2,FIFA World Cup qualification,Bridgetown,Barbados,False
+2000-03-05 00:00:00,Bolivia,Haiti,9,2,Friendly,La Paz,Bolivia,False
+2000-03-05 00:00:00,British Virgin Islands,Bermuda,1,5,FIFA World Cup qualification,Road Town,British Virgin Islands,False
+2000-03-05 00:00:00,Cuba,Cayman Islands,4,0,FIFA World Cup qualification,Havana,Cuba,False
+2000-03-05 00:00:00,Dominican Republic,Montserrat,3,0,FIFA World Cup qualification,San Crist√≥bal,Dominican Republic,False
+2000-03-05 00:00:00,El Salvador,Belize,5,0,FIFA World Cup qualification,San Salvador,El Salvador,False
+2000-03-05 00:00:00,Ethiopia,Sudan,1,0,Friendly,Addis Ababa,Ethiopia,False
+2000-03-05 00:00:00,Saint Lucia,Suriname,1,0,FIFA World Cup qualification,Castries,Saint Lucia,False
+2000-03-05 00:00:00,Saint Vincent and the Grenadines,United States Virgin Islands,9,0,FIFA World Cup qualification,Kingstown,Saint Vincent and the Grenadines,False
+2000-03-05 00:00:00,Zimbabwe,Lesotho,2,1,COSAFA Cup,Harare,Zimbabwe,False
+2000-03-06 00:00:00,Syria,Jordan,0,0,Friendly,Damascus,Syria,False
+2000-03-08 00:00:00,Ecuador,Honduras,1,3,Friendly,Quito,Ecuador,False
+2000-03-08 00:00:00,Jordan,Lebanon,1,1,Friendly,Amman,Jordan,False
+2000-03-09 00:00:00,Cuba,Nicaragua,4,0,Friendly,Havana,Cuba,False
+2000-03-10 00:00:00,Qatar,Sudan,3,0,Friendly,Doha,Qatar,False
+2000-03-11 00:00:00,Aruba,Puerto Rico,4,2,FIFA World Cup qualification,Oranjestad,Aruba,False
+2000-03-11 00:00:00,Haiti,Dominica,4,0,FIFA World Cup qualification,Port-au-Prince,Haiti,False
+2000-03-11 00:00:00,Jordan,Bosnia and Herzegovina,0,0,Friendly,Zarqa,Jordan,False
+2000-03-12 00:00:00,United States,Tunisia,1,1,Friendly,Birmingham,United States,False
+2000-03-12 00:00:00,Zambia,Malawi,1,1,Friendly,Kitwe,Zambia,False
+2000-03-13 00:00:00,Jordan,Syria,0,0,Friendly,Amman,Jordan,False
+2000-03-13 00:00:00,Zambia,Malawi,0,1,Friendly,Lusaka,Zambia,False
+2000-03-15 00:00:00,Japan,China PR,0,0,Friendly,Kobe,Japan,False
+2000-03-15 00:00:00,Jordan,Bosnia and Herzegovina,1,2,Friendly,Zarqa,Jordan,False
+2000-03-16 00:00:00,Venezuela,Bolivia,0,0,Friendly,Maracaibo,Venezuela,False
+2000-03-17 00:00:00,Jordan,Syria,0,0,Friendly,Amman,Jordan,False
+2000-03-18 00:00:00,Cura√ßao,Trinidad and Tobago,1,1,FIFA World Cup qualification,Willemstad,Netherlands Antilles,True
+2000-03-18 00:00:00,Grenada,Barbados,2,3,FIFA World Cup qualification,St. George's,Grenada,False
+2000-03-18 00:00:00,Puerto Rico,Aruba,2,2,FIFA World Cup qualification,San Juan,Puerto Rico,False
+2000-03-18 00:00:00,Saint Kitts and Nevis,Turks and Caicos Islands,8,0,FIFA World Cup qualification,Basseterre,Saint Kitts and Nevis,False
+2000-03-19 00:00:00,Bahamas,Anguilla,2,1,FIFA World Cup qualification,Nassau,Bahamas,False
+2000-03-19 00:00:00,Belize,Guatemala,1,2,FIFA World Cup qualification,San Pedro Sula,Honduras,True
+2000-03-19 00:00:00,Bermuda,British Virgin Islands,9,0,FIFA World Cup qualification,Hamilton,Bermuda,False
+2000-03-19 00:00:00,Botswana,Eswatini,3,0,Friendly,Gaborone,Botswana,False
+2000-03-19 00:00:00,Cayman Islands,Cuba,0,0,FIFA World Cup qualification,George Town,Cayman Islands,False
+2000-03-19 00:00:00,Dominica,Haiti,1,3,FIFA World Cup qualification,Roseau,Dominica,False
+2000-03-19 00:00:00,Montserrat,Dominican Republic,1,3,FIFA World Cup qualification,Port of Spain,Trinidad and Tobago,True
+2000-03-19 00:00:00,Nicaragua,Panama,0,2,FIFA World Cup qualification,Diriamba,Nicaragua,False
+2000-03-19 00:00:00,Suriname,Saint Lucia,1,0,FIFA World Cup qualification,Paramaribo,Suriname,False
+2000-03-19 00:00:00,United States Virgin Islands,Saint Vincent and the Grenadines,1,5,FIFA World Cup qualification,Frederiksted,United States Virgin Islands,False
+2000-03-20 00:00:00,Bahrain,Kazakhstan,0,1,Friendly,Manama,Bahrain,False
+2000-03-21 00:00:00,Namibia,Zimbabwe,2,1,Friendly,Windhoek,Namibia,False
+2000-03-21 00:00:00,Saint Kitts and Nevis,Turks and Caicos Islands,6,0,FIFA World Cup qualification,Basseterre,Saint Kitts and Nevis,False
+2000-03-22 00:00:00,Bahrain,Qatar,1,0,Friendly,Manama,Bahrain,False
+2000-03-22 00:00:00,Chile,Honduras,5,2,Friendly,Santiago,Chile,False
+2000-03-22 00:00:00,Cyprus,Iran,0,0,Friendly,Nicosia,Cyprus,False
+2000-03-24 00:00:00,Gambia,Mauritania,0,0,Friendly,Banjul,Gambia,False
+2000-03-25 00:00:00,Bahrain,Jordan,1,1,Friendly,Manama,Bahrain,False
+2000-03-25 00:00:00,Malaysia,Taiwan,3,0,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,False
+2000-03-25 00:00:00,Tanzania,Malawi,1,1,Friendly,Morogoro,Tanzania,False
+2000-03-25 00:00:00,Thailand,North Korea,0,0,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,True
+2000-03-25 00:00:00,Zambia,Botswana,3,0,COSAFA Cup,Lusaka,Zambia,False
+2000-03-26 00:00:00,Tanzania,Malawi,4,3,Friendly,Dar es Salaam,Tanzania,False
+2000-03-27 00:00:00,Malaysia,North Korea,1,1,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,False
+2000-03-27 00:00:00,Thailand,Taiwan,2,0,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,True
+2000-03-28 00:00:00,Colombia,Brazil,0,0,FIFA World Cup qualification,Bogot√°,Colombia,False
+2000-03-28 00:00:00,El Salvador,Haiti,3,1,Friendly,San Salvador,El Salvador,False
+2000-03-28 00:00:00,Malta,Northern Ireland,0,3,Friendly,Attard,Malta,False
+2000-03-28 00:00:00,Serbia,China PR,1,0,Friendly,Belgrade,Yugoslavia,False
+2000-03-29 00:00:00,Argentina,Chile,4,1,FIFA World Cup qualification,Buenos Aires,Argentina,False
+2000-03-29 00:00:00,Austria,Sweden,1,1,Friendly,Graz,Austria,False
+2000-03-29 00:00:00,Belgium,Netherlands,2,2,Friendly,Brussels,Belgium,False
+2000-03-29 00:00:00,Bosnia and Herzegovina,North Macedonia,1,0,Friendly,Zenica,Bosnia and Herzegovina,False
+2000-03-29 00:00:00,Bulgaria,Belarus,4,1,Friendly,Sofia,Bulgaria,False
+2000-03-29 00:00:00,Croatia,Germany,1,1,Friendly,Zagreb,Croatia,False
+2000-03-29 00:00:00,Czech Republic,Australia,3,1,Friendly,Teplice,Czech Republic,False
+2000-03-29 00:00:00,Ecuador,Venezuela,2,0,FIFA World Cup qualification,Quito,Ecuador,False
+2000-03-29 00:00:00,Greece,Romania,2,0,Friendly,Athens,Greece,False
+2000-03-29 00:00:00,Hungary,Poland,0,0,Friendly,Debrecen,Hungary,False
+2000-03-29 00:00:00,Israel,Georgia,1,1,Friendly,Ashkelon,Israel,False
+2000-03-29 00:00:00,Malaysia,Thailand,3,2,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,False
+2000-03-29 00:00:00,Peru,Paraguay,2,0,FIFA World Cup qualification,Lima,Peru,False
+2000-03-29 00:00:00,Portugal,Denmark,2,1,Friendly,Leiria,Portugal,False
+2000-03-29 00:00:00,Scotland,France,0,2,Friendly,Glasgow,Scotland,False
+2000-03-29 00:00:00,Spain,Italy,2,0,Friendly,Barcelona,Spain,False
+2000-03-29 00:00:00,Switzerland,Norway,2,2,Friendly,Lugano,Switzerland,False
+2000-03-29 00:00:00,Uruguay,Bolivia,1,0,FIFA World Cup qualification,Montevideo,Uruguay,False
+2000-03-29 00:00:00,Wales,Finland,1,2,Friendly,Cardiff,Wales,False
+2000-03-31 00:00:00,Gambia,Mauritania,0,0,Friendly,Banjul,Gambia,False
+2000-03-31 00:00:00,Jordan,Kazakhstan,0,1,AFC Asian Cup qualification,Doha,Qatar,True
+2000-03-31 00:00:00,Maldives,Iran,0,8,AFC Asian Cup qualification,Damascus,Syria,True
+2000-03-31 00:00:00,Qatar,Palestine,1,0,AFC Asian Cup qualification,Doha,Qatar,False
+2000-03-31 00:00:00,Syria,Bahrain,1,0,AFC Asian Cup qualification,Damascus,Syria,False
+2000-04-01 00:00:00,Aruba,Barbados,1,3,FIFA World Cup qualification,Oranjestad,Aruba,False
+2000-04-01 00:00:00,Haiti,Bahamas,9,0,FIFA World Cup qualification,Port-au-Prince,Haiti,False
+2000-04-01 00:00:00,Zambia,Kenya,1,0,Friendly,Lusaka,Zambia,False
+2000-04-02 00:00:00,Bahrain,Maldives,4,1,AFC Asian Cup qualification,Damascus,Syria,True
+2000-04-02 00:00:00,Cuba,Suriname,1,0,FIFA World Cup qualification,Havana,Cuba,False
+2000-04-02 00:00:00,Guatemala,El Salvador,0,1,FIFA World Cup qualification,Guatemala,Guatemala,False
+2000-04-02 00:00:00,Palestine,Pakistan,2,0,AFC Asian Cup qualification,Doha,Qatar,True
+2000-04-02 00:00:00,Panama,Honduras,1,0,FIFA World Cup qualification,Panama City,Panama,False
+2000-04-02 00:00:00,Qatar,Kazakhstan,3,1,AFC Asian Cup qualification,Doha,Qatar,False
+2000-04-02 00:00:00,Syria,Iran,0,1,AFC Asian Cup qualification,Damascus,Syria,False
+2000-04-02 00:00:00,Trinidad and Tobago,Dominican Republic,3,0,FIFA World Cup qualification,Port of Spain,Trinidad and Tobago,False
+2000-04-04 00:00:00,Bahrain,Iran,1,0,AFC Asian Cup qualification,Damascus,Syria,True
+2000-04-04 00:00:00,Malaysia,Taiwan,2,3,AFC Asian Cup qualification,Bangkok,Thailand,True
+2000-04-04 00:00:00,Palestine,Jordan,1,5,AFC Asian Cup qualification,Doha,Qatar,True
+2000-04-04 00:00:00,Qatar,Pakistan,5,0,AFC Asian Cup qualification,Doha,Qatar,False
+2000-04-04 00:00:00,Syria,Maldives,2,1,AFC Asian Cup qualification,Damascus,Syria,False
+2000-04-04 00:00:00,Thailand,North Korea,5,3,AFC Asian Cup qualification,Bangkok,Thailand,False
+2000-04-05 00:00:00,Myanmar,Mongolia,2,0,AFC Asian Cup qualification,Seoul,South Korea,True
+2000-04-05 00:00:00,South Korea,Laos,9,0,AFC Asian Cup qualification,Seoul,South Korea,False
+2000-04-06 00:00:00,Kazakhstan,Palestine,2,0,AFC Asian Cup qualification,Doha,Qatar,True
+2000-04-06 00:00:00,Malaysia,North Korea,1,4,AFC Asian Cup qualification,Bangkok,Thailand,True
+2000-04-06 00:00:00,Pakistan,Jordan,0,5,AFC Asian Cup qualification,Doha,Qatar,True
+2000-04-06 00:00:00,Thailand,Taiwan,1,0,AFC Asian Cup qualification,Bangkok,Thailand,False
+2000-04-07 00:00:00,Myanmar,Laos,4,0,AFC Asian Cup qualification,Seoul,South Korea,True
+2000-04-07 00:00:00,Djibouti,DR Congo,1,1,FIFA World Cup qualification,Djibouti,Djibouti,False
+2000-04-07 00:00:00,South Korea,Mongolia,6,0,AFC Asian Cup qualification,Seoul,South Korea,False
+2000-04-07 00:00:00,Mauritania,Tunisia,1,2,FIFA World Cup qualification,Nouakchott,Mauritania,False
+2000-04-08 00:00:00,Botswana,Zambia,0,1,FIFA World Cup qualification,Gaborone,Botswana,False
+2000-04-08 00:00:00,Fiji,Papua New Guinea,5,0,Oceania Nations Cup qualification,Suva,Fiji,False
+2000-04-08 00:00:00,Guinea-Bissau,Togo,0,0,FIFA World Cup qualification,Bissau,Guinea-Bissau,False
+2000-04-08 00:00:00,Madagascar,Gabon,2,0,FIFA World Cup qualification,Antananarivo,Madagascar,False
+2000-04-08 00:00:00,Malawi,Kenya,2,0,FIFA World Cup qualification,Blantyre,Malawi,False
+2000-04-08 00:00:00,New Caledonia,Solomon Islands,4,2,Oceania Nations Cup qualification,Suva,Fiji,True
+2000-04-08 00:00:00,Pakistan,Kazakhstan,0,4,AFC Asian Cup qualification,Doha,Qatar,True
+2000-04-08 00:00:00,Qatar,Jordan,2,2,AFC Asian Cup qualification,Doha,Qatar,False
+2000-04-08 00:00:00,S√£o Tom√© and Pr√≠ncipe,Sierra Leone,2,0,FIFA World Cup qualification,S√£o Tom√©,S√£o Tom√© and Pr√≠ncipe,False
+2000-04-08 00:00:00,Seychelles,Namibia,1,1,FIFA World Cup qualification,Victoria,Seychelles,False
+2000-04-08 00:00:00,Tanzania,Ghana,0,1,FIFA World Cup qualification,Arusha,Tanzania,False
+2000-04-08 00:00:00,Thailand,Malaysia,3,2,AFC Asian Cup qualification,Bangkok,Thailand,False
+2000-04-08 00:00:00,Uganda,Guinea,4,4,FIFA World Cup qualification,Kampala,Uganda,False
+2000-04-09 00:00:00,Benin,Senegal,1,1,FIFA World Cup qualification,Cotonou,Benin,False
+2000-04-09 00:00:00,Cape Verde,Algeria,0,0,FIFA World Cup qualification,Mindelo,Cape Verde,False
+2000-04-09 00:00:00,Central African Republic,Zimbabwe,0,1,FIFA World Cup qualification,Bangui,Central African Republic,False
+2000-04-09 00:00:00,Chad,Liberia,0,1,FIFA World Cup qualification,N'Djamena,Chad,False
+2000-04-09 00:00:00,Equatorial Guinea,Congo,1,3,FIFA World Cup qualification,Malabo,Equatorial Guinea,False
+2000-04-09 00:00:00,Eritrea,Nigeria,0,0,FIFA World Cup qualification,Asmara,Eritrea,False
+2000-04-09 00:00:00,Ethiopia,Burkina Faso,2,1,FIFA World Cup qualification,Addis Ababa,Ethiopia,False
+2000-04-09 00:00:00,Gambia,Morocco,0,1,FIFA World Cup qualification,Bakau,Gambia,False
+2000-04-09 00:00:00,Iran,Bahrain,3,0,AFC Asian Cup qualification,Tehran,Iran,False
+2000-04-09 00:00:00,South Korea,Myanmar,4,0,AFC Asian Cup qualification,Seoul,South Korea,False
+2000-04-09 00:00:00,Laos,Mongolia,2,1,AFC Asian Cup qualification,Seoul,South Korea,True
+2000-04-09 00:00:00,Lesotho,South Africa,0,2,FIFA World Cup qualification,Maseru,Lesotho,False
+2000-04-09 00:00:00,Libya,Mali,3,0,FIFA World Cup qualification,Tripoli,Libya,False
+2000-04-09 00:00:00,Rwanda,Ivory Coast,2,2,FIFA World Cup qualification,Kigali,Rwanda,False
+2000-04-09 00:00:00,Sudan,Mozambique,1,0,FIFA World Cup qualification,Omdurman,Sudan,False
+2000-04-09 00:00:00,Eswatini,Angola,0,1,FIFA World Cup qualification,Lobamba,Eswatini,False
+2000-04-09 00:00:00,Syria,Maldives,2,1,AFC Asian Cup qualification,Tehran,Iran,True
+2000-04-10 00:00:00,Fiji,New Caledonia,2,1,Oceania Nations Cup qualification,Suva,Fiji,False
+2000-04-10 00:00:00,Solomon Islands,Vanuatu,2,1,Oceania Nations Cup qualification,Suva,Fiji,True
+2000-04-11 00:00:00,Bahrain,Maldives,1,0,AFC Asian Cup qualification,Tehran,Iran,True
+2000-04-11 00:00:00,Fiji,Vanuatu,4,1,Oceania Nations Cup qualification,Suva,Fiji,False
+2000-04-11 00:00:00,Iran,Syria,1,1,AFC Asian Cup qualification,Tehran,Iran,False
+2000-04-11 00:00:00,New Caledonia,Papua New Guinea,6,1,Oceania Nations Cup qualification,Suva,Fiji,True
+2000-04-12 00:00:00,Ethiopia,DR Congo,1,2,Friendly,Addis Ababa,Ethiopia,False
+2000-04-13 00:00:00,Bahrain,Syria,0,1,AFC Asian Cup qualification,Tehran,Iran,True
+2000-04-13 00:00:00,Iran,Maldives,3,0,AFC Asian Cup qualification,Tehran,Iran,False
+2000-04-13 00:00:00,Solomon Islands,Papua New Guinea,4,2,Oceania Nations Cup qualification,Suva,Fiji,True
+2000-04-13 00:00:00,Vanuatu,New Caledonia,6,0,Oceania Nations Cup qualification,Suva,Fiji,True
+2000-04-15 00:00:00,Fiji,Solomon Islands,2,2,Oceania Nations Cup qualification,Suva,Fiji,False
+2000-04-15 00:00:00,Malawi,Mozambique,2,1,COSAFA Cup,Blantyre,Malawi,False
+2000-04-15 00:00:00,Papua New Guinea,Vanuatu,1,4,Oceania Nations Cup qualification,Suva,Fiji,True
+2000-04-16 00:00:00,Antigua and Barbuda,Bermuda,0,0,FIFA World Cup qualification,St. John's,Antigua and Barbuda,False
+2000-04-16 00:00:00,Bahamas,Haiti,0,4,FIFA World Cup qualification,Nassau,Bahamas,False
+2000-04-16 00:00:00,Barbados,Aruba,4,0,FIFA World Cup qualification,Bridgetown,Barbados,False
+2000-04-16 00:00:00,Belize,El Salvador,1,3,FIFA World Cup qualification,Orange Walk,Belize,False
+2000-04-16 00:00:00,Dominican Republic,Trinidad and Tobago,0,1,FIFA World Cup qualification,San Crist√≥bal,Dominican Republic,False
+2000-04-16 00:00:00,Nicaragua,Honduras,0,1,FIFA World Cup qualification,Diriamba,Nicaragua,False
+2000-04-16 00:00:00,Saint Vincent and the Grenadines,Saint Kitts and Nevis,1,0,FIFA World Cup qualification,Kingstown,Saint Vincent and the Grenadines,False
+2000-04-16 00:00:00,Suriname,Cuba,0,0,FIFA World Cup qualification,Paramaribo,Suriname,False
+2000-04-16 00:00:00,Uganda,Kenya,2,2,Friendly,Kampala,Uganda,False
+2000-04-19 00:00:00,Cameroon,Somalia,3,0,FIFA World Cup qualification,Yaound√©,Cameroon,False
+2000-04-19 00:00:00,Mali,Burkina Faso,2,1,Friendly,Bamako,Mali,False
+2000-04-20 00:00:00,Egypt,Mauritius,2,0,FIFA World Cup qualification,Cairo,Egypt,False
+2000-04-21 00:00:00,Algeria,Cape Verde,2,0,FIFA World Cup qualification,Annaba,Algeria,False
+2000-04-22 00:00:00,Gabon,Madagascar,1,0,FIFA World Cup qualification,Libreville,Gabon,False
+2000-04-22 00:00:00,Kenya,Malawi,0,0,FIFA World Cup qualification,Nairobi,Kenya,False
+2000-04-22 00:00:00,Morocco,Gambia,2,0,FIFA World Cup qualification,Casablanca,Morocco,False
+2000-04-22 00:00:00,Namibia,Seychelles,3,0,FIFA World Cup qualification,Windhoek,Namibia,False
+2000-04-22 00:00:00,Nigeria,Eritrea,4,0,FIFA World Cup qualification,Lagos,Nigeria,False
+2000-04-22 00:00:00,Sierra Leone,S√£o Tom√© and Pr√≠ncipe,4,0,FIFA World Cup qualification,Freetown,Sierra Leone,False
+2000-04-22 00:00:00,South Africa,Lesotho,1,0,FIFA World Cup qualification,Bloemfontein,South Africa,False
+2000-04-22 00:00:00,Saint Kitts and Nevis,Saint Vincent and the Grenadines,1,2,FIFA World Cup qualification,Basseterre,Saint Kitts and Nevis,False
+2000-04-22 00:00:00,Tunisia,Mauritania,3,0,FIFA World Cup qualification,Tunis,Tunisia,False
+2000-04-22 00:00:00,Zambia,Botswana,1,0,FIFA World Cup qualification,Lusaka,Zambia,False
+2000-04-23 00:00:00,Angola,Eswatini,7,1,FIFA World Cup qualification,Luanda,Angola,False
+2000-04-23 00:00:00,Bermuda,Antigua and Barbuda,1,1,FIFA World Cup qualification,Hamilton,Bermuda,False
+2000-04-23 00:00:00,Burkina Faso,Ethiopia,3,0,FIFA World Cup qualification,Ouagadougou,Burkina Faso,False
+2000-04-23 00:00:00,Cameroon,Somalia,3,0,FIFA World Cup qualification,Yaound√©,Cameroon,False
+2000-04-23 00:00:00,Congo,Equatorial Guinea,2,1,FIFA World Cup qualification,Pointe-Noire,Congo,False
+2000-04-23 00:00:00,DR Congo,Djibouti,9,1,FIFA World Cup qualification,Kinshasa,DR Congo,False
+2000-04-23 00:00:00,Egypt,Mauritius,4,2,FIFA World Cup qualification,Alexandria,Egypt,False
+2000-04-23 00:00:00,Ghana,Tanzania,3,2,FIFA World Cup qualification,Accra,Ghana,False
+2000-04-23 00:00:00,Guinea,Uganda,3,0,FIFA World Cup qualification,Conakry,Guinea,False
+2000-04-23 00:00:00,Ivory Coast,Rwanda,2,0,FIFA World Cup qualification,Abidjan,Ivory Coast,False
+2000-04-23 00:00:00,Liberia,Chad,0,0,FIFA World Cup qualification,Paynesville,Liberia,False
+2000-04-23 00:00:00,Mali,Libya,3,1,FIFA World Cup qualification,Bamako,Mali,False
+2000-04-23 00:00:00,Mozambique,Sudan,2,1,FIFA World Cup qualification,Maputo,Mozambique,False
+2000-04-23 00:00:00,Senegal,Benin,1,0,FIFA World Cup qualification,Dakar,Senegal,False
+2000-04-23 00:00:00,Togo,Guinea-Bissau,3,0,FIFA World Cup qualification,Lom√©,Togo,False

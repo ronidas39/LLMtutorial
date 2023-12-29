@@ -1,0 +1,1001 @@
+date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
+1985-08-04 00:00:00,Kenya,Algeria,0,0,African Cup of Nations qualification,Nairobi,Kenya,False
+1985-08-06 00:00:00,Thailand,Hong Kong,1,2,Friendly,Bangkok,Thailand,False
+1985-08-07 00:00:00,Russia,Romania,2,0,Friendly,Moscow,Soviet Union,False
+1985-08-10 00:00:00,Nigeria,Zambia,0,0,African Cup of Nations qualification,Lagos,Nigeria,False
+1985-08-11 00:00:00,Costa Rica,Honduras,2,2,CONCACAF Championship,San Jos√©,Costa Rica,False
+1985-08-11 00:00:00,Guinea,Mali,1,1,Friendly,Conakry,Guinea,False
+1985-08-11 00:00:00,Japan,Hong Kong,3,0,FIFA World Cup qualification,Kobe,Japan,False
+1985-08-12 00:00:00,Indonesia,Thailand,1,2,Indonesia Tournament,Jakarta,Indonesia,False
+1985-08-14 00:00:00,Norway,German DR,0,1,Friendly,Oslo,Norway,False
+1985-08-17 00:00:00,Canada,Costa Rica,1,1,CONCACAF Championship,Toronto,Canada,False
+1985-08-18 00:00:00,Ivory Coast,Ghana,2,0,African Cup of Nations qualification,Abidjan,Ivory Coast,False
+1985-08-18 00:00:00,Zambia,Nigeria,1,0,African Cup of Nations qualification,Lusaka,Zambia,False
+1985-08-18 00:00:00,Zimbabwe,Senegal,1,0,African Cup of Nations qualification,Harare,Zimbabwe,False
+1985-08-21 00:00:00,France,Uruguay,2,0,CONMEBOL‚ÄìUEFA Cup of Champions,Paris,France,False
+1985-08-21 00:00:00,Sweden,Poland,1,0,Friendly,Malm√∂,Sweden,False
+1985-08-23 00:00:00,Libya,Mozambique,2,1,African Cup of Nations qualification,Benghazi,Libya,False
+1985-08-25 00:00:00,Honduras,Canada,0,1,CONCACAF Championship,Tegucigalpa,Honduras,False
+1985-08-25 00:00:00,Mali,Guinea,1,1,Friendly,Bamako,Mali,False
+1985-08-25 00:00:00,Morocco,DR Congo,1,0,African Cup of Nations qualification,Casablanca,Morocco,False
+1985-08-27 00:00:00,Mexico,Bulgaria,1,1,Friendly,Los Angeles,United States,True
+1985-08-28 00:00:00,Romania,Finland,2,0,FIFA World Cup qualification,Timi≈üoara,Romania,False
+1985-08-28 00:00:00,Russia,Germany,1,0,Friendly,Moscow,Soviet Union,False
+1985-08-28 00:00:00,Switzerland,Turkey,0,0,Friendly,St. Gallen,Switzerland,False
+1985-09-01 00:00:00,Costa Rica,Canada,0,0,CONCACAF Championship,San Jos√©,Costa Rica,False
+1985-09-01 00:00:00,Ghana,Ivory Coast,0,0,African Cup of Nations qualification,Kumasi,Ghana,False
+1985-09-01 00:00:00,Senegal,Zimbabwe,3,0,African Cup of Nations qualification,Dakar,Senegal,False
+1985-09-03 00:00:00,Israel,Taiwan,6,0,FIFA World Cup qualification,Ramat-Gan,Israel,False
+1985-09-04 00:00:00,Czechoslovakia,Poland,3,1,Friendly,Brno,Czechoslovakia,False
+1985-09-04 00:00:00,Netherlands,Bulgaria,1,0,Friendly,Heerenveen,Netherlands,False
+1985-09-06 00:00:00,Bahrain,Syria,1,1,FIFA World Cup qualification,Riffa,Bahrain,False
+1985-09-08 00:00:00,DR Congo,Morocco,0,0,African Cup of Nations qualification,Lubumbashi,Za√Øre,False
+1985-09-08 00:00:00,Honduras,Costa Rica,3,1,CONCACAF Championship,Tegucigalpa,Honduras,False
+1985-09-10 00:00:00,Norway,Egypt,3,0,Friendly,Oslo,Norway,False
+1985-09-10 00:00:00,Wales,Scotland,1,1,FIFA World Cup qualification,Cardiff,Wales,False
+1985-09-11 00:00:00,Denmark,Sweden,0,3,Friendly,Copenhagen,Denmark,False
+1985-09-11 00:00:00,England,Romania,1,1,FIFA World Cup qualification,London,England,False
+1985-09-11 00:00:00,German DR,France,2,0,FIFA World Cup qualification,Leipzig,German DR,False
+1985-09-11 00:00:00,Poland,Belgium,0,0,FIFA World Cup qualification,Chorz√≥w,Poland,False
+1985-09-11 00:00:00,Switzerland,Republic of Ireland,0,0,FIFA World Cup qualification,Berne,Switzerland,False
+1985-09-11 00:00:00,Turkey,Northern Ireland,0,0,FIFA World Cup qualification,ƒ∞zmir,Turkey,False
+1985-09-14 00:00:00,Canada,Honduras,2,1,CONCACAF Championship,St. John's,Canada,False
+1985-09-15 00:00:00,Cameroon,Saudi Arabia,4,1,Friendly,Yaound√©,Cameroon,False
+1985-09-15 00:00:00,Mozambique,Libya,2,1,African Cup of Nations qualification,Maputo,Mozambique,False
+1985-09-16 00:00:00,Papua New Guinea,China PR,1,4,Friendly,Lae,Papua New Guinea,False
+1985-09-19 00:00:00,Papua New Guinea,China PR,1,1,Friendly,Port Moresby,Papua New Guinea,False
+1985-09-20 00:00:00,Mexico,Peru,0,0,Friendly,Los Angeles,United States,True
+1985-09-20 00:00:00,Syria,Bahrain,1,0,FIFA World Cup qualification,Damascus,Syria,False
+1985-09-20 00:00:00,United Arab Emirates,Iraq,2,3,FIFA World Cup qualification,Dubai,United Arab Emirates,False
+1985-09-21 00:00:00,New Zealand,Australia,0,0,FIFA World Cup qualification,Auckland,New Zealand,False
+1985-09-22 00:00:00,Hong Kong,Japan,1,2,FIFA World Cup qualification,Siu Sai Wan,Hong Kong,False
+1985-09-22 00:00:00,Mexico,Peru,1,0,Friendly,San Jose,United States,True
+1985-09-25 00:00:00,Czechoslovakia,Portugal,1,0,FIFA World Cup qualification,Prague,Czechoslovakia,False
+1985-09-25 00:00:00,Finland,Turkey,1,0,FIFA World Cup qualification,Tampere,Finland,False
+1985-09-25 00:00:00,Italy,Norway,1,2,Friendly,Lecce,Italy,False
+1985-09-25 00:00:00,Luxembourg,Bulgaria,1,3,FIFA World Cup qualification,Luxembourg,Luxembourg,False
+1985-09-25 00:00:00,Russia,Denmark,1,0,FIFA World Cup qualification,Moscow,Soviet Union,True
+1985-09-25 00:00:00,Spain,Iceland,2,1,FIFA World Cup qualification,Seville,Spain,False
+1985-09-25 00:00:00,Sweden,Germany,2,2,FIFA World Cup qualification,Solna,Sweden,False
+1985-09-27 00:00:00,Australia,China PR,3,0,Friendly,Brisbane,Australia,False
+1985-09-27 00:00:00,Iraq,United Arab Emirates,1,2,FIFA World Cup qualification,Taif,Saudi Arabia,True
+1985-09-28 00:00:00,Yugoslavia,German DR,1,2,FIFA World Cup qualification,Belgrade,Yugoslavia,False
+1985-10-04 00:00:00,Malawi,Uganda,1,0,CECAFA Cup,Bulawayo,Zimbabwe,True
+1985-10-04 00:00:00,Saudi Arabia,Cameroon,2,1,Friendly,Taif,Saudi Arabia,False
+1985-10-04 00:00:00,Zimbabwe,Tanzania,1,0,CECAFA Cup,Harare,Zimbabwe,False
+1985-10-05 00:00:00,New Zealand,Taiwan,5,1,FIFA World Cup qualification,Auckland,New Zealand,False
+1985-10-06 00:00:00,Malawi,Zambia,2,2,CECAFA Cup,Bulawayo,Zimbabwe,True
+1985-10-06 00:00:00,Morocco,Libya,3,0,FIFA World Cup qualification,Rabat,Morocco,False
+1985-10-06 00:00:00,Tunisia,Algeria,1,4,FIFA World Cup qualification,Tunis,Tunisia,False
+1985-10-06 00:00:00,Zimbabwe,Kenya,1,1,CECAFA Cup,Harare,Zimbabwe,False
+1985-10-08 00:00:00,Israel,Australia,1,2,FIFA World Cup qualification,Ramat-Gan,Israel,False
+1985-10-08 00:00:00,Kenya,Tanzania,3,2,CECAFA Cup,Harare,Zimbabwe,True
+1985-10-08 00:00:00,Uganda,Zambia,3,0,CECAFA Cup,Bulawayo,Zimbabwe,True
+1985-10-09 00:00:00,Denmark,Switzerland,0,0,FIFA World Cup qualification,Copenhagen,Denmark,False
+1985-10-09 00:00:00,Paraguay,Chile,0,0,Friendly,Asunci√≥n,Paraguay,False
+1985-10-11 00:00:00,Kenya,Uganda,0,0,CECAFA Cup,Harare,Zimbabwe,True
+1985-10-11 00:00:00,Libya,Mexico,3,1,Friendly,Benghazi,Libya,False
+1985-10-11 00:00:00,Zimbabwe,Malawi,1,0,CECAFA Cup,Bulawayo,Zimbabwe,False
+1985-10-12 00:00:00,Malawi,Uganda,3,1,CECAFA Cup,Bulawayo,Zimbabwe,True
+1985-10-12 00:00:00,Portugal,Malta,3,2,FIFA World Cup qualification,Lisbon,Portugal,False
+1985-10-13 00:00:00,Brunei,Malaysia,0,4,Merlion Cup,Kallang,Singapore,True
+1985-10-13 00:00:00,Zimbabwe,Kenya,2,0,CECAFA Cup,Harare,Zimbabwe,False
+1985-10-15 00:00:00,Yemen,Mexico,0,2,Friendly,Sana'a,Yemen AR,True
+1985-10-16 00:00:00,Austria,Yugoslavia,0,3,Friendly,Linz,Austria,False
+1985-10-16 00:00:00,Belgium,Netherlands,1,0,FIFA World Cup qualification,Brussels,Belgium,False
+1985-10-16 00:00:00,Czechoslovakia,Sweden,2,1,FIFA World Cup qualification,Prague,Czechoslovakia,False
+1985-10-16 00:00:00,England,Turkey,5,0,FIFA World Cup qualification,London,England,False
+1985-10-16 00:00:00,Germany,Portugal,0,1,FIFA World Cup qualification,Stuttgart,Germany,False
+1985-10-16 00:00:00,Greece,Bulgaria,0,2,Friendly,Salonica,Greece,False
+1985-10-16 00:00:00,Norway,Denmark,1,5,FIFA World Cup qualification,Oslo,Norway,False
+1985-10-16 00:00:00,Peru,Paraguay,0,1,Friendly,Lima,Peru,False
+1985-10-16 00:00:00,Romania,Northern Ireland,0,1,FIFA World Cup qualification,Bucharest,Romania,False
+1985-10-16 00:00:00,Russia,Republic of Ireland,2,0,FIFA World Cup qualification,Moscow,Soviet Union,True
+1985-10-16 00:00:00,Scotland,German DR,0,0,Friendly,Glasgow,Scotland,False
+1985-10-16 00:00:00,Singapore,Brunei,2,1,Merlion Cup,Kallang,Singapore,False
+1985-10-16 00:00:00,Wales,Hungary,0,3,Friendly,Cardiff,Wales,False
+1985-10-18 00:00:00,Algeria,Tunisia,3,0,FIFA World Cup qualification,Algiers,Algeria,False
+1985-10-18 00:00:00,Jordan,Mexico,0,0,Friendly,Amman,Jordan,False
+1985-10-18 00:00:00,Libya,Morocco,1,0,FIFA World Cup qualification,Bin Ghashir,Libya,False
+1985-10-20 00:00:00,Australia,Israel,1,1,FIFA World Cup qualification,Melbourne,Australia,False
+1985-10-20 00:00:00,Egypt,Mexico,2,1,Friendly,Cairo,Egypt,False
+1985-10-20 00:00:00,Singapore,Malaysia,2,0,Merlion Cup,Kallang,Singapore,False
+1985-10-23 00:00:00,Australia,Taiwan,7,0,FIFA World Cup qualification,Adelaide,Australia,False
+1985-10-23 00:00:00,Singapore,Malaysia,4,0,Merlion Cup,Kallang,Singapore,False
+1985-10-25 00:00:00,Kuwait,Mexico,0,0,Friendly,Kuwait City,Kuwait,False
+1985-10-26 00:00:00,Myanmar,Indonesia,2,1,Friendly,Yangon,Burma,False
+1985-10-26 00:00:00,Japan,South Korea,1,2,FIFA World Cup qualification,Tokyo,Japan,False
+1985-10-26 00:00:00,New Zealand,Israel,3,1,FIFA World Cup qualification,Auckland,New Zealand,False
+1985-10-27 00:00:00,Chile,Peru,4,2,FIFA World Cup qualification,Santiago,Chile,False
+1985-10-27 00:00:00,Paraguay,Colombia,3,0,FIFA World Cup qualification,Asunci√≥n,Paraguay,False
+1985-10-30 00:00:00,Albania,Greece,1,1,FIFA World Cup qualification,Tirana,Albania,False
+1985-10-30 00:00:00,France,Luxembourg,6,0,FIFA World Cup qualification,Paris,France,False
+1985-10-30 00:00:00,Russia,Norway,1,0,FIFA World Cup qualification,Moscow,Soviet Union,True
+1985-11-03 00:00:00,Australia,New Zealand,2,0,FIFA World Cup qualification,Sydney,Australia,False
+1985-11-03 00:00:00,Colombia,Paraguay,2,1,FIFA World Cup qualification,Cali,Colombia,False
+1985-11-03 00:00:00,South Korea,Japan,1,0,FIFA World Cup qualification,Seoul,South Korea,False
+1985-11-03 00:00:00,Peru,Chile,0,1,FIFA World Cup qualification,Lima,Peru,False
+1985-11-05 00:00:00,Anguilla,British Virgin Islands,0,1,Friendly,The Valley,Anguilla,False
+1985-11-08 00:00:00,Angola,Mozambique,0,0,Friendly,Luanda,Angola,False
+1985-11-10 00:00:00,Angola,Zimbabwe,2,3,Friendly,Luanda,Angola,False
+1985-11-10 00:00:00,Israel,New Zealand,3,0,FIFA World Cup qualification,Ramat-Gan,Israel,False
+1985-11-10 00:00:00,Paraguay,Chile,3,0,FIFA World Cup qualification,Asunci√≥n,Paraguay,False
+1985-11-11 00:00:00,Mozambique,Zimbabwe,1,2,Friendly,Luanda,Angola,True
+1985-11-13 00:00:00,England,Northern Ireland,0,0,FIFA World Cup qualification,London,England,False
+1985-11-13 00:00:00,Republic of Ireland,Denmark,1,4,FIFA World Cup qualification,Dublin,Republic of Ireland,False
+1985-11-13 00:00:00,Switzerland,Norway,1,1,FIFA World Cup qualification,Lucerne,Switzerland,False
+1985-11-13 00:00:00,Turkey,Romania,1,3,FIFA World Cup qualification,ƒ∞zmir,Turkey,False
+1985-11-14 00:00:00,Mexico,Argentina,1,1,Friendly,Los Angeles,United States,True
+1985-11-15 00:00:00,Syria,Iraq,0,0,FIFA World Cup qualification,Damascus,Syria,False
+1985-11-16 00:00:00,France,Yugoslavia,2,0,FIFA World Cup qualification,Paris,France,False
+1985-11-16 00:00:00,German DR,Bulgaria,2,1,FIFA World Cup qualification,Karl-Marx-Stadt,German DR,False
+1985-11-16 00:00:00,Poland,Italy,1,0,Friendly,Chorz√≥w,Poland,False
+1985-11-17 00:00:00,Chile,Paraguay,2,2,FIFA World Cup qualification,Santiago,Chile,False
+1985-11-17 00:00:00,Germany,Czechoslovakia,2,2,FIFA World Cup qualification,Munich,Germany,False
+1985-11-17 00:00:00,Grenada,Dominica,0,0,Windward Islands Tournament,St. George's,Grenada,False
+1985-11-17 00:00:00,Malta,Sweden,1,2,FIFA World Cup qualification,Attard,Malta,False
+1985-11-17 00:00:00,Mexico,Argentina,1,1,Friendly,Puebla,Mexico,False
+1985-11-17 00:00:00,Saint Lucia,Saint Vincent and the Grenadines,0,0,Windward Islands Tournament,St. George's,Grenada,True
+1985-11-18 00:00:00,Dominica,Saint Vincent and the Grenadines,0,0,Windward Islands Tournament,St. George's,Grenada,True
+1985-11-19 00:00:00,DR Congo,Zambia,0,1,Friendly,Kinshasa,Za√Øre,False
+1985-11-19 00:00:00,Egypt,Ivory Coast,0,1,Friendly,Kinshasa,Za√Øre,True
+1985-11-20 00:00:00,Netherlands,Belgium,2,1,FIFA World Cup qualification,Rotterdam,Netherlands,False
+1985-11-20 00:00:00,Scotland,Australia,2,0,FIFA World Cup qualification,Glasgow,Scotland,False
+1985-11-20 00:00:00,Spain,Austria,0,0,Friendly,Zaragoza,Spain,False
+1985-11-21 00:00:00,DR Congo,Egypt,3,2,Friendly,Kinshasa,Za√Øre,False
+1985-11-21 00:00:00,Ivory Coast,Zambia,0,1,Friendly,Kinshasa,Za√Øre,True
+1985-11-23 00:00:00,Egypt,Zambia,1,0,Friendly,Kinshasa,Za√Øre,True
+1985-11-24 00:00:00,DR Congo,Ivory Coast,1,2,Friendly,Kinshasa,Za√Øre,False
+1985-11-24 00:00:00,Saint Kitts and Nevis,Dominica,2,1,Friendly,Basseterre,Saint Kitts and Nevis,False
+1985-11-27 00:00:00,Congo,Ivory Coast,2,1,Friendly,Kinshasa,Za√Øre,True
+1985-11-29 00:00:00,Congo,Ivory Coast,0,1,Friendly,Kinshasa,Za√Øre,True
+1985-11-29 00:00:00,Iraq,Syria,3,1,FIFA World Cup qualification,Taif,Saudi Arabia,True
+1985-12-01 00:00:00,Dominica,Saint Kitts and Nevis,0,1,Friendly,Roseau,Dominica,False
+1985-12-03 00:00:00,Mexico,South Korea,2,1,Friendly,Los Angeles,United States,True
+1985-12-04 00:00:00,Australia,Scotland,0,0,FIFA World Cup qualification,Melbourne,Australia,False
+1985-12-07 00:00:00,Gabon,Congo,1,0,UDEAC Cup,Libreville,Gabon,False
+1985-12-07 00:00:00,Mexico,Algeria,2,0,Friendly,Mexico City,Mexico,False
+1985-12-08 00:00:00,Cameroon,Equatorial Guinea,2,0,UDEAC Cup,Libreville,Gabon,True
+1985-12-08 00:00:00,Tunisia,Poland,1,0,Friendly,Tunis,Tunisia,False
+1985-12-09 00:00:00,Central African Republic,Congo,1,4,UDEAC Cup,Libreville,Gabon,True
+1985-12-09 00:00:00,Hungary,South Korea,1,0,Friendly,Irapuato,Mexico,True
+1985-12-10 00:00:00,Chad,Equatorial Guinea,1,1,UDEAC Cup,Libreville,Gabon,True
+1985-12-10 00:00:00,Mexico,South Korea,2,1,Friendly,Guadalajara,Mexico,False
+1985-12-11 00:00:00,Algeria,Hungary,1,3,Friendly,Monterrey,Mexico,True
+1985-12-11 00:00:00,Gabon,Central African Republic,4,0,UDEAC Cup,Libreville,Gabon,False
+1985-12-11 00:00:00,Turkey,Poland,1,1,Friendly,Adana,Turkey,False
+1985-12-12 00:00:00,Chad,Cameroon,2,2,UDEAC Cup,Libreville,Gabon,True
+1985-12-13 00:00:00,Algeria,South Korea,0,2,Friendly,Nezahualc√≥yotl,Mexico,True
+1985-12-14 00:00:00,Gabon,Chad,3,0,UDEAC Cup,Libreville,Gabon,False
+1985-12-14 00:00:00,Mexico,Hungary,2,0,Friendly,Toluca,Mexico,False
+1985-12-15 00:00:00,Congo,Cameroon,1,0,UDEAC Cup,Libreville,Gabon,True
+1985-12-15 00:00:00,Gambia,Guinea,0,0,Friendly,Bakau,Gambia,False
+1985-12-18 00:00:00,Chad,Cameroon,1,2,UDEAC Cup,Libreville,Gabon,True
+1985-12-18 00:00:00,Spain,Bulgaria,2,0,Friendly,Valencia,Spain,False
+1985-12-19 00:00:00,Gabon,Congo,3,0,UDEAC Cup,Libreville,Gabon,False
+1985-12-25 00:00:00,Senegal,Guinea,3,1,Friendly,Dakar,Senegal,False
+1985-12-27 00:00:00,Ivory Coast,Guinea,1,0,Friendly,Dakar,Senegal,True
+1985-12-29 00:00:00,Senegal,Ivory Coast,2,0,Friendly,Dakar,Senegal,False
+1986-01-03 00:00:00,Qatar,China PR,1,1,Friendly,Doha,Qatar,False
+1986-01-17 00:00:00,Qatar,Greece,0,1,Friendly,Doha,Qatar,False
+1986-01-22 00:00:00,Gabon,Senegal,0,1,Friendly,Libreville,Gabon,False
+1986-01-22 00:00:00,Portugal,Finland,1,1,Friendly,Leiria,Portugal,False
+1986-01-22 00:00:00,Spain,Russia,2,0,Friendly,Las Palmas,Spain,False
+1986-01-24 00:00:00,Qatar,Tunisia,2,1,Friendly,Doha,Qatar,False
+1986-01-25 00:00:00,India,China PR,0,0,Nehru Cup,Trivandrum,India,False
+1986-01-27 00:00:00,Oman,Tunisia,0,0,Friendly,Muscat,Oman,False
+1986-01-28 00:00:00,China PR,Peru,3,1,Nehru Cup,Trivandrum,India,True
+1986-01-28 00:00:00,Israel,Scotland,0,1,Friendly,Ramat-Gan,Israel,False
+1986-01-29 00:00:00,Canada,Paraguay,0,0,Friendly,Vancouver,Canada,False
+1986-01-29 00:00:00,Egypt,England,0,4,Friendly,Cairo,Egypt,False
+1986-01-30 00:00:00,India,Peru,0,1,Nehru Cup,Trivandrum,India,False
+1986-02-01 00:00:00,Senegal,Guinea,2,1,Am√≠lcar Cabral Cup,Dakar,Senegal,False
+1986-02-02 00:00:00,Canada,Uruguay,1,3,Friendly,Miami,United States,True
+1986-02-02 00:00:00,Gambia,Guinea-Bissau,3,0,Am√≠lcar Cabral Cup,Dakar,Senegal,True
+1986-02-02 00:00:00,Mauritania,Sierra Leone,0,1,Am√≠lcar Cabral Cup,Dakar,Senegal,True
+1986-02-02 00:00:00,Qatar,Hungary,0,3,Friendly,Doha,Qatar,False
+1986-02-03 00:00:00,Guinea,Mali,1,1,Am√≠lcar Cabral Cup,Dakar,Senegal,True
+1986-02-04 00:00:00,Gambia,Sierra Leone,1,2,Am√≠lcar Cabral Cup,Dakar,Senegal,True
+1986-02-04 00:00:00,Guinea-Bissau,Mauritania,1,0,Am√≠lcar Cabral Cup,Dakar,Senegal,True
+1986-02-05 00:00:00,Italy,Germany,1,2,Friendly,Avellino,Italy,False
+1986-02-05 00:00:00,Jamaica,Paraguay,1,4,Friendly,Miami,United States,True
+1986-02-05 00:00:00,Portugal,Luxembourg,2,0,Friendly,Portim√£o,Portugal,False
+1986-02-05 00:00:00,Senegal,Mali,1,0,Am√≠lcar Cabral Cup,Dakar,Senegal,False
+1986-02-05 00:00:00,United States,Canada,0,0,Friendly,Miami,United States,False
+1986-02-06 00:00:00,Gambia,Mauritania,3,1,Am√≠lcar Cabral Cup,Dakar,Senegal,True
+1986-02-06 00:00:00,Guinea-Bissau,Sierra Leone,2,3,Am√≠lcar Cabral Cup,Dakar,Senegal,True
+1986-02-07 00:00:00,United States,Uruguay,1,1,Friendly,Miami,United States,False
+1986-02-08 00:00:00,Guinea,Sierra Leone,1,2,Am√≠lcar Cabral Cup,Dakar,Senegal,True
+1986-02-08 00:00:00,Senegal,Gambia,1,0,Am√≠lcar Cabral Cup,Dakar,Senegal,False
+1986-02-09 00:00:00,Bulgaria,German DR,1,2,Friendly,Quer√©taro,Mexico,True
+1986-02-10 00:00:00,Senegal,Sierra Leone,3,1,Am√≠lcar Cabral Cup,Dakar,Senegal,False
+1986-02-14 00:00:00,South Korea,Paraguay,1,3,Lunar New Year Cup,So Kon Po,Hong Kong,True
+1986-02-15 00:00:00,Mexico,German DR,1,2,Friendly,San Jose,United States,True
+1986-02-15 00:00:00,Zambia,Botswana,6,0,Friendly,Ndola,Zambia,False
+1986-02-16 00:00:00,Indonesia,Paraguay,2,3,Friendly,Jakarta,Indonesia,False
+1986-02-16 00:00:00,Iran,Pakistan,2,0,Friendly,Tehran,Iran,False
+1986-02-16 00:00:00,Uruguay,Poland,2,2,Friendly,Montevideo,Uruguay,False
+1986-02-16 00:00:00,Zambia,Botswana,3,0,Friendly,Lusaka,Zambia,False
+1986-02-17 00:00:00,Saudi Arabia,Algeria,0,0,Friendly,Khobar,Saudi Arabia,False
+1986-02-19 00:00:00,Greece,Cyprus,0,0,Friendly,Athens,Greece,False
+1986-02-19 00:00:00,Mexico,Russia,1,0,Friendly,Mexico City,Mexico,False
+1986-02-19 00:00:00,Morocco,Bulgaria,0,0,Friendly,Rabat,Morocco,False
+1986-02-19 00:00:00,Portugal,German DR,1,3,Friendly,Braga,Portugal,False
+1986-02-19 00:00:00,Spain,Belgium,3,0,Friendly,Elche,Spain,False
+1986-02-20 00:00:00,Iran,Ghana,2,0,Friendly,Tehran,Iran,False
+1986-02-21 00:00:00,Bahrain,Finland,0,0,Friendly,Manama,Bahrain,False
+1986-02-21 00:00:00,Saudi Arabia,Algeria,1,1,Friendly,Khobar,Saudi Arabia,False
+1986-02-23 00:00:00,Liberia,Burkina Faso,0,1,West African Cup,Accra,Ghana,True
+1986-02-24 00:00:00,Bahrain,Finland,0,4,Friendly,Manama,Bahrain,False
+1986-02-24 00:00:00,Burkina Faso,Togo,0,1,West African Cup,Accra,Ghana,True
+1986-02-24 00:00:00,Ghana,Niger,2,0,West African Cup,Accra,Ghana,False
+1986-02-25 00:00:00,Algeria,Mozambique,4,1,Friendly,Algiers,Algeria,False
+1986-02-25 00:00:00,Ghana,Togo,2,2,West African Cup,Accra,Ghana,False
+1986-02-25 00:00:00,Liberia,Niger,3,0,West African Cup,Accra,Ghana,True
+1986-02-25 00:00:00,Saudi Arabia,Wales,1,2,Friendly,Khobar,Saudi Arabia,False
+1986-02-26 00:00:00,Burkina Faso,Niger,0,0,West African Cup,Accra,Ghana,True
+1986-02-26 00:00:00,France,Northern Ireland,0,0,Friendly,Paris,France,False
+1986-02-26 00:00:00,Ghana,Liberia,3,0,West African Cup,Accra,Ghana,False
+1986-02-26 00:00:00,Grenada,Norway,1,2,Friendly,St. George's,Grenada,False
+1986-02-26 00:00:00,Israel,England,1,2,Friendly,Ramat-Gan,Israel,False
+1986-02-26 00:00:00,Qatar,Paraguay,1,1,Friendly,Doha,Qatar,False
+1986-02-26 00:00:00,Tunisia,Cameroon,1,1,Friendly,Tunis,Tunisia,False
+1986-02-27 00:00:00,Ghana,Burkina Faso,2,0,West African Cup,Accra,Ghana,False
+1986-02-27 00:00:00,Togo,Liberia,1,0,West African Cup,Accra,Ghana,True
+1986-02-28 00:00:00,Egypt,Romania,2,2,Friendly,Alexandria,Egypt,False
+1986-02-28 00:00:00,Niger,Togo,3,1,West African Cup,Accra,Ghana,True
+1986-02-28 00:00:00,Saudi Arabia,Finland,0,1,Friendly,Khobar,Saudi Arabia,False
+1986-03-01 00:00:00,Ghana,Burkina Faso,2,0,West African Cup,Accra,Ghana,False
+1986-03-01 00:00:00,Qatar,Paraguay,0,3,Friendly,Doha,Qatar,False
+1986-03-01 00:00:00,Saint Lucia,Norway,0,6,Friendly,Castries,Saint Lucia,False
+1986-03-01 00:00:00,Togo,Niger,3,1,West African Cup,Accra,Ghana,True
+1986-03-02 00:00:00,Burkina Faso,Niger,1,2,West African Cup,Accra,Ghana,True
+1986-03-02 00:00:00,Egypt,Romania,0,1,Friendly,Alexandria,Egypt,False
+1986-03-02 00:00:00,Ghana,Togo,1,0,West African Cup,Accra,Ghana,False
+1986-03-03 00:00:00,Guadeloupe,Norway,1,2,Friendly,Basse-Terre,Guadeloupe,False
+1986-03-05 00:00:00,Martinique,Norway,0,1,Friendly,Fort-de-France,Martinique,False
+1986-03-05 00:00:00,Thailand,Indonesia,1,1,King's Cup,Bangkok,Thailand,False
+1986-03-06 00:00:00,Mexico,Denmark,1,1,Friendly,Los Angeles,United States,True
+1986-03-07 00:00:00,Egypt,Senegal,0,1,African Cup of Nations,Cairo,Egypt,False
+1986-03-07 00:00:00,Ivory Coast,Mozambique,3,0,African Cup of Nations,Cairo,Egypt,True
+1986-03-08 00:00:00,Algeria,Morocco,0,0,African Cup of Nations,Alexandria,Egypt,True
+1986-03-08 00:00:00,Bahrain,Paraguay,1,2,Friendly,Manama,Bahrain,False
+1986-03-08 00:00:00,Cameroon,Zambia,3,2,African Cup of Nations,Alexandria,Egypt,True
+1986-03-10 00:00:00,Egypt,Ivory Coast,2,0,African Cup of Nations,Cairo,Egypt,False
+1986-03-10 00:00:00,Mozambique,Senegal,0,2,African Cup of Nations,Cairo,Egypt,True
+1986-03-11 00:00:00,Algeria,Zambia,0,0,African Cup of Nations,Alexandria,Egypt,True
+1986-03-11 00:00:00,Bahrain,Iceland,2,1,Friendly,Manama,Bahrain,False
+1986-03-11 00:00:00,Cameroon,Morocco,1,1,African Cup of Nations,Alexandria,Egypt,True
+1986-03-12 00:00:00,German DR,Netherlands,0,1,Friendly,Leipzig,German DR,False
+1986-03-12 00:00:00,Germany,Brazil,2,0,Friendly,Frankfurt am Main,Germany,False
+1986-03-12 00:00:00,Saudi Arabia,Paraguay,0,0,Friendly,Khobar,Saudi Arabia,False
+1986-03-12 00:00:00,Turkey,Switzerland,1,0,Friendly,Adana,Turkey,False
+1986-03-13 00:00:00,Egypt,Mozambique,2,0,African Cup of Nations,Cairo,Egypt,False
+1986-03-13 00:00:00,Ivory Coast,Senegal,1,0,African Cup of Nations,Cairo,Egypt,True
+1986-03-14 00:00:00,Algeria,Cameroon,2,3,African Cup of Nations,Alexandria,Egypt,True
+1986-03-14 00:00:00,Djibouti,Ethiopia,1,5,Friendly,Djibouti,Djibouti,False
+1986-03-14 00:00:00,Iraq,Romania,1,1,Friendly,Baghdad,Iraq,False
+1986-03-14 00:00:00,Morocco,Zambia,1,0,African Cup of Nations,Alexandria,Egypt,True
+1986-03-15 00:00:00,Bahrain,Iceland,0,2,Friendly,Manama,Bahrain,False
+1986-03-16 00:00:00,Hungary,Brazil,3,0,Friendly,Budapest,Hungary,False
+1986-03-17 00:00:00,Cameroon,Ivory Coast,1,0,African Cup of Nations,Alexandria,Egypt,True
+1986-03-17 00:00:00,Egypt,Morocco,1,0,African Cup of Nations,Cairo,Egypt,False
+1986-03-18 00:00:00,Djibouti,Ethiopia,1,1,Friendly,Djibouti,Djibouti,False
+1986-03-19 00:00:00,Kuwait,Iceland,1,0,Friendly,Kuwait City,Kuwait,False
+1986-03-20 00:00:00,Ivory Coast,Morocco,3,2,African Cup of Nations,Cairo,Egypt,True
+1986-03-21 00:00:00,Egypt,Cameroon,0,0,African Cup of Nations,Cairo,Egypt,False
+1986-03-22 00:00:00,Bahrain,Iraq,0,0,Gulf Cup,Riffa,Bahrain,False
+1986-03-23 00:00:00,Qatar,Oman,2,1,Gulf Cup,Riffa,Bahrain,True
+1986-03-23 00:00:00,Saudi Arabia,Kuwait,1,3,Gulf Cup,Riffa,Bahrain,True
+1986-03-24 00:00:00,United Arab Emirates,Iraq,2,2,Gulf Cup,Riffa,Bahrain,True
+1986-03-25 00:00:00,Bahrain,Saudi Arabia,2,1,Gulf Cup,Riffa,Bahrain,False
+1986-03-25 00:00:00,Kuwait,Oman,2,0,Gulf Cup,Riffa,Bahrain,True
+1986-03-26 00:00:00,France,Argentina,2,0,Friendly,Paris,France,False
+1986-03-26 00:00:00,Greece,German DR,2,0,Friendly,Athens,Greece,False
+1986-03-26 00:00:00,Republic of Ireland,Wales,0,1,Friendly,Dublin,Republic of Ireland,False
+1986-03-26 00:00:00,Italy,Austria,2,1,Friendly,Udine,Italy,False
+1986-03-26 00:00:00,Northern Ireland,Denmark,1,1,Friendly,Belfast,Northern Ireland,False
+1986-03-26 00:00:00,Russia,England,0,1,Friendly,Tbilisi,Soviet Union,False
+1986-03-26 00:00:00,Scotland,Romania,3,0,Friendly,Glasgow,Scotland,False
+1986-03-26 00:00:00,Spain,Poland,3,0,Friendly,C√°diz,Spain,False
+1986-03-27 00:00:00,Qatar,Iraq,1,1,Gulf Cup,Riffa,Bahrain,True
+1986-03-28 00:00:00,Saudi Arabia,Oman,3,1,Gulf Cup,Riffa,Bahrain,True
+1986-03-28 00:00:00,United Arab Emirates,Kuwait,0,1,Gulf Cup,Manama,Bahrain,True
+1986-03-29 00:00:00,Bahrain,Qatar,0,0,Gulf Cup,Riffa,Bahrain,False
+1986-03-30 00:00:00,Iraq,Saudi Arabia,1,2,Gulf Cup,Riffa,Bahrain,True
+1986-03-30 00:00:00,Oman,United Arab Emirates,0,1,Gulf Cup,Riffa,Bahrain,True
+1986-04-01 00:00:00,Brazil,Peru,4,0,Friendly,S√£o Lu√≠s,Brazil,False
+1986-04-01 00:00:00,Kuwait,Qatar,2,1,Gulf Cup,Riffa,Bahrain,True
+1986-04-02 00:00:00,Bahrain,Oman,0,0,Gulf Cup,Riffa,Bahrain,False
+1986-04-02 00:00:00,Saudi Arabia,United Arab Emirates,0,2,Gulf Cup,Riffa,Bahrain,True
+1986-04-03 00:00:00,Iraq,Kuwait,1,2,Gulf Cup,Riffa,Bahrain,True
+1986-04-05 00:00:00,Bahrain,United Arab Emirates,1,3,Gulf Cup,Riffa,Bahrain,False
+1986-04-05 00:00:00,Qatar,Saudi Arabia,0,2,Gulf Cup,Riffa,Bahrain,True
+1986-04-06 00:00:00,Oman,Iraq,2,3,Gulf Cup,Riffa,Bahrain,True
+1986-04-07 00:00:00,Bahrain,Kuwait,1,1,Gulf Cup,Riffa,Bahrain,False
+1986-04-07 00:00:00,Qatar,United Arab Emirates,3,2,Gulf Cup,Riffa,Bahrain,True
+1986-04-08 00:00:00,Brazil,German DR,3,0,Friendly,Goi√¢nia,Brazil,False
+1986-04-09 00:00:00,Bulgaria,Denmark,3,0,Friendly,Sofia,Bulgaria,False
+1986-04-09 00:00:00,Switzerland,Germany,0,1,Friendly,Basel,Switzerland,False
+1986-04-13 00:00:00,Mexico,Uruguay,1,0,Friendly,Los Angeles,United States,True
+1986-04-17 00:00:00,Brazil,Finland,3,0,Friendly,Bras√≠lia,Brazil,False
+1986-04-21 00:00:00,Wales,Uruguay,0,0,Friendly,Wrexham,Wales,False
+1986-04-23 00:00:00,Belgium,Bulgaria,2,0,Friendly,Brussels,Belgium,False
+1986-04-23 00:00:00,Czechoslovakia,German DR,2,0,Friendly,Nitra,Czechoslovakia,False
+1986-04-23 00:00:00,England,Scotland,2,1,Rous Cup,London,England,False
+1986-04-23 00:00:00,Republic of Ireland,Uruguay,1,1,Friendly,Dublin,Republic of Ireland,False
+1986-04-23 00:00:00,Northern Ireland,Morocco,2,1,Friendly,Belfast,Northern Ireland,False
+1986-04-23 00:00:00,Romania,Russia,2,1,Friendly,Timi≈üoara,Romania,False
+1986-04-25 00:00:00,China PR,Nepal,5,0,Friendly,Islamabad,Pakistan,True
+1986-04-25 00:00:00,Pakistan,Sri Lanka,1,0,Friendly,Islamabad,Pakistan,False
+1986-04-26 00:00:00,Pakistan,South Korea,1,0,Friendly,Islamabad,Pakistan,False
+1986-04-26 00:00:00,Eswatini,Botswana,0,1,Friendly,Mbabane,Eswatini,False
+1986-04-27 00:00:00,Mexico,Canada,3,0,Friendly,Mexico City,Mexico,False
+1986-04-27 00:00:00,Nepal,Sri Lanka,2,2,Friendly,Islamabad,Pakistan,True
+1986-04-28 00:00:00,Pakistan,China PR,0,3,Friendly,Islamabad,Pakistan,False
+1986-04-29 00:00:00,South Korea,Nepal,5,0,Friendly,Islamabad,Pakistan,True
+1986-04-29 00:00:00,Netherlands,Scotland,0,0,Friendly,Eindhoven,Netherlands,False
+1986-04-30 00:00:00,Brazil,Yugoslavia,4,2,Friendly,Recife,Brazil,False
+1986-04-30 00:00:00,Bulgaria,North Korea,3,0,Friendly,Sofia,Bulgaria,False
+1986-04-30 00:00:00,South Korea,Sri Lanka,4,0,Friendly,Islamabad,Pakistan,True
+1986-04-30 00:00:00,Norway,Argentina,1,0,Friendly,Oslo,Norway,False
+1986-05-01 00:00:00,China PR,Sri Lanka,3,0,Friendly,Islamabad,Pakistan,True
+1986-05-01 00:00:00,Sweden,Greece,0,0,Friendly,Malm√∂,Sweden,False
+1986-05-02 00:00:00,China PR,South Korea,1,1,Friendly,Islamabad,Pakistan,True
+1986-05-02 00:00:00,Pakistan,Nepal,5,0,Friendly,Islamabad,Pakistan,False
+1986-05-06 00:00:00,Switzerland,Algeria,2,0,Friendly,Geneva,Switzerland,False
+1986-05-07 00:00:00,Brazil,Chile,1,1,Friendly,Curitiba,Brazil,False
+1986-05-07 00:00:00,Russia,Finland,0,0,Friendly,Moscow,Soviet Union,False
+1986-05-09 00:00:00,French Guiana,R√©union,0,0,Friendly,Gagny,France,True
+1986-05-10 00:00:00,Canada,Wales,2,0,Friendly,Toronto,Canada,False
+1986-05-11 00:00:00,Germany,Yugoslavia,1,1,Friendly,Bochum,Germany,False
+1986-05-11 00:00:00,Italy,China PR,2,0,Friendly,Naples,Italy,False
+1986-05-11 00:00:00,Japan,Algeria,2,1,Kirin Cup,Matsuyama,Japan,False
+1986-05-13 00:00:00,Norway,Denmark,1,0,Friendly,Oslo,Norway,False
+1986-05-14 00:00:00,Austria,Sweden,1,0,Friendly,Salzburg,Austria,False
+1986-05-14 00:00:00,Germany,Netherlands,3,1,Friendly,Dortmund,Germany,False
+1986-05-16 00:00:00,Denmark,Poland,1,0,Friendly,Copenhagen,Denmark,False
+1986-05-17 00:00:00,Mexico,England,0,3,Friendly,Los Angeles,United States,True
+1986-05-19 00:00:00,Belgium,Yugoslavia,1,3,Friendly,Brussels,Belgium,False
+1986-05-19 00:00:00,Canada,Wales,0,3,Friendly,Vancouver,Canada,False
+1986-05-21 00:00:00,Panama,Dominican Republic,2,1,Friendly,Panama City,Panama,False
+1986-05-24 00:00:00,Canada,England,0,1,Friendly,Burnaby,Canada,False
+1986-05-25 00:00:00,Iceland,Republic of Ireland,1,2,Friendly,Reykjav√≠k,Iceland,False
+1986-05-27 00:00:00,Czechoslovakia,Republic of Ireland,0,1,Friendly,Reykjav√≠k,Iceland,True
+1986-05-28 00:00:00,China PR,Iran,2,1,Friendly,Beijing,China PR,False
+1986-05-29 00:00:00,Iceland,Czechoslovakia,1,2,Friendly,Reykjav√≠k,Iceland,False
+1986-05-31 00:00:00,Bulgaria,Italy,1,1,FIFA World Cup,Mexico City,Mexico,True
+1986-05-31 00:00:00,Macau,Hong Kong,2,3,Friendly,Macau,Macau,False
+1986-06-01 00:00:00,Canada,France,0,1,FIFA World Cup,Le√≥n,Mexico,True
+1986-06-01 00:00:00,Spain,Brazil,0,1,FIFA World Cup,Guadalajara,Mexico,True
+1986-06-02 00:00:00,Argentina,South Korea,3,1,FIFA World Cup,Mexico City,Mexico,True
+1986-06-02 00:00:00,Morocco,Poland,0,0,FIFA World Cup,Monterrey,Mexico,True
+1986-06-02 00:00:00,Russia,Hungary,6,0,FIFA World Cup,Irapuato,Mexico,True
+1986-06-03 00:00:00,Algeria,Northern Ireland,1,1,FIFA World Cup,Guadalajara,Mexico,True
+1986-06-03 00:00:00,Djibouti,Ethiopia,0,2,Friendly,Djibouti,Djibouti,False
+1986-06-03 00:00:00,Mexico,Belgium,2,1,FIFA World Cup,Mexico City,Mexico,False
+1986-06-03 00:00:00,Portugal,England,1,0,FIFA World Cup,Monterrey,Mexico,True
+1986-06-04 00:00:00,Nepal,Hong Kong,4,2,Friendly,Kathmandu,Nepal,False
+1986-06-04 00:00:00,Paraguay,Iraq,1,0,FIFA World Cup,Toluca,Mexico,True
+1986-06-04 00:00:00,Romania,Norway,3,1,Friendly,Bucharest,Romania,False
+1986-06-04 00:00:00,Scotland,Denmark,0,1,FIFA World Cup,Nezahualc√≥yotl,Mexico,True
+1986-06-04 00:00:00,Uruguay,Germany,1,1,FIFA World Cup,Quer√©taro,Mexico,True
+1986-06-05 00:00:00,France,Russia,1,1,FIFA World Cup,Le√≥n,Mexico,True
+1986-06-05 00:00:00,Italy,Argentina,1,1,FIFA World Cup,Puebla,Mexico,True
+1986-06-05 00:00:00,South Korea,Bulgaria,1,1,FIFA World Cup,Mexico City,Mexico,True
+1986-06-06 00:00:00,Brazil,Algeria,1,0,FIFA World Cup,Guadalajara,Mexico,True
+1986-06-06 00:00:00,England,Morocco,0,0,FIFA World Cup,Monterrey,Mexico,True
+1986-06-06 00:00:00,Hungary,Canada,2,0,FIFA World Cup,Irapuato,Mexico,True
+1986-06-06 00:00:00,Mauritius,R√©union,0,1,Friendly,Curepipe,Mauritius,False
+1986-06-07 00:00:00,Mexico,Paraguay,1,1,FIFA World Cup,Mexico City,Mexico,False
+1986-06-07 00:00:00,Nepal,Bhutan,4,0,Friendly,Kathmandu,Nepal,False
+1986-06-07 00:00:00,Northern Ireland,Spain,1,2,FIFA World Cup,Guadalajara,Mexico,True
+1986-06-07 00:00:00,Poland,Portugal,1,0,FIFA World Cup,Monterrey,Mexico,True
+1986-06-08 00:00:00,Denmark,Uruguay,6,1,FIFA World Cup,Nezahualc√≥yotl,Mexico,True
+1986-06-08 00:00:00,Germany,Scotland,2,1,FIFA World Cup,Quer√©taro,Mexico,True
+1986-06-08 00:00:00,Iraq,Belgium,1,2,FIFA World Cup,Toluca,Mexico,True
+1986-06-09 00:00:00,Hungary,France,0,3,FIFA World Cup,Le√≥n,Mexico,True
+1986-06-09 00:00:00,Russia,Canada,2,0,FIFA World Cup,Irapuato,Mexico,True
+1986-06-10 00:00:00,Argentina,Bulgaria,2,0,FIFA World Cup,Mexico City,Mexico,True
+1986-06-10 00:00:00,South Korea,Italy,2,3,FIFA World Cup,Puebla,Mexico,True
+1986-06-11 00:00:00,England,Poland,3,0,FIFA World Cup,Monterrey,Mexico,True
+1986-06-11 00:00:00,Guyana,Barbados,2,1,Friendly,Georgetown,Guyana,False
+1986-06-11 00:00:00,Mexico,Iraq,1,0,FIFA World Cup,Mexico City,Mexico,False
+1986-06-11 00:00:00,Paraguay,Belgium,2,2,FIFA World Cup,Toluca,Mexico,True
+1986-06-11 00:00:00,Portugal,Morocco,1,3,FIFA World Cup,Guadalajara,Mexico,True
+1986-06-12 00:00:00,Algeria,Spain,0,3,FIFA World Cup,Monterrey,Mexico,True
+1986-06-12 00:00:00,Northern Ireland,Brazil,0,3,FIFA World Cup,Guadalajara,Mexico,True
+1986-06-13 00:00:00,Denmark,Germany,2,0,FIFA World Cup,Quer√©taro,Mexico,True
+1986-06-13 00:00:00,R√©union,Mauritius,0,0,Friendly,Saint-Pierre,R√©union,False
+1986-06-13 00:00:00,Scotland,Uruguay,0,0,FIFA World Cup,Nezahualc√≥yotl,Mexico,True
+1986-06-15 00:00:00,Mexico,Bulgaria,2,0,FIFA World Cup,Mexico City,Mexico,False
+1986-06-15 00:00:00,Russia,Belgium,3,4,FIFA World Cup,Le√≥n,Mexico,True
+1986-06-16 00:00:00,Argentina,Uruguay,1,0,FIFA World Cup,Puebla,Mexico,True
+1986-06-16 00:00:00,Brazil,Poland,4,0,FIFA World Cup,Guadalajara,Mexico,True
+1986-06-17 00:00:00,Italy,France,0,2,FIFA World Cup,Mexico City,Mexico,True
+1986-06-17 00:00:00,Morocco,Germany,0,1,FIFA World Cup,Monterrey,Mexico,True
+1986-06-18 00:00:00,Denmark,Spain,1,5,FIFA World Cup,Quer√©taro,Mexico,True
+1986-06-18 00:00:00,England,Paraguay,3,0,FIFA World Cup,Mexico City,Mexico,True
+1986-06-21 00:00:00,Brazil,France,1,1,FIFA World Cup,Guadalajara,Mexico,True
+1986-06-21 00:00:00,Malawi,Zambia,0,2,Friendly,Blantyre,Malawi,False
+1986-06-21 00:00:00,Mexico,Germany,0,0,FIFA World Cup,Monterrey,Mexico,False
+1986-06-22 00:00:00,Argentina,England,2,1,FIFA World Cup,Mexico City,Mexico,True
+1986-06-22 00:00:00,Malawi,Zambia,0,1,Friendly,Lilongwe,Malawi,False
+1986-06-22 00:00:00,Spain,Belgium,1,1,FIFA World Cup,Puebla,Mexico,True
+1986-06-25 00:00:00,Argentina,Belgium,2,0,FIFA World Cup,Mexico City,Mexico,True
+1986-06-25 00:00:00,France,Germany,0,2,FIFA World Cup,Guadalajara,Mexico,True
+1986-06-28 00:00:00,France,Belgium,4,2,FIFA World Cup,Puebla,Mexico,True
+1986-06-29 00:00:00,Argentina,Germany,3,2,FIFA World Cup,Mexico City,Mexico,True
+1986-06-30 00:00:00,Myanmar,India,3,1,Friendly,Yangon,Burma,False
+1986-07-06 00:00:00,Malawi,Uganda,2,1,Friendly,Blantyre,Malawi,False
+1986-07-08 00:00:00,Malawi,Uganda,0,0,Friendly,Lilongwe,Malawi,False
+1986-07-10 00:00:00,Malawi,Uganda,0,0,Friendly,Mzuzu,Malawi,False
+1986-07-24 00:00:00,Malaysia,India,3,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1986-07-25 00:00:00,Japan,Syria,2,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1986-07-26 00:00:00,Liberia,Guinea,0,0,Friendly,Monrovia,Liberia,False
+1986-07-26 00:00:00,Malaysia,Thailand,2,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1986-07-27 00:00:00,Nigeria,Togo,2,2,Friendly,Monrovia,Liberia,True
+1986-07-28 00:00:00,Guinea,Ivory Coast,0,2,Friendly,Monrovia,Liberia,True
+1986-07-29 00:00:00,Ghana,Nigeria,2,0,Friendly,Paynesville,Liberia,True
+1986-07-30 00:00:00,India,Thailand,3,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1986-07-30 00:00:00,Liberia,Ivory Coast,0,2,Friendly,Monrovia,Liberia,False
+1986-07-31 00:00:00,China PR,Congo,1,1,Great Wall Cup,Beijing,China PR,False
+1986-07-31 00:00:00,Ghana,Togo,1,1,Friendly,Monrovia,Liberia,True
+1986-08-01 00:00:00,Liberia,Guinea,2,1,Friendly,Monrovia,Liberia,False
+1986-08-01 00:00:00,Malaysia,Japan,2,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1986-08-02 00:00:00,Ghana,Ivory Coast,0,1,Friendly,Monrovia,Liberia,True
+1986-08-02 00:00:00,Liberia,Togo,1,0,Friendly,Monrovia,Liberia,False
+1986-08-03 00:00:00,Australia,Czechoslovakia,1,1,Friendly,Melbourne,Australia,False
+1986-08-06 00:00:00,Australia,Czechoslovakia,0,1,Friendly,Adelaide,Australia,False
+1986-08-06 00:00:00,Finland,Sweden,1,3,Friendly,Helsinki,Finland,False
+1986-08-10 00:00:00,Australia,Czechoslovakia,0,3,Friendly,Parramatta,Australia,False
+1986-08-12 00:00:00,Bahrain,Oman,2,3,Friendly,Manama,Bahrain,False
+1986-08-13 00:00:00,Senegal,Gabon,1,0,Friendly,Dakar,Senegal,False
+1986-08-14 00:00:00,Bahrain,Oman,2,0,Friendly,Manama,Bahrain,False
+1986-08-16 00:00:00,Guinea,Gambia,2,1,African Cup of Nations qualification,Conakry,Guinea,False
+1986-08-19 00:00:00,Switzerland,France,2,0,Friendly,Lausanne,Switzerland,False
+1986-08-20 00:00:00,Finland,German DR,1,0,Friendly,Lahti,Finland,False
+1986-08-20 00:00:00,Indonesia,Algeria,0,1,Indonesia Tournament,Jakarta,Indonesia,False
+1986-08-20 00:00:00,Norway,Romania,2,2,Friendly,Oslo,Norway,False
+1986-08-20 00:00:00,Sweden,Russia,0,0,Friendly,Gothenburg,Sweden,False
+1986-08-23 00:00:00,Malaysia,Algeria,2,2,Friendly,Kuala Lumpur,Malaysia,False
+1986-08-24 00:00:00,China PR,North Korea,0,0,Merlion Cup,Kallang,Singapore,True
+1986-08-24 00:00:00,Oman,Bahrain,1,0,Friendly,Muscat,Oman,False
+1986-08-24 00:00:00,Singapore,Canada,0,1,Merlion Cup,Kallang,Singapore,False
+1986-08-26 00:00:00,Oman,Bahrain,1,2,Friendly,Muscat,Oman,False
+1986-08-27 00:00:00,Austria,Switzerland,1,1,Friendly,Innsbruck,Austria,False
+1986-08-27 00:00:00,Canada,North Korea,0,0,Merlion Cup,Kallang,Singapore,True
+1986-08-30 00:00:00,Gambia,Guinea,0,1,African Cup of Nations qualification,Banjul,Gambia,False
+1986-08-30 00:00:00,Singapore,North Korea,0,2,Merlion Cup,Kallang,Singapore,False
+1986-08-31 00:00:00,China PR,Canada,1,0,Merlion Cup,Kallang,Singapore,True
+1986-09-01 00:00:00,Singapore,China PR,0,3,Merlion Cup,Kallang,Singapore,False
+1986-09-03 00:00:00,Singapore,China PR,1,2,Merlion Cup,Kallang,Singapore,False
+1986-09-04 00:00:00,Canada,North Korea,0,2,Merlion Cup,Kallang,Singapore,True
+1986-09-06 00:00:00,China PR,North Korea,2,1,Merlion Cup,Kallang,Singapore,True
+1986-09-06 00:00:00,Singapore,Canada,0,1,Merlion Cup,Kallang,Singapore,False
+1986-09-07 00:00:00,Singapore,Saudi Arabia,0,4,Friendly,Kallang,Singapore,False
+1986-09-09 00:00:00,Norway,Hungary,0,0,Friendly,Oslo,Norway,False
+1986-09-10 00:00:00,Belgium,Republic of Ireland,2,2,UEFA Euro qualification,Brussels,Belgium,False
+1986-09-10 00:00:00,Czechoslovakia,Netherlands,1,0,Friendly,Prague,Czechoslovakia,False
+1986-09-10 00:00:00,Finland,Wales,1,1,UEFA Euro qualification,Helsinki,Finland,False
+1986-09-10 00:00:00,German DR,Denmark,0,1,Friendly,Leipzig,German DR,False
+1986-09-10 00:00:00,Iceland,France,0,0,UEFA Euro qualification,Reykjav√≠k,Iceland,False
+1986-09-10 00:00:00,Romania,Austria,4,0,UEFA Euro qualification,Bucharest,Romania,False
+1986-09-10 00:00:00,Scotland,Bulgaria,0,0,UEFA Euro qualification,Glasgow,Scotland,False
+1986-09-10 00:00:00,Sweden,England,1,0,Friendly,Solna,Sweden,False
+1986-09-17 00:00:00,Fiji,New Zealand,2,4,Friendly,Lautoka,Fiji,False
+1986-09-19 00:00:00,Fiji,New Zealand,1,2,Friendly,Suva,Fiji,False
+1986-09-20 00:00:00,Iran,Thailand,4,0,Friendly,Seoul,South Korea,True
+1986-09-21 00:00:00,Uganda,Rwanda,1,0,Friendly,Kampala,Uganda,False
+1986-09-24 00:00:00,Denmark,Germany,0,2,Friendly,Copenhagen,Denmark,False
+1986-09-24 00:00:00,Iceland,Russia,1,1,UEFA Euro qualification,Reykjav√≠k,Iceland,False
+1986-09-24 00:00:00,Norway,German DR,0,0,UEFA Euro qualification,Oslo,Norway,False
+1986-09-24 00:00:00,Spain,Greece,3,1,Friendly,Gij√≥n,Spain,False
+1986-09-24 00:00:00,Sweden,Switzerland,2,0,UEFA Euro qualification,Solna,Sweden,False
+1986-09-27 00:00:00,Zambia,DR Congo,2,2,Friendly,Ndola,Zambia,False
+1986-09-28 00:00:00,Zambia,DR Congo,0,1,Friendly,Lusaka,Zambia,False
+1986-09-30 00:00:00,Botswana,Malawi,2,0,Friendly,Gaborone,Botswana,False
+1986-10-05 00:00:00,Angola,Gabon,1,0,African Cup of Nations qualification,Luanda,Angola,False
+1986-10-05 00:00:00,Central African Republic,Congo,1,2,African Cup of Nations qualification,Bangui,Central African Republic,False
+1986-10-05 00:00:00,Ethiopia,Tanzania,4,2,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+1986-10-07 00:00:00,Kenya,Somalia,2,1,Friendly,Nairobi,Kenya,False
+1986-10-07 00:00:00,Poland,North Korea,2,2,Friendly,Bydgoszcz,Poland,False
+1986-10-08 00:00:00,Israel,Romania,2,4,Friendly,Ramat-Gan,Israel,False
+1986-10-08 00:00:00,Italy,Greece,2,0,Friendly,Bologna,Italy,False
+1986-10-11 00:00:00,France,Russia,0,2,UEFA Euro qualification,Paris,France,False
+1986-10-11 00:00:00,Uganda,Kenya,3,1,Friendly,Kampala,Uganda,False
+1986-10-12 00:00:00,Portugal,Sweden,1,1,UEFA Euro qualification,Oeiras,Portugal,False
+1986-10-14 00:00:00,Luxembourg,Belgium,0,6,UEFA Euro qualification,Luxembourg,Luxembourg,False
+1986-10-15 00:00:00,Austria,Albania,3,0,UEFA Euro qualification,Graz,Austria,False
+1986-10-15 00:00:00,Czechoslovakia,Finland,3,0,UEFA Euro qualification,Brno,Czechoslovakia,False
+1986-10-15 00:00:00,England,Northern Ireland,3,0,UEFA Euro qualification,London,England,False
+1986-10-15 00:00:00,Germany,Spain,2,2,Friendly,Hanover,Germany,False
+1986-10-15 00:00:00,Hungary,Netherlands,0,1,UEFA Euro qualification,Budapest,Hungary,False
+1986-10-15 00:00:00,Republic of Ireland,Scotland,0,0,UEFA Euro qualification,Dublin,Republic of Ireland,False
+1986-10-15 00:00:00,Poland,Greece,2,1,UEFA Euro qualification,Pozna≈Ñ,Poland,False
+1986-10-19 00:00:00,Congo,Central African Republic,5,1,African Cup of Nations qualification,Brazzaville,Congo,False
+1986-10-19 00:00:00,Gabon,Angola,1,0,African Cup of Nations qualification,Libreville,Gabon,False
+1986-10-19 00:00:00,Liberia,Sierra Leone,1,1,African Cup of Nations qualification,Monrovia,Liberia,False
+1986-10-19 00:00:00,Somalia,Uganda,0,0,African Cup of Nations qualification,Mogadishu,Somalia,False
+1986-10-25 00:00:00,New Zealand,Australia,1,1,Friendly,Auckland,New Zealand,False
+1986-10-28 00:00:00,Honduras,Panama,1,0,Friendly,Managua,Nicaragua,True
+1986-10-29 00:00:00,Austria,Germany,4,1,Friendly,Vienna,Austria,False
+1986-10-29 00:00:00,Denmark,Finland,1,0,UEFA Euro qualification,Copenhagen,Denmark,False
+1986-10-29 00:00:00,German DR,Iceland,2,0,UEFA Euro qualification,Karl-Marx-Stadt,German DR,False
+1986-10-29 00:00:00,Russia,Norway,4,0,UEFA Euro qualification,Simferopol,Soviet Union,False
+1986-10-29 00:00:00,Switzerland,Portugal,1,1,UEFA Euro qualification,Berne,Switzerland,False
+1986-10-29 00:00:00,Tunisia,Bulgaria,3,3,Friendly,Tunis,Tunisia,False
+1986-10-29 00:00:00,Yugoslavia,Turkey,4,0,UEFA Euro qualification,Split,Yugoslavia,False
+1986-10-30 00:00:00,Cuba,Panama,1,1,Friendly,Managua,Nicaragua,True
+1986-11-02 00:00:00,Australia,New Zealand,2,1,Friendly,Sydney,Australia,False
+1986-11-12 00:00:00,Czechoslovakia,Denmark,0,0,UEFA Euro qualification,Bratislava,Czechoslovakia,False
+1986-11-12 00:00:00,England,Yugoslavia,2,0,UEFA Euro qualification,London,England,False
+1986-11-12 00:00:00,Greece,Hungary,2,1,UEFA Euro qualification,Athens,Greece,False
+1986-11-12 00:00:00,Poland,Republic of Ireland,1,0,Friendly,Warsaw,Poland,False
+1986-11-12 00:00:00,Scotland,Luxembourg,3,0,UEFA Euro qualification,Glasgow,Scotland,False
+1986-11-12 00:00:00,Spain,Romania,1,0,UEFA Euro qualification,Seville,Spain,False
+1986-11-12 00:00:00,Turkey,Northern Ireland,0,0,UEFA Euro qualification,ƒ∞zmir,Turkey,False
+1986-11-15 00:00:00,Italy,Switzerland,3,2,UEFA Euro qualification,Milan,Italy,False
+1986-11-16 00:00:00,Malta,Sweden,0,5,UEFA Euro qualification,Attard,Malta,False
+1986-11-19 00:00:00,Belgium,Bulgaria,1,1,UEFA Euro qualification,Brussels,Belgium,False
+1986-11-19 00:00:00,German DR,France,0,0,UEFA Euro qualification,Leipzig,German DR,False
+1986-11-19 00:00:00,Netherlands,Poland,0,0,UEFA Euro qualification,Amsterdam,Netherlands,False
+1986-11-23 00:00:00,China PR,Australia,0,2,Friendly,Guangzhou,China PR,False
+1986-11-25 00:00:00,Kenya,Rwanda,2,3,Friendly,Nairobi,Kenya,False
+1986-12-03 00:00:00,Albania,Spain,1,2,UEFA Euro qualification,Tirana,Albania,False
+1986-12-03 00:00:00,Cyprus,Greece,2,4,UEFA Euro qualification,Nicosia,Cyprus,False
+1986-12-04 00:00:00,Nepal,Bangladesh,1,0,Friendly,Kathmandu,Nepal,False
+1986-12-06 00:00:00,South Korea,Malaysia,2,1,Friendly,Pokhara,Nepal,True
+1986-12-06 00:00:00,Malta,Italy,0,2,UEFA Euro qualification,Attard,Malta,False
+1986-12-07 00:00:00,Angola,Tanzania,1,0,Friendly,Luanda,Angola,False
+1986-12-09 00:00:00,Equatorial Guinea,Cameroon,0,2,UDEAC Cup,Malabo,Equatorial Guinea,False
+1986-12-10 00:00:00,Angola,Zambia,0,1,Friendly,Luanda,Angola,False
+1986-12-10 00:00:00,Congo,Gabon,0,1,UDEAC Cup,Malabo,Equatorial Guinea,True
+1986-12-11 00:00:00,Algeria,Ivory Coast,2,1,Friendly,Algiers,Algeria,False
+1986-12-11 00:00:00,Chad,Cameroon,1,3,UDEAC Cup,Malabo,Equatorial Guinea,True
+1986-12-11 00:00:00,Nepal,South Korea,1,2,Friendly,Kathmandu,Nepal,False
+1986-12-11 00:00:00,Saint Lucia,Saint Vincent and the Grenadines,5,1,Windward Islands Tournament,Castries,Saint Lucia,False
+1986-12-12 00:00:00,Central African Republic,Congo,1,3,UDEAC Cup,Malabo,Equatorial Guinea,True
+1986-12-13 00:00:00,Equatorial Guinea,Chad,0,1,UDEAC Cup,Malabo,Equatorial Guinea,False
+1986-12-14 00:00:00,Algeria,Ivory Coast,2,1,Friendly,Mascara,Algeria,False
+1986-12-14 00:00:00,Central African Republic,Gabon,0,1,UDEAC Cup,Malabo,Equatorial Guinea,True
+1986-12-16 00:00:00,Congo,Cameroon,0,1,UDEAC Cup,Malabo,Equatorial Guinea,True
+1986-12-17 00:00:00,Chad,Gabon,0,0,UDEAC Cup,Malabo,Equatorial Guinea,True
+1986-12-19 00:00:00,Chad,Cameroon,1,4,UDEAC Cup,Malabo,Equatorial Guinea,True
+1986-12-21 00:00:00,Cyprus,Netherlands,0,2,UEFA Euro qualification,Limassol,Cyprus,False
+1987-01-04 00:00:00,Barbados,Saint Vincent and the Grenadines,3,0,Friendly,Bridgetown,Barbados,False
+1987-01-07 00:00:00,Portugal,Greece,1,1,Friendly,Portalegre,Portugal,False
+1987-01-13 00:00:00,El Salvador,Mexico,1,3,Friendly,Los Angeles,United States,True
+1987-01-14 00:00:00,Greece,Cyprus,3,1,UEFA Euro qualification,Athens,Greece,False
+1987-01-14 00:00:00,India,China PR,1,1,Nehru Cup,Calicut,India,False
+1987-01-17 00:00:00,Mali,Burkina Faso,2,0,Friendly,Bamako,Mali,False
+1987-01-19 00:00:00,Guinea,Mali,1,0,Friendly,Conakry,Guinea,False
+1987-01-21 00:00:00,Spain,Netherlands,1,1,Friendly,Barcelona,Spain,False
+1987-01-24 00:00:00,Italy,Malta,5,0,UEFA Euro qualification,Bergamo,Italy,False
+1987-01-25 00:00:00,Niger,Mali,1,0,Friendly,Niamey,Niger,False
+1987-01-27 00:00:00,Nigeria,Syria,1,0,Nehru Cup,Calicut,India,True
+1987-01-27 00:00:00,Saint Lucia,Guyana,1,3,Friendly,Castries,Saint Lucia,False
+1987-01-31 00:00:00,Ivory Coast,Ghana,0,2,West African Cup,Monrovia,Liberia,True
+1987-02-01 00:00:00,Liberia,Burkina Faso,2,0,West African Cup,Monrovia,Liberia,False
+1987-02-02 00:00:00,Niger,Ghana,0,4,West African Cup,Monrovia,Liberia,True
+1987-02-03 00:00:00,Liberia,Benin,0,0,West African Cup,Monrovia,Liberia,False
+1987-02-04 00:00:00,Niger,Ivory Coast,0,1,West African Cup,Monrovia,Liberia,True
+1987-02-04 00:00:00,Portugal,Belgium,1,0,Friendly,Braga,Portugal,False
+1987-02-05 00:00:00,Burkina Faso,Benin,3,2,West African Cup,Monrovia,Liberia,True
+1987-02-07 00:00:00,Cayman Islands,Jamaica,1,3,Friendly,George Town,Cayman Islands,False
+1987-02-07 00:00:00,Tunisia,Austria,1,3,Friendly,Tunis,Tunisia,False
+1987-02-08 00:00:00,Cyprus,Hungary,0,1,UEFA Euro qualification,Nicosia,Cyprus,False
+1987-02-08 00:00:00,Liberia,Ghana,1,2,West African Cup,Monrovia,Liberia,False
+1987-02-14 00:00:00,Portugal,Italy,0,1,UEFA Euro qualification,Oeiras,Portugal,False
+1987-02-16 00:00:00,Kuwait,Algeria,2,0,Friendly,Kuwait City,Kuwait,False
+1987-02-18 00:00:00,Israel,Northern Ireland,1,1,Friendly,Ramat-Gan,Israel,False
+1987-02-18 00:00:00,Scotland,Republic of Ireland,0,1,UEFA Euro qualification,Glasgow,Scotland,False
+1987-02-18 00:00:00,Spain,England,2,4,Friendly,Madrid,Spain,False
+1987-02-18 00:00:00,Wales,Russia,0,0,Friendly,Swansea,Wales,False
+1987-02-20 00:00:00,Panama,Cuba,1,0,Friendly,Panama City,Panama,False
+1987-02-20 00:00:00,Thailand,Oman,2,0,King's Cup,Bangkok,Thailand,False
+1987-02-21 00:00:00,North Korea,Russia,1,0,King's Cup,Bangkok,Thailand,True
+1987-02-21 00:00:00,Kuwait,Iraq,2,0,Friendly,Kuwait City,Kuwait,False
+1987-02-22 00:00:00,Guinea,Mauritania,1,0,Am√≠lcar Cabral Cup,Conakry,Guinea,False
+1987-02-22 00:00:00,Guinea-Bissau,Mali,0,0,Am√≠lcar Cabral Cup,Conakry,Guinea,True
+1987-02-22 00:00:00,Panama,Cuba,1,3,Friendly,Panama City,Panama,False
+1987-02-23 00:00:00,Senegal,Sierra Leone,0,1,Am√≠lcar Cabral Cup,Conakry,Guinea,True
+1987-02-24 00:00:00,Guinea,Mali,0,0,Am√≠lcar Cabral Cup,Conakry,Guinea,False
+1987-02-24 00:00:00,Guinea-Bissau,Mauritania,1,1,Am√≠lcar Cabral Cup,Conakry,Guinea,True
+1987-02-25 00:00:00,Cape Verde,Senegal,0,2,Am√≠lcar Cabral Cup,Conakry,Guinea,True
+1987-02-25 00:00:00,Dominican Republic,Panama,0,2,Friendly,Santo Domingo,Dominican Republic,False
+1987-02-26 00:00:00,Guinea,Guinea-Bissau,0,0,Am√≠lcar Cabral Cup,Conakry,Guinea,False
+1987-02-26 00:00:00,Kuwait,Iceland,1,1,Friendly,Kuwait City,Kuwait,False
+1987-02-26 00:00:00,Mali,Mauritania,1,0,Am√≠lcar Cabral Cup,Conakry,Guinea,True
+1987-02-27 00:00:00,Cape Verde,Sierra Leone,0,2,Am√≠lcar Cabral Cup,Conakry,Guinea,True
+1987-02-27 00:00:00,Dominican Republic,Panama,1,2,Friendly,Santo Domingo,Dominican Republic,False
+1987-02-28 00:00:00,Dominican Republic,Panama,1,1,Friendly,Santo Domingo,Dominican Republic,False
+1987-02-28 00:00:00,Kuwait,Iceland,0,1,Friendly,Kuwait City,Kuwait,False
+1987-03-01 00:00:00,Guinea,Senegal,1,0,Am√≠lcar Cabral Cup,Conakry,Guinea,False
+1987-03-01 00:00:00,Mali,Sierra Leone,0,0,Am√≠lcar Cabral Cup,Conakry,Guinea,True
+1987-03-02 00:00:00,Senegal,Sierra Leone,0,0,Am√≠lcar Cabral Cup,Conakry,Guinea,True
+1987-03-03 00:00:00,Dominican Republic,Panama,0,1,Friendly,Santo Domingo,Dominican Republic,False
+1987-03-03 00:00:00,Guinea,Mali,1,0,Am√≠lcar Cabral Cup,Conakry,Guinea,False
+1987-03-04 00:00:00,Turkey,Romania,1,3,Friendly,Ankara,Turkey,False
+1987-03-06 00:00:00,Palau,Vanuatu,2,6,Friendly,Adelaide,Australia,True
+1987-03-11 00:00:00,Greece,Romania,1,1,Friendly,Piraeus,Greece,False
+1987-03-14 00:00:00,Barbados,Guyana,2,2,Friendly,Bridgetown,Barbados,False
+1987-03-17 00:00:00,Mexico,China PR,3,2,Friendly,Le√≥n,Mexico,False
+1987-03-18 00:00:00,Ivory Coast,DR Congo,2,1,Friendly,Abidjan,Ivory Coast,False
+1987-03-18 00:00:00,Poland,Finland,3,1,Friendly,Rybnik,Poland,False
+1987-03-19 00:00:00,United Arab Emirates,Syria,1,1,Friendly,Abu Dhabi,United Arab Emirates,False
+1987-03-22 00:00:00,Guatemala,El Salvador,2,0,Friendly,Guatemala,Guatemala,False
+1987-03-22 00:00:00,Ivory Coast,DR Congo,1,3,Friendly,Abidjan,Ivory Coast,False
+1987-03-23 00:00:00,United Arab Emirates,Syria,2,1,Friendly,Abu Dhabi,United Arab Emirates,False
+1987-03-24 00:00:00,Poland,Norway,4,1,Friendly,Wroc≈Çaw,Poland,False
+1987-03-25 00:00:00,Israel,Germany,0,2,Friendly,Ramat-Gan,Israel,False
+1987-03-25 00:00:00,Jordan,Cyprus,2,1,Friendly,Amman,Jordan,False
+1987-03-25 00:00:00,Netherlands,Greece,1,1,UEFA Euro qualification,Rotterdam,Netherlands,False
+1987-03-25 00:00:00,Panama,Cuba,0,0,Friendly,Panama City,Panama,False
+1987-03-25 00:00:00,Romania,Albania,5,1,UEFA Euro qualification,Bucharest,Romania,False
+1987-03-25 00:00:00,Switzerland,Czechoslovakia,1,2,Friendly,Bellinzona,Switzerland,False
+1987-03-25 00:00:00,Turkey,German DR,3,1,Friendly,Istanbul,Turkey,False
+1987-03-25 00:00:00,Yugoslavia,Austria,4,0,Friendly,Banja Luka,Yugoslavia,False
+1987-03-27 00:00:00,Algeria,Tunisia,1,0,African Cup of Nations qualification,Algiers,Algeria,False
+1987-03-28 00:00:00,Botswana,Mauritius,0,0,Friendly,Gaborone,Botswana,False
+1987-03-28 00:00:00,Kenya,Madagascar,2,0,African Cup of Nations qualification,Mombasa,Kenya,False
+1987-03-28 00:00:00,Nigeria,Togo,2,0,African Cup of Nations qualification,Lagos,Nigeria,False
+1987-03-29 00:00:00,Cameroon,Uganda,5,1,African Cup of Nations qualification,Yaound√©,Cameroon,False
+1987-03-29 00:00:00,DR Congo,Angola,3,0,African Cup of Nations qualification,Kinshasa,Za√Øre,False
+1987-03-29 00:00:00,Ivory Coast,Congo,2,0,African Cup of Nations qualification,Abidjan,Ivory Coast,False
+1987-03-29 00:00:00,Mozambique,Zimbabwe,1,1,African Cup of Nations qualification,Maputo,Mozambique,False
+1987-03-29 00:00:00,Portugal,Malta,2,2,UEFA Euro qualification,Funchal,Portugal,False
+1987-03-29 00:00:00,Senegal,Guinea,4,0,African Cup of Nations qualification,Dakar,Senegal,False
+1987-03-29 00:00:00,Sudan,Tanzania,1,0,African Cup of Nations qualification,Khartoum,Sudan,False
+1987-03-30 00:00:00,Ghana,Sierra Leone,1,2,African Cup of Nations qualification,Accra,Ghana,False
+1987-03-31 00:00:00,Ecuador,Cuba,0,1,Friendly,Machala,Ecuador,False
+1987-04-01 00:00:00,Austria,Spain,2,3,UEFA Euro qualification,Vienna,Austria,False
+1987-04-01 00:00:00,Belgium,Scotland,4,1,UEFA Euro qualification,Brussels,Belgium,False
+1987-04-01 00:00:00,Bulgaria,Republic of Ireland,2,1,UEFA Euro qualification,Sofia,Bulgaria,False
+1987-04-01 00:00:00,Northern Ireland,England,0,2,UEFA Euro qualification,Belfast,Northern Ireland,False
+1987-04-01 00:00:00,Wales,Finland,4,0,UEFA Euro qualification,Wrexham,Wales,False
+1987-04-02 00:00:00,Ecuador,Cuba,0,0,Friendly,Azogues,Ecuador,False
+1987-04-05 00:00:00,Congo,Ivory Coast,1,2,African Cup of Nations qualification,Brazzaville,Congo,False
+1987-04-08 00:00:00,Bahrain,Iraq,1,3,Friendly,Manama,Bahrain,False
+1987-04-08 00:00:00,Gabon,Ivory Coast,1,0,Friendly,Libreville,Gabon,False
+1987-04-08 00:00:00,Romania,Israel,3,2,Friendly,Bra≈üov,Romania,False
+1987-04-10 00:00:00,Bahrain,Iraq,1,2,Friendly,Manama,Bahrain,False
+1987-04-11 00:00:00,Angola,DR Congo,1,0,African Cup of Nations qualification,Luanda,Angola,False
+1987-04-11 00:00:00,Sierra Leone,Ghana,0,0,African Cup of Nations qualification,Freetown,Sierra Leone,False
+1987-04-11 00:00:00,Tanzania,Sudan,1,1,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+1987-04-12 00:00:00,Guinea,Senegal,0,0,African Cup of Nations qualification,Conakry,Guinea,False
+1987-04-12 00:00:00,Madagascar,Kenya,2,1,African Cup of Nations qualification,Antananarivo,Madagascar,False
+1987-04-12 00:00:00,Poland,Cyprus,0,0,UEFA Euro qualification,Gda≈Ñsk,Poland,False
+1987-04-12 00:00:00,Togo,Nigeria,1,1,African Cup of Nations qualification,Lom√©,Togo,False
+1987-04-15 00:00:00,Netherlands,Czechoslovakia,1,0,Friendly,Leeuwarden,Netherlands,False
+1987-04-15 00:00:00,Switzerland,Malta,4,1,UEFA Euro qualification,Neuch√¢tel,Switzerland,False
+1987-04-18 00:00:00,Germany,Italy,0,0,Friendly,Cologne,Germany,False
+1987-04-18 00:00:00,Russia,Sweden,1,3,Friendly,Tbilisi,Soviet Union,False
+1987-04-26 00:00:00,Zimbabwe,Zambia,0,1,Friendly,Harare,Zimbabwe,False
+1987-04-29 00:00:00,Albania,Austria,0,1,UEFA Euro qualification,Tirana,Albania,False
+1987-04-29 00:00:00,Finland,Denmark,0,1,UEFA Euro qualification,Helsinki,Finland,False
+1987-04-29 00:00:00,France,Iceland,2,0,UEFA Euro qualification,Paris,France,False
+1987-04-29 00:00:00,Greece,Poland,1,0,UEFA Euro qualification,Athens,Greece,False
+1987-04-29 00:00:00,Honduras,El Salvador,1,0,Friendly,Tegucigalpa,Honduras,False
+1987-04-29 00:00:00,Republic of Ireland,Belgium,0,0,UEFA Euro qualification,Dublin,Republic of Ireland,False
+1987-04-29 00:00:00,Jamaica,Cuba,2,0,Friendly,Kingston,Jamaica,False
+1987-04-29 00:00:00,Netherlands,Hungary,2,0,UEFA Euro qualification,Rotterdam,Netherlands,False
+1987-04-29 00:00:00,Northern Ireland,Yugoslavia,1,2,UEFA Euro qualification,Belfast,Northern Ireland,False
+1987-04-29 00:00:00,Romania,Spain,3,1,UEFA Euro qualification,Bucharest,Romania,False
+1987-04-29 00:00:00,Russia,German DR,2,0,UEFA Euro qualification,Kyiv,Soviet Union,False
+1987-04-29 00:00:00,Turkey,England,0,0,UEFA Euro qualification,ƒ∞zmir,Turkey,False
+1987-04-29 00:00:00,Wales,Czechoslovakia,1,1,UEFA Euro qualification,Wrexham,Wales,False
+1987-04-30 00:00:00,Luxembourg,Bulgaria,1,4,UEFA Euro qualification,Luxembourg,Luxembourg,False
+1987-05-06 00:00:00,El Salvador,Honduras,1,2,Friendly,San Salvador,El Salvador,False
+1987-05-12 00:00:00,New Caledonia,Tahiti,0,0,Friendly,Noum√©a,New Caledonia,False
+1987-05-13 00:00:00,German DR,Czechoslovakia,2,0,Friendly,Brandenburg,German DR,False
+1987-05-17 00:00:00,Hungary,Poland,5,3,UEFA Euro qualification,Budapest,Hungary,False
+1987-05-19 00:00:00,England,Brazil,1,1,Rous Cup,London,England,False
+1987-05-19 00:00:00,Switzerland,Israel,1,0,Friendly,Aarau,Switzerland,False
+1987-05-20 00:00:00,Bulgaria,Luxembourg,3,0,UEFA Euro qualification,Sofia,Bulgaria,False
+1987-05-21 00:00:00,Burkina Faso,Mauritania,2,1,Friendly,Ouagadougou,Burkina Faso,False
+1987-05-23 00:00:00,Republic of Ireland,Brazil,1,0,Friendly,Dublin,Republic of Ireland,False
+1987-05-23 00:00:00,Scotland,England,0,0,Rous Cup,Glasgow,Scotland,False
+1987-05-24 00:00:00,Sweden,Malta,1,0,UEFA Euro qualification,Gothenburg,Sweden,False
+1987-05-26 00:00:00,Scotland,Brazil,0,2,Rous Cup,Glasgow,Scotland,False
+1987-05-27 00:00:00,Japan,Senegal,2,2,Kirin Cup,Hiroshima,Japan,False
+1987-05-28 00:00:00,Finland,Brazil,2,3,Friendly,Helsinki,Finland,False
+1987-05-28 00:00:00,Guadeloupe,French Guiana,4,1,Friendly,Gagny,France,True
+1987-05-28 00:00:00,Luxembourg,Republic of Ireland,0,2,UEFA Euro qualification,Luxembourg,Luxembourg,False
+1987-05-28 00:00:00,Norway,Italy,0,0,Friendly,Oslo,Norway,False
+1987-05-30 00:00:00,Guadeloupe,R√©union,3,0,Friendly,Gagny,France,True
+1987-05-31 00:00:00,Hong Kong,Macau,5,0,Friendly,So Kon Po,Hong Kong,False
+1987-06-01 00:00:00,Israel,Brazil,0,4,Friendly,Ramat-Gan,Israel,False
+1987-06-03 00:00:00,Denmark,Czechoslovakia,1,1,UEFA Euro qualification,Copenhagen,Denmark,False
+1987-06-03 00:00:00,Iceland,German DR,0,6,UEFA Euro qualification,Reykjav√≠k,Iceland,False
+1987-06-03 00:00:00,Norway,Russia,0,1,UEFA Euro qualification,Oslo,Norway,False
+1987-06-03 00:00:00,Sweden,Italy,1,0,UEFA Euro qualification,Solna,Sweden,False
+1987-06-08 00:00:00,Egypt,United States,3,1,Korea Cup,Seoul,South Korea,True
+1987-06-09 00:00:00,Australia,Morocco,1,0,Korea Cup,Gangneung,South Korea,True
+1987-06-10 00:00:00,Argentina,Italy,1,3,Friendly,Z√ºrich,Switzerland,True
+1987-06-10 00:00:00,South Korea,Egypt,0,0,Korea Cup,Masan,South Korea,False
+1987-06-11 00:00:00,Colombia,Ecuador,1,0,Friendly,Medell√≠n,Colombia,False
+1987-06-12 00:00:00,Egypt,Thailand,1,1,Korea Cup,Busan,South Korea,True
+1987-06-12 00:00:00,South Korea,United States,1,0,Korea Cup,Busan,South Korea,False
+1987-06-13 00:00:00,Malawi,Zimbabwe,1,4,Friendly,Lilongwe,Malawi,False
+1987-06-14 00:00:00,Bolivia,Paraguay,0,2,Friendly,Santa Cruz,Bolivia,False
+1987-06-14 00:00:00,Congo,Seychelles,1,1,Friendly,Antananarivo,Madagascar,True
+1987-06-14 00:00:00,Ecuador,Colombia,3,0,Friendly,Guayaquil,Ecuador,False
+1987-06-14 00:00:00,South Korea,Thailand,4,2,Korea Cup,Daejeon,South Korea,False
+1987-06-14 00:00:00,Malawi,Zimbabwe,2,1,Friendly,Blantyre,Malawi,False
+1987-06-16 00:00:00,Norway,France,2,0,UEFA Euro qualification,Oslo,Norway,False
+1987-06-16 00:00:00,Thailand,United States,0,1,Korea Cup,Cheongju,South Korea,True
+1987-06-17 00:00:00,Switzerland,Sweden,1,1,UEFA Euro qualification,Lausanne,Switzerland,False
+1987-06-18 00:00:00,Madagascar,Seychelles,2,0,Friendly,Antananarivo,Madagascar,False
+1987-06-19 00:00:00,Australia,Egypt,0,0,Korea Cup,Seoul,South Korea,True
+1987-06-19 00:00:00,Peru,Chile,1,3,Friendly,Lima,Peru,False
+1987-06-19 00:00:00,Uruguay,Ecuador,2,1,Friendly,Montevideo,Uruguay,False
+1987-06-20 00:00:00,Argentina,Paraguay,0,1,Friendly,Buenos Aires,Argentina,False
+1987-06-21 00:00:00,Brazil,Ecuador,4,1,Friendly,Florian√≥polis,Brazil,False
+1987-06-21 00:00:00,South Korea,Australia,1,1,Korea Cup,Seoul,South Korea,False
+1987-06-21 00:00:00,Madagascar,Congo,3,2,Friendly,Antananarivo,Madagascar,False
+1987-06-21 00:00:00,Peru,Chile,2,0,Friendly,Lima,Peru,False
+1987-06-23 00:00:00,Uruguay,Bolivia,2,1,Friendly,Montevideo,Uruguay,False
+1987-06-24 00:00:00,Chile,Peru,1,0,Friendly,Santiago,Chile,False
+1987-06-27 00:00:00,Argentina,Peru,1,1,Copa Am√©rica,Buenos Aires,Argentina,False
+1987-06-28 00:00:00,Brazil,Venezuela,5,0,Copa Am√©rica,C√≥rdoba,Argentina,True
+1987-06-28 00:00:00,Paraguay,Bolivia,0,0,Copa Am√©rica,Rosario,Argentina,True
+1987-06-28 00:00:00,Zambia,Ivory Coast,2,0,Friendly,Lusaka,Zambia,False
+1987-06-30 00:00:00,Venezuela,Chile,1,3,Copa Am√©rica,C√≥rdoba,Argentina,True
+1987-07-01 00:00:00,Bolivia,Colombia,0,2,Copa Am√©rica,Rosario,Argentina,True
+1987-07-02 00:00:00,Argentina,Ecuador,3,0,Copa Am√©rica,Buenos Aires,Argentina,False
+1987-07-03 00:00:00,Chile,Brazil,4,0,Copa Am√©rica,C√≥rdoba,Argentina,True
+1987-07-03 00:00:00,Malawi,Ivory Coast,1,2,African Cup of Nations qualification,Lilongwe,Malawi,False
+1987-07-04 00:00:00,Nigeria,Sierra Leone,3,0,African Cup of Nations qualification,Lagos,Nigeria,False
+1987-07-04 00:00:00,Peru,Ecuador,1,1,Copa Am√©rica,Buenos Aires,Argentina,True
+1987-07-05 00:00:00,Cameroon,Sudan,2,0,African Cup of Nations qualification,Yaound√©,Cameroon,False
+1987-07-05 00:00:00,Colombia,Paraguay,3,0,Copa Am√©rica,Rosario,Argentina,True
+1987-07-05 00:00:00,Senegal,DR Congo,0,0,African Cup of Nations qualification,Dakar,Senegal,False
+1987-07-05 00:00:00,Zimbabwe,Kenya,1,1,African Cup of Nations qualification,Harare,Zimbabwe,False
+1987-07-06 00:00:00,Malawi,Burundi,1,1,Friendly,Blantyre,Malawi,False
+1987-07-08 00:00:00,Chile,Colombia,2,1,Copa Am√©rica,C√≥rdoba,Argentina,True
+1987-07-08 00:00:00,Malawi,Burundi,1,1,Friendly,Lilongwe,Malawi,False
+1987-07-09 00:00:00,Argentina,Uruguay,0,1,Copa Am√©rica,Buenos Aires,Argentina,False
+1987-07-11 00:00:00,Argentina,Colombia,1,2,Copa Am√©rica,Buenos Aires,Argentina,False
+1987-07-11 00:00:00,Malawi,Burundi,2,4,Friendly,Mzuzu,Malawi,False
+1987-07-12 00:00:00,Chile,Uruguay,0,1,Copa Am√©rica,Buenos Aires,Argentina,True
+1987-07-18 00:00:00,Kenya,Zimbabwe,0,0,African Cup of Nations qualification,Nairobi,Kenya,False
+1987-07-18 00:00:00,Sierra Leone,Nigeria,2,0,African Cup of Nations qualification,Freetown,Sierra Leone,False
+1987-07-18 00:00:00,Sudan,Cameroon,1,0,African Cup of Nations qualification,Khartoum,Sudan,False
+1987-07-19 00:00:00,DR Congo,Senegal,0,0,African Cup of Nations qualification,Kinshasa,Za√Øre,False
+1987-07-19 00:00:00,Ivory Coast,Malawi,2,0,African Cup of Nations qualification,Abidjan,Ivory Coast,False
+1987-07-25 00:00:00,S√£o Tom√© and Pr√≠ncipe,Guinea-Bissau,0,2,Friendly,S√£o Tom√©,S√£o Tom√© and Pr√≠ncipe,False
+1987-07-26 00:00:00,Angola,Guinea-Bissau,0,0,Friendly,S√£o Tom√©,S√£o Tom√© and Pr√≠ncipe,True
+1987-07-26 00:00:00,Liberia,Morocco,2,1,Friendly,Monrovia,Liberia,False
+1987-07-27 00:00:00,Liberia,Ghana,0,0,Friendly,Monrovia,Liberia,False
+1987-07-27 00:00:00,S√£o Tom√© and Pr√≠ncipe,Angola,1,1,Friendly,S√£o Tom√©,S√£o Tom√© and Pr√≠ncipe,False
+1987-07-28 00:00:00,German DR,Hungary,0,0,Friendly,Leipzig,German DR,False
+1987-08-04 00:00:00,Indonesia,Algeria,2,1,Indonesia Tournament,Jakarta,Indonesia,False
+1987-08-06 00:00:00,Indonesia,South Korea,1,1,Indonesia Tournament,Jakarta,Indonesia,False
+1987-08-07 00:00:00,Algeria,South Korea,2,0,Indonesia Tournament,Jakarta,Indonesia,True
+1987-08-09 00:00:00,Indonesia,Algeria,2,1,Indonesia Tournament,Jakarta,Indonesia,False
+1987-08-12 00:00:00,Germany,France,2,1,Friendly,Berlin,Germany,False
+1987-08-12 00:00:00,Norway,Sweden,0,0,Friendly,Oslo,Norway,False
+1987-08-18 00:00:00,Switzerland,Austria,2,2,Friendly,St. Gallen,Switzerland,False
+1987-08-19 00:00:00,Poland,German DR,2,0,Friendly,Lubin,Poland,False
+1987-08-26 00:00:00,Sweden,Denmark,1,0,Friendly,Solna,Sweden,False
+1987-08-29 00:00:00,Yugoslavia,Russia,0,1,Friendly,Belgrade,Yugoslavia,False
+1987-09-02 00:00:00,Australia,New Zealand,1,1,Friendly,Melbourne,Australia,False
+1987-09-02 00:00:00,Poland,Romania,3,1,Friendly,Bydgoszcz,Poland,False
+1987-09-04 00:00:00,Guyana,Grenada,1,1,Friendly,Georgetown,Guyana,False
+1987-09-06 00:00:00,Guyana,Grenada,3,0,Friendly,Linden,Guyana,False
+1987-09-09 00:00:00,Finland,Czechoslovakia,3,0,UEFA Euro qualification,Helsinki,Finland,False
+1987-09-09 00:00:00,Germany,England,3,1,Friendly,D√ºsseldorf,Germany,False
+1987-09-09 00:00:00,Iceland,Norway,2,1,UEFA Euro qualification,Reykjav√≠k,Iceland,False
+1987-09-09 00:00:00,Republic of Ireland,Luxembourg,2,1,UEFA Euro qualification,Dublin,Republic of Ireland,False
+1987-09-09 00:00:00,Netherlands,Belgium,0,0,Friendly,Rotterdam,Netherlands,False
+1987-09-09 00:00:00,New Zealand,Australia,1,0,Friendly,Lower Hutt,New Zealand,False
+1987-09-09 00:00:00,Russia,France,1,1,UEFA Euro qualification,Moscow,Soviet Union,False
+1987-09-09 00:00:00,Scotland,Hungary,2,0,Friendly,Glasgow,Scotland,False
+1987-09-09 00:00:00,Wales,Denmark,1,0,UEFA Euro qualification,Cardiff,Wales,False
+1987-09-13 00:00:00,Guyana,Trinidad and Tobago,1,2,Friendly,Georgetown,Guyana,False
+1987-09-23 00:00:00,Bulgaria,Belgium,2,0,UEFA Euro qualification,Sofia,Bulgaria,False
+1987-09-23 00:00:00,German DR,Tunisia,2,0,Friendly,Gera,German DR,False
+1987-09-23 00:00:00,Germany,Denmark,1,0,Friendly,Hamburg,Germany,False
+1987-09-23 00:00:00,Italy,Yugoslavia,1,0,Friendly,Pisa,Italy,False
+1987-09-23 00:00:00,Norway,Iceland,0,1,UEFA Euro qualification,Oslo,Norway,False
+1987-09-23 00:00:00,Poland,Hungary,3,2,UEFA Euro qualification,Warsaw,Poland,False
+1987-09-23 00:00:00,Russia,Greece,3,0,Friendly,Moscow,Soviet Union,False
+1987-09-23 00:00:00,Spain,Luxembourg,2,0,Friendly,Castell√≥n de la Plana,Spain,False
+1987-09-23 00:00:00,Sweden,Portugal,0,1,UEFA Euro qualification,Solna,Sweden,False
+1987-09-30 00:00:00,El Salvador,Canada,2,1,Friendly,San Salvador,El Salvador,False
+1987-10-02 00:00:00,Honduras,Canada,1,1,Friendly,Tegucigalpa,Honduras,False
+1987-10-06 00:00:00,Mexico,Canada,4,0,Friendly,Toluca,Mexico,False
+1987-10-07 00:00:00,El Salvador,Guatemala,1,0,Friendly,Los Angeles,United States,True
+1987-10-07 00:00:00,Romania,Greece,2,2,Friendly,Bucharest,Romania,False
+1987-10-10 00:00:00,German DR,Russia,1,1,UEFA Euro qualification,Berlin,German DR,False
+1987-10-14 00:00:00,Denmark,Wales,1,0,UEFA Euro qualification,Copenhagen,Denmark,False
+1987-10-14 00:00:00,England,Turkey,8,0,UEFA Euro qualification,London,England,False
+1987-10-14 00:00:00,France,Norway,1,1,UEFA Euro qualification,Paris,France,False
+1987-10-14 00:00:00,Germany,Sweden,1,1,Friendly,Gelsenkirchen,Germany,False
+1987-10-14 00:00:00,Hungary,Greece,3,0,UEFA Euro qualification,Budapest,Hungary,False
+1987-10-14 00:00:00,Republic of Ireland,Bulgaria,2,0,UEFA Euro qualification,Dublin,Republic of Ireland,False
+1987-10-14 00:00:00,Poland,Netherlands,0,2,UEFA Euro qualification,Zabrze,Poland,False
+1987-10-14 00:00:00,Scotland,Belgium,2,0,UEFA Euro qualification,Glasgow,Scotland,False
+1987-10-14 00:00:00,Spain,Austria,2,0,UEFA Euro qualification,Seville,Spain,False
+1987-10-14 00:00:00,Yugoslavia,Northern Ireland,3,0,UEFA Euro qualification,Sarajevo,Yugoslavia,False
+1987-10-17 00:00:00,Switzerland,Italy,0,0,UEFA Euro qualification,Berne,Switzerland,False
+1987-10-24 00:00:00,Zambia,Angola,2,0,Friendly,Lusaka,Zambia,False
+1987-10-27 00:00:00,Barbados,Martinique,1,1,Friendly,Bridgetown,Barbados,False
+1987-10-27 00:00:00,Czechoslovakia,Poland,3,1,Friendly,Bratislava,Czechoslovakia,False
+1987-10-28 00:00:00,Albania,Romania,0,1,UEFA Euro qualification,Vlor√´,Albania,False
+1987-10-28 00:00:00,German DR,Norway,3,1,UEFA Euro qualification,Magdeburg,German DR,False
+1987-10-28 00:00:00,Netherlands,Cyprus,8,0,UEFA Euro qualification,Rotterdam,Netherlands,False
+1987-10-28 00:00:00,Russia,Iceland,2,0,UEFA Euro qualification,Simferopol,Soviet Union,False
+1987-10-31 00:00:00,Liberia,Ghana,0,2,Friendly,Monrovia,Liberia,False
+1987-11-07 00:00:00,Kuwait,Egypt,0,2,Friendly,Kuwait City,Kuwait,False
+1987-11-08 00:00:00,Mali,Central African Republic,3,1,Friendly,Bamako,Mali,False
+1987-11-10 00:00:00,Republic of Ireland,Israel,5,0,Friendly,Dublin,Republic of Ireland,False
+1987-11-11 00:00:00,Belgium,Luxembourg,3,0,UEFA Euro qualification,Brussels,Belgium,False
+1987-11-11 00:00:00,Bulgaria,Scotland,0,1,UEFA Euro qualification,Sofia,Bulgaria,False
+1987-11-11 00:00:00,Cyprus,Poland,0,1,UEFA Euro qualification,Limassol,Cyprus,False
+1987-11-11 00:00:00,Czechoslovakia,Wales,2,0,UEFA Euro qualification,Prague,Czechoslovakia,False
+1987-11-11 00:00:00,French Guiana,Suriname,1,1,CFU Caribbean Cup qualification,Cayenne,French Guiana,False
+1987-11-11 00:00:00,Northern Ireland,Turkey,1,0,UEFA Euro qualification,Belfast,Northern Ireland,False
+1987-11-11 00:00:00,Portugal,Switzerland,0,0,UEFA Euro qualification,Porto,Portugal,False
+1987-11-11 00:00:00,Yugoslavia,England,1,4,UEFA Euro qualification,Belgrade,Yugoslavia,False
+1987-11-14 00:00:00,Italy,Sweden,2,1,UEFA Euro qualification,Naples,Italy,False
+1987-11-15 00:00:00,Malta,Switzerland,1,1,UEFA Euro qualification,Attard,Malta,False
+1987-11-18 00:00:00,Austria,Romania,0,0,UEFA Euro qualification,Vienna,Austria,False
+1987-11-18 00:00:00,France,German DR,0,1,UEFA Euro qualification,Paris,France,False
+1987-11-18 00:00:00,Hungary,Germany,0,0,Friendly,Budapest,Hungary,False
+1987-11-18 00:00:00,Spain,Albania,5,0,UEFA Euro qualification,Seville,Spain,False
+1987-11-18 00:00:00,Togo,Central African Republic,1,0,Friendly,Lom√©,Togo,False
+1987-11-22 00:00:00,Burkina Faso,Nigeria,0,0,Friendly,Ouagadougou,Burkina Faso,False
+1987-11-22 00:00:00,Ivory Coast,Togo,3,0,Friendly,Abidjan,Ivory Coast,False
+1987-11-29 00:00:00,Barbados,Trinidad and Tobago,0,4,CFU Caribbean Cup qualification,Bridgetown,Barbados,False
+1987-11-29 00:00:00,Gabon,Angola,0,0,Friendly,Libreville,Gabon,False
+1987-12-02 00:00:00,Hungary,Cyprus,1,0,UEFA Euro qualification,Budapest,Hungary,False
+1987-12-02 00:00:00,Israel,Malta,1,1,Friendly,Haifa,Israel,False
+1987-12-02 00:00:00,Luxembourg,Scotland,0,0,UEFA Euro qualification,Esch-sur-Alzette,Luxembourg,False
+1987-12-02 00:00:00,Tunisia,Malawi,2,3,Friendly,Tunis,Tunisia,False
+1987-12-05 00:00:00,Italy,Portugal,3,0,UEFA Euro qualification,Milan,Italy,False
+1987-12-05 00:00:00,Suriname,French Guiana,1,0,CFU Caribbean Cup qualification,Paramaribo,Suriname,False
+1987-12-06 00:00:00,Mali,Burkina Faso,1,2,Friendly,Bamako,Mali,False
+1987-12-06 00:00:00,Trinidad and Tobago,Barbados,5,1,CFU Caribbean Cup qualification,Port of Spain,Trinidad and Tobago,False
+1987-12-07 00:00:00,Chad,Central African Republic,2,1,UDEAC Cup,N'Djamena,Chad,False
+1987-12-08 00:00:00,Angola,Cuba,3,2,Friendly,Luanda,Angola,False
+1987-12-08 00:00:00,Benin,Ghana,1,1,Friendly,Luanda,Angola,True
+1987-12-08 00:00:00,Cameroon,Equatorial Guinea,1,0,UDEAC Cup,N'Djamena,Chad,True
+1987-12-09 00:00:00,Brazil,Chile,2,1,Friendly,Uberl√¢ndia,Brazil,False
+1987-12-09 00:00:00,Central African Republic,Gabon,1,1,UDEAC Cup,N'Djamena,Chad,True
+1987-12-09 00:00:00,Netherlands,Cyprus,4,0,UEFA Euro qualification,Amsterdam,Netherlands,False
+1987-12-09 00:00:00,New Caledonia,American Samoa,10,0,South Pacific Games,Noum√©a,New Caledonia,False
+1987-12-09 00:00:00,Papua New Guinea,Tahiti,0,0,South Pacific Games,Noum√©a,New Caledonia,True
+1987-12-09 00:00:00,Vanuatu,Wallis Islands and Futuna,6,1,South Pacific Games,Noum√©a,New Caledonia,True
+1987-12-10 00:00:00,American Samoa,Vanuatu,0,7,South Pacific Games,Noum√©a,New Caledonia,True
+1987-12-10 00:00:00,Angola,Benin,0,0,Friendly,Luanda,Angola,False
+1987-12-10 00:00:00,Burkina Faso,Mali,1,2,Friendly,Ouagadougou,Burkina Faso,False
+1987-12-10 00:00:00,Cameroon,Equatorial Guinea,0,0,UDEAC Cup,N'Djamena,Chad,True
+1987-12-10 00:00:00,Cuba,Ghana,1,1,Friendly,Luanda,Angola,True
+1987-12-10 00:00:00,New Caledonia,Papua New Guinea,2,0,South Pacific Games,Noum√©a,New Caledonia,False
+1987-12-10 00:00:00,Tahiti,Wallis Islands and Futuna,4,0,South Pacific Games,Noum√©a,New Caledonia,True
+1987-12-11 00:00:00,Algeria,Tunisia,0,0,Arab Cup qualification,Algiers,Algeria,False
+1987-12-11 00:00:00,Chad,Gabon,1,1,UDEAC Cup,N'Djamena,Chad,False
+1987-12-12 00:00:00,American Samoa,Wallis Islands and Futuna,1,5,South Pacific Games,Noum√©a,New Caledonia,True
+1987-12-12 00:00:00,Brazil,Germany,1,1,Friendly,Bras√≠lia,Brazil,False
+1987-12-12 00:00:00,New Caledonia,Tahiti,2,3,South Pacific Games,Noum√©a,New Caledonia,False
+1987-12-12 00:00:00,Papua New Guinea,Vanuatu,1,1,South Pacific Games,Noum√©a,New Caledonia,True
+1987-12-13 00:00:00,Burkina Faso,Mali,2,1,Friendly,Ouagadougou,Burkina Faso,False
+1987-12-13 00:00:00,Ethiopia,Tanzania,0,0,CECAFA Cup,Addis Ababa,Ethiopia,False
+1987-12-13 00:00:00,Malawi,Zimbabwe,1,1,CECAFA Cup,Addis Ababa,Ethiopia,True
+1987-12-13 00:00:00,Mauritania,Tunisia,1,2,Arab Cup qualification,Algiers,Algeria,True
+1987-12-13 00:00:00,Togo,Ivory Coast,1,0,Friendly,Lom√©,Togo,False
+1987-12-14 00:00:00,Kenya,Zanzibar,0,0,CECAFA Cup,Addis Ababa,Ethiopia,True
+1987-12-14 00:00:00,Uganda,Zambia,4,0,CECAFA Cup,Addis Ababa,Ethiopia,True
+1987-12-15 00:00:00,Algeria,Mauritania,3,0,Arab Cup qualification,Algiers,Algeria,False
+1987-12-15 00:00:00,American Samoa,Papua New Guinea,0,20,South Pacific Games,Noum√©a,New Caledonia,True
+1987-12-15 00:00:00,Chad,Equatorial Guinea,4,0,UDEAC Cup,N'Djamena,Chad,False
+1987-12-15 00:00:00,New Caledonia,Wallis Islands and Futuna,5,1,South Pacific Games,Noum√©a,New Caledonia,False
+1987-12-15 00:00:00,Tahiti,Vanuatu,2,1,South Pacific Games,Noum√©a,New Caledonia,True
+1987-12-16 00:00:00,Argentina,Germany,1,0,Friendly,Buenos Aires,Argentina,False
+1987-12-16 00:00:00,Cameroon,Gabon,1,0,UDEAC Cup,N'Djamena,Chad,True
+1987-12-16 00:00:00,Greece,Netherlands,0,3,UEFA Euro qualification,Rhodes,Greece,False
+1987-12-16 00:00:00,Israel,Switzerland,0,2,Friendly,Ramat-Gan,Israel,False
+1987-12-16 00:00:00,Kenya,Tanzania,3,2,CECAFA Cup,Addis Ababa,Ethiopia,True
+1987-12-16 00:00:00,Turkey,Yugoslavia,2,3,UEFA Euro qualification,ƒ∞zmir,Turkey,False
+1987-12-16 00:00:00,Uganda,Zimbabwe,0,0,CECAFA Cup,Addis Ababa,Ethiopia,True
+1987-12-17 00:00:00,Ethiopia,Zanzibar,0,0,CECAFA Cup,Addis Ababa,Ethiopia,False
+1987-12-17 00:00:00,Malawi,Zambia,2,1,CECAFA Cup,Addis Ababa,Ethiopia,True
+1987-12-17 00:00:00,Malaysia,South Korea,0,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1987-12-17 00:00:00,New Caledonia,Vanuatu,6,0,South Pacific Games,Noum√©a,New Caledonia,False
+1987-12-17 00:00:00,Papua New Guinea,Wallis Islands and Futuna,2,0,South Pacific Games,Noum√©a,New Caledonia,True
+1987-12-18 00:00:00,Chad,Cameroon,0,1,UDEAC Cup,N'Djamena,Chad,False
+1987-12-18 00:00:00,Equatorial Guinea,Gabon,0,0,UDEAC Cup,N'Djamena,Chad,True
+1987-12-19 00:00:00,Ivory Coast,Senegal,1,0,Friendly,Monrovia,Liberia,True
+1987-12-19 00:00:00,New Caledonia,Tahiti,1,0,South Pacific Games,Noum√©a,New Caledonia,False
+1987-12-19 00:00:00,Papua New Guinea,Vanuatu,3,1,South Pacific Games,Noum√©a,New Caledonia,True
+1987-12-19 00:00:00,Tanzania,Zanzibar,0,2,CECAFA Cup,Addis Ababa,Ethiopia,True
+1987-12-20 00:00:00,Ethiopia,Kenya,2,1,CECAFA Cup,Addis Ababa,Ethiopia,False
+1987-12-20 00:00:00,Liberia,Burkina Faso,1,0,Friendly,Monrovia,Liberia,False
+1987-12-20 00:00:00,Malawi,Uganda,0,2,CECAFA Cup,Addis Ababa,Ethiopia,True
+1987-12-20 00:00:00,Malta,Portugal,0,1,UEFA Euro qualification,Attard,Malta,False
+1987-12-22 00:00:00,Burkina Faso,Senegal,0,1,Friendly,Monrovia,Liberia,True
+1987-12-23 00:00:00,Liberia,Ivory Coast,1,2,Friendly,Monrovia,Liberia,False
+1987-12-23 00:00:00,Zanzibar,Zimbabwe,0,1,CECAFA Cup,Addis Ababa,Ethiopia,True
+1987-12-24 00:00:00,Ethiopia,Uganda,3,0,CECAFA Cup,Addis Ababa,Ethiopia,False
+1987-12-26 00:00:00,Uganda,Zanzibar,2,0,CECAFA Cup,Addis Ababa,Ethiopia,True
+1987-12-27 00:00:00,Ethiopia,Zimbabwe,1,1,CECAFA Cup,Addis Ababa,Ethiopia,False
+1988-01-03 00:00:00,Gambia,Ghana,0,2,Friendly,Banjul,Gambia,False
+1988-01-05 00:00:00,Algeria,Congo,4,1,Friendly,Annaba,Algeria,False
+1988-01-05 00:00:00,Gambia,Ghana,0,0,Friendly,Banjul,Gambia,False
+1988-01-06 00:00:00,Guatemala,Costa Rica,1,2,Friendly,Guatemala,Guatemala,False
+1988-01-06 00:00:00,South Korea,Egypt,1,1,Friendly,Doha,Qatar,True
+1988-01-10 00:00:00,Guatemala,United States,1,0,Friendly,Guatemala,Guatemala,False
+1988-01-12 00:00:00,Czechoslovakia,Finland,0,2,Friendly,Las Palmas,Spain,True
+1988-01-12 00:00:00,German DR,Sweden,1,4,Friendly,Las Palmas,Spain,True
+1988-01-13 00:00:00,Guatemala,United States,0,1,Friendly,Guatemala,Guatemala,False
+1988-01-13 00:00:00,Honduras,Mexico,0,1,Friendly,San Pedro Sula,Honduras,False
+1988-01-14 00:00:00,Thailand,Indonesia,3,3,King's Cup,Bangkok,Thailand,False
+1988-01-15 00:00:00,Czechoslovakia,German DR,1,0,Friendly,Las Palmas,Spain,True
+1988-01-15 00:00:00,Finland,Sweden,0,1,Friendly,Las Palmas,Spain,True
+1988-01-15 00:00:00,Jordan,United Arab Emirates,0,1,Friendly,Manama,Bahrain,True
+1988-01-18 00:00:00,Indonesia,Oman,3,0,King's Cup,Bangkok,Thailand,True
+1988-01-18 00:00:00,Jordan,United Arab Emirates,2,0,Friendly,Manama,Bahrain,True
+1988-01-19 00:00:00,Israel,Belgium,2,3,Friendly,Ramat-Gan,Israel,False
+1988-01-20 00:00:00,Thailand,Oman,3,1,King's Cup,Bangkok,Thailand,False
+1988-01-21 00:00:00,Malaysia,South Korea,0,0,King's Cup,Bangkok,Thailand,True
+1988-01-21 00:00:00,Qatar,Bulgaria,2,3,Friendly,Doha,Qatar,False
+1988-01-23 00:00:00,United Arab Emirates,Bulgaria,0,3,Friendly,Doha,Qatar,True
+1988-01-27 00:00:00,Israel,France,1,1,Friendly,Ramat-Gan,Israel,False
+1988-01-27 00:00:00,Spain,German DR,0,0,Friendly,Valencia,Spain,False
+1988-01-27 00:00:00,United Arab Emirates,Japan,1,1,Friendly,Dubai,United Arab Emirates,False
+1988-01-30 00:00:00,United Arab Emirates,Japan,2,0,Friendly,Abu Dhabi,United Arab Emirates,False
+1988-02-02 00:00:00,Austria,Morocco,1,3,Tournoi de France,Toulouse,France,True
+1988-02-02 00:00:00,France,Switzerland,2,1,Tournoi de France,Toulouse,France,False
+1988-02-02 00:00:00,Oman,Japan,1,1,Friendly,Muscat,Oman,False
+1988-02-03 00:00:00,Egypt,Bulgaria,1,0,Friendly,Cairo,Egypt,False
+1988-02-03 00:00:00,Israel,Romania,0,2,Friendly,Haifa,Israel,False
+1988-02-04 00:00:00,United Arab Emirates,Thailand,3,0,AFC Asian Cup qualification,Abu Dhabi,United Arab Emirates,False
+1988-02-05 00:00:00,Austria,Switzerland,1,2,Tournoi de France,Monaco,Monaco,True
+1988-02-05 00:00:00,China PR,Yemen,0,0,AFC Asian Cup qualification,Abu Dhabi,United Arab Emirates,True
+1988-02-05 00:00:00,France,Morocco,2,1,Tournoi de France,Monaco,Monaco,True
+1988-02-06 00:00:00,Bangladesh,India,0,0,AFC Asian Cup qualification,Abu Dhabi,United Arab Emirates,True
+1988-02-06 00:00:00,Poland,Romania,2,2,Friendly,Haifa,Israel,True
+1988-02-07 00:00:00,Malta,Finland,2,0,Malta International Tournament,Attard,Malta,False
+1988-02-07 00:00:00,United Arab Emirates,Yemen,2,1,AFC Asian Cup qualification,Abu Dhabi,United Arab Emirates,False
+1988-02-08 00:00:00,China PR,Bangladesh,4,0,AFC Asian Cup qualification,Abu Dhabi,United Arab Emirates,True
+1988-02-09 00:00:00,Thailand,India,1,0,AFC Asian Cup qualification,Abu Dhabi,United Arab Emirates,True
+1988-02-10 00:00:00,Israel,Poland,1,3,Friendly,Ramat-Gan,Israel,False
+1988-02-10 00:00:00,Malta,Tunisia,2,1,Malta International Tournament,Attard,Malta,False
+1988-02-10 00:00:00,United Arab Emirates,China PR,0,0,AFC Asian Cup qualification,Abu Dhabi,United Arab Emirates,False
+1988-02-11 00:00:00,Yemen,India,1,0,AFC Asian Cup qualification,Abu Dhabi,United Arab Emirates,True
+1988-02-12 00:00:00,Thailand,Bangladesh,1,1,AFC Asian Cup qualification,Abu Dhabi,United Arab Emirates,True
+1988-02-13 00:00:00,Finland,Tunisia,3,0,Malta International Tournament,Attard,Malta,True
+1988-02-13 00:00:00,United Arab Emirates,India,3,0,AFC Asian Cup qualification,Abu Dhabi,United Arab Emirates,False
+1988-02-14 00:00:00,Benin,Mali,1,2,Friendly,Cotonou,Benin,False
+1988-02-14 00:00:00,China PR,Thailand,5,0,AFC Asian Cup qualification,Abu Dhabi,United Arab Emirates,True
+1988-02-14 00:00:00,Yemen,Bangladesh,0,0,AFC Asian Cup qualification,Abu Dhabi,United Arab Emirates,True
+1988-02-16 00:00:00,China PR,India,1,1,AFC Asian Cup qualification,Abu Dhabi,United Arab Emirates,True
+1988-02-16 00:00:00,Yemen,Thailand,3,3,AFC Asian Cup qualification,Abu Dhabi,United Arab Emirates,True
+1988-02-17 00:00:00,Greece,Northern Ireland,3,2,Friendly,Athens,Greece,False
+1988-02-17 00:00:00,Israel,England,0,0,Friendly,Ramat-Gan,Israel,False
+1988-02-17 00:00:00,Saudi Arabia,Scotland,2,2,Friendly,Riyadh,Saudi Arabia,False
+1988-02-17 00:00:00,United Arab Emirates,Bangladesh,4,0,AFC Asian Cup qualification,Abu Dhabi,United Arab Emirates,False
+1988-02-18 00:00:00,Bermuda,Canada,0,0,Friendly,Hamilton,Bermuda,False
+1988-02-20 00:00:00,Italy,Russia,4,1,Friendly,Bari,Italy,False
+1988-02-23 00:00:00,United Arab Emirates,Egypt,1,2,Friendly,Dubai,United Arab Emirates,False
+1988-02-24 00:00:00,Spain,Czechoslovakia,1,2,Friendly,M√°laga,Spain,False
+1988-02-25 00:00:00,Djibouti,Yemen DPR,4,1,Friendly,Djibouti,Djibouti,False
+1988-02-25 00:00:00,Iraq,Tunisia,2,0,Friendly,Baghdad,Iraq,False
+1988-02-26 00:00:00,United Arab Emirates,Egypt,1,1,Friendly,Abu Dhabi,United Arab Emirates,False
+1988-03-02 00:00:00,Costa Rica,Guatemala,2,1,Friendly,San Jos√©,Costa Rica,False
+1988-03-02 00:00:00,Saudi Arabia,Oman,2,0,Gulf Cup,Riyadh,Saudi Arabia,False
+1988-03-03 00:00:00,Morocco,German DR,2,1,Friendly,Mohammedia,Morocco,False
+1988-03-03 00:00:00,Qatar,Kuwait,1,1,Gulf Cup,Riyadh,Saudi Arabia,True
+1988-03-03 00:00:00,United Arab Emirates,Bahrain,2,0,Gulf Cup,Riyadh,Saudi Arabia,True
+1988-03-04 00:00:00,Iraq,Oman,1,1,Gulf Cup,Riyadh,Saudi Arabia,True
+1988-03-05 00:00:00,Kuwait,United Arab Emirates,0,1,Gulf Cup,Riyadh,Saudi Arabia,True
+1988-03-05 00:00:00,Saudi Arabia,Qatar,0,0,Gulf Cup,Riyadh,Saudi Arabia,False
+1988-03-06 00:00:00,Dominica,Antigua and Barbuda,0,0,CFU Caribbean Cup qualification,Roseau,Dominica,False
+1988-03-07 00:00:00,Oman,Bahrain,0,2,Gulf Cup,Riyadh,Saudi Arabia,True
+1988-03-08 00:00:00,Iraq,Kuwait,1,0,Gulf Cup,Riyadh,Saudi Arabia,True
+1988-03-08 00:00:00,Qatar,United Arab Emirates,2,1,Gulf Cup,Riyadh,Saudi Arabia,True
+1988-03-09 00:00:00,Saudi Arabia,Bahrain,1,0,Gulf Cup,Riyadh,Saudi Arabia,False
+1988-03-10 00:00:00,Libya,Malta,1,0,Friendly,Tripoli,Libya,False
+1988-03-10 00:00:00,Oman,Qatar,2,1,Gulf Cup,Riyadh,Saudi Arabia,True

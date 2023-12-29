@@ -1,0 +1,1001 @@
+date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
+2009-11-30 00:00:00,Ethiopia,Djibouti,5,0,CECAFA Cup,Nairobi,Kenya,True
+2009-12-01 00:00:00,Zanzibar,Tanzania,0,1,CECAFA Cup,Mumias,Kenya,True
+2009-12-02 00:00:00,Burundi,Uganda,0,2,CECAFA Cup,Mumias,Kenya,True
+2009-12-02 00:00:00,Ethiopia,Zambia,0,1,CECAFA Cup,Nairobi,Kenya,True
+2009-12-02 00:00:00,Kenya,Djibouti,2,0,CECAFA Cup,Nairobi,Kenya,False
+2009-12-03 00:00:00,Rwanda,Eritrea,2,1,CECAFA Cup,Nairobi,Kenya,True
+2009-12-04 00:00:00,Bangladesh,Bhutan,4,1,SAFF Cup,Dhaka,Bangladesh,False
+2009-12-04 00:00:00,Djibouti,Zambia,0,6,CECAFA Cup,Nairobi,Kenya,True
+2009-12-04 00:00:00,Sri Lanka,Pakistan,1,0,SAFF Cup,Dhaka,Bangladesh,True
+2009-12-04 00:00:00,Tanzania,Burundi,1,0,CECAFA Cup,Mumias,Kenya,True
+2009-12-05 00:00:00,Dominica,British Virgin Islands,4,0,Friendly,Roseau,Dominica,False
+2009-12-05 00:00:00,Kenya,Ethiopia,2,0,CECAFA Cup,Nairobi,Kenya,False
+2009-12-05 00:00:00,Maldives,Nepal,1,1,SAFF Cup,Dhaka,Bangladesh,True
+2009-12-05 00:00:00,Somalia,Eritrea,1,3,CECAFA Cup,Nairobi,Kenya,True
+2009-12-05 00:00:00,Uganda,Zanzibar,0,0,CECAFA Cup,Mumias,Kenya,True
+2009-12-06 00:00:00,Bangladesh,Pakistan,0,0,SAFF Cup,Dhaka,Bangladesh,False
+2009-12-06 00:00:00,Sri Lanka,Bhutan,6,0,SAFF Cup,Dhaka,Bangladesh,True
+2009-12-07 00:00:00,Kenya,Uganda,0,1,CECAFA Cup,Nairobi,Kenya,False
+2009-12-07 00:00:00,Maldives,Afghanistan,3,1,SAFF Cup,Dhaka,Bangladesh,True
+2009-12-07 00:00:00,Zambia,Zanzibar,0,0,CECAFA Cup,Nairobi,Kenya,True
+2009-12-08 00:00:00,Bangladesh,Sri Lanka,2,1,SAFF Cup,Dhaka,Bangladesh,False
+2009-12-08 00:00:00,Pakistan,Bhutan,7,0,SAFF Cup,Dhaka,Bangladesh,True
+2009-12-08 00:00:00,Tanzania,Eritrea,4,0,CECAFA Cup,Nairobi,Kenya,True
+2009-12-09 00:00:00,Afghanistan,Nepal,0,3,SAFF Cup,Dhaka,Bangladesh,True
+2009-12-09 00:00:00,Zanzibar,Uganda,1,2,CECAFA Cup,Nairobi,Kenya,True
+2009-12-10 00:00:00,Tanzania,Rwanda,1,2,CECAFA Cup,Nairobi,Kenya,True
+2009-12-11 00:00:00,Maldives,Sri Lanka,5,1,SAFF Cup,Dhaka,Bangladesh,True
+2009-12-13 00:00:00,Uganda,Rwanda,2,0,CECAFA Cup,Nairobi,Kenya,True
+2009-12-13 00:00:00,Zanzibar,Tanzania,1,0,CECAFA Cup,Nairobi,Kenya,True
+2009-12-16 00:00:00,Kuwait,United Arab Emirates,0,0,Friendly,Kuwait City,Kuwait,False
+2009-12-19 00:00:00,Mozambique,Malawi,0,1,Friendly,Tete,Mozambique,False
+2009-12-22 00:00:00,Catalonia,Argentina,4,2,Friendly,Barcelona,Spain,False
+2009-12-27 00:00:00,North Korea,Mali,1,0,Friendly,Doha,Qatar,True
+2009-12-28 00:00:00,Qatar,Iran,3,2,Friendly,Doha,Qatar,False
+2009-12-29 00:00:00,Egypt,Malawi,1,1,Friendly,Cairo,Egypt,False
+2009-12-29 00:00:00,Thailand,Zimbabwe,3,0,Friendly,Bangkok,Thailand,False
+2009-12-30 00:00:00,Angola,Estonia,0,1,Friendly,Vila Real de Santo Ant√≥nio,Portugal,True
+2009-12-30 00:00:00,China PR,Jordan,2,2,Friendly,Jiangyin,China PR,False
+2009-12-30 00:00:00,Malaysia,Syria,4,1,Friendly,Kuala Lumpur,Malaysia,False
+2009-12-30 00:00:00,Mali,Iran,2,1,Friendly,Doha,Qatar,True
+2009-12-30 00:00:00,Qatar,North Korea,0,1,Friendly,Doha,Qatar,False
+2009-12-30 00:00:00,Yemen,Tajikistan,2,1,Friendly,Sana'a,Yemen,False
+2009-12-31 00:00:00,Singapore,Oman,1,4,Friendly,Singapore,Singapore,False
+2010-01-02 00:00:00,Iran,North Korea,1,0,Friendly,Doha,Qatar,True
+2010-01-02 00:00:00,Qatar,Mali,0,0,Friendly,Doha,Qatar,False
+2010-01-02 00:00:00,Syria,Zimbabwe,6,0,Friendly,Kuala Lumpur,Malaysia,True
+2010-01-02 00:00:00,Yemen,Tajikistan,0,1,Friendly,Sana'a,Yemen,False
+2010-01-03 00:00:00,Angola,Gambia,1,1,Friendly,Vila Real de Santo Ant√≥nio,Portugal,True
+2010-01-04 00:00:00,Egypt,Mali,1,0,Friendly,Dubai,United Arab Emirates,True
+2010-01-04 00:00:00,Tanzania,Ivory Coast,0,1,Friendly,Dar es Salaam,Tanzania,False
+2010-01-05 00:00:00,Ghana,Malawi,0,0,Friendly,Manzini,Eswatini,True
+2010-01-06 00:00:00,Bahrain,Hong Kong,4,0,AFC Asian Cup qualification,Riffa,Bahrain,False
+2010-01-06 00:00:00,Benin,Libya,1,0,Friendly,Cotonou,Benin,False
+2010-01-06 00:00:00,China PR,Syria,0,0,AFC Asian Cup qualification,Hangzhou,China PR,False
+2010-01-06 00:00:00,Gabon,Mozambique,2,0,Friendly,Bloemfontein,South Africa,True
+2010-01-06 00:00:00,Indonesia,Oman,1,2,AFC Asian Cup qualification,Jakarta,Indonesia,False
+2010-01-06 00:00:00,Kuwait,Australia,2,2,AFC Asian Cup qualification,Kuwait City,Kuwait,False
+2010-01-06 00:00:00,Lebanon,Vietnam,1,1,AFC Asian Cup qualification,Sidon,Lebanon,False
+2010-01-06 00:00:00,Singapore,Iran,1,3,AFC Asian Cup qualification,Singapore,Singapore,False
+2010-01-06 00:00:00,Thailand,Jordan,0,0,AFC Asian Cup qualification,Bangkok,Thailand,False
+2010-01-06 00:00:00,United Arab Emirates,Malaysia,1,0,AFC Asian Cup qualification,Dubai,United Arab Emirates,False
+2010-01-06 00:00:00,Yemen,Japan,2,3,AFC Asian Cup qualification,Sana'a,Yemen,False
+2010-01-07 00:00:00,Rwanda,Ivory Coast,0,2,Friendly,Dar es Salaam,Tanzania,True
+2010-01-09 00:00:00,Kenya,Cameroon,1,3,Friendly,Nairobi,Kenya,False
+2010-01-09 00:00:00,Tunisia,Gambia,1,2,Friendly,Rad√®s,Tunisia,False
+2010-01-09 00:00:00,Zambia,South Korea,4,2,Friendly,Johannesburg,South Africa,True
+2010-01-10 00:00:00,Angola,Mali,4,4,African Cup of Nations,Luanda,Angola,False
+2010-01-11 00:00:00,Ivory Coast,Burkina Faso,0,0,African Cup of Nations,Cabinda,Angola,True
+2010-01-11 00:00:00,Malawi,Algeria,3,0,African Cup of Nations,Luanda,Angola,True
+2010-01-12 00:00:00,Egypt,Nigeria,3,1,African Cup of Nations,Benguela,Angola,True
+2010-01-12 00:00:00,Mozambique,Benin,2,2,African Cup of Nations,Benguela,Angola,True
+2010-01-13 00:00:00,Cameroon,Gabon,0,1,African Cup of Nations,Lubango,Angola,True
+2010-01-13 00:00:00,Zambia,Tunisia,1,1,African Cup of Nations,Lubango,Angola,True
+2010-01-14 00:00:00,Angola,Malawi,2,0,African Cup of Nations,Luanda,Angola,False
+2010-01-14 00:00:00,Mali,Algeria,0,1,African Cup of Nations,Luanda,Angola,True
+2010-01-15 00:00:00,Ivory Coast,Ghana,3,1,African Cup of Nations,Cabinda,Angola,True
+2010-01-15 00:00:00,Yemen,Kenya,3,1,Friendly,Sana'a,Yemen,False
+2010-01-16 00:00:00,Egypt,Mozambique,2,0,African Cup of Nations,Benguela,Angola,True
+2010-01-16 00:00:00,Nigeria,Benin,1,0,African Cup of Nations,Benguela,Angola,True
+2010-01-17 00:00:00,Cameroon,Zambia,3,2,African Cup of Nations,Lubango,Angola,True
+2010-01-17 00:00:00,Gabon,Tunisia,0,0,African Cup of Nations,Lubango,Angola,True
+2010-01-17 00:00:00,Thailand,Singapore,1,0,King's Cup,Nakhon Ratchasima,Thailand,False
+2010-01-17 00:00:00,Vietnam,China PR,1,2,AFC Asian Cup qualification,Hanoi,Vietnam,False
+2010-01-18 00:00:00,Angola,Algeria,0,0,African Cup of Nations,Luanda,Angola,False
+2010-01-18 00:00:00,Finland,South Korea,0,2,Friendly,M√°laga,Spain,True
+2010-01-18 00:00:00,Mali,Malawi,3,1,African Cup of Nations,Cabinda,Angola,True
+2010-01-19 00:00:00,Burkina Faso,Ghana,0,1,African Cup of Nations,Luanda,Angola,True
+2010-01-20 00:00:00,Chile,Panama,2,1,Friendly,Coquimbo,Chile,False
+2010-01-20 00:00:00,Egypt,Benin,2,0,African Cup of Nations,Benguela,Angola,True
+2010-01-20 00:00:00,Nigeria,Mozambique,3,0,African Cup of Nations,Lubango,Angola,True
+2010-01-20 00:00:00,Oman,Sweden,0,1,Friendly,Muscat,Oman,False
+2010-01-20 00:00:00,Thailand,Poland,1,3,King's Cup,Nakhon Ratchasima,Thailand,False
+2010-01-20 00:00:00,Yemen,Bahrain,3,0,AFC Asian Cup qualification,Sana'a,Yemen,False
+2010-01-21 00:00:00,Cameroon,Tunisia,2,2,African Cup of Nations,Lubango,Angola,True
+2010-01-21 00:00:00,Gabon,Zambia,1,2,African Cup of Nations,Benguela,Angola,True
+2010-01-22 00:00:00,Latvia,South Korea,0,1,Friendly,M√°laga,Spain,True
+2010-01-23 00:00:00,Poland,Singapore,6,1,King's Cup,Nakhon Ratchasima,Thailand,True
+2010-01-23 00:00:00,Syria,Sweden,1,1,Friendly,Damascus,Syria,False
+2010-01-23 00:00:00,United States,Honduras,1,3,Friendly,Carson,United States,False
+2010-01-24 00:00:00,Angola,Ghana,0,1,African Cup of Nations,Luanda,Angola,False
+2010-01-24 00:00:00,Ivory Coast,Algeria,2,3,African Cup of Nations,Cabinda,Angola,True
+2010-01-25 00:00:00,Egypt,Cameroon,3,1,African Cup of Nations,Benguela,Angola,True
+2010-01-25 00:00:00,Zambia,Nigeria,0,0,African Cup of Nations,Lubango,Angola,True
+2010-01-26 00:00:00,Argentina,Costa Rica,3,2,Friendly,San Juan,Argentina,False
+2010-01-27 00:00:00,South Africa,Zimbabwe,3,0,Friendly,Durban,South Africa,False
+2010-01-28 00:00:00,Algeria,Egypt,0,4,African Cup of Nations,Benguela,Angola,True
+2010-01-28 00:00:00,Ghana,Nigeria,1,0,African Cup of Nations,Luanda,Angola,True
+2010-01-30 00:00:00,Nigeria,Algeria,1,0,African Cup of Nations,Benguela,Angola,True
+2010-01-31 00:00:00,Ghana,Egypt,0,1,African Cup of Nations,Luanda,Angola,True
+2010-01-31 00:00:00,Jamaica,Canada,1,0,Friendly,Kingston,Jamaica,False
+2010-02-02 00:00:00,Japan,Venezuela,0,0,Friendly,≈åita,Japan,False
+2010-02-06 00:00:00,Japan,China PR,0,0,EAFF Championship,Tokyo,Japan,False
+2010-02-07 00:00:00,South Korea,Hong Kong,5,0,EAFF Championship,Tokyo,Japan,True
+2010-02-10 00:00:00,Argentina,Jamaica,2,1,Friendly,Mar del Plata,Argentina,False
+2010-02-10 00:00:00,China PR,South Korea,3,0,EAFF Championship,Tokyo,Japan,True
+2010-02-11 00:00:00,Japan,Hong Kong,3,0,EAFF Championship,Tokyo,Japan,False
+2010-02-14 00:00:00,Hong Kong,China PR,0,2,EAFF Championship,Tokyo,Japan,True
+2010-02-14 00:00:00,Japan,South Korea,1,3,EAFF Championship,Tokyo,Japan,False
+2010-02-16 00:00:00,Sri Lanka,Myanmar,0,4,AFC Challenge Cup,Colombo,Sri Lanka,False
+2010-02-16 00:00:00,Tajikistan,Bangladesh,1,2,AFC Challenge Cup,Colombo,Sri Lanka,True
+2010-02-17 00:00:00,North Korea,Turkmenistan,1,1,AFC Challenge Cup,Colombo,Sri Lanka,True
+2010-02-18 00:00:00,Bangladesh,Myanmar,1,2,AFC Challenge Cup,Colombo,Sri Lanka,True
+2010-02-18 00:00:00,Sri Lanka,Tajikistan,1,3,AFC Challenge Cup,Colombo,Sri Lanka,False
+2010-02-19 00:00:00,Kuwait,Syria,1,1,Friendly,Al Ain,United Arab Emirates,True
+2010-02-19 00:00:00,Kyrgyzstan,North Korea,0,4,AFC Challenge Cup,Colombo,Sri Lanka,True
+2010-02-20 00:00:00,Sri Lanka,Bangladesh,3,0,AFC Challenge Cup,Colombo,Sri Lanka,False
+2010-02-20 00:00:00,Tajikistan,Myanmar,3,0,AFC Challenge Cup,Colombo,Sri Lanka,True
+2010-02-21 00:00:00,Turkmenistan,Kyrgyzstan,1,0,AFC Challenge Cup,Colombo,Sri Lanka,True
+2010-02-24 00:00:00,North Korea,Myanmar,5,0,AFC Challenge Cup,Colombo,Sri Lanka,True
+2010-02-24 00:00:00,Mexico,Bolivia,5,0,Friendly,San Francisco,United States,True
+2010-02-24 00:00:00,Tajikistan,Turkmenistan,0,2,AFC Challenge Cup,Colombo,Sri Lanka,True
+2010-02-24 00:00:00,United States,El Salvador,2,1,Friendly,Tampa,United States,False
+2010-02-25 00:00:00,Jordan,Azerbaijan,0,2,Friendly,Amman,Jordan,False
+2010-02-25 00:00:00,Kuwait,Bahrain,4,1,Friendly,Al Ain,United Arab Emirates,True
+2010-02-25 00:00:00,Turkmenistan,North Korea,1,1,AFC Challenge Cup,Colombo,Sri Lanka,True
+2010-02-27 00:00:00,Malaysia,Yemen,1,0,Friendly,Kuala Lumpur,Malaysia,False
+2010-02-27 00:00:00,Tajikistan,Myanmar,1,0,AFC Challenge Cup,Colombo,Sri Lanka,True
+2010-03-02 00:00:00,Guadeloupe,Saint Kitts and Nevis,2,1,Friendly,Vieux-Habitants,Guadeloupe,False
+2010-03-02 00:00:00,Republic of Ireland,Brazil,0,2,Friendly,London,England,True
+2010-03-03 00:00:00,Albania,Northern Ireland,1,0,Friendly,Tirana,Albania,False
+2010-03-03 00:00:00,Algeria,Serbia,0,3,Friendly,Algiers,Algeria,False
+2010-03-03 00:00:00,Angola,Latvia,1,1,Friendly,Luanda,Angola,False
+2010-03-03 00:00:00,Armenia,Belarus,1,3,Friendly,Antalya,Turkey,True
+2010-03-03 00:00:00,Australia,Indonesia,1,0,AFC Asian Cup qualification,Brisbane,Australia,False
+2010-03-03 00:00:00,Austria,Denmark,2,1,Friendly,Vienna,Austria,False
+2010-03-03 00:00:00,Belgium,Croatia,0,1,Friendly,Brussels,Belgium,False
+2010-03-03 00:00:00,Bosnia and Herzegovina,Ghana,2,1,Friendly,Sarajevo,Bosnia and Herzegovina,False
+2010-03-03 00:00:00,Cyprus,Iceland,0,0,Friendly,Larnaca,Cyprus,False
+2010-03-03 00:00:00,El Salvador,Guatemala,1,2,Friendly,Los Angeles,United States,True
+2010-03-03 00:00:00,England,Egypt,3,1,Friendly,London,England,False
+2010-03-03 00:00:00,France,Spain,0,2,Friendly,Saint-Denis,France,False
+2010-03-03 00:00:00,Georgia,Estonia,2,1,Friendly,Tbilisi,Georgia,False
+2010-03-03 00:00:00,Germany,Argentina,0,1,Friendly,Munich,Germany,False
+2010-03-03 00:00:00,Greece,Senegal,0,2,Friendly,V√≥los,Greece,False
+2010-03-03 00:00:00,Hong Kong,Yemen,0,0,AFC Asian Cup qualification,So Kon Po,Hong Kong,False
+2010-03-03 00:00:00,Hungary,Russia,1,1,Friendly,Budapest,Hungary,False
+2010-03-03 00:00:00,Iran,Thailand,1,0,AFC Asian Cup qualification,Tehran,Iran,False
+2010-03-03 00:00:00,Italy,Cameroon,0,0,Friendly,Monaco,Monaco,True
+2010-03-03 00:00:00,Ivory Coast,South Korea,0,2,Friendly,London,England,True
+2010-03-03 00:00:00,Japan,Bahrain,2,0,AFC Asian Cup qualification,Toyota,Japan,False
+2010-03-03 00:00:00,Jordan,Singapore,2,1,AFC Asian Cup qualification,Amman,Jordan,False
+2010-03-03 00:00:00,Kazakhstan,Moldova,0,1,Friendly,Antalya,Turkey,True
+2010-03-03 00:00:00,Libya,Mali,2,1,Friendly,Tripoli,Libya,False
+2010-03-03 00:00:00,Luxembourg,Azerbaijan,1,2,Friendly,Luxembourg,Luxembourg,False
+2010-03-03 00:00:00,North Macedonia,Montenegro,2,1,Friendly,Skopje,North Macedonia,False
+2010-03-03 00:00:00,Malta,Finland,1,2,Friendly,Attard,Malta,False
+2010-03-03 00:00:00,Mexico,New Zealand,2,0,Friendly,Pasadena,United States,True
+2010-03-03 00:00:00,Mozambique,Botswana,0,1,Friendly,Maputo,Mozambique,False
+2010-03-03 00:00:00,Netherlands,United States,2,1,Friendly,Amsterdam,Netherlands,False
+2010-03-03 00:00:00,Nigeria,DR Congo,5,2,Friendly,Abuja,Nigeria,False
+2010-03-03 00:00:00,Oman,Kuwait,0,0,AFC Asian Cup qualification,Muscat,Oman,False
+2010-03-03 00:00:00,Poland,Bulgaria,2,0,Friendly,Warsaw,Poland,False
+2010-03-03 00:00:00,Portugal,China PR,2,0,Friendly,Coimbra,Portugal,False
+2010-03-03 00:00:00,Romania,Israel,0,2,Friendly,Timi≈üoara,Romania,False
+2010-03-03 00:00:00,Scotland,Czech Republic,1,0,Friendly,Glasgow,Scotland,False
+2010-03-03 00:00:00,Slovakia,Norway,0,1,Friendly,≈Ωilina,Slovakia,False
+2010-03-03 00:00:00,Slovenia,Qatar,4,1,Friendly,Maribor,Slovenia,False
+2010-03-03 00:00:00,South Africa,Namibia,1,1,Friendly,Durban,South Africa,False
+2010-03-03 00:00:00,Switzerland,Uruguay,1,3,Friendly,St. Gallen,Switzerland,False
+2010-03-03 00:00:00,Syria,Lebanon,4,0,AFC Asian Cup qualification,Damascus,Syria,False
+2010-03-03 00:00:00,Tanzania,Uganda,2,3,Friendly,Mwanza,Tanzania,False
+2010-03-03 00:00:00,Turkey,Honduras,2,0,Friendly,Istanbul,Turkey,False
+2010-03-03 00:00:00,Uzbekistan,United Arab Emirates,0,1,AFC Asian Cup qualification,Tashkent,Uzbekistan,False
+2010-03-03 00:00:00,Venezuela,Panama,1,2,Friendly,Barquisimeto,Venezuela,False
+2010-03-03 00:00:00,Wales,Sweden,0,1,Friendly,Swansea,Wales,False
+2010-03-03 00:00:00,Zimbabwe,Malawi,2,1,Friendly,Harare,Zimbabwe,False
+2010-03-06 00:00:00,Venezuela,North Korea,2,1,Friendly,Puerto la Cruz,Venezuela,False
+2010-03-07 00:00:00,Niger,Benin,2,0,Friendly,Niamey,Niger,False
+2010-03-17 00:00:00,Mexico,North Korea,2,1,Friendly,Torre√≥n,Mexico,False
+2010-03-21 00:00:00,Iceland,Faroe Islands,2,0,Friendly,K√≥pavogur,Iceland,False
+2010-03-21 00:00:00,Namibia,Botswana,0,0,Friendly,Windhoek,Namibia,False
+2010-03-24 00:00:00,Martinique,Haiti,0,0,Friendly,Fort-de-France,Martinique,False
+2010-03-24 00:00:00,Mexico,Iceland,0,0,Friendly,Charlotte,United States,True
+2010-03-31 00:00:00,Chile,Venezuela,0,0,Friendly,Temuco,Chile,False
+2010-03-31 00:00:00,Paraguay,South Africa,1,1,Friendly,Asunci√≥n,Paraguay,False
+2010-04-03 00:00:00,Saint Kitts and Nevis,Guadeloupe,3,0,Friendly,Basseterre,Saint Kitts and Nevis,False
+2010-04-07 00:00:00,Japan,Serbia,0,3,Friendly,Osaka,Japan,False
+2010-04-21 00:00:00,Honduras,Venezuela,0,1,Friendly,San Pedro Sula,Honduras,False
+2010-04-22 00:00:00,South Africa,North Korea,0,0,Friendly,Taunusstein,Germany,True
+2010-04-28 00:00:00,South Africa,Jamaica,2,0,Friendly,Offenbach am Main,Germany,True
+2010-05-05 00:00:00,Argentina,Haiti,4,0,Friendly,Cutral C√≥,Argentina,False
+2010-05-05 00:00:00,Chile,Trinidad and Tobago,2,0,Friendly,Iquique,Chile,False
+2010-05-07 00:00:00,Mexico,Ecuador,0,0,Friendly,East Rutherford,United States,True
+2010-05-10 00:00:00,Mexico,Senegal,1,0,Friendly,Chicago,United States,True
+2010-05-12 00:00:00,Yemen,Malawi,1,0,Friendly,Sana'a,Yemen,False
+2010-05-13 00:00:00,Germany,Malta,3,0,Friendly,Aachen,Germany,False
+2010-05-13 00:00:00,Mexico,Angola,1,0,Friendly,Houston,United States,True
+2010-05-15 00:00:00,Paraguay,North Korea,1,0,Friendly,Nyon,Switzerland,True
+2010-05-16 00:00:00,South Korea,Ecuador,2,0,Friendly,Seoul,South Korea,False
+2010-05-16 00:00:00,Mexico,Chile,1,0,Friendly,Mexico City,Mexico,False
+2010-05-16 00:00:00,South Africa,Thailand,4,0,Friendly,Nelspruit,South Africa,False
+2010-05-18 00:00:00,Yemen,Oman,0,1,Friendly,Sana'a,Yemen,False
+2010-05-19 00:00:00,Austria,Croatia,0,1,Friendly,Klagenfurt,Austria,False
+2010-05-19 00:00:00,Belgium,Bulgaria,2,1,Friendly,Brussels,Belgium,False
+2010-05-19 00:00:00,Gabon,Togo,3,0,Friendly,Ajaccio,France,True
+2010-05-19 00:00:00,Corsica,Brittany,2,0,Friendly,Ajaccio,France,False
+2010-05-20 00:00:00,Aruba,Venezuela,0,3,Friendly,Oranjestad,Aruba,False
+2010-05-21 00:00:00,DR Congo,Saudi Arabia,0,2,Friendly,Schwaz,Austria,True
+2010-05-21 00:00:00,Estonia,Finland,2,0,Friendly,Tallinn,Estonia,False
+2010-05-21 00:00:00,Brittany,Togo,2,1,Friendly,Bastia,France,False
+2010-05-21 00:00:00,Corsica,Gabon,1,1,Friendly,Bastia,France,False
+2010-05-22 00:00:00,Turkey,Czech Republic,2,1,Friendly,Harrison,United States,True
+2010-05-23 00:00:00,Croatia,Wales,2,0,Friendly,Osijek,Croatia,False
+2010-05-24 00:00:00,Argentina,Canada,5,0,Friendly,Buenos Aires,Argentina,False
+2010-05-24 00:00:00,Australia,New Zealand,2,1,Friendly,Melbourne,Australia,False
+2010-05-24 00:00:00,England,Mexico,3,1,Friendly,London,England,False
+2010-05-24 00:00:00,Japan,South Korea,0,2,Friendly,Saitama,Japan,False
+2010-05-24 00:00:00,Portugal,Cape Verde,0,0,Friendly,Covilh√£,Portugal,False
+2010-05-24 00:00:00,South Africa,Bulgaria,1,1,Friendly,Johannesburg,South Africa,False
+2010-05-25 00:00:00,Armenia,Uzbekistan,3,1,Friendly,Yerevan,Armenia,False
+2010-05-25 00:00:00,Georgia,Cameroon,0,0,Friendly,Linz,Austria,True
+2010-05-25 00:00:00,Greece,North Korea,2,2,Friendly,Altach,Austria,True
+2010-05-25 00:00:00,Republic of Ireland,Paraguay,2,1,Friendly,Dublin,Republic of Ireland,False
+2010-05-25 00:00:00,Montenegro,Albania,0,1,Friendly,Podgorica,Montenegro,False
+2010-05-25 00:00:00,Nigeria,Saudi Arabia,0,0,Friendly,Wattens,Austria,True
+2010-05-25 00:00:00,Ukraine,Lithuania,4,0,Friendly,Kharkiv,Ukraine,False
+2010-05-25 00:00:00,United States,Czech Republic,2,4,Friendly,East Hartford,United States,False
+2010-05-26 00:00:00,Azerbaijan,Moldova,1,1,Friendly,Seekirchen am Wallersee,Austria,True
+2010-05-26 00:00:00,Chile,Zambia,3,0,Friendly,Calama,Chile,False
+2010-05-26 00:00:00,Estonia,Croatia,0,0,Friendly,Tallinn,Estonia,False
+2010-05-26 00:00:00,France,Costa Rica,2,1,Friendly,Lens,France,False
+2010-05-26 00:00:00,Netherlands,Mexico,2,1,Friendly,Freiburg,Germany,True
+2010-05-26 00:00:00,Northern Ireland,Turkey,0,2,Friendly,New Britain,United States,True
+2010-05-26 00:00:00,Uruguay,Israel,4,1,Friendly,Montevideo,Uruguay,False
+2010-05-27 00:00:00,Belarus,Honduras,2,2,Friendly,Villach,Austria,True
+2010-05-27 00:00:00,Denmark,Senegal,2,0,Friendly,Aalborg,Denmark,False
+2010-05-27 00:00:00,South Africa,Colombia,2,1,Friendly,Johannesburg,South Africa,False
+2010-05-28 00:00:00,Republic of Ireland,Algeria,3,0,Friendly,Dublin,Republic of Ireland,False
+2010-05-29 00:00:00,Azerbaijan,North Macedonia,1,3,Friendly,Bischofshofen,Austria,True
+2010-05-29 00:00:00,Hungary,Germany,0,3,Friendly,Budapest,Hungary,False
+2010-05-29 00:00:00,Iceland,Andorra,4,0,Friendly,Reykjav√≠k,Iceland,False
+2010-05-29 00:00:00,Moldova,United Arab Emirates,2,3,Friendly,Anif,Austria,True
+2010-05-29 00:00:00,New Zealand,Serbia,1,0,Friendly,Klagenfurt,Austria,True
+2010-05-29 00:00:00,Norway,Montenegro,2,1,Friendly,Oslo,Norway,False
+2010-05-29 00:00:00,Poland,Finland,0,0,Friendly,Kielce,Poland,False
+2010-05-29 00:00:00,Slovakia,Cameroon,1,1,Friendly,Klagenfurt,Austria,True
+2010-05-29 00:00:00,Spain,Saudi Arabia,3,2,Friendly,Innsbruck,Austria,True
+2010-05-29 00:00:00,Sweden,Bosnia and Herzegovina,4,2,Friendly,Solna,Sweden,False
+2010-05-29 00:00:00,Ukraine,Romania,3,2,Friendly,Lviv,Ukraine,False
+2010-05-29 00:00:00,United States,Turkey,2,1,Friendly,Philadelphia,United States,False
+2010-05-29 00:00:00,Venezuela,Canada,1,1,Friendly,M√©rida,Venezuela,False
+2010-05-30 00:00:00,Belarus,South Korea,1,0,Friendly,Kufstein,Austria,True
+2010-05-30 00:00:00,Chile,Northern Ireland,1,0,Friendly,Chill√°n,Chile,False
+2010-05-30 00:00:00,Chile,Israel,3,0,Friendly,Concepci√≥n,Chile,False
+2010-05-30 00:00:00,Grenada,Martinique,2,2,Friendly,Grenville,Grenada,False
+2010-05-30 00:00:00,Japan,England,1,2,Friendly,Graz,Austria,True
+2010-05-30 00:00:00,Mexico,Gambia,5,1,Friendly,Bayreuth,Germany,True
+2010-05-30 00:00:00,Nigeria,Colombia,1,1,Friendly,Milton Keynes,England,True
+2010-05-30 00:00:00,Paraguay,Ivory Coast,2,2,Friendly,Thonon-les-Bains,France,True
+2010-05-30 00:00:00,Tunisia,France,1,1,Friendly,Rad√®s,Tunisia,False
+2010-05-31 00:00:00,South Africa,Guatemala,5,0,Friendly,Polokwane,South Africa,False
+2010-05-31 00:00:00,Gozo,Padania,1,2,Viva World Cup,Xewkija,Malta,False
+2010-05-31 00:00:00,Iraqi Kurdistan,Two Sicilies,4,1,Viva World Cup,Sannat,Malta,True
+2010-06-01 00:00:00,Australia,Denmark,1,0,Friendly,Roodepoort,South Africa,True
+2010-06-01 00:00:00,Netherlands,Ghana,4,1,Friendly,Rotterdam,Netherlands,False
+2010-06-01 00:00:00,Portugal,Cameroon,3,1,Friendly,Covilh√£,Portugal,False
+2010-06-01 00:00:00,Switzerland,Costa Rica,0,1,Friendly,Sion,Switzerland,False
+2010-06-01 00:00:00,Occitania,Padania,0,1,Viva World Cup,Xewkija,Malta,True
+2010-06-01 00:00:00,Provence,Two Sicilies,0,1,Viva World Cup,Sannat,Malta,True
+2010-06-02 00:00:00,Albania,Andorra,1,0,Friendly,Tirana,Albania,False
+2010-06-02 00:00:00,Azerbaijan,Honduras,0,0,Friendly,Zell am See,Austria,True
+2010-06-02 00:00:00,Belarus,Sweden,0,1,Friendly,Minsk,Belarus,False
+2010-06-02 00:00:00,Greece,Paraguay,0,2,Friendly,Winterthur,Switzerland,True
+2010-06-02 00:00:00,Norway,Ukraine,0,1,Friendly,Oslo,Norway,False
+2010-06-02 00:00:00,Romania,North Macedonia,0,1,Friendly,Villach,Austria,True
+2010-06-02 00:00:00,Serbia,Poland,0,0,Friendly,Kufstein,Austria,True
+2010-06-02 00:00:00,Zimbabwe,Brazil,0,3,Friendly,Harare,Zimbabwe,False
+2010-06-02 00:00:00,Gozo,Occitania,0,5,Viva World Cup,Xewkija,Malta,False
+2010-06-02 00:00:00,Iraqi Kurdistan,Provence,3,2,Viva World Cup,Sannat,Malta,True
+2010-06-03 00:00:00,Germany,Bosnia and Herzegovina,3,1,Friendly,Frankfurt am Main,Germany,False
+2010-06-03 00:00:00,Italy,Mexico,1,2,Friendly,Brussels,Belgium,True
+2010-06-03 00:00:00,Spain,South Korea,1,0,Friendly,Innsbruck,Austria,True
+2010-06-04 00:00:00,France,China PR,0,1,Friendly,Saint-Pierre,R√©union,True
+2010-06-04 00:00:00,Japan,Ivory Coast,0,2,Friendly,Sion,Switzerland,True
+2010-06-04 00:00:00,Luxembourg,Faroe Islands,0,0,Friendly,Hesperange,Luxembourg,False
+2010-06-04 00:00:00,Slovenia,New Zealand,3,1,Friendly,Maribor,Slovenia,False
+2010-06-04 00:00:00,Sudan,Palestine,1,1,Friendly,Omdurman,Sudan,False
+2010-06-04 00:00:00,Iraqi Kurdistan,Occitania,2,1,Viva World Cup,Sannat,Malta,True
+2010-06-04 00:00:00,Padania,Two Sicilies,2,0,Viva World Cup,Xewkija,Malta,True
+2010-06-04 00:00:00,Gozo,Provence,2,1,Viva World Cup,Xewkija,Malta,False
+2010-06-05 00:00:00,Algeria,United Arab Emirates,1,0,Friendly,F√ºrth,Germany,True
+2010-06-05 00:00:00,Australia,United States,1,3,Friendly,Roodepoort,South Africa,True
+2010-06-05 00:00:00,Ghana,Latvia,1,0,Friendly,Milton Keynes,England,True
+2010-06-05 00:00:00,Netherlands,Hungary,6,1,Friendly,Amsterdam,Netherlands,False
+2010-06-05 00:00:00,Romania,Honduras,3,0,Friendly,Sankt Veit an der Glan,Austria,True
+2010-06-05 00:00:00,Serbia,Cameroon,4,3,Friendly,Belgrade,Serbia,False
+2010-06-05 00:00:00,Slovakia,Costa Rica,3,0,Friendly,Bratislava,Slovakia,False
+2010-06-05 00:00:00,South Africa,Denmark,1,0,Friendly,Atteridgeville,South Africa,False
+2010-06-05 00:00:00,Switzerland,Italy,1,1,Friendly,Geneva,Switzerland,False
+2010-06-05 00:00:00,Occitania,Two Sicilies,2,0,Viva World Cup,Sannat,Malta,True
+2010-06-05 00:00:00,Iraqi Kurdistan,Padania,0,1,Viva World Cup,Xewkija,Malta,True
+2010-06-06 00:00:00,Nigeria,North Korea,3,1,Friendly,Johannesburg,South Africa,True
+2010-06-07 00:00:00,Tanzania,Brazil,1,5,Friendly,Dar es Salaam,Tanzania,False
+2010-06-08 00:00:00,Mozambique,Portugal,0,3,Friendly,Johannesburg,South Africa,True
+2010-06-08 00:00:00,Spain,Poland,6,0,Friendly,Murcia,Spain,False
+2010-06-11 00:00:00,South Africa,Mexico,1,1,FIFA World Cup,Johannesburg,South Africa,False
+2010-06-11 00:00:00,Uruguay,France,0,0,FIFA World Cup,Cape Town,South Africa,True
+2010-06-12 00:00:00,Argentina,Nigeria,1,0,FIFA World Cup,Johannesburg,South Africa,True
+2010-06-12 00:00:00,England,United States,1,1,FIFA World Cup,Rustenburg,South Africa,True
+2010-06-12 00:00:00,South Korea,Greece,2,0,FIFA World Cup,Port Elizabeth,South Africa,True
+2010-06-13 00:00:00,Algeria,Slovenia,0,1,FIFA World Cup,Polokwane,South Africa,True
+2010-06-13 00:00:00,Germany,Australia,4,0,FIFA World Cup,Durban,South Africa,True
+2010-06-13 00:00:00,Serbia,Ghana,0,1,FIFA World Cup,Pretoria,South Africa,True
+2010-06-14 00:00:00,Italy,Paraguay,1,1,FIFA World Cup,Cape Town,South Africa,True
+2010-06-14 00:00:00,Japan,Cameroon,1,0,FIFA World Cup,Bloemfontein,South Africa,True
+2010-06-14 00:00:00,Netherlands,Denmark,2,0,FIFA World Cup,Johannesburg,South Africa,True
+2010-06-15 00:00:00,Brazil,North Korea,2,1,FIFA World Cup,Johannesburg,South Africa,True
+2010-06-15 00:00:00,Ivory Coast,Portugal,0,0,FIFA World Cup,Port Elizabeth,South Africa,True
+2010-06-15 00:00:00,New Zealand,Slovakia,1,1,FIFA World Cup,Rustenburg,South Africa,True
+2010-06-16 00:00:00,Honduras,Chile,0,1,FIFA World Cup,Nelspruit,South Africa,True
+2010-06-16 00:00:00,South Africa,Uruguay,0,3,FIFA World Cup,Pretoria,South Africa,False
+2010-06-16 00:00:00,Spain,Switzerland,0,1,FIFA World Cup,Durban,South Africa,True
+2010-06-17 00:00:00,Argentina,South Korea,4,1,FIFA World Cup,Johannesburg,South Africa,True
+2010-06-17 00:00:00,France,Mexico,0,2,FIFA World Cup,Polokwane,South Africa,True
+2010-06-17 00:00:00,Greece,Nigeria,2,1,FIFA World Cup,Bloemfontein,South Africa,True
+2010-06-18 00:00:00,England,Algeria,0,0,FIFA World Cup,Cape Town,South Africa,True
+2010-06-18 00:00:00,Germany,Serbia,0,1,FIFA World Cup,Port Elizabeth,South Africa,True
+2010-06-18 00:00:00,Lithuania,Latvia,0,0,Baltic Cup,Kaunas,Lithuania,False
+2010-06-18 00:00:00,Slovenia,United States,2,2,FIFA World Cup,Johannesburg,South Africa,True
+2010-06-19 00:00:00,Cameroon,Denmark,1,2,FIFA World Cup,Pretoria,South Africa,True
+2010-06-19 00:00:00,Estonia,Latvia,0,0,Baltic Cup,Kaunas,Lithuania,True
+2010-06-19 00:00:00,Ghana,Australia,1,1,FIFA World Cup,Rustenburg,South Africa,True
+2010-06-19 00:00:00,Netherlands,Japan,1,0,FIFA World Cup,Durban,South Africa,True
+2010-06-19 00:00:00,Niger,Chad,1,1,Friendly,Niamey,Niger,False
+2010-06-19 00:00:00,Northern Mariana Islands,Guam,1,1,Friendly,Susupe,Northern Mariana Islands,False
+2010-06-20 00:00:00,Brazil,Ivory Coast,3,1,FIFA World Cup,Johannesburg,South Africa,True
+2010-06-20 00:00:00,Italy,New Zealand,1,1,FIFA World Cup,Nelspruit,South Africa,True
+2010-06-20 00:00:00,Lithuania,Estonia,2,0,Baltic Cup,Kaunas,Lithuania,False
+2010-06-20 00:00:00,Slovakia,Paraguay,0,2,FIFA World Cup,Bloemfontein,South Africa,True
+2010-06-20 00:00:00,Sudan,Tunisia,2,6,Friendly,Omdurman,Sudan,False
+2010-06-21 00:00:00,Chile,Switzerland,1,0,FIFA World Cup,Port Elizabeth,South Africa,True
+2010-06-21 00:00:00,Portugal,North Korea,7,0,FIFA World Cup,Cape Town,South Africa,True
+2010-06-21 00:00:00,Spain,Honduras,2,0,FIFA World Cup,Johannesburg,South Africa,True
+2010-06-22 00:00:00,Greece,Argentina,0,2,FIFA World Cup,Polokwane,South Africa,True
+2010-06-22 00:00:00,Mexico,Uruguay,0,1,FIFA World Cup,Rustenburg,South Africa,True
+2010-06-22 00:00:00,Nigeria,South Korea,2,2,FIFA World Cup,Durban,South Africa,True
+2010-06-22 00:00:00,South Africa,France,2,1,FIFA World Cup,Bloemfontein,South Africa,False
+2010-06-23 00:00:00,Australia,Serbia,2,1,FIFA World Cup,Nelspruit,South Africa,True
+2010-06-23 00:00:00,Ghana,Germany,0,1,FIFA World Cup,Johannesburg,South Africa,True
+2010-06-23 00:00:00,Slovenia,England,0,1,FIFA World Cup,Port Elizabeth,South Africa,True
+2010-06-23 00:00:00,United States,Algeria,1,0,FIFA World Cup,Pretoria,South Africa,True
+2010-06-24 00:00:00,Cameroon,Netherlands,1,2,FIFA World Cup,Cape Town,South Africa,True
+2010-06-24 00:00:00,Denmark,Japan,1,3,FIFA World Cup,Rustenburg,South Africa,True
+2010-06-24 00:00:00,Paraguay,New Zealand,0,0,FIFA World Cup,Polokwane,South Africa,True
+2010-06-24 00:00:00,Slovakia,Italy,3,2,FIFA World Cup,Johannesburg,South Africa,True
+2010-06-25 00:00:00,Chile,Spain,1,2,FIFA World Cup,Pretoria,South Africa,True
+2010-06-25 00:00:00,North Korea,Ivory Coast,0,3,FIFA World Cup,Nelspruit,South Africa,True
+2010-06-25 00:00:00,Portugal,Brazil,0,0,FIFA World Cup,Durban,South Africa,True
+2010-06-25 00:00:00,Switzerland,Honduras,0,0,FIFA World Cup,Bloemfontein,South Africa,True
+2010-06-26 00:00:00,China PR,Tajikistan,4,0,Friendly,Kunming,China PR,False
+2010-06-26 00:00:00,Uruguay,South Korea,2,1,FIFA World Cup,Port Elizabeth,South Africa,True
+2010-06-26 00:00:00,United States,Ghana,1,2,FIFA World Cup,Rustenburg,South Africa,True
+2010-06-27 00:00:00,Argentina,Mexico,3,1,FIFA World Cup,Johannesburg,South Africa,True
+2010-06-27 00:00:00,Germany,England,4,1,FIFA World Cup,Bloemfontein,South Africa,True
+2010-06-28 00:00:00,Brazil,Chile,3,0,FIFA World Cup,Johannesburg,South Africa,True
+2010-06-28 00:00:00,Netherlands,Slovakia,2,1,FIFA World Cup,Durban,South Africa,True
+2010-06-29 00:00:00,Paraguay,Japan,0,0,FIFA World Cup,Pretoria,South Africa,True
+2010-06-29 00:00:00,Spain,Portugal,1,0,FIFA World Cup,Cape Town,South Africa,True
+2010-07-01 00:00:00,Chad,Togo,2,2,African Cup of Nations qualification,N'Djamena,Chad,False
+2010-07-01 00:00:00,Tunisia,Botswana,0,1,African Cup of Nations qualification,Tunis,Tunisia,False
+2010-07-02 00:00:00,Netherlands,Brazil,2,1,FIFA World Cup,Port Elizabeth,South Africa,True
+2010-07-02 00:00:00,Uruguay,Ghana,1,1,FIFA World Cup,Johannesburg,South Africa,True
+2010-07-03 00:00:00,Argentina,Germany,0,4,FIFA World Cup,Cape Town,South Africa,True
+2010-07-03 00:00:00,Paraguay,Spain,0,1,FIFA World Cup,Johannesburg,South Africa,True
+2010-07-06 00:00:00,Uruguay,Netherlands,2,3,FIFA World Cup,Cape Town,South Africa,True
+2010-07-07 00:00:00,Germany,Spain,0,1,FIFA World Cup,Durban,South Africa,True
+2010-07-09 00:00:00,Botswana,Chad,1,0,African Cup of Nations qualification,Gaborone,Botswana,False
+2010-07-09 00:00:00,Togo,Malawi,1,1,African Cup of Nations qualification,Lom√©,Togo,False
+2010-07-10 00:00:00,Uruguay,Germany,2,3,FIFA World Cup,Port Elizabeth,South Africa,True
+2010-07-11 00:00:00,Netherlands,Spain,0,1,FIFA World Cup,Johannesburg,South Africa,True
+2010-08-04 00:00:00,Botswana,Zimbabwe,2,0,Friendly,Selebi-Phikwe,Botswana,False
+2010-08-08 00:00:00,Anguilla,Saint Martin,1,3,Friendly,The Valley,Anguilla,False
+2010-08-10 00:00:00,Bosnia and Herzegovina,Qatar,1,1,Friendly,Sarajevo,Bosnia and Herzegovina,False
+2010-08-10 00:00:00,Italy,Ivory Coast,0,1,Friendly,London,England,True
+2010-08-10 00:00:00,United States,Brazil,0,2,Friendly,East Rutherford,United States,False
+2010-08-11 00:00:00,Albania,Uzbekistan,1,0,Friendly,Durr√´s,Albania,False
+2010-08-11 00:00:00,Algeria,Gabon,1,2,Friendly,Algiers,Algeria,False
+2010-08-11 00:00:00,Angola,Uruguay,0,2,Friendly,Lisbon,Portugal,True
+2010-08-11 00:00:00,Armenia,Iran,1,3,Friendly,Yerevan,Armenia,False
+2010-08-11 00:00:00,Austria,Switzerland,0,1,Friendly,Klagenfurt,Austria,False
+2010-08-11 00:00:00,Azerbaijan,Kuwait,1,1,Friendly,Baku,Azerbaijan,False
+2010-08-11 00:00:00,Benin,Niger,0,0,Friendly,Porto-Novo,Benin,False
+2010-08-11 00:00:00,Bolivia,Colombia,1,1,Friendly,La Paz,Bolivia,False
+2010-08-11 00:00:00,Burkina Faso,Congo,3,0,Friendly,Senlis,France,True
+2010-08-11 00:00:00,Chad,Tunisia,1,3,African Cup of Nations qualification,N'Djamena,Chad,False
+2010-08-11 00:00:00,China PR,Bahrain,1,1,Friendly,Nanning,China PR,False
+2010-08-11 00:00:00,Cyprus,Andorra,1,0,Friendly,Larnaca,Cyprus,False
+2010-08-11 00:00:00,Czech Republic,Latvia,4,1,Friendly,Liberec,Czech Republic,False
+2010-08-11 00:00:00,Denmark,Germany,2,2,Friendly,Copenhagen,Denmark,False
+2010-08-11 00:00:00,Egypt,DR Congo,6,3,Friendly,Cairo,Egypt,False
+2010-08-11 00:00:00,England,Hungary,2,1,Friendly,London,England,False
+2010-08-11 00:00:00,Estonia,Faroe Islands,2,1,UEFA Euro qualification,Tallinn,Estonia,False
+2010-08-11 00:00:00,Finland,Belgium,1,0,Friendly,Turku,Finland,False
+2010-08-11 00:00:00,Iceland,Liechtenstein,1,1,Friendly,Reykjav√≠k,Iceland,False
+2010-08-11 00:00:00,Republic of Ireland,Argentina,0,1,Friendly,Dublin,Republic of Ireland,False
+2010-08-11 00:00:00,Kazakhstan,Oman,3,1,Friendly,Astana,Kazakhstan,False
+2010-08-11 00:00:00,South Korea,Nigeria,2,1,Friendly,Suwon,South Korea,False
+2010-08-11 00:00:00,Lithuania,Belarus,0,2,Friendly,Kaunas,Lithuania,False
+2010-08-11 00:00:00,Malawi,Botswana,1,1,African Cup of Nations qualification,Blantyre,Malawi,False
+2010-08-11 00:00:00,Mali,Guinea,0,2,Friendly,Marignane,France,True
+2010-08-11 00:00:00,Malta,North Macedonia,1,1,Friendly,Attard,Malta,False
+2010-08-11 00:00:00,Mauritania,Palestine,0,0,Friendly,Nouakchott,Mauritania,False
+2010-08-11 00:00:00,Mexico,Spain,1,1,Friendly,Mexico City,Mexico,False
+2010-08-11 00:00:00,Moldova,Georgia,0,0,Friendly,Chi»ôinƒÉu,Moldova,False
+2010-08-11 00:00:00,Montenegro,Northern Ireland,2,0,Friendly,Podgorica,Montenegro,False
+2010-08-11 00:00:00,Morocco,Equatorial Guinea,2,1,Friendly,Rabat,Morocco,False
+2010-08-11 00:00:00,Mozambique,Eswatini,2,1,Friendly,Maputo,Mozambique,False
+2010-08-11 00:00:00,Norway,France,2,1,Friendly,Oslo,Norway,False
+2010-08-11 00:00:00,Panama,Venezuela,3,1,Friendly,Panama City,Panama,False
+2010-08-11 00:00:00,Paraguay,Costa Rica,2,0,Friendly,Asunci√≥n,Paraguay,False
+2010-08-11 00:00:00,Poland,Cameroon,0,3,Friendly,Szczecin,Poland,False
+2010-08-11 00:00:00,Russia,Bulgaria,1,0,Friendly,Saint Petersburg,Russia,False
+2010-08-11 00:00:00,Saudi Arabia,Togo,1,0,Friendly,Riyadh,Saudi Arabia,False
+2010-08-11 00:00:00,Senegal,Cape Verde,1,0,Friendly,Dakar,Senegal,False
+2010-08-11 00:00:00,Serbia,Greece,0,1,Friendly,Belgrade,Serbia,False
+2010-08-11 00:00:00,Slovakia,Croatia,1,1,Friendly,Bratislava,Slovakia,False
+2010-08-11 00:00:00,Slovenia,Australia,2,0,Friendly,Ljubljana,Slovenia,False
+2010-08-11 00:00:00,South Africa,Ghana,1,0,Friendly,Johannesburg,South Africa,False
+2010-08-11 00:00:00,Sweden,Scotland,3,0,Friendly,Solna,Sweden,False
+2010-08-11 00:00:00,Tanzania,Kenya,1,1,Friendly,Dar es Salaam,Tanzania,False
+2010-08-11 00:00:00,Thailand,Singapore,1,0,Friendly,Bangkok,Thailand,False
+2010-08-11 00:00:00,Trinidad and Tobago,Jamaica,1,3,Friendly,Macoya,Trinidad and Tobago,False
+2010-08-11 00:00:00,Turkey,Romania,2,0,Friendly,Istanbul,Turkey,False
+2010-08-11 00:00:00,Uganda,Zambia,1,1,Friendly,Kampala,Uganda,False
+2010-08-11 00:00:00,Ukraine,Netherlands,1,1,Friendly,Donets'k,Ukraine,False
+2010-08-11 00:00:00,Wales,Luxembourg,5,1,Friendly,Llanelli,Wales,False
+2010-08-18 00:00:00,Ethiopia,Kenya,0,3,Friendly,Addis Ababa,Ethiopia,False
+2010-08-20 00:00:00,Madagascar,Mayotte,0,0,Friendly,Mahajanga,Madagascar,False
+2010-08-26 00:00:00,Saint Lucia,Martinique,1,3,Friendly,Vieux Fort,Saint Lucia,False
+2010-08-28 00:00:00,Saint Kitts and Nevis,Antigua and Barbuda,1,1,Friendly,Basseterre,Saint Kitts and Nevis,False
+2010-08-28 00:00:00,Saint Lucia,Martinique,1,1,Friendly,Vieux Fort,Saint Lucia,False
+2010-08-29 00:00:00,Ethiopia,Chad,1,0,Friendly,Addis Ababa,Ethiopia,False
+2010-08-29 00:00:00,Madagascar,Comoros,1,0,Friendly,Mahajanga,Madagascar,False
+2010-09-02 00:00:00,Israel,Malta,3,1,UEFA Euro qualification,Ramat-Gan,Israel,False
+2010-09-03 00:00:00,Algeria,Tanzania,1,1,African Cup of Nations qualification,Blida,Algeria,False
+2010-09-03 00:00:00,Andorra,Russia,0,2,UEFA Euro qualification,Sant Juli√† de L√≤ria,Andorra,False
+2010-09-03 00:00:00,Armenia,Republic of Ireland,0,1,UEFA Euro qualification,Yerevan,Armenia,False
+2010-09-03 00:00:00,Belgium,Germany,0,1,UEFA Euro qualification,Brussels,Belgium,False
+2010-09-03 00:00:00,China PR,Iran,0,2,Friendly,Zhengzhou,China PR,False
+2010-09-03 00:00:00,England,Bulgaria,4,0,UEFA Euro qualification,London,England,False
+2010-09-03 00:00:00,Estonia,Italy,1,2,UEFA Euro qualification,Tallinn,Estonia,False
+2010-09-03 00:00:00,Faroe Islands,Serbia,0,3,UEFA Euro qualification,T√≥rshavn,Faroe Islands,False
+2010-09-03 00:00:00,France,Belarus,0,1,UEFA Euro qualification,Saint-Denis,France,False
+2010-09-03 00:00:00,Greece,Georgia,1,1,UEFA Euro qualification,Piraeus,Greece,False
+2010-09-03 00:00:00,Iceland,Norway,1,2,UEFA Euro qualification,Reykjav√≠k,Iceland,False
+2010-09-03 00:00:00,Kazakhstan,Turkey,0,3,UEFA Euro qualification,Astana,Kazakhstan,False
+2010-09-03 00:00:00,Kuwait,Syria,3,0,Friendly,Kuwait City,Kuwait,False
+2010-09-03 00:00:00,Latvia,Croatia,0,3,UEFA Euro qualification,Riga,Latvia,False
+2010-09-03 00:00:00,Liechtenstein,Spain,0,4,UEFA Euro qualification,Vaduz,Liechtenstein,False
+2010-09-03 00:00:00,Lithuania,Scotland,0,0,UEFA Euro qualification,Kaunas,Lithuania,False
+2010-09-03 00:00:00,Luxembourg,Bosnia and Herzegovina,0,3,UEFA Euro qualification,Luxembourg,Luxembourg,False
+2010-09-03 00:00:00,Moldova,Finland,2,0,UEFA Euro qualification,Chi»ôinƒÉu,Moldova,False
+2010-09-03 00:00:00,Montenegro,Wales,1,0,UEFA Euro qualification,Podgorica,Montenegro,False
+2010-09-03 00:00:00,Oman,Malaysia,3,0,Friendly,Doha,Qatar,True
+2010-09-03 00:00:00,Panama,Costa Rica,2,2,Friendly,Panama City,Panama,False
+2010-09-03 00:00:00,Portugal,Cyprus,4,4,UEFA Euro qualification,Guimar√£es,Portugal,False
+2010-09-03 00:00:00,Qatar,Bahrain,1,1,Friendly,Doha,Qatar,False
+2010-09-03 00:00:00,Romania,Albania,1,1,UEFA Euro qualification,Piatra Neam≈£,Romania,False
+2010-09-03 00:00:00,San Marino,Netherlands,0,5,UEFA Euro qualification,Serravalle,San Marino,False
+2010-09-03 00:00:00,Slovakia,North Macedonia,1,0,UEFA Euro qualification,Bratislava,Slovakia,False
+2010-09-03 00:00:00,Slovenia,Northern Ireland,0,1,UEFA Euro qualification,Maribor,Slovenia,False
+2010-09-03 00:00:00,Sweden,Hungary,2,0,UEFA Euro qualification,Solna,Sweden,False
+2010-09-03 00:00:00,Switzerland,Australia,0,0,Friendly,St. Gallen,Switzerland,False
+2010-09-03 00:00:00,Venezuela,Colombia,0,2,Friendly,Puerto la Cruz,Venezuela,False
+2010-09-04 00:00:00,Botswana,Togo,2,1,African Cup of Nations qualification,Gaborone,Botswana,False
+2010-09-04 00:00:00,Canada,Peru,0,2,Friendly,Toronto,Canada,False
+2010-09-04 00:00:00,Cape Verde,Mali,1,0,African Cup of Nations qualification,Praia,Cape Verde,False
+2010-09-04 00:00:00,El Salvador,Honduras,2,2,Friendly,Los Angeles,United States,True
+2010-09-04 00:00:00,Guatemala,Nicaragua,5,0,Friendly,Fort Lauderdale,United States,True
+2010-09-04 00:00:00,Guinea-Bissau,Kenya,1,0,African Cup of Nations qualification,Bissau,Guinea-Bissau,False
+2010-09-04 00:00:00,Ivory Coast,Rwanda,3,0,African Cup of Nations qualification,Abidjan,Ivory Coast,False
+2010-09-04 00:00:00,Japan,Paraguay,1,0,Friendly,Yokohama,Japan,False
+2010-09-04 00:00:00,Mauritius,Cameroon,1,3,African Cup of Nations qualification,Mapou,Mauritius,False
+2010-09-04 00:00:00,Mexico,Ecuador,1,2,Friendly,Zapopan,Mexico,False
+2010-09-04 00:00:00,Morocco,Central African Republic,0,0,African Cup of Nations qualification,Rabat,Morocco,False
+2010-09-04 00:00:00,Poland,Ukraine,1,1,Friendly,≈Å√≥d≈∫,Poland,False
+2010-09-04 00:00:00,South Africa,Niger,2,0,African Cup of Nations qualification,Nelspruit,South Africa,False
+2010-09-04 00:00:00,Sudan,Congo,2,0,African Cup of Nations qualification,Khartoum,Sudan,False
+2010-09-04 00:00:00,Thailand,India,1,0,Friendly,Bangkok,Thailand,False
+2010-09-04 00:00:00,Tunisia,Malawi,2,2,African Cup of Nations qualification,Rad√®s,Tunisia,False
+2010-09-04 00:00:00,Uganda,Angola,3,0,African Cup of Nations qualification,Kampala,Uganda,False
+2010-09-05 00:00:00,Benin,Burundi,1,1,African Cup of Nations qualification,Cotonou,Benin,False
+2010-09-05 00:00:00,DR Congo,Senegal,2,4,African Cup of Nations qualification,Lubumbashi,DR Congo,False
+2010-09-05 00:00:00,Egypt,Sierra Leone,1,1,African Cup of Nations qualification,Cairo,Egypt,False
+2010-09-05 00:00:00,Ethiopia,Guinea,1,4,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+2010-09-05 00:00:00,Jamaica,Costa Rica,1,0,Friendly,Kingston,Jamaica,False
+2010-09-05 00:00:00,Liberia,Zimbabwe,1,1,African Cup of Nations qualification,Paynesville,Liberia,False
+2010-09-05 00:00:00,Mozambique,Libya,0,0,African Cup of Nations qualification,Maputo,Mozambique,False
+2010-09-05 00:00:00,Nigeria,Madagascar,2,0,African Cup of Nations qualification,Calabar,Nigeria,False
+2010-09-05 00:00:00,Eswatini,Ghana,0,3,African Cup of Nations qualification,Lobamba,Eswatini,False
+2010-09-06 00:00:00,Burkina Faso,Gabon,1,1,Friendly,Cannes,France,True
+2010-09-07 00:00:00,Albania,Luxembourg,1,0,UEFA Euro qualification,Tirana,Albania,False
+2010-09-07 00:00:00,Argentina,Spain,4,1,Friendly,Buenos Aires,Argentina,False
+2010-09-07 00:00:00,Austria,Kazakhstan,2,0,UEFA Euro qualification,Salzburg,Austria,False
+2010-09-07 00:00:00,Bahrain,Togo,3,0,Friendly,Riffa,Bahrain,False
+2010-09-07 00:00:00,Belarus,Romania,0,0,UEFA Euro qualification,Minsk,Belarus,False
+2010-09-07 00:00:00,Bosnia and Herzegovina,France,0,2,UEFA Euro qualification,Sarajevo,Bosnia and Herzegovina,False
+2010-09-07 00:00:00,Bulgaria,Montenegro,0,1,UEFA Euro qualification,Sofia,Bulgaria,False
+2010-09-07 00:00:00,Canada,Honduras,2,1,Friendly,Montr√©al,Canada,False
+2010-09-07 00:00:00,China PR,Paraguay,1,1,Friendly,Nanjing,China PR,False
+2010-09-07 00:00:00,Croatia,Greece,0,0,UEFA Euro qualification,Zagreb,Croatia,False
+2010-09-07 00:00:00,Czech Republic,Lithuania,0,1,UEFA Euro qualification,Olomouc,Czech Republic,False
+2010-09-07 00:00:00,Denmark,Iceland,1,0,UEFA Euro qualification,Copenhagen,Denmark,False
+2010-09-07 00:00:00,El Salvador,Guatemala,0,2,Friendly,Washington,United States,True
+2010-09-07 00:00:00,Estonia,Uzbekistan,3,3,Friendly,Tallinn,Estonia,False
+2010-09-07 00:00:00,Georgia,Israel,0,0,UEFA Euro qualification,Tbilisi,Georgia,False
+2010-09-07 00:00:00,Germany,Azerbaijan,6,1,UEFA Euro qualification,Cologne,Germany,False
+2010-09-07 00:00:00,Hungary,Moldova,2,1,UEFA Euro qualification,Budapest,Hungary,False
+2010-09-07 00:00:00,Republic of Ireland,Andorra,3,1,UEFA Euro qualification,Dublin,Republic of Ireland,False
+2010-09-07 00:00:00,Italy,Faroe Islands,5,0,UEFA Euro qualification,Florence,Italy,False
+2010-09-07 00:00:00,Jamaica,Peru,1,2,Friendly,Fort Lauderdale,United States,True
+2010-09-07 00:00:00,Japan,Guatemala,2,1,Friendly,Osaka,Japan,False
+2010-09-07 00:00:00,South Korea,Iran,0,1,Friendly,Seoul,South Korea,False
+2010-09-07 00:00:00,North Macedonia,Armenia,2,2,UEFA Euro qualification,Skopje,North Macedonia,False
+2010-09-07 00:00:00,Malta,Latvia,0,2,UEFA Euro qualification,Attard,Malta,False
+2010-09-07 00:00:00,Mexico,Colombia,1,0,Friendly,Monterrey,Mexico,False
+2010-09-07 00:00:00,Netherlands,Finland,2,1,UEFA Euro qualification,Rotterdam,Netherlands,False
+2010-09-07 00:00:00,Norway,Portugal,1,0,UEFA Euro qualification,Oslo,Norway,False
+2010-09-07 00:00:00,Panama,Trinidad and Tobago,3,0,Friendly,Panama City,Panama,False
+2010-09-07 00:00:00,Poland,Australia,1,2,Friendly,Cracow,Poland,False
+2010-09-07 00:00:00,Qatar,Oman,1,1,Friendly,Doha,Qatar,False
+2010-09-07 00:00:00,Russia,Slovakia,0,1,UEFA Euro qualification,Moscow,Russia,False
+2010-09-07 00:00:00,Scotland,Liechtenstein,2,1,UEFA Euro qualification,Glasgow,Scotland,False
+2010-09-07 00:00:00,Serbia,Slovenia,1,1,UEFA Euro qualification,Belgrade,Serbia,False
+2010-09-07 00:00:00,Sweden,San Marino,6,0,UEFA Euro qualification,Malm√∂,Sweden,False
+2010-09-07 00:00:00,Switzerland,England,1,3,UEFA Euro qualification,Basel,Switzerland,False
+2010-09-07 00:00:00,Turkey,Belgium,3,2,UEFA Euro qualification,Istanbul,Turkey,False
+2010-09-07 00:00:00,Ukraine,Chile,2,1,Friendly,Kyiv,Ukraine,False
+2010-09-07 00:00:00,United Arab Emirates,Kuwait,3,0,Friendly,Abu Dhabi,United Arab Emirates,False
+2010-09-07 00:00:00,Venezuela,Ecuador,1,0,Friendly,Barquisimeto,Venezuela,False
+2010-09-07 00:00:00,Yemen,Syria,2,1,Friendly,Sana'a,Yemen,False
+2010-09-08 00:00:00,India,Thailand,1,2,Friendly,New Delhi,India,False
+2010-09-10 00:00:00,Belize,Trinidad and Tobago,0,0,Friendly,Belmopan,Belize,False
+2010-09-10 00:00:00,Saint Lucia,Saint Vincent and the Grenadines,1,5,Friendly,Vieux Fort,Saint Lucia,False
+2010-09-11 00:00:00,French Guiana,Suriname,1,2,Friendly,Cayenne,French Guiana,False
+2010-09-15 00:00:00,India,Namibia,2,0,Friendly,New Delhi,India,False
+2010-09-16 00:00:00,Jordan,Iraq,4,1,Friendly,Amman,Jordan,False
+2010-09-18 00:00:00,Anguilla,British Virgin Islands,1,2,Friendly,Quartier d'Orl√©ans,Saint Martin,True
+2010-09-18 00:00:00,Yemen,Zambia,0,1,Friendly,Sana'a,Yemen,False
+2010-09-19 00:00:00,Antigua and Barbuda,Trinidad and Tobago,0,1,Friendly,St. John's,Antigua and Barbuda,False
+2010-09-19 00:00:00,Jordan,Bahrain,2,0,Friendly,Zarqa,Jordan,False
+2010-09-19 00:00:00,Saint Martin,British Virgin Islands,3,1,Friendly,Quartier d'Orl√©ans,Saint Martin,False
+2010-09-21 00:00:00,Iraq,Oman,3,2,Friendly,Amman,Jordan,True
+2010-09-21 00:00:00,Saint Lucia,Trinidad and Tobago,0,3,Friendly,St. John's,Antigua and Barbuda,True
+2010-09-22 00:00:00,French Guiana,Mayotte,2,2,African Nations Championship,Saint-Gratien,France,True
+2010-09-22 00:00:00,R√©union,Saint Pierre and Miquelon,11,0,African Nations Championship,Saint-Gratien,France,True
+2010-09-23 00:00:00,Antigua and Barbuda,Saint Lucia,5,0,Friendly,St. John's,Antigua and Barbuda,False
+2010-09-23 00:00:00,Guadeloupe,New Caledonia,1,1,African Nations Championship,Bry-sur-Marne,France,True
+2010-09-23 00:00:00,Martinique,Tahiti,4,1,African Nations Championship,Bry-sur-Marne,France,True
+2010-09-24 00:00:00,Iran,Bahrain,3,0,WAFF Championship,Amman,Jordan,True
+2010-09-24 00:00:00,Jordan,Syria,1,1,WAFF Championship,Amman,Jordan,False
+2010-09-24 00:00:00,Vietnam,North Korea,0,0,Friendly,Hanoi,Vietnam,False
+2010-09-25 00:00:00,French Guiana,Saint Pierre and Miquelon,7,0,African Nations Championship,Gennevilliers,France,True
+2010-09-25 00:00:00,Iraq,Yemen,2,1,WAFF Championship,Amman,Jordan,True
+2010-09-25 00:00:00,Mayotte,R√©union,1,2,African Nations Championship,Gennevilliers,France,True
+2010-09-26 00:00:00,Bahrain,Oman,2,0,WAFF Championship,Amman,Jordan,True
+2010-09-26 00:00:00,Barbados,Dominica,1,3,Friendly,Bridgetown,Barbados,False
+2010-09-26 00:00:00,Guadeloupe,Tahiti,1,1,African Nations Championship,Viry-Ch√¢tillon,France,True
+2010-09-26 00:00:00,Guyana,Trinidad and Tobago,1,1,Friendly,Providence,Guyana,False
+2010-09-26 00:00:00,New Caledonia,Martinique,0,4,African Nations Championship,Viry-Ch√¢tillon,France,True
+2010-09-26 00:00:00,Syria,Kuwait,1,2,WAFF Championship,Amman,Jordan,True
+2010-09-27 00:00:00,Yemen,Palestine,3,1,WAFF Championship,Amman,Jordan,True
+2010-09-28 00:00:00,French Guiana,R√©union,0,1,African Nations Championship,Villemomble,France,True
+2010-09-28 00:00:00,Jordan,Kuwait,2,2,WAFF Championship,Amman,Jordan,False
+2010-09-28 00:00:00,Mayotte,Saint Pierre and Miquelon,10,0,African Nations Championship,Franconville,France,True
+2010-09-28 00:00:00,Oman,Iran,2,2,WAFF Championship,Amman,Jordan,True
+2010-09-29 00:00:00,Guadeloupe,Martinique,2,0,African Nations Championship,Levallois-Perret,France,True
+2010-09-29 00:00:00,New Caledonia,Tahiti,1,1,African Nations Championship,Longjumeau,France,True
+2010-09-29 00:00:00,Palestine,Iraq,0,3,WAFF Championship,Amman,Jordan,True
+2010-10-01 00:00:00,Iran,Iraq,2,1,WAFF Championship,Amman,Jordan,True
+2010-10-01 00:00:00,Kuwait,Yemen,1,1,WAFF Championship,Amman,Jordan,True
+2010-10-01 00:00:00,Mayotte,Guadeloupe,0,4,African Nations Championship,Saint-Ouen,France,True
+2010-10-01 00:00:00,Saint Martin,Cayman Islands,1,1,CFU Caribbean Cup qualification,Bayam√≥n,Puerto Rico,True
+2010-10-02 00:00:00,Puerto Rico,Anguilla,3,1,CFU Caribbean Cup qualification,Bayam√≥n,Puerto Rico,False
+2010-10-02 00:00:00,R√©union,Martinique,0,0,African Nations Championship,Cr√©teil,France,True
+2010-10-03 00:00:00,Iran,Kuwait,1,2,WAFF Championship,Amman,Jordan,True
+2010-10-04 00:00:00,Cayman Islands,Anguilla,4,1,CFU Caribbean Cup qualification,Bayam√≥n,Puerto Rico,True
+2010-10-04 00:00:00,India,Hong Kong,0,1,Friendly,Pune,India,False
+2010-10-04 00:00:00,Puerto Rico,Saint Martin,2,0,CFU Caribbean Cup qualification,Bayam√≥n,Puerto Rico,False
+2010-10-06 00:00:00,Anguilla,Saint Martin,2,1,CFU Caribbean Cup qualification,Bayam√≥n,Puerto Rico,True
+2010-10-06 00:00:00,Barbados,Saint Kitts and Nevis,1,1,CFU Caribbean Cup qualification,Kingstown,Saint Vincent and the Grenadines,True
+2010-10-06 00:00:00,Puerto Rico,Cayman Islands,2,0,CFU Caribbean Cup qualification,Bayam√≥n,Puerto Rico,False
+2010-10-07 00:00:00,Iran,Brazil,0,3,Friendly,Abu Dhabi,United Arab Emirates,True
+2010-10-08 00:00:00,Albania,Bosnia and Herzegovina,1,1,UEFA Euro qualification,Tirana,Albania,False
+2010-10-08 00:00:00,Andorra,North Macedonia,0,2,UEFA Euro qualification,Sant Juli√† de L√≤ria,Andorra,False
+2010-10-08 00:00:00,Armenia,Slovakia,3,1,UEFA Euro qualification,Yerevan,Armenia,False
+2010-10-08 00:00:00,Austria,Azerbaijan,3,0,UEFA Euro qualification,Vienna,Austria,False
+2010-10-08 00:00:00,China PR,Syria,2,1,Friendly,Kunming,China PR,False
+2010-10-08 00:00:00,Colombia,Ecuador,1,0,Friendly,Harrison,United States,True
+2010-10-08 00:00:00,Cyprus,Norway,1,2,UEFA Euro qualification,Larnaca,Cyprus,False
+2010-10-08 00:00:00,Czech Republic,Scotland,1,0,UEFA Euro qualification,Prague,Czech Republic,False
+2010-10-08 00:00:00,Georgia,Malta,1,0,UEFA Euro qualification,Tbilisi,Georgia,False
+2010-10-08 00:00:00,Germany,Turkey,3,0,UEFA Euro qualification,Berlin,Germany,False
+2010-10-08 00:00:00,Greece,Latvia,1,0,UEFA Euro qualification,Piraeus,Greece,False
+2010-10-08 00:00:00,Hungary,San Marino,8,0,UEFA Euro qualification,Budapest,Hungary,False
+2010-10-08 00:00:00,India,Vietnam,3,1,Friendly,Pune,India,False
+2010-10-08 00:00:00,Indonesia,Uruguay,1,7,Friendly,Jakarta,Indonesia,False
+2010-10-08 00:00:00,Republic of Ireland,Russia,2,3,UEFA Euro qualification,Dublin,Republic of Ireland,False
+2010-10-08 00:00:00,Japan,Argentina,1,0,Friendly,Saitama,Japan,False
+2010-10-08 00:00:00,Kazakhstan,Belgium,0,2,UEFA Euro qualification,Astana,Kazakhstan,False
+2010-10-08 00:00:00,Kuwait,Bahrain,1,3,Friendly,Kuwait City,Kuwait,False
+2010-10-08 00:00:00,Luxembourg,Belarus,0,0,UEFA Euro qualification,Luxembourg,Luxembourg,False
+2010-10-08 00:00:00,Moldova,Netherlands,0,1,UEFA Euro qualification,Chi»ôinƒÉu,Moldova,False
+2010-10-08 00:00:00,Montenegro,Switzerland,1,0,UEFA Euro qualification,Podgorica,Montenegro,False
+2010-10-08 00:00:00,Montserrat,Barbados,0,5,CFU Caribbean Cup qualification,Kingstown,Saint Vincent and the Grenadines,True
+2010-10-08 00:00:00,Northern Ireland,Italy,0,0,UEFA Euro qualification,Belfast,Northern Ireland,False
+2010-10-08 00:00:00,Oman,Gabon,1,0,Friendly,Muscat,Oman,False
+2010-10-08 00:00:00,Panama,El Salvador,1,0,Friendly,Panama City,Panama,False
+2010-10-08 00:00:00,Peru,Costa Rica,2,0,Friendly,Lima,Peru,False
+2010-10-08 00:00:00,Portugal,Denmark,3,1,UEFA Euro qualification,Porto,Portugal,False
+2010-10-08 00:00:00,Serbia,Estonia,1,3,UEFA Euro qualification,Belgrade,Serbia,False
+2010-10-08 00:00:00,Slovenia,Faroe Islands,5,1,UEFA Euro qualification,Ljubljana,Slovenia,False
+2010-10-08 00:00:00,Spain,Lithuania,3,1,UEFA Euro qualification,Salamanca,Spain,False
+2010-10-08 00:00:00,Saint Vincent and the Grenadines,Saint Kitts and Nevis,1,1,CFU Caribbean Cup qualification,Kingstown,Saint Vincent and the Grenadines,False
+2010-10-08 00:00:00,Ukraine,Canada,2,2,Friendly,Kyiv,Ukraine,False
+2010-10-08 00:00:00,Wales,Bulgaria,0,1,UEFA Euro qualification,Cardiff,Wales,False
+2010-10-09 00:00:00,Angola,Guinea-Bissau,1,0,African Cup of Nations qualification,Luanda,Angola,False
+2010-10-09 00:00:00,Australia,Paraguay,1,0,Friendly,Sydney,Australia,False
+2010-10-09 00:00:00,Burkina Faso,Gambia,3,1,African Cup of Nations qualification,Ouagadougou,Burkina Faso,False
+2010-10-09 00:00:00,Burundi,Ivory Coast,0,1,African Cup of Nations qualification,Bujumbura,Burundi,False
+2010-10-09 00:00:00,Cameroon,DR Congo,1,1,African Cup of Nations qualification,Garoua,Cameroon,False
+2010-10-09 00:00:00,Comoros,Mozambique,0,1,African Cup of Nations qualification,Mitsamiouli,Comoros,False
+2010-10-09 00:00:00,France,Romania,2,0,UEFA Euro qualification,Saint-Denis,France,False
+2010-10-09 00:00:00,Guatemala,Belize,4,2,Friendly,San Jos√©,Guatemala,False
+2010-10-09 00:00:00,Israel,Croatia,1,2,UEFA Euro qualification,Ramat-Gan,Israel,False
+2010-10-09 00:00:00,Kenya,Uganda,0,0,African Cup of Nations qualification,Nairobi,Kenya,False
+2010-10-09 00:00:00,Malawi,Chad,6,2,African Cup of Nations qualification,Blantyre,Malawi,False
+2010-10-09 00:00:00,Mali,Liberia,2,1,African Cup of Nations qualification,Bamako,Mali,False
+2010-10-09 00:00:00,New Zealand,Honduras,1,1,Friendly,North Shore,New Zealand,False
+2010-10-09 00:00:00,Rwanda,Benin,0,3,African Cup of Nations qualification,Kigali,Rwanda,False
+2010-10-09 00:00:00,Saudi Arabia,Uzbekistan,4,0,Friendly,Jeddah,Saudi Arabia,False
+2010-10-09 00:00:00,Senegal,Mauritius,7,0,African Cup of Nations qualification,Dakar,Senegal,False
+2010-10-09 00:00:00,Tanzania,Morocco,0,1,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+2010-10-09 00:00:00,United Arab Emirates,Chile,0,2,Friendly,Abu Dhabi,United Arab Emirates,False
+2010-10-09 00:00:00,United States,Poland,2,2,Friendly,Chicago,United States,False
+2010-10-10 00:00:00,Central African Republic,Algeria,2,0,African Cup of Nations qualification,Bangui,Central African Republic,False
+2010-10-10 00:00:00,Congo,Eswatini,3,1,African Cup of Nations qualification,Brazzaville,Congo,False
+2010-10-10 00:00:00,Ghana,Sudan,0,0,African Cup of Nations qualification,Kumasi,Ghana,False
+2010-10-10 00:00:00,Guinea,Nigeria,1,0,African Cup of Nations qualification,Conakry,Guinea,False
+2010-10-10 00:00:00,Jamaica,Trinidad and Tobago,1,0,Friendly,Kingston,Jamaica,False
+2010-10-10 00:00:00,Libya,Zambia,1,0,African Cup of Nations qualification,Tripoli,Libya,False
+2010-10-10 00:00:00,Madagascar,Ethiopia,0,1,African Cup of Nations qualification,Antananarivo,Madagascar,False
+2010-10-10 00:00:00,Niger,Egypt,1,0,African Cup of Nations qualification,Niamey,Niger,False
+2010-10-10 00:00:00,Sierra Leone,South Africa,0,0,African Cup of Nations qualification,Freetown,Sierra Leone,False
+2010-10-10 00:00:00,Saint Kitts and Nevis,Montserrat,4,0,CFU Caribbean Cup qualification,Kingstown,Saint Vincent and the Grenadines,True
+2010-10-10 00:00:00,Togo,Tunisia,1,2,African Cup of Nations qualification,Lom√©,Togo,False
+2010-10-10 00:00:00,Zimbabwe,Cape Verde,0,0,African Cup of Nations qualification,Harare,Zimbabwe,False
+2010-10-11 00:00:00,Brazil,Ukraine,2,0,Friendly,Derby,England,True
+2010-10-12 00:00:00,Armenia,Andorra,4,0,UEFA Euro qualification,Yerevan,Armenia,False
+2010-10-12 00:00:00,Azerbaijan,Turkey,1,0,UEFA Euro qualification,Baku,Azerbaijan,False
+2010-10-12 00:00:00,Bahrain,Uzbekistan,2,4,Friendly,Riffa,Bahrain,False
+2010-10-12 00:00:00,Belarus,Albania,2,0,UEFA Euro qualification,Minsk,Belarus,False
+2010-10-12 00:00:00,Belgium,Austria,4,4,UEFA Euro qualification,Brussels,Belgium,False
+2010-10-12 00:00:00,Bulgaria,Saudi Arabia,2,0,Friendly,Istanbul,Turkey,True
+2010-10-12 00:00:00,China PR,Uruguay,0,4,Friendly,Wuhan,China PR,False
+2010-10-12 00:00:00,Costa Rica,El Salvador,2,1,Friendly,Ciudad Quesada,Costa Rica,False
+2010-10-12 00:00:00,Croatia,Norway,2,1,Friendly,Zagreb,Croatia,False
+2010-10-12 00:00:00,Denmark,Cyprus,2,0,UEFA Euro qualification,Copenhagen,Denmark,False
+2010-10-12 00:00:00,Ecuador,Poland,2,2,Friendly,Montr√©al,Canada,True
+2010-10-12 00:00:00,England,Montenegro,0,0,UEFA Euro qualification,London,England,False
+2010-10-12 00:00:00,Equatorial Guinea,Botswana,2,1,Friendly,Malabo,Equatorial Guinea,False
+2010-10-12 00:00:00,Estonia,Slovenia,0,1,UEFA Euro qualification,Tallinn,Estonia,False
+2010-10-12 00:00:00,Faroe Islands,Northern Ireland,1,1,UEFA Euro qualification,Toftir,Faroe Islands,False
+2010-10-12 00:00:00,Finland,Hungary,1,2,UEFA Euro qualification,Helsinki,Finland,False
+2010-10-12 00:00:00,France,Luxembourg,2,0,UEFA Euro qualification,Metz,France,False
+2010-10-12 00:00:00,Greece,Israel,2,1,UEFA Euro qualification,Piraeus,Greece,False
+2010-10-12 00:00:00,Guatemala,Honduras,0,2,Friendly,Los Angeles,United States,True
+2010-10-12 00:00:00,Iceland,Portugal,1,3,UEFA Euro qualification,Reykjav√≠k,Iceland,False
+2010-10-12 00:00:00,Indonesia,Maldives,3,0,Friendly,Jakarta,Indonesia,False
+2010-10-12 00:00:00,Italy,Serbia,3,0,UEFA Euro qualification,Genoa,Italy,False
+2010-10-12 00:00:00,Kazakhstan,Germany,0,3,UEFA Euro qualification,Astana,Kazakhstan,False
+2010-10-12 00:00:00,South Korea,Japan,0,0,Friendly,Seoul,South Korea,False
+2010-10-12 00:00:00,Kuwait,Vietnam,3,1,Friendly,Kuwait City,Kuwait,False
+2010-10-12 00:00:00,Latvia,Georgia,1,1,UEFA Euro qualification,Riga,Latvia,False
+2010-10-12 00:00:00,Liechtenstein,Czech Republic,0,2,UEFA Euro qualification,Vaduz,Liechtenstein,False
+2010-10-12 00:00:00,North Macedonia,Russia,0,1,UEFA Euro qualification,Skopje,North Macedonia,False
+2010-10-12 00:00:00,Mexico,Venezuela,2,2,Friendly,Ciudad Ju√°rez,Mexico,False
+2010-10-12 00:00:00,Netherlands,Sweden,4,1,UEFA Euro qualification,Amsterdam,Netherlands,False
+2010-10-12 00:00:00,New Zealand,Paraguay,0,2,Friendly,Wellington,New Zealand,False
+2010-10-12 00:00:00,Oman,Chile,0,1,Friendly,Muscat,Oman,False
+2010-10-12 00:00:00,Panama,Peru,1,0,Friendly,Panama City,Panama,False
+2010-10-12 00:00:00,Philippines,Macau,5,0,Dragon Cup,Kaohsiung,Taiwan,True
+2010-10-12 00:00:00,Qatar,Iraq,1,2,Friendly,Doha,Qatar,False
+2010-10-12 00:00:00,San Marino,Moldova,0,2,UEFA Euro qualification,Serravalle,San Marino,False
+2010-10-12 00:00:00,Saudi Arabia,Gabon,1,0,Friendly,Istanbul,Turkey,True
+2010-10-12 00:00:00,Scotland,Spain,2,3,UEFA Euro qualification,Glasgow,Scotland,False
+2010-10-12 00:00:00,Slovakia,Republic of Ireland,1,1,UEFA Euro qualification,≈Ωilina,Slovakia,False
+2010-10-12 00:00:00,Switzerland,Wales,4,1,UEFA Euro qualification,Basel,Switzerland,False
+2010-10-12 00:00:00,United Arab Emirates,Angola,0,2,Friendly,Abu Dhabi,United Arab Emirates,False
+2010-10-12 00:00:00,United States,Colombia,0,0,Friendly,Chester,United States,False
+2010-10-13 00:00:00,Guyana,Saint Lucia,1,0,CFU Caribbean Cup qualification,Paramaribo,Suriname,True
+2010-10-13 00:00:00,India,Yemen,3,6,Friendly,Pune,India,False
+2010-10-13 00:00:00,Suriname,Cura√ßao,2,1,CFU Caribbean Cup qualification,Paramaribo,Suriname,False
+2010-10-14 00:00:00,Dominican Republic,British Virgin Islands,17,0,CFU Caribbean Cup qualification,San Crist√≥bal,Dominican Republic,False
+2010-10-15 00:00:00,British Virgin Islands,Dominica,0,10,CFU Caribbean Cup qualification,San Crist√≥bal,Dominican Republic,True
+2010-10-15 00:00:00,Cura√ßao,Guyana,2,3,CFU Caribbean Cup qualification,Paramaribo,Suriname,True
+2010-10-15 00:00:00,Suriname,Saint Lucia,2,1,CFU Caribbean Cup qualification,Paramaribo,Suriname,False
+2010-10-17 00:00:00,Dominican Republic,Dominica,0,1,CFU Caribbean Cup qualification,San Crist√≥bal,Dominican Republic,False
+2010-10-17 00:00:00,Saint Lucia,Cura√ßao,2,2,CFU Caribbean Cup qualification,Paramaribo,Suriname,True
+2010-10-17 00:00:00,Suriname,Guyana,0,2,CFU Caribbean Cup qualification,Paramaribo,Suriname,False
+2010-10-22 00:00:00,Timor-Leste,Philippines,0,5,AFF Championship,Vientiane,Laos,True
+2010-10-22 00:00:00,Grenada,Puerto Rico,3,1,CFU Caribbean Cup qualification,St. George's,Grenada,False
+2010-10-22 00:00:00,Laos,Cambodia,0,0,AFF Championship,Vientiane,Laos,False
+2010-10-22 00:00:00,Saint Kitts and Nevis,Guadeloupe,1,2,CFU Caribbean Cup qualification,St. George's,Grenada,True
+2010-10-24 00:00:00,Cambodia,Timor-Leste,4,2,AFF Championship,Vientiane,Laos,True
+2010-10-24 00:00:00,Grenada,Saint Kitts and Nevis,2,0,CFU Caribbean Cup qualification,St. George's,Grenada,False
+2010-10-24 00:00:00,Guadeloupe,Puerto Rico,3,2,CFU Caribbean Cup qualification,St. George's,Grenada,True
+2010-10-24 00:00:00,Laos,Philippines,2,2,AFF Championship,Vientiane,Laos,False
+2010-10-26 00:00:00,Grenada,Guadeloupe,0,3,CFU Caribbean Cup qualification,St. George's,Grenada,False
+2010-10-26 00:00:00,Laos,Timor-Leste,6,1,AFF Championship,Vientiane,Laos,False
+2010-10-26 00:00:00,Panama,Cuba,0,3,Friendly,Panama City,Panama,False
+2010-10-26 00:00:00,Philippines,Cambodia,0,0,AFF Championship,Vientiane,Laos,True
+2010-10-26 00:00:00,Puerto Rico,Saint Kitts and Nevis,0,1,CFU Caribbean Cup qualification,St. George's,Grenada,True
+2010-10-27 00:00:00,Botswana,Eswatini,2,0,Friendly,Lobatse,Botswana,False
+2010-10-29 00:00:00,Cura√ßao,Aruba,3,0,ABCS Tournament,Willemstad,Cura√ßao,False
+2010-10-29 00:00:00,Suriname,Bonaire,4,2,ABCS Tournament,Willemstad,Cura√ßao,True
+2010-10-31 00:00:00,Aruba,Bonaire,3,3,ABCS Tournament,Willemstad,Cura√ßao,True
+2010-10-31 00:00:00,Cura√ßao,Suriname,2,2,ABCS Tournament,Willemstad,Cura√ßao,False
+2010-11-02 00:00:00,Haiti,Guyana,0,0,CFU Caribbean Cup qualification,San Fernando,Trinidad and Tobago,True
+2010-11-02 00:00:00,Singapore,North Korea,1,2,VFF Cup,Hanoi,Vietnam,True
+2010-11-04 00:00:00,Trinidad and Tobago,Guyana,2,1,CFU Caribbean Cup qualification,San Fernando,Trinidad and Tobago,False
+2010-11-04 00:00:00,Vietnam,Singapore,1,1,VFF Cup,Hanoi,Vietnam,False
+2010-11-06 00:00:00,Trinidad and Tobago,Haiti,4,0,CFU Caribbean Cup qualification,San Fernando,Trinidad and Tobago,False
+2010-11-06 00:00:00,Vietnam,North Korea,0,2,VFF Cup,Hanoi,Vietnam,False
+2010-11-07 00:00:00,Yemen,Uganda,2,2,Friendly,Sana'a,Yemen,False
+2010-11-10 00:00:00,Antigua and Barbuda,Suriname,2,1,CFU Caribbean Cup qualification,St. John's,Antigua and Barbuda,False
+2010-11-10 00:00:00,Bahrain,Uganda,0,0,Friendly,Riffa,Bahrain,False
+2010-11-10 00:00:00,Cuba,Dominica,4,2,CFU Caribbean Cup qualification,St. John's,Antigua and Barbuda,True
+2010-11-10 00:00:00,Yemen,North Korea,1,1,Friendly,Sana'a,Yemen,False
+2010-11-11 00:00:00,Iraq,India,2,0,Friendly,Sharjah,United Arab Emirates,True
+2010-11-12 00:00:00,Antigua and Barbuda,Dominica,0,0,CFU Caribbean Cup qualification,St. John's,Antigua and Barbuda,False
+2010-11-12 00:00:00,Suriname,Cuba,3,3,CFU Caribbean Cup qualification,St. John's,Antigua and Barbuda,True
+2010-11-14 00:00:00,Antigua and Barbuda,Cuba,0,0,CFU Caribbean Cup qualification,St. John's,Antigua and Barbuda,False
+2010-11-14 00:00:00,Bahrain,Syria,0,2,Friendly,Riffa,Bahrain,False
+2010-11-14 00:00:00,Dominica,Suriname,0,5,CFU Caribbean Cup qualification,St. John's,Antigua and Barbuda,True
+2010-11-14 00:00:00,India,Kuwait,1,9,Friendly,Abu Dhabi,United Arab Emirates,True
+2010-11-16 00:00:00,Cape Verde,Guinea-Bissau,2,1,Friendly,Lisbon,Portugal,True
+2010-11-16 00:00:00,Jordan,Cyprus,0,0,Friendly,Amman,Jordan,False
+2010-11-16 00:00:00,Saudi Arabia,Uganda,0,0,Friendly,Dubai,United Arab Emirates,True
+2010-11-16 00:00:00,Scotland,Faroe Islands,3,0,Friendly,Aberdeen,Scotland,False
+2010-11-17 00:00:00,Albania,North Macedonia,0,0,Friendly,Kor√ß√´,Albania,False
+2010-11-17 00:00:00,Argentina,Brazil,1,0,Friendly,Doha,Qatar,True
+2010-11-17 00:00:00,Austria,Greece,1,2,Friendly,Vienna,Austria,False
+2010-11-17 00:00:00,Botswana,Tunisia,1,0,African Cup of Nations qualification,Gaborone,Botswana,False
+2010-11-17 00:00:00,Bulgaria,Serbia,0,1,Friendly,Sofia,Bulgaria,False
+2010-11-17 00:00:00,Burkina Faso,Guinea,2,1,Friendly,Mantes-la-Ville,France,True
+2010-11-17 00:00:00,Chile,Uruguay,2,0,Friendly,Santiago,Chile,False
+2010-11-17 00:00:00,China PR,Latvia,1,0,Friendly,Kunming,China PR,False
+2010-11-17 00:00:00,Colombia,Peru,1,1,Friendly,Bogot√°,Colombia,False
+2010-11-17 00:00:00,Croatia,Malta,3,0,UEFA Euro qualification,Zagreb,Croatia,False
+2010-11-17 00:00:00,Denmark,Czech Republic,0,0,Friendly,Aarhus,Denmark,False
+2010-11-17 00:00:00,Ecuador,Venezuela,4,1,Friendly,Quito,Ecuador,False
+2010-11-17 00:00:00,Egypt,Australia,3,0,Friendly,Cairo,Egypt,False
+2010-11-17 00:00:00,England,France,1,2,Friendly,London,England,False
+2010-11-17 00:00:00,Estonia,Liechtenstein,1,1,Friendly,Tallinn,Estonia,False
+2010-11-17 00:00:00,Finland,San Marino,8,0,UEFA Euro qualification,Helsinki,Finland,False
+2010-11-17 00:00:00,Gabon,Senegal,1,2,Friendly,Saint-Gratien,France,True
+2010-11-17 00:00:00,Guatemala,Guyana,3,0,Friendly,Kennesaw,United States,True
+2010-11-17 00:00:00,Hong Kong,Paraguay,0,7,Friendly,So Kon Po,Hong Kong,False
+2010-11-17 00:00:00,Hungary,Lithuania,2,0,Friendly,Sz√©kesfeh√©rv√°r,Hungary,False
+2010-11-17 00:00:00,Iraq,Kuwait,1,1,Friendly,Abu Dhabi,United Arab Emirates,True
+2010-11-17 00:00:00,Republic of Ireland,Norway,1,2,Friendly,Dublin,Republic of Ireland,False
+2010-11-17 00:00:00,Israel,Iceland,3,2,Friendly,Jaffa,Israel,False
+2010-11-17 00:00:00,Italy,Romania,1,1,Friendly,Klagenfurt,Austria,True
+2010-11-17 00:00:00,Jamaica,Costa Rica,0,0,Friendly,Fort Lauderdale,United States,True
+2010-11-17 00:00:00,Libya,Niger,1,1,Friendly,Tripoli,Libya,False
+2010-11-17 00:00:00,Luxembourg,Algeria,0,0,Friendly,Luxembourg,Luxembourg,False
+2010-11-17 00:00:00,Malawi,Rwanda,2,1,Friendly,Blantyre,Malawi,False
+2010-11-17 00:00:00,Mali,DR Congo,3,1,Friendly,√âvreux,France,True
+2010-11-17 00:00:00,Montenegro,Azerbaijan,2,0,Friendly,Podgorica,Montenegro,False
+2010-11-17 00:00:00,Mozambique,Zimbabwe,1,3,Friendly,Maputo,Mozambique,False
+2010-11-17 00:00:00,Netherlands,Turkey,1,0,Friendly,Amsterdam,Netherlands,False
+2010-11-17 00:00:00,Northern Ireland,Morocco,1,1,Friendly,Belfast,Northern Ireland,False
+2010-11-17 00:00:00,Oman,Belarus,0,4,Friendly,Muscat,Oman,False
+2010-11-17 00:00:00,Panama,Honduras,2,0,Friendly,Panama City,Panama,False
+2010-11-17 00:00:00,Poland,Ivory Coast,3,1,Friendly,Pozna≈Ñ,Poland,False
+2010-11-17 00:00:00,Portugal,Spain,4,0,Friendly,Lisbon,Portugal,False
+2010-11-17 00:00:00,Russia,Belgium,0,2,Friendly,Voronezh,Russia,False
+2010-11-17 00:00:00,Saudi Arabia,Ghana,0,0,Friendly,Dubai,United Arab Emirates,True
+2010-11-17 00:00:00,Slovakia,Bosnia and Herzegovina,2,3,Friendly,Bratislava,Slovakia,False
+2010-11-17 00:00:00,Slovenia,Georgia,1,2,Friendly,Koper,Slovenia,False
+2010-11-17 00:00:00,South Africa,United States,0,1,Friendly,Cape Town,South Africa,False
+2010-11-17 00:00:00,Sweden,Germany,0,0,Friendly,Gothenburg,Sweden,False
+2010-11-17 00:00:00,Switzerland,Ukraine,2,2,Friendly,Geneva,Switzerland,False
+2010-11-17 00:00:00,Tajikistan,Afghanistan,1,0,Friendly,Dushanbe,Tajikistan,False
+2010-11-17 00:00:00,Togo,Chad,0,0,African Cup of Nations qualification,Lom√©,Togo,False
+2010-11-18 00:00:00,Qatar,Haiti,0,1,Friendly,Doha,Qatar,False
+2010-11-18 00:00:00,United Arab Emirates,India,5,0,Friendly,Dubai,United Arab Emirates,False
+2010-11-21 00:00:00,Indonesia,Timor-Leste,6,0,Friendly,Palembang,Indonesia,False
+2010-11-22 00:00:00,Kuwait,Qatar,1,0,Gulf Cup,Aden,Yemen,True
+2010-11-22 00:00:00,Yemen,Saudi Arabia,0,4,Gulf Cup,Aden,Yemen,False
+2010-11-23 00:00:00,Iraq,United Arab Emirates,0,0,Gulf Cup,Aden,Yemen,True
+2010-11-23 00:00:00,Oman,Bahrain,1,1,Gulf Cup,Aden,Yemen,True
+2010-11-23 00:00:00,Tanzania,Kenya,1,0,Friendly,Dar es Salaam,Tanzania,False
+2010-11-24 00:00:00,Indonesia,Taiwan,2,0,Friendly,Palembang,Indonesia,False
+2010-11-25 00:00:00,Saudi Arabia,Kuwait,0,0,Gulf Cup,Zinjibar,Yemen,True
+2010-11-25 00:00:00,Yemen,Qatar,1,2,Gulf Cup,Zinjibar,Yemen,False
+2010-11-26 00:00:00,Bahrain,Iraq,2,3,Gulf Cup,Aden,Yemen,True
+2010-11-26 00:00:00,Martinique,Grenada,1,1,CFU Caribbean Cup,Fort-de-France,Martinique,False
+2010-11-26 00:00:00,Singapore,Laos,4,0,Friendly,Singapore,Singapore,False
+2010-11-26 00:00:00,Trinidad and Tobago,Cuba,0,2,CFU Caribbean Cup,Fort-de-France,Martinique,True
+2010-11-26 00:00:00,United Arab Emirates,Oman,0,0,Gulf Cup,Aden,Yemen,True
+2010-11-27 00:00:00,Guyana,Guadeloupe,1,1,CFU Caribbean Cup,Rivi√®re-Pilote,Martinique,True
+2010-11-27 00:00:00,Jamaica,Antigua and Barbuda,3,1,CFU Caribbean Cup,Rivi√®re-Pilote,Martinique,True
+2010-11-27 00:00:00,Tanzania,Zambia,0,1,CECAFA Cup,Dar es Salaam,Tanzania,False
+2010-11-28 00:00:00,Burundi,Somalia,2,0,CECAFA Cup,Dar es Salaam,Tanzania,True
+2010-11-28 00:00:00,Grenada,Trinidad and Tobago,1,0,CFU Caribbean Cup,Fort-de-France,Martinique,True
+2010-11-28 00:00:00,Martinique,Cuba,0,1,CFU Caribbean Cup,Fort-de-France,Martinique,False
+2010-11-28 00:00:00,Qatar,Saudi Arabia,1,1,Gulf Cup,Aden,Yemen,True
+2010-11-28 00:00:00,Yemen,Kuwait,0,3,Gulf Cup,Zinjibar,Yemen,False
+2010-11-28 00:00:00,Zanzibar,Sudan,2,0,CECAFA Cup,Dar es Salaam,Tanzania,True
+2010-11-29 00:00:00,Antigua and Barbuda,Guyana,1,0,CFU Caribbean Cup,Rivi√®re-Pilote,Martinique,True
+2010-11-29 00:00:00,Guadeloupe,Jamaica,0,2,CFU Caribbean Cup,Rivi√®re-Pilote,Martinique,True
+2010-11-29 00:00:00,Malawi,Kenya,3,2,CECAFA Cup,Dar es Salaam,Tanzania,True
+2010-11-29 00:00:00,Oman,Iraq,0,0,Gulf Cup,Zinjibar,Yemen,True
+2010-11-29 00:00:00,Uganda,Ethiopia,2,1,CECAFA Cup,Dar es Salaam,Tanzania,True
+2010-11-29 00:00:00,United Arab Emirates,Bahrain,3,1,Gulf Cup,Zinjibar,Yemen,True
+2010-11-30 00:00:00,Cuba,Grenada,0,0,CFU Caribbean Cup,Fort-de-France,Martinique,True
+2010-11-30 00:00:00,Martinique,Trinidad and Tobago,0,1,CFU Caribbean Cup,Fort-de-France,Martinique,False
+2010-11-30 00:00:00,Tanzania,Somalia,3,0,CECAFA Cup,Dar es Salaam,Tanzania,False
+2010-11-30 00:00:00,Zambia,Burundi,0,0,CECAFA Cup,Dar es Salaam,Tanzania,True
+2010-12-01 00:00:00,Guadeloupe,Antigua and Barbuda,1,0,CFU Caribbean Cup,Rivi√®re-Pilote,Martinique,True
+2010-12-01 00:00:00,Guyana,Jamaica,0,4,CFU Caribbean Cup,Rivi√®re-Pilote,Martinique,True
+2010-12-01 00:00:00,Indonesia,Malaysia,5,1,AFF Championship,Jakarta,Indonesia,False
+2010-12-01 00:00:00,Sudan,Rwanda,0,0,CECAFA Cup,Dar es Salaam,Tanzania,True
+2010-12-01 00:00:00,Thailand,Laos,2,2,AFF Championship,Jakarta,Indonesia,True
+2010-12-02 00:00:00,Ethiopia,Kenya,2,1,CECAFA Cup,Dar es Salaam,Tanzania,True
+2010-12-02 00:00:00,Kuwait,Iraq,2,2,Gulf Cup,Aden,Yemen,True
+2010-12-02 00:00:00,Malawi,Uganda,1,1,CECAFA Cup,Dar es Salaam,Tanzania,True
+2010-12-02 00:00:00,Singapore,Philippines,1,1,AFF Championship,Hanoi,Vietnam,True
+2010-12-02 00:00:00,United Arab Emirates,Saudi Arabia,0,1,Gulf Cup,Aden,Yemen,True
+2010-12-02 00:00:00,Vietnam,Myanmar,7,1,AFF Championship,Hanoi,Vietnam,False
+2010-12-03 00:00:00,Cuba,Guadeloupe,1,2,CFU Caribbean Cup,Fort-de-France,Martinique,True
+2010-12-03 00:00:00,Jamaica,Grenada,2,1,CFU Caribbean Cup,Fort-de-France,Martinique,True
+2010-12-03 00:00:00,Rwanda,Zanzibar,0,0,CECAFA Cup,Dar es Salaam,Tanzania,True
+2010-12-03 00:00:00,Zambia,Somalia,6,0,CECAFA Cup,Dar es Salaam,Tanzania,True
+2010-12-04 00:00:00,Indonesia,Laos,6,0,AFF Championship,Jakarta,Indonesia,False
+2010-12-04 00:00:00,Thailand,Malaysia,0,0,AFF Championship,Jakarta,Indonesia,True
+2010-12-05 00:00:00,Grenada,Cuba,0,1,CFU Caribbean Cup,Fort-de-France,Martinique,True
+2010-12-05 00:00:00,Guadeloupe,Jamaica,1,1,CFU Caribbean Cup,Fort-de-France,Martinique,True
+2010-12-05 00:00:00,Kuwait,Saudi Arabia,1,0,Gulf Cup,Aden,Yemen,True
+2010-12-05 00:00:00,Singapore,Myanmar,2,1,AFF Championship,Hanoi,Vietnam,True
+2010-12-05 00:00:00,Uganda,Kenya,2,0,CECAFA Cup,Dar es Salaam,Tanzania,True
+2010-12-05 00:00:00,Vietnam,Philippines,0,2,AFF Championship,Hanoi,Vietnam,False
+2010-12-07 00:00:00,Indonesia,Thailand,2,1,AFF Championship,Jakarta,Indonesia,False
+2010-12-07 00:00:00,Malaysia,Laos,5,1,AFF Championship,Palembang,Indonesia,True
+2010-12-07 00:00:00,Zambia,Ethiopia,1,2,CECAFA Cup,Dar es Salaam,Tanzania,True
+2010-12-08 00:00:00,Myanmar,Philippines,0,0,AFF Championship,Nam ƒê·ªãnh,Vietnam,True
+2010-12-08 00:00:00,Tanzania,Rwanda,1,0,CECAFA Cup,Dar es Salaam,Tanzania,False
+2010-12-08 00:00:00,Uganda,Zanzibar,2,2,CECAFA Cup,Dar es Salaam,Tanzania,True
+2010-12-08 00:00:00,Vietnam,Singapore,1,0,AFF Championship,Hanoi,Vietnam,False
+2010-12-10 00:00:00,Bosnia and Herzegovina,Poland,2,2,Friendly,Antalya,Turkey,True
+2010-12-10 00:00:00,Tanzania,Uganda,0,0,CECAFA Cup,Dar es Salaam,Tanzania,False
+2010-12-12 00:00:00,Ethiopia,Uganda,3,4,CECAFA Cup,Dar es Salaam,Tanzania,True
+2010-12-15 00:00:00,Malaysia,Vietnam,2,0,AFF Championship,Kuala Lumpur,Malaysia,False
+2010-12-16 00:00:00,Indonesia,Philippines,1,0,AFF Championship,Jakarta,Indonesia,False
+2010-12-16 00:00:00,Qatar,Egypt,2,1,Friendly,Doha,Qatar,False
+2010-12-18 00:00:00,China PR,Estonia,3,0,Friendly,Zhuhai,China PR,False
+2010-12-18 00:00:00,Honduras,Panama,2,1,Friendly,San Pedro Sula,Honduras,False
+2010-12-18 00:00:00,Iraq,Syria,0,1,Friendly,Sulaymaniyah,Iraq,False
+2010-12-18 00:00:00,Vietnam,Malaysia,0,0,AFF Championship,Hanoi,Vietnam,False
+2010-12-19 00:00:00,Indonesia,Philippines,1,0,AFF Championship,Jakarta,Indonesia,False
+2010-12-22 00:00:00,China PR,North Macedonia,1,0,Friendly,Guangzhou,China PR,False
+2010-12-22 00:00:00,Qatar,Estonia,2,0,Friendly,Doha,Qatar,False
+2010-12-22 00:00:00,Syria,Iraq,0,1,Friendly,Damascus,Syria,False
+2010-12-24 00:00:00,Kuwait,North Korea,2,1,Friendly,6th of October City,Egypt,True
+2010-12-25 00:00:00,Bahrain,Uzbekistan,1,1,Friendly,Dubai,United Arab Emirates,True
+2010-12-26 00:00:00,Malaysia,Indonesia,3,0,AFF Championship,Kuala Lumpur,Malaysia,False
+2010-12-27 00:00:00,Kuwait,North Korea,2,2,Friendly,6th of October City,Egypt,True
+2010-12-28 00:00:00,Bahrain,Jordan,2,1,Friendly,Dubai,United Arab Emirates,True
+2010-12-28 00:00:00,Saudi Arabia,Iraq,0,1,Friendly,Dammam,Saudi Arabia,False
+2010-12-28 00:00:00,Catalonia,Honduras,4,0,Friendly,Barcelona,Spain,False
+2010-12-29 00:00:00,Indonesia,Malaysia,2,1,AFF Championship,Jakarta,Indonesia,False
+2010-12-29 00:00:00,Basque Country,Venezuela,3,1,Friendly,Bilbao,Spain,False
+2010-12-30 00:00:00,Syria,South Korea,0,1,Friendly,Abu Dhabi,United Arab Emirates,True
+2010-12-31 00:00:00,Kuwait,Zambia,4,0,Friendly,6th of October City,Egypt,True
+2010-12-31 00:00:00,Qatar,North Korea,0,1,Friendly,Doha,Qatar,False
+2011-01-02 00:00:00,Iran,Angola,1,0,Friendly,Doha,Qatar,True
+2011-01-02 00:00:00,Iraq,China PR,2,3,Friendly,Doha,Qatar,True
+2011-01-02 00:00:00,Jordan,Uzbekistan,2,2,Friendly,Dubai,United Arab Emirates,True
+2011-01-02 00:00:00,United Arab Emirates,Syria,2,0,Friendly,Al Ain,United Arab Emirates,False
+2011-01-04 00:00:00,Bahrain,North Korea,0,1,Friendly,Riffa,Bahrain,False
+2011-01-04 00:00:00,Saudi Arabia,Angola,0,0,Friendly,Dammam,Saudi Arabia,False
+2011-01-05 00:00:00,Egypt,Tanzania,5,1,Nile Basin Tournament,Cairo,Egypt,False
+2011-01-05 00:00:00,Kenya,Sudan,1,0,Nile Basin Tournament,Cairo,Egypt,True
+2011-01-05 00:00:00,Uganda,Burundi,3,1,Nile Basin Tournament,Cairo,Egypt,True
+2011-01-05 00:00:00,United Arab Emirates,Australia,0,0,Friendly,Al Ain,United Arab Emirates,False
+2011-01-07 00:00:00,Qatar,Uzbekistan,0,2,AFC Asian Cup,Doha,Qatar,False
+2011-01-08 00:00:00,DR Congo,Kenya,1,0,Nile Basin Tournament,Cairo,Egypt,True
+2011-01-08 00:00:00,Egypt,Uganda,1,0,Nile Basin Tournament,Cairo,Egypt,False
+2011-01-08 00:00:00,Kuwait,China PR,0,2,AFC Asian Cup,Doha,Qatar,True
+2011-01-08 00:00:00,Tanzania,Burundi,1,1,Nile Basin Tournament,Cairo,Egypt,True
+2011-01-09 00:00:00,Japan,Jordan,1,1,AFC Asian Cup,Doha,Qatar,True
+2011-01-09 00:00:00,Saudi Arabia,Syria,1,2,AFC Asian Cup,Al Rayyan,Qatar,True
+2011-01-10 00:00:00,India,Australia,0,4,AFC Asian Cup,Doha,Qatar,True
+2011-01-10 00:00:00,South Korea,Bahrain,2,1,AFC Asian Cup,Doha,Qatar,True
+2011-01-11 00:00:00,DR Congo,Sudan,2,1,Nile Basin Tournament,Cairo,Egypt,True
+2011-01-11 00:00:00,Egypt,Burundi,3,0,Nile Basin Tournament,Ismaila,Egypt,False
+2011-01-11 00:00:00,Iraq,Iran,1,2,AFC Asian Cup,Al Rayyan,Qatar,True
+2011-01-11 00:00:00,North Korea,United Arab Emirates,0,0,AFC Asian Cup,Doha,Qatar,True
+2011-01-11 00:00:00,Uganda,Tanzania,1,1,Nile Basin Tournament,Cairo,Egypt,True
+2011-01-12 00:00:00,Qatar,China PR,2,0,AFC Asian Cup,Doha,Qatar,False
+2011-01-12 00:00:00,Uzbekistan,Kuwait,2,1,AFC Asian Cup,Doha,Qatar,True
+2011-01-13 00:00:00,Jordan,Saudi Arabia,1,0,AFC Asian Cup,Al Rayyan,Qatar,True
+2011-01-13 00:00:00,Syria,Japan,1,2,AFC Asian Cup,Doha,Qatar,True
+2011-01-14 00:00:00,Australia,South Korea,1,1,AFC Asian Cup,Doha,Qatar,True
+2011-01-14 00:00:00,Bahrain,India,5,2,AFC Asian Cup,Doha,Qatar,True
+2011-01-14 00:00:00,DR Congo,Uganda,0,1,Nile Basin Tournament,Cairo,Egypt,True
+2011-01-14 00:00:00,Costa Rica,Honduras,1,1,UNCAF Cup,Panama City,Panama,True
+2011-01-14 00:00:00,Egypt,Kenya,5,1,Nile Basin Tournament,Cairo,Egypt,False
+2011-01-14 00:00:00,El Salvador,Nicaragua,2,0,UNCAF Cup,Panama City,Panama,True
+2011-01-14 00:00:00,Panama,Belize,2,0,UNCAF Cup,Panama City,Panama,False
+2011-01-15 00:00:00,Iran,North Korea,1,0,AFC Asian Cup,Doha,Qatar,True
+2011-01-15 00:00:00,United Arab Emirates,Iraq,0,1,AFC Asian Cup,Al Rayyan,Qatar,True
+2011-01-16 00:00:00,Belize,El Salvador,2,5,UNCAF Cup,Panama City,Panama,True
+2011-01-16 00:00:00,China PR,Uzbekistan,2,2,AFC Asian Cup,Doha,Qatar,True
+2011-01-16 00:00:00,Guatemala,Costa Rica,0,2,UNCAF Cup,Panama City,Panama,True
+2011-01-16 00:00:00,Panama,Nicaragua,2,0,UNCAF Cup,Panama City,Panama,False
+2011-01-16 00:00:00,Qatar,Kuwait,3,0,AFC Asian Cup,Doha,Qatar,False
+2011-01-16 00:00:00,Tanzania,Sudan,0,2,Nile Basin Tournament,Cairo,Egypt,True
+2011-01-17 00:00:00,DR Congo,Kenya,1,0,Nile Basin Tournament,Ismaila,Egypt,True
+2011-01-17 00:00:00,Egypt,Uganda,3,1,Nile Basin Tournament,Ismaila,Egypt,False
+2011-01-17 00:00:00,Jordan,Syria,2,1,AFC Asian Cup,Doha,Qatar,True
+2011-01-17 00:00:00,Saudi Arabia,Japan,0,5,AFC Asian Cup,Al Rayyan,Qatar,True
+2011-01-18 00:00:00,Australia,Bahrain,1,0,AFC Asian Cup,Doha,Qatar,True
+2011-01-18 00:00:00,Honduras,Guatemala,3,1,UNCAF Cup,Panama City,Panama,True
+2011-01-18 00:00:00,South Korea,India,4,1,AFC Asian Cup,Doha,Qatar,True
+2011-01-18 00:00:00,Nicaragua,Belize,1,1,UNCAF Cup,Panama City,Panama,True
+2011-01-18 00:00:00,Panama,El Salvador,2,0,UNCAF Cup,Panama City,Panama,False
+2011-01-19 00:00:00,Botswana,Sweden,1,2,Friendly,Cape Town,South Africa,True
+2011-01-19 00:00:00,Iraq,North Korea,1,0,AFC Asian Cup,Al Rayyan,Qatar,True
+2011-01-19 00:00:00,United Arab Emirates,Iran,0,3,AFC Asian Cup,Doha,Qatar,True
+2011-01-21 00:00:00,Honduras,El Salvador,2,0,UNCAF Cup,Panama City,Panama,True
+2011-01-21 00:00:00,Nicaragua,Guatemala,1,2,UNCAF Cup,Panama City,Panama,True
+2011-01-21 00:00:00,Panama,Costa Rica,1,1,UNCAF Cup,Panama City,Panama,False
+2011-01-21 00:00:00,Qatar,Japan,2,3,AFC Asian Cup,Doha,Qatar,False
+2011-01-21 00:00:00,Uzbekistan,Jordan,2,1,AFC Asian Cup,Doha,Qatar,True
+2011-01-22 00:00:00,Australia,Iraq,1,0,AFC Asian Cup,Doha,Qatar,True
+2011-01-22 00:00:00,Iran,South Korea,0,1,AFC Asian Cup,Doha,Qatar,True
+2011-01-22 00:00:00,United States,Chile,1,1,Friendly,Carson,United States,False
+2011-01-23 00:00:00,Honduras,Costa Rica,2,1,UNCAF Cup,Panama City,Panama,True
+2011-01-23 00:00:00,Panama,El Salvador,0,0,UNCAF Cup,Panama City,Panama,False
+2011-01-24 00:00:00,Vanuatu,New Caledonia,0,0,Friendly,Port Vila,Vanuatu,False
+2011-01-25 00:00:00,Japan,South Korea,2,2,AFC Asian Cup,Doha,Qatar,True
+2011-01-25 00:00:00,Uzbekistan,Australia,0,6,AFC Asian Cup,Doha,Qatar,True
+2011-01-28 00:00:00,Uzbekistan,South Korea,2,3,AFC Asian Cup,Doha,Qatar,True
+2011-01-29 00:00:00,Australia,Japan,0,1,AFC Asian Cup,Doha,Qatar,True
+2011-02-06 00:00:00,Moldova,Poland,0,1,Friendly,Vila Real de Santo Ant√≥nio,Portugal,True
+2011-02-08 00:00:00,Cyprus,Sweden,0,2,Cyprus International Tournament,Nicosia,Cyprus,False
+2011-02-08 00:00:00,Ghana,Togo,4,1,Friendly,Antwerp,Belgium,True
+2011-02-08 00:00:00,Republic of Ireland,Wales,3,0,Nations Cup,Dublin,Republic of Ireland,False
+2011-02-08 00:00:00,Mali,Ivory Coast,0,1,Friendly,Valence,France,True
+2011-02-08 00:00:00,Peru,Panama,1,0,Friendly,Moquegua,Peru,False
+2011-02-08 00:00:00,Romania,Ukraine,2,2,Cyprus International Tournament,Paral√≠mni,Cyprus,True
+2011-02-09 00:00:00,Albania,Slovenia,1,2,Friendly,Tirana,Albania,False
+2011-02-09 00:00:00,Andorra,Moldova,1,2,Friendly,Lagos,Portugal,True
+2011-02-09 00:00:00,Argentina,Portugal,2,1,Friendly,Geneva,Switzerland,True
+2011-02-09 00:00:00,Armenia,Georgia,1,2,Friendly,Limassol,Cyprus,True
+2011-02-09 00:00:00,Azerbaijan,Hungary,0,2,Friendly,Dubai,United Arab Emirates,True
+2011-02-09 00:00:00,Belarus,Kazakhstan,1,1,Friendly,Antalya,Turkey,True
+2011-02-09 00:00:00,Belgium,Finland,1,1,Friendly,Ghent,Belgium,False
+2011-02-09 00:00:00,Cambodia,Macau,3,1,AFC Challenge Cup qualification,Phnom Penh,Cambodia,False
+2011-02-09 00:00:00,Cape Verde,Burkina Faso,1,0,Friendly,√ìbidos,Portugal,True
+2011-02-09 00:00:00,DR Congo,Gabon,0,2,Friendly,Rouen,France,True
+2011-02-09 00:00:00,Croatia,Czech Republic,4,2,Friendly,Pula,Croatia,False
+2011-02-09 00:00:00,Cyprus,Romania,1,1,Cyprus International Tournament,Paral√≠mni,Cyprus,False
+2011-02-09 00:00:00,Denmark,England,1,2,Friendly,Copenhagen,Denmark,False
+2011-02-09 00:00:00,El Salvador,Haiti,1,0,Friendly,San Salvador,El Salvador,False
+2011-02-09 00:00:00,France,Brazil,1,0,Friendly,Saint-Denis,France,False
+2011-02-09 00:00:00,Germany,Italy,1,1,Friendly,Dortmund,Germany,False
+2011-02-09 00:00:00,Greece,Canada,1,0,Friendly,L√°risa,Greece,False
+2011-02-09 00:00:00,Guinea-Bissau,Gambia,3,1,Friendly,Amadora,Portugal,True
+2011-02-09 00:00:00,Honduras,Ecuador,1,1,Friendly,La Ceiba,Honduras,False
+2011-02-09 00:00:00,Iran,Russia,1,0,Friendly,Abu Dhabi,United Arab Emirates,True
+2011-02-09 00:00:00,Israel,Serbia,0,2,Friendly,Jaffa,Israel,False
+2011-02-09 00:00:00,Latvia,Bolivia,2,1,Friendly,Antalya,Turkey,True
+2011-02-09 00:00:00,Libya,Benin,3,2,Friendly,Tripoli,Libya,False
+2011-02-09 00:00:00,Luxembourg,Slovakia,2,1,Friendly,Luxembourg,Luxembourg,False
+2011-02-09 00:00:00,North Macedonia,Cameroon,0,1,Friendly,Skopje,North Macedonia,False
+2011-02-09 00:00:00,Malaysia,Hong Kong,2,0,Friendly,Kuala Lumpur,Malaysia,False

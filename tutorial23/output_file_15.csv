@@ -1,0 +1,1001 @@
+date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
+1988-03-10 00:00:00,United Arab Emirates,Iraq,0,0,Gulf Cup,Riyadh,Saudi Arabia,True
+1988-03-11 00:00:00,Guadeloupe,Suriname,0,2,CFU Caribbean Cup qualification,Basse-Terre,Guadeloupe,False
+1988-03-12 00:00:00,Kuwait,Bahrain,0,1,Gulf Cup,Riyadh,Saudi Arabia,True
+1988-03-13 00:00:00,Algeria,Ivory Coast,1,1,African Cup of Nations,Casablanca,Morocco,True
+1988-03-13 00:00:00,Gambia,Mali,2,1,Friendly,Banjul,Gambia,False
+1988-03-13 00:00:00,Morocco,DR Congo,1,1,African Cup of Nations,Casablanca,Morocco,False
+1988-03-13 00:00:00,Qatar,Iraq,0,3,Gulf Cup,Riyadh,Saudi Arabia,True
+1988-03-13 00:00:00,Saudi Arabia,United Arab Emirates,2,2,Gulf Cup,Riyadh,Saudi Arabia,False
+1988-03-14 00:00:00,Cameroon,Egypt,1,0,African Cup of Nations,Rabat,Morocco,True
+1988-03-14 00:00:00,Kenya,Nigeria,0,3,African Cup of Nations,Rabat,Morocco,True
+1988-03-14 00:00:00,Oman,Kuwait,0,2,Gulf Cup,Riyadh,Saudi Arabia,True
+1988-03-16 00:00:00,Bahrain,Qatar,1,0,Gulf Cup,Riyadh,Saudi Arabia,True
+1988-03-16 00:00:00,Guatemala,Uruguay,1,0,Friendly,Guatemala,Guatemala,False
+1988-03-16 00:00:00,Hungary,Turkey,1,0,Friendly,Budapest,Hungary,False
+1988-03-16 00:00:00,Ivory Coast,DR Congo,1,1,African Cup of Nations,Casablanca,Morocco,True
+1988-03-16 00:00:00,Morocco,Algeria,1,0,African Cup of Nations,Casablanca,Morocco,False
+1988-03-16 00:00:00,Saudi Arabia,Iraq,0,2,Gulf Cup,Riyadh,Saudi Arabia,False
+1988-03-17 00:00:00,Cameroon,Nigeria,1,1,African Cup of Nations,Rabat,Morocco,True
+1988-03-17 00:00:00,Egypt,Kenya,3,0,African Cup of Nations,Rabat,Morocco,True
+1988-03-17 00:00:00,United Arab Emirates,Oman,1,0,Gulf Cup,Riyadh,Saudi Arabia,True
+1988-03-18 00:00:00,Bahrain,Iraq,0,1,Gulf Cup,Riyadh,Saudi Arabia,True
+1988-03-18 00:00:00,El Salvador,Honduras,0,0,Friendly,Los Angeles,United States,True
+1988-03-18 00:00:00,Saudi Arabia,Kuwait,0,0,Gulf Cup,Riyadh,Saudi Arabia,False
+1988-03-19 00:00:00,Algeria,DR Congo,1,0,African Cup of Nations,Casablanca,Morocco,True
+1988-03-19 00:00:00,Morocco,Ivory Coast,0,0,African Cup of Nations,Casablanca,Morocco,False
+1988-03-20 00:00:00,Antigua and Barbuda,Dominica,2,1,CFU Caribbean Cup qualification,St. John's,Antigua and Barbuda,False
+1988-03-20 00:00:00,Cameroon,Kenya,0,0,African Cup of Nations,Rabat,Morocco,True
+1988-03-20 00:00:00,Egypt,Nigeria,0,0,African Cup of Nations,Rabat,Morocco,True
+1988-03-22 00:00:00,Malta,Scotland,1,1,Friendly,Attard,Malta,False
+1988-03-23 00:00:00,Algeria,Nigeria,1,1,African Cup of Nations,Rabat,Morocco,True
+1988-03-23 00:00:00,Bulgaria,Czechoslovakia,2,0,Friendly,Sofia,Bulgaria,False
+1988-03-23 00:00:00,England,Netherlands,2,2,Friendly,London,England,False
+1988-03-23 00:00:00,France,Spain,2,1,Friendly,Bordeaux,France,False
+1988-03-23 00:00:00,Greece,Russia,0,4,Friendly,Athens,Greece,False
+1988-03-23 00:00:00,Republic of Ireland,Romania,2,0,Friendly,Dublin,Republic of Ireland,False
+1988-03-23 00:00:00,Morocco,Cameroon,0,1,African Cup of Nations,Casablanca,Morocco,False
+1988-03-23 00:00:00,Northern Ireland,Poland,1,1,Friendly,Belfast,Northern Ireland,False
+1988-03-23 00:00:00,Wales,Yugoslavia,1,2,Friendly,Swansea,Wales,False
+1988-03-26 00:00:00,Belgium,Hungary,3,0,Friendly,Brussels,Belgium,False
+1988-03-26 00:00:00,Morocco,Algeria,1,1,African Cup of Nations,Casablanca,Morocco,False
+1988-03-26 00:00:00,Peru,Canada,1,3,Friendly,Lima,Peru,False
+1988-03-27 00:00:00,Cameroon,Nigeria,1,0,African Cup of Nations,Casablanca,Morocco,True
+1988-03-29 00:00:00,Mexico,El Salvador,8,0,Friendly,Mexico City,Mexico,False
+1988-03-30 00:00:00,Colombia,Canada,3,0,Friendly,Armenia,Colombia,False
+1988-03-30 00:00:00,German DR,Romania,3,3,Friendly,Halle,German DR,False
+1988-03-31 00:00:00,Argentina,Russia,2,4,Friendly,Berlin,Germany,True
+1988-03-31 00:00:00,Germany,Sweden,1,1,Friendly,Berlin,Germany,False
+1988-03-31 00:00:00,Yugoslavia,Italy,1,1,Friendly,Split,Yugoslavia,False
+1988-04-02 00:00:00,Germany,Argentina,1,0,Friendly,Berlin,Germany,False
+1988-04-02 00:00:00,Sweden,Russia,2,0,Friendly,Berlin,Germany,True
+1988-04-05 00:00:00,Jamaica,Canada,0,4,Friendly,Kingston,Jamaica,False
+1988-04-06 00:00:00,Greece,Austria,2,2,Friendly,Piraeus,Greece,False
+1988-04-07 00:00:00,Jamaica,Canada,0,0,Friendly,Montego Bay,Jamaica,False
+1988-04-07 00:00:00,Malaysia,Pakistan,4,0,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,False
+1988-04-08 00:00:00,Kuwait,Japan,1,0,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,True
+1988-04-10 00:00:00,El Salvador,Guatemala,0,0,Friendly,San Salvador,El Salvador,False
+1988-04-10 00:00:00,Jordan,Pakistan,1,0,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,True
+1988-04-11 00:00:00,Malaysia,Japan,0,1,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,False
+1988-04-12 00:00:00,Kuwait,Jordan,0,0,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,True
+1988-04-13 00:00:00,Bulgaria,German DR,1,1,Friendly,Burgas,Bulgaria,False
+1988-04-14 00:00:00,Malaysia,Jordan,0,0,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,False
+1988-04-15 00:00:00,Kuwait,Pakistan,3,0,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,True
+1988-04-16 00:00:00,Japan,Jordan,1,1,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,True
+1988-04-17 00:00:00,Guyana,Trinidad and Tobago,0,4,CONCACAF Championship qualification,Georgetown,Guyana,False
+1988-04-18 00:00:00,Japan,Pakistan,4,1,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,True
+1988-04-18 00:00:00,Malaysia,Kuwait,0,5,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,False
+1988-04-19 00:00:00,Guadeloupe,Suriname,1,1,CFU Caribbean Cup qualification,Basse-Terre,Guadeloupe,False
+1988-04-21 00:00:00,El Salvador,Guatemala,1,0,Friendly,Los Angeles,United States,True
+1988-04-26 00:00:00,Mexico,Honduras,4,1,Friendly,Ciudad Victoria,Mexico,False
+1988-04-27 00:00:00,Austria,Denmark,1,0,Friendly,Vienna,Austria,False
+1988-04-27 00:00:00,Czechoslovakia,Russia,1,1,Friendly,Trnava,Czechoslovakia,False
+1988-04-27 00:00:00,Germany,Switzerland,1,0,Friendly,Kaiserslautern,Germany,False
+1988-04-27 00:00:00,Hungary,England,0,0,Friendly,Budapest,Hungary,False
+1988-04-27 00:00:00,Republic of Ireland,Yugoslavia,2,0,Friendly,Dublin,Republic of Ireland,False
+1988-04-27 00:00:00,Luxembourg,Italy,0,3,Friendly,Luxembourg,Luxembourg,False
+1988-04-27 00:00:00,Northern Ireland,France,0,0,Friendly,Belfast,Northern Ireland,False
+1988-04-27 00:00:00,Spain,Scotland,0,0,Friendly,Madrid,Spain,False
+1988-04-27 00:00:00,Sweden,Wales,4,1,Friendly,Solna,Sweden,False
+1988-04-28 00:00:00,Gambia,Senegal,0,4,Am√≠lcar Cabral Cup,Bissau,Guinea-Bissau,True
+1988-04-28 00:00:00,Guinea-Bissau,Sierra Leone,0,0,Am√≠lcar Cabral Cup,Bissau,Guinea-Bissau,False
+1988-04-29 00:00:00,Cape Verde,Mali,1,3,Am√≠lcar Cabral Cup,Bissau,Guinea-Bissau,True
+1988-04-29 00:00:00,Guinea,Mauritania,1,1,Am√≠lcar Cabral Cup,Bissau,Guinea-Bissau,True
+1988-04-30 00:00:00,Cuba,Guatemala,0,1,CONCACAF Championship qualification,Havana,Cuba,False
+1988-04-30 00:00:00,Gambia,Sierra Leone,1,3,Am√≠lcar Cabral Cup,Bissau,Guinea-Bissau,True
+1988-04-30 00:00:00,Guinea-Bissau,Senegal,1,1,Am√≠lcar Cabral Cup,Bissau,Guinea-Bissau,False
+1988-05-01 00:00:00,Cape Verde,Mauritania,3,2,Am√≠lcar Cabral Cup,Bissau,Guinea-Bissau,True
+1988-05-01 00:00:00,Guinea,Mali,1,0,Am√≠lcar Cabral Cup,Bissau,Guinea-Bissau,True
+1988-05-02 00:00:00,Guinea-Bissau,Gambia,3,1,Am√≠lcar Cabral Cup,Bissau,Guinea-Bissau,False
+1988-05-02 00:00:00,Senegal,Sierra Leone,2,2,Am√≠lcar Cabral Cup,Bissau,Guinea-Bissau,True
+1988-05-03 00:00:00,Cape Verde,Guinea,1,1,Am√≠lcar Cabral Cup,Bissau,Guinea-Bissau,True
+1988-05-03 00:00:00,Mali,Mauritania,2,2,Am√≠lcar Cabral Cup,Bissau,Guinea-Bissau,True
+1988-05-04 00:00:00,Hungary,Iceland,3,0,Friendly,Budapest,Hungary,False
+1988-05-05 00:00:00,Guinea,Sierra Leone,3,0,Am√≠lcar Cabral Cup,Bissau,Guinea-Bissau,True
+1988-05-05 00:00:00,Mali,Senegal,1,1,Am√≠lcar Cabral Cup,Bissau,Guinea-Bissau,True
+1988-05-07 00:00:00,Senegal,Sierra Leone,2,1,Am√≠lcar Cabral Cup,Bissau,Guinea-Bissau,True
+1988-05-08 00:00:00,China PR,North Korea,0,0,Friendly,Hangzhou,China PR,False
+1988-05-08 00:00:00,Guinea,Mali,0,0,Am√≠lcar Cabral Cup,Bissau,Guinea-Bissau,True
+1988-05-08 00:00:00,Trinidad and Tobago,Guyana,1,0,CONCACAF Championship qualification,San Fernando,Trinidad and Tobago,False
+1988-05-10 00:00:00,Hungary,Denmark,2,2,Friendly,Budapest,Hungary,False
+1988-05-11 00:00:00,Guadeloupe,Togo,2,1,Friendly,Paris,France,True
+1988-05-12 00:00:00,Jamaica,Puerto Rico,1,0,CONCACAF Championship qualification,Kingston,Jamaica,False
+1988-05-13 00:00:00,R√©union,Togo,1,0,Friendly,Paris,France,True
+1988-05-15 00:00:00,Guatemala,Cuba,1,1,CONCACAF Championship qualification,San Marcos,Guatemala,False
+1988-05-15 00:00:00,Macau,Hong Kong,0,2,Friendly,Macau,Macau,False
+1988-05-17 00:00:00,Hungary,Austria,0,4,Friendly,Budapest,Hungary,False
+1988-05-17 00:00:00,Scotland,Colombia,0,0,Rous Cup,Glasgow,Scotland,False
+1988-05-19 00:00:00,Canada,Greece,0,1,Friendly,Montr√©al,Canada,False
+1988-05-19 00:00:00,Finland,Colombia,1,3,Friendly,Helsinki,Finland,False
+1988-05-21 00:00:00,Canada,Greece,0,3,Matthews Cup,Toronto,Canada,False
+1988-05-21 00:00:00,England,Scotland,1,0,Rous Cup,London,England,False
+1988-05-21 00:00:00,Northern Ireland,Malta,3,0,FIFA World Cup qualification,Belfast,Northern Ireland,False
+1988-05-22 00:00:00,Republic of Ireland,Poland,3,1,Friendly,Dublin,Republic of Ireland,False
+1988-05-23 00:00:00,Chile,Greece,0,1,Matthews Cup,Toronto,Canada,True
+1988-05-24 00:00:00,England,Colombia,1,1,Rous Cup,London,England,False
+1988-05-24 00:00:00,Netherlands,Bulgaria,1,2,Friendly,Rotterdam,Netherlands,False
+1988-05-25 00:00:00,Burkina Faso,Ghana,3,0,Friendly,Ouagadougou,Burkina Faso,False
+1988-05-25 00:00:00,Canada,Chile,1,0,Matthews Cup,Toronto,Canada,False
+1988-05-25 00:00:00,Nepal,Hong Kong,0,0,AFC Asian Cup qualification,Kathmandu,Nepal,False
+1988-05-26 00:00:00,Syria,North Korea,2,1,AFC Asian Cup qualification,Kathmandu,Nepal,True
+1988-05-27 00:00:00,Iran,Hong Kong,2,0,AFC Asian Cup qualification,Kathmandu,Nepal,True
+1988-05-28 00:00:00,Canada,Greece,0,0,Matthews Cup,Toronto,Canada,False
+1988-05-28 00:00:00,Nepal,North Korea,0,1,AFC Asian Cup qualification,Kathmandu,Nepal,False
+1988-05-28 00:00:00,Switzerland,England,0,1,Friendly,Basel,Switzerland,False
+1988-05-29 00:00:00,Puerto Rico,Jamaica,1,2,CONCACAF Championship qualification,San Juan,Puerto Rico,False
+1988-05-29 00:00:00,Syria,Iran,1,1,AFC Asian Cup qualification,Kathmandu,Nepal,True
+1988-05-31 00:00:00,North Korea,Hong Kong,1,0,AFC Asian Cup qualification,Kathmandu,Nepal,True
+1988-06-01 00:00:00,Denmark,Czechoslovakia,0,1,Friendly,Copenhagen,Denmark,False
+1988-06-01 00:00:00,Malta,Wales,2,3,Friendly,Attard,Malta,False
+1988-06-01 00:00:00,Nepal,Syria,0,3,AFC Asian Cup qualification,Kathmandu,Nepal,False
+1988-06-01 00:00:00,Netherlands,Romania,2,0,Friendly,Amsterdam,Netherlands,False
+1988-06-01 00:00:00,Norway,Republic of Ireland,0,0,Friendly,Oslo,Norway,False
+1988-06-01 00:00:00,Russia,Poland,2,1,Friendly,Moscow,Soviet Union,False
+1988-06-01 00:00:00,Spain,Sweden,1,3,Friendly,Salamanca,Spain,False
+1988-06-01 00:00:00,United States,Chile,1,1,Friendly,Stockton,United States,False
+1988-06-02 00:00:00,Iran,North Korea,0,0,AFC Asian Cup qualification,Kathmandu,Nepal,True
+1988-06-02 00:00:00,Japan,China PR,0,3,Kirin Cup,Nagoya,Japan,False
+1988-06-03 00:00:00,Libya,Burkina Faso,3,0,FIFA World Cup qualification,Tripoli,Libya,False
+1988-06-03 00:00:00,Syria,Hong Kong,2,0,AFC Asian Cup qualification,Kathmandu,Nepal,True
+1988-06-03 00:00:00,United States,Chile,1,3,Friendly,San Diego,United States,False
+1988-06-04 00:00:00,Germany,Yugoslavia,1,1,Friendly,Bremen,Germany,False
+1988-06-04 00:00:00,Italy,Wales,0,1,Friendly,Brescia,Italy,False
+1988-06-04 00:00:00,Nepal,Iran,0,3,AFC Asian Cup qualification,Kathmandu,Nepal,False
+1988-06-04 00:00:00,Zambia,Zimbabwe,3,2,Friendly,Lusaka,Zambia,False
+1988-06-05 00:00:00,Denmark,Belgium,3,1,Friendly,Odense,Denmark,False
+1988-06-05 00:00:00,Switzerland,Spain,1,1,Friendly,Basel,Switzerland,False
+1988-06-05 00:00:00,United States,Chile,0,3,Friendly,Fresno,United States,False
+1988-06-07 00:00:00,United States,Ecuador,0,1,Friendly,Albuquerque,United States,False
+1988-06-09 00:00:00,Seychelles,Tanzania,1,1,Friendly,Victoria,Seychelles,False
+1988-06-10 00:00:00,Germany,Italy,1,1,UEFA Euro,D√ºsseldorf,Germany,False
+1988-06-10 00:00:00,Mozambique,Malawi,1,2,Friendly,Maputo,Mozambique,False
+1988-06-10 00:00:00,United States,Ecuador,0,2,Friendly,Houston,United States,False
+1988-06-11 00:00:00,Denmark,Spain,2,3,UEFA Euro,Hanover,Germany,True
+1988-06-12 00:00:00,England,Republic of Ireland,0,1,UEFA Euro,Stuttgart,Germany,True
+1988-06-12 00:00:00,Netherlands,Russia,0,1,UEFA Euro,Cologne,Germany,True
+1988-06-12 00:00:00,United States,Ecuador,0,0,Friendly,Fort Worth,United States,False
+1988-06-14 00:00:00,Germany,Denmark,2,0,UEFA Euro,Gelsenkirchen,Germany,False
+1988-06-14 00:00:00,Italy,Spain,1,0,UEFA Euro,Frankfurt am Main,Germany,True
+1988-06-14 00:00:00,Mozambique,Malawi,1,1,Friendly,Maputo,Mozambique,False
+1988-06-14 00:00:00,United States,Costa Rica,1,0,Friendly,San Antonio,United States,False
+1988-06-15 00:00:00,England,Netherlands,1,3,UEFA Euro,D√ºsseldorf,Germany,True
+1988-06-15 00:00:00,Honduras,Ecuador,1,1,Friendly,Tegucigalpa,Honduras,False
+1988-06-15 00:00:00,Republic of Ireland,Russia,1,1,UEFA Euro,Hanover,Germany,True
+1988-06-17 00:00:00,Bahrain,South Korea,2,0,AFC Asian Cup qualification,Jakarta,Indonesia,True
+1988-06-17 00:00:00,Canada,Costa Rica,0,1,Friendly,Montr√©al,Canada,False
+1988-06-17 00:00:00,Germany,Spain,2,0,UEFA Euro,Munich,Germany,False
+1988-06-17 00:00:00,Honduras,Ecuador,0,1,Friendly,Tegucigalpa,Honduras,False
+1988-06-17 00:00:00,Indonesia,Yemen DPR,1,0,AFC Asian Cup qualification,Jakarta,Indonesia,False
+1988-06-17 00:00:00,Italy,Denmark,2,0,UEFA Euro,Cologne,Germany,True
+1988-06-18 00:00:00,England,Russia,1,3,UEFA Euro,Frankfurt am Main,Germany,True
+1988-06-18 00:00:00,Republic of Ireland,Netherlands,0,1,UEFA Euro,Gelsenkirchen,Germany,True
+1988-06-19 00:00:00,Antigua and Barbuda,Cura√ßao,0,1,CONCACAF Championship qualification,St. John's,Antigua and Barbuda,False
+1988-06-19 00:00:00,Indonesia,Bahrain,0,0,AFC Asian Cup qualification,Jakarta,Indonesia,False
+1988-06-19 00:00:00,South Korea,Zambia,4,0,Korea Cup,Suwon,South Korea,False
+1988-06-19 00:00:00,South Korea,Yemen DPR,1,1,AFC Asian Cup qualification,Jakarta,Indonesia,True
+1988-06-21 00:00:00,Germany,Netherlands,1,2,UEFA Euro,Hamburg,Germany,False
+1988-06-21 00:00:00,Saudi Arabia,New Zealand,0,2,Friendly,Melbourne,Australia,True
+1988-06-22 00:00:00,Bahrain,Yemen DPR,2,0,AFC Asian Cup qualification,Jakarta,Indonesia,True
+1988-06-22 00:00:00,Indonesia,South Korea,0,4,AFC Asian Cup qualification,Jakarta,Indonesia,False
+1988-06-22 00:00:00,Russia,Italy,2,0,UEFA Euro,Stuttgart,Germany,True
+1988-06-23 00:00:00,Saudi Arabia,New Zealand,2,3,Friendly,Melbourne,Australia,True
+1988-06-25 00:00:00,Russia,Netherlands,0,2,UEFA Euro,Munich,Germany,True
+1988-06-29 00:00:00,Hong Kong,Saudi Arabia,0,3,Friendly,Melbourne,Australia,True
+1988-07-01 00:00:00,Cura√ßao,Costa Rica,1,1,Friendly,Willemstad,Netherlands Antilles,False
+1988-07-01 00:00:00,Hong Kong,Saudi Arabia,0,1,Friendly,Melbourne,Australia,True
+1988-07-03 00:00:00,Burkina Faso,Libya,2,0,FIFA World Cup qualification,Ouagadougou,Burkina Faso,False
+1988-07-03 00:00:00,Cura√ßao,Costa Rica,1,0,Friendly,Willemstad,Netherlands Antilles,False
+1988-07-05 00:00:00,Guadeloupe,Trinidad and Tobago,0,3,CFU Caribbean Cup,Fort-de-France,Martinique,True
+1988-07-05 00:00:00,Martinique,Antigua and Barbuda,2,2,CFU Caribbean Cup,Fort-de-France,Martinique,False
+1988-07-06 00:00:00,Argentina,Saudi Arabia,2,2,Friendly,Adelaide,Australia,True
+1988-07-06 00:00:00,Malawi,Zambia,1,0,Friendly,Blantyre,Malawi,False
+1988-07-07 00:00:00,Antigua and Barbuda,Trinidad and Tobago,1,1,CFU Caribbean Cup,Fort-de-France,Martinique,True
+1988-07-07 00:00:00,Australia,Brazil,0,1,Friendly,Melbourne,Australia,False
+1988-07-07 00:00:00,Martinique,Guadeloupe,2,1,CFU Caribbean Cup,Fort-de-France,Martinique,False
+1988-07-08 00:00:00,Jordan,Bahrain,0,0,Arab Cup,Amman,Jordan,False
+1988-07-08 00:00:00,Malawi,Zambia,0,1,Friendly,Lilongwe,Malawi,False
+1988-07-09 00:00:00,Antigua and Barbuda,Guadeloupe,0,0,CFU Caribbean Cup,Fort-de-France,Martinique,True
+1988-07-09 00:00:00,Australia,Saudi Arabia,3,0,Friendly,Sydney,Australia,False
+1988-07-09 00:00:00,Iraq,Tunisia,1,1,Arab Cup,Amman,Jordan,True
+1988-07-09 00:00:00,Martinique,Trinidad and Tobago,0,3,CFU Caribbean Cup,Fort-de-France,Martinique,False
+1988-07-10 00:00:00,Argentina,Brazil,0,0,Friendly,Melbourne,Australia,True
+1988-07-10 00:00:00,Malawi,Zambia,1,1,Friendly,Mzuzu,Malawi,False
+1988-07-11 00:00:00,Iraq,Lebanon,0,0,Arab Cup,Amman,Jordan,True
+1988-07-12 00:00:00,Bahrain,Syria,1,2,Arab Cup,Amman,Jordan,True
+1988-07-13 00:00:00,Brazil,Saudi Arabia,4,1,Friendly,Melbourne,Australia,True
+1988-07-13 00:00:00,Egypt,Tunisia,1,0,Arab Cup,Amman,Jordan,True
+1988-07-14 00:00:00,Australia,Argentina,4,1,Friendly,Sydney,Australia,False
+1988-07-15 00:00:00,Canada,Poland,1,2,Friendly,Toronto,Canada,False
+1988-07-15 00:00:00,Egypt,Lebanon,3,0,Arab Cup,Amman,Jordan,True
+1988-07-16 00:00:00,Argentina,Saudi Arabia,2,0,Friendly,Canberra,Australia,True
+1988-07-16 00:00:00,Jordan,Syria,2,0,Arab Cup,Amman,Jordan,False
+1988-07-16 00:00:00,Uganda,Malawi,1,0,FIFA World Cup qualification,Kampala,Uganda,False
+1988-07-17 00:00:00,Australia,Brazil,0,2,Friendly,Sydney,Australia,False
+1988-07-17 00:00:00,Costa Rica,Panama,1,1,CONCACAF Championship qualification,Alajuela,Costa Rica,False
+1988-07-17 00:00:00,Egypt,Iraq,0,0,Arab Cup,Amman,Jordan,True
+1988-07-17 00:00:00,Lebanon,Tunisia,1,1,Arab Cup,Amman,Jordan,True
+1988-07-19 00:00:00,Egypt,Syria,0,0,Arab Cup,Amman,Jordan,True
+1988-07-19 00:00:00,Jordan,Iraq,0,3,Arab Cup,Amman,Jordan,False
+1988-07-21 00:00:00,Iraq,Syria,1,1,Arab Cup,Amman,Jordan,True
+1988-07-21 00:00:00,Jordan,Egypt,0,2,Arab Cup,Amman,Jordan,False
+1988-07-24 00:00:00,Burkina Faso,Niger,1,0,Tournament Burkina Faso,Ouagadougou,Burkina Faso,False
+1988-07-24 00:00:00,Jamaica,United States,0,0,CONCACAF Championship qualification,Kingston,Jamaica,False
+1988-07-25 00:00:00,Benin,Ghana,1,1,Tournament Burkina Faso,Ouagadougou,Burkina Faso,True
+1988-07-27 00:00:00,Burkina Faso,Ghana,3,1,Tournament Burkina Faso,Ouagadougou,Burkina Faso,False
+1988-07-27 00:00:00,Mali,Niger,1,0,Tournament Burkina Faso,Ouagadougou,Burkina Faso,True
+1988-07-28 00:00:00,Norway,Brazil,1,1,Friendly,Oslo,Norway,False
+1988-07-29 00:00:00,Benin,Mali,0,1,Tournament Burkina Faso,Ouagadougou,Burkina Faso,True
+1988-07-29 00:00:00,Cura√ßao,Antigua and Barbuda,3,1,CONCACAF Championship qualification,Willemstad,Netherlands Antilles,True
+1988-07-29 00:00:00,Ghana,Niger,0,3,Tournament Burkina Faso,Ouagadougou,Burkina Faso,True
+1988-07-30 00:00:00,Malawi,Uganda,3,1,FIFA World Cup qualification,Lilongwe,Malawi,False
+1988-07-31 00:00:00,Burkina Faso,Benin,1,0,Tournament Burkina Faso,Ouagadougou,Burkina Faso,False
+1988-07-31 00:00:00,Ghana,Mali,1,0,Tournament Burkina Faso,Ouagadougou,Burkina Faso,True
+1988-07-31 00:00:00,Panama,Costa Rica,0,2,CONCACAF Championship qualification,Panama City,Panama,False
+1988-08-01 00:00:00,Angola,Gabon,4,1,Friendly,Luanda,Angola,False
+1988-08-02 00:00:00,Benin,Niger,0,5,Tournament Burkina Faso,Ouagadougou,Burkina Faso,True
+1988-08-02 00:00:00,Burkina Faso,Mali,2,1,Tournament Burkina Faso,Ouagadougou,Burkina Faso,False
+1988-08-03 00:00:00,Austria,Brazil,0,2,Friendly,Vienna,Austria,False
+1988-08-03 00:00:00,Zambia,Malawi,4,1,Friendly,Lusaka,Zambia,False
+1988-08-04 00:00:00,Burkina Faso,Niger,1,0,Tournament Burkina Faso,Ouagadougou,Burkina Faso,False
+1988-08-04 00:00:00,Finland,Bulgaria,1,1,Friendly,Vaasa,Finland,False
+1988-08-04 00:00:00,Zambia,Malawi,7,1,Friendly,Lusaka,Zambia,False
+1988-08-05 00:00:00,El Salvador,Guatemala,1,2,Friendly,Los Angeles,United States,True
+1988-08-05 00:00:00,Indonesia,Thailand,1,0,Indonesia Tournament,Jakarta,Indonesia,False
+1988-08-05 00:00:00,Tunisia,Guinea,5,0,FIFA World Cup qualification,Tunis,Tunisia,False
+1988-08-06 00:00:00,Albania,Cuba,0,0,Friendly,Berat,Albania,False
+1988-08-07 00:00:00,Angola,Sudan,0,0,FIFA World Cup qualification,Luanda,Angola,False
+1988-08-07 00:00:00,Colombia,Uruguay,2,1,Friendly,Bogot√°,Colombia,False
+1988-08-07 00:00:00,Ghana,Liberia,0,0,FIFA World Cup qualification,Accra,Ghana,False
+1988-08-07 00:00:00,Iceland,Bulgaria,2,3,Friendly,Reykjav√≠k,Iceland,False
+1988-08-09 00:00:00,Norway,Bulgaria,1,1,Friendly,Oslo,Norway,False
+1988-08-13 00:00:00,United States,Jamaica,5,1,CONCACAF Championship qualification,St. Louis,United States,False
+1988-08-17 00:00:00,Finland,Russia,0,0,Friendly,Turku,Finland,False
+1988-08-21 00:00:00,Guinea,Tunisia,3,0,FIFA World Cup qualification,Conakry,Guinea,False
+1988-08-21 00:00:00,Liberia,Ghana,2,0,FIFA World Cup qualification,Monrovia,Liberia,False
+1988-08-24 00:00:00,France,Czechoslovakia,1,1,Friendly,Paris,France,False
+1988-08-24 00:00:00,Iceland,Faroe Islands,1,0,Friendly,Akranes,Iceland,False
+1988-08-24 00:00:00,Poland,Bulgaria,3,2,Friendly,Bia≈Çystok,Poland,False
+1988-08-24 00:00:00,Switzerland,Yugoslavia,0,2,Friendly,Lucerne,Switzerland,False
+1988-08-31 00:00:00,Austria,Hungary,0,0,Friendly,Linz,Austria,False
+1988-08-31 00:00:00,Finland,Germany,0,4,FIFA World Cup qualification,Helsinki,Finland,False
+1988-08-31 00:00:00,German DR,Greece,1,0,Friendly,Berlin,German DR,False
+1988-08-31 00:00:00,Iceland,Russia,1,1,FIFA World Cup qualification,Reykjav√≠k,Iceland,False
+1988-08-31 00:00:00,Sweden,Denmark,1,2,Friendly,Solna,Sweden,False
+1988-09-07 00:00:00,Ecuador,Paraguay,1,5,Friendly,Guayaquil,Ecuador,False
+1988-09-12 00:00:00,Honduras,Paraguay,0,0,Friendly,San Pedro Sula,Honduras,False
+1988-09-13 00:00:00,Chile,Ecuador,3,1,Friendly,La Serena,Chile,False
+1988-09-14 00:00:00,England,Denmark,1,0,Friendly,London,England,False
+1988-09-14 00:00:00,Netherlands,Wales,1,0,FIFA World Cup qualification,Amsterdam,Netherlands,False
+1988-09-14 00:00:00,Northern Ireland,Republic of Ireland,0,0,FIFA World Cup qualification,Belfast,Northern Ireland,False
+1988-09-14 00:00:00,Norway,Scotland,1,2,FIFA World Cup qualification,Oslo,Norway,False
+1988-09-14 00:00:00,Spain,Yugoslavia,1,2,Friendly,Oviedo,Spain,False
+1988-09-15 00:00:00,Honduras,Paraguay,0,2,Friendly,Tegucigalpa,Honduras,False
+1988-09-15 00:00:00,Saudi Arabia,Iran,1,0,AFC Asian Cup,Doha,Qatar,True
+1988-09-20 00:00:00,Czechoslovakia,Austria,4,2,Friendly,Prague,Czechoslovakia,False
+1988-09-20 00:00:00,Romania,Albania,3,0,Friendly,Constan≈£a,Romania,False
+1988-09-21 00:00:00,German DR,Poland,1,2,Friendly,Cottbus,German DR,False
+1988-09-21 00:00:00,Germany,Russia,1,0,Friendly,D√ºsseldorf,Germany,False
+1988-09-21 00:00:00,Iceland,Hungary,0,3,Friendly,Reykjav√≠k,Iceland,False
+1988-09-21 00:00:00,Luxembourg,Switzerland,1,4,FIFA World Cup qualification,Luxembourg,Luxembourg,False
+1988-09-21 00:00:00,Peru,Paraguay,0,1,Friendly,Lima,Peru,False
+1988-09-21 00:00:00,Turkey,Greece,3,1,Friendly,Istanbul,Turkey,False
+1988-09-25 00:00:00,El Salvador,Honduras,0,0,Friendly,Los Angeles,United States,True
+1988-09-26 00:00:00,Cura√ßao,Venezuela,0,0,Friendly,Willemstad,Netherlands Antilles,False
+1988-09-26 00:00:00,Malawi,Mozambique,1,1,Friendly,Blantyre,Malawi,False
+1988-09-27 00:00:00,Ecuador,Uruguay,1,2,Friendly,Asunci√≥n,Paraguay,True
+1988-09-27 00:00:00,Paraguay,Chile,2,0,Friendly,Asunci√≥n,Paraguay,False
+1988-09-28 00:00:00,Denmark,Iceland,1,0,Friendly,Copenhagen,Denmark,False
+1988-09-28 00:00:00,France,Norway,1,0,FIFA World Cup qualification,Paris,France,False
+1988-09-28 00:00:00,Malawi,Mozambique,1,0,Friendly,Lilongwe,Malawi,False
+1988-09-29 00:00:00,Chile,Ecuador,0,0,Friendly,Asunci√≥n,Paraguay,True
+1988-09-29 00:00:00,Paraguay,Uruguay,3,1,Friendly,Asunci√≥n,Paraguay,False
+1988-10-01 00:00:00,Cura√ßao,El Salvador,0,1,CONCACAF Championship qualification,Willemstad,Netherlands Antilles,True
+1988-10-02 00:00:00,Indonesia,Qatar,0,1,Friendly,Jakarta,Indonesia,False
+1988-10-02 00:00:00,Liberia,Mali,0,1,African Cup of Nations qualification,Monrovia,Liberia,False
+1988-10-02 00:00:00,Mauritius,Seychelles,3,0,African Cup of Nations qualification,Curepipe,Mauritius,False
+1988-10-02 00:00:00,Trinidad and Tobago,Canada,1,2,Friendly,Port of Spain,Trinidad and Tobago,False
+1988-10-04 00:00:00,Indonesia,Qatar,1,4,Friendly,Jakarta,Indonesia,False
+1988-10-09 00:00:00,Gabon,Burkina Faso,3,0,African Cup of Nations qualification,Libreville,Gabon,False
+1988-10-09 00:00:00,Guatemala,Canada,1,0,CONCACAF Championship qualification,Guatemala,Guatemala,False
+1988-10-09 00:00:00,Singapore,Qatar,0,1,Friendly,Kallang,Singapore,False
+1988-10-12 00:00:00,Belgium,Brazil,1,2,Friendly,Antwerp,Belgium,False
+1988-10-12 00:00:00,Cyprus,Malta,0,1,Friendly,Limassol,Cyprus,False
+1988-10-12 00:00:00,New Zealand,Australia,1,2,Friendly,Dunedin,New Zealand,False
+1988-10-12 00:00:00,Spain,Argentina,1,1,Friendly,Seville,Spain,False
+1988-10-12 00:00:00,Sweden,Portugal,0,0,Friendly,Gothenburg,Sweden,False
+1988-10-12 00:00:00,Turkey,Iceland,1,1,FIFA World Cup qualification,Istanbul,Turkey,False
+1988-10-12 00:00:00,Uruguay,Paraguay,2,0,Friendly,Montevideo,Uruguay,False
+1988-10-15 00:00:00,Canada,Guatemala,3,2,CONCACAF Championship qualification,Burnaby,Canada,False
+1988-10-16 00:00:00,Australia,New Zealand,2,0,Friendly,Bendigo,Australia,False
+1988-10-16 00:00:00,El Salvador,Cura√ßao,5,0,CONCACAF Championship qualification,San Salvador,El Salvador,False
+1988-10-16 00:00:00,Equatorial Guinea,Angola,0,0,African Cup of Nations qualification,Malabo,Equatorial Guinea,False
+1988-10-16 00:00:00,Mali,Liberia,3,0,African Cup of Nations qualification,Bamako,Mali,False
+1988-10-16 00:00:00,Eswatini,Tanzania,1,1,African Cup of Nations qualification,Mbabane,Eswatini,False
+1988-10-18 00:00:00,Israel,Malta,2,0,Friendly,Beer Sheva,Israel,False
+1988-10-18 00:00:00,Luxembourg,Czechoslovakia,0,2,FIFA World Cup qualification,Esch-sur-Alzette,Luxembourg,False
+1988-10-19 00:00:00,Belgium,Switzerland,1,0,FIFA World Cup qualification,Brussels,Belgium,False
+1988-10-19 00:00:00,Bulgaria,Romania,1,3,FIFA World Cup qualification,Sofia,Bulgaria,False
+1988-10-19 00:00:00,England,Sweden,0,0,FIFA World Cup qualification,London,England,False
+1988-10-19 00:00:00,German DR,Iceland,2,0,FIFA World Cup qualification,Berlin,German DR,False
+1988-10-19 00:00:00,Germany,Netherlands,0,0,FIFA World Cup qualification,Munich,Germany,False
+1988-10-19 00:00:00,Greece,Denmark,1,1,FIFA World Cup qualification,Athens,Greece,False
+1988-10-19 00:00:00,Hungary,Northern Ireland,1,0,FIFA World Cup qualification,Budapest,Hungary,False
+1988-10-19 00:00:00,Republic of Ireland,Tunisia,4,0,Friendly,Dublin,Republic of Ireland,False
+1988-10-19 00:00:00,Italy,Norway,2,1,Friendly,Pescara,Italy,False
+1988-10-19 00:00:00,Poland,Albania,1,0,FIFA World Cup qualification,Chorz√≥w,Poland,False
+1988-10-19 00:00:00,Russia,Austria,2,0,FIFA World Cup qualification,Kyiv,Soviet Union,True
+1988-10-19 00:00:00,Scotland,Yugoslavia,1,1,FIFA World Cup qualification,Glasgow,Scotland,False
+1988-10-19 00:00:00,Wales,Finland,2,2,FIFA World Cup qualification,Swansea,Wales,False
+1988-10-21 00:00:00,Solomon Islands,Fiji,1,1,Friendly,Honiara,Solomon Islands,False
+1988-10-22 00:00:00,Cyprus,France,1,1,FIFA World Cup qualification,Nicosia,Cyprus,False
+1988-10-23 00:00:00,Burkina Faso,Gabon,1,0,African Cup of Nations qualification,Ouagadougou,Burkina Faso,False
+1988-10-23 00:00:00,New Caledonia,Vanuatu,6,1,Friendly,Honiara,Solomon Islands,True
+1988-10-24 00:00:00,Fiji,Vanuatu,8,0,Friendly,Honiara,Solomon Islands,True
+1988-10-24 00:00:00,Solomon Islands,New Caledonia,1,0,Friendly,Honiara,Solomon Islands,False
+1988-10-25 00:00:00,Chile,Peru,2,0,Copa del Pac√≠fico,Arica,Chile,False
+1988-10-25 00:00:00,Fiji,New Caledonia,2,0,Friendly,Honiara,Solomon Islands,True
+1988-10-25 00:00:00,Solomon Islands,Vanuatu,5,0,Friendly,Honiara,Solomon Islands,False
+1988-10-26 00:00:00,Japan,South Korea,0,1,Friendly,Tokyo,Japan,False
+1988-10-26 00:00:00,New Caledonia,Vanuatu,0,1,Friendly,Honiara,Solomon Islands,True
+1988-10-26 00:00:00,Solomon Islands,Fiji,1,3,Friendly,Honiara,Solomon Islands,False
+1988-10-29 00:00:00,Algeria,Angola,1,1,Friendly,Mascara,Algeria,False
+1988-10-30 00:00:00,Trinidad and Tobago,Honduras,0,0,CONCACAF Championship qualification,Port of Spain,Trinidad and Tobago,False
+1988-11-01 00:00:00,Chile,Uruguay,1,1,Copa Juan Pinto Dur√°n,Concepci√≥n,Chile,False
+1988-11-02 00:00:00,Austria,Turkey,3,2,FIFA World Cup qualification,Vienna,Austria,False
+1988-11-02 00:00:00,Cyprus,Norway,0,3,FIFA World Cup qualification,Limassol,Cyprus,False
+1988-11-02 00:00:00,Denmark,Bulgaria,1,1,FIFA World Cup qualification,Copenhagen,Denmark,False
+1988-11-02 00:00:00,Romania,Greece,3,0,FIFA World Cup qualification,Bucharest,Romania,False
+1988-11-03 00:00:00,Kuwait,Finland,0,0,Friendly,Kuwait City,Kuwait,False
+1988-11-04 00:00:00,Czechoslovakia,Norway,3,2,Friendly,Bratislava,Czechoslovakia,False
+1988-11-05 00:00:00,Albania,Sweden,1,2,FIFA World Cup qualification,Tirana,Albania,False
+1988-11-06 00:00:00,Ethiopia,Zambia,0,0,CECAFA Cup,Blantyre,Malawi,True
+1988-11-06 00:00:00,Kuwait,Finland,0,0,Friendly,Kuwait City,Kuwait,False
+1988-11-06 00:00:00,Malawi,Tanzania,0,0,CECAFA Cup,Lilongwe,Malawi,False
+1988-11-08 00:00:00,Kenya,Zanzibar,2,0,CECAFA Cup,Lilongwe,Malawi,True
+1988-11-08 00:00:00,Tunisia,Angola,5,0,Friendly,Tunis,Tunisia,False
+1988-11-08 00:00:00,Uganda,Zimbabwe,0,0,CECAFA Cup,Blantyre,Malawi,True
+1988-11-09 00:00:00,El Salvador,Guatemala,0,0,Friendly,Los Angeles,United States,True
+1988-11-09 00:00:00,Indonesia,Qatar,0,1,Friendly,Jakarta,Indonesia,False
+1988-11-09 00:00:00,Uruguay,Chile,3,1,Copa Juan Pinto Dur√°n,Montevideo,Uruguay,False
+1988-11-10 00:00:00,Kenya,Tanzania,2,0,CECAFA Cup,Lilongwe,Malawi,True
+1988-11-10 00:00:00,Malawi,Zanzibar,1,0,CECAFA Cup,Lilongwe,Malawi,False
+1988-11-11 00:00:00,Ethiopia,Uganda,2,1,CECAFA Cup,Blantyre,Malawi,True
+1988-11-11 00:00:00,Sudan,Angola,1,2,FIFA World Cup qualification,Khartoum,Sudan,False
+1988-11-11 00:00:00,Zambia,Zimbabwe,1,1,CECAFA Cup,Blantyre,Malawi,True
+1988-11-12 00:00:00,Malawi,Kenya,3,0,CECAFA Cup,Lilongwe,Malawi,False
+1988-11-12 00:00:00,Tanzania,Zanzibar,0,1,CECAFA Cup,Lilongwe,Malawi,True
+1988-11-13 00:00:00,Algeria,Mali,7,0,Friendly,Algiers,Algeria,False
+1988-11-13 00:00:00,DR Congo,Congo,1,0,Friendly,Kinshasa,Za√Øre,False
+1988-11-13 00:00:00,Ethiopia,Zimbabwe,1,2,CECAFA Cup,Blantyre,Malawi,True
+1988-11-13 00:00:00,Honduras,Trinidad and Tobago,1,1,CONCACAF Championship qualification,Tegucigalpa,Honduras,False
+1988-11-13 00:00:00,Uganda,Zambia,0,3,CECAFA Cup,Blantyre,Malawi,True
+1988-11-14 00:00:00,Fiji,New Zealand,1,1,Friendly,Suva,Fiji,False
+1988-11-14 00:00:00,Saudi Arabia,Egypt,0,0,Friendly,Riyadh,Saudi Arabia,False
+1988-11-15 00:00:00,Greece,Hungary,3,0,Friendly,Piraeus,Greece,False
+1988-11-16 00:00:00,Czechoslovakia,Belgium,0,0,FIFA World Cup qualification,Bratislava,Czechoslovakia,False
+1988-11-16 00:00:00,Italy,Netherlands,1,0,Friendly,Rome,Italy,False
+1988-11-16 00:00:00,Kuwait,Egypt,2,2,Friendly,Kuwait City,Kuwait,False
+1988-11-16 00:00:00,Portugal,Luxembourg,1,0,FIFA World Cup qualification,Porto,Portugal,False
+1988-11-16 00:00:00,Saudi Arabia,England,1,1,Friendly,Riyadh,Saudi Arabia,False
+1988-11-16 00:00:00,Spain,Republic of Ireland,2,0,FIFA World Cup qualification,Seville,Spain,False
+1988-11-17 00:00:00,Cape Verde,Senegal,0,1,Friendly,Praia,Cape Verde,False
+1988-11-17 00:00:00,Fiji,New Zealand,2,0,Friendly,Lautoka,Fiji,False
+1988-11-17 00:00:00,Kenya,Zambia,0,1,CECAFA Cup,Blantyre,Malawi,True
+1988-11-17 00:00:00,United Arab Emirates,Jordan,2,1,Friendly,Sharjah,United Arab Emirates,False
+1988-11-18 00:00:00,Angola,Senegal,1,2,Friendly,Praia,Cape Verde,True
+1988-11-19 00:00:00,Cape Verde,Angola,2,3,Friendly,Praia,Cape Verde,False
+1988-11-19 00:00:00,Fiji,New Zealand,1,0,Friendly,Ba,Fiji,False
+1988-11-19 00:00:00,Kenya,Zimbabwe,0,0,CECAFA Cup,Blantyre,Malawi,True
+1988-11-19 00:00:00,Malawi,Zambia,3,1,CECAFA Cup,Blantyre,Malawi,False
+1988-11-19 00:00:00,Yugoslavia,France,3,2,FIFA World Cup qualification,Belgrade,Yugoslavia,False
+1988-11-20 00:00:00,United Arab Emirates,Jordan,3,2,Friendly,Dubai,United Arab Emirates,False
+1988-11-21 00:00:00,Syria,Russia,0,2,Friendly,Damascus,Syria,False
+1988-11-23 00:00:00,Kuwait,Russia,0,1,Friendly,Kuwait City,Kuwait,False
+1988-11-23 00:00:00,Malta,Cyprus,1,1,Friendly,Attard,Malta,False
+1988-11-23 00:00:00,Peru,Chile,1,1,Copa del Pac√≠fico,Lima,Peru,False
+1988-11-23 00:00:00,Romania,Israel,3,0,Friendly,Sibiu,Romania,False
+1988-11-24 00:00:00,United Arab Emirates,Algeria,1,1,Friendly,Dubai,United Arab Emirates,False
+1988-11-25 00:00:00,Guinea,Sierra Leone,1,0,Friendly,Monrovia,Liberia,True
+1988-11-26 00:00:00,Fiji,Australia,1,0,FIFA World Cup qualification,Nadi,Fiji,False
+1988-11-26 00:00:00,Liberia,Sierra Leone,0,0,Friendly,Monrovia,Liberia,False
+1988-11-27 00:00:00,Kuwait,Russia,0,2,Friendly,Kuwait City,Kuwait,False
+1988-11-27 00:00:00,Liberia,Guinea,0,1,Friendly,Monrovia,Liberia,False
+1988-11-29 00:00:00,Saudi Arabia,Tunisia,1,0,Friendly,Khobar,Saudi Arabia,False
+1988-11-30 00:00:00,Cameroon,Gabon,0,0,UDEAC Cup,Douala,Cameroon,False
+1988-11-30 00:00:00,Congo,Chad,2,1,UDEAC Cup,Douala,Cameroon,True
+1988-11-30 00:00:00,Turkey,German DR,3,1,FIFA World Cup qualification,Istanbul,Turkey,False
+1988-12-02 00:00:00,Cameroon,Equatorial Guinea,2,1,UDEAC Cup,Douala,Cameroon,False
+1988-12-02 00:00:00,Central African Republic,Chad,2,1,UDEAC Cup,Douala,Cameroon,True
+1988-12-02 00:00:00,Qatar,Iran,0,2,AFC Asian Cup,Doha,Qatar,False
+1988-12-02 00:00:00,Syria,Saudi Arabia,0,2,AFC Asian Cup,Doha,Qatar,True
+1988-12-03 00:00:00,Australia,Fiji,5,1,FIFA World Cup qualification,Speers Point,Australia,False
+1988-12-03 00:00:00,Kuwait,Bahrain,0,0,AFC Asian Cup,Doha,Qatar,True
+1988-12-03 00:00:00,United Arab Emirates,South Korea,0,1,AFC Asian Cup,Doha,Qatar,True
+1988-12-04 00:00:00,Central African Republic,Congo,0,1,UDEAC Cup,Douala,Cameroon,True
+1988-12-04 00:00:00,China PR,Syria,3,0,AFC Asian Cup,Doha,Qatar,True
+1988-12-04 00:00:00,Equatorial Guinea,Gabon,0,3,UDEAC Cup,Douala,Cameroon,True
+1988-12-04 00:00:00,Japan,Iran,0,0,AFC Asian Cup,Doha,Qatar,True
+1988-12-05 00:00:00,Qatar,United Arab Emirates,2,1,AFC Asian Cup,Doha,Qatar,False
+1988-12-05 00:00:00,Saudi Arabia,Kuwait,0,0,AFC Asian Cup,Doha,Qatar,True
+1988-12-06 00:00:00,Bahrain,China PR,0,1,AFC Asian Cup,Doha,Qatar,True
+1988-12-06 00:00:00,Cameroon,Congo,2,0,UDEAC Cup,Douala,Cameroon,False
+1988-12-06 00:00:00,Central African Republic,Gabon,0,0,UDEAC Cup,Douala,Cameroon,True
+1988-12-06 00:00:00,South Korea,Japan,2,0,AFC Asian Cup,Doha,Qatar,True
+1988-12-06 00:00:00,Morocco,Egypt,0,0,Friendly,Casablanca,Morocco,False
+1988-12-08 00:00:00,Cameroon,Gabon,0,1,UDEAC Cup,Douala,Cameroon,False
+1988-12-08 00:00:00,Central African Republic,Congo,0,3,UDEAC Cup,Douala,Cameroon,True
+1988-12-08 00:00:00,Iran,United Arab Emirates,1,0,AFC Asian Cup,Doha,Qatar,True
+1988-12-08 00:00:00,Malaysia,Indonesia,0,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1988-12-08 00:00:00,Syria,Kuwait,1,0,AFC Asian Cup,Doha,Qatar,True
+1988-12-09 00:00:00,Oman,Singapore,1,3,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1988-12-09 00:00:00,Qatar,South Korea,2,3,AFC Asian Cup,Doha,Qatar,False
+1988-12-09 00:00:00,Saudi Arabia,Bahrain,1,1,AFC Asian Cup,Doha,Qatar,True
+1988-12-10 00:00:00,Ivory Coast,Tunisia,1,0,Friendly,Abidjan,Ivory Coast,False
+1988-12-10 00:00:00,Kuwait,China PR,2,2,AFC Asian Cup,Doha,Qatar,True
+1988-12-10 00:00:00,Malaysia,Thailand,0,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1988-12-10 00:00:00,United Arab Emirates,Japan,1,0,AFC Asian Cup,Doha,Qatar,True
+1988-12-11 00:00:00,Bahrain,Syria,0,1,AFC Asian Cup,Doha,Qatar,True
+1988-12-11 00:00:00,South Korea,Iran,3,0,AFC Asian Cup,Doha,Qatar,True
+1988-12-11 00:00:00,Malta,Hungary,2,2,FIFA World Cup qualification,Attard,Malta,False
+1988-12-11 00:00:00,Yugoslavia,Cyprus,4,0,FIFA World Cup qualification,Belgrade,Yugoslavia,False
+1988-12-12 00:00:00,China PR,Saudi Arabia,0,1,AFC Asian Cup,Doha,Qatar,True
+1988-12-12 00:00:00,Indonesia,Thailand,0,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1988-12-12 00:00:00,Qatar,Japan,3,0,AFC Asian Cup,Doha,Qatar,False
+1988-12-14 00:00:00,Egypt,Switzerland,1,3,Friendly,Cairo,Egypt,False
+1988-12-14 00:00:00,South Korea,China PR,2,1,AFC Asian Cup,Doha,Qatar,True
+1988-12-14 00:00:00,Uruguay,Peru,3,0,Friendly,Montevideo,Uruguay,False
+1988-12-15 00:00:00,Morocco,Gabon,5,2,Friendly,Rabat,Morocco,False
+1988-12-15 00:00:00,New Zealand,Taiwan,4,1,FIFA World Cup qualification,Auckland,New Zealand,False
+1988-12-17 00:00:00,China PR,Iran,0,0,AFC Asian Cup,Doha,Qatar,True
+1988-12-18 00:00:00,Ivory Coast,Tunisia,1,1,Friendly,Abidjan,Ivory Coast,False
+1988-12-18 00:00:00,South Korea,Saudi Arabia,0,0,AFC Asian Cup,Doha,Qatar,True
+1988-12-20 00:00:00,Liberia,Tunisia,1,1,Friendly,Paynesville,Liberia,False
+1988-12-20 00:00:00,Zambia,Egypt,1,2,Friendly,Kitwe,Zambia,False
+1988-12-21 00:00:00,Spain,Northern Ireland,4,0,FIFA World Cup qualification,Seville,Spain,False
+1988-12-22 00:00:00,Italy,Scotland,2,0,Friendly,Perugia,Italy,False
+1988-12-22 00:00:00,Morocco,Guinea,1,0,Friendly,Rabat,Morocco,False
+1988-12-30 00:00:00,DR Congo,Angola,0,0,Friendly,Kinshasa,Za√Øre,False
+1989-01-04 00:00:00,Israel,Netherlands,0,2,Friendly,Ramat-Gan,Israel,False
+1989-01-06 00:00:00,Algeria,Zimbabwe,3,0,FIFA World Cup qualification,Annaba,Algeria,False
+1989-01-06 00:00:00,Egypt,Liberia,2,0,FIFA World Cup qualification,Cairo,Egypt,False
+1989-01-06 00:00:00,Oman,Iraq,1,1,FIFA World Cup qualification,Muscat,Oman,False
+1989-01-06 00:00:00,Pakistan,Kuwait,0,1,FIFA World Cup qualification,Islamabad,Pakistan,False
+1989-01-06 00:00:00,Qatar,Jordan,1,0,FIFA World Cup qualification,Doha,Qatar,False
+1989-01-07 00:00:00,Kenya,Malawi,1,1,FIFA World Cup qualification,Nairobi,Kenya,False
+1989-01-07 00:00:00,Nigeria,Gabon,1,0,FIFA World Cup qualification,Enugu,Nigeria,False
+1989-01-08 00:00:00,Cameroon,Angola,1,1,FIFA World Cup qualification,Yaound√©,Cameroon,False
+1989-01-08 00:00:00,DR Congo,Tunisia,3,1,FIFA World Cup qualification,Kinshasa,Za√Øre,False
+1989-01-08 00:00:00,Ivory Coast,Libya,1,0,FIFA World Cup qualification,Abidjan,Ivory Coast,False
+1989-01-08 00:00:00,Morocco,Zambia,1,0,FIFA World Cup qualification,Rabat,Morocco,False
+1989-01-11 00:00:00,Egypt,Finland,2,1,Friendly,El Mahalla El Kubra,Egypt,False
+1989-01-11 00:00:00,Malta,Israel,1,2,Friendly,Attard,Malta,False
+1989-01-13 00:00:00,Egypt,Finland,2,1,Friendly,Cairo,Egypt,False
+1989-01-13 00:00:00,Jordan,Iraq,0,1,FIFA World Cup qualification,Amman,Jordan,False
+1989-01-13 00:00:00,Kuwait,United Arab Emirates,3,2,FIFA World Cup qualification,Kuwait City,Kuwait,False
+1989-01-13 00:00:00,Oman,Qatar,0,0,FIFA World Cup qualification,Muscat,Oman,False
+1989-01-18 00:00:00,Albania,Greece,1,1,Friendly,Tirana,Albania,False
+1989-01-20 00:00:00,Iran,Japan,2,2,Friendly,Tehran,Iran,False
+1989-01-20 00:00:00,Jordan,Oman,2,0,FIFA World Cup qualification,Amman,Jordan,False
+1989-01-20 00:00:00,Qatar,Iraq,1,0,FIFA World Cup qualification,Doha,Qatar,False
+1989-01-20 00:00:00,United Arab Emirates,Pakistan,5,0,FIFA World Cup qualification,Sharjah,United Arab Emirates,False
+1989-01-21 00:00:00,Malawi,Egypt,1,1,FIFA World Cup qualification,Lilongwe,Malawi,False
+1989-01-22 00:00:00,Angola,Nigeria,2,2,FIFA World Cup qualification,Luanda,Angola,False
+1989-01-22 00:00:00,Gabon,Cameroon,1,3,FIFA World Cup qualification,Libreville,Gabon,False
+1989-01-22 00:00:00,Liberia,Kenya,0,0,FIFA World Cup qualification,Monrovia,Liberia,False
+1989-01-22 00:00:00,Malta,Spain,0,2,FIFA World Cup qualification,Attard,Malta,False
+1989-01-22 00:00:00,Tunisia,Morocco,2,1,FIFA World Cup qualification,Tunis,Tunisia,False
+1989-01-22 00:00:00,Zambia,DR Congo,4,2,FIFA World Cup qualification,Lusaka,Zambia,False
+1989-01-22 00:00:00,Zimbabwe,Ivory Coast,0,0,FIFA World Cup qualification,Harare,Zimbabwe,False
+1989-01-25 00:00:00,Greece,Portugal,1,2,Friendly,Athens,Greece,False
+1989-01-27 00:00:00,India,North Korea,1,2,Nehru Cup,Margao,India,False
+1989-01-27 00:00:00,Iraq,Oman,3,1,FIFA World Cup qualification,Baghdad,Iraq,False
+1989-01-27 00:00:00,Jordan,Qatar,1,1,FIFA World Cup qualification,Amman,Jordan,False
+1989-01-27 00:00:00,Kuwait,Pakistan,2,0,FIFA World Cup qualification,Kuwait City,Kuwait,False
+1989-01-28 00:00:00,Thailand,Malaysia,1,0,King's Cup,Bangkok,Thailand,False
+1989-01-29 00:00:00,Ecuador,Chile,1,0,Friendly,Guayaquil,Ecuador,False
+1989-01-29 00:00:00,Senegal,DR Congo,1,1,Friendly,Dakar,Senegal,False
+1989-01-30 00:00:00,Thailand,Indonesia,3,0,King's Cup,Bangkok,Thailand,False
+1989-01-31 00:00:00,Senegal,DR Congo,2,1,Friendly,Dakar,Senegal,False
+1989-02-01 00:00:00,Chile,Peru,0,0,Friendly,Armenia,Colombia,True
+1989-02-03 00:00:00,Colombia,Peru,1,0,Friendly,Pereira,Colombia,False
+1989-02-03 00:00:00,Indonesia,Malaysia,1,3,King's Cup,Bangkok,Thailand,True
+1989-02-03 00:00:00,Iraq,Jordan,4,0,FIFA World Cup qualification,Baghdad,Iraq,False
+1989-02-03 00:00:00,Qatar,Oman,3,0,FIFA World Cup qualification,Doha,Qatar,False
+1989-02-03 00:00:00,United Arab Emirates,Kuwait,1,0,FIFA World Cup qualification,Sharjah,United Arab Emirates,False
+1989-02-04 00:00:00,China PR,North Korea,3,1,King's Cup,Bangkok,Thailand,True
+1989-02-05 00:00:00,Colombia,Chile,1,0,Friendly,Armenia,Colombia,False
+1989-02-07 00:00:00,Republic of Ireland,France,0,0,Friendly,Dublin,Republic of Ireland,False
+1989-02-08 00:00:00,Algeria,Finland,2,0,Malta International Tournament,Attard,Malta,True
+1989-02-08 00:00:00,Cyprus,Scotland,2,3,FIFA World Cup qualification,Limassol,Cyprus,False
+1989-02-08 00:00:00,Greece,England,1,2,Friendly,Athens,Greece,False
+1989-02-08 00:00:00,Israel,Wales,3,3,Friendly,Ramat-Gan,Israel,False
+1989-02-08 00:00:00,Malta,Denmark,0,2,Malta International Tournament,Attard,Malta,False
+1989-02-08 00:00:00,Northern Ireland,Spain,0,2,FIFA World Cup qualification,Belfast,Northern Ireland,False
+1989-02-08 00:00:00,Thailand,China PR,2,0,King's Cup,Bangkok,Thailand,False
+1989-02-10 00:00:00,Denmark,Finland,0,0,Malta International Tournament,Attard,Malta,True
+1989-02-10 00:00:00,Iraq,Qatar,2,2,FIFA World Cup qualification,Baghdad,Iraq,False
+1989-02-10 00:00:00,Malta,Algeria,0,1,Malta International Tournament,Attard,Malta,False
+1989-02-10 00:00:00,Oman,Jordan,0,2,FIFA World Cup qualification,Muscat,Oman,False
+1989-02-10 00:00:00,Pakistan,United Arab Emirates,1,4,FIFA World Cup qualification,Islamabad,Pakistan,False
+1989-02-12 00:00:00,Algeria,Denmark,0,0,Malta International Tournament,Attard,Malta,True
+1989-02-12 00:00:00,Guatemala,Poland,0,1,Friendly,Guatemala,Guatemala,False
+1989-02-12 00:00:00,Hong Kong,China PR,0,0,Lunar New Year Cup,So Kon Po,Hong Kong,False
+1989-02-12 00:00:00,Malta,Finland,0,0,Malta International Tournament,Attard,Malta,False
+1989-02-13 00:00:00,Egypt,German DR,0,4,Friendly,Cairo,Egypt,False
+1989-02-14 00:00:00,Mexico,Poland,3,1,Friendly,Puebla,Mexico,False
+1989-02-15 00:00:00,Portugal,Belgium,1,1,FIFA World Cup qualification,Lisbon,Portugal,False
+1989-02-19 00:00:00,Thailand,Bangladesh,1,0,FIFA World Cup qualification,Bangkok,Thailand,False
+1989-02-21 00:00:00,Bulgaria,Russia,1,2,Friendly,Sofia,Bulgaria,False
+1989-02-21 00:00:00,Costa Rica,El Salvador,1,1,Friendly,Los Angeles,United States,True
+1989-02-21 00:00:00,Guatemala,Mexico,1,2,Friendly,Los Angeles,United States,True
+1989-02-22 00:00:00,Greece,Norway,4,2,Friendly,Athens,Greece,False
+1989-02-22 00:00:00,Italy,Denmark,1,0,Friendly,Pisa,Italy,False
+1989-02-23 00:00:00,China PR,Bangladesh,2,0,FIFA World Cup qualification,Guangzhou,China PR,False
+1989-02-23 00:00:00,Costa Rica,Guatemala,2,3,Friendly,Los Angeles,United States,True
+1989-02-23 00:00:00,El Salvador,Mexico,0,2,Friendly,Los Angeles,United States,True
+1989-02-23 00:00:00,Thailand,Iran,0,3,FIFA World Cup qualification,Bangkok,Thailand,False
+1989-02-27 00:00:00,Bangladesh,Iran,1,2,FIFA World Cup qualification,Dhaka,Bangladesh,False
+1989-02-28 00:00:00,Thailand,China PR,0,3,FIFA World Cup qualification,Bangkok,Thailand,False
+1989-03-03 00:00:00,Guatemala,El Salvador,3,0,Friendly,Mazatenango,Guatemala,False
+1989-03-04 00:00:00,Bangladesh,China PR,0,2,FIFA World Cup qualification,Dhaka,Bangladesh,False
+1989-03-05 00:00:00,Israel,New Zealand,1,0,FIFA World Cup qualification,Ramat-Gan,Israel,False
+1989-03-08 00:00:00,Albania,England,0,2,FIFA World Cup qualification,Tirana,Albania,False
+1989-03-08 00:00:00,Bangladesh,Thailand,3,1,FIFA World Cup qualification,Dhaka,Bangladesh,False
+1989-03-08 00:00:00,Greece,German DR,3,2,Friendly,Athens,Greece,False
+1989-03-08 00:00:00,Hungary,Republic of Ireland,0,0,FIFA World Cup qualification,Budapest,Hungary,False
+1989-03-08 00:00:00,Scotland,France,2,0,FIFA World Cup qualification,Glasgow,Scotland,False
+1989-03-09 00:00:00,Colombia,Argentina,1,0,Friendly,Barranquilla,Colombia,False
+1989-03-10 00:00:00,Yemen,Syria,0,1,FIFA World Cup qualification,Sana'a,Yemen AR,True
+1989-03-12 00:00:00,Australia,New Zealand,4,1,FIFA World Cup qualification,Sydney,Australia,False
+1989-03-12 00:00:00,Jamaica,Paraguay,0,3,Friendly,Kingston,Jamaica,False
+1989-03-15 00:00:00,Brazil,Ecuador,1,0,Friendly,Cuiab√°,Brazil,False
+1989-03-15 00:00:00,Martinique,Paraguay,0,2,Friendly,Fort-de-France,Martinique,False
+1989-03-15 00:00:00,Saudi Arabia,Syria,5,4,FIFA World Cup qualification,Jeddah,Saudi Arabia,False
+1989-03-15 00:00:00,Tunisia,Egypt,0,0,Friendly,Tunis,Tunisia,False
+1989-03-17 00:00:00,Guadeloupe,Paraguay,0,2,Friendly,Basse-Terre,Guadeloupe,False
+1989-03-17 00:00:00,Iran,Bangladesh,1,0,FIFA World Cup qualification,Tehran,Iran,False
+1989-03-19 00:00:00,Guatemala,Costa Rica,1,0,CONCACAF Championship,Guatemala,Guatemala,False
+1989-03-19 00:00:00,Israel,Australia,1,1,FIFA World Cup qualification,Ramat-Gan,Israel,False
+1989-03-19 00:00:00,Trinidad and Tobago,Paraguay,2,2,Friendly,Port of Spain,Trinidad and Tobago,False
+1989-03-20 00:00:00,Yemen,Saudi Arabia,0,1,FIFA World Cup qualification,Sana'a,Yemen AR,True
+1989-03-22 00:00:00,Algeria,Morocco,1,1,Friendly,Bejaia,Algeria,False
+1989-03-22 00:00:00,Bulgaria,Germany,1,2,Friendly,Sofia,Bulgaria,False
+1989-03-22 00:00:00,German DR,Finland,1,1,Friendly,Dresden,German DR,False
+1989-03-22 00:00:00,Netherlands,Russia,2,0,Friendly,Eindhoven,Netherlands,False
+1989-03-22 00:00:00,Trinidad and Tobago,Paraguay,1,1,Friendly,Arima,Trinidad and Tobago,False
+1989-03-23 00:00:00,Spain,Malta,4,0,FIFA World Cup qualification,Seville,Spain,False
+1989-03-25 00:00:00,Austria,Italy,0,1,Friendly,Vienna,Austria,False
+1989-03-25 00:00:00,Syria,Yemen,2,0,FIFA World Cup qualification,Latakia,Syria,False
+1989-03-26 00:00:00,Barbados,Jamaica,1,1,Friendly,Bridgetown,Barbados,False
+1989-03-26 00:00:00,Ethiopia,Malawi,1,1,Friendly,Addis Ababa,Ethiopia,False
+1989-03-26 00:00:00,Venezuela,Paraguay,1,2,Friendly,Caracas,Venezuela,False
+1989-03-27 00:00:00,Qatar,Malaysia,1,0,Friendly,Doha,Qatar,False
+1989-03-28 00:00:00,Barbados,Jamaica,1,1,Friendly,Bridgetown,Barbados,False
+1989-03-28 00:00:00,Ethiopia,Malawi,1,0,Friendly,Addis Ababa,Ethiopia,False
+1989-03-29 00:00:00,Greece,Turkey,0,1,Friendly,Athens,Greece,False
+1989-03-29 00:00:00,Portugal,Angola,6,0,Friendly,Lisbon,Portugal,False
+1989-03-29 00:00:00,Romania,Italy,1,0,Friendly,Sibiu,Romania,False
+1989-03-30 00:00:00,Syria,Saudi Arabia,0,0,FIFA World Cup qualification,Latakia,Syria,False
+1989-03-30 00:00:00,Venezuela,Paraguay,0,0,Friendly,Matur√≠n,Venezuela,False
+1989-03-31 00:00:00,Aruba,Trinidad and Tobago,0,7,Friendly,Willemstad,Netherlands Antilles,True
+1989-03-31 00:00:00,Ethiopia,Zambia,0,1,Friendly,Addis Ababa,Ethiopia,False
+1989-04-01 00:00:00,Cura√ßao,Trinidad and Tobago,1,1,Friendly,Willemstad,Netherlands Antilles,False
+1989-04-02 00:00:00,Costa Rica,Guatemala,2,1,CONCACAF Championship,San Jos√©,Costa Rica,False
+1989-04-02 00:00:00,Cura√ßao,Aruba,1,0,Friendly,Willemstad,Netherlands Antilles,False
+1989-04-02 00:00:00,Ethiopia,Zambia,2,2,Friendly,Addis Ababa,Ethiopia,False
+1989-04-02 00:00:00,New Zealand,Australia,2,0,FIFA World Cup qualification,Auckland,New Zealand,False
+1989-04-04 00:00:00,Algeria,Tunisia,2,0,Friendly,Algiers,Algeria,False
+1989-04-04 00:00:00,Hungary,Switzerland,3,0,Friendly,Budapest,Hungary,False
+1989-04-05 00:00:00,Greece,Yugoslavia,1,4,Friendly,Athens,Greece,False
+1989-04-05 00:00:00,Saudi Arabia,Yemen,1,0,FIFA World Cup qualification,Jeddah,Saudi Arabia,False
+1989-04-07 00:00:00,Sudan,Kenya,1,0,African Cup of Nations qualification,Khartoum,Sudan,False
+1989-04-09 00:00:00,Angola,Ivory Coast,0,2,African Cup of Nations qualification,Luanda,Angola,False
+1989-04-09 00:00:00,Ethiopia,Egypt,1,0,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+1989-04-09 00:00:00,Gabon,Ghana,1,0,African Cup of Nations qualification,Libreville,Gabon,False
+1989-04-09 00:00:00,Mali,Morocco,0,0,African Cup of Nations qualification,Bamako,Mali,False
+1989-04-09 00:00:00,Mauritius,Zimbabwe,1,4,African Cup of Nations qualification,Curepipe,Mauritius,False
+1989-04-09 00:00:00,New Zealand,Israel,2,2,FIFA World Cup qualification,Auckland,New Zealand,False
+1989-04-09 00:00:00,Eswatini,Malawi,0,2,African Cup of Nations qualification,Mbabane,Eswatini,False
+1989-04-11 00:00:00,Austria,Czechoslovakia,1,2,Friendly,Graz,Austria,False
+1989-04-12 00:00:00,Barbados,Bermuda,1,2,Friendly,Bridgetown,Barbados,False
+1989-04-12 00:00:00,Brazil,Paraguay,2,0,Friendly,Teresina,Brazil,False
+1989-04-12 00:00:00,Denmark,Canada,2,0,Friendly,Aalborg,Denmark,False
+1989-04-12 00:00:00,German DR,Turkey,0,2,FIFA World Cup qualification,Magdeburg,German DR,False
+1989-04-12 00:00:00,Hungary,Malta,1,1,FIFA World Cup qualification,Budapest,Hungary,False
+1989-04-12 00:00:00,Poland,Romania,2,1,Friendly,Warsaw,Poland,False
+1989-04-13 00:00:00,Angola,Mozambique,1,1,Friendly,Luanda,Angola,False
+1989-04-13 00:00:00,Ecuador,Argentina,2,2,Friendly,Guayaquil,Ecuador,False
+1989-04-14 00:00:00,Barbados,Bermuda,2,1,Friendly,Bridgetown,Barbados,False
+1989-04-14 00:00:00,Faroe Islands,Canada,1,0,Friendly,T√≥rshavn,Faroe Islands,False
+1989-04-15 00:00:00,Guinea,Nigeria,1,1,African Cup of Nations qualification,Conakry,Guinea,False
+1989-04-16 00:00:00,Australia,Israel,1,1,FIFA World Cup qualification,Sydney,Australia,False
+1989-04-16 00:00:00,Costa Rica,United States,1,0,CONCACAF Championship,San Jos√©,Costa Rica,False
+1989-04-16 00:00:00,Faroe Islands,Canada,0,1,Friendly,Klaksv√≠k,Faroe Islands,False
+1989-04-16 00:00:00,Mozambique,Zambia,0,1,African Cup of Nations qualification,Maputo,Mozambique,False
+1989-04-16 00:00:00,Trinidad and Tobago,Bermuda,1,1,Friendly,Port of Spain,Trinidad and Tobago,False
+1989-04-18 00:00:00,Trinidad and Tobago,Bermuda,0,1,Friendly,Arima,Trinidad and Tobago,False
+1989-04-20 00:00:00,Chile,Argentina,1,1,Friendly,Santiago,Chile,False
+1989-04-21 00:00:00,Egypt,Ethiopia,6,1,African Cup of Nations qualification,Cairo,Egypt,False
+1989-04-22 00:00:00,Italy,Uruguay,1,1,Friendly,Verona,Italy,False
+1989-04-22 00:00:00,Nigeria,Guinea,3,0,African Cup of Nations qualification,Ibadan,Nigeria,False
+1989-04-23 00:00:00,Antigua and Barbuda,Jamaica,1,0,CFU Caribbean Cup qualification,St. John's,Antigua and Barbuda,False
+1989-04-23 00:00:00,Ghana,Gabon,1,0,African Cup of Nations qualification,Accra,Ghana,False
+1989-04-23 00:00:00,Ivory Coast,Angola,4,1,African Cup of Nations qualification,Abidjan,Ivory Coast,False
+1989-04-23 00:00:00,Kenya,Sudan,1,0,African Cup of Nations qualification,Nairobi,Kenya,False
+1989-04-23 00:00:00,Malawi,Eswatini,1,1,African Cup of Nations qualification,Blantyre,Malawi,False
+1989-04-23 00:00:00,Morocco,Mali,1,1,African Cup of Nations qualification,Marrakech,Morocco,False
+1989-04-23 00:00:00,Saint Kitts and Nevis,French Guiana,1,0,CFU Caribbean Cup qualification,Basseterre,Saint Kitts and Nevis,False
+1989-04-23 00:00:00,Saint Lucia,Dominica,0,0,CFU Caribbean Cup qualification,Castries,Saint Lucia,False
+1989-04-23 00:00:00,Trinidad and Tobago,Aruba,11,0,CFU Caribbean Cup qualification,Arima,Trinidad and Tobago,False
+1989-04-23 00:00:00,Zimbabwe,Mauritius,1,0,African Cup of Nations qualification,Harare,Zimbabwe,False
+1989-04-26 00:00:00,Bulgaria,Denmark,0,2,FIFA World Cup qualification,Sofia,Bulgaria,False
+1989-04-26 00:00:00,Cura√ßao,Martinique,3,1,CFU Caribbean Cup qualification,Willemstad,Netherlands Antilles,True
+1989-04-26 00:00:00,England,Albania,5,0,FIFA World Cup qualification,London,England,False
+1989-04-26 00:00:00,Greece,Romania,0,0,FIFA World Cup qualification,Athens,Greece,False
+1989-04-26 00:00:00,Republic of Ireland,Spain,1,0,FIFA World Cup qualification,Dublin,Republic of Ireland,False
+1989-04-26 00:00:00,Italy,Hungary,4,0,Friendly,Taranto,Italy,False
+1989-04-26 00:00:00,Malta,Northern Ireland,0,2,FIFA World Cup qualification,Attard,Malta,False
+1989-04-26 00:00:00,Netherlands,Germany,1,1,FIFA World Cup qualification,Rotterdam,Netherlands,False
+1989-04-26 00:00:00,Portugal,Switzerland,3,1,FIFA World Cup qualification,Lisbon,Portugal,False
+1989-04-26 00:00:00,Russia,German DR,3,0,FIFA World Cup qualification,Kyiv,Soviet Union,True
+1989-04-26 00:00:00,Scotland,Cyprus,2,1,FIFA World Cup qualification,Glasgow,Scotland,False
+1989-04-26 00:00:00,Wales,Sweden,0,2,Friendly,Wrexham,Wales,False
+1989-04-29 00:00:00,Belgium,Czechoslovakia,2,1,FIFA World Cup qualification,Brussels,Belgium,False
+1989-04-29 00:00:00,France,Yugoslavia,0,0,FIFA World Cup qualification,Paris,France,False
+1989-04-30 00:00:00,United States,Costa Rica,1,0,CONCACAF Championship,St. Louis,United States,False
+1989-04-30 00:00:00,Zambia,Mozambique,3,0,African Cup of Nations qualification,Lusaka,Zambia,False
+1989-05-02 00:00:00,Norway,Poland,0,3,Friendly,Oslo,Norway,False
+1989-05-03 00:00:00,Uruguay,Ecuador,3,1,Friendly,Montevideo,Uruguay,False
+1989-05-05 00:00:00,El Salvador,Paraguay,1,2,Friendly,Los Angeles,United States,True
+1989-05-05 00:00:00,Guatemala,Chile,0,1,Friendly,Los Angeles,United States,True
+1989-05-05 00:00:00,South Korea,Japan,1,0,Friendly,Seoul,South Korea,False
+1989-05-07 00:00:00,El Salvador,Chile,0,1,Friendly,Los Angeles,United States,True
+1989-05-07 00:00:00,Grenada,Saint Kitts and Nevis,2,1,CFU Caribbean Cup qualification,St. George's,Grenada,False
+1989-05-07 00:00:00,Guatemala,Paraguay,1,2,Friendly,Los Angeles,United States,True
+1989-05-07 00:00:00,Jamaica,Guadeloupe,1,3,CFU Caribbean Cup qualification,Kingston,Jamaica,False
+1989-05-07 00:00:00,Sint Maarten,British Virgin Islands,1,2,CFU Caribbean Cup qualification,Philipsburg,Sint Maarten,False
+1989-05-07 00:00:00,Sweden,Poland,2,1,FIFA World Cup qualification,Solna,Sweden,False
+1989-05-09 00:00:00,Czechoslovakia,Luxembourg,4,0,FIFA World Cup qualification,Prague,Czechoslovakia,False
+1989-05-10 00:00:00,Brazil,Peru,4,1,Friendly,Fortaleza,Brazil,False
+1989-05-10 00:00:00,French Guiana,Trinidad and Tobago,1,3,CFU Caribbean Cup qualification,Cayenne,French Guiana,False
+1989-05-10 00:00:00,Japan,China PR,2,2,Friendly,Tokyo,Japan,False
+1989-05-10 00:00:00,Turkey,Russia,0,1,FIFA World Cup qualification,Istanbul,Turkey,False
+1989-05-13 00:00:00,Dominica,Antigua and Barbuda,0,1,CFU Caribbean Cup qualification,Roseau,Dominica,False
+1989-05-13 00:00:00,Hong Kong,Macau,2,1,Friendly,So Kon Po,Hong Kong,False
+1989-05-13 00:00:00,Japan,China PR,2,0,Friendly,Okayama,Japan,False
+1989-05-13 00:00:00,Singapore,Indonesia,1,2,Friendly,Singapore,Singapore,False
+1989-05-13 00:00:00,United States,Trinidad and Tobago,1,1,CONCACAF Championship,Torrance,United States,False
+1989-05-15 00:00:00,Paraguay,Peru,1,1,Friendly,Asunci√≥n,Paraguay,False
+1989-05-16 00:00:00,Namibia,Angola,0,1,Friendly,Windhoek,Namibia,False
+1989-05-17 00:00:00,Denmark,Greece,7,1,FIFA World Cup qualification,Copenhagen,Denmark,False
+1989-05-17 00:00:00,Romania,Bulgaria,1,0,FIFA World Cup qualification,Bucharest,Romania,False
+1989-05-18 00:00:00,Peru,Venezuela,2,1,Friendly,Lima,Peru,False
+1989-05-20 00:00:00,German DR,Austria,1,1,FIFA World Cup qualification,Leipzig,German DR,False
+1989-05-21 00:00:00,Aruba,Grenada,0,0,CFU Caribbean Cup qualification,Oranjestad,Aruba,False
+1989-05-21 00:00:00,Guadeloupe,Dominica,0,0,CFU Caribbean Cup qualification,Basse-Terre,Guadeloupe,False
+1989-05-21 00:00:00,Indonesia,North Korea,0,0,FIFA World Cup qualification,Jakarta,Indonesia,False
+1989-05-21 00:00:00,Martinique,British Virgin Islands,0,0,CFU Caribbean Cup qualification,Fort-de-France,Martinique,False
+1989-05-21 00:00:00,Norway,Cyprus,3,1,FIFA World Cup qualification,Oslo,Norway,False
+1989-05-21 00:00:00,Saint Kitts and Nevis,Trinidad and Tobago,0,2,CFU Caribbean Cup qualification,Basseterre,Saint Kitts and Nevis,False
+1989-05-21 00:00:00,Saint Vincent and the Grenadines,Cura√ßao,3,2,CFU Caribbean Cup qualification,Kingstown,Saint Vincent and the Grenadines,False
+1989-05-22 00:00:00,Hong Kong,Japan,0,0,FIFA World Cup qualification,Victoria,Hong Kong,False
+1989-05-23 00:00:00,Ecuador,Uruguay,1,1,Friendly,Quito,Ecuador,False
+1989-05-23 00:00:00,England,Chile,0,0,Rous Cup,London,England,False
+1989-05-23 00:00:00,South Korea,Singapore,3,0,FIFA World Cup qualification,Seoul,South Korea,False
+1989-05-23 00:00:00,Malaysia,Nepal,2,0,FIFA World Cup qualification,Seoul,South Korea,True
+1989-05-24 00:00:00,Guinea-Bissau,Senegal,0,0,Am√≠lcar Cabral Cup,Bamako,Mali,True
+1989-05-24 00:00:00,Morocco,Algeria,1,0,Friendly,Rabat,Morocco,False
+1989-05-24 00:00:00,Peru,Brazil,1,1,Friendly,Lima,Peru,False
+1989-05-25 00:00:00,Bolivia,Paraguay,3,2,Friendly,Cochabamba,Bolivia,False
+1989-05-25 00:00:00,South Korea,Nepal,9,0,FIFA World Cup qualification,Seoul,South Korea,False
+1989-05-25 00:00:00,Malaysia,Singapore,1,0,FIFA World Cup qualification,Seoul,South Korea,True
+1989-05-25 00:00:00,Mali,Cape Verde,1,1,Am√≠lcar Cabral Cup,Bamako,Mali,False
+1989-05-25 00:00:00,Mauritania,Sierra Leone,1,2,Am√≠lcar Cabral Cup,Bamako,Mali,True
+1989-05-26 00:00:00,Northern Ireland,Chile,0,1,Friendly,Belfast,Northern Ireland,False
+1989-05-27 00:00:00,Belgium,Yugoslavia,1,0,Friendly,Brussels,Belgium,False
+1989-05-27 00:00:00,Cape Verde,Guinea-Bissau,2,3,Am√≠lcar Cabral Cup,Bamako,Mali,True
+1989-05-27 00:00:00,Hong Kong,North Korea,1,2,FIFA World Cup qualification,Victoria,Hong Kong,False
+1989-05-27 00:00:00,South Korea,Malaysia,3,0,FIFA World Cup qualification,Seoul,South Korea,False
+1989-05-27 00:00:00,Mali,Senegal,2,2,Am√≠lcar Cabral Cup,Bamako,Mali,False
+1989-05-27 00:00:00,Scotland,England,0,2,Rous Cup,Glasgow,Scotland,False
+1989-05-27 00:00:00,Singapore,Nepal,3,0,FIFA World Cup qualification,Seoul,South Korea,True
+1989-05-28 00:00:00,Indonesia,Japan,0,0,FIFA World Cup qualification,Jakarta,Indonesia,False
+1989-05-28 00:00:00,Republic of Ireland,Malta,2,0,FIFA World Cup qualification,Dublin,Republic of Ireland,False
+1989-05-28 00:00:00,Trinidad and Tobago,Costa Rica,1,1,CONCACAF Championship,Port of Spain,Trinidad and Tobago,False
+1989-05-30 00:00:00,Cape Verde,Senegal,2,1,Am√≠lcar Cabral Cup,Bamako,Mali,True
+1989-05-30 00:00:00,Guinea,Mauritania,3,1,Am√≠lcar Cabral Cup,Bamako,Mali,True
+1989-05-30 00:00:00,Iran,Thailand,3,0,FIFA World Cup qualification,Tehran,Iran,False
+1989-05-30 00:00:00,Mali,Guinea-Bissau,2,1,Am√≠lcar Cabral Cup,Bamako,Mali,False
+1989-05-30 00:00:00,Scotland,Chile,2,0,Rous Cup,Glasgow,Scotland,False
+1989-05-31 00:00:00,Finland,Netherlands,0,1,FIFA World Cup qualification,Helsinki,Finland,False
+1989-05-31 00:00:00,Norway,Austria,4,1,Friendly,Oslo,Norway,False
+1989-05-31 00:00:00,Russia,Iceland,1,1,FIFA World Cup qualification,Moscow,Soviet Union,True
+1989-05-31 00:00:00,Sweden,Algeria,2,0,Friendly,√ñrebro,Sweden,False
+1989-05-31 00:00:00,Wales,Germany,0,0,FIFA World Cup qualification,Cardiff,Wales,False
+1989-06-01 00:00:00,Ivory Coast,DR Congo,1,1,Friendly,Abidjan,Ivory Coast,False
+1989-06-01 00:00:00,Luxembourg,Belgium,0,5,FIFA World Cup qualification,Lille,France,True
+1989-06-01 00:00:00,Paraguay,Bolivia,2,0,Friendly,Asunci√≥n,Paraguay,False
+1989-06-02 00:00:00,Cape Verde,Guinea,0,1,Am√≠lcar Cabral Cup,Bamako,Mali,True
+1989-06-02 00:00:00,Mali,Sierra Leone,1,0,Am√≠lcar Cabral Cup,Bamako,Mali,False
+1989-06-03 00:00:00,Cape Verde,Sierra Leone,1,0,Am√≠lcar Cabral Cup,Bamako,Mali,True
+1989-06-03 00:00:00,Cura√ßao,British Virgin Islands,4,0,CFU Caribbean Cup qualification,Willemstad,Netherlands Antilles,True
+1989-06-03 00:00:00,Egypt,Chile,2,0,Friendly,Cairo,Egypt,False
+1989-06-03 00:00:00,England,Poland,3,0,FIFA World Cup qualification,London,England,False
+1989-06-03 00:00:00,Malawi,Tunisia,1,0,Friendly,Lilongwe,Malawi,False
+1989-06-03 00:00:00,Nepal,South Korea,0,4,FIFA World Cup qualification,Singapore,Singapore,True
+1989-06-03 00:00:00,Singapore,Malaysia,2,2,FIFA World Cup qualification,Singapore,Singapore,False
+1989-06-04 00:00:00,Dominica,Jamaica,0,0,CFU Caribbean Cup qualification,Roseau,Dominica,False
+1989-06-04 00:00:00,Gabon,DR Congo,0,0,Friendly,Libreville,Gabon,False
+1989-06-04 00:00:00,Hong Kong,Indonesia,1,1,FIFA World Cup qualification,Victoria,Hong Kong,False
+1989-06-04 00:00:00,Republic of Ireland,Hungary,2,0,FIFA World Cup qualification,Dublin,Republic of Ireland,False
+1989-06-04 00:00:00,Japan,North Korea,2,1,FIFA World Cup qualification,Tokyo,Japan,False
+1989-06-04 00:00:00,Mali,Guinea,3,0,Am√≠lcar Cabral Cup,Bamako,Mali,False
+1989-06-04 00:00:00,United States,Peru,3,0,Friendly,East Rutherford,United States,False
+1989-06-05 00:00:00,Malaysia,South Korea,0,3,FIFA World Cup qualification,Singapore,Singapore,True
+1989-06-05 00:00:00,Singapore,Nepal,7,0,FIFA World Cup qualification,Singapore,Singapore,False
+1989-06-06 00:00:00,Grenada,Trinidad and Tobago,1,0,CFU Caribbean Cup qualification,St. George's,Grenada,False
+1989-06-07 00:00:00,Denmark,England,1,1,Friendly,Copenhagen,Denmark,False
+1989-06-07 00:00:00,Malaysia,Nepal,3,0,FIFA World Cup qualification,Singapore,Singapore,True
+1989-06-07 00:00:00,Martinique,Sint Maarten,10,0,CFU Caribbean Cup qualification,Fort-de-France,Martinique,False
+1989-06-07 00:00:00,Singapore,South Korea,0,3,FIFA World Cup qualification,Singapore,Singapore,False
+1989-06-07 00:00:00,Switzerland,Czechoslovakia,0,1,FIFA World Cup qualification,Berne,Switzerland,False
+1989-06-08 00:00:00,Bolivia,Uruguay,0,0,Friendly,Santa Cruz,Bolivia,False
+1989-06-08 00:00:00,Brazil,Portugal,4,0,Friendly,Rio de Janeiro,Brazil,False
+1989-06-08 00:00:00,Canada,Belgium,0,2,Friendly,Ottawa,Canada,False
+1989-06-08 00:00:00,French Guiana,Aruba,4,0,CFU Caribbean Cup qualification,Cayenne,French Guiana,False
+1989-06-10 00:00:00,Kenya,Egypt,0,0,FIFA World Cup qualification,Nairobi,Kenya,False
+1989-06-10 00:00:00,Nigeria,Cameroon,2,0,FIFA World Cup qualification,Ibadan,Nigeria,False
+1989-06-11 00:00:00,Angola,Gabon,2,0,FIFA World Cup qualification,Luanda,Angola,False
+1989-06-11 00:00:00,DR Congo,Morocco,0,0,FIFA World Cup qualification,Kinshasa,Za√Øre,False
+1989-06-11 00:00:00,Costa Rica,Trinidad and Tobago,1,0,CONCACAF Championship,San Jos√©,Costa Rica,False
+1989-06-11 00:00:00,Ivory Coast,Algeria,0,0,FIFA World Cup qualification,Abidjan,Ivory Coast,False
+1989-06-11 00:00:00,Japan,Indonesia,5,0,FIFA World Cup qualification,Tokyo,Japan,False
+1989-06-11 00:00:00,Liberia,Malawi,1,0,FIFA World Cup qualification,Monrovia,Liberia,False
+1989-06-11 00:00:00,Zambia,Tunisia,1,0,FIFA World Cup qualification,Lusaka,Zambia,False
+1989-06-14 00:00:00,Denmark,Sweden,6,0,Friendly,Copenhagen,Denmark,False
+1989-06-14 00:00:00,Iceland,Austria,0,0,FIFA World Cup qualification,Reykjav√≠k,Iceland,False
+1989-06-14 00:00:00,Norway,Yugoslavia,1,2,FIFA World Cup qualification,Oslo,Norway,False
+1989-06-14 00:00:00,Uruguay,Bolivia,1,0,Friendly,Montevideo,Uruguay,False
+1989-06-16 00:00:00,Brazil,Sweden,1,2,Friendly,Copenhagen,Denmark,True
+1989-06-16 00:00:00,Trinidad and Tobago,Peru,2,1,Friendly,Port of Spain,Trinidad and Tobago,False
+1989-06-16 00:00:00,Zimbabwe,Zambia,0,0,Friendly,Harare,Zimbabwe,False
+1989-06-17 00:00:00,United States,Guatemala,2,1,CONCACAF Championship,New Britain,United States,False
+1989-06-18 00:00:00,Aruba,Saint Kitts and Nevis,1,4,CFU Caribbean Cup qualification,Oranjestad,Aruba,False
+1989-06-18 00:00:00,Denmark,Brazil,4,0,Friendly,Copenhagen,Denmark,False
+1989-06-18 00:00:00,Jamaica,Saint Lucia,1,1,CFU Caribbean Cup qualification,Kingston,Jamaica,False
+1989-06-18 00:00:00,Japan,Hong Kong,0,0,FIFA World Cup qualification,Kobe,Japan,False
+1989-06-18 00:00:00,Sint Maarten,Cura√ßao,1,2,CFU Caribbean Cup qualification,Philipsburg,Sint Maarten,False
+1989-06-19 00:00:00,Uruguay,Chile,2,2,Friendly,Montevideo,Uruguay,False
+1989-06-20 00:00:00,Ecuador,Peru,1,2,Friendly,Port of Spain,Trinidad and Tobago,True
+1989-06-21 00:00:00,Switzerland,Brazil,1,0,Friendly,Basel,Switzerland,False
+1989-06-22 00:00:00,Bolivia,Chile,0,1,Friendly,Santa Cruz,Bolivia,False
+1989-06-24 00:00:00,Malawi,Kenya,1,0,FIFA World Cup qualification,Lilongwe,Malawi,False
+1989-06-24 00:00:00,United States,Colombia,0,1,Friendly,Miami,United States,False
+1989-06-25 00:00:00,Angola,Cameroon,1,2,FIFA World Cup qualification,Luanda,Angola,False
+1989-06-25 00:00:00,El Salvador,Costa Rica,2,4,CONCACAF Championship,San Salvador,El Salvador,False
+1989-06-25 00:00:00,Gabon,Nigeria,2,1,FIFA World Cup qualification,Libreville,Gabon,False
+1989-06-25 00:00:00,Indonesia,Hong Kong,3,2,FIFA World Cup qualification,Jakarta,Indonesia,False
+1989-06-25 00:00:00,North Korea,Japan,2,0,FIFA World Cup qualification,Pyongyang,North Korea,False
+1989-06-25 00:00:00,Liberia,Egypt,1,0,FIFA World Cup qualification,Monrovia,Liberia,False
+1989-06-25 00:00:00,Tunisia,DR Congo,1,0,FIFA World Cup qualification,Tunis,Tunisia,False
+1989-06-25 00:00:00,Venezuela,Peru,3,1,Friendly,San Crist√≥bal,Venezuela,False
+1989-06-25 00:00:00,Zambia,Morocco,2,1,FIFA World Cup qualification,Lusaka,Zambia,False
+1989-06-25 00:00:00,Zimbabwe,Algeria,1,2,FIFA World Cup qualification,Harare,Zimbabwe,False
+1989-06-26 00:00:00,South Korea,Czechoslovakia,0,0,Korea Cup,Seoul,South Korea,False
+1989-06-27 00:00:00,Chile,Bolivia,2,1,Friendly,Santiago,Chile,False
+1989-06-27 00:00:00,Haiti,Colombia,0,4,Friendly,Miami,United States,True
+1989-06-30 00:00:00,Grenada,French Guiana,0,0,CFU Caribbean Cup qualification,St. George's,Grenada,False
+1989-07-01 00:00:00,Brazil,Venezuela,3,1,Copa Am√©rica,Salvador,Brazil,False
+1989-07-01 00:00:00,Paraguay,Peru,5,2,Copa Am√©rica,Salvador,Brazil,True
+1989-07-02 00:00:00,Argentina,Chile,1,0,Copa Am√©rica,Goi√¢nia,Brazil,True
+1989-07-02 00:00:00,Grenada,Saint Vincent and the Grenadines,2,0,CFU Caribbean Cup,Bridgetown,Barbados,True
+1989-07-02 00:00:00,North Korea,Hong Kong,4,1,FIFA World Cup qualification,Pyongyang,North Korea,False
+1989-07-02 00:00:00,Uruguay,Ecuador,0,1,Copa Am√©rica,Goi√¢nia,Brazil,True
+1989-07-03 00:00:00,Barbados,Guadeloupe,1,0,CFU Caribbean Cup,Bridgetown,Barbados,False
+1989-07-03 00:00:00,Brazil,Peru,0,0,Copa Am√©rica,Salvador,Brazil,False
+1989-07-03 00:00:00,Venezuela,Colombia,2,4,Copa Am√©rica,Salvador,Brazil,True
+1989-07-04 00:00:00,Argentina,Ecuador,0,0,Copa Am√©rica,Goi√¢nia,Brazil,True
+1989-07-04 00:00:00,Cura√ßao,Saint Vincent and the Grenadines,1,1,CFU Caribbean Cup,Bridgetown,Barbados,True
+1989-07-04 00:00:00,Uruguay,Bolivia,3,0,Copa Am√©rica,Goi√¢nia,Brazil,True
+1989-07-05 00:00:00,Barbados,Trinidad and Tobago,0,3,CFU Caribbean Cup,Bridgetown,Barbados,False
+1989-07-05 00:00:00,Colombia,Paraguay,0,1,Copa Am√©rica,Salvador,Brazil,True
+1989-07-05 00:00:00,Peru,Venezuela,1,1,Copa Am√©rica,Salvador,Brazil,True
+1989-07-06 00:00:00,Chile,Uruguay,0,3,Copa Am√©rica,Goi√¢nia,Brazil,True
+1989-07-06 00:00:00,Cura√ßao,Grenada,1,1,CFU Caribbean Cup,Bridgetown,Barbados,True
+1989-07-06 00:00:00,Ecuador,Bolivia,0,0,Copa Am√©rica,Goi√¢nia,Brazil,True
+1989-07-06 00:00:00,Malawi,Gabon,2,0,Friendly,Blantyre,Malawi,False
+1989-07-06 00:00:00,Faroe Islands,Ynys M√¥n,6,0,Island Games,G√∏ta,Faroe Islands,False
+1989-07-06 00:00:00,Greenland,Shetland,4,1,Island Games,V√°gur,Faroe Islands,True
+1989-07-07 00:00:00,Brazil,Colombia,0,0,Copa Am√©rica,Salvador,Brazil,False
+1989-07-07 00:00:00,Gabon,Mozambique,1,0,Friendly,Blantyre,Malawi,True
+1989-07-07 00:00:00,Guadeloupe,Trinidad and Tobago,2,0,CFU Caribbean Cup,Bridgetown,Barbados,True
+1989-07-07 00:00:00,Paraguay,Venezuela,3,0,Copa Am√©rica,Salvador,Brazil,True
+1989-07-08 00:00:00,Bolivia,Chile,0,5,Copa Am√©rica,Goi√¢nia,Brazil,True
+1989-07-08 00:00:00,Uruguay,Argentina,0,1,Copa Am√©rica,Goi√¢nia,Brazil,True
+1989-07-08 00:00:00,Faroe Islands,Shetland,4,0,Island Games,T√≥rshavn,Faroe Islands,False
+1989-07-08 00:00:00,√Öland Islands,Ynys M√¥n,4,5,Island Games,Sandav√°gur,Faroe Islands,True
+1989-07-09 00:00:00,Brazil,Paraguay,2,0,Copa Am√©rica,Recife,Brazil,False
+1989-07-09 00:00:00,Colombia,Peru,1,1,Copa Am√©rica,Recife,Brazil,True
+1989-07-09 00:00:00,Grenada,Trinidad and Tobago,1,2,CFU Caribbean Cup,Bridgetown,Barbados,True
+1989-07-09 00:00:00,North Korea,Indonesia,2,1,FIFA World Cup qualification,Pyongyang,North Korea,False
+1989-07-09 00:00:00,Malawi,Mozambique,0,1,Friendly,Blantyre,Malawi,False
+1989-07-09 00:00:00,Faroe Islands,Greenland,3,0,Island Games,Fuglafj√∏r√∞ur,Faroe Islands,False
+1989-07-09 00:00:00,√Öland Islands,Shetland,2,0,Island Games,Klaksv√≠k,Faroe Islands,True
+1989-07-10 00:00:00,Argentina,Bolivia,0,0,Copa Am√©rica,Goi√¢nia,Brazil,True
+1989-07-10 00:00:00,Chile,Ecuador,2,1,Copa Am√©rica,Goi√¢nia,Brazil,True
+1989-07-10 00:00:00,Kenya,DR Congo,0,1,Friendly,Nairobi,Kenya,False
+1989-07-11 00:00:00,Malawi,Mozambique,0,2,Friendly,Mzuzu,Malawi,False
+1989-07-11 00:00:00,√Öland Islands,Greenland,3,0,Island Games,Sandur,Faroe Islands,True
+1989-07-11 00:00:00,Ynys M√¥n,Shetland,3,0,Island Games,Sandur,Faroe Islands,True
+1989-07-12 00:00:00,Brazil,Argentina,2,0,Copa Am√©rica,Rio de Janeiro,Brazil,False
+1989-07-12 00:00:00,Paraguay,Uruguay,0,3,Copa Am√©rica,Rio de Janeiro,Brazil,True
+1989-07-12 00:00:00,Faroe Islands,√Öland Islands,7,1,Island Games,T√≥rshavn,Faroe Islands,False
+1989-07-12 00:00:00,Ynys M√¥n,Greenland,1,0,Island Games,Klaksv√≠k,Faroe Islands,True
+1989-07-14 00:00:00,Argentina,Uruguay,0,2,Copa Am√©rica,Rio de Janeiro,Brazil,True
+1989-07-14 00:00:00,Brazil,Paraguay,3,0,Copa Am√©rica,Rio de Janeiro,Brazil,False
+1989-07-15 00:00:00,China PR,Iran,2,0,FIFA World Cup qualification,Shenyang,China PR,False
+1989-07-16 00:00:00,Brazil,Uruguay,1,0,Copa Am√©rica,Rio de Janeiro,Brazil,False
+1989-07-16 00:00:00,Costa Rica,El Salvador,1,0,CONCACAF Championship,San Jos√©,Costa Rica,False
+1989-07-16 00:00:00,Egypt,DR Congo,2,0,African Cup of Nations qualification,Cairo,Egypt,False
+1989-07-16 00:00:00,Mali,Ivory Coast,2,2,African Cup of Nations qualification,Bamako,Mali,False
+1989-07-16 00:00:00,Paraguay,Argentina,0,0,Copa Am√©rica,Rio de Janeiro,Brazil,True
+1989-07-16 00:00:00,Senegal,Tunisia,3,0,African Cup of Nations qualification,Dakar,Senegal,False
+1989-07-22 00:00:00,Iran,China PR,3,2,FIFA World Cup qualification,Tehran,Iran,False
+1989-07-23 00:00:00,Brazil,Japan,1,0,Friendly,Rio de Janeiro,Brazil,False
+1989-07-25 00:00:00,Chile,Peru,2,1,Friendly,Arica,Chile,False
+1989-07-26 00:00:00,Algeria,Qatar,1,1,Friendly,Tlemcen,Algeria,False
+1989-07-28 00:00:00,DR Congo,Egypt,0,0,African Cup of Nations qualification,Kinshasa,Za√Øre,False
+1989-07-29 00:00:00,China PR,Thailand,2,0,FIFA World Cup qualification,Shenyang,China PR,False
+1989-07-30 00:00:00,Gabon,Zambia,2,1,African Cup of Nations qualification,Libreville,Gabon,False
+1989-07-30 00:00:00,Ivory Coast,Mali,3,1,African Cup of Nations qualification,Abidjan,Ivory Coast,False
+1989-07-30 00:00:00,Trinidad and Tobago,El Salvador,2,0,CONCACAF Championship,Port of Spain,Trinidad and Tobago,False
+1989-07-30 00:00:00,Tunisia,Senegal,0,1,African Cup of Nations qualification,Tunis,Tunisia,False
+1989-07-30 00:00:00,Venezuela,Brazil,0,4,FIFA World Cup qualification,Caracas,Venezuela,False
+1989-07-30 00:00:00,Zimbabwe,Nigeria,1,1,African Cup of Nations qualification,Harare,Zimbabwe,False
+1989-08-05 00:00:00,Tunisia,Malawi,3,0,Friendly,Tunis,Tunisia,False
+1989-08-06 00:00:00,Uruguay,Colombia,0,0,Friendly,Montevideo,Uruguay,False
+1989-08-06 00:00:00,Venezuela,Chile,1,3,FIFA World Cup qualification,Caracas,Venezuela,False
+1989-08-10 00:00:00,Mexico,South Korea,4,2,Friendly,Los Angeles,United States,True
+1989-08-12 00:00:00,Egypt,Malawi,1,0,FIFA World Cup qualification,Cairo,Egypt,False
+1989-08-12 00:00:00,Kenya,Liberia,1,0,FIFA World Cup qualification,Nairobi,Kenya,False
+1989-08-12 00:00:00,Nigeria,Angola,1,0,FIFA World Cup qualification,Lagos,Nigeria,False
+1989-08-13 00:00:00,Cameroon,Gabon,2,1,FIFA World Cup qualification,Yaound√©,Cameroon,False
+1989-08-13 00:00:00,Chile,Brazil,1,1,FIFA World Cup qualification,Santiago,Chile,False
+1989-08-13 00:00:00,DR Congo,Zambia,1,0,FIFA World Cup qualification,Kinshasa,Za√Øre,False
+1989-08-13 00:00:00,El Salvador,Trinidad and Tobago,0,0,CONCACAF Championship,Tegucigalpa,Honduras,True
+1989-08-13 00:00:00,Ivory Coast,Zimbabwe,5,0,FIFA World Cup qualification,Abidjan,Ivory Coast,False
+1989-08-13 00:00:00,Morocco,Tunisia,0,0,FIFA World Cup qualification,Casablanca,Morocco,False
+1989-08-13 00:00:00,United States,South Korea,1,2,Friendly,Los Angeles,United States,False
+1989-08-16 00:00:00,Sweden,France,2,4,Friendly,Malm√∂,Sweden,False
+1989-08-20 00:00:00,Bolivia,Peru,2,1,FIFA World Cup qualification,La Paz,Bolivia,False
+1989-08-20 00:00:00,Brazil,Venezuela,6,0,FIFA World Cup qualification,S√£o Paulo,Brazil,False
+1989-08-20 00:00:00,Colombia,Ecuador,2,0,FIFA World Cup qualification,Barranquilla,Colombia,False
+1989-08-20 00:00:00,Guatemala,Trinidad and Tobago,0,1,CONCACAF Championship,Guatemala,Guatemala,False
+1989-08-23 00:00:00,Austria,Iceland,2,1,FIFA World Cup qualification,Salzburg,Austria,False
+1989-08-23 00:00:00,Belgium,Denmark,3,0,Friendly,Bruges,Belgium,False
+1989-08-23 00:00:00,Finland,Yugoslavia,2,2,Friendly,Kuopio,Finland,False
+1989-08-23 00:00:00,German DR,Bulgaria,1,1,Friendly,Erfurt,German DR,False
+1989-08-23 00:00:00,Norway,Greece,0,0,Friendly,Oslo,Norway,False
+1989-08-23 00:00:00,Poland,Russia,1,1,Friendly,Lubin,Poland,False
+1989-08-25 00:00:00,Algeria,Ivory Coast,1,0,FIFA World Cup qualification,Annaba,Algeria,False
+1989-08-26 00:00:00,Egypt,Kenya,2,0,FIFA World Cup qualification,Cairo,Egypt,False
+1989-08-26 00:00:00,Malawi,Liberia,0,0,FIFA World Cup qualification,Lilongwe,Malawi,False
+1989-08-27 00:00:00,Cameroon,Nigeria,1,0,FIFA World Cup qualification,Yaound√©,Cameroon,False
+1989-08-27 00:00:00,Chile,Venezuela,5,0,FIFA World Cup qualification,Mendoza,Argentina,True
+1989-08-27 00:00:00,Gabon,Angola,1,0,FIFA World Cup qualification,Libreville,Gabon,False
+1989-08-27 00:00:00,Morocco,DR Congo,1,1,FIFA World Cup qualification,Kenitra,Morocco,False
+1989-08-27 00:00:00,Paraguay,Colombia,2,1,FIFA World Cup qualification,Asunci√≥n,Paraguay,False
+1989-08-27 00:00:00,Peru,Uruguay,0,2,FIFA World Cup qualification,Lima,Peru,False
+1989-08-27 00:00:00,Tunisia,Zambia,1,0,FIFA World Cup qualification,Tunis,Tunisia,False
+1989-08-31 00:00:00,Portugal,Romania,0,0,Friendly,Set√∫bal,Portugal,False
+1989-09-01 00:00:00,Trinidad and Tobago,Panama,2,0,Friendly,Port of Spain,Trinidad and Tobago,False
+1989-09-03 00:00:00,Bolivia,Uruguay,2,1,FIFA World Cup qualification,La Paz,Bolivia,False
+1989-09-03 00:00:00,Brazil,Chile,1,0,FIFA World Cup qualification,Rio de Janeiro,Brazil,False
+1989-09-03 00:00:00,Ecuador,Colombia,0,0,FIFA World Cup qualification,Guayaquil,Ecuador,False
+1989-09-03 00:00:00,Trinidad and Tobago,Guatemala,2,1,CONCACAF Championship,Port of Spain,Trinidad and Tobago,False
+1989-09-05 00:00:00,Czechoslovakia,Romania,2,0,Friendly,Nitra,Czechoslovakia,False
+1989-09-05 00:00:00,Norway,France,1,1,FIFA World Cup qualification,Oslo,Norway,False
+1989-09-05 00:00:00,Poland,Greece,3,0,Friendly,Warsaw,Poland,False
+1989-09-06 00:00:00,Austria,Russia,0,0,FIFA World Cup qualification,Vienna,Austria,False
+1989-09-06 00:00:00,Belgium,Portugal,3,0,FIFA World Cup qualification,Brussels,Belgium,False
+1989-09-06 00:00:00,Finland,Wales,1,0,FIFA World Cup qualification,Helsinki,Finland,False
+1989-09-06 00:00:00,Iceland,German DR,0,3,FIFA World Cup qualification,Reykjav√≠k,Iceland,False
+1989-09-06 00:00:00,Republic of Ireland,Germany,1,1,Friendly,Dublin,Republic of Ireland,False
+1989-09-06 00:00:00,Netherlands,Denmark,2,2,Friendly,Amsterdam,Netherlands,False
+1989-09-06 00:00:00,Northern Ireland,Hungary,1,2,FIFA World Cup qualification,Belfast,Northern Ireland,False
+1989-09-06 00:00:00,Sweden,England,0,0,FIFA World Cup qualification,Solna,Sweden,False
+1989-09-06 00:00:00,Yugoslavia,Scotland,3,1,FIFA World Cup qualification,Zagreb,Yugoslavia,False
+1989-09-10 00:00:00,Paraguay,Ecuador,2,1,FIFA World Cup qualification,Asunci√≥n,Paraguay,False
+1989-09-10 00:00:00,Peru,Bolivia,1,2,FIFA World Cup qualification,Lima,Peru,False
+1989-09-16 00:00:00,South Korea,Egypt,0,1,Friendly,Seoul,South Korea,False
+1989-09-17 00:00:00,Colombia,Paraguay,2,1,FIFA World Cup qualification,Barranquilla,Colombia,False
+1989-09-17 00:00:00,El Salvador,United States,0,1,CONCACAF Championship,Tegucigalpa,Honduras,True
+1989-09-17 00:00:00,Uruguay,Bolivia,2,0,FIFA World Cup qualification,Montevideo,Uruguay,False
+1989-09-20 00:00:00,Iceland,Turkey,2,1,FIFA World Cup qualification,Reykjav√≠k,Iceland,False
+1989-09-20 00:00:00,Italy,Bulgaria,4,0,Friendly,Cesena,Italy,False
+1989-09-20 00:00:00,Kuwait,China PR,2,0,Friendly,Kuwait City,Kuwait,False
+1989-09-20 00:00:00,Spain,Poland,1,0,Friendly,La Coru√±a,Spain,False
+1989-09-20 00:00:00,Switzerland,Portugal,1,2,FIFA World Cup qualification,Neuch√¢tel,Switzerland,False
+1989-09-20 00:00:00,Yugoslavia,Greece,3,0,Friendly,Novi Sad,Yugoslavia,False
+1989-09-22 00:00:00,Kuwait,Qatar,1,0,Friendly,Kuwait City,Kuwait,False
+1989-09-24 00:00:00,Ecuador,Paraguay,3,1,FIFA World Cup qualification,Guayaquil,Ecuador,False
+1989-09-24 00:00:00,Uruguay,Peru,2,0,FIFA World Cup qualification,Montevideo,Uruguay,False
+1989-09-25 00:00:00,Kuwait,Egypt,0,0,Friendly,Kuwait City,Kuwait,False
+1989-10-04 00:00:00,Germany,Finland,6,1,FIFA World Cup qualification,Dortmund,Germany,False
+1989-10-04 00:00:00,Malta,Austria,1,2,Friendly,Attard,Malta,False
+1989-10-06 00:00:00,Czechoslovakia,Portugal,2,1,FIFA World Cup qualification,Prague,Czechoslovakia,False
+1989-10-08 00:00:00,Algeria,Egypt,0,0,FIFA World Cup qualification,Constantine,Algeria,False
+1989-10-08 00:00:00,Cameroon,Tunisia,2,0,FIFA World Cup qualification,Yaound√©,Cameroon,False
+1989-10-08 00:00:00,German DR,Russia,2,1,FIFA World Cup qualification,Karl-Marx-Stadt,German DR,False
+1989-10-08 00:00:00,Guatemala,United States,0,0,CONCACAF Championship,Guatemala,Guatemala,False
+1989-10-08 00:00:00,Sweden,Albania,3,1,FIFA World Cup qualification,Solna,Sweden,False
+1989-10-11 00:00:00,Bulgaria,Greece,4,0,FIFA World Cup qualification,Varna,Bulgaria,False
+1989-10-11 00:00:00,Cyprus,Malta,0,0,Friendly,Larnaca,Cyprus,False
+1989-10-11 00:00:00,Denmark,Romania,3,0,FIFA World Cup qualification,Copenhagen,Denmark,False
+1989-10-11 00:00:00,France,Scotland,3,0,FIFA World Cup qualification,Paris,France,False
+1989-10-11 00:00:00,Hungary,Spain,2,2,FIFA World Cup qualification,Budapest,Hungary,False
+1989-10-11 00:00:00,Republic of Ireland,Northern Ireland,3,0,FIFA World Cup qualification,Dublin,Republic of Ireland,False
+1989-10-11 00:00:00,Luxembourg,Portugal,0,3,FIFA World Cup qualification,Saarbr√ºcken,Germany,True
+1989-10-11 00:00:00,Poland,England,0,0,FIFA World Cup qualification,Chorz√≥w,Poland,False
+1989-10-11 00:00:00,Switzerland,Belgium,2,2,FIFA World Cup qualification,Basel,Switzerland,False
+1989-10-11 00:00:00,Wales,Netherlands,1,2,FIFA World Cup qualification,Wrexham,Wales,False
+1989-10-11 00:00:00,Yugoslavia,Norway,1,0,FIFA World Cup qualification,Sarajevo,Yugoslavia,False
+1989-10-12 00:00:00,China PR,Saudi Arabia,2,1,FIFA World Cup qualification,Singapore,Singapore,True
+1989-10-12 00:00:00,United Arab Emirates,North Korea,0,0,FIFA World Cup qualification,Singapore,Singapore,True
+1989-10-13 00:00:00,South Korea,Qatar,0,0,FIFA World Cup qualification,Singapore,Singapore,True
+1989-10-14 00:00:00,Italy,Brazil,0,1,Friendly,Bologna,Italy,False
+1989-10-15 00:00:00,Colombia,Israel,1,0,FIFA World Cup qualification,Barranquilla,Colombia,False
+1989-10-15 00:00:00,Iraq,Kuwait,1,0,Friendly,Baghdad,Iraq,False
+1989-10-16 00:00:00,South Korea,North Korea,1,0,FIFA World Cup qualification,Singapore,Singapore,True
+1989-10-16 00:00:00,Qatar,Saudi Arabia,1,1,FIFA World Cup qualification,Singapore,Singapore,True
+1989-10-17 00:00:00,China PR,United Arab Emirates,1,2,FIFA World Cup qualification,Singapore,Singapore,True
+1989-10-20 00:00:00,China PR,South Korea,0,1,FIFA World Cup qualification,Singapore,Singapore,True
+1989-10-20 00:00:00,North Korea,Qatar,2,0,FIFA World Cup qualification,Singapore,Singapore,True
+1989-10-21 00:00:00,Saudi Arabia,United Arab Emirates,0,0,FIFA World Cup qualification,Singapore,Singapore,True
+1989-10-22 00:00:00,Liberia,Guinea,2,0,Friendly,Monrovia,Liberia,False
+1989-10-22 00:00:00,Trinidad and Tobago,Finland,0,1,Friendly,Port of Spain,Trinidad and Tobago,False
+1989-10-24 00:00:00,North Korea,China PR,0,1,FIFA World Cup qualification,Singapore,Singapore,True
+1989-10-24 00:00:00,United Arab Emirates,Qatar,1,1,FIFA World Cup qualification,Singapore,Singapore,True
+1989-10-25 00:00:00,Belgium,Luxembourg,1,1,FIFA World Cup qualification,Brussels,Belgium,False
+1989-10-25 00:00:00,Czechoslovakia,Switzerland,3,0,FIFA World Cup qualification,Prague,Czechoslovakia,False
+1989-10-25 00:00:00,Hungary,Greece,1,1,Friendly,Budapest,Hungary,False
+1989-10-25 00:00:00,Kuwait,Norway,2,2,Friendly,Kuwait City,Kuwait,False
+1989-10-25 00:00:00,Malta,German DR,0,4,Friendly,Attard,Malta,False
+1989-10-25 00:00:00,Poland,Sweden,0,2,FIFA World Cup qualification,Chorz√≥w,Poland,False
+1989-10-25 00:00:00,Saudi Arabia,South Korea,0,2,FIFA World Cup qualification,Singapore,Singapore,True
+1989-10-25 00:00:00,Trinidad and Tobago,Finland,2,0,Friendly,Port of Spain,Trinidad and Tobago,False
+1989-10-25 00:00:00,Turkey,Austria,3,0,FIFA World Cup qualification,Istanbul,Turkey,False
+1989-10-28 00:00:00,Cyprus,Yugoslavia,1,2,FIFA World Cup qualification,Athens,Greece,True
+1989-10-28 00:00:00,Fiji,Papua New Guinea,2,1,Friendly,Suva,Fiji,False
+1989-10-28 00:00:00,Qatar,China PR,2,1,FIFA World Cup qualification,Singapore,Singapore,True
+1989-10-28 00:00:00,Saudi Arabia,North Korea,2,0,FIFA World Cup qualification,Guangzhou,China PR,True
+1989-10-28 00:00:00,Solomon Islands,Vanuatu,2,0,Friendly,Suva,Fiji,True
+1989-10-28 00:00:00,United Arab Emirates,South Korea,1,1,FIFA World Cup qualification,Kuala Lumpur,Malaysia,True
+1989-10-30 00:00:00,Fiji,Vanuatu,2,1,Friendly,Suva,Fiji,False
+1989-10-30 00:00:00,Israel,Colombia,0,0,FIFA World Cup qualification,Ramat-Gan,Israel,False
+1989-10-30 00:00:00,Kuwait,Lebanon,5,0,Friendly,Kuwait City,Kuwait,False
+1989-10-30 00:00:00,New Caledonia,Solomon Islands,2,0,Friendly,Suva,Fiji,True
+1989-10-31 00:00:00,Fiji,New Caledonia,3,0,Friendly,Suva,Fiji,False
+1989-10-31 00:00:00,Guinea,Iraq,1,0,Friendly,Kuwait City,Kuwait,True
+1989-10-31 00:00:00,Papua New Guinea,Vanuatu,3,0,Friendly,Suva,Fiji,True
+1989-11-01 00:00:00,Iran,Yemen DPR,2,0,Friendly,Kuwait City,Kuwait,True
+1989-11-01 00:00:00,Tunisia,Algeria,0,0,Friendly,Tunis,Tunisia,False
+1989-11-02 00:00:00,Lebanon,Uganda,0,2,Friendly,Kuwait City,Kuwait,True
+1989-11-03 00:00:00,Guinea,Iran,1,1,Friendly,Kuwait City,Kuwait,True
+1989-11-03 00:00:00,Iraq,Yemen DPR,6,2,Friendly,Kuwait City,Kuwait,True
+1989-11-03 00:00:00,New Caledonia,Vanuatu,5,1,Friendly,Ba,Fiji,True
+1989-11-03 00:00:00,Papua New Guinea,Solomon Islands,0,0,Friendly,Suva,Fiji,True
+1989-11-03 00:00:00,Qatar,Egypt,0,2,Friendly,Doha,Qatar,False
+1989-11-04 00:00:00,Fiji,Solomon Islands,0,0,Friendly,Suva,Fiji,False
+1989-11-04 00:00:00,Kuwait,Uganda,1,1,Friendly,Kuwait City,Kuwait,False
+1989-11-04 00:00:00,New Caledonia,Papua New Guinea,2,1,Friendly,Suva,Fiji,True
+1989-11-05 00:00:00,Guinea,Yemen DPR,0,1,Friendly,Kuwait City,Kuwait,True
+1989-11-05 00:00:00,Iran,Iraq,0,0,Friendly,Kuwait City,Kuwait,True
+1989-11-05 00:00:00,United States,El Salvador,0,0,CONCACAF Championship,St. Louis,United States,False
+1989-11-08 00:00:00,Iran,Uganda,2,2,Friendly,Kuwait City,Kuwait,True
+1989-11-08 00:00:00,Kuwait,Iraq,1,2,Friendly,Kuwait City,Kuwait,False
+1989-11-11 00:00:00,Italy,Algeria,1,0,Friendly,Vicenza,Italy,False
+1989-11-12 00:00:00,Iraq,Uganda,1,1,Friendly,Kuwait City,Kuwait,True
+1989-11-12 00:00:00,Kuwait,Iran,1,0,Friendly,Kuwait City,Kuwait,False
+1989-11-14 00:00:00,Brazil,Yugoslavia,0,0,Friendly,Jo√£o Pessoa,Brazil,False
+1989-11-14 00:00:00,United States,Bermuda,2,1,Friendly,Cocoa Beach,United States,False

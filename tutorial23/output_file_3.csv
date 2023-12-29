@@ -1,0 +1,1001 @@
+date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
+1949-05-26 00:00:00,Switzerland,Wales,4,0,Friendly,Berne,Switzerland,False
+1949-06-02 00:00:00,Sweden,Republic of Ireland,3,1,FIFA World Cup qualification,Solna,Sweden,False
+1949-06-04 00:00:00,France,Switzerland,4,2,Friendly,Colombes,France,False
+1949-06-12 00:00:00,Denmark,Netherlands,1,2,Friendly,Copenhagen,Denmark,False
+1949-06-12 00:00:00,Hungary,Italy,1,1,International Cup,Budapest,Hungary,False
+1949-06-12 00:00:00,Republic of Ireland,Spain,1,4,Friendly,Dublin,Republic of Ireland,False
+1949-06-16 00:00:00,Finland,Netherlands,1,4,Friendly,Helsinki,Finland,False
+1949-06-16 00:00:00,Madagascar,Mauritius,1,3,Friendly,Saint-Pierre,R√©union,True
+1949-06-19 00:00:00,France,Spain,1,5,Friendly,Colombes,France,False
+1949-06-19 00:00:00,Norway,Yugoslavia,1,3,Friendly,Oslo,Norway,False
+1949-06-19 00:00:00,Poland,Denmark,1,2,Friendly,Warsaw,Poland,False
+1949-06-19 00:00:00,Sweden,Hungary,2,2,Friendly,Solna,Sweden,False
+1949-06-19 00:00:00,United States,Scotland,0,4,Friendly,New York,United States,False
+1949-06-26 00:00:00,Switzerland,Luxembourg,5,2,FIFA World Cup qualification,Z√ºrich,Switzerland,False
+1949-07-01 00:00:00,Martinique,Trinidad and Tobago,2,0,Friendly,Fort-de-France,Martinique,False
+1949-07-08 00:00:00,Finland,Norway,1,1,Nordic Championship,Helsinki,Finland,False
+1949-07-10 00:00:00,Hungary,Poland,8,2,Friendly,Debrecen,Hungary,False
+1949-07-30 00:00:00,Cura√ßao,Aruba,3,0,Friendly,Willemstad,Cura√ßao,False
+1949-07-30 00:00:00,Israel,Cyprus,3,1,Friendly,Tel Aviv,Israel,False
+1949-08-03 00:00:00,El Salvador,Panama,3,1,Friendly,San Salvador,El Salvador,False
+1949-08-04 00:00:00,El Salvador,Panama,2,3,Friendly,San Salvador,El Salvador,False
+1949-08-07 00:00:00,Denmark,Iceland,5,1,Friendly,Aarhus,Denmark,False
+1949-08-14 00:00:00,Suriname,French Guiana,5,0,Friendly,Paramaribo,Suriname,False
+1949-08-19 00:00:00,Suriname,French Guiana,2,1,Friendly,Paramaribo,Suriname,False
+1949-08-21 00:00:00,Yugoslavia,Israel,6,0,FIFA World Cup qualification,Belgrade,Yugoslavia,False
+1949-09-04 00:00:00,Czechoslovakia,Bulgaria,1,3,Friendly,Prague,Czechoslovakia,False
+1949-09-04 00:00:00,Mexico,United States,6,0,FIFA World Cup qualification,Mexico City,Mexico,False
+1949-09-08 00:00:00,Republic of Ireland,Finland,3,0,FIFA World Cup qualification,Dublin,Republic of Ireland,False
+1949-09-11 00:00:00,Denmark,Finland,0,2,Nordic Championship,Copenhagen,Denmark,False
+1949-09-11 00:00:00,Mexico,Cuba,2,0,FIFA World Cup qualification,Mexico City,Mexico,False
+1949-09-11 00:00:00,Norway,Denmark,0,2,Nordic Championship,Oslo,Norway,False
+1949-09-14 00:00:00,Cuba,United States,1,1,FIFA World Cup qualification,Mexico City,Mexico,True
+1949-09-18 00:00:00,Israel,Yugoslavia,2,5,FIFA World Cup qualification,Tel Aviv,Israel,False
+1949-09-18 00:00:00,Luxembourg,Switzerland,2,3,FIFA World Cup qualification,Luxembourg,Luxembourg,False
+1949-09-18 00:00:00,Mexico,United States,6,2,FIFA World Cup qualification,Mexico City,Mexico,False
+1949-09-21 00:00:00,England,Republic of Ireland,0,2,Friendly,Liverpool,England,False
+1949-09-21 00:00:00,United States,Cuba,5,2,FIFA World Cup qualification,Mexico City,Mexico,True
+1949-09-25 00:00:00,Austria,Czechoslovakia,3,1,International Cup,Vienna,Austria,False
+1949-09-25 00:00:00,Mexico,Cuba,3,0,FIFA World Cup qualification,Mexico City,Mexico,False
+1949-10-01 00:00:00,Northern Ireland,Scotland,2,8,FIFA World Cup qualification,Belfast,Northern Ireland,False
+1949-10-02 00:00:00,Belgium,Switzerland,3,0,Friendly,Brussels,Belgium,False
+1949-10-02 00:00:00,Poland,Bulgaria,3,2,Friendly,Warsaw,Poland,False
+1949-10-02 00:00:00,Sweden,Finland,8,1,Nordic Championship,Malm√∂,Sweden,False
+1949-10-02 00:00:00,Sweden,Norway,3,3,Nordic Championship,Solna,Sweden,False
+1949-10-07 00:00:00,R√©union,Mauritius,0,6,Friendly,Saint-Pierre,R√©union,False
+1949-10-08 00:00:00,Sierra Leone,Nigeria,0,2,Friendly,Freetown,Sierra Leone,False
+1949-10-09 00:00:00,Finland,Republic of Ireland,1,1,FIFA World Cup qualification,Helsinki,Finland,False
+1949-10-09 00:00:00,Yugoslavia,France,1,1,FIFA World Cup qualification,Belgrade,Yugoslavia,False
+1949-10-10 00:00:00,R√©union,Madagascar,1,3,Friendly,Saint-Pierre,R√©union,False
+1949-10-15 00:00:00,Wales,England,1,4,FIFA World Cup qualification,Cardiff,Wales,False
+1949-10-16 00:00:00,Austria,Hungary,3,4,Friendly,Vienna,Austria,False
+1949-10-23 00:00:00,Denmark,Sweden,3,2,Nordic Championship,Copenhagen,Denmark,False
+1949-10-23 00:00:00,Lithuania,Estonia,2,1,Baltic Cup,Vilnius,Soviet Union,False
+1949-10-23 00:00:00,Romania,Albania,1,1,Friendly,Bucharest,Romania,False
+1949-10-24 00:00:00,Latvia,Estonia,2,1,Baltic Cup,Vilnius,Soviet Union,True
+1949-10-25 00:00:00,Lithuania,Latvia,1,0,Baltic Cup,Vilnius,Soviet Union,False
+1949-10-30 00:00:00,Czechoslovakia,Poland,2,0,Friendly,Ostrava,Czechoslovakia,False
+1949-10-30 00:00:00,France,Yugoslavia,1,1,FIFA World Cup qualification,Colombes,France,False
+1949-10-30 00:00:00,Hungary,Bulgaria,5,0,Friendly,Budapest,Hungary,False
+1949-11-06 00:00:00,Netherlands,Belgium,0,1,Friendly,Rotterdam,Netherlands,False
+1949-11-06 00:00:00,Poland,Albania,2,1,Friendly,Warsaw,Poland,False
+1949-11-09 00:00:00,Scotland,Wales,2,0,FIFA World Cup qualification,Glasgow,Scotland,False
+1949-11-13 00:00:00,France,Czechoslovakia,1,0,Friendly,Colombes,France,False
+1949-11-13 00:00:00,Republic of Ireland,Sweden,1,3,FIFA World Cup qualification,Dublin,Republic of Ireland,False
+1949-11-13 00:00:00,Yugoslavia,Austria,2,5,Friendly,Belgrade,Yugoslavia,False
+1949-11-16 00:00:00,England,Northern Ireland,9,2,FIFA World Cup qualification,Manchester,England,False
+1949-11-17 00:00:00,Bulgaria,Albania,0,0,Friendly,Sofia,Bulgaria,False
+1949-11-20 00:00:00,Hungary,Sweden,5,0,Friendly,Budapest,Hungary,False
+1949-11-20 00:00:00,Turkey,Syria,7,0,FIFA World Cup qualification,Ankara,Turkey,False
+1949-11-23 00:00:00,Wales,Belgium,5,1,Friendly,Cardiff,Wales,False
+1949-11-25 00:00:00,Greece,Syria,8,0,Friendly,Athens,Greece,False
+1949-11-29 00:00:00,Albania,Romania,1,4,Friendly,Tirana,Albania,False
+1949-11-30 00:00:00,England,Italy,2,0,Friendly,London,England,False
+1949-12-06 00:00:00,Zanzibar,Kenya,2,3,Friendly,Zanzibar Town,Zanzibar,False
+1949-12-08 00:00:00,Kenya,Tanzania,0,2,Friendly,Zanzibar,Zanzibar,True
+1949-12-11 00:00:00,France,Yugoslavia,2,3,FIFA World Cup qualification,Florence,Italy,True
+1949-12-11 00:00:00,Netherlands,Denmark,0,1,Friendly,Amsterdam,Netherlands,False
+1949-12-18 00:00:00,Cuba,Jamaica,2,5,Friendly,Port-au-Prince,Haiti,True
+1949-12-19 00:00:00,Haiti,Jamaica,2,0,Friendly,Port-au-Prince,Haiti,False
+1949-12-20 00:00:00,Haiti,Cuba,3,0,Friendly,Port-au-Prince,Haiti,False
+1950-01-24 00:00:00,Zambia,DR Congo,1,0,Friendly,Kitwe,Northern Rhodesia,False
+1950-02-17 00:00:00,Egypt,Greece,2,0,Friendly,Cairo,Egypt,False
+1950-02-26 00:00:00,Bolivia,Chile,2,0,Friendly,La Paz,Bolivia,False
+1950-02-26 00:00:00,Croatia,Serbia,4,1,Friendly,Zagreb,Yugoslavia,False
+1950-03-05 00:00:00,Italy,Belgium,3,1,Friendly,Bologna,Italy,False
+1950-03-08 00:00:00,Wales,Northern Ireland,0,0,FIFA World Cup qualification,Cardiff,Wales,False
+1950-03-12 00:00:00,Chile,Bolivia,5,0,Friendly,Santiago,Chile,False
+1950-03-19 00:00:00,Austria,Switzerland,3,3,International Cup,Vienna,Austria,False
+1950-03-22 00:00:00,Guyana,Trinidad and Tobago,0,1,Friendly,Georgetown,British Guyana,False
+1950-03-24 00:00:00,Guyana,Trinidad and Tobago,1,4,Friendly,Georgetown,British Guyana,False
+1950-03-25 00:00:00,Argentina,Paraguay,2,2,Copa Chevallier Boutell,Buenos Aires,Argentina,False
+1950-03-27 00:00:00,Guyana,Trinidad and Tobago,1,0,Friendly,Georgetown,British Guyana,False
+1950-03-29 00:00:00,Argentina,Paraguay,4,0,Copa Chevallier Boutell,Buenos Aires,Argentina,False
+1950-03-29 00:00:00,Guyana,Trinidad and Tobago,1,2,Friendly,Georgetown,British Guyana,False
+1950-04-02 00:00:00,Austria,Italy,1,0,International Cup,Vienna,Austria,False
+1950-04-02 00:00:00,Spain,Portugal,5,1,FIFA World Cup qualification,Madrid,Spain,False
+1950-04-07 00:00:00,Chile,Uruguay,1,5,Friendly,Santiago,Chile,False
+1950-04-09 00:00:00,Chile,Uruguay,2,1,Friendly,Santiago,Chile,False
+1950-04-09 00:00:00,Portugal,Spain,2,2,FIFA World Cup qualification,Oeiras,Portugal,False
+1950-04-14 00:00:00,Mauritius,R√©union,15,2,Friendly,Antananarivo,Madagascar,True
+1950-04-15 00:00:00,Scotland,England,0,1,FIFA World Cup qualification,Glasgow,Scotland,False
+1950-04-16 00:00:00,Belgium,Netherlands,2,0,Friendly,Antwerp,Belgium,False
+1950-04-16 00:00:00,South Korea,Taiwan,3,1,Friendly,Wan Chai,Hong Kong,True
+1950-04-26 00:00:00,Scotland,Switzerland,3,1,Friendly,Glasgow,Scotland,False
+1950-04-30 00:00:00,Hungary,Czechoslovakia,5,0,Friendly,Budapest,Hungary,False
+1950-04-30 00:00:00,Paraguay,Uruguay,3,2,Friendly,Rio de Janeiro,Brazil,True
+1950-05-01 00:00:00,Albania,Poland,0,0,Friendly,Tirana,Albania,False
+1950-05-06 00:00:00,Brazil,Uruguay,3,4,Copa Rio Branco,S√£o Paulo,Brazil,False
+1950-05-07 00:00:00,Brazil,Paraguay,2,0,Copa Oswaldo Cruz,Rio de Janeiro,Brazil,False
+1950-05-10 00:00:00,Belgium,Republic of Ireland,5,1,Friendly,Brussels,Belgium,False
+1950-05-13 00:00:00,Brazil,Paraguay,3,3,Copa Oswaldo Cruz,S√£o Paulo,Brazil,False
+1950-05-14 00:00:00,Austria,Hungary,5,3,Friendly,Vienna,Austria,False
+1950-05-14 00:00:00,Brazil,Uruguay,3,2,Copa Rio Branco,Rio de Janeiro,Brazil,False
+1950-05-14 00:00:00,Poland,Romania,3,3,Friendly,Wroc≈Çaw,Poland,False
+1950-05-14 00:00:00,Portugal,England,3,5,Friendly,Oeiras,Portugal,False
+1950-05-18 00:00:00,Belgium,England,1,4,Friendly,Brussels,Belgium,False
+1950-05-21 00:00:00,Portugal,Scotland,2,2,Friendly,Oeiras,Portugal,False
+1950-05-21 00:00:00,Romania,Czechoslovakia,1,1,Friendly,Bucharest,Romania,False
+1950-05-27 00:00:00,France,Scotland,0,1,Friendly,Colombes,France,False
+1950-05-28 00:00:00,Ghana,Nigeria,1,0,Friendly,Accra,Gold Coast,False
+1950-05-28 00:00:00,Turkey,Iran,6,1,Friendly,Istanbul,Turkey,False
+1950-05-28 00:00:00,Yugoslavia,Denmark,5,1,Friendly,Belgrade,Yugoslavia,False
+1950-06-04 00:00:00,Albania,Bulgaria,2,1,Friendly,Tirana,Albania,False
+1950-06-04 00:00:00,Belgium,France,4,1,Friendly,Brussels,Belgium,False
+1950-06-04 00:00:00,Poland,Hungary,2,5,Friendly,Warsaw,Poland,False
+1950-06-08 00:00:00,Sweden,Netherlands,4,1,Friendly,Solna,Sweden,False
+1950-06-11 00:00:00,Finland,Netherlands,4,1,Friendly,Helsinki,Finland,False
+1950-06-11 00:00:00,Switzerland,Yugoslavia,0,4,Friendly,Berne,Switzerland,False
+1950-06-14 00:00:00,Zimbabwe,Australia,0,5,Friendly,Salisbury,Southern Rhodesia,False
+1950-06-17 00:00:00,Zimbabwe,Australia,1,4,Friendly,Bulawayo,Southern Rhodesia,False
+1950-06-22 00:00:00,Denmark,Norway,4,0,Nordic Championship,Copenhagen,Denmark,False
+1950-06-24 00:00:00,Brazil,Mexico,4,0,FIFA World Cup,Rio de Janeiro,Brazil,False
+1950-06-24 00:00:00,South Africa,Australia,3,2,Friendly,Durban,South Africa,False
+1950-06-25 00:00:00,Chile,England,0,2,FIFA World Cup,Rio de Janeiro,Brazil,True
+1950-06-25 00:00:00,Denmark,Norway,1,4,Friendly,Aarhus,Denmark,False
+1950-06-25 00:00:00,Italy,Sweden,2,3,FIFA World Cup,S√£o Paulo,Brazil,True
+1950-06-25 00:00:00,Spain,United States,3,1,FIFA World Cup,Curitiba,Brazil,True
+1950-06-25 00:00:00,Switzerland,Yugoslavia,0,3,FIFA World Cup,Belo Horizonte,Brazil,True
+1950-06-28 00:00:00,Brazil,Switzerland,2,2,FIFA World Cup,S√£o Paulo,Brazil,False
+1950-06-28 00:00:00,Mexico,Yugoslavia,1,4,FIFA World Cup,Porto Alegre,Brazil,True
+1950-06-29 00:00:00,Chile,Spain,0,2,FIFA World Cup,Rio de Janeiro,Brazil,True
+1950-06-29 00:00:00,England,United States,0,1,FIFA World Cup,Belo Horizonte,Brazil,True
+1950-06-29 00:00:00,Paraguay,Sweden,2,2,FIFA World Cup,Curitiba,Brazil,True
+1950-07-01 00:00:00,Brazil,Yugoslavia,2,0,FIFA World Cup,Rio de Janeiro,Brazil,False
+1950-07-01 00:00:00,South Africa,Australia,2,1,Friendly,Johannesburg,South Africa,False
+1950-07-02 00:00:00,Bolivia,Uruguay,0,8,FIFA World Cup,Belo Horizonte,Brazil,True
+1950-07-02 00:00:00,Chile,United States,5,2,FIFA World Cup,Recife,Brazil,True
+1950-07-02 00:00:00,England,Spain,0,1,FIFA World Cup,Rio de Janeiro,Brazil,True
+1950-07-02 00:00:00,Italy,Paraguay,2,0,FIFA World Cup,S√£o Paulo,Brazil,True
+1950-07-02 00:00:00,Mexico,Switzerland,1,2,FIFA World Cup,Porto Alegre,Brazil,True
+1950-07-08 00:00:00,South Africa,Australia,1,2,Friendly,Port Elizabeth,South Africa,False
+1950-07-09 00:00:00,Brazil,Sweden,7,1,FIFA World Cup,Rio de Janeiro,Brazil,False
+1950-07-09 00:00:00,Spain,Uruguay,2,2,FIFA World Cup,S√£o Paulo,Brazil,True
+1950-07-11 00:00:00,Madagascar,R√©union,2,3,Friendly,Antananarivo,Madagascar,False
+1950-07-11 00:00:00,Madagascar,Mauritius,1,5,Friendly,Antananarivo,Madagascar,False
+1950-07-13 00:00:00,Brazil,Spain,6,1,FIFA World Cup,Rio de Janeiro,Brazil,False
+1950-07-13 00:00:00,Sweden,Uruguay,2,3,FIFA World Cup,S√£o Paulo,Brazil,True
+1950-07-16 00:00:00,Brazil,Uruguay,1,2,FIFA World Cup,Rio de Janeiro,Brazil,False
+1950-07-16 00:00:00,Spain,Sweden,1,3,FIFA World Cup,S√£o Paulo,Brazil,True
+1950-07-16 00:00:00,Zambia,Zimbabwe,3,2,Friendly,Kitwe,Northern Rhodesia,False
+1950-07-23 00:00:00,South Africa,Australia,0,2,Friendly,Cape Town,South Africa,False
+1950-08-15 00:00:00,Norway,Luxembourg,2,2,Friendly,Bergen,Norway,False
+1950-08-27 00:00:00,Bulgaria,Czechoslovakia,1,2,Friendly,Sofia,Bulgaria,False
+1950-08-27 00:00:00,Finland,Denmark,1,2,Nordic Championship,Helsinki,Finland,False
+1950-08-27 00:00:00,Suriname,Guyana,0,1,Friendly,Paramaribo,Suriname,False
+1950-08-31 00:00:00,Suriname,Guyana,3,0,Friendly,Paramaribo,Suriname,False
+1950-09-02 00:00:00,El Salvador,Guatemala,2,1,Friendly,Willemstad,Netherlands Antilles,True
+1950-09-03 00:00:00,Suriname,Guyana,4,1,Friendly,Paramaribo,Suriname,False
+1950-09-03 00:00:00,Sweden,Yugoslavia,1,2,Friendly,Solna,Sweden,False
+1950-09-06 00:00:00,El Salvador,Guatemala,2,0,Friendly,Willemstad,Netherlands Antilles,True
+1950-09-07 00:00:00,Finland,Yugoslavia,3,2,Friendly,Helsinki,Finland,False
+1950-09-10 00:00:00,Denmark,Yugoslavia,1,4,Friendly,Copenhagen,Denmark,False
+1950-09-10 00:00:00,Norway,Finland,4,1,Nordic Championship,Oslo,Norway,False
+1950-09-24 00:00:00,Finland,Sweden,0,1,Nordic Championship,Helsinki,Finland,False
+1950-09-24 00:00:00,Hungary,Albania,12,0,Friendly,Budapest,Hungary,False
+1950-09-24 00:00:00,Norway,Sweden,1,3,Nordic Championship,Oslo,Norway,False
+1950-10-07 00:00:00,Northern Ireland,England,1,4,British Championship,Belfast,Northern Ireland,False
+1950-10-08 00:00:00,Austria,Yugoslavia,7,2,Friendly,Vienna,Austria,False
+1950-10-08 00:00:00,Romania,Albania,6,0,Friendly,Bucharest,Romania,False
+1950-10-10 00:00:00,Tanzania,Zanzibar,4,0,Friendly,Nairobi,Kenya,True
+1950-10-11 00:00:00,Kenya,Uganda,3,1,Friendly,Nairobi,Kenya,False
+1950-10-14 00:00:00,Jamaica,Haiti,2,1,Friendly,Kingston,Jamaica,False
+1950-10-14 00:00:00,Kenya,Tanzania,1,1,Friendly,Nairobi,Kenya,False
+1950-10-15 00:00:00,Sweden,Denmark,4,0,Nordic Championship,Solna,Sweden,False
+1950-10-15 00:00:00,Switzerland,Netherlands,7,5,Friendly,Basel,Switzerland,False
+1950-10-16 00:00:00,Kenya,Tanzania,1,2,Friendly,Nairobi,Kenya,False
+1950-10-21 00:00:00,Wales,Scotland,1,3,British Championship,Cardiff,Wales,False
+1950-10-22 00:00:00,Poland,Czechoslovakia,1,4,Friendly,Warsaw,Poland,False
+1950-10-26 00:00:00,Iran,Afghanistan,4,0,Friendly,Tehran,Iran,False
+1950-10-28 00:00:00,Israel,Turkey,5,1,Friendly,Tel Aviv,Israel,False
+1950-10-29 00:00:00,Hungary,Austria,4,3,Friendly,Budapest,Hungary,False
+1950-10-30 00:00:00,Bulgaria,Poland,0,1,Friendly,Sofia,Bulgaria,False
+1950-11-01 00:00:00,France,Belgium,3,3,Friendly,Colombes,France,False
+1950-11-01 00:00:00,Scotland,Northern Ireland,6,1,British Championship,Glasgow,Scotland,False
+1950-11-05 00:00:00,Austria,Denmark,5,1,Friendly,Vienna,Austria,False
+1950-11-05 00:00:00,Yugoslavia,Norway,4,0,Friendly,Belgrade,Yugoslavia,False
+1950-11-12 00:00:00,Belgium,Netherlands,7,2,Friendly,Antwerp,Belgium,False
+1950-11-12 00:00:00,Bulgaria,Hungary,1,1,Friendly,Sofia,Bulgaria,False
+1950-11-12 00:00:00,Switzerland,Sweden,4,2,Friendly,Geneva,Switzerland,False
+1950-11-15 00:00:00,England,Wales,4,2,British Championship,Sunderland,England,False
+1950-11-18 00:00:00,Cura√ßao,Suriname,2,3,Friendly,Port of Spain,Trinidad and Tobago,True
+1950-11-22 00:00:00,England,Yugoslavia,2,2,Friendly,London,England,False
+1950-11-22 00:00:00,Germany,Switzerland,1,0,Friendly,Stuttgart,Germany,False
+1950-11-22 00:00:00,Trinidad and Tobago,Cura√ßao,3,2,Friendly,Port of Spain,Trinidad and Tobago,False
+1950-11-25 00:00:00,Trinidad and Tobago,Suriname,5,0,Friendly,Port of Spain,Trinidad and Tobago,False
+1950-11-26 00:00:00,Republic of Ireland,Norway,2,2,Friendly,Dublin,Republic of Ireland,False
+1950-11-28 00:00:00,Cura√ßao,Suriname,3,0,Friendly,Port of Spain,Trinidad and Tobago,True
+1950-11-30 00:00:00,Trinidad and Tobago,Suriname,1,1,Friendly,Port of Spain,Trinidad and Tobago,False
+1950-12-02 00:00:00,Trinidad and Tobago,Cura√ßao,5,1,Friendly,Port of Spain,Trinidad and Tobago,False
+1950-12-03 00:00:00,Turkey,Israel,3,2,Friendly,Istanbul,Turkey,False
+1950-12-05 00:00:00,Guadeloupe,Trinidad and Tobago,0,1,Friendly,Basse-Terre,Guadeloupe,False
+1950-12-10 00:00:00,France,Netherlands,5,2,Friendly,Colombes,France,False
+1950-12-13 00:00:00,Scotland,Austria,0,1,Friendly,Glasgow,Scotland,False
+1951-02-06 00:00:00,France,Yugoslavia,2,1,Friendly,Paris,France,False
+1951-02-18 00:00:00,Spain,Switzerland,6,3,Friendly,Madrid,Spain,False
+1951-02-24 00:00:00,Zimbabwe,Zambia,2,1,Friendly,Salisbury,Southern Rhodesia,False
+1951-02-25 00:00:00,Costa Rica,Nicaragua,8,1,CCCF Championship,Panama City,Panama,True
+1951-02-27 00:00:00,Panama,Costa Rica,2,0,CCCF Championship,Panama City,Panama,False
+1951-02-28 00:00:00,Panama,Nicaragua,4,0,CCCF Championship,Panama City,Panama,False
+1951-03-02 00:00:00,Panama,Costa Rica,1,1,CCCF Championship,Panama City,Panama,False
+1951-03-03 00:00:00,Nicaragua,Costa Rica,1,4,CCCF Championship,Panama City,Panama,True
+1951-03-04 00:00:00,Panama,Nicaragua,6,2,CCCF Championship,Panama City,Panama,False
+1951-03-07 00:00:00,Northern Ireland,Wales,1,2,British Championship,Belfast,Northern Ireland,False
+1951-03-19 00:00:00,Barbados,Grenada,1,3,Friendly,Bridgetown,Barbados,False
+1951-03-19 00:00:00,Martinique,Guadeloupe,3,0,Friendly,Fort-de-France,Martinique,False
+1951-03-21 00:00:00,Barbados,Grenada,3,2,Friendly,Bridgetown,Barbados,False
+1951-04-08 00:00:00,Portugal,Italy,1,4,Friendly,Oeiras,Portugal,False
+1951-04-14 00:00:00,England,Scotland,2,3,British Championship,London,England,False
+1951-04-15 00:00:00,Netherlands,Belgium,5,4,Friendly,Amsterdam,Netherlands,False
+1951-04-15 00:00:00,Switzerland,Germany,2,3,Friendly,Z√ºrich,Switzerland,False
+1951-05-06 00:00:00,Italy,Yugoslavia,0,0,Friendly,Milan,Italy,False
+1951-05-09 00:00:00,England,Argentina,2,1,Friendly,London,England,False
+1951-05-12 00:00:00,Northern Ireland,France,2,2,Friendly,Belfast,Northern Ireland,False
+1951-05-12 00:00:00,Scotland,Denmark,3,1,Friendly,Glasgow,Scotland,False
+1951-05-12 00:00:00,Wales,Portugal,2,1,Friendly,Cardiff,Wales,False
+1951-05-13 00:00:00,Republic of Ireland,Argentina,0,1,Friendly,Dublin,Republic of Ireland,False
+1951-05-16 00:00:00,Scotland,France,1,0,Friendly,Glasgow,Scotland,False
+1951-05-16 00:00:00,Wales,Switzerland,3,2,Friendly,Wrexham,Wales,False
+1951-05-17 00:00:00,Guadeloupe,Martinique,1,1,Friendly,Pointe-√†-Pitre,Guadeloupe,False
+1951-05-19 00:00:00,England,Portugal,5,2,Friendly,Liverpool,England,False
+1951-05-20 00:00:00,Belgium,Scotland,0,5,Friendly,Brussels,Belgium,False
+1951-05-20 00:00:00,Czechoslovakia,Romania,2,2,Friendly,Prague,Czechoslovakia,False
+1951-05-25 00:00:00,Barbados,Jamaica,3,0,Friendly,Bridgetown,Barbados,False
+1951-05-26 00:00:00,Barbados,Jamaica,0,1,Friendly,Bridgetown,Barbados,False
+1951-05-27 00:00:00,Austria,Scotland,4,0,Friendly,Vienna,Austria,False
+1951-05-27 00:00:00,Hungary,Poland,6,0,Friendly,Budapest,Hungary,False
+1951-05-28 00:00:00,Barbados,Jamaica,5,2,Friendly,Bridgetown,Barbados,False
+1951-05-30 00:00:00,Norway,Republic of Ireland,2,3,Friendly,Oslo,Norway,False
+1951-06-03 00:00:00,Italy,France,4,1,Friendly,Genoa,Italy,False
+1951-06-06 00:00:00,Netherlands,Norway,2,3,Friendly,Rotterdam,Netherlands,False
+1951-06-10 00:00:00,Belgium,Spain,3,3,Friendly,Brussels,Belgium,False
+1951-06-10 00:00:00,Sweden,Turkey,3,1,Friendly,Solna,Sweden,False
+1951-06-17 00:00:00,Denmark,Austria,3,3,Friendly,Copenhagen,Denmark,False
+1951-06-17 00:00:00,Germany,Turkey,1,2,Friendly,Berlin,Germany,False
+1951-06-17 00:00:00,Portugal,Belgium,1,1,Friendly,Oeiras,Portugal,False
+1951-06-17 00:00:00,Sweden,Spain,0,0,Friendly,Solna,Sweden,False
+1951-06-24 00:00:00,Yugoslavia,Switzerland,7,3,Friendly,Belgrade,Yugoslavia,False
+1951-06-29 00:00:00,Iceland,Sweden,4,3,Friendly,Reykjav√≠k,Iceland,False
+1951-07-14 00:00:00,Madagascar,R√©union,3,1,Friendly,Curepipe,Mauritius,True
+1951-07-19 00:00:00,Mauritius,Madagascar,7,1,Friendly,Curepipe,Mauritius,False
+1951-07-21 00:00:00,Mauritius,R√©union,10,2,Friendly,Curepipe,Mauritius,False
+1951-07-26 00:00:00,Norway,Iceland,3,1,Friendly,Trondheim,Norway,False
+1951-08-16 00:00:00,Finland,Norway,1,1,Nordic Championship,Helsinki,Finland,False
+1951-08-23 00:00:00,Norway,Yugoslavia,2,4,Friendly,Oslo,Norway,False
+1951-08-31 00:00:00,Suriname,Guyana,6,1,Friendly,Paramaribo,Suriname,False
+1951-09-02 00:00:00,Suriname,Guyana,5,0,Friendly,Paramaribo,Suriname,False
+1951-09-02 00:00:00,Sweden,Finland,3,2,Nordic Championship,Solna,Sweden,False
+1951-09-02 00:00:00,Yugoslavia,Sweden,2,1,Friendly,Belgrade,Yugoslavia,False
+1951-09-09 00:00:00,Suriname,Guyana,4,0,Friendly,Paramaribo,Suriname,False
+1951-09-16 00:00:00,Norway,Denmark,2,0,Nordic Championship,Oslo,Norway,False
+1951-09-19 00:00:00,New Caledonia,New Zealand,2,0,Friendly,Noum√©a,New Caledonia,False
+1951-09-22 00:00:00,New Caledonia,New Zealand,4,6,Friendly,Noum√©a,New Caledonia,False
+1951-09-23 00:00:00,Austria,Germany,0,2,Friendly,Vienna,Austria,False
+1951-09-24 00:00:00,New Caledonia,New Zealand,2,0,Friendly,Noum√©a,New Caledonia,False
+1951-09-25 00:00:00,Kenya,Uganda,2,1,Friendly,Dar es Salaam,Tanganyika,True
+1951-09-26 00:00:00,Tanzania,Zanzibar,1,0,Friendly,Dar es Salaam,Tanganyika,False
+1951-09-29 00:00:00,Tanzania,Kenya,3,2,Friendly,Dar es Salaam,Tanganyika,False
+1951-09-30 00:00:00,Denmark,Finland,1,0,Nordic Championship,Copenhagen,Denmark,False
+1951-09-30 00:00:00,New Caledonia,New Zealand,1,3,Friendly,Noum√©a,New Caledonia,False
+1951-09-30 00:00:00,Sweden,Norway,3,4,Nordic Championship,Gothenburg,Sweden,False
+1951-10-03 00:00:00,England,France,2,2,Friendly,London,England,False
+1951-10-04 00:00:00,New Zealand,Vanuatu,9,0,Friendly,Noum√©a,New Caledonia,True
+1951-10-06 00:00:00,Northern Ireland,Scotland,0,3,British Championship,Belfast,Northern Ireland,False
+1951-10-07 00:00:00,Fiji,New Zealand,4,6,Friendly,Suva,Fiji,False
+1951-10-14 00:00:00,Belgium,Austria,1,8,Friendly,Brussels,Belgium,False
+1951-10-14 00:00:00,Czechoslovakia,Hungary,1,2,Friendly,Ostrava,Czechoslovakia,False
+1951-10-14 00:00:00,Switzerland,France,1,2,Friendly,Geneva,Switzerland,False
+1951-10-17 00:00:00,Republic of Ireland,Germany,3,2,Friendly,Dublin,Republic of Ireland,False
+1951-10-20 00:00:00,Nigeria,Ghana,5,0,Friendly,Lagos,Nigeria,False
+1951-10-20 00:00:00,Wales,England,1,1,British Championship,Cardiff,Wales,False
+1951-10-21 00:00:00,Denmark,Sweden,3,1,Nordic Championship,Copenhagen,Denmark,False
+1951-10-27 00:00:00,Netherlands,Finland,4,4,Friendly,Rotterdam,Netherlands,False
+1951-11-01 00:00:00,France,Austria,2,2,Friendly,Colombes,France,False
+1951-11-04 00:00:00,Luxembourg,Finland,3,0,Friendly,Luxembourg,Luxembourg,False
+1951-11-11 00:00:00,Italy,Sweden,1,1,Friendly,Florence,Italy,False
+1951-11-14 00:00:00,England,Northern Ireland,2,0,British Championship,London,England,False
+1951-11-14 00:00:00,Scotland,Wales,0,1,British Championship,Glasgow,Scotland,False
+1951-11-14 00:00:00,Turkey,Sweden,1,0,Friendly,Istanbul,Turkey,False
+1951-11-18 00:00:00,Hungary,Finland,8,0,Friendly,Budapest,Hungary,False
+1951-11-21 00:00:00,Turkey,Germany,0,2,Friendly,Istanbul,Turkey,False
+1951-11-25 00:00:00,Greece,Egypt,1,0,Friendly,Athens,Greece,False
+1951-11-25 00:00:00,Netherlands,Belgium,6,7,Friendly,Rotterdam,Netherlands,False
+1951-11-25 00:00:00,Switzerland,Italy,1,1,International Cup,Lugano,Switzerland,False
+1951-11-28 00:00:00,England,Austria,2,2,Friendly,London,England,False
+1951-12-08 00:00:00,Venezuela,Panama,4,1,Friendly,Caracas,Venezuela,False
+1951-12-13 00:00:00,Guadeloupe,Trinidad and Tobago,0,2,Friendly,Basse-Terre,Guadeloupe,False
+1951-12-23 00:00:00,Germany,Luxembourg,4,1,Friendly,Essen,Germany,False
+1951-12-26 00:00:00,Jamaica,Haiti,2,2,Friendly,Kingston,Jamaica,False
+1951-12-27 00:00:00,Jamaica,Haiti,0,1,Friendly,Kingston,Jamaica,False
+1951-12-29 00:00:00,Jamaica,Haiti,2,1,Friendly,Kingston,Jamaica,False
+1952-02-02 00:00:00,Cura√ßao,Aruba,3,0,Friendly,Willemstad,Netherlands Antilles,False
+1952-02-03 00:00:00,Cura√ßao,Aruba,3,1,Friendly,Willemstad,Netherlands Antilles,False
+1952-02-14 00:00:00,Aruba,Suriname,2,1,Friendly,Oranjestad,Aruba,False
+1952-02-17 00:00:00,Guyana,Suriname,0,9,Friendly,Oranjestad,Netherlands Antilles,True
+1952-02-24 00:00:00,Belgium,Italy,2,0,Friendly,Brussels,Belgium,False
+1952-03-12 00:00:00,Guadeloupe,Martinique,4,0,Friendly,Basse-Terre,Guadeloupe,False
+1952-03-13 00:00:00,Martinique,Guadeloupe,1,2,Friendly,Fort-de-France,Martinique,False
+1952-03-14 00:00:00,Myanmar,India,0,4,Friendly,Colombo,Ceylon,True
+1952-03-16 00:00:00,Chile,Panama,6,1,Pan American Championship,Santiago,Chile,False
+1952-03-18 00:00:00,Myanmar,Pakistan,0,1,Friendly,Colombo,Ceylon,True
+1952-03-19 00:00:00,Wales,Northern Ireland,3,0,British Championship,Swansea,Wales,False
+1952-03-23 00:00:00,Austria,Belgium,2,0,Friendly,Vienna,Austria,False
+1952-03-23 00:00:00,India,Pakistan,0,0,Friendly,Colombo,Ceylon,True
+1952-03-23 00:00:00,Mexico,Uruguay,1,3,Pan American Championship,Santiago,Chile,True
+1952-03-23 00:00:00,Panama,Peru,1,7,Pan American Championship,Santiago,Chile,True
+1952-03-24 00:00:00,Sri Lanka,India,1,2,Friendly,Colombo,Ceylon,False
+1952-03-26 00:00:00,Chile,Mexico,4,0,Pan American Championship,Santiago,Chile,False
+1952-03-26 00:00:00,France,Sweden,0,1,Friendly,Paris,France,False
+1952-03-28 00:00:00,Sri Lanka,Pakistan,0,2,Friendly,Colombo,Ceylon,False
+1952-03-30 00:00:00,Peru,Uruguay,2,5,Pan American Championship,Santiago,Chile,True
+1952-04-02 00:00:00,Chile,Peru,3,2,Pan American Championship,Santiago,Chile,False
+1952-04-05 00:00:00,Scotland,England,1,2,British Championship,Glasgow,Scotland,False
+1952-04-06 00:00:00,Belgium,Netherlands,4,2,Friendly,Antwerp,Belgium,False
+1952-04-06 00:00:00,Brazil,Mexico,2,0,Pan American Championship,Santiago,Chile,True
+1952-04-06 00:00:00,Panama,Uruguay,1,6,Pan American Championship,Santiago,Chile,True
+1952-04-10 00:00:00,Brazil,Peru,0,0,Pan American Championship,Santiago,Chile,True
+1952-04-10 00:00:00,Mexico,Panama,4,2,Pan American Championship,Santiago,Chile,True
+1952-04-13 00:00:00,Brazil,Panama,5,0,Pan American Championship,Santiago,Chile,True
+1952-04-13 00:00:00,Chile,Uruguay,2,0,Pan American Championship,Santiago,Chile,False
+1952-04-16 00:00:00,Brazil,Uruguay,4,2,Pan American Championship,Santiago,Chile,True
+1952-04-20 00:00:00,Chile,Brazil,0,3,Pan American Championship,Santiago,Chile,False
+1952-04-20 00:00:00,France,Portugal,3,0,Friendly,Colombes,France,False
+1952-04-20 00:00:00,Luxembourg,Germany,0,3,Friendly,Luxembourg,Luxembourg,False
+1952-04-20 00:00:00,Mexico,Peru,0,3,Pan American Championship,Santiago,Chile,True
+1952-04-30 00:00:00,Scotland,United States,6,0,Friendly,Glasgow,Scotland,False
+1952-05-04 00:00:00,Germany,Republic of Ireland,3,0,Friendly,Cologne,Germany,False
+1952-05-07 00:00:00,Austria,Republic of Ireland,6,0,Friendly,Vienna,Austria,False
+1952-05-11 00:00:00,Romania,Czechoslovakia,3,1,Friendly,Bucharest,Romania,False
+1952-05-14 00:00:00,Netherlands,Sweden,0,0,Friendly,Amsterdam,Netherlands,False
+1952-05-18 00:00:00,Hungary,German DR,5,0,Friendly,Budapest,Hungary,False
+1952-05-18 00:00:00,Italy,England,1,1,Friendly,Florence,Italy,False
+1952-05-18 00:00:00,Poland,Bulgaria,0,1,Friendly,Warsaw,Poland,False
+1952-05-22 00:00:00,Belgium,France,1,2,Friendly,Brussels,Belgium,False
+1952-05-24 00:00:00,Russia,Hungary,1,1,Friendly,Moscow,Soviet Union,False
+1952-05-25 00:00:00,Austria,England,2,3,Friendly,Vienna,Austria,False
+1952-05-25 00:00:00,Denmark,Scotland,1,2,Friendly,Copenhagen,Denmark,False
+1952-05-25 00:00:00,Romania,Poland,1,0,Friendly,Bucharest,Romania,False
+1952-05-27 00:00:00,Russia,Hungary,2,1,Friendly,Moscow,Soviet Union,False
+1952-05-28 00:00:00,Switzerland,England,0,3,Friendly,Z√ºrich,Switzerland,False
+1952-05-30 00:00:00,Sweden,Scotland,3,1,Friendly,Solna,Sweden,False
+1952-06-01 00:00:00,Spain,Republic of Ireland,6,0,Friendly,Madrid,Spain,False
+1952-06-01 00:00:00,Turkey,Switzerland,1,5,Friendly,Ankara,Turkey,False
+1952-06-08 00:00:00,Turkey,Spain,0,0,Friendly,Istanbul,Turkey,False
+1952-06-10 00:00:00,Norway,Finland,1,2,Friendly,Oslo,Norway,False
+1952-06-11 00:00:00,Denmark,Sweden,0,2,Friendly,Oslo,Norway,True
+1952-06-13 00:00:00,Finland,Sweden,3,1,Friendly,Oslo,Norway,True
+1952-06-15 00:00:00,Poland,Hungary,1,5,Friendly,Warsaw,Poland,False
+1952-06-22 00:00:00,Finland,Hungary,1,6,Friendly,Helsinki,Finland,False
+1952-06-22 00:00:00,Sweden,Denmark,4,3,Nordic Championship,Solna,Sweden,False
+1952-06-22 00:00:00,Switzerland,Austria,1,1,Friendly,Geneva,Switzerland,False
+1952-06-25 00:00:00,Yugoslavia,Norway,4,1,Friendly,Zagreb,Yugoslavia,False
+1952-07-03 00:00:00,Netherlands,Cura√ßao,3,3,Friendly,Amsterdam,Netherlands,False
+1952-07-19 00:00:00,Haiti,Jamaica,4,1,Friendly,Port-au-Prince,Haiti,False
+1952-07-20 00:00:00,Haiti,Jamaica,3,3,Friendly,Port-au-Prince,Haiti,False
+1952-07-23 00:00:00,Haiti,Jamaica,2,0,Friendly,Port-au-Prince,Haiti,False
+1952-07-24 00:00:00,R√©union,Madagascar,0,1,Friendly,Saint-Pierre,R√©union,False
+1952-07-27 00:00:00,Haiti,Jamaica,3,2,Friendly,Port-au-Prince,Haiti,False
+1952-07-27 00:00:00,R√©union,Mauritius,0,6,Friendly,Saint-Pierre,R√©union,False
+1952-07-31 00:00:00,Madagascar,Mauritius,0,7,Friendly,Saint-Pierre,R√©union,True
+1952-08-04 00:00:00,Finland,China PR,4,0,Friendly,Helsinki,Finland,False
+1952-08-10 00:00:00,Netherlands,Egypt,1,1,Friendly,Amsterdam,Netherlands,False
+1952-08-24 00:00:00,Silesia,China PR,5,1,Friendly,Chorz√≥w,Poland,False
+1952-08-31 00:00:00,Norway,Finland,7,2,Nordic Championship,Oslo,Norway,False
+1952-09-06 00:00:00,Zambia,Zimbabwe,1,4,Friendly,Kitwe,Northern Rhodesia,False
+1952-09-07 00:00:00,Fiji,New Zealand,0,2,Friendly,Suva,Fiji,False
+1952-09-11 00:00:00,Zambia,Zimbabwe,3,2,Friendly,Kitwe,Northern Rhodesia,False
+1952-09-14 00:00:00,Czechoslovakia,Poland,2,2,Friendly,Prague,Czechoslovakia,False
+1952-09-14 00:00:00,Fiji,New Zealand,0,9,Friendly,Lautoka,Fiji,False
+1952-09-16 00:00:00,Fiji,New Zealand,2,5,Friendly,Suva,Fiji,False
+1952-09-20 00:00:00,Switzerland,Hungary,2,4,International Cup,Berne,Switzerland,False
+1952-09-21 00:00:00,Denmark,Netherlands,3,2,Friendly,Copenhagen,Denmark,False
+1952-09-21 00:00:00,Finland,Sweden,1,8,Nordic Championship,Helsinki,Finland,False
+1952-09-21 00:00:00,Poland,German DR,3,0,Friendly,Warsaw,Poland,False
+1952-09-21 00:00:00,Tahiti,New Zealand,2,2,Friendly,Pirae,French Polynesia,False
+1952-09-21 00:00:00,Yugoslavia,Austria,4,2,Friendly,Belgrade,Yugoslavia,False
+1952-09-23 00:00:00,Uganda,Tanzania,4,0,Friendly,Kampala,Uganda,False
+1952-09-24 00:00:00,Kenya,Zanzibar,7,1,Friendly,Kampala,Uganda,True
+1952-09-26 00:00:00,Tanzania,Zanzibar,1,3,Friendly,Kampala,Uganda,True
+1952-09-27 00:00:00,Uganda,Kenya,6,3,Friendly,Kampala,Uganda,False
+1952-09-28 00:00:00,Tahiti,New Zealand,3,5,Friendly,Pirae,French Polynesia,False
+1952-10-04 00:00:00,Northern Ireland,England,2,2,British Championship,Belfast,Northern Ireland,False
+1952-10-05 00:00:00,Finland,Denmark,2,1,Nordic Championship,Helsinki,Finland,False
+1952-10-05 00:00:00,France,Germany,3,1,Friendly,Colombes,France,False
+1952-10-05 00:00:00,Norway,Sweden,1,2,Nordic Championship,Oslo,Norway,False
+1952-10-18 00:00:00,Wales,Scotland,1,2,British Championship,Cardiff,Wales,False
+1952-10-19 00:00:00,Austria,France,1,2,Friendly,Vienna,Austria,False
+1952-10-19 00:00:00,Belgium,Netherlands,2,1,Friendly,Antwerp,Belgium,False
+1952-10-19 00:00:00,Denmark,Norway,1,3,Nordic Championship,Copenhagen,Denmark,False
+1952-10-19 00:00:00,Hungary,Czechoslovakia,5,0,Friendly,Budapest,Hungary,False
+1952-10-26 00:00:00,Romania,German DR,3,1,Friendly,Bucharest,Romania,False
+1952-10-26 00:00:00,Sweden,Italy,1,1,Friendly,Solna,Sweden,False
+1952-11-02 00:00:00,Yugoslavia,Egypt,5,0,Friendly,Belgrade,Yugoslavia,False
+1952-11-05 00:00:00,Scotland,Northern Ireland,1,1,British Championship,Glasgow,Scotland,False
+1952-11-09 00:00:00,Germany,Switzerland,5,1,Friendly,Augsburg,Germany,False
+1952-11-11 00:00:00,France,Northern Ireland,3,1,Friendly,Colombes,France,False
+1952-11-12 00:00:00,England,Wales,5,2,British Championship,London,England,False
+1952-11-16 00:00:00,Republic of Ireland,France,1,1,Friendly,Dublin,Republic of Ireland,False
+1952-11-23 00:00:00,Portugal,Austria,1,1,Friendly,Porto,Portugal,False
+1952-11-26 00:00:00,England,Belgium,5,0,Friendly,London,England,False
+1952-11-29 00:00:00,Albania,Czechoslovakia,3,2,Friendly,Tirana,Albania,False
+1952-12-07 00:00:00,Spain,Argentina,0,1,Friendly,Madrid,Spain,False
+1952-12-14 00:00:00,Portugal,Argentina,1,3,Friendly,Oeiras,Portugal,False
+1952-12-21 00:00:00,Germany,Yugoslavia,3,2,Friendly,Ludwigshafen,Germany,False
+1952-12-25 00:00:00,France,Belgium,0,1,Friendly,Colombes,France,False
+1952-12-28 00:00:00,Italy,Switzerland,2,0,International Cup,Palermo,Italy,False
+1952-12-28 00:00:00,Spain,Germany,2,2,Friendly,Madrid,Spain,False
+1953-01-16 00:00:00,Egypt,Yugoslavia,1,3,Friendly,Cairo,Egypt,False
+1953-02-09 00:00:00,Gambia,Sierra Leone,2,1,Friendly,Banjul,Gambia,False
+1953-02-22 00:00:00,Peru,Bolivia,0,1,Copa Am√©rica,Lima,Peru,False
+1953-02-25 00:00:00,Bolivia,Uruguay,0,2,Copa Am√©rica,Lima,Peru,True
+1953-02-25 00:00:00,Chile,Paraguay,0,3,Copa Am√©rica,Lima,Peru,True
+1953-02-28 00:00:00,Peru,Ecuador,1,0,Copa Am√©rica,Lima,Peru,False
+1953-03-01 00:00:00,Bolivia,Brazil,1,8,Copa Am√©rica,Lima,Peru,True
+1953-03-01 00:00:00,Chile,Uruguay,3,2,Copa Am√©rica,Lima,Peru,True
+1953-03-04 00:00:00,Ecuador,Paraguay,0,0,Copa Am√©rica,Lima,Peru,True
+1953-03-04 00:00:00,Peru,Chile,0,0,Copa Am√©rica,Lima,Peru,False
+1953-03-07 00:00:00,Netherlands,Denmark,1,2,Friendly,Rotterdam,Netherlands,False
+1953-03-08 00:00:00,Bolivia,Ecuador,1,1,Copa Am√©rica,Lima,Peru,True
+1953-03-08 00:00:00,Costa Rica,El Salvador,5,1,CCCF Championship,San Jos√©,Costa Rica,False
+1953-03-08 00:00:00,Honduras,Nicaragua,2,1,CCCF Championship,San Jos√©,Costa Rica,True
+1953-03-08 00:00:00,Peru,Paraguay,2,2,Copa Am√©rica,Lima,Peru,False
+1953-03-09 00:00:00,Guatemala,Cura√ßao,1,1,CCCF Championship,San Jos√©,Costa Rica,True
+1953-03-10 00:00:00,Costa Rica,Panama,3,0,CCCF Championship,San Jos√©,Costa Rica,False
+1953-03-10 00:00:00,El Salvador,Nicaragua,4,1,CCCF Championship,San Jos√©,Costa Rica,True
+1953-03-11 00:00:00,Cura√ßao,Nicaragua,8,0,CCCF Championship,San Jos√©,Costa Rica,True
+1953-03-11 00:00:00,Guatemala,Honduras,1,0,CCCF Championship,San Jos√©,Costa Rica,True
+1953-03-12 00:00:00,Brazil,Ecuador,2,0,Copa Am√©rica,Lima,Peru,True
+1953-03-12 00:00:00,Panama,Cura√ßao,2,4,CCCF Championship,San Jos√©,Costa Rica,True
+1953-03-12 00:00:00,Paraguay,Uruguay,2,2,Copa Am√©rica,Lima,Peru,True
+1953-03-13 00:00:00,Costa Rica,Honduras,4,1,CCCF Championship,San Jos√©,Costa Rica,False
+1953-03-13 00:00:00,Guatemala,El Salvador,3,2,CCCF Championship,San Jos√©,Costa Rica,True
+1953-03-14 00:00:00,Panama,Nicaragua,0,2,CCCF Championship,San Jos√©,Costa Rica,True
+1953-03-15 00:00:00,Brazil,Uruguay,1,0,Copa Am√©rica,Lima,Peru,True
+1953-03-15 00:00:00,Costa Rica,Cura√ßao,1,0,CCCF Championship,San Jos√©,Costa Rica,False
+1953-03-15 00:00:00,El Salvador,Honduras,0,3,CCCF Championship,San Jos√©,Costa Rica,True
+1953-03-16 00:00:00,Bolivia,Paraguay,1,2,Copa Am√©rica,Lima,Peru,True
+1953-03-17 00:00:00,Costa Rica,Nicaragua,3,0,CCCF Championship,San Jos√©,Costa Rica,False
+1953-03-17 00:00:00,Panama,Guatemala,2,2,CCCF Championship,San Jos√©,Costa Rica,True
+1953-03-19 00:00:00,Chile,Ecuador,3,0,Copa Am√©rica,Lima,Peru,True
+1953-03-19 00:00:00,Cura√ßao,Honduras,3,4,CCCF Championship,San Jos√©,Costa Rica,True
+1953-03-19 00:00:00,El Salvador,Panama,2,1,CCCF Championship,San Jos√©,Costa Rica,True
+1953-03-19 00:00:00,Guatemala,Nicaragua,1,0,CCCF Championship,San Jos√©,Costa Rica,True
+1953-03-19 00:00:00,Peru,Brazil,1,0,Copa Am√©rica,Lima,Peru,False
+1953-03-19 00:00:00,Spain,Belgium,3,1,Friendly,Barcelona,Spain,False
+1953-03-21 00:00:00,Costa Rica,Guatemala,3,0,CCCF Championship,San Jos√©,Costa Rica,False
+1953-03-21 00:00:00,El Salvador,Cura√ßao,1,1,CCCF Championship,San Jos√©,Costa Rica,True
+1953-03-21 00:00:00,Honduras,Panama,3,1,CCCF Championship,San Jos√©,Costa Rica,True
+1953-03-22 00:00:00,Germany,Austria,0,0,Friendly,Cologne,Germany,False
+1953-03-22 00:00:00,Netherlands,Switzerland,1,2,Friendly,Amsterdam,Netherlands,False
+1953-03-23 00:00:00,Brazil,Chile,3,2,Copa Am√©rica,Lima,Peru,True
+1953-03-23 00:00:00,Ecuador,Uruguay,0,6,Copa Am√©rica,Lima,Peru,True
+1953-03-25 00:00:00,Republic of Ireland,Austria,4,0,Friendly,Dublin,Republic of Ireland,False
+1953-03-27 00:00:00,Brazil,Paraguay,1,2,Copa Am√©rica,Lima,Peru,True
+1953-03-28 00:00:00,Bolivia,Chile,2,2,Copa Am√©rica,Lima,Peru,True
+1953-03-28 00:00:00,Peru,Uruguay,0,3,Copa Am√©rica,Lima,Peru,False
+1953-04-01 00:00:00,Brazil,Paraguay,2,3,Copa Am√©rica,Lima,Peru,True
+1953-04-05 00:00:00,Hong Kong,South Korea,4,0,Friendly,So Kon Po,Hong Kong,False
+1953-04-08 00:00:00,South Korea,Taiwan,2,4,Friendly,So Kon Po,Hong Kong,True
+1953-04-11 00:00:00,Singapore,South Korea,2,3,Friendly,Kallang,Singapore,False
+1953-04-15 00:00:00,Northern Ireland,Wales,2,3,British Championship,Belfast,Northern Ireland,False
+1953-04-16 00:00:00,Malaysia,South Korea,2,3,Friendly,Kallang,Singapore,True
+1953-04-16 00:00:00,Martinique,Guadeloupe,4,3,Friendly,Fort-de-France,Martinique,False
+1953-04-18 00:00:00,England,Scotland,2,2,British Championship,London,England,False
+1953-04-18 00:00:00,Singapore,South Korea,3,1,Friendly,Kallang,Singapore,False
+1953-04-19 00:00:00,Netherlands,Belgium,0,2,Friendly,Amsterdam,Netherlands,False
+1953-04-19 00:00:00,Singapore,South Korea,1,3,Friendly,Kallang,Singapore,False
+1953-04-24 00:00:00,Singapore,South Korea,0,0,Friendly,Kallang,Singapore,False
+1953-04-26 00:00:00,Czechoslovakia,Italy,2,0,International Cup,Prague,Czechoslovakia,False
+1953-04-26 00:00:00,Hungary,Austria,1,1,Friendly,Budapest,Hungary,False
+1953-04-26 00:00:00,Silesia,Poland,2,3,Friendly,Chorz√≥w,Poland,False
+1953-04-30 00:00:00,Indonesia,South Korea,1,3,Friendly,So Kon Po,Hong Kong,True
+1953-05-06 00:00:00,Scotland,Sweden,1,2,Friendly,Glasgow,Scotland,False
+1953-05-09 00:00:00,Yugoslavia,Greece,1,0,FIFA World Cup qualification,Belgrade,Yugoslavia,False
+1953-05-10 00:00:00,Poland,Czechoslovakia,1,1,Friendly,Wroc≈Çaw,Poland,False
+1953-05-14 00:00:00,Argentina,England,3,1,Friendly,Buenos Aires,Argentina,False
+1953-05-14 00:00:00,Belgium,Yugoslavia,1,3,Friendly,Brussels,Belgium,False
+1953-05-14 00:00:00,France,Wales,6,1,Friendly,Colombes,France,False
+1953-05-17 00:00:00,Argentina,England,0,0,Friendly,Buenos Aires,Argentina,False
+1953-05-17 00:00:00,Guadeloupe,Martinique,0,2,Friendly,Pointe-√†-Pitre,Guadeloupe,False
+1953-05-17 00:00:00,Italy,Hungary,0,3,International Cup,Rome,Italy,False
+1953-05-21 00:00:00,Yugoslavia,Wales,5,2,Friendly,Belgrade,Yugoslavia,False
+1953-05-24 00:00:00,Chile,England,1,2,Friendly,Santiago,Chile,False
+1953-05-25 00:00:00,Finland,Belgium,2,4,FIFA World Cup qualification,Helsinki,Finland,False
+1953-05-25 00:00:00,Switzerland,Turkey,1,2,Friendly,Berne,Switzerland,False
+1953-05-28 00:00:00,Sweden,Belgium,2,3,FIFA World Cup qualification,Solna,Sweden,False
+1953-05-31 00:00:00,Uruguay,England,2,1,Friendly,Montevideo,Uruguay,False
+1953-06-02 00:00:00,Gambia,Guinea-Bissau,1,3,Friendly,Bathurst,Gambia,False
+1953-06-05 00:00:00,Turkey,Yugoslavia,2,2,Friendly,Istanbul,Turkey,False
+1953-06-08 00:00:00,Guinea-Bissau,Gambia,1,0,Friendly,Bissau,Portuguese Guinea,False
+1953-06-08 00:00:00,United States,England,3,6,Friendly,New York,United States,False
+1953-06-11 00:00:00,Sweden,France,1,0,Friendly,Solna,Sweden,False
+1953-06-14 00:00:00,German DR,Bulgaria,0,0,Friendly,Dresden,German DR,False
+1953-06-20 00:00:00,Singapore,Philippines,3,1,Friendly,Kallang,Singapore,False
+1953-06-21 00:00:00,Denmark,Sweden,1,3,Nordic Championship,Copenhagen,Denmark,False
+1953-06-24 00:00:00,Norway,Saarland,2,3,FIFA World Cup qualification,Oslo,Norway,False
+1953-06-27 00:00:00,Switzerland,Denmark,1,4,Friendly,Basel,Switzerland,False
+1953-06-28 00:00:00,Czechoslovakia,Romania,2,0,FIFA World Cup qualification,Prague,Czechoslovakia,False
+1953-06-28 00:00:00,Romania,Bulgaria,3,1,FIFA World Cup qualification,Bucharest,Romania,False
+1953-07-05 00:00:00,Argentina,Spain,1,0,Friendly,Buenos Aires,Argentina,False
+1953-07-05 00:00:00,Sweden,Hungary,2,4,Friendly,Solna,Sweden,False
+1953-07-12 00:00:00,Chile,Spain,1,2,Friendly,Santiago,Chile,False
+1953-07-13 00:00:00,Mauritius,R√©union,9,4,Friendly,Antananarivo,Madagascar,True
+1953-07-16 00:00:00,Madagascar,R√©union,6,4,Friendly,Antananarivo,Madagascar,False
+1953-07-19 00:00:00,Mexico,Haiti,8,0,FIFA World Cup qualification,Mexico City,Mexico,False
+1953-07-20 00:00:00,Madagascar,Mauritius,2,3,Friendly,Antananarivo,Madagascar,False
+1953-07-26 00:00:00,Peru,Chile,1,2,Copa del Pac√≠fico,Lima,Peru,False
+1953-07-28 00:00:00,Peru,Chile,5,0,Copa del Pac√≠fico,Lima,Peru,False
+1953-08-05 00:00:00,Finland,Sweden,3,3,FIFA World Cup qualification,Helsinki,Finland,False
+1953-08-09 00:00:00,Denmark,Iceland,4,0,Friendly,Copenhagen,Denmark,False
+1953-08-09 00:00:00,Catalonia,Spain,0,6,Friendly,Barcelona,Spain,False
+1953-08-10 00:00:00,Jamaica,Trinidad and Tobago,3,2,Friendly,Kingston,Jamaica,False
+1953-08-11 00:00:00,Jamaica,Trinidad and Tobago,0,1,Friendly,Kingston,Jamaica,False
+1953-08-13 00:00:00,Norway,Iceland,3,1,Friendly,Bergen,Norway,False
+1953-08-16 00:00:00,Sweden,Finland,4,0,FIFA World Cup qualification,Solna,Sweden,False
+1953-08-19 00:00:00,Norway,Germany,1,1,FIFA World Cup qualification,Oslo,Norway,False
+1953-08-29 00:00:00,Suriname,Aruba,3,3,Friendly,Paramaribo,Suriname,False
+1953-08-30 00:00:00,Finland,Norway,1,4,Nordic Championship,Helsinki,Finland,False
+1953-09-03 00:00:00,Suriname,Aruba,3,3,Friendly,Paramaribo,Suriname,False
+1953-09-06 00:00:00,Bulgaria,Czechoslovakia,1,2,FIFA World Cup qualification,Sofia,Bulgaria,False
+1953-09-11 00:00:00,Vanuatu,Tahiti,2,4,Friendly,Port Vila,New Hebrides,False
+1953-09-13 00:00:00,Bulgaria,Poland,2,2,Friendly,Sofia,Bulgaria,False
+1953-09-13 00:00:00,Norway,Denmark,0,1,Nordic Championship,Oslo,Norway,False
+1953-09-13 00:00:00,Silesia,Poland,3,3,Friendly,Byton,Poland,False
+1953-09-14 00:00:00,Vanuatu,Tahiti,2,4,Friendly,Port Vila,New Hebrides,False
+1953-09-19 00:00:00,Uganda,Burundi,9,1,Friendly,Kampala,Uganda,False
+1953-09-20 00:00:00,Czechoslovakia,Switzerland,5,0,International Cup,Prague,Czechoslovakia,False
+1953-09-20 00:00:00,Luxembourg,France,1,6,FIFA World Cup qualification,Luxembourg,Luxembourg,False
+1953-09-20 00:00:00,New Caledonia,Tahiti,5,0,Friendly,Noum√©a,New Caledonia,False
+1953-09-23 00:00:00,Belgium,Finland,2,2,FIFA World Cup qualification,Brussels,Belgium,False
+1953-09-23 00:00:00,New Caledonia,Tahiti,4,1,Friendly,Noum√©a,New Caledonia,False
+1953-09-26 00:00:00,Austria,Portugal,9,1,FIFA World Cup qualification,Vienna,Austria,False
+1953-09-26 00:00:00,New Caledonia,Tahiti,4,1,Friendly,Noum√©a,New Caledonia,False
+1953-09-26 00:00:00,Kernow,Trinidad and Tobago,3,6,Friendly,Cornwall,England,False
+1953-09-27 00:00:00,Norway,Netherlands,4,0,Friendly,Oslo,Norway,False
+1953-09-29 00:00:00,Zanzibar,Uganda,1,5,Friendly,Zanzibar,Zanzibar,False
+1953-09-30 00:00:00,Kenya,Tanzania,7,1,Friendly,Zanzibar,Zanzibar,True
+1953-09-30 00:00:00,Kernow,Trinidad and Tobago,2,4,Friendly,Cornwall,England,False
+1953-10-03 00:00:00,Kenya,Uganda,6,2,Friendly,Zanzibar,Zanzibar,True
+1953-10-03 00:00:00,Northern Ireland,Scotland,1,3,FIFA World Cup qualification,Belfast,Northern Ireland,False
+1953-10-03 00:00:00,Kernow,Trinidad and Tobago,1,1,Friendly,Cornwall,England,False
+1953-10-04 00:00:00,Bulgaria,Hungary,1,1,Friendly,Sofia,Bulgaria,False
+1953-10-04 00:00:00,Czechoslovakia,Hungary,1,5,Friendly,Prague,Czechoslovakia,False
+1953-10-04 00:00:00,Denmark,Finland,6,1,Nordic Championship,Copenhagen,Denmark,False
+1953-10-04 00:00:00,Republic of Ireland,France,3,5,FIFA World Cup qualification,Dublin,Republic of Ireland,False
+1953-10-08 00:00:00,Belgium,Sweden,2,0,FIFA World Cup qualification,Brussels,Belgium,False
+1953-10-10 00:00:00,Wales,England,1,4,FIFA World Cup qualification,Cardiff,Wales,False
+1953-10-11 00:00:00,Austria,Hungary,2,3,Friendly,Vienna,Austria,False
+1953-10-11 00:00:00,Bulgaria,Romania,1,2,FIFA World Cup qualification,Sofia,Bulgaria,False
+1953-10-11 00:00:00,Germany,Saarland,3,0,FIFA World Cup qualification,Stuttgart,Germany,False
+1953-10-11 00:00:00,Ghana,Nigeria,1,0,Friendly,Accra,Gold Coast,False
+1953-10-14 00:00:00,Zambia,Zimbabwe,1,0,Friendly,Kitwe,Northern Rhodesia,False
+1953-10-18 00:00:00,Sweden,Norway,0,0,Nordic Championship,Solna,Sweden,False
+1953-10-18 00:00:00,Yugoslavia,France,3,1,Friendly,Zagreb,Yugoslavia,False
+1953-10-24 00:00:00,Myanmar,Sri Lanka,3,2,Friendly,Yangon,Burma,False
+1953-10-25 00:00:00,Netherlands,Belgium,1,0,Friendly,Rotterdam,Netherlands,False
+1953-10-25 00:00:00,Romania,Czechoslovakia,0,1,FIFA World Cup qualification,Bucharest,Romania,False
+1953-10-27 00:00:00,Sri Lanka,India,0,2,Friendly,Yangon,Burma,True
+1953-10-28 00:00:00,Myanmar,Pakistan,1,1,Friendly,Yangon,Burma,False
+1953-10-28 00:00:00,Republic of Ireland,Luxembourg,4,0,FIFA World Cup qualification,Dublin,Republic of Ireland,False
+1953-10-31 00:00:00,Myanmar,India,2,4,Friendly,Yangon,Burma,False
+1953-11-01 00:00:00,Greece,Israel,1,0,FIFA World Cup qualification,Athens,Greece,False
+1953-11-04 00:00:00,Scotland,Wales,3,3,FIFA World Cup qualification,Glasgow,Scotland,False
+1953-11-08 00:00:00,Czechoslovakia,Bulgaria,0,0,FIFA World Cup qualification,Bratislava,Czechoslovakia,False
+1953-11-08 00:00:00,Saarland,Norway,0,0,FIFA World Cup qualification,Saarbr√ºcken,Saarland,False
+1953-11-08 00:00:00,Spain,Sweden,2,2,Friendly,Bilbao,Spain,False
+1953-11-08 00:00:00,Yugoslavia,Israel,1,0,FIFA World Cup qualification,Skopje,Yugoslavia,False
+1953-11-11 00:00:00,England,Northern Ireland,3,1,FIFA World Cup qualification,Liverpool,England,False
+1953-11-11 00:00:00,France,Switzerland,2,4,Friendly,Colombes,France,False
+1953-11-13 00:00:00,Egypt,Italy,1,2,FIFA World Cup qualification,Cairo,Egypt,False
+1953-11-14 00:00:00,Haiti,Jamaica,4,1,Friendly,Port-au-Prince,Haiti,False
+1953-11-15 00:00:00,Hungary,Sweden,2,2,Friendly,Budapest,Hungary,False
+1953-11-21 00:00:00,Haiti,Jamaica,1,0,Friendly,Port-au-Prince,Haiti,False
+1953-11-22 00:00:00,Germany,Norway,5,1,FIFA World Cup qualification,Hamburg,Germany,False
+1953-11-22 00:00:00,Portugal,South Africa,3,1,Friendly,Oeiras,Portugal,False
+1953-11-22 00:00:00,Switzerland,Belgium,2,2,Friendly,Z√ºrich,Switzerland,False
+1953-11-25 00:00:00,England,Hungary,3,6,Friendly,London,England,False
+1953-11-25 00:00:00,France,Republic of Ireland,1,0,FIFA World Cup qualification,Paris,France,False
+1953-11-29 00:00:00,Albania,Poland,2,0,Friendly,Tirana,Albania,False
+1953-11-29 00:00:00,Portugal,Austria,0,0,FIFA World Cup qualification,Oeiras,Portugal,False
+1953-12-13 00:00:00,Italy,Czechoslovakia,3,0,International Cup,Genoa,Italy,False
+1953-12-17 00:00:00,France,Luxembourg,8,0,FIFA World Cup qualification,Paris,France,False
+1953-12-27 00:00:00,Haiti,Mexico,0,4,FIFA World Cup qualification,Port-au-Prince,Haiti,False
+1954-01-06 00:00:00,Spain,Turkey,4,1,FIFA World Cup qualification,Madrid,Spain,False
+1954-01-10 00:00:00,Mexico,United States,4,0,FIFA World Cup qualification,Mexico City,Mexico,False
+1954-01-14 00:00:00,Mexico,United States,3,1,FIFA World Cup qualification,Mexico City,Mexico,False
+1954-01-24 00:00:00,Italy,Egypt,5,1,FIFA World Cup qualification,Milan,Italy,False
+1954-02-12 00:00:00,Egypt,Hungary,0,3,Friendly,Cairo,Egypt,False
+1954-02-14 00:00:00,Paraguay,Chile,4,0,FIFA World Cup qualification,Asunci√≥n,Paraguay,False
+1954-02-21 00:00:00,Chile,Paraguay,1,3,FIFA World Cup qualification,Santiago,Chile,False
+1954-02-28 00:00:00,Chile,Brazil,0,2,FIFA World Cup qualification,Santiago,Chile,False
+1954-03-07 00:00:00,Japan,South Korea,1,5,FIFA World Cup qualification,Tokyo,Japan,False
+1954-03-07 00:00:00,Luxembourg,Republic of Ireland,0,1,FIFA World Cup qualification,Luxembourg,Luxembourg,False
+1954-03-07 00:00:00,Paraguay,Brazil,0,1,FIFA World Cup qualification,Asunci√≥n,Paraguay,False
+1954-03-08 00:00:00,Israel,Greece,0,2,FIFA World Cup qualification,Ramat-Gan,Israel,False
+1954-03-14 00:00:00,Belgium,Portugal,0,0,Friendly,Brussels,Belgium,False
+1954-03-14 00:00:00,Brazil,Chile,1,0,FIFA World Cup qualification,Rio de Janeiro,Brazil,False
+1954-03-14 00:00:00,Japan,South Korea,2,2,FIFA World Cup qualification,Tokyo,Japan,False
+1954-03-14 00:00:00,Turkey,Spain,1,0,FIFA World Cup qualification,Istanbul,Turkey,False
+1954-03-17 00:00:00,Turkey,Spain,2,2,FIFA World Cup qualification,Rome,Italy,True
+1954-03-19 00:00:00,Martinique,Guadeloupe,2,2,Friendly,Fort-de-France,Martinique,False
+1954-03-21 00:00:00,Israel,Yugoslavia,0,1,FIFA World Cup qualification,Ramat-Gan,Israel,False
+1954-03-21 00:00:00,Brazil,Paraguay,4,1,FIFA World Cup qualification,Rio de Janeiro,Brazil,False
+1954-03-28 00:00:00,Greece,Yugoslavia,0,1,FIFA World Cup qualification,Athens,Greece,False
+1954-03-28 00:00:00,Saarland,Germany,1,3,FIFA World Cup qualification,Saarbr√ºcken,Saarland,False
+1954-03-31 00:00:00,Wales,Northern Ireland,1,2,FIFA World Cup qualification,Wrexham,Wales,False
+1954-04-03 00:00:00,Haiti,United States,2,3,FIFA World Cup qualification,Port-au-Prince,Haiti,False
+1954-04-03 00:00:00,Scotland,England,2,4,FIFA World Cup qualification,Glasgow,Scotland,False
+1954-04-04 00:00:00,Belgium,Netherlands,4,0,Friendly,Antwerp,Belgium,False
+1954-04-04 00:00:00,Haiti,United States,0,3,FIFA World Cup qualification,Port-au-Prince,Haiti,False
+1954-04-10 00:00:00,Uruguay,Paraguay,1,4,Friendly,Montevideo,Uruguay,False
+1954-04-11 00:00:00,Austria,Hungary,0,1,Friendly,Vienna,Austria,False
+1954-04-11 00:00:00,France,Italy,1,3,Friendly,Colombes,France,False
+1954-04-18 00:00:00,Paraguay,Uruguay,1,1,Friendly,Asunci√≥n,Paraguay,False
+1954-04-25 00:00:00,Singapore,Pakistan,2,2,Friendly,Kallang,Singapore,False
+1954-04-25 00:00:00,Switzerland,Germany,3,5,Friendly,Basel,Switzerland,False
+1954-05-01 00:00:00,Ethiopia,Djibouti,10,2,Friendly,Addis Ababa,Ethiopia,False
+1954-05-01 00:00:00,South Africa,Israel,2,1,Friendly,Johannesburg,South Africa,False
+1954-05-03 00:00:00,Zambia,Israel,0,0,Friendly,Kitwe,Northern Rhodesia,False
+1954-05-05 00:00:00,Scotland,Norway,1,0,Friendly,Glasgow,Scotland,False
+1954-05-05 00:00:00,Zimbabwe,Israel,2,1,Friendly,Salisbury,Southern Rhodesia,False
+1954-05-08 00:00:00,German DR,Romania,0,1,Friendly,Berlin,German DR,False
+1954-05-09 00:00:00,Austria,Wales,2,0,Friendly,Vienna,Austria,False
+1954-05-09 00:00:00,Yugoslavia,Belgium,0,2,Friendly,Zagreb,Yugoslavia,False
+1954-05-09 00:00:00,Zimbabwe,Israel,1,2,Friendly,Bulawayo,Southern Rhodesia,False
+1954-05-16 00:00:00,Yugoslavia,England,1,0,Friendly,Belgrade,Yugoslavia,False
+1954-05-19 00:00:00,Norway,Scotland,1,1,Friendly,Oslo,Norway,False
+1954-05-19 00:00:00,Sweden,Netherlands,6,1,Friendly,Solna,Sweden,False
+1954-05-21 00:00:00,Guadeloupe,Martinique,2,4,Friendly,Basse-Terre,Guadeloupe,False
+1954-05-23 00:00:00,Hungary,England,7,1,Friendly,Budapest,Hungary,False
+1954-05-23 00:00:00,Switzerland,Uruguay,3,3,Friendly,Lausanne,Switzerland,False
+1954-05-24 00:00:00,Zimbabwe,Zambia,1,0,Friendly,Salisbury,Southern Rhodesia,False
+1954-05-25 00:00:00,Finland,Scotland,1,2,Friendly,Helsinki,Finland,False
+1954-05-30 00:00:00,Austria,Norway,5,0,Friendly,Vienna,Austria,False
+1954-05-30 00:00:00,Belgium,France,3,3,Friendly,Brussels,Belgium,False
+1954-05-30 00:00:00,Switzerland,Netherlands,3,1,Friendly,Z√ºrich,Switzerland,False
+1954-06-01 00:00:00,Djibouti,Ethiopia,0,2,Friendly,Djibouti,French Somaliland,False
+1954-06-01 00:00:00,Ghana,Sierra Leone,2,0,Friendly,Accra,Gold Coast,False
+1954-06-02 00:00:00,Djibouti,Ethiopia,1,2,Friendly,Djibouti,French Somaliland,False
+1954-06-02 00:00:00,Hong Kong,Taiwan,2,2,Friendly,Victoria,Hong Kong,False
+1954-06-04 00:00:00,Denmark,Norway,1,2,Friendly,Malm√∂,Sweden,True
+1954-06-04 00:00:00,Sweden,Finland,6,0,Friendly,Gothenburg,Sweden,False
+1954-06-05 00:00:00,Saarland,Uruguay,1,7,Friendly,Saarbr√ºcken,Saarland,False
+1954-06-07 00:00:00,Sweden,Norway,3,0,Friendly,Solna,Sweden,False
+1954-06-13 00:00:00,Finland,Denmark,2,2,Nordic Championship,Helsinki,Finland,False
+1954-06-16 00:00:00,Austria,Scotland,1,0,FIFA World Cup,Z√ºrich,Switzerland,True
+1954-06-16 00:00:00,Brazil,Mexico,5,0,FIFA World Cup,Geneva,Switzerland,True
+1954-06-16 00:00:00,Czechoslovakia,Uruguay,0,2,FIFA World Cup,Berne,Switzerland,True
+1954-06-16 00:00:00,France,Yugoslavia,0,1,FIFA World Cup,Lausanne,Switzerland,True
+1954-06-17 00:00:00,Belgium,England,4,4,FIFA World Cup,Basel,Switzerland,True
+1954-06-17 00:00:00,Germany,Turkey,4,1,FIFA World Cup,Berne,Switzerland,True
+1954-06-17 00:00:00,Hungary,South Korea,9,0,FIFA World Cup,Z√ºrich,Switzerland,True
+1954-06-17 00:00:00,Switzerland,Italy,2,1,FIFA World Cup,Lausanne,Switzerland,False
+1954-06-19 00:00:00,Austria,Czechoslovakia,5,0,FIFA World Cup,Z√ºrich,Switzerland,True
+1954-06-19 00:00:00,Brazil,Yugoslavia,1,1,FIFA World Cup,Lausanne,Switzerland,True
+1954-06-19 00:00:00,France,Mexico,3,2,FIFA World Cup,Geneva,Switzerland,True
+1954-06-19 00:00:00,Scotland,Uruguay,0,7,FIFA World Cup,Basel,Switzerland,True
+1954-06-20 00:00:00,Belgium,Italy,1,4,FIFA World Cup,Lugano,Switzerland,True
+1954-06-20 00:00:00,Germany,Hungary,3,8,FIFA World Cup,Basel,Switzerland,True
+1954-06-20 00:00:00,South Korea,Turkey,0,7,FIFA World Cup,Geneva,Switzerland,True
+1954-06-20 00:00:00,Switzerland,England,0,2,FIFA World Cup,Berne,Switzerland,False
+1954-06-23 00:00:00,Germany,Turkey,7,2,FIFA World Cup,Z√ºrich,Switzerland,True
+1954-06-23 00:00:00,Switzerland,Italy,4,1,FIFA World Cup,Basel,Switzerland,False
+1954-06-26 00:00:00,England,Uruguay,2,4,FIFA World Cup,Basel,Switzerland,True
+1954-06-26 00:00:00,Switzerland,Austria,5,7,FIFA World Cup,Lausanne,Switzerland,False
+1954-06-27 00:00:00,Brazil,Hungary,2,4,FIFA World Cup,Berne,Switzerland,True
+1954-06-27 00:00:00,Germany,Yugoslavia,2,0,FIFA World Cup,Geneva,Switzerland,True
+1954-06-30 00:00:00,Austria,Germany,1,6,FIFA World Cup,Basel,Switzerland,True
+1954-06-30 00:00:00,Hungary,Uruguay,4,2,FIFA World Cup,Lausanne,Switzerland,True
+1954-07-03 00:00:00,Austria,Uruguay,3,1,FIFA World Cup,Z√ºrich,Switzerland,True
+1954-07-04 00:00:00,Germany,Hungary,3,2,FIFA World Cup,Berne,Switzerland,True
+1954-07-04 00:00:00,Iceland,Norway,1,0,Friendly,Reykjav√≠k,Iceland,False
+1954-07-11 00:00:00,Madagascar,R√©union,2,6,Friendly,Curepipe,Mauritius,True
+1954-07-14 00:00:00,Mauritius,Madagascar,4,1,Friendly,Curepipe,Mauritius,False
+1954-07-18 00:00:00,Mauritius,R√©union,11,0,Friendly,Curepipe,Mauritius,False
+1954-07-25 00:00:00,Cura√ßao,Netherlands,2,0,Friendly,Willemstad,Netherlands Antilles,False
+1954-07-27 00:00:00,Aruba,Netherlands,2,2,Friendly,Oranjestad,Netherlands Antilles,False
+1954-07-29 00:00:00,Cura√ßao,Netherlands,2,1,Friendly,Willemstad,Netherlands Antilles,False
+1954-08-01 00:00:00,Suriname,Netherlands,3,4,Friendly,Paramaribo,Suriname,False
+1954-08-05 00:00:00,Suriname,Netherlands,0,2,Friendly,Paramaribo,Suriname,False
+1954-08-08 00:00:00,Poland,Bulgaria,2,2,Friendly,Warsaw,Poland,False
+1954-08-14 00:00:00,Australia,New Zealand,1,2,Friendly,Melbourne,Australia,False
+1954-08-15 00:00:00,Finland,Sweden,1,10,Nordic Championship,Helsinki,Finland,False
+1954-08-18 00:00:00,Zimbabwe,Zambia,2,4,Friendly,Salisbury,Southern Rhodesia,False
+1954-08-24 00:00:00,Sweden,Iceland,3,2,Friendly,Kalmar,Sweden,False
+1954-08-28 00:00:00,Australia,New Zealand,4,1,Friendly,Brisbane,Australia,False
+1954-08-29 00:00:00,Norway,Finland,3,1,Nordic Championship,Oslo,Norway,False
+1954-09-04 00:00:00,Australia,New Zealand,4,1,Friendly,Sydney,Australia,False
+1954-09-08 00:00:00,Russia,Sweden,7,0,Friendly,Moscow,Soviet Union,False
+1954-09-17 00:00:00,Chile,Peru,2,1,Copa del Pac√≠fico,Santiago,Chile,False
+1954-09-19 00:00:00,Chile,Peru,2,4,Copa del Pac√≠fico,Santiago,Chile,False
+1954-09-19 00:00:00,Denmark,Switzerland,1,1,Friendly,Copenhagen,Denmark,False
+1954-09-19 00:00:00,Hungary,Romania,5,1,Friendly,Budapest,Hungary,False
+1954-09-19 00:00:00,Norway,Sweden,1,1,Nordic Championship,Oslo,Norway,False
+1954-09-22 00:00:00,Wales,Yugoslavia,1,3,Friendly,Cardiff,Wales,False
+1954-09-26 00:00:00,Belgium,Germany,2,0,Friendly,Brussels,Belgium,False
+1954-09-26 00:00:00,German DR,Poland,0,1,Friendly,Rostock,German DR,False
+1954-09-26 00:00:00,Russia,Hungary,1,1,Friendly,Moscow,Soviet Union,False
+1954-09-26 00:00:00,Saarland,Yugoslavia,1,5,Friendly,Saarbr√ºcken,Saarland,False
+1954-10-02 00:00:00,Northern Ireland,England,0,2,British Championship,Belfast,Northern Ireland,False
+1954-10-03 00:00:00,Austria,Yugoslavia,2,2,Friendly,Vienna,Austria,False
+1954-10-05 00:00:00,Kenya,Zanzibar,5,0,Friendly,Nairobi,Kenya,False
+1954-10-06 00:00:00,Tanzania,Uganda,3,5,Friendly,Nairobi,Kenya,True
+1954-10-09 00:00:00,Kenya,Uganda,2,2,Friendly,Nairobi,Kenya,False
+1954-10-10 00:00:00,Hungary,Switzerland,3,0,Friendly,Budapest,Hungary,False
+1954-10-10 00:00:00,Kenya,Uganda,1,4,Friendly,Nairobi,Kenya,False
+1954-10-10 00:00:00,Sweden,Denmark,5,2,Nordic Championship,Solna,Sweden,False
+1954-10-16 00:00:00,Germany,France,1,3,Friendly,Hanover,Germany,False
+1954-10-16 00:00:00,Wales,Scotland,0,1,British Championship,Cardiff,Wales,False
+1954-10-17 00:00:00,Yugoslavia,Turkey,5,1,Friendly,Sarajevo,Yugoslavia,False
+1954-10-24 00:00:00,Belgium,Netherlands,4,3,Friendly,Antwerp,Belgium,False
+1954-10-24 00:00:00,Bulgaria,German DR,3,1,Friendly,Sofia,Bulgaria,False
+1954-10-24 00:00:00,Hungary,Czechoslovakia,4,1,Friendly,Budapest,Hungary,False
+1954-10-30 00:00:00,Nigeria,Ghana,3,0,Friendly,Lagos,Nigeria,False
+1954-10-31 00:00:00,Denmark,Norway,0,1,Nordic Championship,Copenhagen,Denmark,False
+1954-10-31 00:00:00,Sweden,Austria,2,1,Friendly,Solna,Sweden,False
+1954-11-01 00:00:00,Cambodia,Thailand,7,1,Friendly,Phnom Penh,Cambodia,False
+1954-11-03 00:00:00,Scotland,Northern Ireland,2,2,British Championship,Glasgow,Scotland,False
+1954-11-07 00:00:00,Greece,Egypt,1,1,Friendly,Athens,Greece,False
+1954-11-07 00:00:00,Republic of Ireland,Norway,2,1,Friendly,Dublin,Republic of Ireland,False
+1954-11-10 00:00:00,England,Wales,3,2,British Championship,London,England,False
+1954-11-11 00:00:00,France,Belgium,2,2,Friendly,Colombes,France,False
+1954-11-14 00:00:00,Hungary,Austria,4,1,Friendly,Budapest,Hungary,False
+1954-11-28 00:00:00,Portugal,Argentina,1,3,Friendly,Oeiras,Portugal,False
+1954-12-01 00:00:00,England,Germany,3,1,Friendly,London,England,False
+1954-12-05 00:00:00,Italy,Argentina,2,0,Friendly,Rome,Italy,False
+1954-12-08 00:00:00,Scotland,Hungary,2,4,Friendly,Glasgow,Scotland,False
+1954-12-18 00:00:00,Sri Lanka,Pakistan,1,2,Friendly,Calcutta,India,True
+1954-12-19 00:00:00,India,Myanmar,2,1,Friendly,Calcutta,India,False
+1954-12-19 00:00:00,Portugal,Germany,0,3,Friendly,Oeiras,Portugal,False
+1954-12-21 00:00:00,India,Sri Lanka,1,1,Friendly,Calcutta,India,False
+1954-12-23 00:00:00,Myanmar,Pakistan,1,1,Friendly,Calcutta,India,True
+1954-12-25 00:00:00,Myanmar,Sri Lanka,1,2,Friendly,Calcutta,India,True
+1955-01-07 00:00:00,Egypt,Bulgaria,1,0,Friendly,Cairo,Egypt,False
+1955-01-11 00:00:00,Myanmar,Japan,0,1,Friendly,Yangon,Burma,False
+1955-01-16 00:00:00,Italy,Belgium,1,0,Friendly,Bari,Italy,False
+1955-01-23 00:00:00,Lebanon,Bulgaria,2,3,Friendly,Beirut,Lebanon,False
+1955-02-27 00:00:00,Chile,Ecuador,7,1,Copa Am√©rica,Santiago,Chile,False
+1955-03-01 00:00:00,Martinique,Guadeloupe,4,1,Friendly,Fort-de-France,Martinique,False
+1955-03-02 00:00:00,Argentina,Paraguay,5,3,Copa Am√©rica,Santiago,Chile,True
+1955-03-06 00:00:00,Chile,Peru,5,4,Copa Am√©rica,Santiago,Chile,False
+1955-03-09 00:00:00,Argentina,Ecuador,4,0,Copa Am√©rica,Santiago,Chile,True
+1955-03-09 00:00:00,Paraguay,Uruguay,1,3,Copa Am√©rica,Santiago,Chile,True
+1955-03-13 00:00:00,Chile,Uruguay,2,2,Copa Am√©rica,Santiago,Chile,False
+1955-03-13 00:00:00,Ecuador,Peru,2,4,Copa Am√©rica,Santiago,Chile,True
+1955-03-13 00:00:00,Netherlands,Denmark,1,1,Friendly,Amsterdam,Netherlands,False
+1955-03-16 00:00:00,Ecuador,Paraguay,0,2,Copa Am√©rica,Santiago,Chile,True
+1955-03-17 00:00:00,Spain,France,1,2,Friendly,Madrid,Spain,False
+1955-03-20 00:00:00,Chile,Paraguay,5,0,Copa Am√©rica,Santiago,Chile,False
+1955-03-23 00:00:00,Ecuador,Uruguay,1,5,Copa Am√©rica,Santiago,Chile,True
+1955-03-23 00:00:00,Paraguay,Peru,1,1,Copa Am√©rica,Santiago,Chile,True
+1955-03-27 00:00:00,Argentina,Uruguay,6,1,Copa Am√©rica,Santiago,Chile,True
+1955-03-27 00:00:00,Czechoslovakia,Austria,3,2,International Cup,Brno,Czechoslovakia,False
+1955-03-30 00:00:00,Chile,Argentina,0,1,Copa Am√©rica,Santiago,Chile,False
+1955-03-30 00:00:00,Germany,Italy,1,2,Friendly,Stuttgart,Germany,False
+1955-03-30 00:00:00,Peru,Uruguay,2,1,Copa Am√©rica,Santiago,Chile,True
+1955-04-02 00:00:00,England,Scotland,7,2,British Championship,London,England,False
+1955-04-03 00:00:00,France,Sweden,2,0,Friendly,Colombes,France,False
+1955-04-03 00:00:00,Netherlands,Belgium,1,0,Friendly,Amsterdam,Netherlands,False
+1955-04-20 00:00:00,Northern Ireland,Wales,2,3,British Championship,Belfast,Northern Ireland,False
+1955-04-24 00:00:00,Austria,Hungary,2,2,International Cup,Vienna,Austria,False
+1955-04-25 00:00:00,Argentina,Peru,2,2,Copa Am√©rica,Santiago,Chile,True
+1955-05-01 00:00:00,Republic of Ireland,Netherlands,1,0,Friendly,Dublin,Republic of Ireland,False
+1955-05-01 00:00:00,Switzerland,Austria,2,3,International Cup,Berne,Switzerland,False
+1955-05-04 00:00:00,Scotland,Portugal,3,0,Friendly,Glasgow,Scotland,False
+1955-05-05 00:00:00,Martinique,Guadeloupe,1,1,Friendly,Fort-de-France,Martinique,False
+1955-05-08 00:00:00,Norway,Hungary,0,5,Friendly,Oslo,Norway,False
+1955-05-11 00:00:00,Sweden,Hungary,3,7,Friendly,Solna,Sweden,False
+1955-05-15 00:00:00,Denmark,Hungary,0,6,Friendly,Copenhagen,Denmark,False
+1955-05-15 00:00:00,France,England,1,0,Friendly,Colombes,France,False
+1955-05-15 00:00:00,Yugoslavia,Scotland,2,2,Friendly,Belgrade,Yugoslavia,False
+1955-05-18 00:00:00,Spain,England,1,1,Friendly,Madrid,Spain,False
+1955-05-19 00:00:00,Austria,Scotland,1,4,Friendly,Vienna,Austria,False
+1955-05-19 00:00:00,Finland,Hungary,1,9,Friendly,Helsinki,Finland,False
+1955-05-19 00:00:00,Netherlands,Switzerland,4,1,Friendly,Rotterdam,Netherlands,False
+1955-05-22 00:00:00,Bulgaria,Egypt,2,1,Friendly,Sofia,Bulgaria,False
+1955-05-22 00:00:00,Portugal,England,3,1,Friendly,Porto,Portugal,False
+1955-05-25 00:00:00,Norway,Republic of Ireland,1,3,Friendly,Oslo,Norway,False
+1955-05-28 00:00:00,Germany,Republic of Ireland,2,1,Friendly,Hamburg,Germany,False
+1955-05-28 00:00:00,Ghana,Nigeria,1,0,Friendly,Accra,Gold Coast,False
+1955-05-29 00:00:00,Hungary,Scotland,3,1,Friendly,Budapest,Hungary,False
+1955-05-29 00:00:00,Italy,Yugoslavia,0,4,International Cup,Turin,Italy,False
+1955-05-29 00:00:00,Romania,Poland,2,2,Friendly,Bucharest,Romania,False
+1955-06-05 00:00:00,Belgium,Czechoslovakia,1,3,Friendly,Brussels,Belgium,False
+1955-06-12 00:00:00,Norway,Romania,0,1,Friendly,Oslo,Norway,False
+1955-06-15 00:00:00,Sweden,Romania,4,1,Friendly,Gothenburg,Sweden,False
+1955-06-18 00:00:00,El Salvador,Honduras,2,2,Friendly,San Salvador,El Salvador,False
+1955-06-19 00:00:00,Denmark,Finland,2,1,Nordic Championship,Copenhagen,Denmark,False
+1955-06-19 00:00:00,El Salvador,Honduras,0,0,Friendly,San Salvador,El Salvador,False
+1955-06-19 00:00:00,Switzerland,Spain,0,3,Friendly,Geneva,Switzerland,False
+1955-06-26 00:00:00,Bulgaria,Poland,1,1,Friendly,Sofia,Bulgaria,False
+1955-06-26 00:00:00,Sweden,Russia,0,6,Friendly,Solna,Sweden,False
+1955-06-26 00:00:00,Yugoslavia,Switzerland,0,0,International Cup,Belgrade,Yugoslavia,False
+1955-07-03 00:00:00,Iceland,Denmark,0,4,Friendly,Reykjav√≠k,Iceland,False
+1955-07-07 00:00:00,R√©union,Mauritius,1,3,Friendly,Saint-Pierre,R√©union,False
+1955-07-10 00:00:00,R√©union,Madagascar,2,4,Friendly,Saint-Pierre,R√©union,False
+1955-07-12 00:00:00,Tahiti,New Caledonia,1,1,Friendly,Papeete,French Polynesia,False
+1955-07-14 00:00:00,Madagascar,Mauritius,2,1,Friendly,Saint-Pierre,R√©union,True
+1955-07-24 00:00:00,Costa Rica,Guatemala,9,1,Friendly,San Jos√©,Costa Rica,False
+1955-07-31 00:00:00,Guatemala,Costa Rica,3,1,Friendly,Guatemala,Guatemala,False
+1955-08-14 00:00:00,Costa Rica,Aruba,3,2,CCCF Championship,Tegucigalpa,Honduras,True
+1955-08-14 00:00:00,Finland,Norway,1,3,Nordic Championship,Helsinki,Finland,False
+1955-08-14 00:00:00,Honduras,Cuba,3,0,CCCF Championship,Tegucigalpa,Honduras,False
+1955-08-15 00:00:00,Guatemala,El Salvador,2,3,CCCF Championship,Tegucigalpa,Honduras,True
+1955-08-16 00:00:00,Costa Rica,Cuba,6,0,CCCF Championship,Tegucigalpa,Honduras,True
+1955-08-16 00:00:00,Cura√ßao,Aruba,2,1,CCCF Championship,Tegucigalpa,Honduras,True
+1955-08-17 00:00:00,Honduras,El Salvador,3,1,CCCF Championship,Tegucigalpa,Honduras,False
+1955-08-18 00:00:00,Guatemala,Cura√ßao,4,1,CCCF Championship,Tegucigalpa,Honduras,True
+1955-08-19 00:00:00,Aruba,Cuba,4,1,CCCF Championship,Tegucigalpa,Honduras,True
+1955-08-19 00:00:00,Costa Rica,El Salvador,4,0,CCCF Championship,Tegucigalpa,Honduras,True
+1955-08-20 00:00:00,El Salvador,Cuba,2,1,CCCF Championship,Tegucigalpa,Honduras,True
+1955-08-20 00:00:00,Honduras,Cura√ßao,0,2,CCCF Championship,Tegucigalpa,Honduras,False
+1955-08-21 00:00:00,Guatemala,Costa Rica,0,2,CCCF Championship,Tegucigalpa,Honduras,True
+1955-08-21 00:00:00,Russia,Germany,3,2,Friendly,Moscow,Soviet Union,False
+1955-08-22 00:00:00,Honduras,Aruba,1,1,CCCF Championship,Tegucigalpa,Honduras,False
+1955-08-24 00:00:00,Costa Rica,Cura√ßao,2,1,CCCF Championship,Tegucigalpa,Honduras,True
+1955-08-24 00:00:00,El Salvador,Aruba,2,0,CCCF Championship,Tegucigalpa,Honduras,True
+1955-08-25 00:00:00,Iceland,United States,3,2,Friendly,Reykjav√≠k,Iceland,False
+1955-08-26 00:00:00,Cura√ßao,El Salvador,3,0,CCCF Championship,Tegucigalpa,Honduras,True
+1955-08-28 00:00:00,Cura√ßao,Cuba,2,0,CCCF Championship,Tegucigalpa,Honduras,True
+1955-08-28 00:00:00,Honduras,Costa Rica,1,2,CCCF Championship,Tegucigalpa,Honduras,False
+1955-08-28 00:00:00,Sweden,Finland,3,0,Nordic Championship,Helsingborg,Sweden,False
+1955-09-03 00:00:00,Australia,South Africa,0,3,Friendly,Brisbane,Australia,False
+1955-09-10 00:00:00,Australia,South Africa,0,2,Friendly,Melbourne,Australia,False
+1955-09-11 00:00:00,Finland,Poland,1,3,Friendly,Helsinki,Finland,False
+1955-09-11 00:00:00,Norway,Denmark,1,1,Nordic Championship,Oslo,Norway,False
+1955-09-16 00:00:00,Russia,India,11,1,Friendly,Moscow,Soviet Union,False
+1955-09-17 00:00:00,Australia,South Africa,0,8,Friendly,Adelaide,Australia,False
+1955-09-17 00:00:00,Switzerland,Hungary,4,5,International Cup,Lausanne,Switzerland,False
+1955-09-18 00:00:00,Brazil,Chile,1,1,Copa Bernardo O'Higgins,Rio de Janeiro,Brazil,False
+1955-09-18 00:00:00,Romania,German DR,2,3,Friendly,Bucharest,Romania,False
+1955-09-20 00:00:00,Brazil,Chile,2,1,Copa Bernardo O'Higgins,S√£o Paulo,Brazil,False
+1955-09-24 00:00:00,Australia,South Africa,0,6,Friendly,Sydney,Australia,False
+1955-09-25 00:00:00,Czechoslovakia,Belgium,5,2,Friendly,Prague,Czechoslovakia,False
+1955-09-25 00:00:00,Hungary,Russia,1,1,Friendly,Budapest,Hungary,False
+1955-09-25 00:00:00,Sweden,Norway,1,1,Nordic Championship,Solna,Sweden,False
+1955-09-25 00:00:00,Yugoslavia,Germany,3,1,Friendly,Belgrade,Yugoslavia,False
+1955-09-28 00:00:00,Romania,Belgium,1,0,Friendly,Bucharest,Romania,False
+1955-10-01 00:00:00,Australia,South Africa,1,4,Friendly,Newcastle,Australia,False
+1955-10-02 00:00:00,Czechoslovakia,Hungary,1,3,International Cup,Prague,Czechoslovakia,False
+1955-10-02 00:00:00,Denmark,England,1,5,Friendly,Copenhagen,Denmark,False
+1955-10-08 00:00:00,Northern Ireland,Scotland,2,1,British Championship,Belfast,Northern Ireland,False
+1955-10-09 00:00:00,Japan,Myanmar,0,0,Friendly,Tokyo,Japan,False
+1955-10-09 00:00:00,Romania,Bulgaria,1,1,Friendly,Bucharest,Romania,False
+1955-10-09 00:00:00,Switzerland,France,1,2,Friendly,Basel,Switzerland,False
+1955-10-11 00:00:00,Kenya,Uganda,0,1,Friendly,Dar es Salaam,Tanganyika,True
+1955-10-13 00:00:00,Kenya,Zanzibar,8,0,Friendly,Dar es Salaam,Tanganyika,True
+1955-10-15 00:00:00,Tanzania,Uganda,1,5,Friendly,Dar es Salaam,Tanganyika,False
+1955-10-16 00:00:00,Denmark,Sweden,3,3,Nordic Championship,Copenhagen,Denmark,False
+1955-10-16 00:00:00,Hungary,Austria,6,1,International Cup,Budapest,Hungary,False
+1955-10-16 00:00:00,Netherlands,Belgium,2,2,Friendly,Rotterdam,Netherlands,False
+1955-10-19 00:00:00,Republic of Ireland,Yugoslavia,1,4,Friendly,Dublin,Republic of Ireland,False
+1955-10-22 00:00:00,Wales,England,2,1,British Championship,Cardiff,Wales,False
+1955-10-23 00:00:00,Russia,France,2,2,Friendly,Moscow,Soviet Union,False
+1955-10-30 00:00:00,Austria,Yugoslavia,2,1,International Cup,Vienna,Austria,False
+1955-10-30 00:00:00,Ghana,Nigeria,7,0,Friendly,Accra,Gold Coast,False
+1955-11-02 00:00:00,England,Northern Ireland,3,0,British Championship,London,England,False
+1955-11-06 00:00:00,Netherlands,Norway,3,0,Friendly,Amsterdam,Netherlands,False
+1955-11-09 00:00:00,Scotland,Wales,2,0,British Championship,Glasgow,Scotland,False
+1955-11-11 00:00:00,France,Yugoslavia,1,1,Friendly,Colombes,France,False
+1955-11-13 00:00:00,Brazil,Paraguay,3,0,Copa Oswaldo Cruz,Rio de Janeiro,Brazil,False
+1955-11-13 00:00:00,Bulgaria,Czechoslovakia,3,0,Friendly,Sofia,Bulgaria,False
+1955-11-13 00:00:00,Hungary,Sweden,4,2,Friendly,Budapest,Hungary,False
+1955-11-16 00:00:00,Germany,Norway,2,0,Friendly,Karlsruhe,Germany,False
+1955-11-16 00:00:00,Saarland,Netherlands,1,2,Friendly,Saarbr√ºcken,Saarland,False
+1955-11-17 00:00:00,Brazil,Paraguay,3,3,Copa Oswaldo Cruz,Rio de Janeiro,Brazil,False
+1955-11-20 00:00:00,German DR,Bulgaria,1,0,Friendly,Berlin,German DR,False
+1955-11-20 00:00:00,Portugal,Sweden,2,6,Friendly,Oeiras,Portugal,False
+1955-11-23 00:00:00,Wales,Austria,1,2,Friendly,Wrexham,Wales,False
+1955-11-27 00:00:00,Hungary,Italy,2,0,International Cup,Budapest,Hungary,False
+1955-11-27 00:00:00,Republic of Ireland,Spain,2,2,Friendly,Dublin,Republic of Ireland,False
+1955-11-30 00:00:00,England,Spain,4,1,Friendly,London,England,False
+1955-12-14 00:00:00,Suriname,Trinidad and Tobago,5,2,Friendly,Paramaribo,Suriname,False
+1955-12-16 00:00:00,Suriname,Trinidad and Tobago,3,1,Friendly,Paramaribo,Suriname,False
+1955-12-17 00:00:00,Pakistan,Myanmar,4,2,Friendly,Dhaka,Pakistan,False
+1955-12-18 00:00:00,Italy,Germany,2,1,Friendly,Rome,Italy,False
+1955-12-18 00:00:00,Sri Lanka,India,3,4,Friendly,Dhaka,Pakistan,True
+1955-12-18 00:00:00,Suriname,Trinidad and Tobago,3,0,Friendly,Paramaribo,Suriname,False
+1955-12-18 00:00:00,Turkey,Portugal,3,1,Friendly,Istanbul,Turkey,False
+1955-12-22 00:00:00,Myanmar,India,1,2,Friendly,Dhaka,Pakistan,True
+1955-12-23 00:00:00,Egypt,Portugal,0,4,Friendly,Cairo,Egypt,False
+1955-12-25 00:00:00,Belgium,France,2,1,Friendly,Brussels,Belgium,False
+1955-12-25 00:00:00,Myanmar,Sri Lanka,3,1,Friendly,Dhaka,Pakistan,True
+1956-01-13 00:00:00,Cura√ßao,Martinique,3,1,Friendly,Willemstad,Netherlands Antilles,False
+1956-01-15 00:00:00,Cura√ßao,Martinique,3,1,Friendly,Willemstad,Netherlands Antilles,False
+1956-01-21 00:00:00,Uruguay,Paraguay,4,2,Copa Am√©rica,Montevideo,Uruguay,False
+1956-01-22 00:00:00,Argentina,Peru,2,1,Copa Am√©rica,Montevideo,Uruguay,True
+1956-01-24 00:00:00,Brazil,Chile,1,4,Copa Am√©rica,Montevideo,Uruguay,True
+1956-01-28 00:00:00,Uruguay,Peru,2,0,Copa Am√©rica,Montevideo,Uruguay,False
+1956-01-29 00:00:00,Argentina,Chile,2,0,Copa Am√©rica,Montevideo,Uruguay,True
+1956-01-29 00:00:00,Brazil,Paraguay,0,0,Copa Am√©rica,Montevideo,Uruguay,True
+1956-02-01 00:00:00,Argentina,Paraguay,1,0,Copa Am√©rica,Montevideo,Uruguay,True
+1956-02-01 00:00:00,Brazil,Peru,2,1,Copa Am√©rica,Montevideo,Uruguay,True
+1956-02-05 00:00:00,Argentina,Brazil,0,1,Copa Am√©rica,Montevideo,Uruguay,True
+1956-02-05 00:00:00,Paraguay,Peru,1,1,Copa Am√©rica,Montevideo,Uruguay,True
+1956-02-06 00:00:00,Uruguay,Chile,2,1,Copa Am√©rica,Montevideo,Uruguay,False
+1956-02-09 00:00:00,Chile,Peru,4,3,Copa Am√©rica,Montevideo,Uruguay,True
+1956-02-10 00:00:00,Uruguay,Brazil,0,0,Copa Am√©rica,Montevideo,Uruguay,False
+1956-02-12 00:00:00,Chile,Paraguay,2,0,Copa Am√©rica,Montevideo,Uruguay,True
+1956-02-15 00:00:00,Italy,France,2,0,Friendly,Bologna,Italy,False
+1956-02-15 00:00:00,Uruguay,Argentina,1,0,Copa Am√©rica,Montevideo,Uruguay,False
+1956-02-19 00:00:00,Turkey,Hungary,3,1,Friendly,Istanbul,Turkey,False
+1956-02-25 00:00:00,Philippines,South Korea,0,2,AFC Asian Cup qualification,Manila,Philippines,False
+1956-02-26 00:00:00,Mexico,Costa Rica,1,1,Pan American Championship,Mexico City,Mexico,False
+1956-02-28 00:00:00,Argentina,Peru,0,0,Pan American Championship,Mexico City,Mexico,True
+1956-02-29 00:00:00,Lebanon,Hungary,1,4,Friendly,Beirut,Lebanon,False
+1956-03-01 00:00:00,Brazil,Chile,2,1,Pan American Championship,Mexico City,Mexico,True
+1956-03-04 00:00:00,Mexico,Peru,0,2,Pan American Championship,Mexico City,Mexico,False
+1956-03-06 00:00:00,Argentina,Costa Rica,4,3,Pan American Championship,Mexico City,Mexico,True
+1956-03-06 00:00:00,Brazil,Peru,1,0,Pan American Championship,Mexico City,Mexico,True
+1956-03-08 00:00:00,Chile,Costa Rica,1,2,Pan American Championship,Mexico City,Mexico,True
+1956-03-08 00:00:00,Haiti,Panama,3,2,Friendly,Port-au-Prince,Haiti,False
+1956-03-08 00:00:00,Mexico,Brazil,1,2,Pan American Championship,Mexico City,Mexico,False
+1956-03-09 00:00:00,Panama,Venezuela,0,1,Friendly,Port-au-Prince,Haiti,True
+1956-03-10 00:00:00,Haiti,Venezuela,1,1,Friendly,Port-au-Prince,Haiti,False
+1956-03-11 00:00:00,Argentina,Chile,3,0,Pan American Championship,Mexico City,Mexico,True
+1956-03-11 00:00:00,Belgium,Switzerland,1,3,Friendly,Brussels,Belgium,False
+1956-03-12 00:00:00,Haiti,Panama,2,1,Friendly,Port-au-Prince,Haiti,False
+1956-03-13 00:00:00,Brazil,Costa Rica,7,1,Pan American Championship,Mexico City,Mexico,True
+1956-03-13 00:00:00,Mexico,Argentina,0,0,Pan American Championship,Mexico City,Mexico,False
+1956-03-14 00:00:00,Germany,Netherlands,1,2,Friendly,D√ºsseldorf,Germany,False
+1956-03-14 00:00:00,Panama,Venezuela,2,4,Friendly,Port-au-Prince,Haiti,True
+1956-03-15 00:00:00,Chile,Peru,2,2,Pan American Championship,Mexico City,Mexico,True
+1956-03-16 00:00:00,Haiti,Venezuela,3,0,Friendly,Port-au-Prince,Haiti,False
+1956-03-17 00:00:00,Costa Rica,Peru,4,2,Pan American Championship,Mexico City,Mexico,True
+1956-03-17 00:00:00,Malaysia,Cambodia,9,2,AFC Asian Cup qualification,Kuala Lumpur,Malaya,True
+1956-03-18 00:00:00,Argentina,Brazil,2,2,Pan American Championship,Mexico City,Mexico,True
+1956-03-25 00:00:00,France,Austria,3,1,Friendly,Colombes,France,False
+1956-03-25 00:00:00,Portugal,Turkey,3,1,Friendly,Oeiras,Portugal,False
+1956-03-31 00:00:00,Guadeloupe,Cura√ßao,1,2,Friendly,Fort-de-France,Martinique,True
+1956-04-01 00:00:00,Martinique,Cura√ßao,0,1,Friendly,Fort-de-France,Martinique,False
+1956-04-08 00:00:00,Belgium,Netherlands,0,1,Friendly,Antwerp,Belgium,False
+1956-04-08 00:00:00,Portugal,Brazil,0,1,Friendly,Oeiras,Portugal,False
+1956-04-11 00:00:00,Switzerland,Brazil,1,1,Friendly,Z√ºrich,Switzerland,False
+1956-04-11 00:00:00,Wales,Northern Ireland,1,1,British Championship,Cardiff,Wales,False
+1956-04-14 00:00:00,Scotland,England,1,1,British Championship,Glasgow,Scotland,False
+1956-04-15 00:00:00,Austria,Brazil,2,3,Friendly,Vienna,Austria,False
+1956-04-21 00:00:00,Czechoslovakia,Brazil,0,0,Friendly,Prague,Czechoslovakia,False
+1956-04-21 00:00:00,South Korea,Philippines,3,0,AFC Asian Cup qualification,Seoul,South Korea,False
+1956-04-22 00:00:00,Yugoslavia,Romania,0,1,Friendly,Belgrade,Yugoslavia,False
+1956-04-24 00:00:00,Cambodia,Malaysia,3,2,AFC Asian Cup qualification,Phnom Penh,Cambodia,False
+1956-04-25 00:00:00,Italy,Brazil,3,0,Friendly,Milan,Italy,False
+1956-04-26 00:00:00,Martinique,Guadeloupe,3,0,Friendly,Fort-de-France,Martinique,False
+1956-04-29 00:00:00,Hungary,Yugoslavia,2,2,International Cup,Budapest,Hungary,False
+1956-05-01 00:00:00,Saarland,Switzerland,1,1,Friendly,Saarbr√ºcken,Saarland,False
+1956-05-01 00:00:00,Turkey,Brazil,0,1,Friendly,Istanbul,Turkey,False
+1956-05-02 00:00:00,Scotland,Austria,1,1,Friendly,Glasgow,Scotland,False
+1956-05-03 00:00:00,Vietnam Republic,Malaysia,4,0,AFC Asian Cup qualification,Saigon,Vietnam Republic,False
+1956-05-09 00:00:00,England,Brazil,4,2,Friendly,London,England,False
+1956-05-10 00:00:00,Netherlands,Republic of Ireland,1,4,Friendly,Rotterdam,Netherlands,False
+1956-05-10 00:00:00,Switzerland,Czechoslovakia,1,6,International Cup,Geneva,Switzerland,False
+1956-05-16 00:00:00,Sweden,England,0,0,Friendly,Solna,Sweden,False
+1956-05-20 00:00:00,Finland,England,1,5,Friendly,Helsinki,Finland,False
+1956-05-20 00:00:00,Guadeloupe,Martinique,2,2,Friendly,Basse-Terre,Guadeloupe,False
+1956-05-20 00:00:00,Hungary,Czechoslovakia,2,4,International Cup,Budapest,Hungary,False
+1956-05-23 00:00:00,Russia,Denmark,5,1,Friendly,Moscow,Soviet Union,False
+1956-05-24 00:00:00,Malaysia,Vietnam Republic,3,3,AFC Asian Cup qualification,Kuala Lumpur,Malaya,True
+1956-05-26 00:00:00,Germany,England,1,3,Friendly,Berlin,Germany,False
+1956-05-30 00:00:00,Norway,Poland,0,0,Friendly,Oslo,Norway,False
+1956-06-03 00:00:00,Belgium,Hungary,5,4,Friendly,Brussels,Belgium,False
+1956-06-03 00:00:00,Portugal,Spain,3,1,Friendly,Oeiras,Portugal,False
+1956-06-06 00:00:00,Netherlands,Saarland,3,2,Friendly,Amsterdam,Netherlands,False
+1956-06-09 00:00:00,Portugal,Hungary,2,2,Friendly,Oeiras,Portugal,False
+1956-06-10 00:00:00,Finland,Sweden,1,3,Nordic Championship,Helsinki,Finland,False
+1956-06-12 00:00:00,Paraguay,Brazil,0,2,Copa Oswaldo Cruz,Asunci√≥n,Paraguay,False
+1956-06-13 00:00:00,Norway,Germany,1,3,Friendly,Oslo,Norway,False
+1956-06-17 00:00:00,India,China PR,0,1,Friendly,New Delhi,India,False
+1956-06-17 00:00:00,Paraguay,Brazil,2,5,Copa Oswaldo Cruz,Asunci√≥n,Paraguay,False
+1956-06-17 00:00:00,Romania,Sweden,0,2,Friendly,Bucharest,Romania,False
+1956-06-17 00:00:00,Yugoslavia,Austria,1,1,International Cup,Zagreb,Yugoslavia,False
+1956-06-24 00:00:00,Argentina,Italy,1,0,Friendly,Avellaneda,Argentina,False
+1956-06-24 00:00:00,Brazil,Uruguay,2,0,Atlantic Cup,Rio de Janeiro,Brazil,False
+1956-06-24 00:00:00,Denmark,Norway,2,3,Nordic Championship,Copenhagen,Denmark,False
+1956-06-25 00:00:00,Myanmar,China PR,2,3,Friendly,Yangon,Burma,False
+1956-06-28 00:00:00,Romania,Norway,2,0,Friendly,Bucharest,Romania,False
+1956-06-29 00:00:00,Finland,Iceland,2,1,Friendly,Helsinki,Finland,False
+1956-06-30 00:00:00,Mauritius,R√©union,8,3,Friendly,Antananarivo,Madagascar,True
+1956-06-30 00:00:00,Sweden,Germany,2,2,Friendly,Solna,Sweden,False
+1956-07-01 00:00:00,Brazil,Italy,2,0,Friendly,Rio de Janeiro,Brazil,False
+1956-07-01 00:00:00,Denmark,Russia,2,5,Friendly,Copenhagen,Denmark,False
+1956-07-01 00:00:00,Uruguay,Argentina,1,2,Atlantic Cup,Montevideo,Uruguay,False

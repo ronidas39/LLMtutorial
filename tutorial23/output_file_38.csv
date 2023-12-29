@@ -1,0 +1,1001 @@
+date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
+2016-03-29 00:00:00,Gibraltar,Latvia,0,5,Friendly,Gibraltar,Gibraltar,False
+2016-03-29 00:00:00,Greece,Iceland,2,3,Friendly,Piraeus,Greece,False
+2016-03-29 00:00:00,Honduras,El Salvador,2,0,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2016-03-29 00:00:00,India,Turkmenistan,1,2,FIFA World Cup qualification,Kochi,India,False
+2016-03-29 00:00:00,Iran,Oman,2,0,FIFA World Cup qualification,Tehran,Iran,False
+2016-03-29 00:00:00,Iraq,Vietnam,1,0,FIFA World Cup qualification,Tehran,Iran,True
+2016-03-29 00:00:00,Republic of Ireland,Slovakia,2,2,Friendly,Dublin,Republic of Ireland,False
+2016-03-29 00:00:00,Japan,Syria,5,0,FIFA World Cup qualification,Saitama,Japan,False
+2016-03-29 00:00:00,Lebanon,Myanmar,1,1,FIFA World Cup qualification,Sidon,Lebanon,False
+2016-03-29 00:00:00,Lesotho,Seychelles,2,1,African Cup of Nations qualification,Maseru,Lesotho,False
+2016-03-29 00:00:00,Liberia,Djibouti,5,0,African Cup of Nations qualification,Monrovia,Liberia,False
+2016-03-29 00:00:00,Luxembourg,Albania,0,2,Friendly,Luxembourg,Luxembourg,False
+2016-03-29 00:00:00,North Macedonia,Bulgaria,0,2,Friendly,Skopje,North Macedonia,False
+2016-03-29 00:00:00,Malawi,Guinea,1,2,African Cup of Nations qualification,Blantyre,Malawi,False
+2016-03-29 00:00:00,Malaysia,Macau,0,0,Friendly,Krubong,Malaysia,False
+2016-03-29 00:00:00,Maldives,Bhutan,4,2,FIFA World Cup qualification,Mal√©,Maldives,False
+2016-03-29 00:00:00,Mexico,Canada,2,0,FIFA World Cup qualification,Mexico City,Mexico,False
+2016-03-29 00:00:00,Montenegro,Belarus,0,0,Friendly,Podgorica,Montenegro,False
+2016-03-29 00:00:00,Morocco,Cape Verde,2,0,African Cup of Nations qualification,Marrakech,Morocco,False
+2016-03-29 00:00:00,Namibia,Burundi,1,3,African Cup of Nations qualification,Windhoek,Namibia,False
+2016-03-29 00:00:00,Niger,Senegal,1,2,African Cup of Nations qualification,Niamey,Niger,False
+2016-03-29 00:00:00,Norway,Finland,2,0,Friendly,Oslo,Norway,False
+2016-03-29 00:00:00,Palestine,Timor-Leste,7,0,FIFA World Cup qualification,Hebron,Palestine,False
+2016-03-29 00:00:00,Panama,Haiti,1,0,FIFA World Cup qualification,Panama City,Panama,False
+2016-03-29 00:00:00,Paraguay,Brazil,2,2,FIFA World Cup qualification,Asunci√≥n,Paraguay,False
+2016-03-29 00:00:00,Philippines,North Korea,3,2,FIFA World Cup qualification,Manila,Philippines,False
+2016-03-29 00:00:00,Portugal,Belgium,2,1,Friendly,Leiria,Portugal,False
+2016-03-29 00:00:00,Rwanda,Mauritius,5,0,African Cup of Nations qualification,Kigali,Rwanda,False
+2016-03-29 00:00:00,Scotland,Denmark,1,0,Friendly,Glasgow,Scotland,False
+2016-03-29 00:00:00,South Africa,Cameroon,0,0,African Cup of Nations qualification,Durban,South Africa,False
+2016-03-29 00:00:00,Saint Kitts and Nevis,Antigua and Barbuda,1,0,CFU Caribbean Cup qualification,Basseterre,Saint Kitts and Nevis,False
+2016-03-29 00:00:00,Sudan,Ivory Coast,1,1,African Cup of Nations qualification,Omdurman,Sudan,False
+2016-03-29 00:00:00,Suriname,Guadeloupe,3,2,CFU Caribbean Cup qualification,Paramaribo,Suriname,False
+2016-03-29 00:00:00,Sweden,Czech Republic,1,1,Friendly,Solna,Sweden,False
+2016-03-29 00:00:00,Switzerland,Bosnia and Herzegovina,0,2,Friendly,Z√ºrich,Switzerland,False
+2016-03-29 00:00:00,Tajikistan,Kyrgyzstan,0,1,FIFA World Cup qualification,Dushanbe,Tajikistan,False
+2016-03-29 00:00:00,Togo,Tunisia,0,0,African Cup of Nations qualification,Lom√©,Togo,False
+2016-03-29 00:00:00,Uganda,Burkina Faso,0,0,African Cup of Nations qualification,Kampala,Uganda,False
+2016-03-29 00:00:00,United Arab Emirates,Saudi Arabia,1,1,FIFA World Cup qualification,Abu Dhabi,United Arab Emirates,False
+2016-03-29 00:00:00,Uruguay,Peru,1,0,FIFA World Cup qualification,Montevideo,Uruguay,False
+2016-03-29 00:00:00,United States,Guatemala,4,0,FIFA World Cup qualification,Columbus,United States,False
+2016-03-29 00:00:00,Uzbekistan,Bahrain,1,0,FIFA World Cup qualification,Tashkent,Uzbekistan,False
+2016-03-29 00:00:00,Venezuela,Chile,1,4,FIFA World Cup qualification,Barinas,Venezuela,False
+2016-03-29 00:00:00,United States Virgin Islands,Grenada,1,2,CFU Caribbean Cup qualification,Charlotte Amalie,United States Virgin Islands,False
+2016-04-27 00:00:00,Martinique,Panama,0,2,Friendly,Fort-de-France,Martinique,False
+2016-05-20 00:00:00,Hungary,Ivory Coast,0,0,Friendly,Budapest,Hungary,False
+2016-05-20 00:00:00,Galicia,Venezuela,1,1,Friendly,La Coru√±a,Spain,False
+2016-05-21 00:00:00,Botswana,Lesotho,2,1,Friendly,Serowe,Botswana,False
+2016-05-22 00:00:00,England,Turkey,2,1,Friendly,Manchester,England,False
+2016-05-22 00:00:00,Puerto Rico,United States,1,3,Friendly,Bayam√≥n,Puerto Rico,False
+2016-05-25 00:00:00,Romania,DR Congo,1,1,Friendly,Como,Italy,True
+2016-05-25 00:00:00,Serbia,Cyprus,2,1,Friendly,U≈æice,Serbia,False
+2016-05-26 00:00:00,Azerbaijan,Andorra,0,0,Friendly,Bad Erlach,Austria,True
+2016-05-27 00:00:00,Croatia,Moldova,1,0,Friendly,Koprivnica,Croatia,False
+2016-05-27 00:00:00,Czech Republic,Malta,6,0,Friendly,Kufstein,Austria,True
+2016-05-27 00:00:00,England,Australia,2,1,Friendly,Sunderland,England,False
+2016-05-27 00:00:00,Republic of Ireland,Netherlands,1,1,Friendly,Dublin,Republic of Ireland,False
+2016-05-27 00:00:00,Morocco,Congo,2,0,Friendly,Tangier,Morocco,False
+2016-05-27 00:00:00,Nigeria,Mali,1,0,Friendly,Le Petit-Quevilly,France,True
+2016-05-27 00:00:00,Northern Ireland,Belarus,3,0,Friendly,Belfast,Northern Ireland,False
+2016-05-27 00:00:00,Slovakia,Georgia,3,1,Friendly,Wels,Austria,True
+2016-05-27 00:00:00,Togo,Zambia,1,0,Friendly,Lom√©,Togo,False
+2016-05-27 00:00:00,Corsica,Basque Country,1,1,Friendly,Ajaccio,France,False
+2016-05-28 00:00:00,Myanmar,Malaysia,0,0,Friendly,Yangon,Myanmar,False
+2016-05-28 00:00:00,Costa Rica,Venezuela,2,1,Friendly,San Jos√©,Costa Rica,False
+2016-05-28 00:00:00,El Salvador,Peru,1,3,Friendly,Seattle,United States,True
+2016-05-28 00:00:00,Gabon,Mauritania,0,2,Friendly,Cornell√† de Llobregat,Spain,True
+2016-05-28 00:00:00,Guatemala,Armenia,1,7,Friendly,Carson,United States,True
+2016-05-28 00:00:00,Mexico,Paraguay,1,0,Friendly,Atlanta,United States,True
+2016-05-28 00:00:00,New Zealand,Fiji,3,1,Oceania Nations Cup,Port Moresby,Papua New Guinea,True
+2016-05-28 00:00:00,Rwanda,Senegal,0,2,Friendly,Kigali,Rwanda,False
+2016-05-28 00:00:00,Switzerland,Belgium,1,2,Friendly,Geneva,Switzerland,False
+2016-05-28 00:00:00,Vanuatu,Solomon Islands,0,1,Oceania Nations Cup,Port Moresby,Papua New Guinea,True
+2016-05-29 00:00:00,Albania,Qatar,3,1,Friendly,Hartberg,Austria,True
+2016-05-29 00:00:00,Azerbaijan,North Macedonia,1,3,Friendly,Bad Erlach,Austria,True
+2016-05-29 00:00:00,Bosnia and Herzegovina,Spain,1,3,Friendly,St. Gallen,Switzerland,True
+2016-05-29 00:00:00,Cambodia,Timor-Leste,2,0,Friendly,Phnom Penh,Cambodia,False
+2016-05-29 00:00:00,Germany,Slovakia,1,3,Friendly,Augsburg,Germany,False
+2016-05-29 00:00:00,Italy,Scotland,1,0,Friendly,Attard,Malta,True
+2016-05-29 00:00:00,Kenya,Tanzania,1,1,Friendly,Nairobi,Kenya,False
+2016-05-29 00:00:00,Laos,Nepal,1,1,Friendly,Vientiane,Laos,False
+2016-05-29 00:00:00,Lithuania,Estonia,2,0,Baltic Cup,Klaipƒóda,Lithuania,False
+2016-05-29 00:00:00,Papua New Guinea,New Caledonia,1,1,Oceania Nations Cup,Port Moresby,Papua New Guinea,False
+2016-05-29 00:00:00,Portugal,Norway,3,0,Friendly,Porto,Portugal,False
+2016-05-29 00:00:00,Romania,Ukraine,3,4,Friendly,Turin,Italy,True
+2016-05-29 00:00:00,Tahiti,Samoa,4,0,Oceania Nations Cup,Port Moresby,Papua New Guinea,True
+2016-05-29 00:00:00,Turkey,Montenegro,1,0,Friendly,Antalya,Turkey,False
+2016-05-29 00:00:00,Abkhazia,Chagos Islands,9,0,CONIFA World Football Cup,Sukhumi,Georgia,False
+2016-05-29 00:00:00,Iraqi Kurdistan,Sz√©kely Land,3,0,CONIFA World Football Cup,Sukhumi,Georgia,True
+2016-05-29 00:00:00,Padania,Northern Cyprus,1,2,CONIFA World Football Cup,Gagra,Georgia,True
+2016-05-29 00:00:00,S√°pmi,Somaliland,5,0,CONIFA World Football Cup,Gagra,Georgia,True
+2016-05-30 00:00:00,France,Cameroon,3,2,Friendly,Nantes,France,False
+2016-05-30 00:00:00,Gambia,Zambia,0,0,Friendly,Bakau,Gambia,False
+2016-05-30 00:00:00,Sweden,Slovenia,0,0,Friendly,Malm√∂,Sweden,False
+2016-05-30 00:00:00,Chagos Islands,Western Armenia,0,12,CONIFA World Football Cup,Sukhumi,Georgia,True
+2016-05-30 00:00:00,United Koreans in Japan,Sz√©kely Land,1,0,CONIFA World Football Cup,Sukhumi,Georgia,True
+2016-05-30 00:00:00,Raetia,Padania,0,6,CONIFA World Football Cup,Gagra,Georgia,True
+2016-05-30 00:00:00,S√°pmi,Panjab,0,1,CONIFA World Football Cup,Gagra,Georgia,True
+2016-05-31 00:00:00,Austria,Malta,2,1,Friendly,Klagenfurt,Austria,False
+2016-05-31 00:00:00,Republic of Ireland,Belarus,1,2,Friendly,Cork,Republic of Ireland,False
+2016-05-31 00:00:00,Kenya,Sudan,1,1,Friendly,Nairobi,Kenya,False
+2016-05-31 00:00:00,Luxembourg,Nigeria,1,3,Friendly,Luxembourg,Luxembourg,False
+2016-05-31 00:00:00,Serbia,Israel,3,1,Friendly,Novi Sad,Serbia,False
+2016-05-31 00:00:00,Solomon Islands,Fiji,0,1,Oceania Nations Cup,Port Moresby,Papua New Guinea,True
+2016-05-31 00:00:00,Vanuatu,New Zealand,0,5,Oceania Nations Cup,Port Moresby,Papua New Guinea,True
+2016-05-31 00:00:00,Vietnam,Syria,2,0,Friendly,Thanh H√≥a,Vietnam,False
+2016-05-31 00:00:00,Zimbabwe,Uganda,2,0,Friendly,Harare,Zimbabwe,False
+2016-05-31 00:00:00,Abkhazia,Western Armenia,1,0,CONIFA World Football Cup,Sukhumi,Georgia,False
+2016-05-31 00:00:00,United Koreans in Japan,Iraqi Kurdistan,0,3,CONIFA World Football Cup,Sukhumi,Georgia,True
+2016-05-31 00:00:00,Northern Cyprus,Raetia,7,0,CONIFA World Football Cup,Gagra,Georgia,True
+2016-05-31 00:00:00,Somaliland,Panjab,0,5,CONIFA World Football Cup,Gagra,Georgia,True
+2016-06-01 00:00:00,Belgium,Finland,1,1,Friendly,Brussels,Belgium,False
+2016-06-01 00:00:00,Cura√ßao,Guyana,5,2,CFU Caribbean Cup qualification,Willemstad,Cura√ßao,False
+2016-06-01 00:00:00,Czech Republic,Russia,2,1,Friendly,Innsbruck,Austria,True
+2016-06-01 00:00:00,El Salvador,Armenia,0,4,Friendly,Carson,United States,True
+2016-06-01 00:00:00,Estonia,Andorra,2,0,Friendly,Tallinn,Estonia,False
+2016-06-01 00:00:00,Grenada,Puerto Rico,3,3,CFU Caribbean Cup qualification,St. George's,Grenada,False
+2016-06-01 00:00:00,Latvia,Lithuania,2,1,Baltic Cup,LiepƒÅja,Latvia,False
+2016-06-01 00:00:00,Martinique,Guadeloupe,2,0,CFU Caribbean Cup qualification,Fort-de-France,Martinique,False
+2016-06-01 00:00:00,New Caledonia,Samoa,7,0,Oceania Nations Cup,Port Moresby,Papua New Guinea,True
+2016-06-01 00:00:00,Norway,Iceland,3,2,Friendly,Oslo,Norway,False
+2016-06-01 00:00:00,Papua New Guinea,Tahiti,2,2,Oceania Nations Cup,Port Moresby,Papua New Guinea,False
+2016-06-01 00:00:00,Poland,Netherlands,1,2,Friendly,Gda≈Ñsk,Poland,False
+2016-06-01 00:00:00,Spain,South Korea,6,1,Friendly,Salzburg,Austria,True
+2016-06-01 00:00:00,Saint Kitts and Nevis,Suriname,1,0,CFU Caribbean Cup qualification,Basseterre,Saint Kitts and Nevis,False
+2016-06-01 00:00:00,United Koreans in Japan,Northern Cyprus,1,1,CONIFA World Football Cup,Sukhumi,Georgia,True
+2016-06-01 00:00:00,Abkhazia,S√°pmi,2,0,CONIFA World Football Cup,Sukhumi,Georgia,False
+2016-06-02 00:00:00,England,Portugal,1,0,Friendly,London,England,False
+2016-06-02 00:00:00,Laos,India,0,1,AFC Asian Cup qualification,Vientiane,Laos,False
+2016-06-02 00:00:00,North Macedonia,Iran,1,3,Friendly,Skopje,North Macedonia,False
+2016-06-02 00:00:00,Malaysia,Timor-Leste,3,0,AFC Asian Cup qualification,Johor Bahru,Malaysia,False
+2016-06-02 00:00:00,Maldives,Yemen,0,2,AFC Asian Cup qualification,Mal√©,Maldives,False
+2016-06-02 00:00:00,Seychelles,Algeria,0,2,African Cup of Nations qualification,Victoria,Seychelles,False
+2016-06-02 00:00:00,Tajikistan,Bangladesh,5,0,AFC Asian Cup qualification,Dushanbe,Tajikistan,False
+2016-06-02 00:00:00,Iraqi Kurdistan,Padania,2,2,CONIFA World Football Cup,Sukhumi,Georgia,True
+2016-06-02 00:00:00,Western Armenia,Panjab,2,3,CONIFA World Football Cup,Sukhumi,Georgia,True
+2016-06-02 00:00:00,Chagos Islands,Somaliland,2,3,CONIFA World Football Cup,Sukhumi,Georgia,True
+2016-06-02 00:00:00,Sz√©kely Land,Raetia,7,0,CONIFA World Football Cup,Sukhumi,Georgia,True
+2016-06-03 00:00:00,Albania,Ukraine,1,3,Friendly,Bergamo,Italy,True
+2016-06-03 00:00:00,Azerbaijan,Canada,1,1,Friendly,Rohrbach an der Lafnitz,Austria,True
+2016-06-03 00:00:00,Bosnia and Herzegovina,Denmark,2,2,Kirin Cup,Toyota,Japan,True
+2016-06-03 00:00:00,Myanmar,Singapore,0,1,Friendly,Yangon,Myanmar,False
+2016-06-03 00:00:00,China PR,Trinidad and Tobago,4,2,Friendly,Qinhuangdao,China PR,False
+2016-06-03 00:00:00,Djibouti,Tunisia,0,3,African Cup of Nations qualification,Djibouti,Djibouti,False
+2016-06-03 00:00:00,Faroe Islands,Kosovo,0,2,Friendly,Frankfurt am Main,Germany,True
+2016-06-03 00:00:00,Japan,Bulgaria,7,2,Kirin Cup,Toyota,Japan,False
+2016-06-03 00:00:00,Libya,Morocco,1,1,African Cup of Nations qualification,Rad√®s,Tunisia,True
+2016-06-03 00:00:00,Mauritania,Cameroon,0,1,African Cup of Nations qualification,Nouakchott,Mauritania,False
+2016-06-03 00:00:00,Romania,Georgia,5,1,Friendly,Bucharest,Romania,False
+2016-06-03 00:00:00,Sierra Leone,Sudan,1,0,African Cup of Nations qualification,Freetown,Sierra Leone,False
+2016-06-03 00:00:00,Switzerland,Moldova,2,1,Friendly,Lugano,Switzerland,False
+2016-06-03 00:00:00,Thailand,Syria,2,2,King's Cup,Bangkok,Thailand,False
+2016-06-03 00:00:00,United Arab Emirates,Jordan,1,3,King's Cup,Bangkok,Thailand,True
+2016-06-03 00:00:00,United States,Colombia,0,2,Copa Am√©rica,Santa Clara,United States,False
+2016-06-03 00:00:00,Vietnam,Hong Kong,2,2,Friendly,Yangon,Myanmar,True
+2016-06-03 00:00:00,United Koreans in Japan,S√°pmi,1,2,CONIFA World Football Cup,Sukhumi,Georgia,True
+2016-06-03 00:00:00,Iraqi Kurdistan,Western Armenia,0,0,CONIFA World Football Cup,Sukhumi,Georgia,True
+2016-06-03 00:00:00,Chagos Islands,Raetia,3,3,CONIFA World Football Cup,Sukhumi,Georgia,True
+2016-06-03 00:00:00,Somaliland,Sz√©kely Land,7,0,CONIFA World Football Cup,Sukhumi,Georgia,True
+2016-06-04 00:00:00,Australia,Greece,1,0,Friendly,Sydney,Australia,False
+2016-06-04 00:00:00,Austria,Netherlands,0,2,Friendly,Vienna,Austria,False
+2016-06-04 00:00:00,Botswana,Uganda,1,2,African Cup of Nations qualification,Francistown,Botswana,False
+2016-06-04 00:00:00,Brazil,Ecuador,0,0,Copa Am√©rica,Pasadena,United States,True
+2016-06-04 00:00:00,Costa Rica,Paraguay,0,0,Copa Am√©rica,Orlando,United States,True
+2016-06-04 00:00:00,Croatia,San Marino,10,0,Friendly,Rijeka,Croatia,False
+2016-06-04 00:00:00,Estonia,Latvia,0,0,Baltic Cup,Tallinn,Estonia,False
+2016-06-04 00:00:00,Fiji,Vanuatu,2,3,Oceania Nations Cup,Port Moresby,Papua New Guinea,True
+2016-06-04 00:00:00,France,Scotland,3,0,Friendly,Metz,France,False
+2016-06-04 00:00:00,Gambia,South Africa,0,4,African Cup of Nations qualification,Bakau,Gambia,False
+2016-06-04 00:00:00,Germany,Hungary,2,0,Friendly,Gelsenkirchen,Germany,False
+2016-06-04 00:00:00,Guadeloupe,Dominica,2,1,CFU Caribbean Cup qualification,Les Abymes,Guadeloupe,False
+2016-06-04 00:00:00,Haiti,Peru,0,1,Copa Am√©rica,Seattle,United States,True
+2016-06-04 00:00:00,Ivory Coast,Gabon,2,1,Friendly,Bouak√©,Ivory Coast,False
+2016-06-04 00:00:00,New Zealand,Solomon Islands,1,0,Oceania Nations Cup,Port Moresby,Papua New Guinea,True
+2016-06-04 00:00:00,Rwanda,Mozambique,2,3,African Cup of Nations qualification,Kigali,Rwanda,False
+2016-06-04 00:00:00,Slovakia,Northern Ireland,0,0,Friendly,Trnava,Slovakia,False
+2016-06-04 00:00:00,South Sudan,Mali,0,3,African Cup of Nations qualification,Juba,South Sudan,False
+2016-06-04 00:00:00,Tanzania,Egypt,0,2,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+2016-06-04 00:00:00,United States Virgin Islands,Guyana,0,7,CFU Caribbean Cup qualification,Charlotte Amalie,United States Virgin Islands,False
+2016-06-04 00:00:00,Abkhazia,Northern Cyprus,2,0,CONIFA World Football Cup,Sukhumi,Georgia,False
+2016-06-04 00:00:00,Padania,Panjab,1,0,CONIFA World Football Cup,Sukhumi,Georgia,True
+2016-06-04 00:00:00,United Koreans in Japan,Iraqi Kurdistan,1,1,CONIFA World Football Cup,Sukhumi,Georgia,True
+2016-06-04 00:00:00,S√°pmi,Western Armenia,3,0,CONIFA World Football Cup,Sukhumi,Georgia,True
+2016-06-05 00:00:00,Belgium,Norway,3,2,Friendly,Brussels,Belgium,False
+2016-06-05 00:00:00,Central African Republic,Angola,3,0,African Cup of Nations qualification,Bangui,Central African Republic,False
+2016-06-05 00:00:00,Comoros,Burkina Faso,0,1,African Cup of Nations qualification,Moroni,Comoros,False
+2016-06-05 00:00:00,Czech Republic,South Korea,1,2,Friendly,Prague,Czech Republic,False
+2016-06-05 00:00:00,Jamaica,Venezuela,0,1,Copa Am√©rica,Chicago,United States,True
+2016-06-05 00:00:00,Kenya,Congo,2,1,African Cup of Nations qualification,Nairobi,Kenya,False
+2016-06-05 00:00:00,Lesotho,Ethiopia,1,2,African Cup of Nations qualification,Maseru,Lesotho,False
+2016-06-05 00:00:00,Liberia,Togo,2,2,African Cup of Nations qualification,Monrovia,Liberia,False
+2016-06-05 00:00:00,Madagascar,DR Congo,1,6,African Cup of Nations qualification,Mahajanga,Madagascar,False
+2016-06-05 00:00:00,Mauritius,Ghana,0,2,African Cup of Nations qualification,Mapou,Mauritius,False
+2016-06-05 00:00:00,Mexico,Uruguay,3,1,Copa Am√©rica,Glendale,United States,True
+2016-06-05 00:00:00,Papua New Guinea,Samoa,8,0,Oceania Nations Cup,Port Moresby,Papua New Guinea,False
+2016-06-05 00:00:00,Russia,Serbia,1,1,Friendly,Monaco,Monaco,True
+2016-06-05 00:00:00,Slovenia,Turkey,0,1,Friendly,Ljubljana,Slovenia,False
+2016-06-05 00:00:00,Eswatini,Guinea,1,0,African Cup of Nations qualification,Lobamba,Eswatini,False
+2016-06-05 00:00:00,Sweden,Wales,3,0,Friendly,Solna,Sweden,False
+2016-06-05 00:00:00,Tahiti,New Caledonia,1,1,Oceania Nations Cup,Port Moresby,Papua New Guinea,True
+2016-06-05 00:00:00,Thailand,Jordan,2,0,King's Cup,Bangkok,Thailand,False
+2016-06-05 00:00:00,United Arab Emirates,Syria,0,1,King's Cup,Bangkok,Thailand,True
+2016-06-05 00:00:00,Zimbabwe,Malawi,3,0,African Cup of Nations qualification,Harare,Zimbabwe,False
+2016-06-05 00:00:00,Padania,Northern Cyprus,0,2,CONIFA World Football Cup,Sukhumi,Georgia,True
+2016-06-05 00:00:00,Abkhazia,Panjab,1,1,CONIFA World Football Cup,Sukhumi,Georgia,False
+2016-06-06 00:00:00,Argentina,Chile,2,1,Copa Am√©rica,Santa Clara,United States,True
+2016-06-06 00:00:00,Myanmar,Hong Kong,3,0,Friendly,Yangon,Myanmar,False
+2016-06-06 00:00:00,Iceland,Liechtenstein,4,0,Friendly,Reykjav√≠k,Iceland,False
+2016-06-06 00:00:00,Italy,Finland,2,0,Friendly,Verona,Italy,False
+2016-06-06 00:00:00,Malaysia,Timor-Leste,3,0,AFC Asian Cup qualification,Johor Bahru,Malaysia,False
+2016-06-06 00:00:00,Panama,Bolivia,2,1,Copa Am√©rica,Orlando,United States,True
+2016-06-06 00:00:00,Poland,Lithuania,0,0,Friendly,Cracow,Poland,False
+2016-06-06 00:00:00,Singapore,Vietnam,0,3,Friendly,Yangon,Myanmar,True
+2016-06-07 00:00:00,Australia,Greece,1,2,Friendly,Melbourne,Australia,False
+2016-06-07 00:00:00,Bangladesh,Tajikistan,0,1,AFC Asian Cup qualification,Dhaka,Bangladesh,False
+2016-06-07 00:00:00,Bulgaria,Denmark,0,4,Kirin Cup,Suita,Japan,True
+2016-06-07 00:00:00,Cambodia,Taiwan,2,0,AFC Asian Cup qualification,Phnom Penh,Cambodia,False
+2016-06-07 00:00:00,Canada,Uzbekistan,2,1,Friendly,Bad Waltersdorf,Austria,True
+2016-06-07 00:00:00,China PR,Kazakhstan,0,1,Friendly,Dalian,China PR,False
+2016-06-07 00:00:00,Colombia,Paraguay,2,1,Copa Am√©rica,Pasadena,United States,True
+2016-06-07 00:00:00,Cura√ßao,United States Virgin Islands,7,0,CFU Caribbean Cup qualification,Willemstad,Cura√ßao,False
+2016-06-07 00:00:00,Dominican Republic,French Guiana,2,1,CFU Caribbean Cup qualification,Santo Domingo,Dominican Republic,False
+2016-06-07 00:00:00,India,Laos,6,1,AFC Asian Cup qualification,Guwahati,India,False
+2016-06-07 00:00:00,Iran,Kyrgyzstan,6,0,Friendly,Tehran,Iran,False
+2016-06-07 00:00:00,Japan,Bosnia and Herzegovina,1,2,Kirin Cup,Suita,Japan,False
+2016-06-07 00:00:00,Spain,Georgia,0,1,Friendly,Getafe,Spain,False
+2016-06-07 00:00:00,Saint Vincent and the Grenadines,Saint Kitts and Nevis,0,1,CFU Caribbean Cup qualification,Kingstown,Saint Vincent and the Grenadines,False
+2016-06-07 00:00:00,United States,Costa Rica,4,0,Copa Am√©rica,Chicago,United States,False
+2016-06-07 00:00:00,Yemen,Maldives,2,0,AFC Asian Cup qualification,Doha,Qatar,True
+2016-06-08 00:00:00,Brazil,Haiti,7,1,Copa Am√©rica,Orlando,United States,True
+2016-06-08 00:00:00,Ecuador,Peru,2,2,Copa Am√©rica,Glendale,United States,True
+2016-06-08 00:00:00,New Zealand,New Caledonia,1,0,Oceania Nations Cup,Port Moresby,Papua New Guinea,True
+2016-06-08 00:00:00,Papua New Guinea,Solomon Islands,2,1,Oceania Nations Cup,Port Moresby,Papua New Guinea,False
+2016-06-08 00:00:00,Portugal,Estonia,7,0,Friendly,Lisbon,Portugal,False
+2016-06-09 00:00:00,Mexico,Jamaica,2,0,Copa Am√©rica,Pasadena,United States,True
+2016-06-09 00:00:00,Uruguay,Venezuela,0,1,Copa Am√©rica,Philadelphia,United States,True
+2016-06-10 00:00:00,Argentina,Panama,5,0,Copa Am√©rica,Chicago,United States,True
+2016-06-10 00:00:00,Chile,Bolivia,2,1,Copa Am√©rica,Foxborough,United States,True
+2016-06-10 00:00:00,France,Romania,2,1,UEFA Euro,Saint-Denis,France,False
+2016-06-11 00:00:00,Albania,Switzerland,0,1,UEFA Euro,Lens,France,True
+2016-06-11 00:00:00,Colombia,Costa Rica,2,3,Copa Am√©rica,Houston,United States,True
+2016-06-11 00:00:00,England,Russia,1,1,UEFA Euro,Marseille,France,True
+2016-06-11 00:00:00,Papua New Guinea,New Zealand,0,0,Oceania Nations Cup,Port Moresby,Papua New Guinea,False
+2016-06-11 00:00:00,Seychelles,Madagascar,0,1,COSAFA Cup,Windhoek,Namibia,True
+2016-06-11 00:00:00,United States,Paraguay,1,0,Copa Am√©rica,Philadelphia,United States,False
+2016-06-11 00:00:00,Wales,Slovakia,2,1,UEFA Euro,Bordeaux,France,True
+2016-06-11 00:00:00,Zimbabwe,Eswatini,2,2,COSAFA Cup,Windhoek,Namibia,True
+2016-06-12 00:00:00,Benin,Equatorial Guinea,2,1,African Cup of Nations qualification,Cotonou,Benin,False
+2016-06-12 00:00:00,Brazil,Peru,0,1,Copa Am√©rica,Foxborough,United States,True
+2016-06-12 00:00:00,Ecuador,Haiti,4,0,Copa Am√©rica,East Rutherford,United States,True
+2016-06-12 00:00:00,Germany,Ukraine,2,0,UEFA Euro,Villeneuve-d'Ascq,France,True
+2016-06-12 00:00:00,Lesotho,Mauritius,3,0,COSAFA Cup,Windhoek,Namibia,True
+2016-06-12 00:00:00,Malawi,Angola,3,0,COSAFA Cup,Windhoek,Namibia,True
+2016-06-12 00:00:00,Poland,Northern Ireland,1,0,UEFA Euro,Nice,France,True
+2016-06-12 00:00:00,Turkey,Croatia,0,1,UEFA Euro,Paris,France,True
+2016-06-13 00:00:00,Belgium,Italy,0,2,UEFA Euro,Lyon,France,True
+2016-06-13 00:00:00,Republic of Ireland,Sweden,1,1,UEFA Euro,Saint-Denis,France,True
+2016-06-13 00:00:00,Madagascar,Zimbabwe,0,0,COSAFA Cup,Windhoek,Namibia,True
+2016-06-13 00:00:00,Mexico,Venezuela,1,1,Copa Am√©rica,Houston,United States,True
+2016-06-13 00:00:00,Spain,Czech Republic,1,0,UEFA Euro,Toulouse,France,True
+2016-06-13 00:00:00,Eswatini,Seychelles,4,0,COSAFA Cup,Windhoek,Namibia,True
+2016-06-13 00:00:00,Uruguay,Jamaica,3,0,Copa Am√©rica,Santa Clara,United States,True
+2016-06-14 00:00:00,Angola,Lesotho,0,2,COSAFA Cup,Windhoek,Namibia,True
+2016-06-14 00:00:00,Argentina,Bolivia,3,0,Copa Am√©rica,Seattle,United States,True
+2016-06-14 00:00:00,Austria,Hungary,0,2,UEFA Euro,Bordeaux,France,True
+2016-06-14 00:00:00,Chile,Panama,4,2,Copa Am√©rica,Philadelphia,United States,True
+2016-06-14 00:00:00,Mauritius,Malawi,0,1,COSAFA Cup,Windhoek,Namibia,True
+2016-06-14 00:00:00,Portugal,Iceland,1,1,UEFA Euro,Saint-√âtienne,France,True
+2016-06-15 00:00:00,France,Albania,2,0,UEFA Euro,Marseille,France,False
+2016-06-15 00:00:00,Romania,Switzerland,1,1,UEFA Euro,Paris,France,True
+2016-06-15 00:00:00,Russia,Slovakia,1,2,UEFA Euro,Villeneuve-d'Ascq,France,True
+2016-06-15 00:00:00,Eswatini,Madagascar,1,0,COSAFA Cup,Windhoek,Namibia,True
+2016-06-15 00:00:00,Zimbabwe,Seychelles,5,0,COSAFA Cup,Windhoek,Namibia,True
+2016-06-16 00:00:00,Angola,Mauritius,0,2,COSAFA Cup,Windhoek,Namibia,True
+2016-06-16 00:00:00,England,Wales,2,1,UEFA Euro,Lens,France,True
+2016-06-16 00:00:00,Germany,Poland,0,0,UEFA Euro,Saint-Denis,France,True
+2016-06-16 00:00:00,Malawi,Lesotho,0,1,COSAFA Cup,Windhoek,Namibia,True
+2016-06-16 00:00:00,Ukraine,Northern Ireland,0,2,UEFA Euro,Lyon,France,True
+2016-06-16 00:00:00,United States,Ecuador,2,1,Copa Am√©rica,Seattle,United States,False
+2016-06-17 00:00:00,Czech Republic,Croatia,2,2,UEFA Euro,Saint-√âtienne,France,True
+2016-06-17 00:00:00,Italy,Sweden,1,0,UEFA Euro,Toulouse,France,True
+2016-06-17 00:00:00,Peru,Colombia,0,0,Copa Am√©rica,East Rutherford,United States,True
+2016-06-17 00:00:00,Spain,Turkey,3,0,UEFA Euro,Nice,France,True
+2016-06-18 00:00:00,Argentina,Venezuela,4,1,Copa Am√©rica,Foxborough,United States,True
+2016-06-18 00:00:00,Belgium,Republic of Ireland,3,0,UEFA Euro,Bordeaux,France,True
+2016-06-18 00:00:00,Iceland,Hungary,1,1,UEFA Euro,Marseille,France,True
+2016-06-18 00:00:00,Mexico,Chile,0,7,Copa Am√©rica,Santa Clara,United States,True
+2016-06-18 00:00:00,Namibia,Botswana,1,1,COSAFA Cup,Windhoek,Namibia,False
+2016-06-18 00:00:00,Portugal,Austria,0,0,UEFA Euro,Lyon,France,True
+2016-06-18 00:00:00,South Africa,Lesotho,1,1,COSAFA Cup,Windhoek,Namibia,True
+2016-06-19 00:00:00,DR Congo,Mozambique,1,0,COSAFA Cup,Windhoek,Namibia,True
+2016-06-19 00:00:00,France,Switzerland,0,0,UEFA Euro,Villeneuve-d'Ascq,France,False
+2016-06-19 00:00:00,French Guiana,Bermuda,3,0,CFU Caribbean Cup qualification,Cayenne,French Guiana,False
+2016-06-19 00:00:00,Romania,Albania,0,1,UEFA Euro,Lyon,France,True
+2016-06-19 00:00:00,Zambia,Eswatini,0,0,COSAFA Cup,Windhoek,Namibia,True
+2016-06-20 00:00:00,Russia,Wales,0,3,UEFA Euro,Toulouse,France,True
+2016-06-20 00:00:00,Slovakia,England,0,0,UEFA Euro,Saint-√âtienne,France,True
+2016-06-21 00:00:00,Croatia,Spain,2,1,UEFA Euro,Bordeaux,France,True
+2016-06-21 00:00:00,Czech Republic,Turkey,0,2,UEFA Euro,Lens,France,True
+2016-06-21 00:00:00,Lesotho,Zambia,2,3,COSAFA Cup,Windhoek,Namibia,True
+2016-06-21 00:00:00,Namibia,Mozambique,3,0,COSAFA Cup,Windhoek,Namibia,False
+2016-06-21 00:00:00,Northern Ireland,Germany,0,1,UEFA Euro,Paris,France,True
+2016-06-21 00:00:00,Ukraine,Poland,0,1,UEFA Euro,Marseille,France,True
+2016-06-21 00:00:00,United States,Argentina,0,4,Copa Am√©rica,Houston,United States,False
+2016-06-22 00:00:00,Botswana,DR Congo,0,0,COSAFA Cup,Windhoek,Namibia,True
+2016-06-22 00:00:00,Colombia,Chile,0,2,Copa Am√©rica,Chicago,United States,True
+2016-06-22 00:00:00,Hungary,Portugal,3,3,UEFA Euro,Lyon,France,True
+2016-06-22 00:00:00,Iceland,Austria,2,1,UEFA Euro,Saint-Denis,France,True
+2016-06-22 00:00:00,Italy,Republic of Ireland,0,1,UEFA Euro,Villeneuve-d'Ascq,France,True
+2016-06-22 00:00:00,New Caledonia,Malaysia,1,2,Friendly,Noum√©a,New Caledonia,False
+2016-06-22 00:00:00,South Africa,Eswatini,5,1,COSAFA Cup,Windhoek,Namibia,True
+2016-06-22 00:00:00,Sweden,Belgium,0,1,UEFA Euro,Nice,France,True
+2016-06-24 00:00:00,Namibia,Zambia,1,0,COSAFA Cup,Windhoek,Namibia,False
+2016-06-25 00:00:00,Croatia,Portugal,0,1,UEFA Euro,Lens,France,True
+2016-06-25 00:00:00,South Africa,Botswana,3,2,COSAFA Cup,Windhoek,Namibia,True
+2016-06-25 00:00:00,Eswatini,DR Congo,1,0,COSAFA Cup,Windhoek,Namibia,True
+2016-06-25 00:00:00,Switzerland,Poland,1,1,UEFA Euro,Saint-√âtienne,France,True
+2016-06-25 00:00:00,United States,Colombia,0,1,Copa Am√©rica,Glendale,United States,False
+2016-06-25 00:00:00,Wales,Northern Ireland,1,0,UEFA Euro,Paris,France,True
+2016-06-26 00:00:00,Argentina,Chile,0,0,Copa Am√©rica,East Rutherford,United States,True
+2016-06-26 00:00:00,Fiji,Malaysia,1,1,Friendly,Nadi,Fiji,False
+2016-06-26 00:00:00,France,Republic of Ireland,2,1,UEFA Euro,Lyon,France,False
+2016-06-26 00:00:00,Germany,Slovakia,3,0,UEFA Euro,Villeneuve-d'Ascq,France,True
+2016-06-26 00:00:00,Hungary,Belgium,0,4,UEFA Euro,Toulouse,France,True
+2016-06-27 00:00:00,England,Iceland,1,2,UEFA Euro,Nice,France,True
+2016-06-27 00:00:00,Italy,Spain,2,0,UEFA Euro,Saint-Denis,France,True
+2016-06-30 00:00:00,Macau,Mongolia,2,2,EAFF Championship,Dededo,Guam,True
+2016-06-30 00:00:00,Poland,Portugal,1,1,UEFA Euro,Marseille,France,True
+2016-07-01 00:00:00,Wales,Belgium,3,1,UEFA Euro,Villeneuve-d'Ascq,France,True
+2016-07-02 00:00:00,Germany,Italy,1,1,UEFA Euro,Bordeaux,France,True
+2016-07-02 00:00:00,Mongolia,Taiwan,0,2,EAFF Championship,Dededo,Guam,True
+2016-07-02 00:00:00,Northern Mariana Islands,Macau,1,3,EAFF Championship,Dededo,Guam,True
+2016-07-03 00:00:00,France,Iceland,5,2,UEFA Euro,Saint-Denis,France,False
+2016-07-04 00:00:00,Northern Mariana Islands,Mongolia,0,8,EAFF Championship,Dededo,Guam,True
+2016-07-06 00:00:00,Portugal,Wales,2,0,UEFA Euro,Lyon,France,True
+2016-07-07 00:00:00,France,Germany,2,0,UEFA Euro,Marseille,France,False
+2016-07-10 00:00:00,France,Portugal,0,1,UEFA Euro,Saint-Denis,France,False
+2016-07-24 00:00:00,Uzbekistan,Iraq,2,1,Friendly,Tashkent,Uzbekistan,False
+2016-07-28 00:00:00,Cambodia,Singapore,2,1,Friendly,Phnom Penh,Cambodia,False
+2016-08-08 00:00:00,Oman,Turkmenistan,1,0,Friendly,Muscat,Oman,False
+2016-08-08 00:00:00,Qatar,Iraq,2,1,Friendly,Doha,Qatar,False
+2016-08-13 00:00:00,Bhutan,India,0,3,Friendly,Thimphu,Bhutan,False
+2016-08-18 00:00:00,Jordan,Qatar,2,3,Friendly,Lucerne,Switzerland,True
+2016-08-21 00:00:00,Iraq,North Korea,1,1,Friendly,Paroi,Malaysia,True
+2016-08-24 00:00:00,Honduras,Nicaragua,1,0,Friendly,San Pedro Sula,Honduras,False
+2016-08-24 00:00:00,North Korea,United Arab Emirates,2,0,Friendly,Shanghai,China PR,True
+2016-08-24 00:00:00,Saudi Arabia,Laos,4,0,Friendly,Doha,Qatar,True
+2016-08-24 00:00:00,Uzbekistan,Burkina Faso,1,0,Friendly,Tashkent,Uzbekistan,False
+2016-08-25 00:00:00,Barawa,Tamil Eelam,0,5,World Unity Cup,London,England,False
+2016-08-26 00:00:00,Barawa,Chagos Islands,2,3,World Unity Cup,London,England,False
+2016-08-27 00:00:00,Tajikistan,Syria,0,0,Friendly,Khujand,Tajikistan,False
+2016-08-27 00:00:00,Chagos Islands,Tamil Eelam,1,5,World Unity Cup,London,England,True
+2016-08-28 00:00:00,Dominican Republic,Puerto Rico,5,0,Friendly,San Crist√≥bal,Dominican Republic,False
+2016-08-28 00:00:00,Chagos Islands,Tamil Eelam,1,5,World Unity Cup,London,England,True
+2016-08-30 00:00:00,Egypt,Guinea,1,1,Friendly,Alexandria,Egypt,False
+2016-08-30 00:00:00,Kyrgyzstan,Kazakhstan,2,0,Friendly,Bishkek,Kyrgyzstan,False
+2016-08-30 00:00:00,Uganda,Kenya,0,0,Friendly,Kampala,Uganda,False
+2016-08-31 00:00:00,Albania,Morocco,0,0,Friendly,Shkod√´r,Albania,False
+2016-08-31 00:00:00,Czech Republic,Armenia,3,0,Friendly,Mlad√° Boleslav,Czech Republic,False
+2016-08-31 00:00:00,Denmark,Liechtenstein,5,0,Friendly,Horsens,Denmark,False
+2016-08-31 00:00:00,Estonia,Malta,1,1,Friendly,P√§rnu,Estonia,False
+2016-08-31 00:00:00,Germany,Finland,2,0,Friendly,M√∂nchengladbach,Germany,False
+2016-08-31 00:00:00,Republic of Ireland,Oman,4,0,Friendly,Dublin,Republic of Ireland,False
+2016-08-31 00:00:00,Lebanon,Jordan,1,1,Friendly,Beirut,Lebanon,False
+2016-08-31 00:00:00,Norway,Belarus,0,1,Friendly,Oslo,Norway,False
+2016-08-31 00:00:00,Turkey,Russia,0,0,Friendly,Antalya,Turkey,False
+2016-09-01 00:00:00,Argentina,Uruguay,1,0,FIFA World Cup qualification,Mendoza,Argentina,False
+2016-09-01 00:00:00,Australia,Iraq,2,0,FIFA World Cup qualification,Perth,Australia,False
+2016-09-01 00:00:00,Bahrain,Singapore,3,1,Friendly,Riffa,Bahrain,False
+2016-09-01 00:00:00,Belgium,Spain,0,2,Friendly,Brussels,Belgium,False
+2016-09-01 00:00:00,Bolivia,Peru,0,3,FIFA World Cup qualification,La Paz,Bolivia,False
+2016-09-01 00:00:00,Colombia,Venezuela,2,0,FIFA World Cup qualification,Barranquilla,Colombia,False
+2016-09-01 00:00:00,Ecuador,Brazil,0,3,FIFA World Cup qualification,Quito,Ecuador,False
+2016-09-01 00:00:00,Hong Kong,Cambodia,4,2,Friendly,Kowloon,Hong Kong,False
+2016-09-01 00:00:00,Iran,Qatar,2,0,FIFA World Cup qualification,Tehran,Iran,False
+2016-09-01 00:00:00,Italy,France,1,3,Friendly,Bari,Italy,False
+2016-09-01 00:00:00,Japan,United Arab Emirates,1,2,FIFA World Cup qualification,Saitama,Japan,False
+2016-09-01 00:00:00,South Korea,China PR,3,2,FIFA World Cup qualification,Seoul,South Korea,False
+2016-09-01 00:00:00,Maldives,Bangladesh,5,0,Friendly,Mal√©,Maldives,False
+2016-09-01 00:00:00,Netherlands,Greece,1,2,Friendly,Eindhoven,Netherlands,False
+2016-09-01 00:00:00,Paraguay,Chile,2,1,FIFA World Cup qualification,Asunci√≥n,Paraguay,False
+2016-09-01 00:00:00,Portugal,Gibraltar,5,0,Friendly,Porto,Portugal,False
+2016-09-01 00:00:00,Saudi Arabia,Thailand,1,0,FIFA World Cup qualification,Riyadh,Saudi Arabia,False
+2016-09-01 00:00:00,Uzbekistan,Syria,1,0,FIFA World Cup qualification,Tashkent,Uzbekistan,False
+2016-09-02 00:00:00,El Salvador,Mexico,1,3,FIFA World Cup qualification,San Salvador,El Salvador,False
+2016-09-02 00:00:00,Haiti,Costa Rica,0,1,FIFA World Cup qualification,Port-au-Prince,Haiti,False
+2016-09-02 00:00:00,Honduras,Canada,2,1,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2016-09-02 00:00:00,Latvia,Luxembourg,3,1,Friendly,Riga,Latvia,False
+2016-09-02 00:00:00,Panama,Jamaica,2,0,FIFA World Cup qualification,Panama City,Panama,False
+2016-09-02 00:00:00,South Africa,Mauritania,1,1,African Cup of Nations qualification,Nelspruit,South Africa,False
+2016-09-02 00:00:00,Saint Vincent and the Grenadines,United States,0,6,FIFA World Cup qualification,Kingstown,Saint Vincent and the Grenadines,False
+2016-09-02 00:00:00,Sudan,Gabon,1,2,Friendly,Khartoum,Sudan,False
+2016-09-02 00:00:00,Trinidad and Tobago,Guatemala,2,2,FIFA World Cup qualification,Port of Spain,Trinidad and Tobago,False
+2016-09-03 00:00:00,Angola,Madagascar,1,1,African Cup of Nations qualification,Luanda,Angola,False
+2016-09-03 00:00:00,Cameroon,Gambia,2,0,African Cup of Nations qualification,Limb√©,Cameroon,False
+2016-09-03 00:00:00,Cape Verde,Libya,0,1,African Cup of Nations qualification,Praia,Cape Verde,False
+2016-09-03 00:00:00,Ethiopia,Seychelles,2,1,African Cup of Nations qualification,Hawassa,Ethiopia,False
+2016-09-03 00:00:00,Ghana,Rwanda,1,1,African Cup of Nations qualification,Accra,Ghana,False
+2016-09-03 00:00:00,India,Puerto Rico,4,1,Friendly,Bombay,India,False
+2016-09-03 00:00:00,Ivory Coast,Sierra Leone,1,1,African Cup of Nations qualification,Bouak√©,Ivory Coast,False
+2016-09-03 00:00:00,Mozambique,Mauritius,1,0,African Cup of Nations qualification,Maputo,Mozambique,False
+2016-09-03 00:00:00,Nigeria,Tanzania,1,0,African Cup of Nations qualification,Uyo,Nigeria,False
+2016-09-03 00:00:00,Senegal,Namibia,2,0,African Cup of Nations qualification,Dakar,Senegal,False
+2016-09-04 00:00:00,Algeria,Lesotho,6,0,African Cup of Nations qualification,Blida,Algeria,False
+2016-09-04 00:00:00,Bahrain,Jordan,0,0,Friendly,Isa Town,Bahrain,False
+2016-09-04 00:00:00,Burkina Faso,Botswana,2,1,African Cup of Nations qualification,Ouagadougou,Burkina Faso,False
+2016-09-04 00:00:00,Congo,Guinea-Bissau,1,0,African Cup of Nations qualification,Brazzaville,Congo,False
+2016-09-04 00:00:00,DR Congo,Central African Republic,4,1,African Cup of Nations qualification,Kinshasa,DR Congo,False
+2016-09-04 00:00:00,Czech Republic,Northern Ireland,0,0,FIFA World Cup qualification,Prague,Czech Republic,False
+2016-09-04 00:00:00,Denmark,Armenia,1,0,FIFA World Cup qualification,Copenhagen,Denmark,False
+2016-09-04 00:00:00,Equatorial Guinea,South Sudan,4,0,African Cup of Nations qualification,Malabo,Equatorial Guinea,False
+2016-09-04 00:00:00,Kazakhstan,Poland,2,2,FIFA World Cup qualification,Astana,Kazakhstan,False
+2016-09-04 00:00:00,Lithuania,Slovenia,2,2,FIFA World Cup qualification,Vilnius,Lithuania,False
+2016-09-04 00:00:00,Malawi,Eswatini,1,0,African Cup of Nations qualification,Blantyre,Malawi,False
+2016-09-04 00:00:00,Malta,Scotland,1,5,FIFA World Cup qualification,Attard,Malta,False
+2016-09-04 00:00:00,Norway,Germany,0,3,FIFA World Cup qualification,Oslo,Norway,False
+2016-09-04 00:00:00,Romania,Montenegro,1,1,FIFA World Cup qualification,Cluj,Romania,False
+2016-09-04 00:00:00,San Marino,Azerbaijan,0,1,FIFA World Cup qualification,Serravalle,San Marino,False
+2016-09-04 00:00:00,Slovakia,England,0,1,FIFA World Cup qualification,Trnava,Slovakia,False
+2016-09-04 00:00:00,Tunisia,Liberia,4,1,African Cup of Nations qualification,Monastir,Tunisia,False
+2016-09-04 00:00:00,Uganda,Comoros,1,0,African Cup of Nations qualification,Kampala,Uganda,False
+2016-09-04 00:00:00,Zambia,Kenya,1,1,African Cup of Nations qualification,Ndola,Zambia,False
+2016-09-05 00:00:00,Albania,North Macedonia,2,1,FIFA World Cup qualification,Shkod√´r,Albania,False
+2016-09-05 00:00:00,Croatia,Turkey,1,1,FIFA World Cup qualification,Zagreb,Croatia,False
+2016-09-05 00:00:00,Finland,Kosovo,1,1,FIFA World Cup qualification,Turku,Finland,False
+2016-09-05 00:00:00,Georgia,Austria,1,2,FIFA World Cup qualification,Tbilisi,Georgia,False
+2016-09-05 00:00:00,Israel,Italy,1,3,FIFA World Cup qualification,Haifa,Israel,False
+2016-09-05 00:00:00,Lebanon,Afghanistan,2,0,Friendly,Beirut,Lebanon,False
+2016-09-05 00:00:00,Serbia,Republic of Ireland,2,2,FIFA World Cup qualification,Belgrade,Serbia,False
+2016-09-05 00:00:00,Spain,Liechtenstein,8,0,FIFA World Cup qualification,Le√≥n,Spain,False
+2016-09-05 00:00:00,Ukraine,Iceland,1,1,FIFA World Cup qualification,Kyiv,Ukraine,False
+2016-09-05 00:00:00,Wales,Moldova,4,0,FIFA World Cup qualification,Cardiff,Wales,False
+2016-09-06 00:00:00,Andorra,Latvia,0,1,FIFA World Cup qualification,Sant Juli√† de L√≤ria,Andorra,False
+2016-09-06 00:00:00,Bangladesh,Bhutan,0,0,AFC Asian Cup qualification,Dhaka,Bangladesh,False
+2016-09-06 00:00:00,Belarus,France,0,0,FIFA World Cup qualification,Barysaw,Belarus,False
+2016-09-06 00:00:00,Bosnia and Herzegovina,Estonia,5,0,FIFA World Cup qualification,Zenica,Bosnia and Herzegovina,False
+2016-09-06 00:00:00,Brazil,Colombia,2,1,FIFA World Cup qualification,Manaus,Brazil,False
+2016-09-06 00:00:00,Bulgaria,Luxembourg,4,3,FIFA World Cup qualification,Sofia,Bulgaria,False
+2016-09-06 00:00:00,Cameroon,Gabon,2,1,Friendly,Limb√©,Cameroon,False
+2016-09-06 00:00:00,Canada,El Salvador,3,1,FIFA World Cup qualification,Vancouver,Canada,False
+2016-09-06 00:00:00,Chile,Bolivia,3,0,FIFA World Cup qualification,Santiago,Chile,False
+2016-09-06 00:00:00,China PR,Iran,0,0,FIFA World Cup qualification,Shenyang,China PR,False
+2016-09-06 00:00:00,Costa Rica,Panama,3,1,FIFA World Cup qualification,San Jos√©,Costa Rica,False
+2016-09-06 00:00:00,Cyprus,Belgium,0,3,FIFA World Cup qualification,Nicosia,Cyprus,False
+2016-09-06 00:00:00,Faroe Islands,Hungary,0,0,FIFA World Cup qualification,T√≥rshavn,Faroe Islands,False
+2016-09-06 00:00:00,Gibraltar,Greece,1,4,FIFA World Cup qualification,Faro,Portugal,True
+2016-09-06 00:00:00,Indonesia,Malaysia,3,0,Friendly,Surakarta,Indonesia,False
+2016-09-06 00:00:00,Iraq,Saudi Arabia,1,2,FIFA World Cup qualification,Shah Alam,Malaysia,True
+2016-09-06 00:00:00,Jamaica,Haiti,0,2,FIFA World Cup qualification,Kingston,Jamaica,False
+2016-09-06 00:00:00,Kyrgyzstan,Philippines,1,2,Friendly,Bishkek,Kyrgyzstan,False
+2016-09-06 00:00:00,Maldives,Laos,4,0,AFC Asian Cup qualification,Mal√©,Maldives,False
+2016-09-06 00:00:00,Mexico,Honduras,0,0,FIFA World Cup qualification,Mexico City,Mexico,False
+2016-09-06 00:00:00,Palestine,Tajikistan,1,1,Friendly,Hebron,Palestine,False
+2016-09-06 00:00:00,Peru,Ecuador,2,1,FIFA World Cup qualification,Lima,Peru,False
+2016-09-06 00:00:00,Qatar,Uzbekistan,0,1,FIFA World Cup qualification,Doha,Qatar,False
+2016-09-06 00:00:00,Russia,Ghana,1,0,Friendly,Moscow,Russia,False
+2016-09-06 00:00:00,South Africa,Egypt,1,0,Friendly,Johannesburg,South Africa,False
+2016-09-06 00:00:00,Sweden,Netherlands,1,1,FIFA World Cup qualification,Solna,Sweden,False
+2016-09-06 00:00:00,Switzerland,Portugal,2,0,FIFA World Cup qualification,Basel,Switzerland,False
+2016-09-06 00:00:00,Syria,South Korea,0,0,FIFA World Cup qualification,Paroi,Malaysia,True
+2016-09-06 00:00:00,Thailand,Japan,0,2,FIFA World Cup qualification,Bangkok,Thailand,False
+2016-09-06 00:00:00,United Arab Emirates,Australia,0,1,FIFA World Cup qualification,Abu Dhabi,United Arab Emirates,False
+2016-09-06 00:00:00,Uruguay,Paraguay,4,0,FIFA World Cup qualification,Montevideo,Uruguay,False
+2016-09-06 00:00:00,United States,Trinidad and Tobago,4,0,FIFA World Cup qualification,Jacksonville,United States,False
+2016-09-06 00:00:00,Venezuela,Argentina,2,2,FIFA World Cup qualification,M√©rida,Venezuela,False
+2016-09-29 00:00:00,Qatar,Serbia,3,0,Friendly,Doha,Qatar,False
+2016-09-30 00:00:00,Botswana,Angola,1,1,Friendly,Gaborone,Botswana,False
+2016-10-04 00:00:00,DR Congo,Kenya,0,1,Friendly,Kinshasa,DR Congo,False
+2016-10-04 00:00:00,Togo,Uganda,1,0,Friendly,Lom√©,Togo,False
+2016-10-05 00:00:00,Cura√ßao,Antigua and Barbuda,3,0,CFU Caribbean Cup qualification,Willemstad,Cura√ßao,False
+2016-10-05 00:00:00,Solomon Islands,New Caledonia,0,3,Friendly,Honiara,Solomon Islands,False
+2016-10-05 00:00:00,Tajikistan,Palestine,3,3,Friendly,Dushanbe,Tajikistan,False
+2016-10-05 00:00:00,Trinidad and Tobago,Dominican Republic,4,0,CFU Caribbean Cup qualification,Couva,Trinidad and Tobago,False
+2016-10-06 00:00:00,Austria,Wales,2,2,FIFA World Cup qualification,Vienna,Austria,False
+2016-10-06 00:00:00,Brazil,Bolivia,5,0,FIFA World Cup qualification,Natal,Brazil,False
+2016-10-06 00:00:00,Cambodia,Hong Kong,0,2,Friendly,Phnom Penh,Cambodia,False
+2016-10-06 00:00:00,China PR,Syria,0,1,FIFA World Cup qualification,Xi'an,China PR,False
+2016-10-06 00:00:00,Ecuador,Chile,3,0,FIFA World Cup qualification,Quito,Ecuador,False
+2016-10-06 00:00:00,Iceland,Finland,3,2,FIFA World Cup qualification,Reykjav√≠k,Iceland,False
+2016-10-06 00:00:00,Republic of Ireland,Georgia,1,0,FIFA World Cup qualification,Dublin,Republic of Ireland,False
+2016-10-06 00:00:00,Italy,Spain,1,1,FIFA World Cup qualification,Turin,Italy,False
+2016-10-06 00:00:00,Japan,Iraq,2,1,FIFA World Cup qualification,Saitama,Japan,False
+2016-10-06 00:00:00,South Korea,Qatar,3,2,FIFA World Cup qualification,Suwon,South Korea,False
+2016-10-06 00:00:00,Kosovo,Croatia,0,6,FIFA World Cup qualification,Shkod√´r,Albania,True
+2016-10-06 00:00:00,Kyrgyzstan,Lebanon,0,0,Friendly,Bishkek,Kyrgyzstan,False
+2016-10-06 00:00:00,Liechtenstein,Albania,0,2,FIFA World Cup qualification,Vaduz,Liechtenstein,False
+2016-10-06 00:00:00,North Macedonia,Israel,1,2,FIFA World Cup qualification,Skopje,North Macedonia,False
+2016-10-06 00:00:00,Mauritania,Canada,0,4,Friendly,Marrakech,Morocco,True
+2016-10-06 00:00:00,Moldova,Serbia,0,3,FIFA World Cup qualification,Chi»ôinƒÉu,Moldova,False
+2016-10-06 00:00:00,Paraguay,Colombia,0,1,FIFA World Cup qualification,Asunci√≥n,Paraguay,False
+2016-10-06 00:00:00,Peru,Argentina,2,2,FIFA World Cup qualification,Lima,Peru,False
+2016-10-06 00:00:00,Saudi Arabia,Australia,2,2,FIFA World Cup qualification,Jeddah,Saudi Arabia,False
+2016-10-06 00:00:00,Turkey,Ukraine,2,2,FIFA World Cup qualification,Konya,Turkey,False
+2016-10-06 00:00:00,United Arab Emirates,Thailand,3,1,FIFA World Cup qualification,Abu Dhabi,United Arab Emirates,False
+2016-10-06 00:00:00,Uruguay,Venezuela,3,0,FIFA World Cup qualification,Montevideo,Uruguay,False
+2016-10-06 00:00:00,Uzbekistan,Iran,0,1,FIFA World Cup qualification,Tashkent,Uzbekistan,False
+2016-10-06 00:00:00,Vietnam,North Korea,5,2,Friendly,Ho Chi Minh City,Vietnam,False
+2016-10-07 00:00:00,Belgium,Bosnia and Herzegovina,4,0,FIFA World Cup qualification,Brussels,Belgium,False
+2016-10-07 00:00:00,Cuba,United States,0,2,Friendly,Havana,Cuba,False
+2016-10-07 00:00:00,Estonia,Gibraltar,4,0,FIFA World Cup qualification,Tallinn,Estonia,False
+2016-10-07 00:00:00,France,Bulgaria,4,1,FIFA World Cup qualification,Saint-Denis,France,False
+2016-10-07 00:00:00,Ghana,Uganda,0,0,FIFA World Cup qualification,Tamale,Ghana,False
+2016-10-07 00:00:00,Greece,Cyprus,2,0,FIFA World Cup qualification,Piraeus,Greece,False
+2016-10-07 00:00:00,Hungary,Switzerland,2,3,FIFA World Cup qualification,Budapest,Hungary,False
+2016-10-07 00:00:00,Latvia,Faroe Islands,0,2,FIFA World Cup qualification,Riga,Latvia,False
+2016-10-07 00:00:00,Luxembourg,Sweden,0,1,FIFA World Cup qualification,Luxembourg,Luxembourg,False
+2016-10-07 00:00:00,Netherlands,Belarus,4,1,FIFA World Cup qualification,Rotterdam,Netherlands,False
+2016-10-07 00:00:00,Oman,Jordan,1,1,Friendly,Muscat,Oman,False
+2016-10-07 00:00:00,Philippines,Bahrain,1,3,Friendly,Manila,Philippines,False
+2016-10-07 00:00:00,Portugal,Andorra,6,0,FIFA World Cup qualification,Aveiro,Portugal,False
+2016-10-07 00:00:00,Singapore,Malaysia,0,0,Friendly,Kallang,Singapore,False
+2016-10-08 00:00:00,Armenia,Romania,0,5,FIFA World Cup qualification,Yerevan,Armenia,False
+2016-10-08 00:00:00,Azerbaijan,Norway,1,0,FIFA World Cup qualification,Baku,Azerbaijan,False
+2016-10-08 00:00:00,Belize,Honduras,1,2,Friendly,Belmopan,Belize,False
+2016-10-08 00:00:00,Burkina Faso,South Africa,1,1,FIFA World Cup qualification,Ouagadougou,Burkina Faso,False
+2016-10-08 00:00:00,DR Congo,Libya,4,0,FIFA World Cup qualification,Kinshasa,DR Congo,False
+2016-10-08 00:00:00,Dominican Republic,Martinique,1,2,CFU Caribbean Cup qualification,San Crist√≥bal,Dominican Republic,False
+2016-10-08 00:00:00,England,Malta,2,0,FIFA World Cup qualification,London,England,False
+2016-10-08 00:00:00,French Guiana,Saint Kitts and Nevis,1,0,CFU Caribbean Cup qualification,Cayenne,French Guiana,False
+2016-10-08 00:00:00,Gabon,Morocco,0,0,FIFA World Cup qualification,Franceville,Gabon,False
+2016-10-08 00:00:00,Germany,Czech Republic,3,0,FIFA World Cup qualification,Hamburg,Germany,False
+2016-10-08 00:00:00,Ivory Coast,Mali,3,1,FIFA World Cup qualification,Bouak√©,Ivory Coast,False
+2016-10-08 00:00:00,Mexico,New Zealand,2,1,Friendly,Nashville,United States,True
+2016-10-08 00:00:00,Montenegro,Kazakhstan,5,0,FIFA World Cup qualification,Podgorica,Montenegro,False
+2016-10-08 00:00:00,Northern Ireland,San Marino,4,0,FIFA World Cup qualification,Belfast,Northern Ireland,False
+2016-10-08 00:00:00,Poland,Denmark,3,2,FIFA World Cup qualification,Warsaw,Poland,False
+2016-10-08 00:00:00,Scotland,Lithuania,1,1,FIFA World Cup qualification,Glasgow,Scotland,False
+2016-10-08 00:00:00,Senegal,Cape Verde,2,0,FIFA World Cup qualification,Dakar,Senegal,False
+2016-10-08 00:00:00,Slovenia,Slovakia,1,0,FIFA World Cup qualification,Ljubljana,Slovenia,False
+2016-10-08 00:00:00,Solomon Islands,New Caledonia,0,1,Friendly,Honiara,Solomon Islands,False
+2016-10-08 00:00:00,Suriname,Guyana,3,2,CFU Caribbean Cup qualification,Paramaribo,Suriname,False
+2016-10-08 00:00:00,Taiwan,Timor-Leste,2,1,AFC Asian Cup qualification,Kaohsiung,Taiwan,False
+2016-10-09 00:00:00,Albania,Spain,0,2,FIFA World Cup qualification,Shkod√´r,Albania,False
+2016-10-09 00:00:00,Algeria,Cameroon,1,1,FIFA World Cup qualification,Blida,Algeria,False
+2016-10-09 00:00:00,Cambodia,Sri Lanka,4,0,Friendly,Phnom Penh,Cambodia,False
+2016-10-09 00:00:00,Congo,Egypt,1,2,FIFA World Cup qualification,Brazzaville,Congo,False
+2016-10-09 00:00:00,Finland,Croatia,0,1,FIFA World Cup qualification,Tampere,Finland,False
+2016-10-09 00:00:00,Iceland,Turkey,2,0,FIFA World Cup qualification,Reykjav√≠k,Iceland,False
+2016-10-09 00:00:00,Indonesia,Vietnam,2,2,Friendly,Sleman,Indonesia,False
+2016-10-09 00:00:00,Israel,Liechtenstein,2,1,FIFA World Cup qualification,Jerusalem,Israel,False
+2016-10-09 00:00:00,North Macedonia,Italy,2,3,FIFA World Cup qualification,Skopje,North Macedonia,False
+2016-10-09 00:00:00,Moldova,Republic of Ireland,1,3,FIFA World Cup qualification,Chi»ôinƒÉu,Moldova,False
+2016-10-09 00:00:00,Russia,Costa Rica,3,4,Friendly,Krasnodar,Russia,False
+2016-10-09 00:00:00,Serbia,Austria,3,2,FIFA World Cup qualification,Belgrade,Serbia,False
+2016-10-09 00:00:00,Togo,Mozambique,2,0,Friendly,Lom√©,Togo,False
+2016-10-09 00:00:00,Tunisia,Guinea,2,0,FIFA World Cup qualification,Monastir,Tunisia,False
+2016-10-09 00:00:00,Ukraine,Kosovo,3,0,FIFA World Cup qualification,Cracow,Poland,True
+2016-10-09 00:00:00,Wales,Georgia,1,1,FIFA World Cup qualification,Cardiff,Wales,False
+2016-10-09 00:00:00,Zambia,Nigeria,1,2,FIFA World Cup qualification,Ndola,Zambia,False
+2016-10-10 00:00:00,Andorra,Switzerland,1,2,FIFA World Cup qualification,Sant Juli√† de L√≤ria,Andorra,False
+2016-10-10 00:00:00,Belarus,Luxembourg,1,1,FIFA World Cup qualification,Barysaw,Belarus,False
+2016-10-10 00:00:00,Bhutan,Bangladesh,3,1,AFC Asian Cup qualification,Thimphu,Bhutan,False
+2016-10-10 00:00:00,Bosnia and Herzegovina,Cyprus,2,0,FIFA World Cup qualification,Zenica,Bosnia and Herzegovina,False
+2016-10-10 00:00:00,Estonia,Greece,0,2,FIFA World Cup qualification,Tallinn,Estonia,False
+2016-10-10 00:00:00,Faroe Islands,Portugal,0,6,FIFA World Cup qualification,T√≥rshavn,Faroe Islands,False
+2016-10-10 00:00:00,Gibraltar,Belgium,0,6,FIFA World Cup qualification,Faro,Portugal,True
+2016-10-10 00:00:00,Latvia,Hungary,0,2,FIFA World Cup qualification,Riga,Latvia,False
+2016-10-10 00:00:00,Netherlands,France,0,1,FIFA World Cup qualification,Amsterdam,Netherlands,False
+2016-10-10 00:00:00,Philippines,North Korea,1,3,Friendly,Manila,Philippines,False
+2016-10-10 00:00:00,Sweden,Bulgaria,3,0,FIFA World Cup qualification,Solna,Sweden,False
+2016-10-11 00:00:00,Argentina,Paraguay,0,1,FIFA World Cup qualification,C√≥rdoba,Argentina,False
+2016-10-11 00:00:00,Australia,Japan,1,1,FIFA World Cup qualification,Melbourne,Australia,False
+2016-10-11 00:00:00,Bolivia,Ecuador,2,2,FIFA World Cup qualification,La Paz,Bolivia,False
+2016-10-11 00:00:00,Chile,Peru,2,1,FIFA World Cup qualification,Santiago,Chile,False
+2016-10-11 00:00:00,Colombia,Uruguay,2,2,FIFA World Cup qualification,Barranquilla,Colombia,False
+2016-10-11 00:00:00,Czech Republic,Azerbaijan,0,0,FIFA World Cup qualification,Ostrava,Czech Republic,False
+2016-10-11 00:00:00,Denmark,Montenegro,0,1,FIFA World Cup qualification,Copenhagen,Denmark,False
+2016-10-11 00:00:00,Germany,Northern Ireland,2,0,FIFA World Cup qualification,Hanover,Germany,False
+2016-10-11 00:00:00,Hong Kong,Singapore,2,0,Friendly,Kowloon,Hong Kong,False
+2016-10-11 00:00:00,Iran,South Korea,1,0,FIFA World Cup qualification,Tehran,Iran,False
+2016-10-11 00:00:00,Iraq,Thailand,4,0,FIFA World Cup qualification,Tehran,Iran,True
+2016-10-11 00:00:00,Kazakhstan,Romania,0,0,FIFA World Cup qualification,Astana,Kazakhstan,False
+2016-10-11 00:00:00,Kyrgyzstan,Turkmenistan,1,0,Friendly,Bishkek,Kyrgyzstan,False
+2016-10-11 00:00:00,Laos,Maldives,1,1,AFC Asian Cup qualification,Vientiane,Laos,False
+2016-10-11 00:00:00,Lebanon,Equatorial Guinea,1,1,Friendly,Beirut,Lebanon,False
+2016-10-11 00:00:00,Lithuania,Malta,2,0,FIFA World Cup qualification,Vilnius,Lithuania,False
+2016-10-11 00:00:00,Malaysia,Afghanistan,1,1,Friendly,Shah Alam,Malaysia,False
+2016-10-11 00:00:00,Mexico,Panama,1,0,Friendly,Bridgeview,United States,True
+2016-10-11 00:00:00,Morocco,Canada,4,0,Friendly,Marrakech,Morocco,False
+2016-10-11 00:00:00,Norway,San Marino,4,1,FIFA World Cup qualification,Oslo,Norway,False
+2016-10-11 00:00:00,Oman,Bahrain,2,2,Friendly,Muscat,Oman,False
+2016-10-11 00:00:00,Poland,Armenia,2,1,FIFA World Cup qualification,Warsaw,Poland,False
+2016-10-11 00:00:00,Puerto Rico,Cura√ßao,2,4,CFU Caribbean Cup qualification,Bayam√≥n,Puerto Rico,False
+2016-10-11 00:00:00,Qatar,Syria,1,0,FIFA World Cup qualification,Doha,Qatar,False
+2016-10-11 00:00:00,Saudi Arabia,United Arab Emirates,3,0,FIFA World Cup qualification,Jeddah,Saudi Arabia,False
+2016-10-11 00:00:00,Slovakia,Scotland,3,0,FIFA World Cup qualification,Trnava,Slovakia,False
+2016-10-11 00:00:00,Slovenia,England,0,0,FIFA World Cup qualification,Ljubljana,Slovenia,False
+2016-10-11 00:00:00,South Africa,Ghana,1,1,Friendly,Durban,South Africa,False
+2016-10-11 00:00:00,Uzbekistan,China PR,2,0,FIFA World Cup qualification,Tashkent,Uzbekistan,False
+2016-10-11 00:00:00,Venezuela,Brazil,0,2,FIFA World Cup qualification,M√©rida,Venezuela,False
+2016-10-15 00:00:00,Brunei,Timor-Leste,2,1,AFF Championship,Phnom Penh,Cambodia,True
+2016-10-15 00:00:00,Cambodia,Laos,2,1,AFF Championship,Phnom Penh,Cambodia,False
+2016-10-18 00:00:00,Cambodia,Brunei,3,0,AFF Championship,Phnom Penh,Cambodia,False
+2016-10-18 00:00:00,Timor-Leste,Laos,1,2,AFF Championship,Phnom Penh,Cambodia,True
+2016-10-21 00:00:00,Cambodia,Timor-Leste,3,2,AFF Championship,Phnom Penh,Cambodia,False
+2016-10-21 00:00:00,Laos,Brunei,4,3,AFF Championship,Phnom Penh,Cambodia,True
+2016-11-02 00:00:00,Brunei,Timor-Leste,4,0,AFC Challenge Cup,Kuching,Malaysia,True
+2016-11-03 00:00:00,Macau,Mongolia,2,1,AFC Challenge Cup,Kuching,Malaysia,True
+2016-11-03 00:00:00,Sri Lanka,Laos,1,2,AFC Challenge Cup,Kuching,Malaysia,True
+2016-11-04 00:00:00,Myanmar,Indonesia,0,0,Friendly,Yangon,Myanmar,False
+2016-11-05 00:00:00,Timor-Leste,Nepal,0,0,AFC Challenge Cup,Kuching,Malaysia,True
+2016-11-05 00:00:00,Zimbabwe,Zambia,1,0,Friendly,Harare,Zimbabwe,False
+2016-11-06 00:00:00,Hong Kong,Guam,3,2,EAFF Championship,Kowloon,Hong Kong,False
+2016-11-06 00:00:00,Jordan,Iraq,0,0,Friendly,Amman,Jordan,False
+2016-11-06 00:00:00,North Korea,Taiwan,2,0,EAFF Championship,Kowloon,Hong Kong,True
+2016-11-06 00:00:00,Laos,Macau,1,4,AFC Challenge Cup,Kuching,Malaysia,True
+2016-11-06 00:00:00,Mongolia,Sri Lanka,2,0,AFC Challenge Cup,Kuching,Malaysia,True
+2016-11-07 00:00:00,Tahiti,Solomon Islands,3,0,FIFA World Cup qualification,Pirae,French Polynesia,True
+2016-11-08 00:00:00,Nepal,Brunei,3,0,AFC Challenge Cup,Kuching,Malaysia,True
+2016-11-08 00:00:00,Uganda,Zambia,0,1,Friendly,Kampala,Uganda,False
+2016-11-08 00:00:00,Vietnam,Indonesia,3,2,Friendly,Hanoi,Vietnam,False
+2016-11-09 00:00:00,Greece,Belarus,0,1,Friendly,Piraeus,Greece,False
+2016-11-09 00:00:00,Guam,North Korea,0,2,EAFF Championship,Kowloon,Hong Kong,True
+2016-11-09 00:00:00,Haiti,French Guiana,2,5,CFU Caribbean Cup qualification,Port-au-Prince,Haiti,False
+2016-11-09 00:00:00,Hong Kong,Taiwan,4,2,EAFF Championship,Kowloon,Hong Kong,False
+2016-11-09 00:00:00,Mongolia,Laos,0,3,AFC Challenge Cup,Kuching,Malaysia,True
+2016-11-09 00:00:00,Netherlands,Belgium,1,1,Friendly,Amsterdam,Netherlands,False
+2016-11-09 00:00:00,Philippines,Kyrgyzstan,1,0,Friendly,Manila,Philippines,False
+2016-11-09 00:00:00,Sri Lanka,Macau,1,1,AFC Challenge Cup,Kuching,Malaysia,True
+2016-11-09 00:00:00,Syria,Singapore,2,0,Friendly,Paroi,Malaysia,True
+2016-11-09 00:00:00,Tajikistan,Turkmenistan,3,0,Friendly,Dushanbe,Tajikistan,False
+2016-11-09 00:00:00,United Arab Emirates,Bahrain,2,0,Friendly,Al Ain,United Arab Emirates,False
+2016-11-10 00:00:00,Brazil,Argentina,3,0,FIFA World Cup qualification,Belo Horizonte,Brazil,False
+2016-11-10 00:00:00,Colombia,Chile,0,0,FIFA World Cup qualification,Barranquilla,Colombia,False
+2016-11-10 00:00:00,Iran,Papua New Guinea,8,1,Friendly,Shah Alam,Malaysia,True
+2016-11-10 00:00:00,Lebanon,Palestine,1,1,Friendly,Beirut,Lebanon,False
+2016-11-10 00:00:00,Paraguay,Peru,1,4,FIFA World Cup qualification,Asunci√≥n,Paraguay,False
+2016-11-10 00:00:00,Qatar,Russia,2,1,Friendly,Doha,Qatar,False
+2016-11-10 00:00:00,Uruguay,Ecuador,2,1,FIFA World Cup qualification,Montevideo,Uruguay,False
+2016-11-10 00:00:00,Uzbekistan,Jordan,1,0,Friendly,Tashkent,Uzbekistan,False
+2016-11-10 00:00:00,Venezuela,Bolivia,5,0,FIFA World Cup qualification,Matur√≠n,Venezuela,False
+2016-11-11 00:00:00,Armenia,Montenegro,3,2,FIFA World Cup qualification,Yerevan,Armenia,False
+2016-11-11 00:00:00,Czech Republic,Norway,2,1,FIFA World Cup qualification,Prague,Czech Republic,False
+2016-11-11 00:00:00,Denmark,Kazakhstan,4,1,FIFA World Cup qualification,Copenhagen,Denmark,False
+2016-11-11 00:00:00,England,Scotland,3,0,FIFA World Cup qualification,London,England,False
+2016-11-11 00:00:00,France,Sweden,2,1,FIFA World Cup qualification,Saint-Denis,France,False
+2016-11-11 00:00:00,Honduras,Panama,0,1,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2016-11-11 00:00:00,Japan,Oman,4,0,Kirin Challenge Cup,Kashima,Japan,False
+2016-11-11 00:00:00,South Korea,Canada,2,0,Friendly,Cheonan,South Korea,False
+2016-11-11 00:00:00,Libya,Tunisia,0,1,FIFA World Cup qualification,Algiers,Algeria,True
+2016-11-11 00:00:00,Malta,Slovenia,0,1,FIFA World Cup qualification,Attard,Malta,False
+2016-11-11 00:00:00,Northern Ireland,Azerbaijan,4,0,FIFA World Cup qualification,Belfast,Northern Ireland,False
+2016-11-11 00:00:00,Romania,Poland,0,3,FIFA World Cup qualification,Bucharest,Romania,False
+2016-11-11 00:00:00,San Marino,Germany,0,8,FIFA World Cup qualification,Serravalle,San Marino,False
+2016-11-11 00:00:00,Slovakia,Lithuania,4,0,FIFA World Cup qualification,Trnava,Slovakia,False
+2016-11-11 00:00:00,Togo,Comoros,2,2,Friendly,Tunis,Tunisia,True
+2016-11-11 00:00:00,Trinidad and Tobago,Costa Rica,0,2,FIFA World Cup qualification,Port of Spain,Trinidad and Tobago,False
+2016-11-11 00:00:00,United States,Mexico,1,2,FIFA World Cup qualification,Columbus,United States,False
+2016-11-12 00:00:00,Albania,Israel,0,3,FIFA World Cup qualification,Elbasan,Albania,False
+2016-11-12 00:00:00,Austria,Republic of Ireland,0,1,FIFA World Cup qualification,Vienna,Austria,False
+2016-11-12 00:00:00,Cameroon,Zambia,1,1,FIFA World Cup qualification,Limb√©,Cameroon,False
+2016-11-12 00:00:00,Cape Verde,Burkina Faso,0,2,FIFA World Cup qualification,Praia,Cape Verde,False
+2016-11-12 00:00:00,Croatia,Iceland,2,0,FIFA World Cup qualification,Zagreb,Croatia,False
+2016-11-12 00:00:00,Georgia,Moldova,1,1,FIFA World Cup qualification,Tbilisi,Georgia,False
+2016-11-12 00:00:00,Hong Kong,North Korea,0,1,EAFF Championship,Kowloon,Hong Kong,False
+2016-11-12 00:00:00,Kenya,Mozambique,1,0,Friendly,Nairobi,Kenya,False
+2016-11-12 00:00:00,Liechtenstein,Italy,0,4,FIFA World Cup qualification,Vaduz,Liechtenstein,False
+2016-11-12 00:00:00,Macau,Brunei,1,1,AFC Challenge Cup,Kuching,Malaysia,True
+2016-11-12 00:00:00,Mali,Gabon,0,0,FIFA World Cup qualification,Bamako,Mali,False
+2016-11-12 00:00:00,Morocco,Ivory Coast,0,0,FIFA World Cup qualification,Marrakech,Morocco,False
+2016-11-12 00:00:00,Nepal,Laos,2,2,AFC Challenge Cup,Kuching,Malaysia,True
+2016-11-12 00:00:00,New Zealand,New Caledonia,2,0,FIFA World Cup qualification,Auckland,New Zealand,False
+2016-11-12 00:00:00,Nigeria,Algeria,3,1,FIFA World Cup qualification,Uyo,Nigeria,False
+2016-11-12 00:00:00,Spain,North Macedonia,4,0,FIFA World Cup qualification,Granada,Spain,False
+2016-11-12 00:00:00,Turkey,Kosovo,2,0,FIFA World Cup qualification,Antalya,Turkey,False
+2016-11-12 00:00:00,Uganda,Congo,1,0,FIFA World Cup qualification,Kampala,Uganda,False
+2016-11-12 00:00:00,Ukraine,Finland,1,0,FIFA World Cup qualification,Odessa,Ukraine,False
+2016-11-12 00:00:00,Wales,Serbia,1,1,FIFA World Cup qualification,Cardiff,Wales,False
+2016-11-13 00:00:00,Belgium,Estonia,8,1,FIFA World Cup qualification,Brussels,Belgium,False
+2016-11-13 00:00:00,Bulgaria,Belarus,1,0,FIFA World Cup qualification,Sofia,Bulgaria,False
+2016-11-13 00:00:00,Cyprus,Gibraltar,3,1,FIFA World Cup qualification,Nicosia,Cyprus,False
+2016-11-13 00:00:00,Egypt,Ghana,2,0,FIFA World Cup qualification,Alexandria,Egypt,False
+2016-11-13 00:00:00,Greece,Bosnia and Herzegovina,1,1,FIFA World Cup qualification,Piraeus,Greece,False
+2016-11-13 00:00:00,Guinea,DR Congo,1,2,FIFA World Cup qualification,Conakry,Guinea,False
+2016-11-13 00:00:00,Hungary,Andorra,4,0,FIFA World Cup qualification,Budapest,Hungary,False
+2016-11-13 00:00:00,Jamaica,Suriname,1,0,CFU Caribbean Cup qualification,Kingston,Jamaica,False
+2016-11-13 00:00:00,Luxembourg,Netherlands,1,3,FIFA World Cup qualification,Luxembourg,Luxembourg,False
+2016-11-13 00:00:00,Portugal,Latvia,4,1,FIFA World Cup qualification,Faro,Portugal,False
+2016-11-13 00:00:00,Singapore,Cambodia,1,0,Friendly,Bishan,Singapore,False
+2016-11-13 00:00:00,Solomon Islands,Tahiti,1,0,FIFA World Cup qualification,Honiara,Solomon Islands,False
+2016-11-13 00:00:00,Saint Kitts and Nevis,Haiti,0,2,CFU Caribbean Cup qualification,Basseterre,Saint Kitts and Nevis,False
+2016-11-13 00:00:00,Switzerland,Faroe Islands,2,0,FIFA World Cup qualification,Lucerne,Switzerland,False
+2016-11-13 00:00:00,Tajikistan,Afghanistan,1,0,Friendly,Dushanbe,Tajikistan,False
+2016-11-13 00:00:00,Zimbabwe,Tanzania,3,0,Friendly,Harare,Zimbabwe,False
+2016-11-14 00:00:00,Myanmar,Oman,0,3,Friendly,Yangon,Myanmar,False
+2016-11-14 00:00:00,Laos,Brunei,3,2,AFC Challenge Cup,Kuching,Malaysia,True
+2016-11-14 00:00:00,Malaysia,Papua New Guinea,2,1,Friendly,Shah Alam,Malaysia,False
+2016-11-14 00:00:00,Poland,Slovenia,1,1,Friendly,Wroc≈Çaw,Poland,False
+2016-11-15 00:00:00,Argentina,Colombia,3,0,FIFA World Cup qualification,San Juan,Argentina,False
+2016-11-15 00:00:00,Austria,Slovakia,0,0,Friendly,Vienna,Austria,False
+2016-11-15 00:00:00,Bahrain,Kyrgyzstan,0,0,Friendly,Riffa,Bahrain,False
+2016-11-15 00:00:00,Bolivia,Paraguay,1,0,FIFA World Cup qualification,La Paz,Bolivia,False
+2016-11-15 00:00:00,Chile,Uruguay,3,1,FIFA World Cup qualification,Santiago,Chile,False
+2016-11-15 00:00:00,China PR,Qatar,0,0,FIFA World Cup qualification,Kunming,China PR,False
+2016-11-15 00:00:00,Costa Rica,United States,4,0,FIFA World Cup qualification,San Jos√©,Costa Rica,False
+2016-11-15 00:00:00,Czech Republic,Denmark,1,1,Friendly,Mlad√° Boleslav,Czech Republic,False
+2016-11-15 00:00:00,Ecuador,Venezuela,3,0,FIFA World Cup qualification,Quito,Ecuador,False
+2016-11-15 00:00:00,England,Spain,2,2,Friendly,London,England,False
+2016-11-15 00:00:00,France,Ivory Coast,0,0,Friendly,Lens,France,False
+2016-11-15 00:00:00,Gabon,Comoros,1,1,Friendly,Tunis,Tunisia,True
+2016-11-15 00:00:00,Honduras,Trinidad and Tobago,3,1,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2016-11-15 00:00:00,Italy,Germany,0,0,Friendly,Milan,Italy,False
+2016-11-15 00:00:00,Japan,Saudi Arabia,2,1,FIFA World Cup qualification,Saitama,Japan,False
+2016-11-15 00:00:00,Jordan,Lebanon,0,0,Friendly,Amman,Jordan,False
+2016-11-15 00:00:00,Kenya,Liberia,1,0,Friendly,Nairobi,Kenya,False
+2016-11-15 00:00:00,South Korea,Uzbekistan,2,1,FIFA World Cup qualification,Seoul,South Korea,False
+2016-11-15 00:00:00,Malta,Iceland,0,2,Friendly,Attard,Malta,False
+2016-11-15 00:00:00,Morocco,Togo,2,1,Friendly,Marrakech,Morocco,False
+2016-11-15 00:00:00,Mozambique,South Africa,1,1,Friendly,Maputo,Mozambique,False
+2016-11-15 00:00:00,Nepal,Macau,1,0,AFC Challenge Cup,Kuching,Malaysia,True
+2016-11-15 00:00:00,New Caledonia,New Zealand,0,0,FIFA World Cup qualification,Kon√©,New Caledonia,False
+2016-11-15 00:00:00,Northern Ireland,Croatia,0,3,Friendly,Belfast,Northern Ireland,False
+2016-11-15 00:00:00,Panama,Mexico,0,0,FIFA World Cup qualification,Panama City,Panama,False
+2016-11-15 00:00:00,Peru,Brazil,0,2,FIFA World Cup qualification,Lima,Peru,False
+2016-11-15 00:00:00,Russia,Romania,1,0,Friendly,Groznyy,Russia,False
+2016-11-15 00:00:00,Syria,Iran,0,0,FIFA World Cup qualification,Paroi,Malaysia,True
+2016-11-15 00:00:00,Thailand,Australia,2,2,FIFA World Cup qualification,Bangkok,Thailand,False
+2016-11-15 00:00:00,Tunisia,Mauritania,0,0,Friendly,Gab√®s,Tunisia,False
+2016-11-15 00:00:00,Ukraine,Serbia,2,0,Friendly,Kharkiv,Ukraine,False
+2016-11-15 00:00:00,United Arab Emirates,Iraq,2,0,FIFA World Cup qualification,Abu Dhabi,United Arab Emirates,False
+2016-11-19 00:00:00,Philippines,Singapore,0,0,AFF Championship,Bocaue,Philippines,False
+2016-11-19 00:00:00,Saint Kitts and Nevis,Estonia,1,1,Friendly,Basseterre,Saint Kitts and Nevis,False
+2016-11-19 00:00:00,Thailand,Indonesia,4,2,AFF Championship,Bocaue,Philippines,True
+2016-11-20 00:00:00,Myanmar,Vietnam,1,2,AFF Championship,Yangon,Myanmar,False
+2016-11-20 00:00:00,Malaysia,Cambodia,3,2,AFF Championship,Yangon,Myanmar,True
+2016-11-22 00:00:00,Antigua and Barbuda,Estonia,0,1,Friendly,St. John's,Antigua and Barbuda,False
+2016-11-22 00:00:00,Philippines,Indonesia,2,2,AFF Championship,Bocaue,Philippines,False
+2016-11-22 00:00:00,Thailand,Singapore,1,0,AFF Championship,Bocaue,Philippines,True
+2016-11-23 00:00:00,Myanmar,Cambodia,3,1,AFF Championship,Yangon,Myanmar,False
+2016-11-23 00:00:00,Malaysia,Vietnam,0,1,AFF Championship,Yangon,Myanmar,True
+2016-11-25 00:00:00,Philippines,Thailand,0,1,AFF Championship,Bocaue,Philippines,False
+2016-11-25 00:00:00,Singapore,Indonesia,1,2,AFF Championship,Manila,Philippines,True
+2016-11-26 00:00:00,Myanmar,Malaysia,1,0,AFF Championship,Yangon,Myanmar,False
+2016-11-26 00:00:00,Vietnam,Cambodia,2,1,AFF Championship,Naypyidaw,Myanmar,True
+2016-12-03 00:00:00,Indonesia,Vietnam,2,1,AFF Championship,Bogor,Indonesia,False
+2016-12-04 00:00:00,Myanmar,Thailand,0,2,AFF Championship,Yangon,Myanmar,False
+2016-12-07 00:00:00,Vietnam,Indonesia,2,2,AFF Championship,Hanoi,Vietnam,False
+2016-12-08 00:00:00,Thailand,Myanmar,4,0,AFF Championship,Bangkok,Thailand,False
+2016-12-14 00:00:00,Indonesia,Thailand,2,1,AFF Championship,Bogor,Indonesia,False
+2016-12-17 00:00:00,Thailand,Indonesia,2,0,AFF Championship,Bangkok,Thailand,False
+2016-12-26 00:00:00,Ivory Coast,Zimbabwe,0,0,Friendly,Abidjan,Ivory Coast,False
+2016-12-27 00:00:00,Nicaragua,Trinidad and Tobago,2,1,Friendly,Managua,Nicaragua,False
+2016-12-28 00:00:00,Catalonia,Tunisia,3,3,Friendly,Girona,Spain,False
+2016-12-30 00:00:00,Nicaragua,Trinidad and Tobago,1,3,Friendly,Managua,Nicaragua,False
+2016-12-30 00:00:00,Basque Country,Tunisia,3,1,Friendly,Bilbao,Spain,False
+2017-01-04 00:00:00,Trinidad and Tobago,Suriname,1,2,CFU Caribbean Cup qualification,Couva,Trinidad and Tobago,False
+2017-01-04 00:00:00,Tunisia,Uganda,2,0,Friendly,Tunis,Tunisia,False
+2017-01-05 00:00:00,Cameroon,DR Congo,2,0,Friendly,Yaound√©,Cameroon,False
+2017-01-06 00:00:00,Suriname,Haiti,2,4,CFU Caribbean Cup qualification,Couva,Trinidad and Tobago,True
+2017-01-07 00:00:00,Algeria,Mauritania,3,1,Friendly,Blida,Algeria,False
+2017-01-07 00:00:00,Burkina Faso,Mali,2,1,Friendly,Marrakech,Morocco,True
+2017-01-08 00:00:00,Egypt,Tunisia,1,0,Friendly,Cairo,Egypt,False
+2017-01-08 00:00:00,Ivory Coast,Sweden,2,1,Friendly,Abu Dhabi,United Arab Emirates,True
+2017-01-08 00:00:00,Libya,Senegal,1,2,Friendly,Brazzaville,Congo,True
+2017-01-08 00:00:00,Trinidad and Tobago,Haiti,3,4,CFU Caribbean Cup qualification,Couva,Trinidad and Tobago,False
+2017-01-09 00:00:00,Morocco,Finland,0,1,Friendly,Al Ain,United Arab Emirates,True
+2017-01-10 00:00:00,Algeria,Mauritania,6,0,Friendly,Sidi Moussa,Algeria,False
+2017-01-10 00:00:00,Cameroon,Zimbabwe,1,1,Friendly,Yaound√©,Cameroon,False
+2017-01-10 00:00:00,China PR,Iceland,0,2,Friendly,Nanning,China PR,False
+2017-01-11 00:00:00,Chile,Croatia,1,1,Friendly,Nanning,China PR,True
+2017-01-11 00:00:00,Congo,Senegal,0,2,Friendly,Brazzaville,Congo,False
+2017-01-11 00:00:00,Ivory Coast,Uganda,3,0,Friendly,Abu Dhabi,United Arab Emirates,True
+2017-01-13 00:00:00,Honduras,Nicaragua,2,1,UNCAF Cup,Panama City,Panama,True
+2017-01-14 00:00:00,Burkina Faso,Cameroon,1,1,African Cup of Nations,Libreville,Gabon,True
+2017-01-14 00:00:00,Cambodia,Saudi Arabia,2,7,Friendly,Abu Dhabi,United Arab Emirates,True
+2017-01-14 00:00:00,China PR,Croatia,1,1,Friendly,Nanning,China PR,False
+2017-01-14 00:00:00,Gabon,Guinea-Bissau,1,1,African Cup of Nations,Libreville,Gabon,False
+2017-01-15 00:00:00,Algeria,Zimbabwe,2,2,African Cup of Nations,Franceville,Gabon,True
+2017-01-15 00:00:00,Belize,Costa Rica,0,3,UNCAF Cup,Panama City,Panama,True
+2017-01-15 00:00:00,El Salvador,Honduras,1,2,UNCAF Cup,Panama City,Panama,True
+2017-01-15 00:00:00,Iceland,Chile,0,1,Friendly,Nanning,China PR,True
+2017-01-15 00:00:00,Tunisia,Senegal,0,2,African Cup of Nations,Franceville,Gabon,True
+2017-01-16 00:00:00,DR Congo,Morocco,1,0,African Cup of Nations,Oyem,Gabon,True
+2017-01-16 00:00:00,Ivory Coast,Togo,0,0,African Cup of Nations,Oyem,Gabon,True
+2017-01-17 00:00:00,El Salvador,Belize,3,1,UNCAF Cup,Panama City,Panama,True
+2017-01-17 00:00:00,Ghana,Uganda,1,0,African Cup of Nations,Port-Gentil,Gabon,True
+2017-01-17 00:00:00,Mali,Egypt,0,0,African Cup of Nations,Port-Gentil,Gabon,True
+2017-01-17 00:00:00,Qatar,Moldova,1,1,Friendly,Doha,Qatar,False
+2017-01-18 00:00:00,Cameroon,Guinea-Bissau,2,1,African Cup of Nations,Libreville,Gabon,True
+2017-01-18 00:00:00,Gabon,Burkina Faso,1,1,African Cup of Nations,Libreville,Gabon,False
+2017-01-19 00:00:00,Algeria,Tunisia,1,2,African Cup of Nations,Franceville,Gabon,True
+2017-01-19 00:00:00,Senegal,Zimbabwe,2,0,African Cup of Nations,Franceville,Gabon,True
+2017-01-20 00:00:00,Ivory Coast,DR Congo,2,2,African Cup of Nations,Oyem,Gabon,True
+2017-01-20 00:00:00,Morocco,Togo,3,1,African Cup of Nations,Oyem,Gabon,True
+2017-01-20 00:00:00,Nicaragua,Belize,3,1,UNCAF Cup,Panama City,Panama,True
+2017-01-21 00:00:00,Egypt,Uganda,1,0,African Cup of Nations,Port-Gentil,Gabon,True
+2017-01-21 00:00:00,Ghana,Mali,1,0,African Cup of Nations,Port-Gentil,Gabon,True
+2017-01-22 00:00:00,Belize,Honduras,0,1,UNCAF Cup,Panama City,Panama,True
+2017-01-22 00:00:00,Bermuda,Canada,2,4,Friendly,Hamilton,Bermuda,False
+2017-01-22 00:00:00,El Salvador,Nicaragua,1,0,UNCAF Cup,Panama City,Panama,True
+2017-01-22 00:00:00,Gabon,Cameroon,0,0,African Cup of Nations,Libreville,Gabon,False
+2017-01-22 00:00:00,Guinea-Bissau,Burkina Faso,0,2,African Cup of Nations,Franceville,Gabon,True
+2017-01-22 00:00:00,Panama,Costa Rica,1,0,UNCAF Cup,Panama City,Panama,False
+2017-01-23 00:00:00,Senegal,Algeria,2,2,African Cup of Nations,Franceville,Gabon,True
+2017-01-23 00:00:00,Uzbekistan,Georgia,2,2,Friendly,Dubai,United Arab Emirates,True
+2017-01-23 00:00:00,Zimbabwe,Tunisia,2,4,African Cup of Nations,Libreville,Gabon,True
+2017-01-24 00:00:00,Morocco,Ivory Coast,1,0,African Cup of Nations,Oyem,Gabon,True
+2017-01-24 00:00:00,Togo,DR Congo,1,3,African Cup of Nations,Port-Gentil,Gabon,True
+2017-01-25 00:00:00,Egypt,Ghana,1,0,African Cup of Nations,Port-Gentil,Gabon,True
+2017-01-25 00:00:00,Jordan,Georgia,1,0,Friendly,Dubai,United Arab Emirates,True
+2017-01-25 00:00:00,Uganda,Mali,1,1,African Cup of Nations,Oyem,Gabon,True
+2017-01-26 00:00:00,Brazil,Colombia,1,0,Friendly,Rio de Janeiro,Brazil,False
+2017-01-28 00:00:00,Burkina Faso,Tunisia,2,0,African Cup of Nations,Libreville,Gabon,True
+2017-01-28 00:00:00,Senegal,Cameroon,0,0,African Cup of Nations,Franceville,Gabon,True
+2017-01-29 00:00:00,DR Congo,Ghana,1,2,African Cup of Nations,Oyem,Gabon,True
+2017-01-29 00:00:00,Egypt,Morocco,1,0,African Cup of Nations,Port-Gentil,Gabon,True
+2017-01-29 00:00:00,United States,Serbia,0,0,Friendly,San Diego,United States,False
+2017-02-01 00:00:00,Burkina Faso,Egypt,1,1,African Cup of Nations,Libreville,Gabon,True
+2017-02-02 00:00:00,Cameroon,Ghana,2,0,African Cup of Nations,Franceville,Gabon,True
+2017-02-04 00:00:00,Burkina Faso,Ghana,1,0,African Cup of Nations,Port-Gentil,Gabon,True
+2017-02-05 00:00:00,Egypt,Cameroon,1,2,African Cup of Nations,Libreville,Gabon,True
+2017-02-08 00:00:00,Mexico,Iceland,1,0,Friendly,Las Vegas,United States,True
+2017-02-22 00:00:00,Ecuador,Honduras,3,1,Friendly,Guayaquil,Ecuador,False
+2017-03-09 00:00:00,Qatar,Azerbaijan,1,2,Friendly,Doha,Qatar,False
+2017-03-10 00:00:00,Trinidad and Tobago,Barbados,2,0,Friendly,Couva,Trinidad and Tobago,False
+2017-03-11 00:00:00,Burundi,Djibouti,7,0,Friendly,Bujumbura,Burundi,False
+2017-03-13 00:00:00,Burundi,Djibouti,1,0,Friendly,Bujumbura,Burundi,False
+2017-03-16 00:00:00,Honduras,Nicaragua,2,0,Friendly,San Pedro Sula,Honduras,False
+2017-03-18 00:00:00,Iran,Iraq,0,1,Friendly,Tehran,Iran,False
+2017-03-19 00:00:00,San Marino,Moldova,0,2,Friendly,Serravalle,San Marino,False
+2017-03-21 00:00:00,Indonesia,Myanmar,1,3,Friendly,Cibinong,Indonesia,False
+2017-03-22 00:00:00,Cambodia,India,2,3,Friendly,Phnom Penh,Cambodia,False
+2017-03-22 00:00:00,Cura√ßao,El Salvador,1,1,Friendly,Willemstad,Cura√ßao,False
+2017-03-22 00:00:00,Cyprus,Kazakhstan,3,1,Friendly,Larnaca,Cyprus,False
+2017-03-22 00:00:00,Czech Republic,Lithuania,3,0,Friendly,√öst√≠ nad Labem,Czech Republic,False
+2017-03-22 00:00:00,Djibouti,South Sudan,2,0,African Cup of Nations qualification,Djibouti,Djibouti,False
+2017-03-22 00:00:00,Germany,England,1,0,Friendly,Dortmund,Germany,False
+2017-03-22 00:00:00,Philippines,Malaysia,0,0,Friendly,Manila,Philippines,False
+2017-03-22 00:00:00,S√£o Tom√© and Pr√≠ncipe,Madagascar,0,1,African Cup of Nations qualification,S√£o Tom√©,S√£o Tom√© and Pr√≠ncipe,False
+2017-03-22 00:00:00,Scotland,Canada,1,1,Friendly,Edinburgh,Scotland,False
+2017-03-22 00:00:00,Vietnam,Taiwan,1,1,Friendly,Hanoi,Vietnam,False
+2017-03-22 00:00:00,Yemen,Palestine,0,1,Friendly,Al Wakrah,Qatar,True
+2017-03-23 00:00:00,Afghanistan,Singapore,2,1,Friendly,Al Wakrah,Qatar,True
+2017-03-23 00:00:00,Argentina,Chile,1,0,FIFA World Cup qualification,Buenos Aires,Argentina,False
+2017-03-23 00:00:00,Bahrain,Tajikistan,1,1,Friendly,Riffa,Bahrain,False
+2017-03-23 00:00:00,China PR,South Korea,1,0,FIFA World Cup qualification,Changsha,China PR,False
+2017-03-23 00:00:00,Colombia,Bolivia,1,0,FIFA World Cup qualification,Barranquilla,Colombia,False
+2017-03-23 00:00:00,Iraq,Australia,1,1,FIFA World Cup qualification,Tehran,Iran,True
+2017-03-23 00:00:00,Jordan,Hong Kong,4,0,Friendly,Amman,Jordan,False
+2017-03-23 00:00:00,Kenya,Uganda,1,1,Friendly,Machakos,Kenya,False
+2017-03-23 00:00:00,Nigeria,Senegal,1,1,Friendly,London,England,True
+2017-03-23 00:00:00,Papua New Guinea,Tahiti,1,3,FIFA World Cup qualification,Port Moresby,Papua New Guinea,False
+2017-03-23 00:00:00,Paraguay,Ecuador,2,1,FIFA World Cup qualification,Asunci√≥n,Paraguay,False
+2017-03-23 00:00:00,Qatar,Iran,0,1,FIFA World Cup qualification,Doha,Qatar,False
+2017-03-23 00:00:00,Syria,Uzbekistan,1,0,FIFA World Cup qualification,Paya Rumput,Malaysia,True
+2017-03-23 00:00:00,Thailand,Saudi Arabia,0,3,FIFA World Cup qualification,Bangkok,Thailand,False
+2017-03-23 00:00:00,United Arab Emirates,Japan,0,2,FIFA World Cup qualification,Al Ain,United Arab Emirates,False
+2017-03-23 00:00:00,Uruguay,Brazil,1,4,FIFA World Cup qualification,Montevideo,Uruguay,False
+2017-03-23 00:00:00,Venezuela,Peru,2,2,FIFA World Cup qualification,Matur√≠n,Venezuela,False
+2017-03-24 00:00:00,Austria,Moldova,2,0,FIFA World Cup qualification,Vienna,Austria,False
+2017-03-24 00:00:00,Comoros,Mauritius,2,0,African Cup of Nations qualification,Mitsamiouli,Comoros,False
+2017-03-24 00:00:00,Croatia,Ukraine,1,0,FIFA World Cup qualification,Zagreb,Croatia,False
+2017-03-24 00:00:00,Georgia,Serbia,1,2,FIFA World Cup qualification,Tbilisi,Georgia,False
+2017-03-24 00:00:00,Guinea,Gabon,2,2,Friendly,Le Havre,France,True
+2017-03-24 00:00:00,Republic of Ireland,Wales,0,0,FIFA World Cup qualification,Dublin,Republic of Ireland,False
+2017-03-24 00:00:00,Italy,Albania,2,0,FIFA World Cup qualification,Palermo,Italy,False
+2017-03-24 00:00:00,Kosovo,Iceland,1,2,FIFA World Cup qualification,Shkod√´r,Albania,True
+2017-03-24 00:00:00,Libya,Togo,0,0,Friendly,Alexandria,Egypt,True
+2017-03-24 00:00:00,Liechtenstein,North Macedonia,0,3,FIFA World Cup qualification,Vaduz,Liechtenstein,False
+2017-03-24 00:00:00,Mauritania,Benin,1,0,Friendly,Nouakchott,Mauritania,False
+2017-03-24 00:00:00,Mexico,Costa Rica,2,0,FIFA World Cup qualification,Mexico City,Mexico,False
+2017-03-24 00:00:00,Morocco,Burkina Faso,2,0,Friendly,Marrakech,Morocco,False
+2017-03-24 00:00:00,Russia,Ivory Coast,0,2,Friendly,Krasnodar,Russia,False
+2017-03-24 00:00:00,Spain,Israel,4,1,FIFA World Cup qualification,Gij√≥n,Spain,False
+2017-03-24 00:00:00,Trinidad and Tobago,Panama,1,0,FIFA World Cup qualification,Port of Spain,Trinidad and Tobago,False
+2017-03-24 00:00:00,Tunisia,Cameroon,0,1,Friendly,Monastir,Tunisia,False
+2017-03-24 00:00:00,Turkey,Finland,2,0,FIFA World Cup qualification,Antalya,Turkey,False
+2017-03-24 00:00:00,United States,Honduras,6,0,FIFA World Cup qualification,San Jose,United States,False
+2017-03-25 00:00:00,Andorra,Faroe Islands,0,0,FIFA World Cup qualification,Sant Juli√† de L√≤ria,Andorra,False
+2017-03-25 00:00:00,Belgium,Greece,1,1,FIFA World Cup qualification,Brussels,Belgium,False
+2017-03-25 00:00:00,Bosnia and Herzegovina,Gibraltar,5,0,FIFA World Cup qualification,Zenica,Bosnia and Herzegovina,False
+2017-03-25 00:00:00,Bulgaria,Netherlands,2,0,FIFA World Cup qualification,Sofia,Bulgaria,False
+2017-03-25 00:00:00,Cyprus,Estonia,0,0,FIFA World Cup qualification,Nicosia,Cyprus,False
+2017-03-25 00:00:00,Fiji,New Zealand,0,2,FIFA World Cup qualification,Lautoka,Fiji,False
+2017-03-25 00:00:00,Luxembourg,France,1,3,FIFA World Cup qualification,Luxembourg,Luxembourg,False
+2017-03-25 00:00:00,Mozambique,Angola,2,0,Friendly,Maputo,Mozambique,False
+2017-03-25 00:00:00,Portugal,Hungary,3,0,FIFA World Cup qualification,Lisbon,Portugal,False
+2017-03-25 00:00:00,South Africa,Guinea-Bissau,3,1,Friendly,Durban,South Africa,False
+2017-03-25 00:00:00,Sweden,Belarus,4,0,FIFA World Cup qualification,Solna,Sweden,False
+2017-03-25 00:00:00,Switzerland,Latvia,1,0,FIFA World Cup qualification,Geneva,Switzerland,False
+2017-03-25 00:00:00,Tanzania,Botswana,2,0,Friendly,Dar es Salaam,Tanzania,False
+2017-03-26 00:00:00,Armenia,Kazakhstan,2,0,FIFA World Cup qualification,Yerevan,Armenia,False
+2017-03-26 00:00:00,Azerbaijan,Germany,1,4,FIFA World Cup qualification,Baku,Azerbaijan,False
+2017-03-26 00:00:00,Barbados,Martinique,2,1,Friendly,Bridgetown,Barbados,False
+2017-03-26 00:00:00,England,Lithuania,2,0,FIFA World Cup qualification,London,England,False
+2017-03-26 00:00:00,Kenya,DR Congo,2,1,Friendly,Machakos,Kenya,False
+2017-03-26 00:00:00,Madagascar,S√£o Tom√© and Pr√≠ncipe,3,2,African Cup of Nations qualification,Antananarivo,Madagascar,False
+2017-03-26 00:00:00,Malta,Slovakia,1,3,FIFA World Cup qualification,Attard,Malta,False
+2017-03-26 00:00:00,Montenegro,Poland,1,2,FIFA World Cup qualification,Podgorica,Montenegro,False
+2017-03-26 00:00:00,Northern Ireland,Norway,2,0,FIFA World Cup qualification,Belfast,Northern Ireland,False
+2017-03-26 00:00:00,Romania,Denmark,0,0,FIFA World Cup qualification,Cluj,Romania,False
+2017-03-26 00:00:00,San Marino,Czech Republic,0,6,FIFA World Cup qualification,Serravalle,San Marino,False
+2017-03-26 00:00:00,Scotland,Slovenia,1,0,FIFA World Cup qualification,Glasgow,Scotland,False
+2017-03-26 00:00:00,Zimbabwe,Zambia,0,0,Friendly,Harare,Zimbabwe,False
+2017-03-27 00:00:00,Central African Republic,Gambia,1,2,Friendly,Rabat,Morocco,True
+2017-03-27 00:00:00,Ivory Coast,Senegal,1,1,Friendly,Paris,France,True
+2017-03-27 00:00:00,Mauritania,Congo,2,1,Friendly,Nouakchott,Mauritania,False
+2017-03-27 00:00:00,Turkey,Moldova,3,1,Friendly,Eski≈üehir,Turkey,False
+2017-03-28 00:00:00,Afghanistan,Vietnam,1,1,AFC Asian Cup qualification,Dushanbe,Tajikistan,True
+2017-03-28 00:00:00,Albania,Bosnia and Herzegovina,1,2,Friendly,Elbasan,Albania,False
+2017-03-28 00:00:00,Australia,United Arab Emirates,2,0,FIFA World Cup qualification,Sydney,Australia,False
+2017-03-28 00:00:00,Austria,Finland,1,1,Friendly,Innsbruck,Austria,False
+2017-03-28 00:00:00,Bahrain,Singapore,0,0,AFC Asian Cup qualification,Riffa,Bahrain,False
+2017-03-28 00:00:00,Bolivia,Argentina,2,0,FIFA World Cup qualification,La Paz,Bolivia,False
+2017-03-28 00:00:00,Brazil,Paraguay,3,0,FIFA World Cup qualification,S√£o Paulo,Brazil,False
+2017-03-28 00:00:00,Myanmar,India,0,1,AFC Asian Cup qualification,Yangon,Myanmar,False
+2017-03-28 00:00:00,Cameroon,Guinea,1,2,Friendly,Molenbeek,Belgium,True
+2017-03-28 00:00:00,Chile,Venezuela,3,1,FIFA World Cup qualification,Santiago,Chile,False
+2017-03-28 00:00:00,Ecuador,Colombia,0,2,FIFA World Cup qualification,Quito,Ecuador,False
+2017-03-28 00:00:00,Egypt,Togo,3,0,Friendly,Alexandria,Egypt,False
+2017-03-28 00:00:00,Estonia,Croatia,3,0,Friendly,Tallinn,Estonia,False
+2017-03-28 00:00:00,France,Spain,0,2,Friendly,Saint-Denis,France,False
+2017-03-28 00:00:00,Georgia,Latvia,5,0,Friendly,Tbilisi,Georgia,False
+2017-03-28 00:00:00,Guyana,Martinique,0,0,Friendly,Linden,Guyana,False
+2017-03-28 00:00:00,Honduras,Costa Rica,1,1,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2017-03-28 00:00:00,Iran,China PR,1,0,FIFA World Cup qualification,Tehran,Iran,False
+2017-03-28 00:00:00,Republic of Ireland,Iceland,0,1,Friendly,Dublin,Republic of Ireland,False
+2017-03-28 00:00:00,Japan,Thailand,4,0,FIFA World Cup qualification,Saitama,Japan,False
+2017-03-28 00:00:00,Jordan,Cambodia,7,0,AFC Asian Cup qualification,Amman,Jordan,False
+2017-03-28 00:00:00,South Korea,Syria,1,0,FIFA World Cup qualification,Seoul,South Korea,False
+2017-03-28 00:00:00,Kyrgyzstan,Macau,1,0,AFC Asian Cup qualification,Bishkek,Kyrgyzstan,False
+2017-03-28 00:00:00,Lebanon,Hong Kong,2,0,AFC Asian Cup qualification,Beirut,Lebanon,False
+2017-03-28 00:00:00,Luxembourg,Cape Verde,0,2,Friendly,Hesperange,Luxembourg,False
+2017-03-28 00:00:00,North Macedonia,Belarus,3,0,Friendly,Skopje,North Macedonia,False
+2017-03-28 00:00:00,Maldives,Palestine,0,3,AFC Asian Cup qualification,Mal√©,Maldives,False
+2017-03-28 00:00:00,Mauritius,Comoros,1,1,African Cup of Nations qualification,Mapou,Mauritius,False
+2017-03-28 00:00:00,Morocco,Tunisia,1,0,Friendly,Marrakech,Morocco,False
+2017-03-28 00:00:00,Mozambique,Lesotho,1,0,Friendly,Beira,Mozambique,False
+2017-03-28 00:00:00,Netherlands,Italy,1,2,Friendly,Amsterdam,Netherlands,False
+2017-03-28 00:00:00,New Zealand,Fiji,2,0,FIFA World Cup qualification,Wellington,New Zealand,False
+2017-03-28 00:00:00,Oman,Bhutan,14,0,AFC Asian Cup qualification,Muscat,Oman,False
+2017-03-28 00:00:00,Panama,United States,1,1,FIFA World Cup qualification,Panama City,Panama,False
+2017-03-28 00:00:00,Peru,Uruguay,2,1,FIFA World Cup qualification,Lima,Peru,False
+2017-03-28 00:00:00,Philippines,Nepal,4,1,AFC Asian Cup qualification,Manila,Philippines,False
+2017-03-28 00:00:00,Portugal,Sweden,2,3,Friendly,Funchal,Portugal,False
+2017-03-28 00:00:00,Russia,Belgium,3,3,Friendly,Sochi,Russia,False
+2017-03-28 00:00:00,Saudi Arabia,Iraq,1,0,FIFA World Cup qualification,Jeddah,Saudi Arabia,False
+2017-03-28 00:00:00,South Africa,Angola,0,0,Friendly,East London,South Africa,False
+2017-03-28 00:00:00,South Sudan,Djibouti,6,0,African Cup of Nations qualification,Juba,South Sudan,False
+2017-03-28 00:00:00,Tanzania,Burundi,2,1,Friendly,Dar es Salaam,Tanzania,False
+2017-03-28 00:00:00,Trinidad and Tobago,Mexico,0,1,FIFA World Cup qualification,Port of Spain,Trinidad and Tobago,False
+2017-03-28 00:00:00,Uzbekistan,Qatar,1,0,FIFA World Cup qualification,Tashkent,Uzbekistan,False
+2017-03-28 00:00:00,Yemen,Tajikistan,2,1,AFC Asian Cup qualification,Doha,Qatar,True
+2017-04-22 00:00:00,Somalia,South Sudan,1,2,African Nations Championship,Djibouti,Djibouti,True
+2017-04-22 00:00:00,Madagascar,Malawi,1,0,African Nations Championship,Antananarivo,Madagascar,False
+2017-04-22 00:00:00,Mauritius,Seychelles,2,1,African Nations Championship,Belle Vue Maurel,Mauritius,False
+2017-04-26 00:00:00,Martinique,Guadeloupe,4,1,Friendly,Le Lamentin,Martinique,False
+2017-04-29 00:00:00,Malawi,Madagascar,0,1,African Nations Championship,Lilongwe,Malawi,False
+2017-04-29 00:00:00,Seychelles,Mauritius,1,1,African Nations Championship,Victoria,Seychelles,False
+2017-04-29 00:00:00,Vatican City,Monaco,0,0,Friendly,Rome,Italy,False
+2017-04-30 00:00:00,South Sudan,Somalia,2,0,African Nations Championship,Juba,South Sudan,False
+2017-05-04 00:00:00,Burkina Faso,Benin,1,1,Friendly,Ouagadougou,Burkina Faso,False
+2017-05-07 00:00:00,Saint Kitts and Nevis,Barbados,2,1,Friendly,Basseterre,Saint Kitts and Nevis,False
+2017-05-11 00:00:00,Senegal,Mauritania,2,0,Friendly,Dakar,Senegal,False
+2017-05-13 00:00:00,Egypt,Libya,1,0,Friendly,Cairo,Egypt,False
+2017-05-17 00:00:00,Guadeloupe,Dominica,2,2,Friendly,Les Abymes,Guadeloupe,False
+2017-05-21 00:00:00,Benin,Burkina Faso,2,2,Friendly,Cotonou,Benin,False
+2017-05-25 00:00:00,Fiji,Solomon Islands,1,1,Friendly,Suva,Fiji,False
+2017-05-25 00:00:00,Ghana,Benin,1,1,Friendly,Accra,Ghana,False
+2017-05-26 00:00:00,Corsica,Nigeria,1,1,Friendly,Ajaccio,France,False
+2017-05-28 00:00:00,El Salvador,Honduras,2,2,Friendly,Washington,United States,True
+2017-05-28 00:00:00,Fiji,Solomon Islands,1,0,Friendly,Lautoka,Fiji,False
+2017-05-28 00:00:00,Mexico,Croatia,1,2,Friendly,Los Angeles,United States,True
+2017-05-31 00:00:00,Italy,San Marino,8,0,Friendly,Empoli,Italy,False
+2017-05-31 00:00:00,Ivory Coast,Benin,1,1,Friendly,Abidjan,Ivory Coast,False
+2017-05-31 00:00:00,Morocco,Netherlands,1,2,Friendly,Agadir,Morocco,False
+2017-06-01 00:00:00,Iraq,Jordan,1,0,Friendly,Basra,Iraq,False
+2017-06-01 00:00:00,Mexico,Republic of Ireland,3,1,Friendly,East Rutherford,United States,True
+2017-06-01 00:00:00,Nigeria,Togo,3,0,Friendly,Saint-Leu-la-For√™t,France,True
+2017-06-01 00:00:00,Switzerland,Belarus,1,0,Friendly,Neuch√¢tel,Switzerland,False
+2017-06-02 00:00:00,Chile,Burkina Faso,3,0,Friendly,Santiago,Chile,False
+2017-06-02 00:00:00,France,Paraguay,5,0,Friendly,Rennes,France,False
+2017-06-02 00:00:00,Nicaragua,Bolivia,0,1,Friendly,Managua,Nicaragua,False
+2017-06-02 00:00:00,Northern Ireland,New Zealand,1,0,Friendly,Belfast,Northern Ireland,False
+2017-06-02 00:00:00,Oman,Syria,1,1,Friendly,Muscat,Oman,False
+2017-06-03 00:00:00,Ethiopia,Uganda,0,0,Friendly,Hawassa,Ethiopia,False
+2017-06-03 00:00:00,Portugal,Cyprus,4,0,Friendly,Estoril,Portugal,False
+2017-06-03 00:00:00,United States,Venezuela,1,1,Friendly,Sandy,United States,False
+2017-06-04 00:00:00,Armenia,Saint Kitts and Nevis,5,0,Friendly,Yerevan,Armenia,False
+2017-06-04 00:00:00,Gabon,Zambia,0,0,Friendly,Libreville,Gabon,False
+2017-06-04 00:00:00,Republic of Ireland,Uruguay,3,1,Friendly,Dublin,Republic of Ireland,False
+2017-06-04 00:00:00,Lesotho,Mauritania,1,0,Friendly,Pretoria,South Africa,True
+2017-06-04 00:00:00,Luxembourg,Albania,2,1,Friendly,Luxembourg,Luxembourg,False
+2017-06-04 00:00:00,Montenegro,Iran,1,2,Friendly,Podgorica,Montenegro,False
+2017-06-04 00:00:00,Netherlands,Ivory Coast,5,0,Friendly,Rotterdam,Netherlands,False
+2017-06-04 00:00:00,Togo,Comoros,2,0,Friendly,Marseille,France,True
+2017-06-04 00:00:00,Northern Cyprus,K√°rp√°talja,1,0,CONIFA European Football Cup,Nicosia,Northern Cyprus,False
+2017-06-05 00:00:00,Belgium,Czech Republic,2,1,Friendly,Brussels,Belgium,False
+2017-06-05 00:00:00,DR Congo,Botswana,2,0,Friendly,Sal√©,Morocco,True
+2017-06-05 00:00:00,Egypt,Libya,1,0,Friendly,New Cairo,Egypt,False
+2017-06-05 00:00:00,Hungary,Russia,0,3,Friendly,Budapest,Hungary,False
+2017-06-05 00:00:00,North Macedonia,Turkey,0,0,Friendly,Skopje,North Macedonia,False
+2017-06-05 00:00:00,Senegal,Uganda,0,0,Friendly,Dakar,Senegal,False
+2017-06-05 00:00:00,Abkhazia,South Ossetia,2,1,CONIFA European Football Cup,Kyrenia,Northern Cyprus,True
+2017-06-05 00:00:00,Padania,Ellan Vannin,1,0,CONIFA European Football Cup,Morphou,Northern Cyprus,True
+2017-06-05 00:00:00,Felvid√©k,Sz√©kely Land,1,0,CONIFA European Football Cup,Famagusta,Northern Cyprus,True
+2017-06-06 00:00:00,Afghanistan,Maldives,2,1,Friendly,Dubai,United Arab Emirates,True
+2017-06-06 00:00:00,Algeria,Guinea,2,1,Friendly,Blida,Algeria,False
+2017-06-06 00:00:00,Bahrain,Palestine,0,2,Friendly,Riffa,Bahrain,False
+2017-06-06 00:00:00,Denmark,Germany,1,1,Friendly,Br√∏ndby,Denmark,False

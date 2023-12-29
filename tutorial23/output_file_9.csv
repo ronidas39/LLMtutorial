@@ -1,0 +1,1001 @@
+date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
+1973-12-19 00:00:00,Greece,Yugoslavia,2,4,FIFA World Cup qualification,Piraeus,Greece,False
+1973-12-19 00:00:00,Thailand,Singapore,3,0,King's Cup,Bangkok,Thailand,False
+1973-12-20 00:00:00,Cambodia,Malaysia,2,3,King's Cup,Bangkok,Thailand,True
+1973-12-21 00:00:00,Congo,Tunisia,0,1,Friendly,Brazzaville,Congo,False
+1973-12-22 00:00:00,Myanmar,South Korea,0,2,King's Cup,Bangkok,Thailand,True
+1973-12-23 00:00:00,Thailand,Malaysia,0,1,King's Cup,Bangkok,Thailand,False
+1973-12-25 00:00:00,South Korea,Malaysia,2,1,King's Cup,Bangkok,Thailand,True
+1973-12-25 00:00:00,Thailand,Myanmar,1,0,King's Cup,Bangkok,Thailand,False
+1973-12-30 00:00:00,Guinea,Tunisia,0,0,Friendly,Conakry,Guinea,False
+1974-01-01 00:00:00,Uganda,Congo,0,2,Friendly,Kampala,Uganda,False
+1974-01-06 00:00:00,Mali,Tunisia,1,0,Friendly,Bamako,Mali,False
+1974-01-13 00:00:00,Mauritius,Malawi,4,1,Friendly,Port Louis,Mauritius,False
+1974-01-17 00:00:00,Mauritius,Malawi,2,1,Friendly,Port Louis,Mauritius,False
+1974-01-17 00:00:00,Pakistan,Iran,1,2,Friendly,Karachi,Pakistan,False
+1974-01-18 00:00:00,Pakistan,Turkey,2,2,Friendly,Karachi,Pakistan,False
+1974-01-20 00:00:00,Iran,Turkey,0,1,Friendly,Karachi,Pakistan,True
+1974-01-20 00:00:00,Mauritius,Malawi,2,2,Friendly,Port Louis,Mauritius,False
+1974-01-25 00:00:00,Panama,El Salvador,1,0,Friendly,Panama City,Panama,False
+1974-02-06 00:00:00,Cyprus,Bulgaria,1,4,Friendly,Morphou,Cyprus,False
+1974-02-08 00:00:00,Kuwait,Bulgaria,1,3,Friendly,Kuwait City,Kuwait,False
+1974-02-10 00:00:00,Kuwait,Bulgaria,1,2,Friendly,Kuwait City,Kuwait,False
+1974-02-12 00:00:00,Singapore,Japan,0,1,Friendly,Kallang,Singapore,False
+1974-02-13 00:00:00,Yugoslavia,Spain,1,0,FIFA World Cup qualification,Frankfurt am Main,Germany,True
+1974-02-15 00:00:00,Ghana,Guinea,5,2,Friendly,Accra,Ghana,False
+1974-02-17 00:00:00,Congo,Mali,2,2,Friendly,Brazzaville,Congo,False
+1974-02-17 00:00:00,Ghana,Guinea,3,1,Friendly,Accra,Ghana,False
+1974-02-17 00:00:00,Tahiti,New Caledonia,2,1,Friendly,Papeete,French Polynesia,False
+1974-02-17 00:00:00,Tahiti,New Caledonia,1,2,Friendly,Papeete,French Polynesia,False
+1974-02-20 00:00:00,Hong Kong,Japan,0,0,Friendly,So Kon Po,Hong Kong,False
+1974-02-20 00:00:00,Tahiti,New Caledonia,2,2,Friendly,Papeete,French Polynesia,False
+1974-02-22 00:00:00,Iraq,Morocco,0,0,Friendly,Baghdad,Iraq,False
+1974-02-23 00:00:00,Spain,Germany,1,0,Friendly,Barcelona,Spain,False
+1974-02-24 00:00:00,Iraq,Morocco,0,0,Friendly,Baghdad,Iraq,False
+1974-02-25 00:00:00,Kuwait,Morocco,0,2,Friendly,Kuwait City,Kuwait,False
+1974-02-26 00:00:00,Italy,Germany,0,0,Friendly,Rome,Italy,False
+1974-02-26 00:00:00,Tunisia,German DR,0,4,Friendly,Tunis,Tunisia,False
+1974-02-27 00:00:00,Qatar,Morocco,0,1,Friendly,Doha,Qatar,False
+1974-02-28 00:00:00,Algeria,German DR,1,3,Friendly,Algiers,Algeria,False
+1974-03-01 00:00:00,Bahrain,Morocco,0,1,Friendly,Manama,Bahrain,False
+1974-03-01 00:00:00,Egypt,Uganda,2,1,African Cup of Nations,Cairo,Egypt,False
+1974-03-02 00:00:00,Ivory Coast,Zambia,0,1,African Cup of Nations,El Mahalla El Kubra,Egypt,True
+1974-03-03 00:00:00,Congo,Mauritius,2,0,African Cup of Nations,Alexandria,Egypt,True
+1974-03-03 00:00:00,Guinea,DR Congo,1,2,African Cup of Nations,Damanhur,Egypt,True
+1974-03-04 00:00:00,Egypt,Zambia,3,1,African Cup of Nations,Cairo,Egypt,False
+1974-03-04 00:00:00,Ivory Coast,Uganda,2,2,African Cup of Nations,El Mahalla El Kubra,Egypt,True
+1974-03-05 00:00:00,Congo,DR Congo,2,1,African Cup of Nations,Alexandria,Egypt,True
+1974-03-05 00:00:00,Guinea,Mauritius,2,1,African Cup of Nations,Damanhur,Egypt,True
+1974-03-06 00:00:00,Egypt,Ivory Coast,2,0,African Cup of Nations,Cairo,Egypt,False
+1974-03-06 00:00:00,Saudi Arabia,Morocco,0,0,Friendly,Riyadh,Saudi Arabia,False
+1974-03-06 00:00:00,Togo,Denmark,0,2,Friendly,Lom√©,Togo,False
+1974-03-06 00:00:00,Uganda,Zambia,0,1,African Cup of Nations,El Mahalla El Kubra,Egypt,True
+1974-03-07 00:00:00,Congo,Guinea,1,1,African Cup of Nations,Alexandria,Egypt,True
+1974-03-07 00:00:00,Mauritius,DR Congo,1,4,African Cup of Nations,Damanhur,Egypt,True
+1974-03-09 00:00:00,Congo,Zambia,2,4,African Cup of Nations,Alexandria,Egypt,True
+1974-03-09 00:00:00,Egypt,DR Congo,2,3,African Cup of Nations,Cairo,Egypt,False
+1974-03-10 00:00:00,Benin,Denmark,2,0,Friendly,Cotonou,Dahomey,False
+1974-03-11 00:00:00,Egypt,Congo,4,0,African Cup of Nations,Cairo,Egypt,False
+1974-03-12 00:00:00,DR Congo,Zambia,2,2,African Cup of Nations,Cairo,Egypt,True
+1974-03-13 00:00:00,German DR,Belgium,1,0,Friendly,Berlin,German DR,False
+1974-03-13 00:00:00,R√©union,Seychelles,2,0,Friendly,Saint-Pierre,R√©union,False
+1974-03-14 00:00:00,DR Congo,Zambia,2,0,African Cup of Nations,Cairo,Egypt,True
+1974-03-14 00:00:00,Puerto Rico,Panama,0,1,Friendly,San Juan,Puerto Rico,False
+1974-03-15 00:00:00,Kuwait,United Arab Emirates,2,0,Gulf Cup,Kuwait City,Kuwait,False
+1974-03-16 00:00:00,Bahrain,Oman,4,0,Gulf Cup,Kuwait City,Kuwait,True
+1974-03-16 00:00:00,Qatar,Saudi Arabia,0,2,Gulf Cup,Kuwait City,Kuwait,True
+1974-03-18 00:00:00,Bahrain,United Arab Emirates,0,4,Gulf Cup,Kuwait City,Kuwait,True
+1974-03-19 00:00:00,Kuwait,Oman,5,0,Gulf Cup,Kuwait City,Kuwait,False
+1974-03-21 00:00:00,Bahrain,Saudi Arabia,1,4,Gulf Cup,Kuwait City,Kuwait,True
+1974-03-22 00:00:00,Oman,Qatar,0,4,Gulf Cup,Kuwait City,Kuwait,True
+1974-03-23 00:00:00,France,Romania,1,0,Friendly,Paris,France,False
+1974-03-23 00:00:00,Haiti,Uruguay,0,1,Friendly,Port-au-Prince,Haiti,False
+1974-03-23 00:00:00,Saudi Arabia,United Arab Emirates,2,0,Gulf Cup,Kuwait City,Kuwait,True
+1974-03-24 00:00:00,Kuwait,Qatar,1,0,Gulf Cup,Kuwait City,Kuwait,False
+1974-03-25 00:00:00,Haiti,Uruguay,0,0,Friendly,Port-au-Prince,Haiti,False
+1974-03-26 00:00:00,Kuwait,United Arab Emirates,6,0,Gulf Cup,Kuwait City,Kuwait,False
+1974-03-26 00:00:00,Qatar,Saudi Arabia,1,3,Gulf Cup,Kuwait City,Kuwait,True
+1974-03-27 00:00:00,German DR,Czechoslovakia,1,0,Friendly,Dresden,German DR,False
+1974-03-27 00:00:00,Germany,Scotland,2,1,Friendly,Frankfurt am Main,Germany,False
+1974-03-27 00:00:00,Netherlands,Austria,1,1,Friendly,Rotterdam,Netherlands,False
+1974-03-28 00:00:00,Jamaica,Uruguay,0,3,Friendly,Kingston,Jamaica,False
+1974-03-28 00:00:00,Qatar,United Arab Emirates,1,1,Gulf Cup,Kuwait City,Kuwait,True
+1974-03-29 00:00:00,Kuwait,Saudi Arabia,4,0,Gulf Cup,Kuwait City,Kuwait,False
+1974-03-31 00:00:00,Brazil,Mexico,1,1,Friendly,Rio de Janeiro,Brazil,False
+1974-03-31 00:00:00,Hungary,Bulgaria,3,1,Friendly,Zalaegerszeg,Hungary,False
+1974-04-03 00:00:00,Portugal,England,0,0,Friendly,Lisbon,Portugal,False
+1974-04-07 00:00:00,Brazil,Czechoslovakia,1,0,Friendly,Rio de Janeiro,Brazil,False
+1974-04-07 00:00:00,Morocco,Algeria,2,0,Friendly,Casablanca,Morocco,False
+1974-04-12 00:00:00,Bermuda,Canada,0,0,Friendly,Hamilton,Bermuda,False
+1974-04-13 00:00:00,Bulgaria,Czechoslovakia,0,1,Friendly,Plovdiv,Bulgaria,False
+1974-04-13 00:00:00,Haiti,Poland,2,1,Friendly,Port-au-Prince,Haiti,False
+1974-04-14 00:00:00,Brazil,Bulgaria,1,0,Friendly,Rio de Janeiro,Brazil,False
+1974-04-15 00:00:00,Haiti,Poland,1,3,Friendly,Port-au-Prince,Haiti,False
+1974-04-17 00:00:00,Belgium,Poland,1,1,Friendly,Li√®ge,Belgium,False
+1974-04-17 00:00:00,Brazil,Romania,2,0,Friendly,S√£o Paulo,Brazil,False
+1974-04-17 00:00:00,Germany,Hungary,5,0,Friendly,Dortmund,Germany,False
+1974-04-17 00:00:00,Yugoslavia,Russia,0,1,Friendly,Zenica,Yugoslavia,False
+1974-04-19 00:00:00,Indonesia,Uruguay,2,1,Friendly,Jakarta,Indonesia,False
+1974-04-21 00:00:00,Brazil,Haiti,4,0,Friendly,Bras√≠lia,Brazil,False
+1974-04-21 00:00:00,Indonesia,Uruguay,2,3,Friendly,Jakarta,Indonesia,False
+1974-04-22 00:00:00,Argentina,Romania,2,1,Friendly,Buenos Aires,Argentina,False
+1974-04-24 00:00:00,Haiti,Chile,0,1,Friendly,Port-au-Prince,Haiti,False
+1974-04-26 00:00:00,Haiti,Chile,0,0,Friendly,Port-au-Prince,Haiti,False
+1974-04-27 00:00:00,Czechoslovakia,France,3,3,Friendly,Prague,Czechoslovakia,False
+1974-04-28 00:00:00,Brazil,Greece,0,0,Friendly,Rio de Janeiro,Brazil,False
+1974-05-01 00:00:00,Brazil,Austria,0,0,Friendly,S√£o Paulo,Brazil,False
+1974-05-01 00:00:00,Germany,Sweden,2,0,Friendly,Hamburg,Germany,False
+1974-05-01 00:00:00,Switzerland,Belgium,0,1,Friendly,Geneva,Switzerland,False
+1974-05-02 00:00:00,Yemen DPR,Iraq,2,0,Friendly,Aden,Yemen DPR,False
+1974-05-05 00:00:00,Brazil,Republic of Ireland,2,1,Friendly,Rio de Janeiro,Brazil,False
+1974-05-05 00:00:00,China PR,Sierra Leone,4,1,Friendly,Beijing,China PR,False
+1974-05-08 00:00:00,Bulgaria,Turkey,5,1,Balkan Cup,Sofia,Bulgaria,False
+1974-05-08 00:00:00,Uruguay,Republic of Ireland,2,0,Friendly,Montevideo,Uruguay,False
+1974-05-11 00:00:00,Scotland,Northern Ireland,0,1,British Championship,Glasgow,Scotland,False
+1974-05-11 00:00:00,Wales,England,0,2,British Championship,Cardiff,Wales,False
+1974-05-12 00:00:00,Brazil,Paraguay,2,0,Friendly,Rio de Janeiro,Brazil,False
+1974-05-12 00:00:00,Chile,Republic of Ireland,1,2,Friendly,Santiago,Chile,False
+1974-05-13 00:00:00,South Korea,Cambodia,0,1,Korea Cup,Seoul,South Korea,False
+1974-05-14 00:00:00,Scotland,Wales,2,0,British Championship,Glasgow,Scotland,False
+1974-05-15 00:00:00,England,Northern Ireland,1,0,British Championship,London,England,False
+1974-05-15 00:00:00,Poland,Greece,2,0,Friendly,Warsaw,Poland,False
+1974-05-16 00:00:00,Myanmar,Thailand,2,1,Korea Cup,Seoul,South Korea,True
+1974-05-18 00:00:00,France,Argentina,0,1,Friendly,Paris,France,False
+1974-05-18 00:00:00,South Korea,Myanmar,3,0,Korea Cup,Seoul,South Korea,False
+1974-05-18 00:00:00,Scotland,England,2,0,British Championship,Glasgow,Scotland,False
+1974-05-18 00:00:00,Wales,Northern Ireland,1,0,British Championship,Wrexham,Wales,False
+1974-05-20 00:00:00,Myanmar,Cambodia,6,0,Korea Cup,Seoul,South Korea,True
+1974-05-20 00:00:00,Russia,Czechoslovakia,0,1,Friendly,Odessa,Soviet Union,False
+1974-05-21 00:00:00,Indonesia,Australia,1,2,Friendly,Jakarta,Indonesia,False
+1974-05-22 00:00:00,England,Argentina,2,2,Friendly,London,England,False
+1974-05-23 00:00:00,German DR,Norway,1,0,Friendly,Rostock,German DR,False
+1974-05-25 00:00:00,Bulgaria,North Korea,6,1,Friendly,Sofia,Bulgaria,False
+1974-05-26 00:00:00,Netherlands,Argentina,4,1,Friendly,Amsterdam,Netherlands,False
+1974-05-28 00:00:00,Israel,Australia,2,1,Friendly,Jaffa,Israel,False
+1974-05-29 00:00:00,German DR,England,1,1,Friendly,Leipzig,German DR,False
+1974-05-29 00:00:00,Hungary,Yugoslavia,3,2,Friendly,Sz√©kesfeh√©rv√°r,Hungary,False
+1974-05-29 00:00:00,Romania,Greece,3,1,Balkan Cup,Bucharest,Romania,False
+1974-06-01 00:00:00,Belgium,Scotland,2,1,Friendly,Bruges,Belgium,False
+1974-06-01 00:00:00,Bulgaria,England,0,1,Friendly,Sofia,Bulgaria,False
+1974-06-01 00:00:00,Indonesia,Myanmar,2,4,Indonesia Tournament,Jakarta,Indonesia,False
+1974-06-02 00:00:00,Tunisia,Iraq,2,1,Friendly,Tunis,Tunisia,False
+1974-06-03 00:00:00,Myanmar,Malaysia,3,0,Indonesia Tournament,Jakarta,Indonesia,True
+1974-06-03 00:00:00,Denmark,Sweden,0,2,Nordic Championship,Copenhagen,Denmark,False
+1974-06-05 00:00:00,Netherlands,Romania,0,0,Friendly,Rotterdam,Netherlands,False
+1974-06-05 00:00:00,Yugoslavia,England,2,2,Friendly,Belgrade,Yugoslavia,False
+1974-06-06 00:00:00,Finland,Denmark,1,1,Nordic Championship,Oulu,Finland,False
+1974-06-06 00:00:00,Norway,Scotland,1,2,Friendly,Oslo,Norway,False
+1974-06-07 00:00:00,Indonesia,Malaysia,4,3,Indonesia Tournament,Jakarta,Indonesia,False
+1974-06-07 00:00:00,Libya,Iraq,1,0,Friendly,Tripoli,Libya,False
+1974-06-08 00:00:00,Austria,Italy,0,0,Friendly,Vienna,Austria,False
+1974-06-09 00:00:00,South Korea,Malaysia,0,0,Indonesia Tournament,Jakarta,Indonesia,True
+1974-06-09 00:00:00,Sweden,Switzerland,0,0,Friendly,Malm√∂,Sweden,False
+1974-06-13 00:00:00,Brazil,Yugoslavia,0,0,FIFA World Cup,Frankfurt am Main,Germany,True
+1974-06-14 00:00:00,DR Congo,Scotland,0,2,FIFA World Cup,Dortmund,Germany,True
+1974-06-14 00:00:00,German DR,Australia,2,0,FIFA World Cup,Hamburg,Germany,True
+1974-06-14 00:00:00,Germany,Chile,1,0,FIFA World Cup,Berlin,Germany,False
+1974-06-15 00:00:00,Italy,Haiti,3,1,FIFA World Cup,Munich,Germany,True
+1974-06-15 00:00:00,Poland,Argentina,3,2,FIFA World Cup,Stuttgart,Germany,True
+1974-06-15 00:00:00,Sweden,Bulgaria,0,0,FIFA World Cup,D√ºsseldorf,Germany,True
+1974-06-15 00:00:00,Uruguay,Netherlands,0,2,FIFA World Cup,Hanover,Germany,True
+1974-06-18 00:00:00,Chile,German DR,1,1,FIFA World Cup,Berlin,Germany,True
+1974-06-18 00:00:00,Germany,Australia,3,0,FIFA World Cup,Hamburg,Germany,False
+1974-06-18 00:00:00,Scotland,Brazil,0,0,FIFA World Cup,Frankfurt am Main,Germany,True
+1974-06-18 00:00:00,Yugoslavia,DR Congo,9,0,FIFA World Cup,Gelsenkirchen,Germany,True
+1974-06-19 00:00:00,Argentina,Italy,1,1,FIFA World Cup,Stuttgart,Germany,True
+1974-06-19 00:00:00,Bulgaria,Uruguay,1,1,FIFA World Cup,Hanover,Germany,True
+1974-06-19 00:00:00,Haiti,Poland,0,7,FIFA World Cup,Munich,Germany,True
+1974-06-19 00:00:00,Netherlands,Sweden,0,0,FIFA World Cup,Dortmund,Germany,True
+1974-06-22 00:00:00,Australia,Chile,0,0,FIFA World Cup,Berlin,Germany,True
+1974-06-22 00:00:00,DR Congo,Brazil,0,3,FIFA World Cup,Gelsenkirchen,Germany,True
+1974-06-22 00:00:00,Germany,German DR,0,1,FIFA World Cup,Hamburg,Germany,False
+1974-06-22 00:00:00,Scotland,Yugoslavia,1,1,FIFA World Cup,Frankfurt am Main,Germany,True
+1974-06-23 00:00:00,Argentina,Haiti,4,1,FIFA World Cup,Munich,Germany,True
+1974-06-23 00:00:00,Bulgaria,Netherlands,1,4,FIFA World Cup,Dortmund,Germany,True
+1974-06-23 00:00:00,Poland,Italy,2,1,FIFA World Cup,Stuttgart,Germany,True
+1974-06-23 00:00:00,Sweden,Uruguay,3,0,FIFA World Cup,D√ºsseldorf,Germany,True
+1974-06-26 00:00:00,Brazil,German DR,1,0,FIFA World Cup,Hanover,Germany,True
+1974-06-26 00:00:00,Germany,Yugoslavia,2,0,FIFA World Cup,D√ºsseldorf,Germany,False
+1974-06-26 00:00:00,Mali,Congo,1,1,Friendly,Bamako,Mali,False
+1974-06-26 00:00:00,Netherlands,Argentina,4,0,FIFA World Cup,Gelsenkirchen,Germany,True
+1974-06-26 00:00:00,Sweden,Poland,0,1,FIFA World Cup,Stuttgart,Germany,True
+1974-06-30 00:00:00,Argentina,Brazil,1,2,FIFA World Cup,Hanover,Germany,True
+1974-06-30 00:00:00,German DR,Netherlands,0,2,FIFA World Cup,Gelsenkirchen,Germany,True
+1974-06-30 00:00:00,Germany,Sweden,4,2,FIFA World Cup,D√ºsseldorf,Germany,False
+1974-06-30 00:00:00,Poland,Yugoslavia,2,1,FIFA World Cup,Frankfurt am Main,Germany,True
+1974-07-03 00:00:00,Argentina,German DR,1,1,FIFA World Cup,Gelsenkirchen,Germany,True
+1974-07-03 00:00:00,Faroe Islands,Iceland,2,3,Friendly,T√≥rshavn,Faroe Islands,False
+1974-07-03 00:00:00,Germany,Poland,1,0,FIFA World Cup,Frankfurt am Main,Germany,False
+1974-07-03 00:00:00,Netherlands,Brazil,2,0,FIFA World Cup,Dortmund,Germany,True
+1974-07-03 00:00:00,Sweden,Yugoslavia,2,1,FIFA World Cup,D√ºsseldorf,Germany,True
+1974-07-04 00:00:00,China PR,Togo,4,2,Friendly,Beijing,China PR,False
+1974-07-06 00:00:00,Brazil,Poland,0,1,FIFA World Cup,Munich,Germany,True
+1974-07-06 00:00:00,Malawi,Ivory Coast,5,1,Friendly,Lilongwe,Malawi,False
+1974-07-07 00:00:00,Germany,Netherlands,2,1,FIFA World Cup,Munich,Germany,False
+1974-07-07 00:00:00,Malawi,Tanzania,1,0,Friendly,Lilongwe,Malawi,False
+1974-07-08 00:00:00,Malawi,Zambia,0,1,Friendly,Lilongwe,Malawi,False
+1974-07-10 00:00:00,China PR,Yemen DPR,6,5,Friendly,Beijing,China PR,False
+1974-07-14 00:00:00,Nigeria,Ivory Coast,2,0,Friendly,Lagos,Nigeria,False
+1974-07-22 00:00:00,Silesia,Tanzania,7,2,Friendly,Chorz√≥w,Poland,False
+1974-07-24 00:00:00,Hong Kong,Indonesia,2,2,Merdeka Tournament,Ipoh,Malaysia,True
+1974-07-24 00:00:00,India,Thailand,4,2,Merdeka Tournament,Ipoh,Malaysia,True
+1974-07-25 00:00:00,Malaysia,India,4,1,Merdeka Tournament,Ipoh,Malaysia,False
+1974-07-26 00:00:00,Indonesia,Thailand,1,2,Merdeka Tournament,Ipoh,Malaysia,True
+1974-07-28 00:00:00,Indonesia,Singapore,5,0,Merdeka Tournament,Ipoh,Malaysia,True
+1974-07-29 00:00:00,Hong Kong,India,2,2,Merdeka Tournament,Ipoh,Malaysia,True
+1974-07-30 00:00:00,Singapore,Thailand,1,1,Merdeka Tournament,Ipoh,Malaysia,True
+1974-08-01 00:00:00,India,Indonesia,0,0,Merdeka Tournament,Ipoh,Malaysia,True
+1974-08-01 00:00:00,Malaysia,Thailand,3,2,Merdeka Tournament,Ipoh,Malaysia,False
+1974-08-04 00:00:00,Hong Kong,Thailand,1,0,Merdeka Tournament,Ipoh,Malaysia,True
+1974-08-07 00:00:00,Singapore,Hong Kong,0,1,Friendly,Kallang,Singapore,False
+1974-08-08 00:00:00,Sweden,Norway,2,1,Nordic Championship,Gothenburg,Sweden,False
+1974-08-10 00:00:00,Somalia,Burundi,0,2,African Cup of Nations qualification,Mogadishu,Somalia,False
+1974-08-11 00:00:00,China PR,Senegal,5,2,Friendly,Beijing,China PR,False
+1974-08-11 00:00:00,Nigeria,Ghana,1,1,Friendly,Lagos,Nigeria,False
+1974-08-14 00:00:00,Iraq,Bahrain,4,0,Friendly,Baghdad,Iraq,False
+1974-08-15 00:00:00,Norway,Finland,1,2,Nordic Championship,Oslo,Norway,False
+1974-08-17 00:00:00,Nigeria,Ghana,0,1,Friendly,Lagos,Nigeria,False
+1974-08-19 00:00:00,Iceland,Finland,2,2,Friendly,Reykjav√≠k,Iceland,False
+1974-08-24 00:00:00,Burundi,Somalia,0,1,African Cup of Nations qualification,Bujumbura,Burundi,False
+1974-08-24 00:00:00,Malta,Libya,0,1,Friendly,G≈ºira,Malta,False
+1974-08-30 00:00:00,Haiti,Jamaica,0,1,Friendly,New York,United States,True
+1974-08-31 00:00:00,Jamaica,Trinidad and Tobago,2,1,Friendly,New York,United States,True
+1974-09-01 00:00:00,Finland,Poland,1,2,UEFA Euro qualification,Helsinki,Finland,False
+1974-09-03 00:00:00,Denmark,Indonesia,9,0,Friendly,Copenhagen,Denmark,False
+1974-09-04 00:00:00,Austria,Wales,2,1,UEFA Euro qualification,Vienna,Austria,False
+1974-09-04 00:00:00,Libya,Malta,0,0,Friendly,Tripoli,Libya,False
+1974-09-04 00:00:00,Norway,Northern Ireland,2,1,UEFA Euro qualification,Oslo,Norway,False
+1974-09-04 00:00:00,Poland,German DR,1,3,Friendly,Warsaw,Poland,False
+1974-09-04 00:00:00,Sweden,Netherlands,1,5,Friendly,Solna,Sweden,False
+1974-09-04 00:00:00,Switzerland,Germany,1,2,Friendly,Basel,Switzerland,False
+1974-09-05 00:00:00,Mexico,United States,3,1,Friendly,Monterrey,Mexico,False
+1974-09-06 00:00:00,Libya,DR Congo,0,2,Friendly,Tripoli,Libya,False
+1974-09-07 00:00:00,Poland,France,0,2,Friendly,Wroc≈Çaw,Poland,False
+1974-09-08 00:00:00,Iceland,Belgium,0,2,UEFA Euro qualification,Reykjav√≠k,Iceland,False
+1974-09-08 00:00:00,United States,Mexico,0,1,Friendly,Dallas,United States,False
+1974-09-10 00:00:00,Libya,Somalia,3,2,Friendly,Tripoli,Libya,False
+1974-09-11 00:00:00,Ivory Coast,Ghana,1,1,Friendly,Abidjan,Ivory Coast,False
+1974-09-13 00:00:00,Libya,Somalia,3,2,Friendly,Tripoli,Libya,False
+1974-09-25 00:00:00,Bulgaria,Romania,0,0,Friendly,Sofia,Bulgaria,False
+1974-09-25 00:00:00,Czechoslovakia,German DR,3,1,Friendly,Prague,Czechoslovakia,False
+1974-09-25 00:00:00,Denmark,Spain,1,2,UEFA Euro qualification,Copenhagen,Denmark,False
+1974-09-25 00:00:00,Finland,Netherlands,1,3,UEFA Euro qualification,Helsinki,Finland,False
+1974-09-26 00:00:00,Syria,Palestine,2,0,Kuneitra Cup,Damascus,Syria,False
+1974-09-27 00:00:00,Algeria,Lebanon,4,1,Kuneitra Cup,Damascus,Syria,True
+1974-09-28 00:00:00,Austria,Hungary,1,0,Friendly,Vienna,Austria,False
+1974-09-28 00:00:00,Japan,South Korea,4,1,Friendly,Tokyo,Japan,False
+1974-09-28 00:00:00,Yemen,Sudan,0,6,Kuneitra Cup,Damascus,Syria,True
+1974-09-28 00:00:00,Yugoslavia,Italy,1,0,Friendly,Zagreb,Yugoslavia,False
+1974-09-29 00:00:00,Algeria,Jordan,6,0,Kuneitra Cup,Damascus,Syria,True
+1974-09-30 00:00:00,Libya,Yemen,9,1,Kuneitra Cup,Damascus,Syria,True
+1974-09-30 00:00:00,Palestine,Sudan,1,3,Kuneitra Cup,Damascus,Syria,True
+1974-10-01 00:00:00,Morocco,Tunisia,3,1,Kuneitra Cup,Damascus,Syria,True
+1974-10-02 00:00:00,Libya,Palestine,0,0,Kuneitra Cup,Damascus,Syria,True
+1974-10-03 00:00:00,Algeria,Tunisia,0,1,Kuneitra Cup,Damascus,Syria,True
+1974-10-04 00:00:00,Libya,Sudan,1,3,Kuneitra Cup,Damascus,Syria,True
+1974-10-04 00:00:00,Syria,Yemen,6,0,Kuneitra Cup,Damascus,Syria,False
+1974-10-06 00:00:00,Palestine,Yemen,7,1,Kuneitra Cup,Damascus,Syria,True
+1974-10-07 00:00:00,Morocco,Sudan,2,0,Kuneitra Cup,Damascus,Syria,True
+1974-10-09 00:00:00,Denmark,Iceland,2,1,Friendly,Aalborg,Denmark,False
+1974-10-09 00:00:00,German DR,Canada,2,0,Friendly,Frankfurt an der Oder,German DR,False
+1974-10-09 00:00:00,Netherlands,Switzerland,1,0,Friendly,Rotterdam,Netherlands,False
+1974-10-09 00:00:00,Poland,Finland,3,0,UEFA Euro qualification,Pozna≈Ñ,Poland,False
+1974-10-09 00:00:00,Sudan,Tunisia,1,3,Kuneitra Cup,Damascus,Syria,True
+1974-10-09 00:00:00,Syria,Morocco,1,1,Kuneitra Cup,Damascus,Syria,False
+1974-10-12 00:00:00,Argentina,Spain,1,1,Friendly,Buenos Aires,Argentina,False
+1974-10-12 00:00:00,Belgium,France,2,1,UEFA Euro qualification,Brussels,Belgium,False
+1974-10-12 00:00:00,German DR,Iceland,1,1,UEFA Euro qualification,Magdeburg,German DR,False
+1974-10-13 00:00:00,Bulgaria,Greece,3,3,UEFA Euro qualification,Sofia,Bulgaria,False
+1974-10-13 00:00:00,Czechoslovakia,Sweden,4,0,Friendly,Bratislava,Czechoslovakia,False
+1974-10-13 00:00:00,Denmark,Romania,0,0,UEFA Euro qualification,Copenhagen,Denmark,False
+1974-10-13 00:00:00,Luxembourg,Hungary,2,4,UEFA Euro qualification,Luxembourg,Luxembourg,False
+1974-10-30 00:00:00,England,Czechoslovakia,3,0,UEFA Euro qualification,London,England,False
+1974-10-30 00:00:00,Republic of Ireland,Russia,3,0,UEFA Euro qualification,Dublin,Republic of Ireland,False
+1974-10-30 00:00:00,Scotland,German DR,3,0,Friendly,Glasgow,Scotland,False
+1974-10-30 00:00:00,Sweden,Northern Ireland,0,2,UEFA Euro qualification,Solna,Sweden,False
+1974-10-30 00:00:00,Wales,Hungary,2,0,UEFA Euro qualification,Cardiff,Wales,False
+1974-10-30 00:00:00,Yugoslavia,Norway,3,1,UEFA Euro qualification,Belgrade,Yugoslavia,False
+1974-10-30 00:00:00,Zanzibar,Somalia,2,1,CECAFA Cup,Zanzibar,Tanzania,False
+1974-10-31 00:00:00,Algeria,Morocco,0,0,Friendly,Algiers,Algeria,False
+1974-10-31 00:00:00,Poland,Canada,2,0,Friendly,Warsaw,Poland,False
+1974-11-01 00:00:00,Vietnam Republic,Laos,1,0,Vietnam Independence Cup,Saigon,Vietnam Republic,False
+1974-11-02 00:00:00,Laos,Malaysia,0,0,Vietnam Independence Cup,Saigon,Vietnam Republic,True
+1974-11-02 00:00:00,Zanzibar,Uganda,1,2,CECAFA Cup,Zanzibar,Tanzania,False
+1974-11-03 00:00:00,Cambodia,Thailand,2,2,Vietnam Independence Cup,Saigon,Vietnam Republic,True
+1974-11-03 00:00:00,Kenya,Zambia,2,3,CECAFA Cup,Zanzibar,Tanzania,True
+1974-11-03 00:00:00,Malaysia,Taiwan,0,0,Vietnam Independence Cup,Saigon,Vietnam Republic,True
+1974-11-03 00:00:00,Singapore,China PR,1,1,Friendly,Kallang,Singapore,False
+1974-11-04 00:00:00,Somalia,Uganda,1,1,CECAFA Cup,Zanzibar,Tanzania,True
+1974-11-05 00:00:00,Laos,Taiwan,1,2,Vietnam Independence Cup,Saigon,Vietnam Republic,True
+1974-11-05 00:00:00,Vietnam Republic,Malaysia,1,0,Vietnam Independence Cup,Saigon,Vietnam Republic,False
+1974-11-06 00:00:00,Chile,Argentina,0,2,Copa Carlos Dittborn,Santiago,Chile,False
+1974-11-07 00:00:00,Tanzania,Uganda,1,1,CECAFA Cup,Zanzibar,Tanzania,False
+1974-11-07 00:00:00,Vietnam Republic,Taiwan,1,1,Vietnam Independence Cup,Saigon,Vietnam Republic,False
+1974-11-09 00:00:00,Vietnam Republic,Thailand,3,2,Vietnam Independence Cup,Saigon,Vietnam Republic,False
+1974-11-10 00:00:00,Bulgaria,Hungary,0,0,Friendly,Varna,Bulgaria,False
+1974-11-10 00:00:00,Togo,Liberia,1,0,African Cup of Nations qualification,Lom√©,Togo,False
+1974-11-10 00:00:00,Tunisia,Libya,1,0,African Cup of Nations qualification,Tunis,Tunisia,False
+1974-11-13 00:00:00,Czechoslovakia,Poland,2,2,Friendly,Prague,Czechoslovakia,False
+1974-11-13 00:00:00,Switzerland,Portugal,3,0,Friendly,Berne,Switzerland,False
+1974-11-13 00:00:00,Turkey,Austria,0,1,Friendly,Istanbul,Turkey,False
+1974-11-15 00:00:00,Greece,Cyprus,3,1,Friendly,Piraeus,Greece,False
+1974-11-16 00:00:00,France,German DR,2,2,UEFA Euro qualification,Paris,France,False
+1974-11-20 00:00:00,Argentina,Chile,1,1,Copa Carlos Dittborn,Buenos Aires,Argentina,False
+1974-11-20 00:00:00,England,Portugal,0,0,UEFA Euro qualification,London,England,False
+1974-11-20 00:00:00,Greece,Germany,2,2,UEFA Euro qualification,Piraeus,Greece,False
+1974-11-20 00:00:00,Netherlands,Italy,3,1,UEFA Euro qualification,Rotterdam,Netherlands,False
+1974-11-20 00:00:00,Scotland,Spain,1,2,UEFA Euro qualification,Glasgow,Scotland,False
+1974-11-20 00:00:00,Turkey,Republic of Ireland,1,1,UEFA Euro qualification,ƒ∞zmir,Turkey,False
+1974-11-20 00:00:00,Wales,Luxembourg,5,0,UEFA Euro qualification,Swansea,Wales,False
+1974-11-22 00:00:00,Liberia,Togo,0,2,African Cup of Nations qualification,Monrovia,Liberia,False
+1974-11-22 00:00:00,Libya,Tunisia,1,0,African Cup of Nations qualification,Tripoli,Libya,False
+1974-11-23 00:00:00,Suriname,Trinidad and Tobago,0,0,Friendly,Paramaribo,Suriname,False
+1974-11-24 00:00:00,Morocco,Gambia,3,0,African Cup of Nations qualification,Rabat,Morocco,False
+1974-11-25 00:00:00,Suriname,Trinidad and Tobago,2,1,Friendly,Paramaribo,Suriname,False
+1974-12-01 00:00:00,Grenada,Saint Vincent and the Grenadines,1,0,Windward Islands Tournament,Castries,Saint Lucia,True
+1974-12-01 00:00:00,Turkey,Switzerland,2,1,UEFA Euro qualification,ƒ∞zmir,Turkey,False
+1974-12-02 00:00:00,Saint Lucia,Dominica,0,3,Windward Islands Tournament,Castries,Saint Lucia,False
+1974-12-04 00:00:00,Dominica,Grenada,0,0,Windward Islands Tournament,Castries,Saint Lucia,True
+1974-12-04 00:00:00,Hungary,Switzerland,1,0,Friendly,Szolnok,Hungary,False
+1974-12-04 00:00:00,Israel,Romania,0,1,Friendly,Jaffa,Israel,False
+1974-12-05 00:00:00,Saint Lucia,Saint Vincent and the Grenadines,1,2,Windward Islands Tournament,Castries,Saint Lucia,False
+1974-12-07 00:00:00,Dominica,Saint Vincent and the Grenadines,1,2,Windward Islands Tournament,Castries,Saint Lucia,True
+1974-12-07 00:00:00,Gambia,Morocco,0,3,African Cup of Nations qualification,Banjul,Gambia,False
+1974-12-07 00:00:00,German DR,Belgium,0,0,UEFA Euro qualification,Leipzig,German DR,False
+1974-12-08 00:00:00,Saint Lucia,Grenada,1,2,Windward Islands Tournament,Castries,Saint Lucia,False
+1974-12-10 00:00:00,Laos,Singapore,0,2,King's Cup,Bangkok,Thailand,True
+1974-12-10 00:00:00,Thailand,Malaysia,0,2,King's Cup,Bangkok,Thailand,False
+1974-12-11 00:00:00,Cambodia,Vietnam Republic,3,2,King's Cup,Bangkok,Thailand,True
+1974-12-12 00:00:00,Kenya,Seychelles,2,3,Friendly,Nairobi,Kenya,False
+1974-12-12 00:00:00,Malaysia,Singapore,0,0,King's Cup,Bangkok,Thailand,True
+1974-12-12 00:00:00,Thailand,Laos,6,1,King's Cup,Bangkok,Thailand,False
+1974-12-13 00:00:00,Cambodia,South Korea,1,2,King's Cup,Bangkok,Thailand,True
+1974-12-14 00:00:00,Laos,Malaysia,2,2,King's Cup,Bangkok,Thailand,True
+1974-12-14 00:00:00,Thailand,Singapore,2,1,King's Cup,Bangkok,Thailand,False
+1974-12-15 00:00:00,Ghana,Guinea,1,1,Friendly,Accra,Ghana,False
+1974-12-15 00:00:00,South Korea,Vietnam Republic,2,2,King's Cup,Bangkok,Thailand,True
+1974-12-16 00:00:00,Cambodia,Vietnam Republic,2,0,King's Cup,Bangkok,Thailand,True
+1974-12-16 00:00:00,Thailand,Malaysia,4,1,King's Cup,Bangkok,Thailand,False
+1974-12-18 00:00:00,Greece,Bulgaria,2,1,UEFA Euro qualification,Piraeus,Greece,False
+1974-12-18 00:00:00,South Korea,Malaysia,0,0,King's Cup,Bangkok,Thailand,True
+1974-12-18 00:00:00,Thailand,Cambodia,1,0,King's Cup,Bangkok,Thailand,False
+1974-12-20 00:00:00,Cambodia,Malaysia,0,3,King's Cup,Bangkok,Thailand,True
+1974-12-20 00:00:00,Iran,Czechoslovakia,0,1,Friendly,Tehran,Iran,False
+1974-12-20 00:00:00,Thailand,South Korea,1,3,King's Cup,Bangkok,Thailand,False
+1974-12-22 00:00:00,Chile,Paraguay,1,0,Friendly,Santiago,Chile,False
+1974-12-22 00:00:00,Malta,Germany,0,1,UEFA Euro qualification,G≈ºira,Malta,False
+1974-12-22 00:00:00,Suriname,Trinidad and Tobago,2,3,Friendly,Paramaribo,Suriname,False
+1974-12-25 00:00:00,Indonesia,South Korea,1,3,Friendly,So Kon Po,Hong Kong,True
+1974-12-26 00:00:00,Bermuda,Suriname,2,1,Friendly,Hamilton,Bermuda,False
+1974-12-29 00:00:00,Bermuda,Suriname,1,3,Friendly,Hamilton,Bermuda,False
+1974-12-29 00:00:00,Cameroon,Guinea,1,1,Friendly,Yaound√©,Cameroon,False
+1974-12-29 00:00:00,Italy,Bulgaria,0,0,Friendly,Genoa,Italy,False
+1974-12-29 00:00:00,Kuwait,Tunisia,2,0,Friendly,Kuwait City,Kuwait,False
+1974-12-29 00:00:00,Malawi,Tanzania,1,1,Friendly,Lilongwe,Malawi,False
+1974-12-31 00:00:00,Malawi,Tanzania,3,3,Friendly,Lilongwe,Malawi,False
+1975-01-01 00:00:00,Cameroon,Guinea,1,0,Friendly,Yaound√©,Cameroon,False
+1975-01-01 00:00:00,Iraq,Tunisia,0,0,Friendly,Baghdad,Iraq,False
+1975-01-03 00:00:00,Bermuda,Suriname,2,5,Friendly,Hamilton,Bermuda,False
+1975-01-05 00:00:00,Cuba,Canada,4,0,Friendly,Havana,Cuba,False
+1975-01-09 00:00:00,Iraq,Libya,3,1,Friendly,Baghdad,Iraq,False
+1975-01-14 00:00:00,Kuwait,Libya,1,0,Friendly,Kuwait City,Kuwait,False
+1975-01-19 00:00:00,Mali,Guinea,0,2,Friendly,Bamako,Mali,False
+1975-01-22 00:00:00,Nigeria,Cameroon,1,0,Friendly,Lagos,Nigeria,False
+1975-01-26 00:00:00,Guinea,Cameroon,3,0,Friendly,Conakry,Guinea,False
+1975-01-29 00:00:00,Malawi,Mauritius,1,0,Friendly,Zomba,Malawi,False
+1975-01-30 00:00:00,Liberia,Cameroon,2,0,Friendly,Monrovia,Liberia,False
+1975-01-31 00:00:00,Malawi,Mauritius,1,1,Friendly,Blantyre,Malawi,False
+1975-02-02 00:00:00,Jamaica,Haiti,1,0,Friendly,Kingston,Jamaica,False
+1975-02-02 00:00:00,Malawi,Mauritius,3,0,Friendly,Blantyre,Malawi,False
+1975-02-02 00:00:00,Mali,Cameroon,1,2,Friendly,Bamako,Mali,False
+1975-02-02 00:00:00,Senegal,Nigeria,0,1,Friendly,Dakar,Senegal,False
+1975-02-05 00:00:00,Jamaica,Haiti,0,1,Friendly,Kingston,Jamaica,False
+1975-02-05 00:00:00,Spain,Scotland,1,1,UEFA Euro qualification,Valencia,Spain,False
+1975-02-09 00:00:00,Liberia,Nigeria,0,1,Friendly,Monrovia,Liberia,False
+1975-02-16 00:00:00,Mali,Senegal,2,1,Friendly,Bamako,Mali,False
+1975-02-19 00:00:00,Italy,Norway,4,1,Friendly,Florence,Italy,False
+1975-02-22 00:00:00,Haiti,Jamaica,0,1,Friendly,Port-au-Prince,Haiti,False
+1975-02-22 00:00:00,Nigeria,Senegal,1,1,Friendly,Lagos,Nigeria,False
+1975-02-23 00:00:00,Burkina Faso,Niger,4,1,Friendly,Ouagadougou,Upper Volta,False
+1975-02-23 00:00:00,Malta,Greece,2,0,UEFA Euro qualification,G≈ºira,Malta,False
+1975-02-23 00:00:00,Tanzania,Malawi,3,1,Friendly,Dar es Salaam,Tanzania,False
+1975-02-25 00:00:00,Haiti,Jamaica,3,2,Friendly,Port-au-Prince,Haiti,False
+1975-02-25 00:00:00,Tanzania,Malawi,2,0,Friendly,Dar es Salaam,Tanzania,False
+1975-02-27 00:00:00,Zanzibar,Malawi,2,7,Friendly,Zanzibar,Zanzibar,False
+1975-03-02 00:00:00,Morocco,Tunisia,0,0,Friendly,Casablanca,Morocco,False
+1975-03-09 00:00:00,Brazil,Portugal,2,1,Friendly,Goi√¢nia,Brazil,False
+1975-03-12 00:00:00,England,Germany,2,0,Friendly,London,England,False
+1975-03-13 00:00:00,Guadeloupe,Puerto Rico,2,1,Friendly,Basse-Terre,Guadeloupe,False
+1975-03-15 00:00:00,Thailand,Indonesia,3,1,AFC Asian Cup qualification,Bangkok,Thailand,False
+1975-03-16 00:00:00,Luxembourg,Austria,1,2,UEFA Euro qualification,Luxembourg,Luxembourg,False
+1975-03-16 00:00:00,Malaysia,South Korea,2,1,AFC Asian Cup qualification,Bangkok,Thailand,True
+1975-03-17 00:00:00,Indonesia,Vietnam Republic,2,1,AFC Asian Cup qualification,Bangkok,Thailand,True
+1975-03-18 00:00:00,Thailand,Malaysia,0,1,AFC Asian Cup qualification,Bangkok,Thailand,False
+1975-03-19 00:00:00,South Korea,Vietnam Republic,1,0,AFC Asian Cup qualification,Bangkok,Thailand,True
+1975-03-19 00:00:00,Turkey,Romania,1,1,Friendly,Istanbul,Turkey,False
+1975-03-20 00:00:00,Malaysia,Indonesia,0,0,AFC Asian Cup qualification,Bangkok,Thailand,True
+1975-03-21 00:00:00,Thailand,Vietnam Republic,4,0,AFC Asian Cup qualification,Bangkok,Thailand,False
+1975-03-22 00:00:00,South Korea,Indonesia,1,0,AFC Asian Cup qualification,Bangkok,Thailand,True
+1975-03-23 00:00:00,Ghana,Burkina Faso,3,1,Friendly,Accra,Ghana,False
+1975-03-23 00:00:00,Malaysia,Vietnam Republic,3,0,AFC Asian Cup qualification,Bangkok,Thailand,True
+1975-03-24 00:00:00,Thailand,South Korea,1,0,AFC Asian Cup qualification,Bangkok,Thailand,False
+1975-03-26 00:00:00,France,Hungary,2,0,Friendly,Paris,France,False
+1975-03-26 00:00:00,German DR,Bulgaria,0,0,Friendly,Berlin,German DR,False
+1975-03-26 00:00:00,Poland,United States,7,0,Friendly,Pozna≈Ñ,Poland,False
+1975-03-30 00:00:00,Congo,Ivory Coast,1,0,African Cup of Nations qualification,Brazzaville,Congo,False
+1975-03-30 00:00:00,Guadeloupe,Suriname,4,2,Friendly,Basse-Terre,Guadeloupe,False
+1975-03-31 00:00:00,Barbados,Suriname,1,0,Friendly,Bridgetown,Barbados,False
+1975-03-31 00:00:00,Czechoslovakia,Romania,1,1,Friendly,Prague,Czechoslovakia,False
+1975-04-01 00:00:00,Cyprus,Greece,1,2,Friendly,Nicosia,Cyprus,False
+1975-04-02 00:00:00,Austria,Hungary,0,0,UEFA Euro qualification,Vienna,Austria,False
+1975-04-02 00:00:00,Iraq,Qatar,1,0,AFC Asian Cup qualification,Baghdad,Iraq,False
+1975-04-02 00:00:00,Italy,United States,10,0,Friendly,Rome,Italy,False
+1975-04-02 00:00:00,Russia,Turkey,3,0,UEFA Euro qualification,Kyiv,Soviet Union,False
+1975-04-02 00:00:00,Saudi Arabia,Afghanistan,2,0,AFC Asian Cup qualification,Baghdad,Iraq,True
+1975-04-04 00:00:00,Iraq,Afghanistan,4,0,AFC Asian Cup qualification,Baghdad,Iraq,False
+1975-04-04 00:00:00,Macau,Panama,2,1,Friendly,Macau,Macau,False
+1975-04-04 00:00:00,Saudi Arabia,Qatar,2,1,AFC Asian Cup qualification,Baghdad,Iraq,True
+1975-04-06 00:00:00,Algeria,Tunisia,1,2,African Cup of Nations qualification,Oran,Algeria,False
+1975-04-06 00:00:00,Iraq,Saudi Arabia,1,1,AFC Asian Cup qualification,Baghdad,Iraq,False
+1975-04-06 00:00:00,Qatar,Afghanistan,2,1,AFC Asian Cup qualification,Baghdad,Iraq,True
+1975-04-10 00:00:00,Iraq,Qatar,3,0,AFC Asian Cup qualification,Baghdad,Iraq,False
+1975-04-10 00:00:00,Saudi Arabia,Afghanistan,6,0,AFC Asian Cup qualification,Baghdad,Iraq,True
+1975-04-12 00:00:00,Iraq,Saudi Arabia,2,1,AFC Asian Cup qualification,Baghdad,Iraq,False
+1975-04-12 00:00:00,Qatar,Afghanistan,1,1,AFC Asian Cup qualification,Baghdad,Iraq,True
+1975-04-13 00:00:00,Ivory Coast,Congo,2,1,African Cup of Nations qualification,Abidjan,Ivory Coast,False
+1975-04-14 00:00:00,Iraq,Afghanistan,3,1,AFC Asian Cup qualification,Baghdad,Iraq,False
+1975-04-14 00:00:00,Saudi Arabia,Qatar,0,1,AFC Asian Cup qualification,Baghdad,Iraq,True
+1975-04-16 00:00:00,England,Cyprus,5,0,UEFA Euro qualification,London,England,False
+1975-04-16 00:00:00,Hungary,Wales,1,2,UEFA Euro qualification,Budapest,Hungary,False
+1975-04-16 00:00:00,Northern Ireland,Yugoslavia,1,0,UEFA Euro qualification,Belfast,Northern Ireland,False
+1975-04-16 00:00:00,Sweden,Scotland,1,1,Friendly,Gothenburg,Sweden,False
+1975-04-17 00:00:00,Spain,Romania,1,1,UEFA Euro qualification,Madrid,Spain,False
+1975-04-19 00:00:00,Italy,Poland,0,0,UEFA Euro qualification,Rome,Italy,False
+1975-04-20 00:00:00,Czechoslovakia,Cyprus,4,0,UEFA Euro qualification,Prague,Czechoslovakia,False
+1975-04-26 00:00:00,France,Portugal,0,2,Friendly,Colombes,France,False
+1975-04-26 00:00:00,Nigeria,Togo,1,0,Friendly,Dakar,Senegal,True
+1975-04-26 00:00:00,Senegal,Ivory Coast,1,0,Friendly,Dakar,Senegal,False
+1975-04-27 00:00:00,Bulgaria,Germany,1,1,UEFA Euro qualification,Sofia,Bulgaria,False
+1975-04-27 00:00:00,Ivory Coast,Togo,0,3,Friendly,Dakar,Senegal,True
+1975-04-27 00:00:00,Senegal,Nigeria,1,0,Friendly,Dakar,Senegal,False
+1975-04-30 00:00:00,Belgium,Netherlands,1,0,Friendly,Antwerp,Belgium,False
+1975-04-30 00:00:00,Czechoslovakia,Portugal,5,0,UEFA Euro qualification,Prague,Czechoslovakia,False
+1975-04-30 00:00:00,Switzerland,Turkey,1,1,UEFA Euro qualification,Basel,Switzerland,False
+1975-05-01 00:00:00,Luxembourg,Wales,1,3,UEFA Euro qualification,Luxembourg,Luxembourg,False
+1975-05-10 00:00:00,Republic of Ireland,Switzerland,2,1,UEFA Euro qualification,Dublin,Republic of Ireland,False
+1975-05-10 00:00:00,Martinique,Guadeloupe,8,2,Friendly,Fort-de-France,Martinique,False
+1975-05-11 00:00:00,Cyprus,England,0,1,UEFA Euro qualification,Limassol,Cyprus,False
+1975-05-11 00:00:00,Romania,Denmark,6,1,UEFA Euro qualification,Bucharest,Romania,False
+1975-05-13 00:00:00,Scotland,Portugal,1,0,Friendly,Glasgow,Scotland,False
+1975-05-15 00:00:00,Myanmar,Thailand,4,1,Korea Cup,Seoul,South Korea,True
+1975-05-15 00:00:00,Finland,Norway,3,5,Nordic Championship,Helsinki,Finland,False
+1975-05-16 00:00:00,South Korea,Lebanon,1,0,Korea Cup,Seoul,South Korea,False
+1975-05-17 00:00:00,Germany,Netherlands,1,1,Friendly,Frankfurt am Main,Germany,False
+1975-05-17 00:00:00,Northern Ireland,England,0,0,British Championship,Belfast,Northern Ireland,False
+1975-05-17 00:00:00,Wales,Scotland,2,2,British Championship,Cardiff,Wales,False
+1975-05-18 00:00:00,Russia,Republic of Ireland,2,1,UEFA Euro qualification,Kyiv,Soviet Union,False
+1975-05-19 00:00:00,Sweden,Algeria,4,0,Friendly,Halmstad,Sweden,False
+1975-05-20 00:00:00,Scotland,Northern Ireland,3,0,British Championship,Glasgow,Scotland,False
+1975-05-21 00:00:00,England,Wales,2,2,British Championship,London,England,False
+1975-05-21 00:00:00,Switzerland,Republic of Ireland,1,0,UEFA Euro qualification,Berne,Switzerland,False
+1975-05-22 00:00:00,South Korea,Myanmar,1,0,Korea Cup,Seoul,South Korea,False
+1975-05-23 00:00:00,China PR,Equatorial Guinea,6,2,Friendly,Beijing,China PR,False
+1975-05-23 00:00:00,Northern Ireland,Wales,1,0,British Championship,Belfast,Northern Ireland,False
+1975-05-24 00:00:00,England,Scotland,5,1,British Championship,London,England,False
+1975-05-25 00:00:00,Iceland,France,0,0,UEFA Euro qualification,Reykjav√≠k,Iceland,False
+1975-05-28 00:00:00,German DR,Poland,1,2,Friendly,Halle,German DR,False
+1975-06-01 00:00:00,Romania,Scotland,1,1,UEFA Euro qualification,Bucharest,Romania,False
+1975-06-04 00:00:00,Greece,Malta,4,0,UEFA Euro qualification,Salonica,Greece,False
+1975-06-04 00:00:00,Sweden,Yugoslavia,1,2,UEFA Euro qualification,Solna,Sweden,False
+1975-06-04 00:00:00,Uruguay,Chile,1,0,Copa Juan Pinto Dur√°n,Montevideo,Uruguay,False
+1975-06-05 00:00:00,Finland,Italy,0,1,UEFA Euro qualification,Helsinki,Finland,False
+1975-06-05 00:00:00,Iceland,German DR,2,1,UEFA Euro qualification,Reykjav√≠k,Iceland,False
+1975-06-05 00:00:00,Kenya,Ethiopia,2,1,Friendly,Nairobi,Kenya,False
+1975-06-07 00:00:00,Austria,Czechoslovakia,0,0,Friendly,Vienna,Austria,False
+1975-06-08 00:00:00,Cyprus,Portugal,0,2,UEFA Euro qualification,Limassol,Cyprus,False
+1975-06-08 00:00:00,Guinea-Bissau,Gambia,1,0,Friendly,Bissau,Guinea-Bissau,False
+1975-06-08 00:00:00,Russia,Italy,1,0,Friendly,Moscow,Soviet Union,False
+1975-06-09 00:00:00,Norway,Yugoslavia,1,3,UEFA Euro qualification,Oslo,Norway,False
+1975-06-11 00:00:00,Bulgaria,Malta,5,0,UEFA Euro qualification,Sofia,Bulgaria,False
+1975-06-11 00:00:00,Kenya,Congo,2,1,Friendly,Nairobi,Kenya,False
+1975-06-12 00:00:00,Myanmar,South Korea,0,2,Indonesia Tournament,Jakarta,Indonesia,True
+1975-06-12 00:00:00,Indonesia,Thailand,5,0,Indonesia Tournament,Jakarta,Indonesia,False
+1975-06-12 00:00:00,Paraguay,Uruguay,0,1,Copa Artigas,Asunci√≥n,Paraguay,False
+1975-06-13 00:00:00,Malaysia,Thailand,1,0,Indonesia Tournament,Jakarta,Indonesia,True
+1975-06-13 00:00:00,Panama,Costa Rica,1,1,Friendly,Panama City,Panama,False
+1975-06-13 00:00:00,Uganda,Congo,0,1,Friendly,Kampala,Uganda,False
+1975-06-14 00:00:00,Hong Kong,Japan,0,0,AFC Asian Cup qualification,So Kon Po,Hong Kong,False
+1975-06-14 00:00:00,Indonesia,Malaysia,3,1,Indonesia Tournament,Jakarta,Indonesia,False
+1975-06-15 00:00:00,China PR,North Korea,1,0,AFC Asian Cup qualification,So Kon Po,Hong Kong,True
+1975-06-16 00:00:00,Indonesia,Myanmar,0,2,Indonesia Tournament,Jakarta,Indonesia,False
+1975-06-16 00:00:00,South Korea,Malaysia,1,1,Indonesia Tournament,Jakarta,Indonesia,True
+1975-06-17 00:00:00,North Korea,Japan,1,0,AFC Asian Cup qualification,So Kon Po,Hong Kong,True
+1975-06-18 00:00:00,Myanmar,Malaysia,2,0,Indonesia Tournament,Jakarta,Indonesia,True
+1975-06-18 00:00:00,Indonesia,South Korea,3,2,Indonesia Tournament,Jakarta,Indonesia,False
+1975-06-19 00:00:00,China PR,Brunei,10,1,AFC Asian Cup qualification,So Kon Po,Hong Kong,True
+1975-06-19 00:00:00,North Korea,Singapore,1,0,AFC Asian Cup qualification,So Kon Po,Hong Kong,True
+1975-06-19 00:00:00,Uruguay,Paraguay,0,1,Copa Artigas,Montevideo,Uruguay,False
+1975-06-21 00:00:00,Hong Kong,China PR,0,1,AFC Asian Cup qualification,So Kon Po,Hong Kong,False
+1975-06-22 00:00:00,Ecuador,Peru,6,0,Friendly,Quito,Ecuador,False
+1975-06-22 00:00:00,Tanzania,Zambia,1,1,Friendly,Maputo,Mozambique,True
+1975-06-23 00:00:00,China PR,Japan,2,1,AFC Asian Cup qualification,So Kon Po,Hong Kong,True
+1975-06-23 00:00:00,Iceland,Faroe Islands,6,0,Friendly,Reykjav√≠k,Iceland,False
+1975-06-24 00:00:00,Hong Kong,North Korea,3,3,AFC Asian Cup qualification,So Kon Po,Hong Kong,False
+1975-06-24 00:00:00,United States,Poland,0,4,Friendly,Seattle,United States,False
+1975-06-25 00:00:00,Chile,Uruguay,1,3,Copa Juan Pinto Dur√°n,Santiago,Chile,False
+1975-06-25 00:00:00,Denmark,Finland,2,0,Nordic Championship,Copenhagen,Denmark,False
+1975-06-25 00:00:00,Ecuador,Peru,1,0,Friendly,Guayaquil,Ecuador,False
+1975-06-26 00:00:00,North Korea,China PR,2,0,AFC Asian Cup qualification,So Kon Po,Hong Kong,True
+1975-06-27 00:00:00,Bolivia,Argentina,1,2,Friendly,Cochabamba,Bolivia,False
+1975-06-29 00:00:00,Mozambique,Zambia,2,1,Friendly,Maputo,Mozambique,False
+1975-06-29 00:00:00,Mozambique,Tanzania,2,1,Friendly,Maputo,Mozambique,False
+1975-06-30 00:00:00,Sweden,Norway,3,1,UEFA Euro qualification,Solna,Sweden,False
+1975-07-01 00:00:00,Peru,Ecuador,2,0,Friendly,Lima,Peru,False
+1975-07-03 00:00:00,China PR,Thailand,2,2,Friendly,Beijing,China PR,False
+1975-07-06 00:00:00,Canada,Poland,1,8,Friendly,Montr√©al,Canada,False
+1975-07-06 00:00:00,Malawi,Kenya,3,3,Friendly,Blantyre,Malawi,False
+1975-07-06 00:00:00,Tunisia,Sudan,3,2,African Cup of Nations qualification,Tunis,Tunisia,False
+1975-07-07 00:00:00,Bolivia,Paraguay,1,2,Friendly,Cochabamba,Bolivia,False
+1975-07-08 00:00:00,Hong Kong,Thailand,1,1,Friendly,Victoria,Hong Kong,False
+1975-07-08 00:00:00,Malawi,Kenya,1,2,Friendly,Blantyre,Malawi,False
+1975-07-09 00:00:00,Bolivia,Ecuador,1,0,Friendly,Cochabamba,Bolivia,False
+1975-07-09 00:00:00,Canada,Poland,1,4,Friendly,Toronto,Canada,False
+1975-07-10 00:00:00,Malawi,Kenya,3,1,Friendly,Lilongwe,Malawi,False
+1975-07-10 00:00:00,Peru,Paraguay,2,0,Friendly,Lima,Peru,False
+1975-07-12 00:00:00,Egypt,DR Congo,3,2,Friendly,Tehran,Iran,True
+1975-07-17 00:00:00,Chile,Peru,1,1,Copa Am√©rica,Santiago,Chile,False
+1975-07-18 00:00:00,Uruguay,Argentina,2,3,Copa Newton,Montevideo,Uruguay,False
+1975-07-20 00:00:00,Bolivia,Chile,2,1,Copa Am√©rica,Oruro,Bolivia,False
+1975-07-20 00:00:00,Colombia,Paraguay,1,0,Copa Am√©rica,Bogot√°,Colombia,False
+1975-07-20 00:00:00,New Zealand,China PR,2,1,Friendly,Auckland,New Zealand,False
+1975-07-23 00:00:00,New Zealand,China PR,2,2,Friendly,Wellington,New Zealand,False
+1975-07-24 00:00:00,Ecuador,Paraguay,2,2,Copa Am√©rica,Guayaquil,Ecuador,False
+1975-07-26 00:00:00,New Zealand,China PR,2,0,Friendly,Christchurch,New Zealand,False
+1975-07-27 00:00:00,Bolivia,Peru,0,1,Copa Am√©rica,Oruro,Bolivia,False
+1975-07-27 00:00:00,Ecuador,Colombia,1,3,Copa Am√©rica,Quito,Ecuador,False
+1975-07-27 00:00:00,Malaysia,Thailand,1,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1975-07-28 00:00:00,Fiji,China PR,1,4,Friendly,Suva,Fiji,False
+1975-07-29 00:00:00,Bangladesh,Indonesia,0,4,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1975-07-29 00:00:00,Canada,German DR,0,3,Friendly,Toronto,Canada,False
+1975-07-29 00:00:00,Malaysia,South Korea,1,3,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1975-07-30 00:00:00,Myanmar,Thailand,1,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1975-07-30 00:00:00,Hong Kong,Japan,2,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1975-07-30 00:00:00,Paraguay,Colombia,0,1,Copa Am√©rica,Asunci√≥n,Paraguay,False
+1975-07-31 00:00:00,Canada,German DR,1,7,Friendly,Ottawa,Canada,False
+1975-07-31 00:00:00,Venezuela,Brazil,0,4,Copa Am√©rica,Caracas,Venezuela,False
+1975-07-31 00:00:00,Malaysia,Hong Kong,3,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1975-08-01 00:00:00,Myanmar,Indonesia,2,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1975-08-01 00:00:00,Hong Kong,South Korea,0,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1975-08-01 00:00:00,Mexico,German DR,2,3,Friendly,San Francisco,United States,True
+1975-08-01 00:00:00,Panama,Guatemala,2,0,Friendly,Panama City,Panama,False
+1975-08-02 00:00:00,Bangladesh,Thailand,1,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1975-08-02 00:00:00,New Caledonia,Tahiti,3,0,South Pacific Games,Tamuning,Guam,True
+1975-08-02 00:00:00,Vanuatu,Papua New Guinea,3,0,South Pacific Games,Tamuning,Guam,True
+1975-08-02 00:00:00,Guam,Solomon Islands,1,5,South Pacific Games,Tamuning,Guam,False
+1975-08-02 00:00:00,Malaysia,Japan,2,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1975-08-03 00:00:00,Myanmar,South Korea,2,3,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1975-08-03 00:00:00,Hong Kong,Indonesia,2,3,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1975-08-03 00:00:00,Mexico,German DR,0,1,Friendly,Los Angeles,United States,True
+1975-08-03 00:00:00,Venezuela,Argentina,1,5,Copa Am√©rica,Caracas,Venezuela,False
+1975-08-04 00:00:00,Bangladesh,Japan,0,3,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1975-08-04 00:00:00,New Caledonia,Vanuatu,3,1,South Pacific Games,Tamuning,Guam,True
+1975-08-04 00:00:00,Papua New Guinea,Tahiti,2,4,South Pacific Games,Tamuning,Guam,True
+1975-08-04 00:00:00,Guam,Fiji,0,11,South Pacific Games,Tamuning,Guam,False
+1975-08-05 00:00:00,Malaysia,Indonesia,2,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1975-08-05 00:00:00,New Caledonia,Papua New Guinea,5,1,South Pacific Games,Tamuning,Guam,True
+1975-08-05 00:00:00,Vanuatu,Tahiti,0,3,South Pacific Games,Tamuning,Guam,True
+1975-08-05 00:00:00,Fiji,Solomon Islands,1,1,South Pacific Games,Tamuning,Guam,True
+1975-08-06 00:00:00,Australia,China PR,1,0,Friendly,Melbourne,Australia,False
+1975-08-06 00:00:00,Brazil,Argentina,2,1,Copa Am√©rica,Belo Horizonte,Brazil,False
+1975-08-06 00:00:00,Myanmar,Hong Kong,5,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1975-08-06 00:00:00,Ghana,Ivory Coast,3,1,Friendly,Accra,Ghana,False
+1975-08-06 00:00:00,Mexico,German DR,1,0,Friendly,Monterrey,Mexico,False
+1975-08-07 00:00:00,Malaysia,Bangladesh,3,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1975-08-07 00:00:00,Colombia,Ecuador,2,0,Copa Am√©rica,Bogot√°,Colombia,False
+1975-08-07 00:00:00,Fiji,Tahiti,0,3,South Pacific Games,Tamuning,Guam,True
+1975-08-07 00:00:00,Indonesia,Japan,1,4,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1975-08-07 00:00:00,South Korea,Thailand,6,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1975-08-07 00:00:00,New Caledonia,Solomon Islands,4,0,South Pacific Games,Tamuning,Guam,True
+1975-08-07 00:00:00,Peru,Bolivia,3,1,Copa Am√©rica,Lima,Peru,False
+1975-08-08 00:00:00,Bangladesh,Myanmar,1,7,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1975-08-08 00:00:00,Fiji,Solomon Islands,2,3,South Pacific Games,Tamuning,Guam,True
+1975-08-09 00:00:00,Indonesia,Thailand,2,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1975-08-09 00:00:00,Japan,South Korea,1,3,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1975-08-09 00:00:00,New Caledonia,Tahiti,1,2,South Pacific Games,Tamuning,Guam,True
+1975-08-10 00:00:00,Argentina,Venezuela,11,0,Copa Am√©rica,Rosario,Argentina,False
+1975-08-10 00:00:00,Bangladesh,Hong Kong,1,9,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1975-08-10 00:00:00,Ghana,Ivory Coast,0,0,Friendly,Accra,Ghana,False
+1975-08-10 00:00:00,Iran,Hungary,1,2,Friendly,Tehran,Iran,False
+1975-08-10 00:00:00,Malaysia,Myanmar,2,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1975-08-10 00:00:00,Paraguay,Ecuador,3,1,Copa Am√©rica,Asunci√≥n,Paraguay,False
+1975-08-11 00:00:00,Indonesia,South Korea,1,5,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1975-08-11 00:00:00,Japan,Thailand,4,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1975-08-13 00:00:00,Brazil,Venezuela,6,0,Copa Am√©rica,Belo Horizonte,Brazil,False
+1975-08-13 00:00:00,Chile,Bolivia,4,0,Copa Am√©rica,Santiago,Chile,False
+1975-08-13 00:00:00,Norway,Sweden,0,2,UEFA Euro qualification,Oslo,Norway,False
+1975-08-14 00:00:00,Myanmar,Japan,0,2,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1975-08-14 00:00:00,China PR,Kuwait,3,3,Friendly,Beijing,China PR,False
+1975-08-15 00:00:00,Bangladesh,South Korea,0,4,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1975-08-15 00:00:00,Hong Kong,Thailand,3,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1975-08-15 00:00:00,Panama,Haiti,2,0,Friendly,Panama City,Panama,False
+1975-08-16 00:00:00,Argentina,Brazil,0,1,Copa Am√©rica,Rosario,Argentina,False
+1975-08-17 00:00:00,Malaysia,South Korea,0,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1975-08-17 00:00:00,Mexico,Costa Rica,7,0,Friendly,Mexico City,Mexico,False
+1975-08-17 00:00:00,Panama,Haiti,1,1,Friendly,La Chorrera,Panama,False
+1975-08-19 00:00:00,Costa Rica,United States,3,1,Friendly,Mexico City,Mexico,True
+1975-08-20 00:00:00,Peru,Chile,3,1,Copa Am√©rica,Lima,Peru,False
+1975-08-21 00:00:00,Argentina,United States,6,0,Friendly,Mexico City,Mexico,True
+1975-08-24 00:00:00,Ghana,Nigeria,1,2,Friendly,Accra,Ghana,False
+1975-08-24 00:00:00,Mexico,United States,2,0,Friendly,Mexico City,Mexico,False
+1975-08-31 00:00:00,Ghana,Nigeria,3,0,Friendly,Accra,Ghana,False
+1975-08-31 00:00:00,Mexico,Argentina,1,1,Friendly,Mexico City,Mexico,False
+1975-09-03 00:00:00,Austria,Germany,0,2,Friendly,Vienna,Austria,False
+1975-09-03 00:00:00,Denmark,Scotland,0,1,UEFA Euro qualification,Copenhagen,Denmark,False
+1975-09-03 00:00:00,France,Iceland,3,0,UEFA Euro qualification,Nantes,France,False
+1975-09-03 00:00:00,Netherlands,Finland,4,1,UEFA Euro qualification,Nijmegen,Netherlands,False
+1975-09-03 00:00:00,Northern Ireland,Sweden,1,2,UEFA Euro qualification,Belfast,Northern Ireland,False
+1975-09-03 00:00:00,Switzerland,England,1,2,Friendly,Basel,Switzerland,False
+1975-09-05 00:00:00,Mali,Nigeria,4,1,Friendly,Abidjan,Ivory Coast,True
+1975-09-05 00:00:00,Panama,Cuba,0,1,Friendly,Panama City,Panama,False
+1975-09-06 00:00:00,Belgium,Iceland,1,0,UEFA Euro qualification,Li√®ge,Belgium,False
+1975-09-07 00:00:00,Ivory Coast,Nigeria,1,1,Friendly,Abidjan,Ivory Coast,False
+1975-09-07 00:00:00,Panama,Cuba,2,2,Friendly,La Chorrera,Panama,False
+1975-09-08 00:00:00,South Korea,Japan,3,0,Friendly,Seoul,South Korea,False
+1975-09-10 00:00:00,Poland,Netherlands,4,1,UEFA Euro qualification,Chorz√≥w,Poland,False
+1975-09-16 00:00:00,Panama,Cuba,2,3,Friendly,Panama City,Panama,False
+1975-09-21 00:00:00,Colombia,Uruguay,3,0,Copa Am√©rica,Bogot√°,Colombia,False
+1975-09-24 00:00:00,Czechoslovakia,Switzerland,1,1,Friendly,Brno,Czechoslovakia,False
+1975-09-24 00:00:00,Greece,Romania,1,1,Balkan Cup,Salonica,Greece,False
+1975-09-24 00:00:00,Hungary,Austria,2,1,UEFA Euro qualification,Budapest,Hungary,False
+1975-09-25 00:00:00,Sweden,Denmark,0,0,Nordic Championship,Malm√∂,Sweden,False
+1975-09-26 00:00:00,Haiti,Guadeloupe,3,0,Friendly,Port-au-Prince,Haiti,False
+1975-09-27 00:00:00,Belgium,German DR,1,2,UEFA Euro qualification,Brussels,Belgium,False
+1975-09-27 00:00:00,Italy,Finland,0,0,UEFA Euro qualification,Rome,Italy,False
+1975-09-30 00:00:00,Brazil,Peru,1,3,Copa Am√©rica,Belo Horizonte,Brazil,False
+1975-10-01 00:00:00,Uruguay,Colombia,1,0,Copa Am√©rica,Montevideo,Uruguay,False
+1975-10-04 00:00:00,Peru,Brazil,0,2,Copa Am√©rica,Lima,Peru,False
+1975-10-05 00:00:00,Antigua and Barbuda,Barbados,1,0,Friendly,St. John's,Antigua and Barbuda,False
+1975-10-08 00:00:00,Poland,Hungary,4,2,Friendly,≈Å√≥d≈∫,Poland,False
+1975-10-09 00:00:00,Uganda,DR Congo,1,2,Friendly,Kampala,Uganda,False
+1975-10-11 00:00:00,Germany,Greece,1,1,UEFA Euro qualification,D√ºsseldorf,Germany,False
+1975-10-12 00:00:00,German DR,France,2,1,UEFA Euro qualification,Leipzig,German DR,False
+1975-10-12 00:00:00,Romania,Turkey,2,2,Friendly,Bucharest,Romania,False
+1975-10-12 00:00:00,Spain,Denmark,2,0,UEFA Euro qualification,Barcelona,Spain,False
+1975-10-12 00:00:00,Switzerland,Russia,0,1,UEFA Euro qualification,Z√ºrich,Switzerland,False
+1975-10-15 00:00:00,Austria,Luxembourg,6,2,UEFA Euro qualification,Vienna,Austria,False
+1975-10-15 00:00:00,Czechoslovakia,Hungary,1,1,Friendly,Bratislava,Czechoslovakia,False
+1975-10-15 00:00:00,Netherlands,Poland,3,0,UEFA Euro qualification,Amsterdam,Netherlands,False
+1975-10-15 00:00:00,Yugoslavia,Sweden,3,0,UEFA Euro qualification,Zagreb,Yugoslavia,False
+1975-10-16 00:00:00,Colombia,Peru,1,0,Copa Am√©rica,Bogot√°,Colombia,False
+1975-10-18 00:00:00,Tanzania,Kenya,1,2,Friendly,Dar es Salaam,Tanzania,False
+1975-10-19 00:00:00,China PR,New Zealand,2,1,Friendly,Beijing,China PR,False
+1975-10-19 00:00:00,Hungary,Luxembourg,8,1,UEFA Euro qualification,Szombathely,Hungary,False
+1975-10-20 00:00:00,Israel,Mexico,1,0,Friendly,Jaffa,Israel,False
+1975-10-22 00:00:00,Peru,Colombia,2,0,Copa Am√©rica,Lima,Peru,False
+1975-10-24 00:00:00,Zambia,Mozambique,3,0,Friendly,Lusaka,Zambia,False
+1975-10-26 00:00:00,Poland,Italy,0,0,UEFA Euro qualification,Warsaw,Poland,False
+1975-10-28 00:00:00,Colombia,Peru,0,1,Copa Am√©rica,Caracas,Venezuela,True
+1975-10-29 00:00:00,Republic of Ireland,Turkey,4,0,UEFA Euro qualification,Dublin,Republic of Ireland,False
+1975-10-29 00:00:00,Northern Ireland,Norway,3,0,UEFA Euro qualification,Belfast,Northern Ireland,False
+1975-10-29 00:00:00,Scotland,Denmark,3,1,UEFA Euro qualification,Glasgow,Scotland,False
+1975-10-30 00:00:00,Czechoslovakia,England,2,1,UEFA Euro qualification,Bratislava,Czechoslovakia,False
+1975-10-31 00:00:00,Zambia,Kenya,1,2,CECAFA Cup,Lusaka,Zambia,False
+1975-11-01 00:00:00,Malawi,Tanzania,3,1,CECAFA Cup,Ndola,Zambia,True
+1975-11-02 00:00:00,Zambia,Uganda,0,1,CECAFA Cup,Lusaka,Zambia,False
+1975-11-03 00:00:00,Malawi,Zanzibar,4,2,CECAFA Cup,Kitwe,Zambia,True
+1975-11-04 00:00:00,Kenya,Uganda,1,1,CECAFA Cup,Ndola,Zambia,True
+1975-11-05 00:00:00,French Guiana,Martinique,1,2,Friendly,Cayenne,French Guiana,False
+1975-11-05 00:00:00,Macau,New Zealand,1,1,Friendly,Macau,Macau,False
+1975-11-05 00:00:00,Tanzania,Zanzibar,4,0,CECAFA Cup,Mufulira,Zambia,True
+1975-11-07 00:00:00,Kenya,Tanzania,3,2,CECAFA Cup,Lusaka,Zambia,True
+1975-11-07 00:00:00,Malawi,Uganda,2,1,CECAFA Cup,Chingola,Zambia,True
+1975-11-09 00:00:00,Kenya,Malawi,2,2,CECAFA Cup,Lusaka,Zambia,True
+1975-11-09 00:00:00,Singapore,New Zealand,2,2,Friendly,Kallang,Singapore,False
+1975-11-12 00:00:00,Portugal,Czechoslovakia,1,1,UEFA Euro qualification,Porto,Portugal,False
+1975-11-12 00:00:00,Russia,Switzerland,4,1,UEFA Euro qualification,Kyiv,Soviet Union,False
+1975-11-15 00:00:00,France,Belgium,0,0,UEFA Euro qualification,Paris,France,False
+1975-11-16 00:00:00,Romania,Spain,2,2,UEFA Euro qualification,Bucharest,Romania,False
+1975-11-19 00:00:00,Cameroon,DR Congo,2,1,Friendly,Yaound√©,Cameroon,False
+1975-11-19 00:00:00,Germany,Bulgaria,1,0,UEFA Euro qualification,Stuttgart,Germany,False
+1975-11-19 00:00:00,Portugal,England,1,1,UEFA Euro qualification,Lisbon,Portugal,False
+1975-11-19 00:00:00,Wales,Austria,1,0,UEFA Euro qualification,Wrexham,Wales,False
+1975-11-19 00:00:00,Yugoslavia,Northern Ireland,1,0,UEFA Euro qualification,Belgrade,Yugoslavia,False
+1975-11-22 00:00:00,Cameroon,DR Congo,2,2,Friendly,Yaound√©,Cameroon,False
+1975-11-22 00:00:00,Italy,Netherlands,1,0,UEFA Euro qualification,Rome,Italy,False
+1975-11-23 00:00:00,Cyprus,Czechoslovakia,0,3,UEFA Euro qualification,Limassol,Cyprus,False
+1975-11-23 00:00:00,Turkey,Russia,1,0,UEFA Euro qualification,ƒ∞zmir,Turkey,False
+1975-11-29 00:00:00,Romania,Russia,2,2,Friendly,Bucharest,Romania,False
+1975-12-03 00:00:00,Portugal,Cyprus,1,0,UEFA Euro qualification,Set√∫bal,Portugal,False
+1975-12-17 00:00:00,Scotland,Romania,1,1,UEFA Euro qualification,Glasgow,Scotland,False
+1975-12-19 00:00:00,Egypt,Yemen DPR,5,0,Palestine Cup,Tunis,Tunisia,True
+1975-12-19 00:00:00,Palestine,Sudan,0,0,Palestine Cup,Tunis,Tunisia,True
+1975-12-19 00:00:00,Tunisia,United Arab Emirates,3,0,Palestine Cup,Tunis,Tunisia,False
+1975-12-20 00:00:00,Malawi,Eswatini,2,0,Friendly,Blantyre,Malawi,False
+1975-12-20 00:00:00,Turkey,Germany,0,5,Friendly,Istanbul,Turkey,False
+1975-12-21 00:00:00,Myanmar,South Korea,1,3,King's Cup,Bangkok,Thailand,True
+1975-12-21 00:00:00,Iraq,United Arab Emirates,5,0,Palestine Cup,Tunis,Tunisia,True
+1975-12-21 00:00:00,Libya,Syria,2,3,Palestine Cup,Tunis,Tunisia,True
+1975-12-21 00:00:00,Malaysia,Singapore,0,0,King's Cup,Bangkok,Thailand,True
+1975-12-21 00:00:00,Malta,Bulgaria,0,2,UEFA Euro qualification,G≈ºira,Malta,False
+1975-12-21 00:00:00,Palestine,Sudan,0,1,Palestine Cup,Tunis,Tunisia,True
+1975-12-21 00:00:00,Saudi Arabia,Yemen DPR,0,1,Palestine Cup,Tunis,Tunisia,True
+1975-12-22 00:00:00,Malawi,Eswatini,0,0,Friendly,Blantyre,Malawi,False
+1975-12-23 00:00:00,Egypt,Saudi Arabia,2,1,Palestine Cup,Tunis,Tunisia,True
+1975-12-23 00:00:00,Libya,Syria,1,0,Palestine Cup,Tunis,Tunisia,True
+1975-12-23 00:00:00,Thailand,South Korea,2,1,King's Cup,Bangkok,Thailand,False
+1975-12-23 00:00:00,Tunisia,Iraq,1,1,Palestine Cup,Tunis,Tunisia,False
+1975-12-24 00:00:00,Myanmar,Singapore,6,0,King's Cup,Bangkok,Thailand,True
+1975-12-26 00:00:00,Bermuda,Suriname,1,5,Friendly,Hamilton,Bermuda,False
+1975-12-26 00:00:00,Egypt,Sudan,3,1,Palestine Cup,Tunis,Tunisia,True
+1975-12-26 00:00:00,Iraq,Syria,4,0,Palestine Cup,Tunis,Tunisia,True
+1975-12-26 00:00:00,Thailand,Singapore,0,1,King's Cup,Bangkok,Thailand,False
+1975-12-27 00:00:00,Myanmar,Malaysia,2,1,King's Cup,Bangkok,Thailand,True
+1975-12-28 00:00:00,Egypt,Iraq,1,0,Palestine Cup,Tunis,Tunisia,True
+1975-12-28 00:00:00,Sudan,Syria,1,0,Palestine Cup,Tunis,Tunisia,True
+1975-12-29 00:00:00,Thailand,Malaysia,1,0,King's Cup,Bangkok,Thailand,False
+1975-12-30 00:00:00,Italy,Greece,3,2,Friendly,Florence,Italy,False
+1975-12-30 00:00:00,South Korea,Singapore,5,0,King's Cup,Bangkok,Thailand,True
+1976-01-01 00:00:00,Libya,Sudan,1,0,Friendly,Tripoli,Libya,False
+1976-01-01 00:00:00,Thailand,Myanmar,0,0,King's Cup,Bangkok,Thailand,False
+1976-01-02 00:00:00,South Korea,Malaysia,4,0,King's Cup,Bangkok,Thailand,True
+1976-01-04 00:00:00,Myanmar,South Korea,0,1,King's Cup,Bangkok,Thailand,True
+1976-01-09 00:00:00,Saudi Arabia,Algeria,1,3,Friendly,Riyadh,Saudi Arabia,False
+1976-01-14 00:00:00,Gambia,Guinea-Bissau,3,1,Friendly,Banjul,Gambia,False
+1976-01-15 00:00:00,Gambia,Mali,0,3,Friendly,Banjul,Gambia,False
+1976-01-15 00:00:00,Mauritania,Senegal,1,4,Friendly,Banjul,Gambia,True
+1976-01-16 00:00:00,Guinea,Senegal,2,2,Friendly,Banjul,Gambia,True
+1976-01-16 00:00:00,Guinea-Bissau,Mali,1,1,Friendly,Banjul,Gambia,True
+1976-01-17 00:00:00,Guinea,Mauritania,4,0,Friendly,Banjul,Gambia,True
+1976-01-18 00:00:00,Guinea,Mali,0,1,Friendly,Banjul,Gambia,True
+1976-01-25 00:00:00,Chad,Gabon,4,0,Friendly,N'Djamena,Chad,False
+1976-01-25 00:00:00,Japan,Bulgaria,1,3,Friendly,Tokyo,Japan,False
+1976-01-28 00:00:00,Japan,Bulgaria,1,1,Friendly,Osaka,Japan,False
+1976-02-01 00:00:00,Japan,Bulgaria,0,3,Friendly,Tokyo,Japan,False
+1976-02-04 00:00:00,Israel,Denmark,0,1,Friendly,Jaffa,Israel,False
+1976-02-07 00:00:00,Montenegro,Russia,2,1,Friendly,Podgorica,Yugoslavia,False
+1976-02-08 00:00:00,Congo,Angola,3,2,Friendly,Brazzaville,Congo,False
+1976-02-08 00:00:00,Iraq,Turkey,0,0,Friendly,Baghdad,Iraq,False
+1976-02-08 00:00:00,Kenya,Nigeria,1,1,Friendly,Nairobi,Kenya,False
+1976-02-08 00:00:00,Malawi,Lesotho,4,1,Friendly,Zomba,Malawi,False
+1976-02-09 00:00:00,El Salvador,Hungary,1,2,Friendly,San Salvador,El Salvador,False
+1976-02-14 00:00:00,Zambia,Nigeria,1,3,Friendly,Chingola,Zambia,False
+1976-02-15 00:00:00,Angola,Congo,1,1,Friendly,Luanda,Angola,False
+1976-02-17 00:00:00,Iraq,German DR,1,1,Friendly,Baghdad,Iraq,False
+1976-02-18 00:00:00,Tunisia,Yugoslavia,2,1,Friendly,Tunis,Tunisia,False
+1976-02-20 00:00:00,Nigeria,Tanzania,0,0,Friendly,Lagos,Nigeria,False
+1976-02-20 00:00:00,Saudi Arabia,Morocco,0,2,Friendly,Riyadh,Saudi Arabia,False
+1976-02-22 00:00:00,Gabon,Chad,0,1,Friendly,Libreville,Gabon,False
+1976-02-24 00:00:00,Algeria,Yugoslavia,1,2,Friendly,Algiers,Algeria,False
+1976-02-25 00:00:00,Paraguay,Argentina,2,3,Copa F√©lix Bogado,Asunci√≥n,Paraguay,False
+1976-02-25 00:00:00,Uruguay,Brazil,1,2,Copa Rio Branco,Montevideo,Uruguay,False
+1976-02-27 00:00:00,Argentina,Brazil,1,2,Copa Roca,Buenos Aires,Argentina,False
+1976-02-28 00:00:00,Germany,Malta,8,0,UEFA Euro qualification,Dortmund,Germany,False
+1976-02-28 00:00:00,Tunisia,Sweden,1,1,Friendly,Tunis,Tunisia,False
+1976-02-29 00:00:00,Egypt,Guinea,1,1,African Cup of Nations,Addis Ababa,Ethiopia,True
+1976-02-29 00:00:00,Ethiopia,Uganda,2,0,African Cup of Nations,Addis Ababa,Ethiopia,False
+1976-02-29 00:00:00,New Zealand,Australia,0,1,Friendly,Auckland,New Zealand,False
+1976-03-01 00:00:00,Morocco,Sudan,2,2,African Cup of Nations,Dire Dawa,Ethiopia,True
+1976-03-01 00:00:00,Nigeria,DR Congo,4,2,African Cup of Nations,Dire Dawa,Ethiopia,True
+1976-03-02 00:00:00,Algeria,Sweden,0,2,Friendly,Algiers,Algeria,False
+1976-03-02 00:00:00,Australia,New Zealand,3,1,Friendly,Melbourne,Australia,False
+1976-03-03 00:00:00,Egypt,Uganda,2,1,African Cup of Nations,Addis Ababa,Ethiopia,True
+1976-03-03 00:00:00,Ethiopia,Guinea,1,2,African Cup of Nations,Addis Ababa,Ethiopia,False
+1976-03-03 00:00:00,Israel,Northern Ireland,1,1,Friendly,Jaffa,Israel,False
+1976-03-04 00:00:00,Morocco,DR Congo,1,0,African Cup of Nations,Dire Dawa,Ethiopia,True
+1976-03-04 00:00:00,Nigeria,Sudan,1,0,African Cup of Nations,Dire Dawa,Ethiopia,True
+1976-03-05 00:00:00,Ethiopia,Egypt,1,1,African Cup of Nations,Addis Ababa,Ethiopia,False
+1976-03-05 00:00:00,Guinea,Uganda,2,1,African Cup of Nations,Addis Ababa,Ethiopia,True
+1976-03-06 00:00:00,Morocco,Nigeria,3,1,African Cup of Nations,Dire Dawa,Ethiopia,True
+1976-03-06 00:00:00,Sudan,DR Congo,1,1,African Cup of Nations,Dire Dawa,Ethiopia,True
+1976-03-07 00:00:00,Sierra Leone,Niger,5,1,FIFA World Cup qualification,Freetown,Sierra Leone,False
+1976-03-09 00:00:00,Egypt,Morocco,1,2,African Cup of Nations,Addis Ababa,Ethiopia,True
+1976-03-09 00:00:00,Guinea,Nigeria,1,1,African Cup of Nations,Addis Ababa,Ethiopia,True
+1976-03-10 00:00:00,Czechoslovakia,Russia,2,2,Friendly,Ko≈°ice,Czechoslovakia,False
+1976-03-10 00:00:00,Malta,Libya,2,2,Friendly,G≈ºira,Malta,False
+1976-03-10 00:00:00,Uruguay,Paraguay,2,2,Atlantic Cup,Montevideo,Uruguay,False
+1976-03-11 00:00:00,Egypt,Guinea,2,4,African Cup of Nations,Addis Ababa,Ethiopia,True
+1976-03-11 00:00:00,Morocco,Nigeria,2,1,African Cup of Nations,Addis Ababa,Ethiopia,True
+1976-03-13 00:00:00,Burkina Faso,Mauritania,1,1,FIFA World Cup qualification,Ouagadougou,Upper Volta,True
+1976-03-14 00:00:00,Egypt,Nigeria,2,3,African Cup of Nations,Addis Ababa,Ethiopia,True
+1976-03-14 00:00:00,Guinea,Morocco,1,1,African Cup of Nations,Addis Ababa,Ethiopia,True
+1976-03-20 00:00:00,Russia,Argentina,0,1,Friendly,Kyiv,Soviet Union,False
+1976-03-21 00:00:00,Ghana,Togo,4,0,Friendly,Accra,Ghana,False
+1976-03-21 00:00:00,Ivory Coast,Senegal,4,1,Friendly,Abidjan,Ivory Coast,False
+1976-03-21 00:00:00,Niger,Sierra Leone,2,1,FIFA World Cup qualification,Niamey,Niger,False
+1976-03-24 00:00:00,Bulgaria,Russia,0,3,Friendly,Sofia,Bulgaria,False
+1976-03-24 00:00:00,Republic of Ireland,Norway,3,0,Friendly,Dublin,Republic of Ireland,False
+1976-03-24 00:00:00,Poland,Argentina,1,2,Friendly,Chorz√≥w,Poland,False
+1976-03-24 00:00:00,Wales,England,1,2,Friendly,Wrexham,Wales,False
+1976-03-26 00:00:00,Qatar,Saudi Arabia,1,0,Gulf Cup,Doha,Qatar,False
+1976-03-27 00:00:00,Bahrain,United Arab Emirates,3,2,Gulf Cup,Doha,Qatar,True
+1976-03-27 00:00:00,France,Czechoslovakia,2,2,Friendly,Paris,France,False
+1976-03-27 00:00:00,Hungary,Argentina,2,0,Friendly,Budapest,Hungary,False
+1976-03-27 00:00:00,Iraq,Oman,4,0,Gulf Cup,Doha,Qatar,True
+1976-03-28 00:00:00,Gabon,Ivory Coast,0,3,Friendly,Libreville,Gabon,False
+1976-03-28 00:00:00,Mauritania,Burkina Faso,0,2,FIFA World Cup qualification,Nouakchott,Mauritania,False
+1976-03-28 00:00:00,Qatar,Kuwait,0,4,Gulf Cup,Doha,Qatar,False
+1976-03-29 00:00:00,Bahrain,Iraq,1,4,Gulf Cup,Doha,Qatar,True
+1976-03-29 00:00:00,Saudi Arabia,United Arab Emirates,2,0,Gulf Cup,Doha,Qatar,True
+1976-03-31 00:00:00,Kuwait,Oman,8,0,Gulf Cup,Doha,Qatar,True
+1976-04-01 00:00:00,Algeria,Libya,1,0,FIFA World Cup qualification,Algiers,Algeria,False
+1976-04-01 00:00:00,Iraq,Saudi Arabia,7,1,Gulf Cup,Doha,Qatar,True
+1976-04-01 00:00:00,Qatar,United Arab Emirates,3,1,Gulf Cup,Doha,Qatar,False
+1976-04-02 00:00:00,Bahrain,Oman,1,0,Gulf Cup,Doha,Qatar,True
+1976-04-02 00:00:00,Dominican Republic,Haiti,0,3,CONCACAF Championship qualification,Santo Domingo,Dominican Republic,False
+1976-04-03 00:00:00,Kuwait,United Arab Emirates,0,0,Gulf Cup,Doha,Qatar,True
+1976-04-03 00:00:00,Qatar,Iraq,0,0,Gulf Cup,Doha,Qatar,False
+1976-04-04 00:00:00,Oman,Saudi Arabia,1,3,Gulf Cup,Doha,Qatar,True
+1976-04-04 00:00:00,Panama,Costa Rica,3,2,CONCACAF Championship qualification,Panama City,Panama,False
+1976-04-06 00:00:00,Bahrain,Kuwait,2,5,Gulf Cup,Doha,Qatar,True
+1976-04-06 00:00:00,Iraq,United Arab Emirates,4,0,Gulf Cup,Doha,Qatar,True
+1976-04-07 00:00:00,Italy,Portugal,3,1,Friendly,Turin,Italy,False
+1976-04-07 00:00:00,Paraguay,Brazil,1,1,Copa Oswaldo Cruz,Asunci√≥n,Paraguay,False
+1976-04-07 00:00:00,Qatar,Oman,4,1,Gulf Cup,Doha,Qatar,False
+1976-04-07 00:00:00,Scotland,Switzerland,1,0,Friendly,Glasgow,Scotland,False
+1976-04-08 00:00:00,Argentina,Uruguay,4,1,Copa Lipton,Buenos Aires,Argentina,False
+1976-04-08 00:00:00,Bahrain,Saudi Arabia,2,1,Gulf Cup,Doha,Qatar,True
+1976-04-08 00:00:00,Iraq,Kuwait,2,2,Gulf Cup,Doha,Qatar,True
+1976-04-10 00:00:00,Oman,United Arab Emirates,1,1,Gulf Cup,Doha,Qatar,True
+1976-04-10 00:00:00,Qatar,Bahrain,3,0,Gulf Cup,Doha,Qatar,False
+1976-04-11 00:00:00,Kuwait,Saudi Arabia,3,1,Gulf Cup,Doha,Qatar,True
+1976-04-15 00:00:00,Iraq,Kuwait,2,4,Gulf Cup,Doha,Qatar,True
+1976-04-16 00:00:00,Libya,Algeria,0,0,FIFA World Cup qualification,Tripoli,Libya,False
+1976-04-17 00:00:00,Haiti,Dominican Republic,3,0,CONCACAF Championship qualification,Port-au-Prince,Haiti,False
+1976-04-17 00:00:00,Yugoslavia,Hungary,0,0,Friendly,Banja Luka,Yugoslavia,False
+1976-04-19 00:00:00,Ivory Coast,Gabon,1,3,Friendly,Abidjan,Ivory Coast,False
+1976-04-19 00:00:00,Sierra Leone,Guinea,1,1,Friendly,Freetown,Sierra Leone,False
+1976-04-21 00:00:00,Congo,Cuba,3,1,Friendly,Brazzaville,Congo,False
+1976-04-21 00:00:00,German DR,Algeria,5,0,Friendly,Cottbus,German DR,False
+1976-04-24 00:00:00,Czechoslovakia,Russia,2,0,UEFA Euro qualification,Bratislava,Czechoslovakia,False
+1976-04-24 00:00:00,France,Poland,2,0,Friendly,Lens,France,False
+1976-04-24 00:00:00,Spain,Germany,1,1,UEFA Euro qualification,Madrid,Spain,False
+1976-04-24 00:00:00,Yugoslavia,Wales,2,0,UEFA Euro qualification,Zagreb,Yugoslavia,False
+1976-04-25 00:00:00,Netherlands,Belgium,5,0,UEFA Euro qualification,Rotterdam,Netherlands,False
+1976-04-25 00:00:00,Sierra Leone,Liberia,1,0,Friendly,Freetown,Sierra Leone,False
+1976-04-28 00:00:00,Argentina,Paraguay,2,2,Copa F√©lix Bogado,Buenos Aires,Argentina,False
+1976-04-28 00:00:00,Austria,Sweden,1,0,Friendly,Vienna,Austria,False
+1976-04-28 00:00:00,Brazil,Uruguay,2,1,Copa Rio Branco,Rio de Janeiro,Brazil,False
+1976-04-30 00:00:00,Switzerland,Hungary,0,1,Friendly,Lausanne,Switzerland,False
+1976-05-02 00:00:00,Algeria,Guinea,1,2,Friendly,Algiers,Algeria,False
+1976-05-02 00:00:00,Gabon,S√£o Tom√© and Pr√≠ncipe,6,1,Friendly,Libreville,Gabon,False
+1976-05-02 00:00:00,Guadeloupe,Martinique,0,1,Friendly,Pointe-√†-Pitre,Guadeloupe,False
+1976-05-02 00:00:00,Panama,El Salvador,1,1,CONCACAF Championship qualification,Panama City,Panama,False
+1976-05-05 00:00:00,Bulgaria,North Korea,3,0,Friendly,Sofia,Bulgaria,False
+1976-05-06 00:00:00,China PR,Malaysia,2,0,Friendly,Beijing,China PR,False
+1976-05-06 00:00:00,Greece,Poland,1,0,Friendly,Athens,Greece,False
+1976-05-06 00:00:00,Scotland,Wales,3,1,British Championship,Glasgow,Scotland,False
+1976-05-08 00:00:00,Scotland,Northern Ireland,3,0,British Championship,Glasgow,Scotland,False
+1976-05-08 00:00:00,Wales,England,0,1,British Championship,Cardiff,Wales,False
+1976-05-09 00:00:00,Zambia,Malawi,4,0,FIFA World Cup qualification,Lusaka,Zambia,False
+1976-05-11 00:00:00,England,Northern Ireland,4,0,British Championship,London,England,False
+1976-05-11 00:00:00,Martinique,Guadeloupe,3,2,Friendly,Fort-de-France,Martinique,False
+1976-05-11 00:00:00,Sweden,Denmark,1,2,Friendly,Gothenburg,Sweden,False
+1976-05-11 00:00:00,Switzerland,Poland,2,1,Friendly,Basel,Switzerland,False
+1976-05-12 00:00:00,Bulgaria,Romania,1,0,Balkan Cup,Veliko TƒÉrnovo,Bulgaria,False
+1976-05-14 00:00:00,Wales,Northern Ireland,1,0,British Championship,Swansea,Wales,False
+1976-05-15 00:00:00,Scotland,England,2,1,British Championship,Glasgow,Scotland,False
+1976-05-19 00:00:00,Brazil,Argentina,2,0,Copa Roca,Rio de Janeiro,Brazil,False
+1976-05-19 00:00:00,Finland,Switzerland,1,0,Friendly,Kuopio,Finland,False
+1976-05-19 00:00:00,Norway,Iceland,0,1,Friendly,Oslo,Norway,False
+1976-05-19 00:00:00,Paraguay,Uruguay,1,0,Atlantic Cup,Asunci√≥n,Paraguay,False
+1976-05-22 00:00:00,Belgium,Netherlands,1,2,UEFA Euro qualification,Brussels,Belgium,False
+1976-05-22 00:00:00,Germany,Spain,2,0,UEFA Euro qualification,Munich,Germany,False
+1976-05-22 00:00:00,Hungary,France,1,0,Friendly,Budapest,Hungary,False
+1976-05-22 00:00:00,Russia,Czechoslovakia,2,2,UEFA Euro qualification,Kyiv,Soviet Union,False
+1976-05-22 00:00:00,Wales,Yugoslavia,1,1,UEFA Euro qualification,Cardiff,Wales,False
+1976-05-23 00:00:00,Brazil,England,1,0,Friendly,Los Angeles,United States,True
+1976-05-23 00:00:00,Cyprus,Denmark,1,5,FIFA World Cup qualification,Limassol,Cyprus,False
+1976-05-26 00:00:00,Hungary,Russia,1,1,Friendly,Budapest,Hungary,False
+1976-05-26 00:00:00,Poland,Republic of Ireland,0,2,Friendly,Pozna≈Ñ,Poland,False
+1976-05-28 00:00:00,England,Italy,3,2,Friendly,New York,United States,True
+1976-05-30 00:00:00,Malawi,Zambia,0,1,FIFA World Cup qualification,Blantyre,Malawi,False
+1976-05-31 00:00:00,Brazil,Italy,4,1,Friendly,New Haven,United States,True
+1976-06-01 00:00:00,Finland,Sweden,0,2,Nordic Championship,Helsinki,Finland,False
+1976-06-03 00:00:00,Kuwait,Malaysia,2,0,AFC Asian Cup,Tehran,Iran,True
+1976-06-04 00:00:00,Iran,Iraq,2,0,AFC Asian Cup,Tehran,Iran,False
+1976-06-04 00:00:00,Mexico,Brazil,0,3,Friendly,Guadalajara,Mexico,False
+1976-06-05 00:00:00,China PR,Malaysia,1,1,AFC Asian Cup,Tehran,Iran,True
+1976-06-05 00:00:00,Italy,Romania,4,2,Friendly,Milan,Italy,False
+1976-06-06 00:00:00,Iraq,Yemen DPR,1,0,AFC Asian Cup,Tehran,Iran,True
+1976-06-06 00:00:00,Catalonia,Russia,1,1,Friendly,Barcelona,Spain,False
+1976-06-07 00:00:00,China PR,Kuwait,0,1,AFC Asian Cup,Tehran,Iran,True
+1976-06-08 00:00:00,Myanmar,Malaysia,3,1,Indonesia Tournament,Jakarta,Indonesia,True
+1976-06-08 00:00:00,Iran,Yemen DPR,8,0,AFC Asian Cup,Tehran,Iran,False
+1976-06-09 00:00:00,Brazil,Paraguay,3,1,Copa Oswaldo Cruz,Rio de Janeiro,Brazil,False
+1976-06-09 00:00:00,Uruguay,Argentina,0,3,Copa Newton,Montevideo,Uruguay,False
+1976-06-10 00:00:00,Indonesia,Malaysia,1,2,Indonesia Tournament,Jakarta,Indonesia,False
+1976-06-10 00:00:00,Iran,China PR,2,0,AFC Asian Cup,Tehran,Iran,False
+1976-06-10 00:00:00,Iraq,Kuwait,2,3,AFC Asian Cup,Tehran,Iran,True
+1976-06-12 00:00:00,Hungary,Austria,2,0,Friendly,Budapest,Hungary,False
+1976-06-12 00:00:00,Indonesia,Myanmar,1,1,Indonesia Tournament,Jakarta,Indonesia,False
+1976-06-13 00:00:00,China PR,Iraq,1,0,AFC Asian Cup,Tehran,Iran,True
+1976-06-13 00:00:00,Finland,England,1,4,FIFA World Cup qualification,Helsinki,Finland,False
+1976-06-13 00:00:00,Iran,Kuwait,1,0,AFC Asian Cup,Tehran,Iran,False
+1976-06-16 00:00:00,Czechoslovakia,Netherlands,3,1,UEFA Euro,Zagreb,Yugoslavia,True
+1976-06-16 00:00:00,Faroe Islands,Iceland,1,6,Friendly,T√≥rshavn,Faroe Islands,False
+1976-06-16 00:00:00,Sweden,Norway,2,0,FIFA World Cup qualification,Solna,Sweden,False
+1976-06-17 00:00:00,Yugoslavia,Germany,2,4,UEFA Euro,Belgrade,Yugoslavia,False
+1976-06-19 00:00:00,Yugoslavia,Netherlands,2,3,UEFA Euro,Zagreb,Yugoslavia,False
+1976-06-20 00:00:00,Czechoslovakia,Germany,2,2,UEFA Euro,Belgrade,Yugoslavia,True
+1976-06-23 00:00:00,Austria,Russia,1,2,Friendly,Vienna,Austria,False
+1976-06-24 00:00:00,Norway,Denmark,0,0,Nordic Championship,Bergen,Norway,False
+1976-06-29 00:00:00,R√©union,Kenya,1,3,Friendly,Mah√©,Seychelles,True
+1976-06-30 00:00:00,Guatemala,Costa Rica,1,0,Friendly,Guatemala,Guatemala,False
+1976-07-01 00:00:00,Gabon,DR Congo,1,1,Friendly,Libreville,Gabon,False
+1976-07-01 00:00:00,Seychelles,R√©union,1,4,Friendly,Victoria,Seychelles,False
+1976-07-02 00:00:00,Iran,Romania,2,2,Friendly,Tehran,Iran,False
+1976-07-02 00:00:00,R√©union,Mauritius,0,2,Friendly,Saint-Pierre,R√©union,False
+1976-07-03 00:00:00,Rwanda,DR Congo,1,6,Friendly,Libreville,Gabon,True
+1976-07-03 00:00:00,Seychelles,Kenya,1,4,Friendly,Mah√©,Seychelles,False
+1976-07-04 00:00:00,Guyana,Suriname,2,0,CONCACAF Championship qualification,Georgetown,Guyana,False
+1976-07-05 00:00:00,Cameroon,DR Congo,2,1,Friendly,Libreville,Gabon,True
+1976-07-06 00:00:00,Malawi,Kenya,1,0,Friendly,Blantyre,Malawi,False
+1976-07-07 00:00:00,Burundi,DR Congo,0,1,Friendly,Libreville,Gabon,True
+1976-07-07 00:00:00,Guatemala,El Salvador,1,0,Friendly,Guatemala,Guatemala,False
+1976-07-08 00:00:00,Malawi,Sierra Leone,4,2,Friendly,Zomba,Malawi,False
+1976-07-11 00:00:00,Costa Rica,Panama,3,0,CONCACAF Championship qualification,San Jos√©,Costa Rica,False
+1976-07-14 00:00:00,Finland,Iceland,1,0,Friendly,Helsinki,Finland,False
+1976-07-19 00:00:00,Afghanistan,Pakistan,1,0,Friendly,Kabul,Afghanistan,False
+1976-07-21 00:00:00,India,Pakistan,1,1,Friendly,Kabul,Afghanistan,True
+1976-07-24 00:00:00,Afghanistan,India,1,1,Friendly,Kabul,Afghanistan,False
+1976-07-31 00:00:00,Cura√ßao,Haiti,1,2,FIFA World Cup qualification,Oranjestad,Netherlands Antilles,True
+1976-08-07 00:00:00,Malaysia,South Korea,2,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1976-08-08 00:00:00,Myanmar,Indonesia,5,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1976-08-08 00:00:00,India,Japan,1,5,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1976-08-08 00:00:00,S√£o Tom√© and Pr√≠ncipe,Congo,2,3,Friendly,S√£o Tom√©,S√£o Tom√© and Pr√≠ncipe,False
+1976-08-09 00:00:00,Malaysia,Thailand,0,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1976-08-10 00:00:00,Malaysia,India,5,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1976-08-10 00:00:00,India,South Korea,0,8,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1976-08-10 00:00:00,Indonesia,Japan,0,6,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1976-08-11 00:00:00,Australia,Hong Kong,0,1,Friendly,Canberra,Australia,False
+1976-08-11 00:00:00,Myanmar,Thailand,1,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1976-08-11 00:00:00,El Salvador,Panama,4,1,CONCACAF Championship qualification,San Salvador,El Salvador,False
+1976-08-11 00:00:00,Sweden,Finland,6,0,Nordic Championship,Malm√∂,Sweden,False
+1976-08-12 00:00:00,Indonesia,South Korea,0,2,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1976-08-13 00:00:00,Myanmar,Japan,2,2,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1976-08-14 00:00:00,Malaysia,Indonesia,7,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1976-08-14 00:00:00,Haiti,Cura√ßao,7,0,CONCACAF Championship qualification,Port-au-Prince,Haiti,False
+1976-08-14 00:00:00,India,Thailand,2,6,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1976-08-14 00:00:00,Indonesia,India,1,3,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1976-08-15 00:00:00,Barbados,Trinidad and Tobago,2,1,CONCACAF Championship qualification,Bridgetown,Barbados,False
+1976-08-15 00:00:00,Myanmar,South Korea,2,2,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1976-08-15 00:00:00,Jamaica,Cuba,1,3,CONCACAF Championship qualification,Kingston,Jamaica,False
+1976-08-16 00:00:00,Japan,Thailand,2,2,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1976-08-17 00:00:00,Malaysia,Myanmar,3,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1976-08-17 00:00:00,Switzerland,Bulgaria,2,2,Friendly,Lucerne,Switzerland,False
+1976-08-18 00:00:00,Australia,Hong Kong,2,0,Friendly,Gosford,Australia,False
+1976-08-18 00:00:00,Indonesia,Thailand,0,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1976-08-18 00:00:00,Japan,South Korea,0,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1976-08-19 00:00:00,Myanmar,India,2,2,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1976-08-20 00:00:00,South Korea,Thailand,2,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1976-08-20 00:00:00,Malaysia,Japan,2,2,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1976-08-21 00:00:00,Iceland,Luxembourg,3,1,Friendly,Reykjav√≠k,Iceland,False
+1976-08-22 00:00:00,Malaysia,Japan,2,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1976-08-25 00:00:00,Denmark,Norway,3,0,Nordic Championship,Vejle,Denmark,False
+1976-08-25 00:00:00,Finland,Turkey,2,1,Friendly,Helsinki,Finland,False
+1976-08-29 00:00:00,Cuba,Jamaica,2,0,CONCACAF Championship qualification,Havana,Cuba,False
+1976-08-29 00:00:00,Suriname,Guyana,3,0,CONCACAF Championship qualification,Paramaribo,Suriname,False
+1976-08-31 00:00:00,Trinidad and Tobago,Barbados,1,0,CONCACAF Championship qualification,Port of Spain,Trinidad and Tobago,False
+1976-09-01 00:00:00,Denmark,France,1,1,Friendly,Copenhagen,Denmark,False
+1976-09-04 00:00:00,Burkina Faso,Ivory Coast,1,1,FIFA World Cup qualification,Ouagadougou,Upper Volta,True
+1976-09-04 00:00:00,Malawi,Uganda,1,1,Friendly,Blantyre,Malawi,False
+1976-09-05 00:00:00,Iceland,Belgium,0,1,FIFA World Cup qualification,Reykjav√≠k,Iceland,False
+1976-09-05 00:00:00,Saudi Arabia,Iraq,0,0,Friendly,Riyadh,Saudi Arabia,False
+1976-09-06 00:00:00,Malawi,Uganda,1,2,Friendly,Blantyre,Malawi,False
+1976-09-08 00:00:00,England,Republic of Ireland,1,1,Friendly,London,England,False
+1976-09-08 00:00:00,Iceland,Netherlands,0,1,FIFA World Cup qualification,Reykjav√≠k,Iceland,False
+1976-09-08 00:00:00,Libya,Algeria,0,1,Friendly,Benghazi,Libya,False
+1976-09-08 00:00:00,Norway,Switzerland,1,0,FIFA World Cup qualification,Oslo,Norway,False
+1976-09-08 00:00:00,Scotland,Finland,6,0,Friendly,Glasgow,Scotland,False
+1976-09-08 00:00:00,Sweden,Hungary,1,1,Friendly,Solna,Sweden,False
+1976-09-09 00:00:00,Ivory Coast,Ghana,3,1,Friendly,Abidjan,Ivory Coast,False
+1976-09-10 00:00:00,Libya,Algeria,1,0,Friendly,Tripoli,Libya,False
+1976-09-11 00:00:00,South Korea,Malaysia,4,4,Korea Cup,Seoul,South Korea,False
+1976-09-12 00:00:00,Myanmar,New Zealand,0,2,Korea Cup,Seoul,South Korea,True
+1976-09-12 00:00:00,Saudi Arabia,Morocco,0,2,Friendly,Riyadh,Saudi Arabia,False
+1976-09-13 00:00:00,South Korea,India,4,0,Korea Cup,Seoul,South Korea,False
+1976-09-13 00:00:00,Malawi,Botswana,7,1,Friendly,Blantyre,Malawi,False
+1976-09-13 00:00:00,Malaysia,Singapore,4,1,Korea Cup,Seoul,South Korea,True
+1976-09-14 00:00:00,Barbados,Trinidad and Tobago,1,3,CONCACAF Championship qualification,Bridgetown,Barbados,False
+1976-09-15 00:00:00,India,Singapore,1,2,Korea Cup,Seoul,South Korea,True
+1976-09-16 00:00:00,Myanmar,Thailand,2,0,Korea Cup,Seoul,South Korea,True
+1976-09-17 00:00:00,South Korea,Singapore,7,0,Korea Cup,Seoul,South Korea,False
+1976-09-17 00:00:00,Malawi,Botswana,3,0,Friendly,Blantyre,Malawi,False
+1976-09-17 00:00:00,Panama,Guatemala,2,4,CONCACAF Championship qualification,Panama City,Panama,False
+1976-09-18 00:00:00,New Zealand,Thailand,3,1,Korea Cup,Seoul,South Korea,True
+1976-09-19 00:00:00,India,Malaysia,0,4,Korea Cup,Seoul,South Korea,True
+1976-09-22 00:00:00,Austria,Switzerland,3,1,Friendly,Linz,Austria,False
+1976-09-22 00:00:00,Bulgaria,Turkey,2,2,Friendly,Sofia,Bulgaria,False
+1976-09-22 00:00:00,Denmark,Italy,0,1,Friendly,Copenhagen,Denmark,False
+1976-09-22 00:00:00,Finland,Luxembourg,7,1,FIFA World Cup qualification,Helsinki,Finland,False
+1976-09-22 00:00:00,German DR,Hungary,1,1,Friendly,Berlin,German DR,False
+1976-09-22 00:00:00,Greece,Israel,0,1,Friendly,Patras,Greece,False
+1976-09-22 00:00:00,Norway,Sweden,3,2,Nordic Championship,Oslo,Norway,False
+1976-09-22 00:00:00,Romania,Czechoslovakia,1,1,Friendly,Bucharest,Romania,False
+1976-09-23 00:00:00,South Korea,New Zealand,2,0,Korea Cup,Seoul,South Korea,False
+1976-09-24 00:00:00,Canada,United States,1,1,CONCACAF Championship qualification,Vancouver,Canada,False
+1976-09-25 00:00:00,Italy,Yugoslavia,3,0,Friendly,Rome,Italy,False
+1976-09-26 00:00:00,Guatemala,Panama,7,0,CONCACAF Championship qualification,Guatemala,Guatemala,False
+1976-09-26 00:00:00,Ivory Coast,Burkina Faso,2,0,FIFA World Cup qualification,Abidjan,Ivory Coast,False
+1976-09-30 00:00:00,Botswana,Zambia,2,3,Friendly,Gaborone,Botswana,False
+1976-09-30 00:00:00,Saudi Arabia,Tunisia,0,1,Friendly,Dammam,Saudi Arabia,False

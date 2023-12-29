@@ -1,0 +1,1001 @@
+date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
+1926-09-19 00:00:00,Austria,Hungary,2,3,Friendly,Vienna,Austria,False
+1926-09-19 00:00:00,Latvia,Estonia,0,1,Friendly,Riga,Latvia,False
+1926-09-19 00:00:00,Norway,Denmark,2,2,Nordic Championship,Oslo,Norway,False
+1926-09-28 00:00:00,Czechoslovakia,Austria,1,2,Friendly,Prague,Czechoslovakia,False
+1926-10-03 00:00:00,Denmark,Sweden,2,0,Nordic Championship,Copenhagen,Denmark,False
+1926-10-03 00:00:00,Sweden,Poland,3,1,Friendly,Stockholm,Sweden,False
+1926-10-03 00:00:00,Yugoslavia,Romania,2,3,Friendly,Zagreb,Yugoslavia,False
+1926-10-10 00:00:00,Austria,Switzerland,7,1,Friendly,Vienna,Austria,False
+1926-10-12 00:00:00,Chile,Bolivia,7,1,Copa Am√©rica,Santiago,Chile,False
+1926-10-16 00:00:00,Argentina,Bolivia,5,0,Copa Am√©rica,Santiago,Chile,True
+1926-10-17 00:00:00,Chile,Uruguay,1,3,Copa Am√©rica,Santiago,Chile,False
+1926-10-20 00:00:00,Argentina,Paraguay,8,0,Copa Am√©rica,Santiago,Chile,True
+1926-10-20 00:00:00,England,Northern Ireland,3,3,British Championship,Liverpool,England,False
+1926-10-23 00:00:00,Bolivia,Paraguay,1,6,Copa Am√©rica,Santiago,Chile,True
+1926-10-24 00:00:00,Argentina,Uruguay,0,2,Copa Am√©rica,Santiago,Chile,True
+1926-10-28 00:00:00,Bolivia,Uruguay,0,6,Copa Am√©rica,Santiago,Chile,True
+1926-10-28 00:00:00,Czechoslovakia,Italy,3,1,Friendly,Prague,Czechoslovakia,False
+1926-10-30 00:00:00,Scotland,Wales,3,0,British Championship,Glasgow,Scotland,False
+1926-10-31 00:00:00,Chile,Argentina,1,1,Copa Am√©rica,Santiago,Chile,False
+1926-10-31 00:00:00,Netherlands,Germany,2,3,Friendly,Amsterdam,Netherlands,False
+1926-11-01 00:00:00,Paraguay,Uruguay,1,6,Copa Am√©rica,Santiago,Chile,True
+1926-11-03 00:00:00,Chile,Paraguay,5,1,Copa Am√©rica,Santiago,Chile,False
+1926-11-06 00:00:00,United States,Canada,6,2,Friendly,New York,United States,False
+1926-11-07 00:00:00,Austria,Sweden,3,1,Friendly,Vienna,Austria,False
+1926-11-14 00:00:00,Hungary,Sweden,3,1,Friendly,Budapest,Hungary,False
+1926-11-20 00:00:00,Jamaica,Haiti,6,0,Friendly,Kingston,Jamaica,False
+1926-12-12 00:00:00,Germany,Switzerland,2,3,Friendly,Munich,Germany,False
+1926-12-19 00:00:00,Spain,Hungary,4,2,Friendly,Vigo,Spain,False
+1926-12-26 00:00:00,Portugal,Hungary,3,3,Friendly,Porto,Portugal,False
+1927-01-02 00:00:00,Belgium,Czechoslovakia,2,3,Friendly,Li√®ge,Belgium,False
+1927-01-30 00:00:00,Switzerland,Italy,1,5,Friendly,Geneva,Switzerland,False
+1927-02-12 00:00:00,Wales,England,3,3,British Championship,Wrexham,Wales,False
+1927-02-20 00:00:00,Italy,Czechoslovakia,2,2,Friendly,Milan,Italy,False
+1927-02-26 00:00:00,Northern Ireland,Scotland,0,2,British Championship,Belfast,Northern Ireland,False
+1927-03-13 00:00:00,Belgium,Netherlands,2,0,Friendly,Antwerp,Belgium,False
+1927-03-16 00:00:00,Portugal,France,4,0,Friendly,Lisbon,Portugal,False
+1927-03-20 00:00:00,Austria,Czechoslovakia,1,2,Friendly,Vienna,Austria,False
+1927-04-02 00:00:00,Scotland,England,1,2,British Championship,Glasgow,Scotland,False
+1927-04-03 00:00:00,Belgium,Sweden,2,1,Friendly,Forest,Belgium,False
+1927-04-09 00:00:00,Wales,Northern Ireland,2,2,British Championship,Cardiff,Wales,False
+1927-04-10 00:00:00,Austria,Hungary,6,0,Friendly,Vienna,Austria,False
+1927-04-10 00:00:00,Hungary,Yugoslavia,3,0,Friendly,Budapest,Hungary,False
+1927-04-17 00:00:00,Italy,Portugal,3,1,Friendly,Turin,Italy,False
+1927-04-17 00:00:00,Spain,Switzerland,1,0,Friendly,Santander,Spain,False
+1927-04-24 00:00:00,Czechoslovakia,Hungary,4,1,Friendly,Prague,Czechoslovakia,False
+1927-04-24 00:00:00,France,Italy,3,3,Friendly,Colombes,France,False
+1927-05-01 00:00:00,Netherlands,Belgium,3,2,Friendly,Amsterdam,Netherlands,False
+1927-05-10 00:00:00,Romania,Yugoslavia,0,3,Friendly,Bucharest,Romania,False
+1927-05-11 00:00:00,Belgium,England,1,9,Friendly,Brussels,Belgium,False
+1927-05-15 00:00:00,Bulgaria,Yugoslavia,0,2,Friendly,Sofia,Bulgaria,False
+1927-05-21 00:00:00,Luxembourg,England,2,5,Friendly,Esch-sur-Alzette,Luxembourg,False
+1927-05-22 00:00:00,Austria,Belgium,4,1,Friendly,Vienna,Austria,False
+1927-05-22 00:00:00,France,Spain,1,4,Friendly,Colombes,France,False
+1927-05-26 00:00:00,Czechoslovakia,Belgium,4,0,Friendly,Prague,Czechoslovakia,False
+1927-05-26 00:00:00,France,England,0,6,Friendly,Colombes,France,False
+1927-05-29 00:00:00,Italy,Spain,2,0,Friendly,Bologna,Italy,False
+1927-05-29 00:00:00,Norway,Denmark,0,1,Friendly,Oslo,Norway,False
+1927-05-29 00:00:00,Sweden,Latvia,12,0,Friendly,Stockholm,Sweden,False
+1927-05-29 00:00:00,Switzerland,Austria,1,4,Friendly,Z√ºrich,Switzerland,False
+1927-06-12 00:00:00,Denmark,Netherlands,1,1,Friendly,Copenhagen,Denmark,False
+1927-06-12 00:00:00,Hungary,France,13,1,Friendly,Budapest,Hungary,False
+1927-06-12 00:00:00,Sweden,Finland,6,2,Friendly,Stockholm,Sweden,False
+1927-06-15 00:00:00,Norway,Finland,3,1,Friendly,Oslo,Norway,False
+1927-06-16 00:00:00,Estonia,Latvia,4,1,Friendly,Tallinn,Estonia,False
+1927-06-19 00:00:00,Romania,Poland,3,3,Friendly,Bucharest,Romania,False
+1927-06-19 00:00:00,Sweden,Denmark,0,0,Nordic Championship,Stockholm,Sweden,False
+1927-06-25 00:00:00,New Zealand,Canada,2,2,Friendly,Dunedin,New Zealand,False
+1927-06-26 00:00:00,Norway,Sweden,3,5,Nordic Championship,Oslo,Norway,False
+1927-07-01 00:00:00,Sweden,Estonia,3,1,Friendly,Norrk√∂ping,Sweden,False
+1927-07-02 00:00:00,New Zealand,Canada,1,2,Friendly,Christchurch,New Zealand,False
+1927-07-09 00:00:00,New Zealand,Canada,1,0,Friendly,Wellington,New Zealand,False
+1927-07-14 00:00:00,Uruguay,Argentina,0,1,Copa Newton,Montevideo,Uruguay,False
+1927-07-17 00:00:00,Bulgaria,Turkey,3,3,Friendly,Sofia,Bulgaria,False
+1927-07-23 00:00:00,New Zealand,Canada,1,4,Friendly,Auckland,New Zealand,False
+1927-07-27 00:00:00,Latvia,Lithuania,6,3,Friendly,Riga,Latvia,False
+1927-08-10 00:00:00,Estonia,Finland,2,1,Friendly,Tallinn,Estonia,False
+1927-08-13 00:00:00,Lithuania,Estonia,0,5,Friendly,Kaunas,Lithuania,False
+1927-08-27 00:00:00,China PR,Japan,5,1,Friendly,Shanghai,China PR,False
+1927-08-29 00:00:00,Japan,Philippines,2,1,Friendly,Shanghai,China PR,True
+1927-08-30 00:00:00,Argentina,Uruguay,0,1,Copa Lipton,Buenos Aires,Argentina,False
+1927-08-31 00:00:00,China PR,Philippines,3,1,Friendly,Shanghai,China PR,False
+1927-09-04 00:00:00,Sweden,Belgium,7,0,Friendly,Stockholm,Sweden,False
+1927-09-11 00:00:00,Finland,Latvia,3,1,Friendly,Helsinki,Finland,False
+1927-09-18 00:00:00,Czechoslovakia,Austria,2,0,International Cup,Prague,Czechoslovakia,False
+1927-09-25 00:00:00,Hungary,Austria,5,3,International Cup,Budapest,Hungary,False
+1927-09-25 00:00:00,Latvia,Estonia,4,1,Friendly,Riga,Latvia,False
+1927-10-02 00:00:00,Denmark,Germany,3,1,Friendly,Copenhagen,Denmark,False
+1927-10-09 00:00:00,Hungary,Czechoslovakia,1,2,Friendly,Budapest,Hungary,False
+1927-10-14 00:00:00,Turkey,Bulgaria,3,1,Friendly,Istanbul,Turkey,False
+1927-10-22 00:00:00,Northern Ireland,England,2,0,British Championship,Belfast,Northern Ireland,False
+1927-10-23 00:00:00,Czechoslovakia,Italy,2,2,International Cup,Prague,Czechoslovakia,False
+1927-10-23 00:00:00,Germany,Norway,6,2,Friendly,Altona,Germany,False
+1927-10-28 00:00:00,Czechoslovakia,Yugoslavia,5,3,Friendly,Prague,Czechoslovakia,False
+1927-10-29 00:00:00,Wales,Scotland,2,2,British Championship,Wrexham,Wales,False
+1927-10-30 00:00:00,Argentina,Bolivia,7,1,Copa Am√©rica,Lima,Peru,True
+1927-10-30 00:00:00,Denmark,Norway,3,1,Nordic Championship,Copenhagen,Denmark,False
+1927-11-01 00:00:00,Peru,Uruguay,0,4,Copa Am√©rica,Lima,Peru,False
+1927-11-06 00:00:00,Bolivia,Uruguay,0,9,Copa Am√©rica,Lima,Peru,True
+1927-11-06 00:00:00,Italy,Austria,0,1,International Cup,Bologna,Italy,False
+1927-11-06 00:00:00,Switzerland,Sweden,2,2,Friendly,Z√ºrich,Switzerland,False
+1927-11-07 00:00:00,Honduras,El Salvador,1,0,Friendly,Tegucigalpa,Honduras,False
+1927-11-08 00:00:00,Honduras,El Salvador,0,0,Friendly,Tegucigalpa,Honduras,False
+1927-11-13 00:00:00,Netherlands,Sweden,1,0,Friendly,Amsterdam,Netherlands,False
+1927-11-13 00:00:00,Peru,Bolivia,3,2,Copa Am√©rica,Lima,Peru,False
+1927-11-20 00:00:00,Argentina,Uruguay,3,2,Copa Am√©rica,Lima,Peru,True
+1927-11-20 00:00:00,Germany,Netherlands,2,2,Friendly,Cologne,Germany,False
+1927-11-27 00:00:00,Peru,Argentina,1,5,Copa Am√©rica,Lima,Peru,False
+1927-11-28 00:00:00,England,Wales,1,2,British Championship,Burnley,England,False
+1927-12-10 00:00:00,Chile,Uruguay,2,3,Friendly,Vi√±a del Mar,Chile,False
+1928-01-01 00:00:00,Italy,Switzerland,3,2,International Cup,Genoa,Italy,False
+1928-01-08 00:00:00,Belgium,Austria,1,2,Friendly,Brussels,Belgium,False
+1928-01-08 00:00:00,Portugal,Spain,2,2,Friendly,Lisbon,Portugal,False
+1928-02-04 00:00:00,Northern Ireland,Wales,1,2,British Championship,Belfast,Northern Ireland,False
+1928-02-12 00:00:00,Belgium,Republic of Ireland,2,4,Friendly,Li√®ge,Belgium,False
+1928-02-21 00:00:00,France,Northern Ireland,4,0,Friendly,Montrouge,France,False
+1928-02-25 00:00:00,Scotland,Northern Ireland,0,1,British Championship,Glasgow,Scotland,False
+1928-03-11 00:00:00,Netherlands,Belgium,1,1,Friendly,Amsterdam,Netherlands,False
+1928-03-11 00:00:00,Switzerland,France,4,3,Friendly,Lausanne,Switzerland,False
+1928-03-16 00:00:00,Guyana,Trinidad and Tobago,1,1,Friendly,Georgetown,British Guyana,False
+1928-03-25 00:00:00,Italy,Hungary,4,3,International Cup,Rome,Italy,False
+1928-03-31 00:00:00,England,Scotland,1,5,British Championship,London,England,False
+1928-04-01 00:00:00,Austria,Czechoslovakia,0,1,International Cup,Vienna,Austria,False
+1928-04-01 00:00:00,Belgium,Netherlands,1,0,Friendly,Antwerp,Belgium,False
+1928-04-01 00:00:00,Portugal,Argentina,0,0,Friendly,Lisbon,Portugal,False
+1928-04-08 00:00:00,Yugoslavia,Turkey,2,1,Friendly,Zagreb,Yugoslavia,False
+1928-04-15 00:00:00,France,Belgium,2,3,Friendly,Colombes,France,False
+1928-04-15 00:00:00,Portugal,Italy,4,1,Friendly,Porto,Portugal,False
+1928-04-15 00:00:00,Romania,Turkey,4,2,Friendly,Arad,Romania,False
+1928-04-15 00:00:00,Switzerland,Germany,2,3,Friendly,Berne,Switzerland,False
+1928-04-15 00:00:00,Uganda,Kenya,4,0,Friendly,Kampala,Uganda,False
+1928-04-22 00:00:00,Hungary,Czechoslovakia,2,0,International Cup,Budapest,Hungary,False
+1928-04-22 00:00:00,Netherlands,Denmark,2,0,Friendly,Amsterdam,Netherlands,False
+1928-04-22 00:00:00,Spain,Italy,1,1,Friendly,Gij√≥n,Spain,False
+1928-04-29 00:00:00,France,Portugal,1,1,Friendly,Paris,France,False
+1928-05-06 00:00:00,Austria,Yugoslavia,3,0,Friendly,Vienna,Austria,False
+1928-05-06 00:00:00,Hungary,Austria,5,5,Friendly,Budapest,Hungary,False
+1928-05-06 00:00:00,Switzerland,Netherlands,2,1,Friendly,Basel,Switzerland,False
+1928-05-06 00:00:00,Yugoslavia,Romania,3,1,Friendly,Belgrade,Yugoslavia,False
+1928-05-13 00:00:00,France,Czechoslovakia,0,2,Friendly,Colombes,France,False
+1928-05-17 00:00:00,France,England,1,5,Friendly,Colombes,France,False
+1928-05-19 00:00:00,Belgium,England,1,3,Friendly,Antwerp,Belgium,False
+1928-06-03 00:00:00,Finland,Norway,0,6,Friendly,Helsinki,Finland,False
+1928-06-07 00:00:00,Sweden,Norway,6,1,Nordic Championship,Stockholm,Sweden,False
+1928-06-10 00:00:00,Poland,United States,3,3,Friendly,Warsaw,Poland,False
+1928-06-14 00:00:00,Netherlands,Egypt,1,2,Friendly,Rotterdam,Netherlands,False
+1928-06-17 00:00:00,Norway,Denmark,2,3,Nordic Championship,Oslo,Norway,False
+1928-06-28 00:00:00,Luxembourg,Egypt,1,1,Friendly,Esch-sur-Alzette,Luxembourg,False
+1928-07-01 00:00:00,Poland,Sweden,2,1,Friendly,Katowice,Poland,False
+1928-07-06 00:00:00,Latvia,Sweden,0,4,Friendly,Riga,Latvia,False
+1928-07-09 00:00:00,Estonia,Sweden,0,1,Friendly,Tallinn,Estonia,False
+1928-07-25 00:00:00,Latvia,Lithuania,3,0,Baltic Cup,Tallinn,Estonia,True
+1928-07-26 00:00:00,Estonia,Lithuania,6,0,Baltic Cup,Tallinn,Estonia,False
+1928-07-27 00:00:00,Estonia,Latvia,0,1,Baltic Cup,Tallinn,Estonia,False
+1928-07-29 00:00:00,Sweden,Austria,2,3,Friendly,Stockholm,Sweden,False
+1928-08-12 00:00:00,Finland,Estonia,2,2,Friendly,Helsinki,Finland,False
+1928-08-15 00:00:00,Paraguay,Uruguay,3,1,Friendly,Asunci√≥n,Paraguay,False
+1928-08-17 00:00:00,Belarus,Switzerland,6,3,Friendly,Moscow,Soviet Union,True
+1928-08-19 00:00:00,Belarus,Ukraine,2,6,Friendly,Moscow,Soviet Union,True
+1928-08-19 00:00:00,Latvia,Finland,2,1,Friendly,Riga,Latvia,False
+1928-08-19 00:00:00,Paraguay,Uruguay,1,1,Friendly,Asunci√≥n,Paraguay,False
+1928-08-22 00:00:00,Belarus,Finland,1,2,Friendly,Moscow,Soviet Union,True
+1928-08-30 00:00:00,Argentina,Uruguay,1,0,Copa Newton,Avellaneda,Argentina,False
+1928-09-01 00:00:00,Lithuania,Latvia,1,1,Friendly,Kaunas,Lithuania,False
+1928-09-02 00:00:00,Finland,Sweden,2,3,Friendly,Helsinki,Finland,False
+1928-09-16 00:00:00,Germany,Denmark,2,1,Friendly,Nuremberg,Germany,False
+1928-09-21 00:00:00,Uruguay,Argentina,2,2,Copa Lipton,Montevideo,Uruguay,False
+1928-09-23 00:00:00,Czechoslovakia,Hungary,6,1,Friendly,Prague,Czechoslovakia,False
+1928-09-23 00:00:00,Latvia,Estonia,1,1,Friendly,Riga,Latvia,False
+1928-09-23 00:00:00,Norway,Germany,0,2,Friendly,Oslo,Norway,False
+1928-09-30 00:00:00,Sweden,Germany,2,0,Friendly,Stockholm,Sweden,False
+1928-10-07 00:00:00,Austria,Hungary,5,1,International Cup,Vienna,Austria,False
+1928-10-07 00:00:00,Denmark,Sweden,3,1,Nordic Championship,Copenhagen,Denmark,False
+1928-10-14 00:00:00,Switzerland,Italy,2,3,International Cup,Z√ºrich,Switzerland,False
+1928-10-22 00:00:00,England,Northern Ireland,2,1,British Championship,Liverpool,England,False
+1928-10-27 00:00:00,Czechoslovakia,Poland,3,2,Friendly,Prague,Czechoslovakia,False
+1928-10-27 00:00:00,Scotland,Wales,4,2,British Championship,Glasgow,Scotland,False
+1928-10-28 00:00:00,Austria,Switzerland,2,0,International Cup,Vienna,Austria,False
+1928-10-28 00:00:00,Czechoslovakia,Yugoslavia,7,1,Friendly,Prague,Czechoslovakia,False
+1928-11-01 00:00:00,Hungary,Switzerland,3,1,International Cup,Budapest,Hungary,False
+1928-11-04 00:00:00,Netherlands,Belgium,1,1,Friendly,Amsterdam,Netherlands,False
+1928-11-11 00:00:00,Italy,Austria,2,2,Friendly,Rome,Italy,False
+1928-11-17 00:00:00,Wales,England,2,3,British Championship,Swansea,Wales,False
+1928-12-02 00:00:00,Italy,Netherlands,3,2,Friendly,Milan,Italy,False
+1928-12-07 00:00:00,El Salvador,Honduras,5,0,Friendly,San Salvador,El Salvador,False
+1929-02-02 00:00:00,Wales,Northern Ireland,2,2,British Championship,Wrexham,Wales,False
+1929-02-10 00:00:00,Germany,Switzerland,7,1,Friendly,Mannheim,Germany,False
+1929-02-23 00:00:00,Northern Ireland,Scotland,3,7,British Championship,Belfast,Northern Ireland,False
+1929-02-24 00:00:00,France,Hungary,3,0,Friendly,Colombes,France,False
+1929-03-03 00:00:00,Italy,Czechoslovakia,4,2,International Cup,Bologna,Italy,False
+1929-03-17 00:00:00,Czechoslovakia,Austria,3,3,Friendly,Prague,Czechoslovakia,False
+1929-03-17 00:00:00,Netherlands,Switzerland,3,2,Friendly,Amsterdam,Netherlands,False
+1929-03-17 00:00:00,Spain,Portugal,5,0,Friendly,Seville,Spain,False
+1929-03-24 00:00:00,France,Portugal,2,0,Friendly,Colombes,France,False
+1929-04-07 00:00:00,Austria,Italy,3,0,International Cup,Vienna,Austria,False
+1929-04-13 00:00:00,Scotland,England,1,0,British Championship,Glasgow,Scotland,False
+1929-04-14 00:00:00,Spain,France,8,1,Friendly,Zaragoza,Spain,False
+1929-04-14 00:00:00,Switzerland,Hungary,4,5,International Cup,Berne,Switzerland,False
+1929-04-20 00:00:00,Barbados,Trinidad and Tobago,3,0,Friendly,Bridgetown,Barbados,False
+1929-04-21 00:00:00,Romania,Bulgaria,3,0,Friendly,Bucharest,Romania,False
+1929-04-22 00:00:00,Barbados,Trinidad and Tobago,2,0,Friendly,Bridgetown,Barbados,False
+1929-04-24 00:00:00,Barbados,Trinidad and Tobago,2,1,Friendly,Bridgetown,Barbados,False
+1929-04-28 00:00:00,Italy,Germany,1,2,Friendly,Turin,Italy,False
+1929-04-30 00:00:00,Republic of Ireland,Belgium,4,0,Friendly,Dublin,Irish Free State,False
+1929-05-01 00:00:00,El Salvador,Nicaragua,9,0,Friendly,San Salvador,El Salvador,False
+1929-05-05 00:00:00,Austria,Hungary,2,2,Friendly,Vienna,Austria,False
+1929-05-05 00:00:00,Belgium,Netherlands,3,1,Friendly,Antwerp,Belgium,False
+1929-05-05 00:00:00,Switzerland,Czechoslovakia,1,4,International Cup,Lausanne,Switzerland,False
+1929-05-09 00:00:00,France,England,1,4,Friendly,Colombes,France,False
+1929-05-10 00:00:00,Romania,Yugoslavia,2,3,Friendly,Bucharest,Romania,False
+1929-05-11 00:00:00,Belgium,England,1,5,Friendly,Forest,Belgium,False
+1929-05-15 00:00:00,Kenya,Uganda,3,5,Friendly,Nairobi,Kenya,False
+1929-05-15 00:00:00,Spain,England,4,3,Friendly,Madrid,Spain,False
+1929-05-19 00:00:00,France,Yugoslavia,1,3,Friendly,Colombes,France,False
+1929-05-26 00:00:00,Belgium,France,4,1,Friendly,Li√®ge,Belgium,False
+1929-05-26 00:00:00,Norway,Scotland,3,7,Friendly,Bergen,Norway,False
+1929-06-01 00:00:00,Germany,Scotland,1,1,Friendly,Berlin,Germany,False
+1929-06-04 00:00:00,Netherlands,Scotland,0,2,Friendly,Amsterdam,Netherlands,False
+1929-06-09 00:00:00,Sweden,Netherlands,6,2,Friendly,Stockholm,Sweden,False
+1929-06-12 00:00:00,Norway,Netherlands,4,4,Friendly,Oslo,Norway,False
+1929-06-14 00:00:00,Sweden,Finland,3,1,Nordic Championship,Stockholm,Sweden,False
+1929-06-16 00:00:00,Argentina,Uruguay,2,0,Friendly,Buenos Aires,Argentina,False
+1929-06-16 00:00:00,Sweden,Denmark,3,2,Nordic Championship,Gothenburg,Sweden,False
+1929-06-16 00:00:00,Uruguay,Argentina,1,1,Friendly,Montevideo,Uruguay,False
+1929-06-18 00:00:00,Norway,Finland,4,0,Nordic Championship,Oslo,Norway,False
+1929-06-23 00:00:00,Denmark,Norway,2,5,Nordic Championship,Copenhagen,Denmark,False
+1929-06-23 00:00:00,Germany,Sweden,3,0,Friendly,Cologne,Germany,False
+1929-06-28 00:00:00,Yugoslavia,Czechoslovakia,3,3,Friendly,Zagreb,Yugoslavia,False
+1929-06-30 00:00:00,Bulgaria,Greece,1,1,Friendly,Sofia,Bulgaria,False
+1929-07-07 00:00:00,Sweden,Estonia,4,1,Friendly,Landskrona,Sweden,False
+1929-07-25 00:00:00,Estonia,Finland,1,1,Friendly,Tallinn,Estonia,False
+1929-07-28 00:00:00,Sweden,Latvia,10,0,Friendly,Malm√∂,Sweden,False
+1929-08-14 00:00:00,Latvia,Lithuania,3,1,Baltic Cup,Riga,Latvia,False
+1929-08-15 00:00:00,Estonia,Lithuania,5,2,Baltic Cup,Riga,Latvia,True
+1929-08-16 00:00:00,Latvia,Estonia,2,2,Baltic Cup,Riga,Latvia,False
+1929-08-27 00:00:00,Finland,Estonia,2,1,Friendly,Helsinki,Finland,False
+1929-09-08 00:00:00,Czechoslovakia,Hungary,1,1,International Cup,Prague,Czechoslovakia,False
+1929-09-15 00:00:00,Austria,Czechoslovakia,2,1,Friendly,Vienna,Austria,False
+1929-09-15 00:00:00,Bulgaria,Romania,2,3,Friendly,Sofia,Bulgaria,False
+1929-09-15 00:00:00,Finland,Latvia,3,1,Friendly,Helsinki,Finland,False
+1929-09-18 00:00:00,Estonia,Latvia,4,1,Friendly,Tallinn,Estonia,False
+1929-09-20 00:00:00,Uruguay,Argentina,2,1,Copa Newton,Montevideo,Uruguay,False
+1929-09-28 00:00:00,Argentina,Uruguay,0,0,Copa Lipton,Buenos Aires,Argentina,False
+1929-09-29 00:00:00,Norway,Sweden,2,1,Nordic Championship,Oslo,Norway,False
+1929-10-06 00:00:00,Czechoslovakia,Switzerland,5,0,International Cup,Prague,Czechoslovakia,False
+1929-10-06 00:00:00,Hungary,Austria,2,1,Friendly,Budapest,Hungary,False
+1929-10-06 00:00:00,Romania,Yugoslavia,2,1,Balkan Cup,Bucharest,Romania,False
+1929-10-13 00:00:00,Denmark,Finland,8,0,Nordic Championship,Copenhagen,Denmark,False
+1929-10-19 00:00:00,Northern Ireland,England,0,3,British Championship,Belfast,Northern Ireland,False
+1929-10-20 00:00:00,Germany,Finland,4,0,Friendly,Altona,Germany,False
+1929-10-26 00:00:00,Trinidad and Tobago,Guyana,0,0,Friendly,Port of Spain,Trinidad and Tobago,False
+1929-10-26 00:00:00,Wales,Scotland,2,4,British Championship,Cardiff,Wales,False
+1929-10-27 00:00:00,Switzerland,Austria,1,3,International Cup,Berne,Switzerland,False
+1929-10-28 00:00:00,Czechoslovakia,Yugoslavia,4,3,Friendly,Prague,Czechoslovakia,False
+1929-11-01 00:00:00,Paraguay,Uruguay,3,0,Copa Am√©rica,Buenos Aires,Argentina,True
+1929-11-02 00:00:00,Trinidad and Tobago,Guyana,0,1,Friendly,Port of Spain,Trinidad and Tobago,False
+1929-11-03 00:00:00,Argentina,Peru,3,0,Copa Am√©rica,Buenos Aires,Argentina,False
+1929-11-03 00:00:00,Netherlands,Norway,1,4,Friendly,Amsterdam,Netherlands,False
+1929-11-03 00:00:00,Trinidad and Tobago,Guyana,3,1,Friendly,Port of Spain,Trinidad and Tobago,False
+1929-11-10 00:00:00,Argentina,Paraguay,4,1,Copa Am√©rica,Buenos Aires,Argentina,False
+1929-11-11 00:00:00,Peru,Uruguay,1,4,Copa Am√©rica,Buenos Aires,Argentina,True
+1929-11-11 00:00:00,Trinidad and Tobago,Guyana,1,1,Friendly,Port of Spain,Trinidad and Tobago,False
+1929-11-12 00:00:00,Trinidad and Tobago,Guyana,0,1,Friendly,Port of Spain,Trinidad and Tobago,False
+1929-11-16 00:00:00,Paraguay,Peru,5,0,Copa Am√©rica,Avellaneda,Argentina,True
+1929-11-17 00:00:00,Argentina,Uruguay,2,0,Copa Am√©rica,Buenos Aires,Argentina,False
+1929-11-20 00:00:00,England,Wales,6,0,British Championship,London,England,False
+1929-12-01 00:00:00,Italy,Portugal,6,1,Friendly,Milan,Italy,False
+1930-01-01 00:00:00,Spain,Czechoslovakia,1,0,Friendly,Barcelona,Spain,False
+1930-01-12 00:00:00,Portugal,Czechoslovakia,1,0,Friendly,Lisbon,Portugal,False
+1930-01-26 00:00:00,Greece,Yugoslavia,2,1,Balkan Cup,Athens,Greece,False
+1930-02-01 00:00:00,Northern Ireland,Wales,7,0,British Championship,Belfast,Northern Ireland,False
+1930-02-09 00:00:00,Italy,Switzerland,4,2,Friendly,Rome,Italy,False
+1930-02-16 00:00:00,Kenya,Uganda,0,0,Friendly,Nairobi,Kenya,False
+1930-02-22 00:00:00,Scotland,Northern Ireland,3,1,British Championship,Glasgow,Scotland,False
+1930-02-23 00:00:00,Portugal,France,2,0,Friendly,Porto,Portugal,False
+1930-03-02 00:00:00,Germany,Italy,0,2,Friendly,Frankfurt am Main,Germany,False
+1930-03-23 00:00:00,Czechoslovakia,Austria,2,2,Friendly,Prague,Czechoslovakia,False
+1930-03-23 00:00:00,France,Switzerland,3,3,Friendly,Colombes,France,False
+1930-04-05 00:00:00,England,Scotland,5,2,British Championship,London,England,False
+1930-04-06 00:00:00,Netherlands,Italy,1,1,Friendly,Amsterdam,Netherlands,False
+1930-04-13 00:00:00,France,Belgium,1,6,Friendly,Colombes,France,False
+1930-04-13 00:00:00,Switzerland,Hungary,2,2,Friendly,Basel,Switzerland,False
+1930-04-13 00:00:00,Yugoslavia,Bulgaria,6,1,Friendly,Belgrade,Yugoslavia,False
+1930-04-20 00:00:00,Cura√ßao,Aruba,2,1,Friendly,Willemstad,Cura√ßao,False
+1930-05-01 00:00:00,Czechoslovakia,Hungary,1,1,Friendly,Prague,Czechoslovakia,False
+1930-05-01 00:00:00,Uganda,Kenya,5,0,Friendly,Kampala,Uganda,False
+1930-05-04 00:00:00,Netherlands,Belgium,2,2,Friendly,Amsterdam,Netherlands,False
+1930-05-04 00:00:00,Switzerland,Germany,0,5,Friendly,Z√ºrich,Switzerland,False
+1930-05-04 00:00:00,Yugoslavia,Romania,2,1,Friendly,Belgrade,Yugoslavia,False
+1930-05-10 00:00:00,Germany,England,3,3,Friendly,Berlin,Germany,False
+1930-05-11 00:00:00,Belgium,Republic of Ireland,1,3,Friendly,Brussels,Belgium,False
+1930-05-11 00:00:00,France,Czechoslovakia,2,3,Friendly,Colombes,France,False
+1930-05-11 00:00:00,Hungary,Italy,0,5,International Cup,Budapest,Hungary,False
+1930-05-14 00:00:00,Austria,England,0,0,Friendly,Vienna,Austria,False
+1930-05-18 00:00:00,Belgium,Netherlands,3,1,Friendly,Antwerp,Belgium,False
+1930-05-18 00:00:00,France,Scotland,0,2,Friendly,Colombes,France,False
+1930-05-25 00:00:00,Argentina,Uruguay,1,1,Copa Newton,Buenos Aires,Argentina,False
+1930-05-25 00:00:00,Belgium,France,1,2,Friendly,Li√®ge,Belgium,False
+1930-05-25 00:00:00,Romania,Greece,8,1,Balkan Cup,Bucharest,Romania,False
+1930-05-27 00:00:00,China PR,Philippines,5,0,Friendly,Tokyo,Japan,True
+1930-05-29 00:00:00,Japan,China PR,3,3,Friendly,Tokyo,Japan,False
+1930-06-01 00:00:00,Hungary,Austria,2,1,Friendly,Budapest,Hungary,False
+1930-06-01 00:00:00,Norway,Finland,6,2,Nordic Championship,Oslo,Norway,False
+1930-06-08 00:00:00,Belgium,Portugal,2,1,Friendly,Antwerp,Belgium,False
+1930-06-08 00:00:00,Hungary,Netherlands,6,2,Friendly,Budapest,Hungary,False
+1930-06-08 00:00:00,Catalonia,Basque Country,0,1,Friendly,Barcelona,Spain,False
+1930-06-14 00:00:00,Czechoslovakia,Spain,2,0,Friendly,Prague,Czechoslovakia,False
+1930-06-15 00:00:00,Bulgaria,Yugoslavia,2,2,Friendly,Sofia,Bulgaria,False
+1930-06-15 00:00:00,Sweden,Switzerland,1,0,Friendly,Stockholm,Sweden,False
+1930-06-16 00:00:00,Finland,Denmark,1,6,Nordic Championship,Helsinki,Finland,False
+1930-06-19 00:00:00,Norway,Switzerland,3,0,Friendly,Oslo,Norway,False
+1930-06-22 00:00:00,Denmark,Sweden,6,1,Nordic Championship,Copenhagen,Denmark,False
+1930-06-22 00:00:00,Italy,Spain,2,3,Friendly,Bologna,Italy,False
+1930-06-27 00:00:00,Estonia,Latvia,1,1,Friendly,Tallinn,Estonia,False
+1930-07-06 00:00:00,Sweden,Norway,6,3,Nordic Championship,Stockholm,Sweden,False
+1930-07-13 00:00:00,Belgium,United States,0,3,FIFA World Cup,Montevideo,Uruguay,True
+1930-07-13 00:00:00,France,Mexico,4,1,FIFA World Cup,Montevideo,Uruguay,True
+1930-07-14 00:00:00,Brazil,Yugoslavia,1,2,FIFA World Cup,Montevideo,Uruguay,True
+1930-07-14 00:00:00,Peru,Romania,1,3,FIFA World Cup,Montevideo,Uruguay,True
+1930-07-15 00:00:00,Argentina,France,1,0,FIFA World Cup,Montevideo,Uruguay,True
+1930-07-16 00:00:00,Chile,Mexico,3,0,FIFA World Cup,Montevideo,Uruguay,True
+1930-07-17 00:00:00,Bolivia,Yugoslavia,0,4,FIFA World Cup,Montevideo,Uruguay,True
+1930-07-17 00:00:00,Paraguay,United States,0,3,FIFA World Cup,Montevideo,Uruguay,True
+1930-07-18 00:00:00,Estonia,Sweden,1,5,Friendly,Tallinn,Estonia,False
+1930-07-18 00:00:00,Uruguay,Peru,1,0,FIFA World Cup,Montevideo,Uruguay,False
+1930-07-19 00:00:00,Argentina,Mexico,6,3,FIFA World Cup,Montevideo,Uruguay,True
+1930-07-19 00:00:00,Chile,France,1,0,FIFA World Cup,Montevideo,Uruguay,True
+1930-07-20 00:00:00,Belgium,Paraguay,0,1,FIFA World Cup,Montevideo,Uruguay,True
+1930-07-20 00:00:00,Bolivia,Brazil,0,4,FIFA World Cup,Montevideo,Uruguay,True
+1930-07-21 00:00:00,Uruguay,Romania,4,0,FIFA World Cup,Montevideo,Uruguay,False
+1930-07-22 00:00:00,Argentina,Chile,3,1,FIFA World Cup,Montevideo,Uruguay,True
+1930-07-22 00:00:00,Latvia,Sweden,0,5,Friendly,Riga,Latvia,False
+1930-07-26 00:00:00,Argentina,United States,6,1,FIFA World Cup,Montevideo,Uruguay,True
+1930-07-27 00:00:00,Uruguay,Yugoslavia,6,1,FIFA World Cup,Montevideo,Uruguay,False
+1930-07-30 00:00:00,Uruguay,Argentina,4,2,FIFA World Cup,Montevideo,Uruguay,False
+1930-08-01 00:00:00,Brazil,France,3,2,Friendly,Rio de Janeiro,Brazil,False
+1930-08-03 00:00:00,Argentina,Yugoslavia,3,1,Friendly,Buenos Aires,Argentina,False
+1930-08-04 00:00:00,Latvia,Finland,3,0,Friendly,Riga,Latvia,False
+1930-08-06 00:00:00,Estonia,Finland,4,0,Friendly,Tallinn,Estonia,False
+1930-08-10 00:00:00,Brazil,Yugoslavia,4,1,Friendly,Rio de Janeiro,Brazil,False
+1930-08-15 00:00:00,Lithuania,Estonia,2,1,Baltic Cup,Kaunas,Lithuania,False
+1930-08-16 00:00:00,Estonia,Latvia,2,3,Baltic Cup,Kaunas,Lithuania,True
+1930-08-17 00:00:00,Brazil,United States,4,3,Friendly,Rio de Janeiro,Brazil,False
+1930-08-17 00:00:00,Lithuania,Latvia,3,3,Baltic Cup,Kaunas,Lithuania,False
+1930-09-07 00:00:00,Denmark,Germany,6,3,Friendly,Copenhagen,Denmark,False
+1930-09-13 00:00:00,Lithuania,Estonia,4,0,Friendly,Klaipƒóda,Lithuania,False
+1930-09-21 00:00:00,Austria,Hungary,2,3,Friendly,Vienna,Austria,False
+1930-09-21 00:00:00,Belgium,Czechoslovakia,2,3,Friendly,Antwerp,Belgium,False
+1930-09-21 00:00:00,Norway,Denmark,1,0,Nordic Championship,Oslo,Norway,False
+1930-09-28 00:00:00,Belgium,Sweden,2,2,Friendly,Li√®ge,Belgium,False
+1930-09-28 00:00:00,Finland,Sweden,4,4,Nordic Championship,Helsinki,Finland,False
+1930-09-28 00:00:00,Germany,Hungary,5,3,Friendly,Dresden,Germany,False
+1930-09-28 00:00:00,Sweden,Poland,0,3,Friendly,Stockholm,Sweden,False
+1930-10-12 00:00:00,Bulgaria,Romania,5,3,Balkan Cup,Sofia,Bulgaria,False
+1930-10-20 00:00:00,England,Northern Ireland,5,1,British Championship,Sheffield,England,False
+1930-10-25 00:00:00,Scotland,Wales,1,1,British Championship,Glasgow,Scotland,False
+1930-10-26 00:00:00,Hungary,Czechoslovakia,1,1,Friendly,Budapest,Hungary,False
+1930-10-26 00:00:00,Poland,Latvia,6,0,Friendly,Warsaw,Poland,False
+1930-11-02 00:00:00,Germany,Norway,1,1,Friendly,Breslau,Germany,False
+1930-11-02 00:00:00,Switzerland,Netherlands,6,3,Friendly,Z√ºrich,Switzerland,False
+1930-11-16 00:00:00,Austria,Sweden,4,1,Friendly,Vienna,Austria,False
+1930-11-16 00:00:00,Bulgaria,Yugoslavia,0,3,Balkan Cup,Sofia,Bulgaria,False
+1930-11-22 00:00:00,Wales,England,0,4,British Championship,Wrexham,Wales,False
+1930-11-30 00:00:00,Portugal,Spain,0,1,Friendly,Porto,Portugal,False
+1930-12-07 00:00:00,France,Belgium,2,2,Friendly,Montrouge,France,False
+1930-12-07 00:00:00,Greece,Bulgaria,6,1,Balkan Cup,Athens,Greece,False
+1931-01-01 00:00:00,Basque Country,Catalonia,3,2,Friendly,Bilbao,Spain,False
+1931-01-25 00:00:00,Italy,France,5,0,Friendly,Bologna,Italy,False
+1931-02-11 00:00:00,Barbados,Martinique,3,2,Friendly,Bridgetown,Barbados,False
+1931-02-12 00:00:00,Barbados,Martinique,0,0,Friendly,Bridgetown,Barbados,False
+1931-02-15 00:00:00,France,Czechoslovakia,1,2,Friendly,Colombes,France,False
+1931-02-21 00:00:00,Northern Ireland,Scotland,0,0,British Championship,Belfast,Northern Ireland,False
+1931-02-22 00:00:00,Italy,Austria,2,1,International Cup,Milan,Italy,False
+1931-02-28 00:00:00,Barbados,Martinique,1,2,Friendly,Bridgetown,Barbados,False
+1931-03-05 00:00:00,Guyana,Trinidad and Tobago,2,1,Friendly,Georgetown,British Guyana,False
+1931-03-06 00:00:00,Barbados,Trinidad and Tobago,1,5,Friendly,Georgetown,British Guyana,True
+1931-03-08 00:00:00,Guyana,Trinidad and Tobago,0,2,Friendly,Georgetown,British Guyana,False
+1931-03-09 00:00:00,Barbados,Trinidad and Tobago,1,7,Friendly,Georgetown,British Guyana,True
+1931-03-10 00:00:00,Guyana,Barbados,9,0,Friendly,Georgetown,British Guyana,False
+1931-03-14 00:00:00,Guyana,Barbados,7,0,Friendly,Georgetown,British Guyana,False
+1931-03-15 00:00:00,France,Germany,1,0,Friendly,Colombes,France,False
+1931-03-15 00:00:00,Yugoslavia,Greece,4,1,Balkan Cup,Belgrade,Yugoslavia,False
+1931-03-22 00:00:00,Czechoslovakia,Hungary,3,3,International Cup,Prague,Czechoslovakia,False
+1931-03-28 00:00:00,Scotland,England,2,0,British Championship,Glasgow,Scotland,False
+1931-03-29 00:00:00,Netherlands,Belgium,3,2,Friendly,Amsterdam,Netherlands,False
+1931-03-29 00:00:00,Switzerland,Italy,1,1,International Cup,Berne,Switzerland,False
+1931-04-05 00:00:00,Cura√ßao,Aruba,1,0,Friendly,Willemstad,Cura√ßao,False
+1931-04-12 00:00:00,Austria,Czechoslovakia,2,1,International Cup,Vienna,Austria,False
+1931-04-12 00:00:00,Hungary,Switzerland,6,2,International Cup,Budapest,Hungary,False
+1931-04-12 00:00:00,Portugal,Italy,0,2,Friendly,Porto,Portugal,False
+1931-04-19 00:00:00,Paraguay,Argentina,0,1,Friendly,Asunci√≥n,Paraguay,False
+1931-04-19 00:00:00,Spain,Italy,0,0,Friendly,Bilbao,Spain,False
+1931-04-19 00:00:00,Yugoslavia,Bulgaria,1,0,Balkan Cup,Belgrade,Yugoslavia,False
+1931-04-22 00:00:00,Wales,Northern Ireland,3,2,British Championship,Wrexham,Wales,False
+1931-04-25 00:00:00,Paraguay,Argentina,1,1,Friendly,Asunci√≥n,Paraguay,False
+1931-04-26 00:00:00,Netherlands,Germany,1,1,Friendly,Amsterdam,Netherlands,False
+1931-04-26 00:00:00,Spain,Republic of Ireland,1,1,Friendly,Barcelona,Spain,False
+1931-05-03 00:00:00,Austria,Hungary,0,0,International Cup,Vienna,Austria,False
+1931-05-03 00:00:00,Belgium,Netherlands,4,2,Friendly,Antwerp,Belgium,False
+1931-05-10 00:00:00,Romania,Bulgaria,5,2,Balkan Cup,Bucharest,Romania,False
+1931-05-14 00:00:00,France,England,5,2,Friendly,Colombes,France,False
+1931-05-16 00:00:00,Austria,Scotland,5,0,Friendly,Vienna,Austria,False
+1931-05-16 00:00:00,Belgium,England,1,4,Friendly,Brussels,Belgium,False
+1931-05-20 00:00:00,Italy,Scotland,3,0,Friendly,Rome,Italy,False
+1931-05-21 00:00:00,Yugoslavia,Hungary,3,2,Friendly,Belgrade,Yugoslavia,False
+1931-05-24 00:00:00,Germany,Austria,0,6,Friendly,Berlin,Germany,False
+1931-05-24 00:00:00,Switzerland,Scotland,2,3,Friendly,Geneva,Switzerland,False
+1931-05-25 00:00:00,Denmark,Norway,3,1,Nordic Championship,Copenhagen,Denmark,False
+1931-05-28 00:00:00,Latvia,Estonia,0,1,Friendly,Riga,Latvia,False
+1931-05-31 00:00:00,Portugal,Belgium,3,2,Friendly,Lisbon,Portugal,False
+1931-06-09 00:00:00,Estonia,Lithuania,4,1,Friendly,Tallinn,Estonia,False
+1931-06-13 00:00:00,Czechoslovakia,Switzerland,7,3,International Cup,Prague,Czechoslovakia,False
+1931-06-14 00:00:00,Denmark,Netherlands,0,2,Friendly,Copenhagen,Denmark,False
+1931-06-14 00:00:00,Poland,Czechoslovakia,0,4,Friendly,Warsaw,Poland,False
+1931-06-16 00:00:00,Austria,Switzerland,2,0,Friendly,Vienna,Austria,False
+1931-06-17 00:00:00,Finland,Estonia,3,1,Friendly,Helsinki,Finland,False
+1931-06-17 00:00:00,Sweden,Germany,0,0,Friendly,Stockholm,Sweden,False
+1931-06-21 00:00:00,Norway,Germany,2,2,Friendly,Oslo,Norway,False
+1931-06-28 00:00:00,Sweden,Denmark,3,1,Nordic Championship,Stockholm,Sweden,False
+1931-06-28 00:00:00,Yugoslavia,Romania,2,4,Balkan Cup,Zagreb,Yugoslavia,False
+1931-06-30 00:00:00,Latvia,Lithuania,5,2,Friendly,Riga,Latvia,False
+1931-07-03 00:00:00,Sweden,Finland,8,2,Nordic Championship,Stockholm,Sweden,False
+1931-07-04 00:00:00,Argentina,Paraguay,1,1,Copa Chevallier Boutell,Buenos Aires,Argentina,False
+1931-07-08 00:00:00,Sweden,Estonia,3,1,Friendly,Sandviken,Sweden,False
+1931-07-09 00:00:00,Argentina,Paraguay,3,1,Copa Chevallier Boutell,Buenos Aires,Argentina,False
+1931-07-26 00:00:00,Sweden,Latvia,6,0,Friendly,V√§ster√•s,Sweden,False
+1931-08-02 00:00:00,Yugoslavia,Czechoslovakia,2,1,Friendly,Belgrade,Yugoslavia,False
+1931-08-19 00:00:00,Finland,Latvia,4,0,Friendly,Helsinki,Finland,False
+1931-08-23 00:00:00,Poland,Romania,2,3,Friendly,Warsaw,Poland,False
+1931-08-26 00:00:00,Lithuania,Romania,2,4,Friendly,Kaunas,Lithuania,False
+1931-08-30 00:00:00,Estonia,Lithuania,2,0,Baltic Cup,Tallinn,Estonia,False
+1931-08-31 00:00:00,Latvia,Lithuania,1,0,Baltic Cup,Tallinn,Estonia,True
+1931-09-01 00:00:00,Estonia,Latvia,3,1,Baltic Cup,Tallinn,Estonia,False
+1931-09-06 00:00:00,Brazil,Uruguay,2,0,Copa Rio Branco,Rio de Janeiro,Brazil,False
+1931-09-06 00:00:00,Finland,Norway,4,4,Nordic Championship,Helsinki,Finland,False
+1931-09-13 00:00:00,Austria,Germany,5,0,Friendly,Vienna,Austria,False
+1931-09-19 00:00:00,Scotland,Northern Ireland,3,1,British Championship,Glasgow,Scotland,False
+1931-09-20 00:00:00,Hungary,Czechoslovakia,3,0,Friendly,Budapest,Hungary,False
+1931-09-27 00:00:00,Bulgaria,Turkey,5,1,Balkan Cup,Sofia,Bulgaria,False
+1931-09-27 00:00:00,Germany,Denmark,4,2,Friendly,Hanover,Germany,False
+1931-09-27 00:00:00,Latvia,Estonia,2,1,Friendly,Riga,Latvia,False
+1931-09-27 00:00:00,Norway,Sweden,2,1,Nordic Championship,Oslo,Norway,False
+1931-10-02 00:00:00,Turkey,Yugoslavia,2,0,Balkan Cup,Sofia,Bulgaria,True
+1931-10-04 00:00:00,Bulgaria,Yugoslavia,3,2,Balkan Cup,Sofia,Bulgaria,False
+1931-10-04 00:00:00,Hungary,Austria,2,2,International Cup,Budapest,Hungary,False
+1931-10-11 00:00:00,Belgium,Poland,2,1,Friendly,Brussels,Belgium,False
+1931-10-11 00:00:00,Denmark,Finland,2,3,Nordic Championship,Copenhagen,Denmark,False
+1931-10-17 00:00:00,Kenya,Uganda,2,1,Friendly,Nairobi,Kenya,False
+1931-10-17 00:00:00,Northern Ireland,England,2,6,British Championship,Belfast,Northern Ireland,False
+1931-10-25 00:00:00,Bulgaria,Greece,2,1,Balkan Cup,Sofia,Bulgaria,False
+1931-10-25 00:00:00,Poland,Yugoslavia,6,3,Friendly,Pozna≈Ñ,Poland,False
+1931-10-31 00:00:00,Wales,Scotland,2,3,British Championship,Wrexham,Wales,False
+1931-11-08 00:00:00,Hungary,Sweden,3,1,Friendly,Budapest,Hungary,False
+1931-11-15 00:00:00,Italy,Czechoslovakia,2,2,International Cup,Rome,Italy,False
+1931-11-18 00:00:00,England,Wales,3,1,British Championship,Liverpool,England,False
+1931-11-29 00:00:00,France,Netherlands,3,4,Friendly,Colombes,France,False
+1931-11-29 00:00:00,Greece,Romania,2,4,Balkan Cup,Athens,Greece,False
+1931-11-29 00:00:00,Switzerland,Austria,1,8,International Cup,Basel,Switzerland,False
+1931-12-05 00:00:00,Northern Ireland,Wales,4,0,British Championship,Belfast,Northern Ireland,False
+1931-12-06 00:00:00,Belgium,Switzerland,2,1,Friendly,Brussels,Belgium,False
+1931-12-09 00:00:00,England,Spain,7,1,Friendly,London,England,False
+1931-12-13 00:00:00,Republic of Ireland,Spain,0,5,Friendly,Dublin,Irish Free State,False
+1931-12-13 00:00:00,Italy,Hungary,3,2,International Cup,Turin,Italy,False
+1932-02-14 00:00:00,Italy,Switzerland,3,0,International Cup,Naples,Italy,False
+1932-02-19 00:00:00,Egypt,Hungary,0,0,Friendly,Cairo,Egypt,False
+1932-03-06 00:00:00,Germany,Switzerland,2,0,Friendly,Leipzig,Germany,False
+1932-03-13 00:00:00,Haiti,Jamaica,4,1,Friendly,Port-au-Prince,Haiti,False
+1932-03-20 00:00:00,Austria,Italy,2,1,International Cup,Vienna,Austria,False
+1932-03-20 00:00:00,Belgium,Netherlands,1,4,Friendly,Antwerp,Belgium,False
+1932-03-20 00:00:00,Czechoslovakia,Hungary,1,3,Friendly,Prague,Czechoslovakia,False
+1932-03-20 00:00:00,Haiti,Jamaica,0,1,Friendly,Port-au-Prince,Haiti,False
+1932-03-20 00:00:00,Switzerland,France,3,3,Friendly,Berne,Switzerland,False
+1932-03-23 00:00:00,Dominica,Martinique,1,0,Friendly,Roseau,Dominica,False
+1932-03-27 00:00:00,Greece,Bulgaria,1,2,Friendly,Athens,Greece,False
+1932-03-30 00:00:00,Greece,Bulgaria,2,2,Friendly,Athens,Greece,False
+1932-04-09 00:00:00,England,Scotland,3,0,British Championship,London,England,False
+1932-04-10 00:00:00,France,Italy,1,2,Friendly,Colombes,France,False
+1932-04-15 00:00:00,Guyana,Trinidad and Tobago,1,0,Friendly,Bridgetown,Barbados,True
+1932-04-17 00:00:00,Barbados,Trinidad and Tobago,1,0,Friendly,Bridgetown,Barbados,False
+1932-04-17 00:00:00,Netherlands,Belgium,2,1,Friendly,Amsterdam,Netherlands,False
+1932-04-17 00:00:00,Switzerland,Czechoslovakia,5,1,International Cup,Z√ºrich,Switzerland,False
+1932-04-19 00:00:00,Barbados,Guyana,0,1,Friendly,Bridgetown,Barbados,False
+1932-04-21 00:00:00,Barbados,Guyana,2,2,Friendly,Bridgetown,Barbados,False
+1932-04-23 00:00:00,Guyana,Trinidad and Tobago,1,2,Friendly,Bridgetown,Barbados,True
+1932-04-24 00:00:00,Austria,Hungary,8,2,Friendly,Vienna,Austria,False
+1932-04-24 00:00:00,Spain,Yugoslavia,2,1,Friendly,Oviedo,Spain,False
+1932-04-26 00:00:00,Barbados,Trinidad and Tobago,1,3,Friendly,Bridgetown,Barbados,False
+1932-05-01 00:00:00,Belgium,France,5,2,Friendly,Brussels,Belgium,False
+1932-05-03 00:00:00,Portugal,Yugoslavia,3,2,Friendly,Lisbon,Portugal,False
+1932-05-08 00:00:00,France,Scotland,1,3,Friendly,Colombes,France,False
+1932-05-08 00:00:00,Hungary,Italy,1,1,International Cup,Budapest,Hungary,False
+1932-05-08 00:00:00,Netherlands,Republic of Ireland,0,2,Friendly,Amsterdam,Netherlands,False
+1932-05-15 00:00:00,Argentina,Uruguay,2,0,Friendly,Buenos Aires,Argentina,False
+1932-05-16 00:00:00,Sweden,Finland,7,1,Friendly,Stockholm,Sweden,False
+1932-05-18 00:00:00,Uruguay,Argentina,1,0,Friendly,Montevideo,Uruguay,False
+1932-05-22 00:00:00,Czechoslovakia,Austria,1,1,International Cup,Prague,Czechoslovakia,False
+1932-05-29 00:00:00,Netherlands,Czechoslovakia,1,2,Friendly,Amsterdam,Netherlands,False
+1932-05-29 00:00:00,Yugoslavia,Poland,0,3,Friendly,Zagreb,Yugoslavia,False
+1932-06-01 00:00:00,Estonia,Latvia,3,0,Friendly,Tallinn,Estonia,False
+1932-06-05 00:00:00,Denmark,Belgium,3,4,Friendly,Copenhagen,Denmark,False
+1932-06-05 00:00:00,Norway,Estonia,3,0,Friendly,Oslo,Norway,False
+1932-06-05 00:00:00,Yugoslavia,France,2,1,Friendly,Belgrade,Yugoslavia,False
+1932-06-09 00:00:00,Bulgaria,France,3,5,Friendly,Sofia,Bulgaria,False
+1932-06-10 00:00:00,Finland,Sweden,1,3,Nordic Championship,Helsinki,Finland,False
+1932-06-12 00:00:00,Romania,France,6,3,Friendly,Bucharest,Romania,False
+1932-06-12 00:00:00,Sweden,Belgium,3,1,Friendly,Stockholm,Sweden,False
+1932-06-17 00:00:00,Norway,Finland,2,1,Nordic Championship,Oslo,Norway,False
+1932-06-19 00:00:00,Denmark,Sweden,3,1,Nordic Championship,Copenhagen,Denmark,False
+1932-06-19 00:00:00,Switzerland,Hungary,3,1,International Cup,Berne,Switzerland,False
+1932-06-26 00:00:00,Bulgaria,Romania,2,0,Balkan Cup,Belgrade,Yugoslavia,True
+1932-06-26 00:00:00,Yugoslavia,Greece,7,1,Balkan Cup,Belgrade,Yugoslavia,False
+1932-06-28 00:00:00,Greece,Romania,0,3,Balkan Cup,Belgrade,Yugoslavia,True
+1932-06-29 00:00:00,Lithuania,Latvia,2,3,Friendly,Kaunas,Lithuania,False
+1932-06-30 00:00:00,Yugoslavia,Bulgaria,2,3,Balkan Cup,Belgrade,Yugoslavia,False
+1932-07-01 00:00:00,Finland,Germany,1,4,Friendly,Helsinki,Finland,False
+1932-07-01 00:00:00,Sweden,Norway,1,4,Nordic Championship,Gothenburg,Sweden,False
+1932-07-02 00:00:00,Bulgaria,Greece,2,0,Balkan Cup,Belgrade,Yugoslavia,True
+1932-07-03 00:00:00,Yugoslavia,Romania,3,1,Balkan Cup,Belgrade,Yugoslavia,False
+1932-07-10 00:00:00,Poland,Sweden,2,0,Friendly,Warsaw,Poland,False
+1932-07-13 00:00:00,Latvia,Sweden,0,0,Friendly,Riga,Latvia,False
+1932-07-15 00:00:00,Estonia,Sweden,1,3,Friendly,Tallinn,Estonia,False
+1932-07-17 00:00:00,Sweden,Austria,3,4,Friendly,Stockholm,Sweden,False
+1932-07-24 00:00:00,Latvia,Lithuania,2,1,Friendly,LiepƒÅja,Latvia,False
+1932-08-06 00:00:00,Lithuania,Estonia,1,0,Friendly,Kaunas,Lithuania,False
+1932-08-17 00:00:00,Estonia,Finland,0,3,Friendly,Tallinn,Estonia,False
+1932-08-25 00:00:00,Uganda,Kenya,13,1,Friendly,Kampala,Uganda,False
+1932-08-28 00:00:00,Latvia,Lithuania,4,1,Baltic Cup,Riga,Latvia,False
+1932-08-29 00:00:00,Estonia,Lithuania,1,2,Baltic Cup,Riga,Latvia,True
+1932-08-30 00:00:00,Finland,Denmark,4,2,Nordic Championship,Helsinki,Finland,False
+1932-08-30 00:00:00,Latvia,Estonia,1,0,Baltic Cup,Riga,Latvia,False
+1932-09-11 00:00:00,Lithuania,Latvia,1,0,Friendly,Kaunas,Lithuania,False
+1932-09-17 00:00:00,Northern Ireland,Scotland,0,4,British Championship,Belfast,Northern Ireland,False
+1932-09-18 00:00:00,Hungary,Czechoslovakia,2,1,International Cup,Budapest,Hungary,False
+1932-09-25 00:00:00,Germany,Sweden,4,3,Friendly,Nuremberg,Germany,False
+1932-09-25 00:00:00,Norway,Denmark,1,2,Nordic Championship,Oslo,Norway,False
+1932-09-25 00:00:00,Sweden,Lithuania,8,1,Friendly,Stockholm,Sweden,False
+1932-10-02 00:00:00,Hungary,Austria,2,3,Friendly,Budapest,Hungary,False
+1932-10-02 00:00:00,Poland,Latvia,2,1,Friendly,Warsaw,Poland,False
+1932-10-02 00:00:00,Romania,Poland,0,5,Friendly,Bucharest,Romania,False
+1932-10-09 00:00:00,Czechoslovakia,Yugoslavia,2,1,Friendly,Prague,Czechoslovakia,False
+1932-10-17 00:00:00,England,Northern Ireland,1,0,British Championship,Blackpool,England,False
+1932-10-23 00:00:00,Austria,Switzerland,3,1,International Cup,Vienna,Austria,False
+1932-10-26 00:00:00,Scotland,Wales,2,5,British Championship,Edinburgh,Scotland,False
+1932-10-28 00:00:00,Czechoslovakia,Italy,2,1,International Cup,Prague,Czechoslovakia,False
+1932-10-30 00:00:00,Hungary,Germany,2,1,Friendly,Budapest,Hungary,False
+1932-11-04 00:00:00,Turkey,Bulgaria,2,3,Friendly,Istanbul,Turkey,False
+1932-11-06 00:00:00,Switzerland,Sweden,2,1,Friendly,Basel,Switzerland,False
+1932-11-16 00:00:00,Wales,England,0,0,British Championship,Wrexham,Wales,False
+1932-11-27 00:00:00,Italy,Hungary,4,2,Friendly,Milan,Italy,False
+1932-12-04 00:00:00,Germany,Netherlands,0,2,Friendly,D√ºsseldorf,Germany,False
+1932-12-04 00:00:00,Uruguay,Brazil,1,2,Copa Rio Branco,Montevideo,Uruguay,False
+1932-12-07 00:00:00,England,Austria,4,3,Friendly,London,England,False
+1932-12-07 00:00:00,Wales,Northern Ireland,4,1,British Championship,Wrexham,Wales,False
+1932-12-11 00:00:00,Belgium,Austria,1,6,Friendly,Brussels,Belgium,False
+1933-01-01 00:00:00,Italy,Germany,3,1,Friendly,Bologna,Italy,False
+1933-01-21 00:00:00,Uruguay,Argentina,2,1,Friendly,Montevideo,Uruguay,False
+1933-01-22 00:00:00,Netherlands,Switzerland,0,2,Friendly,Amsterdam,Netherlands,False
+1933-01-29 00:00:00,Portugal,Hungary,1,0,Friendly,Lisbon,Portugal,False
+1933-02-05 00:00:00,Argentina,Uruguay,4,1,Friendly,Avellaneda,Argentina,False
+1933-02-12 00:00:00,Belgium,Italy,2,3,Friendly,Brussels,Belgium,False
+1933-02-12 00:00:00,France,Austria,0,4,Friendly,Paris,France,False
+1933-03-05 00:00:00,Netherlands,Hungary,1,2,Friendly,Amsterdam,Netherlands,False
+1933-03-12 00:00:00,Switzerland,Belgium,3,3,Friendly,Z√ºrich,Switzerland,False
+1933-03-19 00:00:00,Germany,France,3,3,Friendly,Berlin,Germany,False
+1933-03-19 00:00:00,Hungary,Czechoslovakia,2,0,Friendly,Budapest,Hungary,False
+1933-03-26 00:00:00,France,Belgium,3,0,Friendly,Colombes,France,False
+1933-04-01 00:00:00,Scotland,England,2,1,British Championship,Glasgow,Scotland,False
+1933-04-02 00:00:00,Spain,Portugal,3,0,Friendly,Vigo,Spain,False
+1933-04-02 00:00:00,Switzerland,Italy,0,3,International Cup,Geneva,Switzerland,False
+1933-04-09 00:00:00,Austria,Czechoslovakia,1,2,Friendly,Vienna,Austria,False
+1933-04-09 00:00:00,Belgium,Netherlands,1,3,Friendly,Antwerp,Belgium,False
+1933-04-23 00:00:00,France,Spain,1,0,Friendly,Colombes,France,False
+1933-04-30 00:00:00,Hungary,Austria,1,1,Friendly,Budapest,Hungary,False
+1933-04-30 00:00:00,Yugoslavia,Spain,1,1,Friendly,Belgrade,Yugoslavia,False
+1933-05-07 00:00:00,Italy,Czechoslovakia,2,0,International Cup,Florence,Italy,False
+1933-05-07 00:00:00,Netherlands,Belgium,1,2,Friendly,Amsterdam,Netherlands,False
+1933-05-07 00:00:00,Switzerland,Yugoslavia,4,1,Friendly,Z√ºrich,Switzerland,False
+1933-05-13 00:00:00,Italy,England,1,1,Friendly,Rome,Italy,False
+1933-05-20 00:00:00,Switzerland,England,0,4,Friendly,Berne,Switzerland,False
+1933-05-21 00:00:00,Spain,Bulgaria,13,0,Friendly,Madrid,Spain,False
+1933-05-25 00:00:00,France,Wales,1,1,Friendly,Colombes,France,False
+1933-05-28 00:00:00,Latvia,Estonia,2,0,Friendly,Riga,Latvia,False
+1933-06-03 00:00:00,Greece,Yugoslavia,3,5,Balkan Cup,Bucharest,Romania,True
+1933-06-04 00:00:00,Poland,Belgium,0,1,Friendly,Warsaw,Poland,False
+1933-06-04 00:00:00,Romania,Bulgaria,7,0,Balkan Cup,Bucharest,Romania,False
+1933-06-05 00:00:00,Australia,New Zealand,4,2,Friendly,Brisbane,Australia,False
+1933-06-07 00:00:00,Bulgaria,Yugoslavia,0,4,Balkan Cup,Bucharest,Romania,True
+1933-06-10 00:00:00,Bulgaria,Greece,2,0,Balkan Cup,Bucharest,Romania,True
+1933-06-10 00:00:00,Czechoslovakia,France,4,0,Friendly,Prague,Czechoslovakia,False
+1933-06-11 00:00:00,Austria,Belgium,4,1,Friendly,Vienna,Austria,False
+1933-06-11 00:00:00,Denmark,Norway,2,2,Nordic Championship,Copenhagen,Denmark,False
+1933-06-11 00:00:00,Romania,Yugoslavia,5,0,Balkan Cup,Bucharest,Romania,False
+1933-06-11 00:00:00,Sweden,Estonia,6,2,FIFA World Cup qualification,Stockholm,Sweden,False
+1933-06-12 00:00:00,Latvia,Lithuania,6,2,Friendly,Riga,Latvia,False
+1933-06-17 00:00:00,Australia,New Zealand,6,4,Friendly,Sydney,Australia,False
+1933-06-18 00:00:00,Sweden,Denmark,2,3,Nordic Championship,Stockholm,Sweden,False
+1933-06-24 00:00:00,Australia,New Zealand,4,2,Friendly,Sydney,Australia,False
+1933-06-29 00:00:00,Lithuania,Sweden,0,2,FIFA World Cup qualification,Kaunas,Lithuania,False
+1933-07-02 00:00:00,Sweden,Hungary,5,2,Friendly,Stockholm,Sweden,False
+1933-07-04 00:00:00,Latvia,Sweden,1,1,Friendly,Riga,Latvia,False
+1933-07-14 00:00:00,Sweden,Finland,2,0,Nordic Championship,Stockholm,Sweden,False
+1933-07-20 00:00:00,Estonia,Lithuania,2,1,Friendly,Tallinn,Estonia,False
+1933-08-06 00:00:00,Yugoslavia,Czechoslovakia,2,1,Friendly,Zagreb,Yugoslavia,False
+1933-08-09 00:00:00,Estonia,Latvia,2,1,Friendly,Tallinn,Estonia,False
+1933-08-09 00:00:00,Finland,Lithuania,9,2,Friendly,Helsinki,Finland,False
+1933-08-16 00:00:00,Finland,Estonia,2,1,Friendly,Helsinki,Finland,False
+1933-09-02 00:00:00,Lithuania,Estonia,1,1,Baltic Cup,Kaunas,Lithuania,False
+1933-09-03 00:00:00,Estonia,Latvia,0,1,Baltic Cup,Kaunas,Lithuania,True
+1933-09-03 00:00:00,Finland,Norway,1,5,Nordic Championship,Helsinki,Finland,False
+1933-09-04 00:00:00,Lithuania,Latvia,2,2,Baltic Cup,Kaunas,Lithuania,False
+1933-09-05 00:00:00,Lithuania,Estonia,0,5,Friendly,Kaunas,Lithuania,False
+1933-09-10 00:00:00,Poland,Yugoslavia,4,3,Friendly,Warsaw,Poland,False
+1933-09-16 00:00:00,Scotland,Northern Ireland,1,2,British Championship,Glasgow,Scotland,False
+1933-09-17 00:00:00,Czechoslovakia,Austria,3,3,Friendly,Prague,Czechoslovakia,False
+1933-09-17 00:00:00,Hungary,Switzerland,3,0,International Cup,Budapest,Hungary,False
+1933-09-24 00:00:00,Norway,Sweden,0,1,Nordic Championship,Oslo,Norway,False
+1933-09-24 00:00:00,Yugoslavia,Switzerland,2,2,FIFA World Cup qualification,Belgrade,Yugoslavia,False
+1933-10-01 00:00:00,Austria,Hungary,2,2,Friendly,Vienna,Austria,False
+1933-10-04 00:00:00,Wales,Scotland,3,2,British Championship,Cardiff,Wales,False
+1933-10-04 00:00:00,Silesia,Poland,1,2,Friendly,Katowice,Poland,False
+1933-10-08 00:00:00,Aruba,Cura√ßao,1,3,Friendly,Oranjestad,Aruba,False
+1933-10-08 00:00:00,Denmark,Finland,2,0,Nordic Championship,Copenhagen,Denmark,False
+1933-10-11 00:00:00,Aruba,Cura√ßao,0,2,Friendly,Oranjestad,Aruba,False
+1933-10-14 00:00:00,Northern Ireland,England,0,3,British Championship,Belfast,Northern Ireland,False
+1933-10-15 00:00:00,Poland,Czechoslovakia,1,2,FIFA World Cup qualification,Warsaw,Poland,False
+1933-10-22 00:00:00,Germany,Belgium,8,1,Friendly,Duisburg,Germany,False
+1933-10-22 00:00:00,Hungary,Italy,0,1,International Cup,Budapest,Hungary,False
+1933-10-23 00:00:00,Trinidad and Tobago,Barbados,8,4,Friendly,Port of Spain,Trinidad and Tobago,False
+1933-10-24 00:00:00,Trinidad and Tobago,Guyana,2,0,Friendly,Port of Spain,Trinidad and Tobago,False
+1933-10-25 00:00:00,Barbados,Guyana,0,2,Friendly,Port of Spain,Trinidad and Tobago,True
+1933-10-27 00:00:00,Trinidad and Tobago,Guyana,1,1,Friendly,Port of Spain,Trinidad and Tobago,False
+1933-10-29 00:00:00,Switzerland,Romania,2,2,FIFA World Cup qualification,Berne,Switzerland,False
+1933-10-30 00:00:00,Trinidad and Tobago,Barbados,3,1,Friendly,Port of Spain,Trinidad and Tobago,False
+1933-11-02 00:00:00,Trinidad and Tobago,Guyana,1,0,Friendly,Port of Spain,Trinidad and Tobago,False
+1933-11-03 00:00:00,Barbados,Guyana,2,5,Friendly,Port of Spain,Trinidad and Tobago,True
+1933-11-04 00:00:00,Northern Ireland,Wales,1,1,British Championship,Belfast,Northern Ireland,False
+1933-11-05 00:00:00,Germany,Norway,2,2,Friendly,Magdeburg,Germany,False
+1933-11-05 00:00:00,Trinidad and Tobago,Barbados,6,0,Friendly,Port of Spain,Trinidad and Tobago,False
+1933-11-15 00:00:00,England,Wales,1,2,British Championship,Newcastle,England,False
+1933-11-19 00:00:00,Switzerland,Germany,0,2,Friendly,Z√ºrich,Switzerland,False
+1933-11-26 00:00:00,Belgium,Denmark,2,2,Friendly,Brussels,Belgium,False
+1933-11-29 00:00:00,Scotland,Austria,2,2,Friendly,Glasgow,Scotland,False
+1933-12-03 00:00:00,Germany,Poland,1,0,Friendly,Berlin,Germany,False
+1933-12-03 00:00:00,Italy,Switzerland,5,2,International Cup,Florence,Italy,False
+1933-12-06 00:00:00,England,France,4,1,Friendly,London,England,False
+1933-12-10 00:00:00,Netherlands,Austria,0,1,Friendly,Amsterdam,Netherlands,False
+1933-12-14 00:00:00,Uruguay,Argentina,0,1,Friendly,Montevideo,Uruguay,False
+1934-01-14 00:00:00,Germany,Hungary,3,1,Friendly,Frankfurt am Main,Germany,False
+1934-01-21 00:00:00,Belgium,France,2,3,Friendly,Brussels,Belgium,False
+1934-01-28 00:00:00,Haiti,Cuba,1,3,FIFA World Cup qualification,Port-au-Prince,Haiti,False
+1934-02-01 00:00:00,Haiti,Cuba,1,1,FIFA World Cup qualification,Port-au-Prince,Haiti,False
+1934-02-02 00:00:00,Catalonia,Spain,0,2,Friendly,Barcelona,Spain,False
+1934-02-04 00:00:00,Haiti,Cuba,0,6,FIFA World Cup qualification,Port-au-Prince,Haiti,False
+1934-02-11 00:00:00,Italy,Austria,2,4,International Cup,Turin,Italy,False
+1934-02-25 00:00:00,Republic of Ireland,Belgium,4,4,FIFA World Cup qualification,Dublin,Irish Free State,True
+1934-03-04 00:00:00,Mexico,Cuba,3,2,FIFA World Cup qualification,Mexico City,Mexico,False
+1934-03-11 00:00:00,France,Switzerland,0,1,Friendly,Paris,France,False
+1934-03-11 00:00:00,Luxembourg,Germany,1,9,FIFA World Cup qualification,Luxembourg,Luxembourg,False
+1934-03-11 00:00:00,Mexico,Cuba,5,0,FIFA World Cup qualification,Mexico City,Mexico,False
+1934-03-11 00:00:00,Netherlands,Belgium,9,3,Friendly,Amsterdam,Netherlands,False
+1934-03-11 00:00:00,Spain,Portugal,9,0,FIFA World Cup qualification,Madrid,Spain,False
+1934-03-13 00:00:00,Guadeloupe,Martinique,0,6,Friendly,Basse-Terre,Guadeloupe,False
+1934-03-16 00:00:00,Egypt,Israel,7,1,FIFA World Cup qualification,Cairo,Egypt,False
+1934-03-18 00:00:00,Bulgaria,Yugoslavia,1,2,Friendly,Sofia,Bulgaria,False
+1934-03-18 00:00:00,Mexico,Cuba,4,1,FIFA World Cup qualification,Mexico City,Mexico,False
+1934-03-18 00:00:00,Portugal,Spain,1,2,FIFA World Cup qualification,Lisbon,Portugal,False
+1934-03-25 00:00:00,Bulgaria,Hungary,1,4,FIFA World Cup qualification,Sofia,Bulgaria,False
+1934-03-25 00:00:00,France,Czechoslovakia,1,2,Friendly,Colombes,France,False
+1934-03-25 00:00:00,Italy,Greece,4,0,FIFA World Cup qualification,Milan,Italy,False
+1934-03-25 00:00:00,Switzerland,Austria,2,3,International Cup,Geneva,Switzerland,False
+1934-04-01 00:00:00,Yugoslavia,Bulgaria,2,3,Friendly,Belgrade,Yugoslavia,False
+1934-04-06 00:00:00,Israel,Egypt,1,4,FIFA World Cup qualification,Tel Aviv,Palestine,True
+1934-04-08 00:00:00,Netherlands,Republic of Ireland,5,2,FIFA World Cup qualification,Amsterdam,Netherlands,False
+1934-04-14 00:00:00,England,Scotland,3,0,British Championship,London,England,False
+1934-04-15 00:00:00,Austria,Hungary,5,2,Friendly,Vienna,Austria,False
+1934-04-15 00:00:00,Luxembourg,France,1,6,FIFA World Cup qualification,Luxembourg,Luxembourg,False
+1934-04-25 00:00:00,Austria,Bulgaria,6,1,FIFA World Cup qualification,Vienna,Austria,False
+1934-04-25 00:00:00,Hungary,Bulgaria,4,1,FIFA World Cup qualification,Budapest,Hungary,False
+1934-04-29 00:00:00,Belgium,Netherlands,2,4,FIFA World Cup qualification,Antwerp,Belgium,False
+1934-04-29 00:00:00,Czechoslovakia,Hungary,2,2,International Cup,Prague,Czechoslovakia,False
+1934-04-29 00:00:00,Romania,Yugoslavia,2,1,FIFA World Cup qualification,Bucharest,Romania,False
+1934-05-10 00:00:00,Hungary,England,2,1,Friendly,Budapest,Hungary,False
+1934-05-10 00:00:00,Netherlands,France,4,5,Friendly,Amsterdam,Netherlands,False
+1934-05-12 00:00:00,Philippines,China PR,0,2,Friendly,Manila,Philippines,False
+1934-05-13 00:00:00,Japan,Indonesia,1,7,Friendly,Manila,Philippines,True
+1934-05-14 00:00:00,China PR,Indonesia,2,0,Friendly,Manila,Philippines,True
+1934-05-16 00:00:00,Czechoslovakia,England,2,1,Friendly,Prague,Czechoslovakia,False
+1934-05-19 00:00:00,Philippines,Indonesia,3,2,Friendly,Manila,Philippines,False
+1934-05-20 00:00:00,China PR,Japan,4,3,Friendly,Manila,Philippines,True
+1934-05-21 00:00:00,Denmark,Poland,4,2,Friendly,Copenhagen,Denmark,False
+1934-05-23 00:00:00,Sweden,Poland,4,2,Friendly,Stockholm,Sweden,False
+1934-05-24 00:00:00,Mexico,United States,2,4,FIFA World Cup qualification,Rome,Italy,True
+1934-05-27 00:00:00,Argentina,Sweden,2,3,FIFA World Cup,Bologna,Italy,True
+1934-05-27 00:00:00,Austria,France,3,2,FIFA World Cup,Turin,Italy,True
+1934-05-27 00:00:00,Belgium,Germany,2,5,FIFA World Cup,Florence,Italy,True
+1934-05-27 00:00:00,Brazil,Spain,1,3,FIFA World Cup,Genoa,Italy,True
+1934-05-27 00:00:00,Czechoslovakia,Romania,2,1,FIFA World Cup,Trieste,Italy,True
+1934-05-27 00:00:00,Egypt,Hungary,2,4,FIFA World Cup,Naples,Italy,True
+1934-05-27 00:00:00,Italy,United States,7,1,FIFA World Cup,Rome,Italy,False
+1934-05-27 00:00:00,Netherlands,Switzerland,2,3,FIFA World Cup,Milan,Italy,True
+1934-05-31 00:00:00,Austria,Hungary,2,1,FIFA World Cup,Bologna,Italy,True
+1934-05-31 00:00:00,Czechoslovakia,Switzerland,3,2,FIFA World Cup,Turin,Italy,True
+1934-05-31 00:00:00,Germany,Sweden,2,1,FIFA World Cup,Milan,Italy,True
+1934-05-31 00:00:00,Italy,Spain,1,1,FIFA World Cup,Florence,Italy,False
+1934-06-01 00:00:00,Italy,Spain,1,0,FIFA World Cup,Florence,Italy,False
+1934-06-03 00:00:00,Czechoslovakia,Germany,3,1,FIFA World Cup,Rome,Italy,True
+1934-06-03 00:00:00,Italy,Austria,1,0,FIFA World Cup,Milan,Italy,False
+1934-06-03 00:00:00,Yugoslavia,Brazil,8,4,Friendly,Belgrade,Yugoslavia,False
+1934-06-07 00:00:00,Austria,Germany,2,3,FIFA World Cup,Naples,Italy,True
+1934-06-10 00:00:00,Italy,Czechoslovakia,2,1,FIFA World Cup,Rome,Italy,False
+1934-06-10 00:00:00,Lithuania,Latvia,2,0,Friendly,Kaunas,Lithuania,False
+1934-06-17 00:00:00,Denmark,Sweden,3,5,Nordic Championship,Copenhagen,Denmark,False
+1934-06-17 00:00:00,Catalonia,Brazil,2,1,Friendly,Barcelona,Spain,False
+1934-06-24 00:00:00,Catalonia,Brazil,2,2,Friendly,Girona,Spain,False
+1934-06-29 00:00:00,Lithuania,Estonia,1,1,Friendly,Kaunas,Lithuania,False
+1934-07-01 00:00:00,Sweden,Norway,3,3,Nordic Championship,Stockholm,Sweden,False
+1934-07-03 00:00:00,Finland,Denmark,2,1,Nordic Championship,Helsinki,Finland,False
+1934-07-18 00:00:00,Uruguay,Argentina,2,2,Friendly,Montevideo,Uruguay,False
+1934-07-22 00:00:00,Cura√ßao,Suriname,3,1,Friendly,Willemstad,Cura√ßao,False
+1934-07-25 00:00:00,Cura√ßao,Suriname,3,2,Friendly,Willemstad,Cura√ßao,False
+1934-07-29 00:00:00,Cura√ßao,Suriname,2,2,Friendly,Willemstad,Cura√ßao,False
+1934-07-31 00:00:00,Aruba,Suriname,1,1,Friendly,Oranjestad,Aruba,False
+1934-08-06 00:00:00,Suriname,Trinidad and Tobago,3,3,Friendly,Paramaribo,Netherlands Guyana,False
+1934-08-08 00:00:00,Estonia,Finland,1,1,Friendly,Tallinn,Estonia,False
+1934-08-10 00:00:00,Estonia,Hungary,2,2,Friendly,Tallinn,Estonia,False
+1934-08-14 00:00:00,Latvia,Finland,1,1,Friendly,Riga,Latvia,False
+1934-08-15 00:00:00,Argentina,Uruguay,1,0,Friendly,Avellaneda,Argentina,False
+1934-08-16 00:00:00,Lithuania,Finland,1,0,Friendly,Kaunas,Lithuania,False
+1934-08-26 00:00:00,Yugoslavia,Poland,4,1,Friendly,Belgrade,Yugoslavia,False
+1934-09-02 00:00:00,Czechoslovakia,Yugoslavia,3,1,Friendly,Prague,Czechoslovakia,False
+1934-09-02 00:00:00,Norway,Finland,4,2,Nordic Championship,Oslo,Norway,False
+1934-09-09 00:00:00,Latvia,Lithuania,1,3,Friendly,Riga,Latvia,False
+1934-09-09 00:00:00,Poland,Germany,2,5,Friendly,Warsaw,Poland,False
+1934-09-23 00:00:00,Austria,Czechoslovakia,2,2,International Cup,Vienna,Austria,False
+1934-09-23 00:00:00,Finland,Sweden,5,4,Nordic Championship,Helsinki,Finland,False
+1934-09-23 00:00:00,Norway,Denmark,3,1,Nordic Championship,Oslo,Norway,False
+1934-09-23 00:00:00,Sweden,Latvia,3,1,Friendly,Stockholm,Sweden,False
+1934-09-29 00:00:00,Wales,England,0,4,British Championship,Cardiff,Wales,False
+1934-10-07 00:00:00,Denmark,Germany,2,5,Friendly,Copenhagen,Denmark,False
+1934-10-07 00:00:00,Hungary,Austria,3,1,International Cup,Budapest,Hungary,False
+1934-10-14 00:00:00,Latvia,Poland,2,6,Friendly,Riga,Latvia,False
+1934-10-14 00:00:00,Poland,Romania,3,3,Friendly,Lw√≥w,Poland,False
+1934-10-14 00:00:00,Switzerland,Czechoslovakia,2,2,International Cup,Geneva,Switzerland,False
+1934-10-20 00:00:00,Northern Ireland,Scotland,2,1,British Championship,Belfast,Northern Ireland,False
+1934-11-04 00:00:00,Switzerland,Netherlands,2,4,Friendly,Berne,Switzerland,False
+1934-11-11 00:00:00,Austria,Switzerland,3,0,International Cup,Vienna,Austria,False
+1934-11-14 00:00:00,England,Italy,3,2,Friendly,London,England,False
+1934-11-21 00:00:00,Scotland,Wales,3,2,British Championship,Aberdeen,Scotland,False
+1934-12-09 00:00:00,Italy,Hungary,4,2,Friendly,Milan,Italy,False
+1934-12-15 00:00:00,Republic of Ireland,Hungary,2,4,Friendly,Dublin,Irish Free State,False
+1934-12-16 00:00:00,France,Yugoslavia,3,2,Friendly,Paris,France,False
+1934-12-23 00:00:00,Greece,Yugoslavia,2,1,Balkan Cup,Athens,Greece,False
+1934-12-25 00:00:00,Bulgaria,Yugoslavia,3,4,Balkan Cup,Athens,Greece,True
+1934-12-27 00:00:00,Greece,Romania,2,2,Balkan Cup,Athens,Greece,False
+1934-12-30 00:00:00,Bulgaria,Romania,2,3,Balkan Cup,Athens,Greece,True
+1935-01-01 00:00:00,Greece,Bulgaria,1,2,Balkan Cup,Athens,Greece,False
+1935-01-01 00:00:00,Romania,Yugoslavia,0,4,Balkan Cup,Athens,Greece,True
+1935-01-06 00:00:00,Argentina,Chile,4,1,Copa Am√©rica,Lima,Peru,True
+1935-01-13 00:00:00,Peru,Uruguay,0,1,Copa Am√©rica,Lima,Peru,False
+1935-01-18 00:00:00,Chile,Uruguay,1,2,Copa Am√©rica,Lima,Peru,True
+1935-01-20 00:00:00,Peru,Argentina,1,4,Copa Am√©rica,Lima,Peru,False
+1935-01-24 00:00:00,Spain,France,2,0,Friendly,Madrid,Spain,False
+1935-01-26 00:00:00,Peru,Chile,1,0,Copa Am√©rica,Lima,Peru,False
+1935-01-27 00:00:00,Argentina,Uruguay,0,3,Copa Am√©rica,Lima,Peru,True
+1935-01-27 00:00:00,Germany,Switzerland,4,0,Friendly,Stuttgart,Germany,False
+1935-02-06 00:00:00,England,Northern Ireland,2,1,British Championship,Liverpool,England,False
+1935-02-17 00:00:00,Italy,France,2,1,Friendly,Rome,Italy,False
+1935-02-17 00:00:00,Netherlands,Germany,2,3,Friendly,Amsterdam,Netherlands,False
+1935-02-22 00:00:00,Uganda,Kenya,5,1,Friendly,Kampala,Uganda,False
+1935-03-17 00:00:00,Czechoslovakia,Switzerland,3,1,International Cup,Prague,Czechoslovakia,False
+1935-03-17 00:00:00,France,Germany,1,3,Friendly,Paris,France,False
+1935-03-23 00:00:00,Cura√ßao,Aruba,2,0,Friendly,Willemstad,Cura√ßao,False
+1935-03-24 00:00:00,Austria,Italy,0,2,International Cup,Vienna,Austria,False
+1935-03-24 00:00:00,Cura√ßao,Aruba,4,0,Friendly,Willemstad,Cura√ßao,False
+1935-03-27 00:00:00,Wales,Northern Ireland,3,1,British Championship,Wrexham,Wales,False
+1935-03-31 00:00:00,Netherlands,Belgium,4,2,Friendly,Amsterdam,Netherlands,False
+1935-04-06 00:00:00,Scotland,England,2,0,British Championship,Glasgow,Scotland,False
+1935-04-14 00:00:00,Belgium,France,1,1,Friendly,Brussels,Belgium,False
+1935-04-14 00:00:00,Czechoslovakia,Austria,0,0,International Cup,Prague,Czechoslovakia,False
+1935-04-14 00:00:00,Switzerland,Hungary,6,2,International Cup,Z√ºrich,Switzerland,False
+1935-04-28 00:00:00,Belgium,Germany,1,6,Friendly,Brussels,Belgium,False
+1935-05-05 00:00:00,Portugal,Spain,3,3,Friendly,Lisbon,Portugal,False
+1935-05-05 00:00:00,Switzerland,Republic of Ireland,1,0,Friendly,Basel,Switzerland,False
+1935-05-08 00:00:00,Germany,Republic of Ireland,3,1,Friendly,Dortmund,Germany,False
+1935-05-11 00:00:00,Kenya,Uganda,1,3,Friendly,Nairobi,Kenya,False
+1935-05-12 00:00:00,Austria,Poland,5,2,Friendly,Vienna,Austria,False
+1935-05-12 00:00:00,Belgium,Netherlands,0,2,Friendly,Brussels,Belgium,False
+1935-05-12 00:00:00,Germany,Spain,1,2,Friendly,Cologne,Germany,False
+1935-05-12 00:00:00,Hungary,Austria,6,3,Friendly,Budapest,Hungary,False
+1935-05-18 00:00:00,Netherlands,England,0,1,Friendly,Amsterdam,Netherlands,False
+1935-05-19 00:00:00,France,Hungary,2,0,Friendly,Colombes,France,False
+1935-05-19 00:00:00,United States,Scotland,1,5,Friendly,New York,United States,False
+1935-05-20 00:00:00,Suriname,Cura√ßao,0,1,Friendly,Paramaribo,Netherlands Guyana,False
+1935-05-22 00:00:00,Suriname,Cura√ßao,4,1,Friendly,Paramaribo,Netherlands Guyana,False
+1935-05-24 00:00:00,Suriname,Cura√ßao,2,1,Friendly,Paramaribo,Netherlands Guyana,False
+1935-05-26 00:00:00,Germany,Czechoslovakia,2,1,Friendly,Dresden,Germany,False
+1935-05-30 00:00:00,Belgium,Switzerland,2,2,Friendly,Brussels,Belgium,False
+1935-05-30 00:00:00,Latvia,Lithuania,6,1,Friendly,Riga,Latvia,False
+1935-06-09 00:00:00,United States,Scotland,1,4,Friendly,Newark,United States,False
+1935-06-12 00:00:00,Latvia,Estonia,1,1,Friendly,Riga,Latvia,False
+1935-06-12 00:00:00,Sweden,Finland,2,2,Nordic Championship,Stockholm,Sweden,False
+1935-06-16 00:00:00,Bulgaria,Greece,5,2,Balkan Cup,Sofia,Bulgaria,False
+1935-06-16 00:00:00,Sweden,Denmark,3,1,Nordic Championship,Gothenburg,Sweden,False
+1935-06-17 00:00:00,Romania,Yugoslavia,0,2,Balkan Cup,Sofia,Bulgaria,True
+1935-06-19 00:00:00,Bulgaria,Romania,4,0,Balkan Cup,Sofia,Bulgaria,False
+1935-06-19 00:00:00,Estonia,Lithuania,2,2,Friendly,Tallinn,Estonia,False
+1935-06-21 00:00:00,Greece,Yugoslavia,1,6,Balkan Cup,Sofia,Bulgaria,True
+1935-06-23 00:00:00,Denmark,Norway,1,0,Nordic Championship,Copenhagen,Denmark,False
+1935-06-24 00:00:00,Bulgaria,Yugoslavia,3,3,Balkan Cup,Sofia,Bulgaria,False
+1935-06-24 00:00:00,Greece,Romania,2,2,Balkan Cup,Sofia,Bulgaria,True
+1935-06-27 00:00:00,Norway,Germany,1,1,Friendly,Oslo,Norway,False
+1935-06-30 00:00:00,Sweden,Germany,3,1,Friendly,Stockholm,Sweden,False
+1935-07-05 00:00:00,Latvia,Sweden,0,3,Friendly,Riga,Latvia,False
+1935-07-09 00:00:00,Estonia,Sweden,1,2,Friendly,Tallinn,Estonia,False
+1935-07-18 00:00:00,Uruguay,Argentina,1,1,Friendly,Montevideo,Uruguay,False
+1935-07-19 00:00:00,Suriname,Trinidad and Tobago,0,3,Friendly,Paramaribo,Netherlands Guyana,False
+1935-08-07 00:00:00,Estonia,Finland,2,2,Friendly,Tallinn,Estonia,False
+1935-08-15 00:00:00,Argentina,Uruguay,3,0,Friendly,Avellaneda,Argentina,False
+1935-08-18 00:00:00,Germany,Finland,6,0,Friendly,Munich,Germany,False
+1935-08-18 00:00:00,Luxembourg,Germany,0,1,Friendly,Luxembourg,Luxembourg,False
+1935-08-18 00:00:00,Poland,Yugoslavia,2,3,Friendly,Katowice,Poland,False
+1935-08-20 00:00:00,Estonia,Lithuania,1,2,Baltic Cup,Tallinn,Estonia,False
+1935-08-21 00:00:00,Latvia,Lithuania,2,2,Baltic Cup,Tallinn,Estonia,True
+1935-08-22 00:00:00,Estonia,Latvia,1,1,Baltic Cup,Tallinn,Estonia,False
+1935-08-25 00:00:00,Germany,Romania,4,2,Friendly,Erfurt,Germany,False
+1935-09-01 00:00:00,Sweden,Romania,7,1,Friendly,Stockholm,Sweden,False
+1935-09-06 00:00:00,Yugoslavia,Czechoslovakia,0,0,Friendly,Belgrade,Yugoslavia,False
+1935-09-08 00:00:00,Finland,Norway,1,5,Nordic Championship,Helsinki,Finland,False
+1935-09-08 00:00:00,Lithuania,Latvia,2,2,Friendly,Kaunas,Lithuania,False
+1935-09-15 00:00:00,Germany,Estonia,5,0,Friendly,Stettin,Germany,False
+1935-09-15 00:00:00,Germany,Poland,1,0,Friendly,Breslau,Germany,False
+1935-09-15 00:00:00,Poland,Latvia,3,3,Friendly,≈Å√≥d≈∫,Poland,False
+1935-09-18 00:00:00,Lithuania,Estonia,2,2,Friendly,Kaunas,Lithuania,False
+1935-09-20 00:00:00,Cura√ßao,Aruba,1,0,Friendly,Willemstad,Cura√ßao,False
+1935-09-22 00:00:00,Hungary,Czechoslovakia,1,0,International Cup,Budapest,Hungary,False
+1935-09-22 00:00:00,Norway,Sweden,0,2,Nordic Championship,Oslo,Norway,False
+1935-10-05 00:00:00,Wales,Scotland,1,1,British Championship,Cardiff,Wales,False
+1935-10-06 00:00:00,Austria,Hungary,4,4,International Cup,Vienna,Austria,False
+1935-10-06 00:00:00,Denmark,Finland,5,1,Nordic Championship,Copenhagen,Denmark,False
+1935-10-06 00:00:00,Poland,Austria,1,0,Friendly,Warsaw,Poland,False
+1935-10-13 00:00:00,Germany,Latvia,3,0,Friendly,K√∂nigsberg,Germany,False
+1935-10-19 00:00:00,Northern Ireland,England,1,3,British Championship,Belfast,Northern Ireland,False
+1935-10-20 00:00:00,Germany,Bulgaria,4,2,Friendly,Leipzig,Germany,False
+1935-10-27 00:00:00,Czechoslovakia,Italy,2,1,International Cup,Prague,Czechoslovakia,False
+1935-10-27 00:00:00,Switzerland,France,2,1,Friendly,Geneva,Switzerland,False
+1935-11-03 00:00:00,Netherlands,Denmark,3,0,Friendly,Amsterdam,Netherlands,False
+1935-11-03 00:00:00,Romania,Poland,4,1,Friendly,Bucharest,Romania,False
+1935-11-03 00:00:00,Switzerland,Norway,2,0,Friendly,Z√ºrich,Switzerland,False
+1935-11-10 00:00:00,France,Sweden,2,0,Friendly,Paris,France,False
+1935-11-10 00:00:00,Hungary,Switzerland,6,1,Friendly,Budapest,Hungary,False
+1935-11-13 00:00:00,Scotland,Northern Ireland,2,1,British Championship,Edinburgh,Scotland,False
+1935-11-17 00:00:00,Belgium,Sweden,5,1,Friendly,Brussels,Belgium,False
+1935-11-24 00:00:00,Italy,Hungary,2,2,International Cup,Milan,Italy,False
+1935-12-04 00:00:00,England,Germany,3,0,Friendly,London,England,False
+1935-12-08 00:00:00,Republic of Ireland,Netherlands,3,5,Friendly,Dublin,Irish Free State,False
+1935-12-15 00:00:00,Cura√ßao,Trinidad and Tobago,3,1,Friendly,Willemstad,Cura√ßao,False
+1935-12-28 00:00:00,Jamaica,Trinidad and Tobago,2,3,Friendly,Kingston,Jamaica,False
+1936-01-01 00:00:00,French Guiana,Suriname,1,3,Friendly,Cayenne,French Guiana,False
+1936-01-04 00:00:00,Jamaica,Trinidad and Tobago,0,1,Friendly,Kingston,Jamaica,False
+1936-01-11 00:00:00,Jamaica,Trinidad and Tobago,1,2,Friendly,Kingston,Jamaica,False
+1936-01-12 00:00:00,France,Netherlands,1,6,Friendly,Paris,France,False
+1936-01-19 00:00:00,Spain,Austria,4,5,Friendly,Madrid,Spain,False
+1936-01-26 00:00:00,Portugal,Austria,2,3,Friendly,Porto,Portugal,False
+1936-01-30 00:00:00,Cura√ßao,Trinidad and Tobago,4,2,Friendly,Willemstad,Cura√ßao,False
+1936-02-05 00:00:00,England,Wales,1,2,British Championship,Wolverhampton,England,False
+1936-02-09 00:00:00,France,Czechoslovakia,0,3,Friendly,Paris,France,False
+1936-02-16 00:00:00,Belgium,Poland,0,2,Friendly,Brussels,Belgium,False
+1936-02-22 00:00:00,Trinidad and Tobago,Cura√ßao,3,0,Friendly,Port of Spain,Trinidad and Tobago,False
+1936-02-23 00:00:00,Spain,Germany,1,2,Friendly,Barcelona,Spain,False
+1936-02-27 00:00:00,Portugal,Germany,1,3,Friendly,Lisbon,Portugal,False
+1936-03-08 00:00:00,France,Belgium,3,0,Friendly,Colombes,France,False
+1936-03-11 00:00:00,Northern Ireland,Wales,3,2,British Championship,Belfast,Northern Ireland,False
+1936-03-15 00:00:00,Hungary,Germany,3,2,Friendly,Budapest,Hungary,False
+1936-03-17 00:00:00,Republic of Ireland,Switzerland,1,0,Friendly,Dublin,Irish Free State,False
+1936-03-22 00:00:00,Austria,Czechoslovakia,1,1,International Cup,Vienna,Austria,False
+1936-03-29 00:00:00,Netherlands,Belgium,8,0,Friendly,Amsterdam,Netherlands,False
+1936-04-04 00:00:00,England,Scotland,1,1,British Championship,London,England,False
+1936-04-05 00:00:00,Austria,Hungary,3,5,Friendly,Vienna,Austria,False
+1936-04-05 00:00:00,Switzerland,Italy,1,2,Friendly,Z√ºrich,Switzerland,False
+1936-05-03 00:00:00,Belgium,Netherlands,1,1,Friendly,Brussels,Belgium,False
+1936-05-03 00:00:00,Hungary,Republic of Ireland,3,3,Friendly,Budapest,Hungary,False
+1936-05-03 00:00:00,Switzerland,Spain,0,2,Friendly,Berne,Switzerland,False
+1936-05-06 00:00:00,Austria,England,2,1,Friendly,Vienna,Austria,False
+1936-05-09 00:00:00,Belgium,England,3,2,Friendly,Brussels,Belgium,False
+1936-05-09 00:00:00,Luxembourg,Republic of Ireland,1,5,Friendly,Luxembourg,Luxembourg,False
+1936-05-10 00:00:00,Romania,Yugoslavia,3,2,Friendly,Bucharest,Romania,False
+1936-05-17 00:00:00,Italy,Austria,2,2,Friendly,Rome,Italy,False
+1936-05-17 00:00:00,Romania,Greece,5,2,Balkan Cup,Bucharest,Romania,False
+1936-05-21 00:00:00,Bulgaria,Greece,5,4,Balkan Cup,Bucharest,Romania,True
+1936-05-24 00:00:00,Romania,Bulgaria,4,1,Balkan Cup,Bucharest,Romania,False
+1936-05-24 00:00:00,Switzerland,Belgium,1,1,Friendly,Basel,Switzerland,False
+1936-05-28 00:00:00,Estonia,Latvia,3,4,Friendly,Tallinn,Estonia,False
+1936-05-31 00:00:00,Hungary,Italy,1,2,Friendly,Budapest,Hungary,False
+1936-06-14 00:00:00,Denmark,Sweden,4,3,Nordic Championship,Copenhagen,Denmark,False
+1936-06-14 00:00:00,Lithuania,Latvia,1,5,Friendly,Kaunas,Lithuania,False
+1936-06-18 00:00:00,Norway,Switzerland,1,2,Friendly,Oslo,Norway,False
+1936-06-19 00:00:00,Egypt,Greece,3,1,Friendly,Cairo,Egypt,False
+1936-06-21 00:00:00,Sweden,Switzerland,5,2,Friendly,Stockholm,Sweden,False
+1936-06-30 00:00:00,Finland,Denmark,1,4,Nordic Championship,Helsinki,Finland,False
+1936-06-30 00:00:00,Lithuania,Estonia,2,0,Friendly,Kaunas,Lithuania,False
+1936-07-04 00:00:00,New Zealand,Australia,1,7,Friendly,Dunedin,New Zealand,False
+1936-07-05 00:00:00,Sweden,Norway,2,0,Nordic Championship,Gothenburg,Sweden,False
+1936-07-11 00:00:00,New Zealand,Australia,0,10,Friendly,Wellington,New Zealand,False
+1936-07-12 00:00:00,Turkey,Yugoslavia,3,3,Friendly,Istanbul,Turkey,False
+1936-07-18 00:00:00,New Zealand,Australia,1,4,Friendly,Auckland,New Zealand,False
+1936-07-26 00:00:00,Sweden,Norway,3,4,Friendly,Stockholm,Sweden,False
+1936-08-09 00:00:00,Argentina,Uruguay,1,0,Friendly,Buenos Aires,Argentina,False
+1936-08-20 00:00:00,Estonia,Finland,2,2,Friendly,Tallinn,Estonia,False
+1936-08-29 00:00:00,Latvia,Lithuania,2,1,Baltic Cup,Riga,Latvia,False
+1936-08-30 00:00:00,Estonia,Lithuania,2,1,Baltic Cup,Riga,Latvia,True
+1936-08-31 00:00:00,Latvia,Estonia,2,1,Baltic Cup,Riga,Latvia,False
+1936-09-06 00:00:00,Latvia,Poland,3,3,Friendly,Riga,Latvia,False
+1936-09-06 00:00:00,Norway,Finland,0,2,Nordic Championship,Oslo,Norway,False
+1936-09-06 00:00:00,Yugoslavia,Poland,9,3,Friendly,Belgrade,Yugoslavia,False
+1936-09-13 00:00:00,Poland,Germany,1,1,Friendly,Warsaw,Poland,False
+1936-09-20 00:00:00,Norway,Denmark,3,3,Nordic Championship,Oslo,Norway,False
+1936-09-20 00:00:00,Uruguay,Argentina,2,1,Friendly,Montevideo,Uruguay,False
+1936-09-27 00:00:00,Czechoslovakia,Germany,1,2,Friendly,Prague,Czechoslovakia,False
+1936-09-27 00:00:00,Finland,Sweden,1,2,Nordic Championship,Helsinki,Finland,False
+1936-09-27 00:00:00,Germany,Luxembourg,7,2,Friendly,Krefeld,Germany,False
+1936-09-27 00:00:00,Hungary,Austria,5,3,International Cup,Budapest,Hungary,False
+1936-10-04 00:00:00,Denmark,Poland,2,1,Friendly,Copenhagen,Denmark,False
+1936-10-04 00:00:00,Romania,Hungary,1,2,Friendly,Bucharest,Romania,False
+1936-10-14 00:00:00,Scotland,Germany,2,0,Friendly,Glasgow,Scotland,False
+1936-10-17 00:00:00,Republic of Ireland,Germany,5,2,Friendly,Dublin,Irish Free State,False
+1936-10-17 00:00:00,Wales,England,2,1,British Championship,Cardiff,Wales,False
+1936-10-18 00:00:00,Czechoslovakia,Hungary,5,2,International Cup,Prague,Czechoslovakia,False
+1936-10-25 00:00:00,Italy,Switzerland,4,2,International Cup,Milan,Italy,False
+1936-10-31 00:00:00,Northern Ireland,Scotland,1,3,British Championship,Belfast,Northern Ireland,False
+1936-11-01 00:00:00,Netherlands,Norway,3,3,Friendly,Amsterdam,Netherlands,False
+1936-11-08 00:00:00,Switzerland,Austria,1,3,International Cup,Z√ºrich,Switzerland,False
+1936-11-15 00:00:00,Germany,Italy,2,2,Friendly,Berlin,Germany,False
+1936-11-18 00:00:00,England,Northern Ireland,3,1,British Championship,Stoke-on-Trent,England,False
+1936-12-02 00:00:00,England,Hungary,6,2,Friendly,London,England,False
+1936-12-02 00:00:00,Scotland,Wales,1,2,British Championship,Dundee,Scotland,False
+1936-12-06 00:00:00,Republic of Ireland,Hungary,2,3,Friendly,Dublin,Irish Free State,False
+1936-12-13 00:00:00,France,Yugoslavia,1,0,Friendly,Paris,France,False
+1936-12-13 00:00:00,Italy,Czechoslovakia,2,0,Friendly,Genoa,Italy,False
+1936-12-27 00:00:00,Brazil,Peru,3,2,Copa Am√©rica,Buenos Aires,Argentina,True
+1936-12-30 00:00:00,Argentina,Chile,2,1,Copa Am√©rica,Buenos Aires,Argentina,False
+1937-01-02 00:00:00,Paraguay,Uruguay,4,2,Copa Am√©rica,Buenos Aires,Argentina,True
+1937-01-03 00:00:00,Brazil,Chile,6,4,Copa Am√©rica,Buenos Aires,Argentina,True
+1937-01-04 00:00:00,Suriname,Guyana,8,0,Friendly,Paramaribo,Netherlands Guyana,False
+1937-01-05 00:00:00,Guyana,Trinidad and Tobago,0,3,Friendly,Paramaribo,Netherlands Guyana,True
+1937-01-06 00:00:00,Peru,Uruguay,2,4,Copa Am√©rica,Buenos Aires,Argentina,True
+1937-01-06 00:00:00,Suriname,Trinidad and Tobago,1,1,Friendly,Paramaribo,Netherlands Guyana,False
+1937-01-08 00:00:00,Suriname,Trinidad and Tobago,3,3,Friendly,Paramaribo,Netherlands Guyana,False
+1937-01-09 00:00:00,Argentina,Paraguay,6,1,Copa Am√©rica,Buenos Aires,Argentina,False
+1937-01-10 00:00:00,Chile,Uruguay,3,0,Copa Am√©rica,Buenos Aires,Argentina,True
+1937-01-10 00:00:00,Suriname,Trinidad and Tobago,2,2,Friendly,Paramaribo,Netherlands Guyana,False
+1937-01-11 00:00:00,Guyana,Trinidad and Tobago,2,3,Friendly,Paramaribo,Netherlands Guyana,True
+1937-01-13 00:00:00,Brazil,Paraguay,5,0,Copa Am√©rica,Buenos Aires,Argentina,True
+1937-01-16 00:00:00,Argentina,Peru,1,0,Copa Am√©rica,Buenos Aires,Argentina,False
+1937-01-17 00:00:00,Chile,Paraguay,2,3,Copa Am√©rica,Buenos Aires,Argentina,True
+1937-01-19 00:00:00,Brazil,Uruguay,3,2,Copa Am√©rica,Buenos Aires,Argentina,True
+1937-01-21 00:00:00,Chile,Peru,2,2,Copa Am√©rica,Buenos Aires,Argentina,True
+1937-01-23 00:00:00,Argentina,Uruguay,2,3,Copa Am√©rica,Buenos Aires,Argentina,False
+1937-01-24 00:00:00,France,Austria,1,2,Friendly,Paris,France,False
+1937-01-24 00:00:00,Paraguay,Peru,0,1,Copa Am√©rica,Buenos Aires,Argentina,True
+1937-01-30 00:00:00,Argentina,Brazil,1,0,Copa Am√©rica,Buenos Aires,Argentina,False
+1937-01-31 00:00:00,Germany,Netherlands,2,2,Friendly,D√ºsseldorf,Germany,False
+1937-02-01 00:00:00,Argentina,Brazil,2,0,Copa Am√©rica,Buenos Aires,Argentina,False
+1937-02-21 00:00:00,Belgium,France,3,1,Friendly,Brussels,Belgium,False
+1937-02-21 00:00:00,Czechoslovakia,Switzerland,5,3,International Cup,Prague,Czechoslovakia,False
+1937-03-07 00:00:00,Netherlands,Switzerland,2,1,Friendly,Amsterdam,Netherlands,False
+1937-03-17 00:00:00,Wales,Northern Ireland,4,1,British Championship,Wrexham,Wales,False
+1937-03-21 00:00:00,Germany,France,4,0,Friendly,Stuttgart,Germany,False
+1937-03-21 00:00:00,Luxembourg,Germany,2,3,Friendly,Luxembourg,Luxembourg,False
+1937-04-04 00:00:00,Belgium,Netherlands,2,1,Friendly,Antwerp,Belgium,False
+1937-04-11 00:00:00,Switzerland,Hungary,1,5,International Cup,Basel,Switzerland,False
+1937-04-17 00:00:00,Scotland,England,3,1,British Championship,Glasgow,Scotland,False
+1937-04-18 00:00:00,Belgium,Switzerland,1,2,Friendly,Brussels,Belgium,False
+1937-04-18 00:00:00,Romania,Czechoslovakia,1,1,Friendly,Bucharest,Romania,False
+1937-04-25 00:00:00,Germany,Belgium,1,0,Friendly,Hanover,Germany,False
+1937-04-25 00:00:00,Italy,Hungary,2,0,International Cup,Turin,Italy,False
+1937-05-01 00:00:00,Aruba,Cura√ßao,1,1,Friendly,Oranjestad,Aruba,False
+1937-05-02 00:00:00,Aruba,Cura√ßao,1,1,Friendly,Oranjestad,Aruba,False
+1937-05-02 00:00:00,Netherlands,Belgium,1,0,Friendly,Rotterdam,Netherlands,False
+1937-05-02 00:00:00,Switzerland,Germany,0,1,Friendly,Z√ºrich,Switzerland,False
+1937-05-06 00:00:00,Czechoslovakia,Basque Country,3,2,Friendly,Prague,Czech Republic,False
+1937-05-09 00:00:00,Austria,Scotland,1,1,Friendly,Vienna,Austria,False
+1937-05-09 00:00:00,Hungary,Yugoslavia,1,1,Friendly,Budapest,Hungary,False
+1937-05-14 00:00:00,Norway,England,0,6,Friendly,Oslo,Norway,False
+1937-05-16 00:00:00,Germany,Denmark,8,0,Friendly,Breslau,Germany,False
+1937-05-17 00:00:00,Sweden,England,0,4,Friendly,Solna,Sweden,False
+1937-05-17 00:00:00,Switzerland,Republic of Ireland,0,1,Friendly,Berne,Switzerland,False
+1937-05-17 00:00:00,Uganda,Kenya,9,5,Friendly,Kampala,Uganda,False
+1937-05-20 00:00:00,Finland,England,0,8,Friendly,Helsinki,Finland,False
+1937-05-23 00:00:00,Czechoslovakia,Italy,0,1,International Cup,Prague,Czechoslovakia,False
+1937-05-23 00:00:00,France,Republic of Ireland,0,2,Friendly,Colombes,France,False
+1937-05-23 00:00:00,Hungary,Austria,2,2,Friendly,Budapest,Hungary,False
+1937-05-27 00:00:00,Norway,Italy,1,3,Friendly,Oslo,Norway,False
+1937-06-03 00:00:00,Lithuania,Estonia,1,2,Friendly,Kaunas,Lithuania,False
+1937-06-05 00:00:00,Czechoslovakia,Basque Country,2,1,Friendly,Prague,Czech Republic,False
+1937-06-06 00:00:00,Yugoslavia,Belgium,1,1,Friendly,Belgrade,Yugoslavia,False
+1937-06-09 00:00:00,Silesia,Basque Country,3,4,Friendly,Chorz√≥w,Poland,False
+1937-06-10 00:00:00,Romania,Belgium,2,1,Friendly,Bucharest,Romania,False
+1937-06-13 00:00:00,Denmark,Norway,5,1,Nordic Championship,Copenhagen,Denmark,False
+1937-06-16 00:00:00,Sweden,Finland,4,0,FIFA World Cup qualification,Solna,Sweden,False
+1937-06-20 00:00:00,Sweden,Estonia,7,2,FIFA World Cup qualification,Solna,Sweden,False
+1937-06-23 00:00:00,Poland,Sweden,3,1,Friendly,Warsaw,Poland,False

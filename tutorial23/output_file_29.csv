@@ -1,0 +1,1001 @@
+date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
+2006-11-23 00:00:00,S√°pmi,Monaco,14,0,Viva World Cup,Hy√®res,France,True
+2006-11-23 00:00:00,Kyrgyzstan,Crimea,2,3,ELF Cup,Lefko≈üa,Northern Cyprus,True
+2006-11-23 00:00:00,Northern Cyprus,Zanzibar,5,0,ELF Cup,Lefko≈üa,Northern Cyprus,False
+2006-11-24 00:00:00,Dominican Republic,Guadeloupe,0,3,CFU Caribbean Cup qualification,Georgetown,Guyana,True
+2006-11-24 00:00:00,Guyana,Antigua and Barbuda,6,0,CFU Caribbean Cup qualification,Georgetown,Guyana,False
+2006-11-24 00:00:00,S√°pmi,Monaco,21,1,Viva World Cup,Hy√®res,France,True
+2006-11-25 00:00:00,Ethiopia,Tanzania,1,2,CECAFA Cup,Addis Ababa,Ethiopia,False
+2006-11-25 00:00:00,Kyrgyzstan,Zanzibar,2,2,ELF Cup,Lefko≈üa,Northern Cyprus,True
+2006-11-25 00:00:00,Northern Cyprus,Crimea,3,1,ELF Cup,Lefko≈üa,Northern Cyprus,False
+2006-11-26 00:00:00,Burundi,Zambia,3,2,CECAFA Cup,Addis Ababa,Ethiopia,True
+2006-11-26 00:00:00,Djibouti,Malawi,0,3,CECAFA Cup,Addis Ababa,Ethiopia,True
+2006-11-26 00:00:00,Dominican Republic,Antigua and Barbuda,2,0,CFU Caribbean Cup qualification,Georgetown,Guyana,True
+2006-11-26 00:00:00,Guyana,Guadeloupe,3,2,CFU Caribbean Cup qualification,Georgetown,Guyana,False
+2006-11-27 00:00:00,Somalia,Rwanda,0,3,CECAFA Cup,Addis Ababa,Ethiopia,True
+2006-11-27 00:00:00,Sudan,Uganda,1,2,CECAFA Cup,Addis Ababa,Ethiopia,True
+2006-11-28 00:00:00,Antigua and Barbuda,Guadeloupe,1,3,CFU Caribbean Cup qualification,Georgetown,Guyana,True
+2006-11-28 00:00:00,Ethiopia,Djibouti,4,0,CECAFA Cup,Addis Ababa,Ethiopia,False
+2006-11-28 00:00:00,Guyana,Dominican Republic,4,0,CFU Caribbean Cup qualification,Georgetown,Guyana,False
+2006-11-28 00:00:00,Malawi,Tanzania,1,2,CECAFA Cup,Addis Ababa,Ethiopia,True
+2006-11-29 00:00:00,El Salvador,Panama,0,0,Friendly,San Salvador,El Salvador,False
+2006-11-29 00:00:00,Zanzibar,Burundi,0,0,CECAFA Cup,Addis Ababa,Ethiopia,True
+2006-11-30 00:00:00,Rwanda,Uganda,0,1,CECAFA Cup,Addis Ababa,Ethiopia,True
+2006-11-30 00:00:00,Somalia,Sudan,0,3,CECAFA Cup,Addis Ababa,Ethiopia,True
+2006-12-01 00:00:00,Ethiopia,Malawi,1,0,CECAFA Cup,Addis Ababa,Ethiopia,False
+2006-12-01 00:00:00,Tanzania,Djibouti,3,0,CECAFA Cup,Addis Ababa,Ethiopia,True
+2006-12-02 00:00:00,Zambia,Zanzibar,4,0,CECAFA Cup,Addis Ababa,Ethiopia,True
+2006-12-03 00:00:00,Sudan,Rwanda,0,0,CECAFA Cup,Addis Ababa,Ethiopia,True
+2006-12-03 00:00:00,Uganda,Somalia,2,0,CECAFA Cup,Addis Ababa,Ethiopia,True
+2006-12-05 00:00:00,Ethiopia,Zambia,0,1,CECAFA Cup,Addis Ababa,Ethiopia,False
+2006-12-05 00:00:00,Tanzania,Rwanda,1,2,CECAFA Cup,Addis Ababa,Ethiopia,True
+2006-12-06 00:00:00,Burundi,Sudan,0,1,CECAFA Cup,Addis Ababa,Ethiopia,True
+2006-12-06 00:00:00,Uganda,Malawi,0,0,CECAFA Cup,Addis Ababa,Ethiopia,True
+2006-12-06 00:00:00,United Arab Emirates,Poland,2,5,Friendly,Abu Dhabi,United Arab Emirates,False
+2006-12-08 00:00:00,Rwanda,Zambia,0,1,CECAFA Cup,Addis Ababa,Ethiopia,True
+2006-12-08 00:00:00,Uganda,Sudan,2,2,CECAFA Cup,Addis Ababa,Ethiopia,True
+2006-12-09 00:00:00,Tanzania,DR Congo,2,0,Friendly,Dar es Salaam,Tanzania,False
+2006-12-09 00:00:00,Silesia,Poland,1,1,Friendly,Chorz√≥w,Poland,False
+2006-12-10 00:00:00,Rwanda,Uganda,0,0,CECAFA Cup,Addis Ababa,Ethiopia,True
+2006-12-10 00:00:00,United Arab Emirates,Slovakia,1,2,Friendly,Abu Dhabi,United Arab Emirates,False
+2006-12-10 00:00:00,Zambia,Sudan,0,0,CECAFA Cup,Addis Ababa,Ethiopia,True
+2006-12-14 00:00:00,Yemen,Comoros,2,0,Arab Cup qualification,Sana'a,Yemen,False
+2006-12-15 00:00:00,R√©union,Mayotte,3,1,Friendly,Saint-Denis,R√©union,False
+2006-12-17 00:00:00,Djibouti,Comoros,2,4,Arab Cup qualification,Sana'a,Yemen,True
+2006-12-20 00:00:00,Yemen,Djibouti,4,1,Arab Cup qualification,Sana'a,Yemen,False
+2006-12-21 00:00:00,Lebanon,Mauritania,0,0,Arab Cup qualification,Beirut,Lebanon,False
+2006-12-21 00:00:00,Sudan,Somalia,6,1,Arab Cup qualification,Beirut,Lebanon,True
+2006-12-24 00:00:00,Lebanon,Somalia,4,0,Arab Cup qualification,Beirut,Lebanon,False
+2006-12-24 00:00:00,Singapore,Kazakhstan,0,0,King's Cup,Bangkok,Thailand,True
+2006-12-24 00:00:00,Sudan,Mauritania,2,0,Arab Cup qualification,Beirut,Lebanon,True
+2006-12-24 00:00:00,Thailand,Vietnam,2,1,King's Cup,Bangkok,Thailand,False
+2006-12-26 00:00:00,Thailand,Singapore,2,0,King's Cup,Bangkok,Thailand,False
+2006-12-26 00:00:00,Vietnam,Kazakhstan,2,1,King's Cup,Bangkok,Thailand,True
+2006-12-27 00:00:00,Lebanon,Sudan,0,0,Arab Cup qualification,Beirut,Lebanon,False
+2006-12-27 00:00:00,Somalia,Mauritania,2,8,Arab Cup qualification,Beirut,Lebanon,True
+2006-12-27 00:00:00,Basque Country,Serbia,4,0,Friendly,Bilbao,Spain,False
+2006-12-28 00:00:00,Martinique,Saint Vincent and the Grenadines,2,2,Friendly,Saint-Joseph,Martinique,False
+2006-12-28 00:00:00,Singapore,Vietnam,2,3,King's Cup,Bangkok,Thailand,True
+2006-12-28 00:00:00,Thailand,Kazakhstan,2,2,King's Cup,Bangkok,Thailand,False
+2006-12-28 00:00:00,Galicia,Ecuador,1,1,Friendly,La Coru√±a,Spain,False
+2006-12-30 00:00:00,Martinique,Saint Vincent and the Grenadines,1,1,Friendly,Sainte-Marie,Martinique,False
+2006-12-30 00:00:00,Thailand,Vietnam,3,1,King's Cup,Bangkok,Thailand,False
+2007-01-06 00:00:00,Martinique,Guadeloupe,3,0,Friendly,Le Lamentin,Martinique,False
+2007-01-07 00:00:00,Haiti,Bermuda,2,0,CFU Caribbean Cup qualification,Couva,Trinidad and Tobago,True
+2007-01-07 00:00:00,Singapore,Philippines,4,1,Friendly,Singapore,Singapore,False
+2007-01-07 00:00:00,Yemen,Eritrea,4,1,Friendly,Sana'a,Yemen,False
+2007-01-08 00:00:00,Saudi Arabia,Gambia,3,0,Friendly,Dammam,Saudi Arabia,False
+2007-01-09 00:00:00,Bermuda,Haiti,0,3,CFU Caribbean Cup qualification,Couva,Trinidad and Tobago,True
+2007-01-11 00:00:00,Costa Rica,Nicaragua,2,0,Friendly,San Jos√©,Costa Rica,False
+2007-01-11 00:00:00,Saudi Arabia,Syria,2,1,Friendly,Dammam,Saudi Arabia,False
+2007-01-12 00:00:00,Haiti,Martinique,1,0,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,True
+2007-01-12 00:00:00,Malaysia,Philippines,4,0,AFF Championship,Bangkok,Thailand,True
+2007-01-12 00:00:00,Thailand,Myanmar,1,1,AFF Championship,Bangkok,Thailand,False
+2007-01-12 00:00:00,Trinidad and Tobago,Barbados,1,1,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,False
+2007-01-13 00:00:00,Indonesia,Laos,3,1,AFF Championship,Singapore,Singapore,True
+2007-01-13 00:00:00,Qatar,Oman,1,1,Friendly,Doha,Qatar,False
+2007-01-13 00:00:00,Singapore,Vietnam,0,0,AFF Championship,Singapore,Singapore,False
+2007-01-14 00:00:00,Cuba,Guadeloupe,1,2,CFU Caribbean Cup,San Fernando,Trinidad and Tobago,True
+2007-01-14 00:00:00,Malaysia,Myanmar,0,0,AFF Championship,Bangkok,Thailand,True
+2007-01-14 00:00:00,Panama,Armenia,1,1,Friendly,Monterey Park,United States,True
+2007-01-14 00:00:00,Thailand,Philippines,4,0,AFF Championship,Bangkok,Thailand,False
+2007-01-14 00:00:00,Venezuela,Sweden,2,0,Friendly,Maracaibo,Venezuela,False
+2007-01-15 00:00:00,Haiti,Barbados,2,0,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,True
+2007-01-15 00:00:00,Singapore,Laos,11,0,AFF Championship,Singapore,Singapore,False
+2007-01-15 00:00:00,Trinidad and Tobago,Martinique,5,1,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,False
+2007-01-15 00:00:00,Vietnam,Indonesia,1,1,AFF Championship,Singapore,Singapore,True
+2007-01-16 00:00:00,Myanmar,Philippines,0,0,AFF Championship,Bangkok,Thailand,True
+2007-01-16 00:00:00,Guadeloupe,Guyana,3,4,CFU Caribbean Cup,San Fernando,Trinidad and Tobago,True
+2007-01-16 00:00:00,Thailand,Malaysia,1,0,AFF Championship,Bangkok,Thailand,False
+2007-01-17 00:00:00,Barbados,Martinique,2,3,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,True
+2007-01-17 00:00:00,Kuwait,Yemen,1,1,Gulf Cup,Abu Dhabi,United Arab Emirates,True
+2007-01-17 00:00:00,Singapore,Indonesia,2,2,AFF Championship,Singapore,Singapore,False
+2007-01-17 00:00:00,Trinidad and Tobago,Haiti,3,1,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,False
+2007-01-17 00:00:00,United Arab Emirates,Oman,1,2,Gulf Cup,Abu Dhabi,United Arab Emirates,False
+2007-01-17 00:00:00,Vietnam,Laos,9,0,AFF Championship,Singapore,Singapore,True
+2007-01-18 00:00:00,Cuba,Guyana,0,0,CFU Caribbean Cup,San Fernando,Trinidad and Tobago,True
+2007-01-18 00:00:00,Ecuador,Sweden,2,1,Friendly,Cuenca,Ecuador,False
+2007-01-18 00:00:00,Qatar,Iraq,0,1,Gulf Cup,Abu Dhabi,United Arab Emirates,True
+2007-01-18 00:00:00,Saudi Arabia,Bahrain,2,1,Gulf Cup,Abu Dhabi,United Arab Emirates,True
+2007-01-18 00:00:00,Saint Vincent and the Grenadines,Guadeloupe,0,1,CFU Caribbean Cup,San Fernando,Trinidad and Tobago,True
+2007-01-20 00:00:00,Guadeloupe,Haiti,1,3,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,True
+2007-01-20 00:00:00,Kuwait,Oman,1,2,Gulf Cup,Abu Dhabi,United Arab Emirates,True
+2007-01-20 00:00:00,Trinidad and Tobago,Cuba,3,1,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,False
+2007-01-20 00:00:00,United Arab Emirates,Yemen,2,1,Gulf Cup,Abu Dhabi,United Arab Emirates,False
+2007-01-21 00:00:00,Bahrain,Iraq,1,1,Gulf Cup,Abu Dhabi,United Arab Emirates,True
+2007-01-21 00:00:00,Ecuador,Sweden,1,1,Friendly,Quito,Ecuador,False
+2007-01-21 00:00:00,Saudi Arabia,Qatar,1,1,Gulf Cup,Abu Dhabi,United Arab Emirates,True
+2007-01-23 00:00:00,Cuba,Guadeloupe,2,1,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,True
+2007-01-23 00:00:00,Malaysia,Singapore,1,1,AFF Championship,Shah Alam,Malaysia,False
+2007-01-23 00:00:00,Oman,Yemen,2,1,Gulf Cup,Abu Dhabi,United Arab Emirates,True
+2007-01-23 00:00:00,Trinidad and Tobago,Haiti,1,2,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,False
+2007-01-23 00:00:00,United Arab Emirates,Kuwait,3,2,Gulf Cup,Abu Dhabi,United Arab Emirates,False
+2007-01-24 00:00:00,Qatar,Bahrain,1,2,Gulf Cup,Abu Dhabi,United Arab Emirates,True
+2007-01-24 00:00:00,Saudi Arabia,Iraq,1,0,Gulf Cup,Abu Dhabi,United Arab Emirates,True
+2007-01-24 00:00:00,Vietnam,Thailand,0,2,AFF Championship,Hanoi,Vietnam,False
+2007-01-24 00:00:00,Zanzibar,Northern Cyprus,2,1,Friendly,Zanzibar,Zanzibar,False
+2007-01-27 00:00:00,Oman,Bahrain,1,0,Gulf Cup,Abu Dhabi,United Arab Emirates,True
+2007-01-27 00:00:00,Singapore,Malaysia,1,1,AFF Championship,Singapore,Singapore,False
+2007-01-27 00:00:00,United Arab Emirates,Saudi Arabia,1,0,Gulf Cup,Abu Dhabi,United Arab Emirates,False
+2007-01-28 00:00:00,Thailand,Vietnam,0,0,AFF Championship,Bangkok,Thailand,False
+2007-01-30 00:00:00,United Arab Emirates,Oman,1,0,Gulf Cup,Abu Dhabi,United Arab Emirates,False
+2007-01-31 00:00:00,Panama,Trinidad and Tobago,2,1,Friendly,Panama City,Panama,False
+2007-01-31 00:00:00,Singapore,Thailand,2,1,AFF Championship,Singapore,Singapore,False
+2007-02-03 00:00:00,Poland,Estonia,4,0,Friendly,Jerez de la Frontera,Spain,True
+2007-02-04 00:00:00,Costa Rica,Trinidad and Tobago,4,0,Friendly,Alajuela,Costa Rica,False
+2007-02-04 00:00:00,Thailand,Singapore,1,1,AFF Championship,Bangkok,Thailand,False
+2007-02-06 00:00:00,Australia,Denmark,1,3,Friendly,London,England,True
+2007-02-06 00:00:00,Botswana,Namibia,1,0,Friendly,Gaborone,Botswana,False
+2007-02-06 00:00:00,Cyprus,Hungary,2,1,Cyprus International Tournament,Limassol,Cyprus,False
+2007-02-06 00:00:00,Greece,South Korea,0,1,Friendly,London,England,True
+2007-02-06 00:00:00,Ivory Coast,Guinea,1,0,Friendly,Le Havre,France,True
+2007-02-06 00:00:00,Latvia,Bulgaria,0,2,Cyprus International Tournament,Larnaca,Cyprus,True
+2007-02-06 00:00:00,Lithuania,Mali,1,3,Friendly,La Courneuve,France,True
+2007-02-06 00:00:00,Nigeria,Ghana,1,4,Friendly,Brentford,England,True
+2007-02-06 00:00:00,Northern Ireland,Wales,0,0,Friendly,Belfast,Northern Ireland,False
+2007-02-06 00:00:00,Portugal,Brazil,2,0,Friendly,London,England,True
+2007-02-07 00:00:00,Albania,North Macedonia,0,1,Friendly,Shkod√´r,Albania,False
+2007-02-07 00:00:00,Algeria,Libya,2,1,Friendly,Algiers,Algeria,False
+2007-02-07 00:00:00,Andorra,Armenia,0,0,Friendly,Sant Juli√† de L√≤ria,Andorra,False
+2007-02-07 00:00:00,Belgium,Czech Republic,0,2,Friendly,Brussels,Belgium,False
+2007-02-07 00:00:00,China PR,Kazakhstan,2,1,Friendly,Guangzhou,China PR,False
+2007-02-07 00:00:00,Colombia,Uruguay,1,3,Friendly,C√∫cuta,Colombia,False
+2007-02-07 00:00:00,Croatia,Norway,2,1,Friendly,Rijeka,Croatia,False
+2007-02-07 00:00:00,Cyprus,Bulgaria,0,3,Cyprus International Tournament,Nicosia,Cyprus,False
+2007-02-07 00:00:00,Egypt,Sweden,2,0,Friendly,Cairo,Egypt,False
+2007-02-07 00:00:00,England,Spain,0,1,Friendly,Manchester,England,False
+2007-02-07 00:00:00,France,Argentina,0,1,Friendly,Saint-Denis,France,False
+2007-02-07 00:00:00,Georgia,Turkey,1,0,Friendly,Tbilisi,Georgia,False
+2007-02-07 00:00:00,Germany,Switzerland,3,1,Friendly,D√ºsseldorf,Germany,False
+2007-02-07 00:00:00,Iran,Belarus,2,2,Friendly,Tehran,Iran,False
+2007-02-07 00:00:00,Israel,Ukraine,1,1,Friendly,Ramat-Gan,Israel,False
+2007-02-07 00:00:00,Latvia,Hungary,0,2,Cyprus International Tournament,Limassol,Cyprus,True
+2007-02-07 00:00:00,Luxembourg,Gambia,2,1,Friendly,Hesperange,Luxembourg,False
+2007-02-07 00:00:00,Malta,Austria,1,1,Friendly,Attard,Malta,False
+2007-02-07 00:00:00,Morocco,Tunisia,1,1,Friendly,Casablanca,Morocco,False
+2007-02-07 00:00:00,Netherlands,Russia,4,1,Friendly,Amsterdam,Netherlands,False
+2007-02-07 00:00:00,Poland,Slovakia,2,2,Friendly,Jerez de la Frontera,Spain,True
+2007-02-07 00:00:00,Romania,Moldova,2,0,Friendly,Bucharest,Romania,False
+2007-02-07 00:00:00,San Marino,Republic of Ireland,1,2,UEFA Euro qualification,Serravalle,San Marino,False
+2007-02-07 00:00:00,Senegal,Benin,2,1,Friendly,Rouen,France,True
+2007-02-07 00:00:00,Slovenia,Estonia,1,0,Friendly,Dom≈æale,Slovenia,False
+2007-02-07 00:00:00,Togo,Cameroon,2,2,Friendly,Lom√©,Togo,False
+2007-02-07 00:00:00,United States,Mexico,2,0,Friendly,Glendale,United States,False
+2007-02-07 00:00:00,Uzbekistan,Azerbaijan,0,0,Friendly,Qarshi,Uzbekistan,False
+2007-02-07 00:00:00,Venezuela,Chile,0,1,Friendly,Maracaibo,Venezuela,False
+2007-02-08 00:00:00,El Salvador,Belize,2,1,UNCAF Cup,San Salvador,El Salvador,False
+2007-02-08 00:00:00,Guatemala,Nicaragua,1,0,UNCAF Cup,San Salvador,El Salvador,True
+2007-02-09 00:00:00,Costa Rica,Honduras,3,1,UNCAF Cup,San Salvador,El Salvador,True
+2007-02-10 00:00:00,El Salvador,Nicaragua,2,1,UNCAF Cup,San Salvador,El Salvador,False
+2007-02-10 00:00:00,Guatemala,Belize,1,0,UNCAF Cup,San Salvador,El Salvador,True
+2007-02-11 00:00:00,Honduras,Panama,1,1,UNCAF Cup,San Salvador,El Salvador,True
+2007-02-12 00:00:00,El Salvador,Guatemala,0,0,UNCAF Cup,San Salvador,El Salvador,False
+2007-02-12 00:00:00,Nicaragua,Belize,4,2,UNCAF Cup,San Salvador,El Salvador,True
+2007-02-13 00:00:00,Lesotho,Eswatini,0,1,Friendly,Maseru,Lesotho,False
+2007-02-13 00:00:00,Panama,Costa Rica,1,0,UNCAF Cup,San Salvador,El Salvador,True
+2007-02-15 00:00:00,Nicaragua,Honduras,1,9,UNCAF Cup,San Salvador,El Salvador,True
+2007-02-16 00:00:00,El Salvador,Costa Rica,0,2,UNCAF Cup,San Salvador,El Salvador,False
+2007-02-16 00:00:00,Panama,Guatemala,2,0,UNCAF Cup,San Salvador,El Salvador,True
+2007-02-18 00:00:00,Costa Rica,Panama,1,1,UNCAF Cup,San Salvador,El Salvador,True
+2007-02-18 00:00:00,El Salvador,Guatemala,0,1,UNCAF Cup,San Salvador,El Salvador,False
+2007-02-22 00:00:00,Benin,Chad,0,1,Friendly,Cotonou,Benin,False
+2007-02-28 00:00:00,Mexico,Venezuela,3,1,Friendly,San Diego,United States,True
+2007-03-07 00:00:00,Azerbaijan,Uzbekistan,1,0,Friendly,Shymkent,Kazakhstan,True
+2007-03-07 00:00:00,Kazakhstan,Kyrgyzstan,2,0,Friendly,Shymkent,Kazakhstan,False
+2007-03-09 00:00:00,Kazakhstan,Azerbaijan,1,0,Friendly,Shymkent,Kazakhstan,False
+2007-03-09 00:00:00,Kyrgyzstan,Uzbekistan,0,6,Friendly,Shymkent,Kazakhstan,True
+2007-03-11 00:00:00,Azerbaijan,Kyrgyzstan,1,0,Friendly,Shymkent,Kazakhstan,True
+2007-03-11 00:00:00,Kazakhstan,Uzbekistan,1,1,Friendly,Shymkent,Kazakhstan,False
+2007-03-18 00:00:00,Eswatini,Lesotho,0,1,Friendly,Lobamba,Eswatini,False
+2007-03-20 00:00:00,Libya,Mauritania,0,0,Friendly,Tripoli,Libya,False
+2007-03-21 00:00:00,Mauritius,Ivory Coast,0,3,Friendly,Belle Vue,Mauritius,False
+2007-03-22 00:00:00,Jamaica,Switzerland,0,2,Friendly,Fort Lauderdale,United States,True
+2007-03-24 00:00:00,Albania,Slovenia,0,0,UEFA Euro qualification,Shkod√´r,Albania,False
+2007-03-24 00:00:00,Algeria,Cape Verde,2,0,African Cup of Nations qualification,Algiers,Algeria,False
+2007-03-24 00:00:00,Austria,Ghana,1,1,Friendly,Graz,Austria,False
+2007-03-24 00:00:00,Brazil,Chile,4,0,Friendly,Gothenburg,Sweden,True
+2007-03-24 00:00:00,Burkina Faso,Mozambique,1,1,African Cup of Nations qualification,Ouagadougou,Burkina Faso,False
+2007-03-24 00:00:00,Cameroon,Liberia,3,1,African Cup of Nations qualification,Yaound√©,Cameroon,False
+2007-03-24 00:00:00,Chad,South Africa,0,3,African Cup of Nations qualification,N'Djamena,Chad,False
+2007-03-24 00:00:00,China PR,Australia,0,2,Friendly,Guangzhou,China PR,False
+2007-03-24 00:00:00,Costa Rica,New Zealand,4,0,Friendly,San Jos√©,Costa Rica,False
+2007-03-24 00:00:00,Croatia,North Macedonia,2,1,UEFA Euro qualification,Zagreb,Croatia,False
+2007-03-24 00:00:00,Cyprus,Slovakia,1,3,UEFA Euro qualification,Nicosia,Cyprus,False
+2007-03-24 00:00:00,Czech Republic,Germany,1,2,UEFA Euro qualification,Prague,Czech Republic,False
+2007-03-24 00:00:00,El Salvador,Honduras,0,2,Friendly,Fort Lauderdale,United States,True
+2007-03-24 00:00:00,Estonia,Russia,0,2,UEFA Euro qualification,Tallinn,Estonia,False
+2007-03-24 00:00:00,Faroe Islands,Ukraine,0,2,UEFA Euro qualification,Toftir,Faroe Islands,False
+2007-03-24 00:00:00,Gambia,Guinea,0,2,African Cup of Nations qualification,Bakau,Gambia,False
+2007-03-24 00:00:00,Greece,Turkey,1,4,UEFA Euro qualification,Piraeus,Greece,False
+2007-03-24 00:00:00,Guadeloupe,Trinidad and Tobago,2,2,Friendly,Le Gosier,Guadeloupe,False
+2007-03-24 00:00:00,Haiti,Panama,3,0,Friendly,Miami,United States,True
+2007-03-24 00:00:00,Republic of Ireland,Wales,1,0,UEFA Euro qualification,Dublin,Republic of Ireland,False
+2007-03-24 00:00:00,Israel,England,0,0,UEFA Euro qualification,Ramat-Gan,Israel,False
+2007-03-24 00:00:00,Japan,Peru,2,0,Friendly,Yokohama,Japan,False
+2007-03-24 00:00:00,Kazakhstan,Serbia,2,1,UEFA Euro qualification,Almaty,Kazakhstan,False
+2007-03-24 00:00:00,South Korea,Uruguay,0,2,Friendly,Seoul,South Korea,False
+2007-03-24 00:00:00,Liechtenstein,Northern Ireland,1,4,UEFA Euro qualification,Vaduz,Liechtenstein,False
+2007-03-24 00:00:00,Lithuania,France,0,1,UEFA Euro qualification,Kaunas,Lithuania,False
+2007-03-24 00:00:00,Luxembourg,Belarus,1,2,UEFA Euro qualification,Luxembourg,Luxembourg,False
+2007-03-24 00:00:00,Moldova,Malta,1,1,UEFA Euro qualification,Chi»ôinƒÉu,Moldova,False
+2007-03-24 00:00:00,Montenegro,Hungary,2,1,Friendly,Podgorica,Montenegro,False
+2007-03-24 00:00:00,Netherlands,Romania,0,0,UEFA Euro qualification,Rotterdam,Netherlands,False
+2007-03-24 00:00:00,Nigeria,Uganda,1,0,African Cup of Nations qualification,Abeokuta,Nigeria,False
+2007-03-24 00:00:00,Norway,Bosnia and Herzegovina,1,2,UEFA Euro qualification,Oslo,Norway,False
+2007-03-24 00:00:00,Poland,Azerbaijan,5,0,UEFA Euro qualification,Warsaw,Poland,False
+2007-03-24 00:00:00,Portugal,Belgium,4,0,UEFA Euro qualification,Lisbon,Portugal,False
+2007-03-24 00:00:00,Qatar,Iran,0,1,Friendly,Doha,Qatar,False
+2007-03-24 00:00:00,Scotland,Georgia,2,1,UEFA Euro qualification,Glasgow,Scotland,False
+2007-03-24 00:00:00,Senegal,Tanzania,4,0,African Cup of Nations qualification,Dakar,Senegal,False
+2007-03-24 00:00:00,Seychelles,Tunisia,0,3,African Cup of Nations qualification,Victoria,Seychelles,False
+2007-03-24 00:00:00,Spain,Denmark,2,1,UEFA Euro qualification,Madrid,Spain,False
+2007-03-24 00:00:00,Togo,Sierra Leone,3,1,African Cup of Nations qualification,Woum√©,Togo,False
+2007-03-24 00:00:00,Venezuela,Cuba,3,1,Friendly,M√©rida,Venezuela,False
+2007-03-24 00:00:00,Kernow,Guernsey,1,1,Friendly,Cornwall,England,False
+2007-03-25 00:00:00,Angola,Eritrea,6,1,African Cup of Nations qualification,Luanda,Angola,False
+2007-03-25 00:00:00,Barbados,Guatemala,0,0,Friendly,Bridgetown,Barbados,False
+2007-03-25 00:00:00,Bermuda,Canada,0,3,Friendly,Hamilton,Bermuda,False
+2007-03-25 00:00:00,Botswana,Burundi,1,0,African Cup of Nations qualification,Gaborone,Botswana,False
+2007-03-25 00:00:00,Colombia,Switzerland,3,1,Friendly,Miami,United States,True
+2007-03-25 00:00:00,Congo,Zambia,0,0,African Cup of Nations qualification,Brazzaville,Congo,False
+2007-03-25 00:00:00,Egypt,Mauritania,3,0,African Cup of Nations qualification,Cairo,Egypt,False
+2007-03-25 00:00:00,Equatorial Guinea,Rwanda,3,1,African Cup of Nations qualification,Malabo,Equatorial Guinea,False
+2007-03-25 00:00:00,Kenya,Eswatini,2,0,African Cup of Nations qualification,Nairobi,Kenya,False
+2007-03-25 00:00:00,Lesotho,Niger,3,1,African Cup of Nations qualification,Maseru,Lesotho,False
+2007-03-25 00:00:00,Libya,Namibia,2,1,African Cup of Nations qualification,Tripoli,Libya,False
+2007-03-25 00:00:00,Madagascar,Ivory Coast,0,3,African Cup of Nations qualification,Antananarivo,Madagascar,False
+2007-03-25 00:00:00,Mali,Benin,1,1,African Cup of Nations qualification,Bamako,Mali,False
+2007-03-25 00:00:00,Mauritius,Sudan,1,2,African Cup of Nations qualification,Curepipe,Mauritius,False
+2007-03-25 00:00:00,Mexico,Paraguay,2,1,Friendly,Monterrey,Mexico,False
+2007-03-25 00:00:00,Northern Mariana Islands,Guam,2,3,EAFF Championship,Oleai,Northern Mariana Islands,False
+2007-03-25 00:00:00,United States,Ecuador,3,1,Friendly,Tampa,United States,False
+2007-03-25 00:00:00,Zimbabwe,Morocco,1,1,African Cup of Nations qualification,Harare,Zimbabwe,False
+2007-03-26 00:00:00,Jamaica,Panama,1,1,Friendly,Kingston,Jamaica,False
+2007-03-27 00:00:00,Brazil,Ghana,1,0,Friendly,Solna,Sweden,True
+2007-03-27 00:00:00,China PR,Uzbekistan,3,1,Friendly,Macau,Macau,True
+2007-03-27 00:00:00,El Salvador,Honduras,0,2,Friendly,Cary,United States,True
+2007-03-28 00:00:00,Andorra,England,0,3,UEFA Euro qualification,Barcelona,Spain,True
+2007-03-28 00:00:00,Azerbaijan,Finland,1,0,UEFA Euro qualification,Baku,Azerbaijan,False
+2007-03-28 00:00:00,Bulgaria,Albania,0,0,UEFA Euro qualification,Sofia,Bulgaria,False
+2007-03-28 00:00:00,Chile,Costa Rica,1,1,Friendly,Talca,Chile,False
+2007-03-28 00:00:00,Colombia,Paraguay,2,0,Friendly,Bogot√°,Colombia,False
+2007-03-28 00:00:00,Czech Republic,Cyprus,1,0,UEFA Euro qualification,Liberec,Czech Republic,False
+2007-03-28 00:00:00,France,Austria,1,0,Friendly,Saint-Denis,France,False
+2007-03-28 00:00:00,Georgia,Faroe Islands,3,1,UEFA Euro qualification,Tbilisi,Georgia,False
+2007-03-28 00:00:00,Germany,Denmark,0,1,Friendly,Duisburg,Germany,False
+2007-03-28 00:00:00,Hungary,Moldova,2,0,UEFA Euro qualification,Budapest,Hungary,False
+2007-03-28 00:00:00,Republic of Ireland,Slovakia,1,0,UEFA Euro qualification,Dublin,Republic of Ireland,False
+2007-03-28 00:00:00,Israel,Estonia,4,0,UEFA Euro qualification,Ramat-Gan,Israel,False
+2007-03-28 00:00:00,Italy,Scotland,2,0,UEFA Euro qualification,Bari,Italy,False
+2007-03-28 00:00:00,Liechtenstein,Latvia,1,0,UEFA Euro qualification,Vaduz,Liechtenstein,False
+2007-03-28 00:00:00,Malta,Greece,0,1,UEFA Euro qualification,Attard,Malta,False
+2007-03-28 00:00:00,Mexico,Ecuador,4,2,Friendly,Oakland,United States,True
+2007-03-28 00:00:00,Northern Ireland,Sweden,2,1,UEFA Euro qualification,Belfast,Northern Ireland,False
+2007-03-28 00:00:00,Poland,Armenia,1,0,UEFA Euro qualification,Kielce,Poland,False
+2007-03-28 00:00:00,Romania,Luxembourg,3,0,UEFA Euro qualification,Piatra Neam≈£,Romania,False
+2007-03-28 00:00:00,Serbia,Portugal,1,1,UEFA Euro qualification,Belgrade,Serbia,False
+2007-03-28 00:00:00,Slovenia,Netherlands,0,1,UEFA Euro qualification,Celje,Slovenia,False
+2007-03-28 00:00:00,South Africa,Bolivia,0,1,Friendly,Johannesburg,South Africa,False
+2007-03-28 00:00:00,Spain,Iceland,1,0,UEFA Euro qualification,Palma de Mallorca,Spain,False
+2007-03-28 00:00:00,Turkey,Norway,2,2,UEFA Euro qualification,Frankfurt am Main,Germany,True
+2007-03-28 00:00:00,Ukraine,Lithuania,1,0,UEFA Euro qualification,Odessa,Ukraine,False
+2007-03-28 00:00:00,United States,Guatemala,0,0,Friendly,Frisco,United States,False
+2007-03-28 00:00:00,Venezuela,New Zealand,5,0,Friendly,Maracaibo,Venezuela,False
+2007-03-28 00:00:00,Wales,San Marino,3,0,UEFA Euro qualification,Cardiff,Wales,False
+2007-04-01 00:00:00,Guam,Northern Mariana Islands,9,0,EAFF Championship,Hag√§t√±a,Guam,False
+2007-04-04 00:00:00,Angola,Congo,0,0,Friendly,Cabinda,Angola,False
+2007-04-17 00:00:00,El Salvador,Haiti,0,1,Friendly,San Salvador,El Salvador,False
+2007-04-18 00:00:00,Argentina,Chile,0,0,Friendly,Mendoza,Argentina,False
+2007-04-19 00:00:00,Honduras,Haiti,1,3,Friendly,La Ceiba,Honduras,False
+2007-04-24 00:00:00,Seychelles,R√©union,2,0,Friendly,Victoria,Seychelles,False
+2007-04-26 00:00:00,Mauritius,R√©union,1,1,Friendly,Curepipe,Mauritius,False
+2007-04-28 00:00:00,Madagascar,Zimbabwe,0,1,COSAFA Cup,Maputo,Mozambique,True
+2007-04-28 00:00:00,Mozambique,Seychelles,2,0,COSAFA Cup,Maputo,Mozambique,False
+2007-04-29 00:00:00,DR Congo,Ethiopia,2,0,African Cup of Nations qualification,Kinshasa,DR Congo,False
+2007-04-29 00:00:00,Madagascar,Seychelles,5,0,COSAFA Cup,Maputo,Mozambique,True
+2007-04-29 00:00:00,Mozambique,Zimbabwe,0,0,COSAFA Cup,Maputo,Mozambique,False
+2007-05-06 00:00:00,Guernsey,Jersey,0,0,Friendly,St. Peter Port,Guernsey,False
+2007-05-09 00:00:00,Chile,Cuba,3,0,Friendly,Osorno,Chile,False
+2007-05-09 00:00:00,Panama,Colombia,0,4,Friendly,Panama City,Panama,False
+2007-05-16 00:00:00,Chile,Cuba,2,0,Friendly,Temuco,Chile,False
+2007-05-16 00:00:00,Thailand,China PR,1,0,Friendly,Bangkok,Thailand,False
+2007-05-17 00:00:00,Guadeloupe,Dominica,2,0,Friendly,Morne-√†-l'Eau,Guadeloupe,False
+2007-05-20 00:00:00,Guadeloupe,Dominica,0,0,Friendly,Basse-Terre,Guadeloupe,False
+2007-05-21 00:00:00,Eritrea,Sudan,1,0,Friendly,Asmara,Eritrea,False
+2007-05-23 00:00:00,Ecuador,Republic of Ireland,1,1,Friendly,East Rutherford,United States,True
+2007-05-23 00:00:00,Haiti,Chile,0,0,Friendly,Port-au-Prince,Haiti,False
+2007-05-25 00:00:00,Venezuela,Honduras,2,1,Friendly,M√©rida,Venezuela,False
+2007-05-25 00:00:00,Zimbabwe,Lesotho,1,1,Friendly,Masvingo,Zimbabwe,False
+2007-05-26 00:00:00,Bolivia,Republic of Ireland,1,1,Friendly,Foxborough,United States,True
+2007-05-26 00:00:00,Eritrea,Sudan,1,1,Friendly,Asmara,Eritrea,False
+2007-05-26 00:00:00,Malawi,South Africa,0,0,COSAFA Cup,Lobamba,Eswatini,True
+2007-05-26 00:00:00,Namibia,Zambia,1,2,Friendly,Windhoek,Namibia,False
+2007-05-26 00:00:00,Eswatini,Mauritius,0,0,COSAFA Cup,Lobamba,Eswatini,False
+2007-05-26 00:00:00,Uganda,Tanzania,1,1,Friendly,Kampala,Uganda,False
+2007-05-26 00:00:00,Wales,New Zealand,2,2,Friendly,Wrexham,Wales,False
+2007-05-27 00:00:00,Botswana,Libya,0,0,Friendly,Gaborone,Botswana,False
+2007-05-27 00:00:00,Kenya,Nigeria,0,1,Friendly,Nairobi,Kenya,False
+2007-05-27 00:00:00,Mauritius,South Africa,0,2,COSAFA Cup,Lobamba,Eswatini,True
+2007-05-27 00:00:00,Rwanda,Burundi,1,0,Friendly,Kigali,Rwanda,False
+2007-05-27 00:00:00,Eswatini,Malawi,1,0,COSAFA Cup,Lobamba,Eswatini,False
+2007-05-28 00:00:00,Congo,DR Congo,2,1,Friendly,Brazzaville,Congo,False
+2007-05-28 00:00:00,Trinidad and Tobago,Haiti,1,0,Friendly,Port of Spain,Trinidad and Tobago,False
+2007-05-29 00:00:00,Zimbabwe,Burkina Faso,1,1,Friendly,Masvingo,Zimbabwe,False
+2007-05-30 00:00:00,Austria,Scotland,0,1,Friendly,Vienna,Austria,False
+2007-05-30 00:00:00,Saint Vincent and the Grenadines,Haiti,0,3,Friendly,Port of Spain,Trinidad and Tobago,True
+2007-06-01 00:00:00,England,Brazil,1,1,Friendly,London,England,False
+2007-06-01 00:00:00,Ethiopia,DR Congo,1,0,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+2007-06-01 00:00:00,Indonesia,Hong Kong,3,0,Friendly,Jakarta,Indonesia,False
+2007-06-01 00:00:00,Japan,Montenegro,2,0,Kirin Cup,Fukuroi,Japan,False
+2007-06-01 00:00:00,Venezuela,Canada,2,2,Friendly,Maracaibo,Venezuela,False
+2007-06-02 00:00:00,Albania,Luxembourg,2,0,UEFA Euro qualification,Tirana,Albania,False
+2007-06-02 00:00:00,Australia,Uruguay,1,2,Friendly,Sydney,Australia,False
+2007-06-02 00:00:00,Austria,Paraguay,0,0,Friendly,Vienna,Austria,False
+2007-06-02 00:00:00,Azerbaijan,Poland,1,3,UEFA Euro qualification,Baku,Azerbaijan,False
+2007-06-02 00:00:00,Belarus,Bulgaria,0,2,UEFA Euro qualification,Minsk,Belarus,False
+2007-06-02 00:00:00,Belgium,Portugal,1,2,UEFA Euro qualification,Brussels,Belgium,False
+2007-06-02 00:00:00,Bosnia and Herzegovina,Turkey,3,2,UEFA Euro qualification,Sarajevo,Bosnia and Herzegovina,False
+2007-06-02 00:00:00,Cape Verde,Algeria,2,2,African Cup of Nations qualification,Praia,Cape Verde,False
+2007-06-02 00:00:00,Costa Rica,Chile,2,0,Friendly,San Jos√©,Costa Rica,False
+2007-06-02 00:00:00,Denmark,Sweden,0,3,UEFA Euro qualification,Copenhagen,Denmark,False
+2007-06-02 00:00:00,Eritrea,Angola,1,1,African Cup of Nations qualification,Asmara,Eritrea,False
+2007-06-02 00:00:00,Estonia,Croatia,0,1,UEFA Euro qualification,Tallinn,Estonia,False
+2007-06-02 00:00:00,Faroe Islands,Italy,1,2,UEFA Euro qualification,T√≥rshavn,Faroe Islands,False
+2007-06-02 00:00:00,Finland,Serbia,0,2,UEFA Euro qualification,Helsinki,Finland,False
+2007-06-02 00:00:00,France,Ukraine,2,0,UEFA Euro qualification,Saint-Denis,France,False
+2007-06-02 00:00:00,Germany,San Marino,6,0,UEFA Euro qualification,Nuremberg,Germany,False
+2007-06-02 00:00:00,Greece,Hungary,2,0,UEFA Euro qualification,Heraklion,Greece,False
+2007-06-02 00:00:00,Honduras,Trinidad and Tobago,3,1,Friendly,San Pedro Sula,Honduras,False
+2007-06-02 00:00:00,Iceland,Liechtenstein,1,1,UEFA Euro qualification,Reykjav√≠k,Iceland,False
+2007-06-02 00:00:00,Kazakhstan,Armenia,1,2,UEFA Euro qualification,Almaty,Kazakhstan,False
+2007-06-02 00:00:00,South Korea,Netherlands,0,2,Friendly,Seoul,South Korea,False
+2007-06-02 00:00:00,Latvia,Spain,0,2,UEFA Euro qualification,Riga,Latvia,False
+2007-06-02 00:00:00,Lithuania,Georgia,1,0,UEFA Euro qualification,Kaunas,Lithuania,False
+2007-06-02 00:00:00,North Macedonia,Israel,1,2,UEFA Euro qualification,Skopje,North Macedonia,False
+2007-06-02 00:00:00,Mexico,Iran,4,0,Friendly,San Luis Potos√≠,Mexico,False
+2007-06-02 00:00:00,Morocco,Zimbabwe,2,0,African Cup of Nations qualification,Casablanca,Morocco,False
+2007-06-02 00:00:00,Namibia,Libya,1,0,African Cup of Nations qualification,Windhoek,Namibia,False
+2007-06-02 00:00:00,Norway,Malta,4,0,UEFA Euro qualification,Oslo,Norway,False
+2007-06-02 00:00:00,Russia,Andorra,4,0,UEFA Euro qualification,Saint Petersburg,Russia,False
+2007-06-02 00:00:00,Rwanda,Equatorial Guinea,2,0,African Cup of Nations qualification,Kigali,Rwanda,False
+2007-06-02 00:00:00,Slovenia,Romania,1,2,UEFA Euro qualification,Celje,Slovenia,False
+2007-06-02 00:00:00,South Africa,Chad,4,0,African Cup of Nations qualification,Durban,South Africa,False
+2007-06-02 00:00:00,Sudan,Mauritius,3,0,African Cup of Nations qualification,Omdurman,Sudan,False
+2007-06-02 00:00:00,Switzerland,Argentina,1,1,Friendly,Basel,Switzerland,False
+2007-06-02 00:00:00,Tanzania,Senegal,1,1,African Cup of Nations qualification,Mwanza,Tanzania,False
+2007-06-02 00:00:00,Tunisia,Seychelles,4,0,African Cup of Nations qualification,Rad√®s,Tunisia,False
+2007-06-02 00:00:00,Uganda,Nigeria,2,1,African Cup of Nations qualification,Kampala,Uganda,False
+2007-06-02 00:00:00,United States,China PR,4,1,Friendly,San Jose,United States,False
+2007-06-02 00:00:00,Wales,Czech Republic,0,0,UEFA Euro qualification,Cardiff,Wales,False
+2007-06-02 00:00:00,Zambia,Congo,3,0,African Cup of Nations qualification,Chililabombwe,Zambia,False
+2007-06-03 00:00:00,Benin,Mali,0,0,African Cup of Nations qualification,Cotonou,Benin,False
+2007-06-03 00:00:00,Burundi,Botswana,1,0,African Cup of Nations qualification,Kigali,Rwanda,True
+2007-06-03 00:00:00,Colombia,Montenegro,1,0,Kirin Cup,Matsumoto,Japan,True
+2007-06-03 00:00:00,Ecuador,Peru,1,2,Friendly,Madrid,Spain,True
+2007-06-03 00:00:00,Guinea,Gambia,2,2,African Cup of Nations qualification,Conakry,Guinea,False
+2007-06-03 00:00:00,Ivory Coast,Madagascar,5,0,African Cup of Nations qualification,Bouak√©,Ivory Coast,False
+2007-06-03 00:00:00,Liberia,Cameroon,1,2,African Cup of Nations qualification,Monrovia,Liberia,False
+2007-06-03 00:00:00,Mauritania,Egypt,1,1,African Cup of Nations qualification,Nouakchott,Mauritania,False
+2007-06-03 00:00:00,Mozambique,Burkina Faso,3,0,African Cup of Nations qualification,Maputo,Mozambique,False
+2007-06-03 00:00:00,Niger,Lesotho,2,0,African Cup of Nations qualification,Niamey,Niger,False
+2007-06-03 00:00:00,Sierra Leone,Togo,0,1,African Cup of Nations qualification,Freetown,Sierra Leone,False
+2007-06-03 00:00:00,Eswatini,Kenya,0,0,African Cup of Nations qualification,Lobamba,Eswatini,False
+2007-06-05 00:00:00,Algeria,Argentina,3,4,Friendly,Barcelona,Spain,True
+2007-06-05 00:00:00,Jamaica,Chile,0,1,Friendly,Kingston,Jamaica,False
+2007-06-05 00:00:00,Japan,Colombia,0,0,Kirin Cup,Saitama,Japan,False
+2007-06-05 00:00:00,Kuwait,Portugal,1,1,Friendly,Salmiya,Kuwait,False
+2007-06-05 00:00:00,Mexico,Paraguay,0,1,Friendly,Mexico City,Mexico,False
+2007-06-05 00:00:00,Turkey,Brazil,0,0,Friendly,Dortmund,Germany,True
+2007-06-06 00:00:00,Andorra,Israel,0,2,UEFA Euro qualification,Sant Juli√† de L√≤ria,Andorra,False
+2007-06-06 00:00:00,Armenia,Poland,1,0,UEFA Euro qualification,Yerevan,Armenia,False
+2007-06-06 00:00:00,Bosnia and Herzegovina,Malta,1,0,UEFA Euro qualification,Sarajevo,Bosnia and Herzegovina,False
+2007-06-06 00:00:00,Bulgaria,Belarus,2,1,UEFA Euro qualification,Sofia,Bulgaria,False
+2007-06-06 00:00:00,Costa Rica,Canada,1,2,Gold Cup,Miami,United States,True
+2007-06-06 00:00:00,Croatia,Russia,0,0,UEFA Euro qualification,Zagreb,Croatia,False
+2007-06-06 00:00:00,Ecuador,Peru,2,0,Friendly,Barcelona,Spain,True
+2007-06-06 00:00:00,Estonia,England,0,3,UEFA Euro qualification,Tallinn,Estonia,False
+2007-06-06 00:00:00,Faroe Islands,Scotland,0,2,UEFA Euro qualification,Toftir,Faroe Islands,False
+2007-06-06 00:00:00,Finland,Belgium,2,0,UEFA Euro qualification,Helsinki,Finland,False
+2007-06-06 00:00:00,France,Georgia,1,0,UEFA Euro qualification,Auxerre,France,False
+2007-06-06 00:00:00,Germany,Slovakia,2,1,UEFA Euro qualification,Hamburg,Germany,False
+2007-06-06 00:00:00,Greece,Moldova,2,1,UEFA Euro qualification,Heraklion,Greece,False
+2007-06-06 00:00:00,Guadeloupe,Haiti,1,1,Gold Cup,Miami,United States,True
+2007-06-06 00:00:00,Kazakhstan,Azerbaijan,1,1,UEFA Euro qualification,Almaty,Kazakhstan,False
+2007-06-06 00:00:00,Latvia,Denmark,0,2,UEFA Euro qualification,Riga,Latvia,False
+2007-06-06 00:00:00,Liechtenstein,Spain,0,2,UEFA Euro qualification,Vaduz,Liechtenstein,False
+2007-06-06 00:00:00,Lithuania,Italy,0,2,UEFA Euro qualification,Kaunas,Lithuania,False
+2007-06-06 00:00:00,Luxembourg,Albania,0,3,UEFA Euro qualification,Luxembourg,Luxembourg,False
+2007-06-06 00:00:00,Norway,Hungary,4,0,UEFA Euro qualification,Oslo,Norway,False
+2007-06-06 00:00:00,Romania,Slovenia,2,0,UEFA Euro qualification,Timi≈üoara,Romania,False
+2007-06-06 00:00:00,Sweden,Iceland,5,0,UEFA Euro qualification,Solna,Sweden,False
+2007-06-06 00:00:00,Thailand,Netherlands,1,3,Friendly,Bangkok,Thailand,False
+2007-06-07 00:00:00,El Salvador,Trinidad and Tobago,2,1,Gold Cup,Carson,United States,True
+2007-06-07 00:00:00,United States,Guatemala,1,0,Gold Cup,Carson,United States,False
+2007-06-08 00:00:00,Jordan,Iraq,1,1,Friendly,Amman,Jordan,False
+2007-06-08 00:00:00,Mexico,Cuba,2,1,Gold Cup,East Rutherford,United States,True
+2007-06-08 00:00:00,Panama,Honduras,3,2,Gold Cup,East Rutherford,United States,True
+2007-06-09 00:00:00,Burkina Faso,Mali,0,1,Friendly,Ouagadougou,Burkina Faso,False
+2007-06-09 00:00:00,Canada,Guadeloupe,1,2,Gold Cup,Miami,United States,True
+2007-06-09 00:00:00,Guatemala,El Salvador,1,0,Gold Cup,Carson,United States,True
+2007-06-09 00:00:00,Haiti,Costa Rica,1,1,Gold Cup,Miami,United States,True
+2007-06-09 00:00:00,Tanzania,Zambia,1,1,Friendly,Morogoro,Tanzania,False
+2007-06-09 00:00:00,United States,Trinidad and Tobago,2,0,Gold Cup,Carson,United States,False
+2007-06-10 00:00:00,Honduras,Mexico,2,1,Gold Cup,East Rutherford,United States,True
+2007-06-10 00:00:00,Hong Kong,Macau,2,1,Friendly,So Kon Po,Hong Kong,False
+2007-06-10 00:00:00,Kenya,Rwanda,2,0,Friendly,Nairobi,Kenya,False
+2007-06-10 00:00:00,Malawi,Senegal,2,3,Friendly,Blantyre,Malawi,False
+2007-06-10 00:00:00,Panama,Cuba,2,2,Gold Cup,East Rutherford,United States,True
+2007-06-11 00:00:00,Costa Rica,Guadeloupe,1,0,Gold Cup,Miami,United States,True
+2007-06-11 00:00:00,Haiti,Canada,0,2,Gold Cup,Miami,United States,True
+2007-06-12 00:00:00,Jordan,Iraq,0,0,Friendly,Amman,Jordan,False
+2007-06-12 00:00:00,Kuwait,Egypt,1,1,Friendly,Kuwait City,Kuwait,False
+2007-06-12 00:00:00,R√©union,Gabon,0,3,Friendly,Saint-Pierre,R√©union,False
+2007-06-12 00:00:00,Trinidad and Tobago,Guatemala,1,1,Gold Cup,Foxborough,United States,True
+2007-06-12 00:00:00,United States,El Salvador,4,0,Gold Cup,Foxborough,United States,False
+2007-06-13 00:00:00,Cuba,Honduras,0,5,Gold Cup,Houston,United States,True
+2007-06-13 00:00:00,Mexico,Panama,1,0,Gold Cup,Houston,United States,True
+2007-06-16 00:00:00,Algeria,Guinea,0,2,African Cup of Nations qualification,Algiers,Algeria,False
+2007-06-16 00:00:00,Botswana,Mauritania,2,1,African Cup of Nations qualification,Gaborone,Botswana,False
+2007-06-16 00:00:00,Burkina Faso,Tanzania,0,1,African Cup of Nations qualification,Ouagadougou,Burkina Faso,False
+2007-06-16 00:00:00,Canada,Guatemala,3,0,Gold Cup,Foxborough,United States,True
+2007-06-16 00:00:00,Cape Verde,Gambia,0,0,African Cup of Nations qualification,Praia,Cape Verde,False
+2007-06-16 00:00:00,Eritrea,Kenya,1,0,African Cup of Nations qualification,Asmara,Eritrea,False
+2007-06-16 00:00:00,Iran,Iraq,0,0,WAFF Championship,Amman,Jordan,True
+2007-06-16 00:00:00,Lebanon,Syria,0,1,WAFF Championship,Amman,Jordan,True
+2007-06-16 00:00:00,Malawi,Morocco,0,1,African Cup of Nations qualification,Blantyre,Malawi,False
+2007-06-16 00:00:00,Namibia,DR Congo,1,1,African Cup of Nations qualification,Windhoek,Namibia,False
+2007-06-16 00:00:00,Seychelles,Sudan,0,2,African Cup of Nations qualification,Victoria,Seychelles,False
+2007-06-16 00:00:00,Tunisia,Mauritius,2,0,African Cup of Nations qualification,Rad√®s,Tunisia,False
+2007-06-16 00:00:00,United States,Panama,2,1,Gold Cup,Foxborough,United States,False
+2007-06-16 00:00:00,Zambia,Chad,1,1,African Cup of Nations qualification,Chililabombwe,Zambia,False
+2007-06-17 00:00:00,Angola,Eswatini,3,0,African Cup of Nations qualification,Luanda,Angola,False
+2007-06-17 00:00:00,Benin,Togo,4,1,African Cup of Nations qualification,Cotonou,Benin,False
+2007-06-17 00:00:00,Cameroon,Rwanda,2,1,African Cup of Nations qualification,Garoua,Cameroon,False
+2007-06-17 00:00:00,Congo,South Africa,1,1,African Cup of Nations qualification,Pointe-Noire,Congo,False
+2007-06-17 00:00:00,Guam,Taiwan,0,10,EAFF Championship,Macau,Macau,True
+2007-06-17 00:00:00,Honduras,Guadeloupe,1,2,Gold Cup,Houston,United States,True
+2007-06-17 00:00:00,Liberia,Equatorial Guinea,0,0,African Cup of Nations qualification,Monrovia,Liberia,False
+2007-06-17 00:00:00,Libya,Ethiopia,3,1,African Cup of Nations qualification,Tripoli,Libya,False
+2007-06-17 00:00:00,Macau,Mongolia,0,0,EAFF Championship,Macau,Macau,False
+2007-06-17 00:00:00,Madagascar,Gabon,0,2,African Cup of Nations qualification,Antananarivo,Madagascar,False
+2007-06-17 00:00:00,Mali,Sierra Leone,6,0,African Cup of Nations qualification,Bamako,Mali,False
+2007-06-17 00:00:00,Mexico,Costa Rica,1,0,Gold Cup,Houston,United States,True
+2007-06-17 00:00:00,Mozambique,Senegal,0,0,African Cup of Nations qualification,Maputo,Mozambique,False
+2007-06-17 00:00:00,Niger,Nigeria,1,3,African Cup of Nations qualification,Niamey,Niger,False
+2007-06-18 00:00:00,Jordan,Syria,0,1,WAFF Championship,Amman,Jordan,False
+2007-06-18 00:00:00,Malaysia,Cambodia,6,0,Friendly,Shah Alam,Malaysia,False
+2007-06-18 00:00:00,Palestine,Iraq,0,1,WAFF Championship,Amman,Jordan,True
+2007-06-19 00:00:00,Hong Kong,Taiwan,1,1,EAFF Championship,Macau,Macau,True
+2007-06-19 00:00:00,North Korea,Mongolia,7,0,EAFF Championship,Macau,Macau,True
+2007-06-19 00:00:00,Lesotho,Uganda,0,0,African Cup of Nations qualification,Maseru,Lesotho,False
+2007-06-20 00:00:00,Bolivia,Paraguay,0,0,Friendly,Santa Cruz,Bolivia,False
+2007-06-20 00:00:00,Iran,Palestine,2,0,WAFF Championship,Amman,Jordan,True
+2007-06-20 00:00:00,Jordan,Lebanon,3,0,WAFF Championship,Amman,Jordan,False
+2007-06-20 00:00:00,Venezuela,Basque Country,3,4,Friendly,T√°chira,Venezuela,False
+2007-06-21 00:00:00,Hong Kong,Guam,15,1,EAFF Championship,Macau,Macau,True
+2007-06-21 00:00:00,Indonesia,Jamaica,2,1,Friendly,Jakarta,Indonesia,False
+2007-06-21 00:00:00,Macau,North Korea,1,7,EAFF Championship,Macau,Macau,False
+2007-06-21 00:00:00,Malaysia,United Arab Emirates,1,3,Friendly,Petaling Jaya,Malaysia,False
+2007-06-21 00:00:00,Mexico,Guadeloupe,1,0,Gold Cup,Chicago,United States,True
+2007-06-21 00:00:00,United States,Canada,2,1,Gold Cup,Chicago,United States,False
+2007-06-22 00:00:00,Jordan,Iran,0,1,WAFF Championship,Amman,Jordan,False
+2007-06-22 00:00:00,Syria,Iraq,0,3,WAFF Championship,Amman,Jordan,True
+2007-06-23 00:00:00,Colombia,Ecuador,3,1,Friendly,Barranquilla,Colombia,False
+2007-06-23 00:00:00,Mongolia,Guam,5,2,EAFF Championship,Macau,Macau,True
+2007-06-24 00:00:00,Indonesia,Oman,0,1,Friendly,Jakarta,Indonesia,False
+2007-06-24 00:00:00,Iraq,Iran,1,2,WAFF Championship,Amman,Jordan,True
+2007-06-24 00:00:00,North Korea,Hong Kong,1,0,EAFF Championship,Macau,Macau,True
+2007-06-24 00:00:00,United Arab Emirates,Saudi Arabia,0,2,Friendly,Singapore,Singapore,True
+2007-06-24 00:00:00,United States,Mexico,2,1,Gold Cup,Chicago,United States,False
+2007-06-24 00:00:00,Vietnam,Jamaica,3,0,Friendly,Hanoi,Vietnam,False
+2007-06-25 00:00:00,Qatar,Turkmenistan,1,0,Friendly,Doha,Qatar,False
+2007-06-26 00:00:00,Uruguay,Peru,0,3,Copa Am√©rica,M√©rida,Venezuela,True
+2007-06-26 00:00:00,Venezuela,Bolivia,2,2,Copa Am√©rica,San Crist√≥bal,Venezuela,False
+2007-06-27 00:00:00,Brazil,Mexico,0,2,Copa Am√©rica,Puerto Ordaz,Venezuela,True
+2007-06-27 00:00:00,Ecuador,Chile,2,3,Copa Am√©rica,Puerto Ordaz,Venezuela,True
+2007-06-27 00:00:00,Singapore,Saudi Arabia,1,2,Friendly,Singapore,Singapore,False
+2007-06-27 00:00:00,United Arab Emirates,Bahrain,2,2,Friendly,Petaling Jaya,Malaysia,True
+2007-06-28 00:00:00,Argentina,United States,4,1,Copa Am√©rica,Maracaibo,Venezuela,True
+2007-06-28 00:00:00,Malaysia,Jamaica,0,2,Friendly,Kuala Lumpur,Malaysia,False
+2007-06-28 00:00:00,Oman,North Korea,2,2,Friendly,Singapore,Singapore,True
+2007-06-28 00:00:00,Paraguay,Colombia,5,0,Copa Am√©rica,Barinas,Venezuela,True
+2007-06-29 00:00:00,South Korea,Iraq,3,0,Friendly,Seogwipo,South Korea,False
+2007-06-30 00:00:00,Bolivia,Uruguay,0,1,Copa Am√©rica,San Crist√≥bal,Venezuela,True
+2007-06-30 00:00:00,Singapore,Australia,0,3,Friendly,Singapore,Singapore,False
+2007-06-30 00:00:00,Thailand,Qatar,1,1,Friendly,Bangkok,Thailand,False
+2007-06-30 00:00:00,Venezuela,Peru,2,0,Copa Am√©rica,San Crist√≥bal,Venezuela,False
+2007-06-30 00:00:00,Vietnam,Bahrain,5,3,Friendly,Hanoi,Vietnam,False
+2007-06-30 00:00:00,Menorca,Jersey,0,1,Island Games,Rhodes,Greece,True
+2007-06-30 00:00:00,Bermuda,Ynys M√¥n,1,2,Island Games,Rhodes,Greece,True
+2007-06-30 00:00:00,Rhodes,Saare County,2,0,Island Games,Rhodes,Greece,True
+2007-07-01 00:00:00,Brazil,Chile,3,0,Copa Am√©rica,Matur√≠n,Venezuela,True
+2007-07-01 00:00:00,Mexico,Ecuador,2,1,Copa Am√©rica,Matur√≠n,Venezuela,True
+2007-07-01 00:00:00,Oman,Saudi Arabia,1,1,Friendly,Singapore,Singapore,True
+2007-07-01 00:00:00,United Arab Emirates,North Korea,1,0,Friendly,Singapore,Singapore,True
+2007-07-01 00:00:00,Jersey,Gibraltar,1,1,Island Games,Rhodes,Greece,True
+2007-07-01 00:00:00,√Öland Islands,Bermuda,0,2,Island Games,Rhodes,Greece,True
+2007-07-01 00:00:00,Rhodes,Fr√∏ya,3,1,Island Games,Rhodes,Greece,False
+2007-07-01 00:00:00,Western Isles,Gotland,2,1,Island Games,Rhodes,Greece,True
+2007-07-02 00:00:00,Argentina,Colombia,4,2,Copa Am√©rica,Maracaibo,Venezuela,True
+2007-07-02 00:00:00,Iran,Jamaica,8,1,Friendly,Tehran,Iran,False
+2007-07-02 00:00:00,Iraq,Uzbekistan,0,2,Friendly,Paju,South Korea,True
+2007-07-02 00:00:00,Thailand,Qatar,2,0,Friendly,Bangkok,Thailand,False
+2007-07-02 00:00:00,United States,Paraguay,1,3,Copa Am√©rica,Barinas,Venezuela,True
+2007-07-02 00:00:00,Gibraltar,Menorca,2,1,Island Games,Rhodes,Greece,True
+2007-07-02 00:00:00,Ynys M√¥n,√Öland Islands,0,2,Island Games,Rhodes,Greece,True
+2007-07-02 00:00:00,Saare County,Fr√∏ya,2,3,Island Games,Rhodes,Greece,True
+2007-07-02 00:00:00,Gotland,Western Isles,1,3,Island Games,Rhodes,Greece,True
+2007-07-03 00:00:00,Peru,Bolivia,2,2,Copa Am√©rica,M√©rida,Venezuela,True
+2007-07-03 00:00:00,Venezuela,Uruguay,0,0,Copa Am√©rica,M√©rida,Venezuela,False
+2007-07-04 00:00:00,Brazil,Ecuador,1,0,Copa Am√©rica,Puerto la Cruz,Venezuela,True
+2007-07-04 00:00:00,Mexico,Chile,0,0,Copa Am√©rica,Puerto la Cruz,Venezuela,True
+2007-07-04 00:00:00,Saudi Arabia,North Korea,1,1,Friendly,Singapore,Singapore,True
+2007-07-04 00:00:00,Menorca,Ynys M√¥n,6,1,Island Games,Rhodes,Greece,True
+2007-07-04 00:00:00,Jersey,√Öland Islands,1,0,Island Games,Rhodes,Greece,True
+2007-07-04 00:00:00,Fr√∏ya,Gotland,0,3,Island Games,Rhodes,Greece,True
+2007-07-04 00:00:00,Gibraltar,Bermuda,2,0,Island Games,Rhodes,Greece,True
+2007-07-04 00:00:00,Rhodes,Western Isles,1,0,Island Games,Rhodes,Greece,False
+2007-07-05 00:00:00,Argentina,Paraguay,1,0,Copa Am√©rica,Barquisimeto,Venezuela,True
+2007-07-05 00:00:00,Colombia,United States,1,0,Copa Am√©rica,Barquisimeto,Venezuela,True
+2007-07-05 00:00:00,South Korea,Uzbekistan,2,1,Friendly,Seoul,South Korea,False
+2007-07-05 00:00:00,Menorca,Saare County,4,1,Island Games,Rhodes,Greece,True
+2007-07-05 00:00:00,√Öland Islands,Fr√∏ya,3,1,Island Games,Rhodes,Greece,True
+2007-07-05 00:00:00,Jersey,Gotland,1,0,Island Games,Rhodes,Greece,True
+2007-07-05 00:00:00,Bermuda,Western Isles,0,1,Island Games,Rhodes,Greece,True
+2007-07-05 00:00:00,Rhodes,Gibraltar,0,4,Island Games,Rhodes,Greece,False
+2007-07-06 00:00:00,Malawi,Namibia,1,2,Friendly,Blantyre,Malawi,False
+2007-07-07 00:00:00,Chile,Brazil,1,6,Copa Am√©rica,Puerto la Cruz,Venezuela,True
+2007-07-07 00:00:00,Thailand,Iraq,1,1,AFC Asian Cup,Bangkok,Thailand,False
+2007-07-07 00:00:00,Venezuela,Uruguay,1,4,Copa Am√©rica,San Crist√≥bal,Venezuela,False
+2007-07-08 00:00:00,Argentina,Peru,4,0,Copa Am√©rica,Barquisimeto,Venezuela,True
+2007-07-08 00:00:00,Australia,Oman,1,1,AFC Asian Cup,Bangkok,Thailand,True
+2007-07-08 00:00:00,Mexico,Paraguay,6,0,Copa Am√©rica,Matur√≠n,Venezuela,True
+2007-07-08 00:00:00,Vietnam,United Arab Emirates,2,0,AFC Asian Cup,Hanoi,Vietnam,False
+2007-07-09 00:00:00,Japan,Qatar,1,1,AFC Asian Cup,Hanoi,Vietnam,True
+2007-07-10 00:00:00,Indonesia,Bahrain,2,1,AFC Asian Cup,Jakarta,Indonesia,False
+2007-07-10 00:00:00,Malaysia,China PR,1,5,AFC Asian Cup,Kuala Lumpur,Malaysia,False
+2007-07-10 00:00:00,Uruguay,Brazil,2,2,Copa Am√©rica,Maracaibo,Venezuela,True
+2007-07-11 00:00:00,Iran,Uzbekistan,2,1,AFC Asian Cup,Kuala Lumpur,Malaysia,True
+2007-07-11 00:00:00,South Korea,Saudi Arabia,1,1,AFC Asian Cup,Jakarta,Indonesia,True
+2007-07-11 00:00:00,Mexico,Argentina,0,3,Copa Am√©rica,Puerto Ordaz,Venezuela,True
+2007-07-12 00:00:00,Thailand,Oman,2,0,AFC Asian Cup,Bangkok,Thailand,False
+2007-07-12 00:00:00,Vietnam,Qatar,1,1,AFC Asian Cup,Hanoi,Vietnam,False
+2007-07-13 00:00:00,Iraq,Australia,3,1,AFC Asian Cup,Bangkok,Thailand,True
+2007-07-13 00:00:00,Solomon Islands,Papua New Guinea,2,1,Friendly,Honiara,Solomon Islands,False
+2007-07-13 00:00:00,United Arab Emirates,Japan,1,3,AFC Asian Cup,Hanoi,Vietnam,True
+2007-07-14 00:00:00,Indonesia,Saudi Arabia,1,2,AFC Asian Cup,Jakarta,Indonesia,False
+2007-07-14 00:00:00,Malaysia,Uzbekistan,0,5,AFC Asian Cup,Kuala Lumpur,Malaysia,False
+2007-07-14 00:00:00,Mexico,Uruguay,3,1,Copa Am√©rica,Caracas,Venezuela,True
+2007-07-15 00:00:00,Bahrain,South Korea,2,1,AFC Asian Cup,Jakarta,Indonesia,True
+2007-07-15 00:00:00,Brazil,Argentina,3,0,Copa Am√©rica,Maracaibo,Venezuela,True
+2007-07-15 00:00:00,China PR,Iran,2,2,AFC Asian Cup,Kuala Lumpur,Malaysia,True
+2007-07-16 00:00:00,Oman,Iraq,0,0,AFC Asian Cup,Bangkok,Thailand,True
+2007-07-16 00:00:00,Qatar,United Arab Emirates,1,2,AFC Asian Cup,Ho Chi Minh City,Vietnam,True
+2007-07-16 00:00:00,Thailand,Australia,0,4,AFC Asian Cup,Bangkok,Thailand,False
+2007-07-16 00:00:00,Vietnam,Japan,1,4,AFC Asian Cup,Hanoi,Vietnam,False
+2007-07-17 00:00:00,New Caledonia,Vanuatu,5,3,Friendly,Noum√©a,New Caledonia,False
+2007-07-18 00:00:00,Indonesia,South Korea,0,1,AFC Asian Cup,Jakarta,Indonesia,False
+2007-07-18 00:00:00,Malaysia,Iran,0,2,AFC Asian Cup,Kuala Lumpur,Malaysia,False
+2007-07-18 00:00:00,Saudi Arabia,Bahrain,4,0,AFC Asian Cup,Palembang,Indonesia,True
+2007-07-18 00:00:00,Uzbekistan,China PR,3,0,AFC Asian Cup,Shah Alam,Malaysia,True
+2007-07-19 00:00:00,Madagascar,Mayotte,2,2,Friendly,Antananarivo,Madagascar,False
+2007-07-19 00:00:00,New Caledonia,Vanuatu,0,2,Friendly,Noum√©a,New Caledonia,False
+2007-07-21 00:00:00,Iraq,Vietnam,2,0,AFC Asian Cup,Bangkok,Thailand,True
+2007-07-21 00:00:00,Japan,Australia,1,1,AFC Asian Cup,Hanoi,Vietnam,True
+2007-07-22 00:00:00,Iran,South Korea,0,0,AFC Asian Cup,Kuala Lumpur,Malaysia,True
+2007-07-22 00:00:00,Saudi Arabia,Uzbekistan,2,1,AFC Asian Cup,Jakarta,Indonesia,True
+2007-07-23 00:00:00,Botswana,Zambia,0,0,Friendly,Orapa,Botswana,False
+2007-07-25 00:00:00,Iraq,South Korea,0,0,AFC Asian Cup,Kuala Lumpur,Malaysia,True
+2007-07-25 00:00:00,Japan,Saudi Arabia,2,3,AFC Asian Cup,Hanoi,Vietnam,True
+2007-07-28 00:00:00,Angola,Lesotho,2,0,COSAFA Cup,Gaborone,Botswana,True
+2007-07-28 00:00:00,Botswana,Namibia,1,0,COSAFA Cup,Gaborone,Botswana,False
+2007-07-28 00:00:00,South Korea,Japan,0,0,AFC Asian Cup,Palembang,Indonesia,True
+2007-07-29 00:00:00,Botswana,Angola,0,0,COSAFA Cup,Gaborone,Botswana,False
+2007-07-29 00:00:00,Iraq,Saudi Arabia,1,0,AFC Asian Cup,Jakarta,Indonesia,True
+2007-07-29 00:00:00,Lesotho,Namibia,2,3,COSAFA Cup,Gaborone,Botswana,True
+2007-07-29 00:00:00,Madagascar,DR Congo,0,0,Friendly,Antananarivo,Madagascar,False
+2007-08-17 00:00:00,India,Cambodia,6,0,Nehru Cup,New Delhi,India,False
+2007-08-18 00:00:00,Bangladesh,Syria,0,2,Nehru Cup,New Delhi,India,True
+2007-08-19 00:00:00,Kyrgyzstan,Cambodia,4,3,Nehru Cup,New Delhi,India,True
+2007-08-20 00:00:00,Myanmar,Lesotho,1,0,Merdeka Tournament,Petaling Jaya,Malaysia,True
+2007-08-20 00:00:00,India,Bangladesh,1,0,Nehru Cup,New Delhi,India,False
+2007-08-20 00:00:00,Mozambique,Zimbabwe,0,0,Friendly,Beira,Mozambique,False
+2007-08-21 00:00:00,Singapore,Zimbabwe,4,2,Merdeka Tournament,Petaling Jaya,Malaysia,True
+2007-08-21 00:00:00,Benin,Gabon,2,2,Friendly,Creil,France,True
+2007-08-21 00:00:00,Ghana,Senegal,1,1,Friendly,London,England,True
+2007-08-21 00:00:00,Syria,Kyrgyzstan,4,1,Nehru Cup,New Delhi,India,True
+2007-08-22 00:00:00,Albania,Malta,3,0,Friendly,Tirana,Albania,False
+2007-08-22 00:00:00,Algeria,Brazil,0,2,Friendly,Montpellier,France,True
+2007-08-22 00:00:00,Armenia,Portugal,1,1,UEFA Euro qualification,Yerevan,Armenia,False
+2007-08-22 00:00:00,Austria,Czech Republic,1,1,Friendly,Vienna,Austria,False
+2007-08-22 00:00:00,Bangladesh,Cambodia,1,1,Nehru Cup,New Delhi,India,True
+2007-08-22 00:00:00,Belarus,Israel,2,1,Friendly,Minsk,Belarus,False
+2007-08-22 00:00:00,Belgium,Serbia,3,2,UEFA Euro qualification,Brussels,Belgium,False
+2007-08-22 00:00:00,Bosnia and Herzegovina,Croatia,3,5,Friendly,Sarajevo,Bosnia and Herzegovina,False
+2007-08-22 00:00:00,Bulgaria,Wales,0,1,Friendly,Burgas,Bulgaria,False
+2007-08-22 00:00:00,DR Congo,Angola,3,1,Friendly,Kinshasa,DR Congo,False
+2007-08-22 00:00:00,Costa Rica,Peru,1,1,Friendly,San Jos√©,Costa Rica,False
+2007-08-22 00:00:00,Denmark,Republic of Ireland,0,4,Friendly,Aarhus,Denmark,False
+2007-08-22 00:00:00,Ecuador,Bolivia,1,0,Friendly,Quito,Ecuador,False
+2007-08-22 00:00:00,El Salvador,Honduras,2,0,Friendly,San Salvador,El Salvador,False
+2007-08-22 00:00:00,England,Germany,1,2,Friendly,London,England,False
+2007-08-22 00:00:00,Estonia,Andorra,2,1,UEFA Euro qualification,Tallinn,Estonia,False
+2007-08-22 00:00:00,Finland,Kazakhstan,2,1,UEFA Euro qualification,Tampere,Finland,False
+2007-08-22 00:00:00,Greece,Spain,2,3,Friendly,Salonica,Greece,False
+2007-08-22 00:00:00,Hungary,Italy,3,1,Friendly,Budapest,Hungary,False
+2007-08-22 00:00:00,Iceland,Canada,1,1,Friendly,Reykjav√≠k,Iceland,False
+2007-08-22 00:00:00,Ivory Coast,Egypt,0,0,Friendly,Paris,France,True
+2007-08-22 00:00:00,Japan,Cameroon,2,0,Friendly,≈åita,Japan,False
+2007-08-22 00:00:00,Latvia,Moldova,1,2,Friendly,Riga,Latvia,False
+2007-08-22 00:00:00,Lesotho,Laos,3,1,Merdeka Tournament,Petaling Jaya,Malaysia,True
+2007-08-22 00:00:00,Lithuania,Turkmenistan,2,1,Friendly,Kaunas,Lithuania,False
+2007-08-22 00:00:00,Luxembourg,Georgia,0,0,Friendly,Luxembourg,Luxembourg,False
+2007-08-22 00:00:00,North Macedonia,Nigeria,0,0,Friendly,Skopje,North Macedonia,False
+2007-08-22 00:00:00,Mali,Burkina Faso,3,2,Friendly,Paris,France,True
+2007-08-22 00:00:00,Mexico,Colombia,0,1,Friendly,Commerce City,United States,True
+2007-08-22 00:00:00,Montenegro,Slovenia,1,1,Friendly,Podgorica,Montenegro,False
+2007-08-22 00:00:00,Northern Ireland,Liechtenstein,3,1,UEFA Euro qualification,Belfast,Northern Ireland,False
+2007-08-22 00:00:00,Norway,Argentina,2,1,Friendly,Oslo,Norway,False
+2007-08-22 00:00:00,Panama,Guatemala,2,1,Friendly,Panama City,Panama,False
+2007-08-22 00:00:00,Paraguay,Venezuela,1,1,Friendly,Asunci√≥n,Paraguay,False
+2007-08-22 00:00:00,Romania,Turkey,2,0,Friendly,Bucharest,Romania,False
+2007-08-22 00:00:00,Russia,Poland,2,2,Friendly,Moscow,Russia,False
+2007-08-22 00:00:00,San Marino,Cyprus,0,1,UEFA Euro qualification,Serravalle,San Marino,False
+2007-08-22 00:00:00,Scotland,South Africa,1,0,Friendly,Aberdeen,Scotland,False
+2007-08-22 00:00:00,Slovakia,France,0,1,Friendly,Trnava,Slovakia,False
+2007-08-22 00:00:00,Sudan,Libya,1,0,Friendly,Khartoum,Sudan,False
+2007-08-22 00:00:00,Sweden,United States,1,0,Friendly,Gothenburg,Sweden,False
+2007-08-22 00:00:00,Switzerland,Netherlands,2,1,Friendly,Geneva,Switzerland,False
+2007-08-22 00:00:00,Tajikistan,Azerbaijan,2,3,Friendly,Dushanbe,Tajikistan,False
+2007-08-22 00:00:00,Togo,Zambia,3,1,Friendly,Lom√©,Togo,False
+2007-08-22 00:00:00,Tunisia,Guinea,1,1,Friendly,Tunis,Tunisia,False
+2007-08-22 00:00:00,Ukraine,Uzbekistan,2,1,Friendly,Kyiv,Ukraine,False
+2007-08-23 00:00:00,India,Syria,2,3,Nehru Cup,New Delhi,India,False
+2007-08-23 00:00:00,Singapore,Bangladesh,4,2,Merdeka Tournament,Petaling Jaya,Malaysia,True
+2007-08-24 00:00:00,Bangladesh,Kyrgyzstan,0,3,Nehru Cup,New Delhi,India,True
+2007-08-25 00:00:00,Zimbabwe,Bangladesh,2,1,Merdeka Tournament,Petaling Jaya,Malaysia,True
+2007-08-25 00:00:00,Myanmar,Laos,1,0,Merdeka Tournament,Shah Alam,Malaysia,True
+2007-08-25 00:00:00,Cambodia,Syria,1,5,Nehru Cup,New Delhi,India,True
+2007-08-25 00:00:00,Fiji,Tuvalu,16,0,South Pacific Games,Apia,Samoa,True
+2007-08-25 00:00:00,Samoa,Vanuatu,0,4,South Pacific Games,Apia,Samoa,False
+2007-08-25 00:00:00,Solomon Islands,American Samoa,12,1,South Pacific Games,Apia,Samoa,True
+2007-08-25 00:00:00,Tahiti,New Caledonia,0,1,South Pacific Games,Apia,Samoa,True
+2007-08-25 00:00:00,Zimbabwe,Myanmar,1,3,Merdeka Tournament,Petaling Jaya,Malaysia,True
+2007-08-26 00:00:00,India,Kyrgyzstan,3,0,Nehru Cup,New Delhi,India,False
+2007-08-27 00:00:00,Fiji,Cook Islands,4,0,South Pacific Games,Apia,Samoa,True
+2007-08-27 00:00:00,Samoa,American Samoa,7,0,South Pacific Games,Apia,Samoa,False
+2007-08-27 00:00:00,Solomon Islands,Tonga,4,0,South Pacific Games,Apia,Samoa,True
+2007-08-27 00:00:00,Tuvalu,New Caledonia,0,1,South Pacific Games,Apia,Samoa,True
+2007-08-29 00:00:00,American Samoa,Vanuatu,0,15,South Pacific Games,Apia,Samoa,True
+2007-08-29 00:00:00,India,Syria,1,0,Nehru Cup,New Delhi,India,False
+2007-08-29 00:00:00,New Caledonia,Cook Islands,3,0,South Pacific Games,Apia,Samoa,True
+2007-08-29 00:00:00,Samoa,Tonga,2,1,South Pacific Games,Apia,Samoa,False
+2007-08-29 00:00:00,Tuvalu,Tahiti,1,1,South Pacific Games,Apia,Samoa,True
+2007-09-01 00:00:00,Cook Islands,Tuvalu,4,1,South Pacific Games,Apia,Samoa,True
+2007-09-01 00:00:00,Tahiti,Fiji,0,4,South Pacific Games,Apia,Samoa,True
+2007-09-01 00:00:00,Tanzania,Uganda,1,0,Friendly,Dar es Salaam,Tanzania,False
+2007-09-01 00:00:00,Tonga,American Samoa,4,0,South Pacific Games,Apia,Samoa,True
+2007-09-01 00:00:00,Vanuatu,Solomon Islands,0,2,South Pacific Games,Apia,Samoa,True
+2007-09-03 00:00:00,Cook Islands,Tahiti,0,1,South Pacific Games,Apia,Samoa,True
+2007-09-03 00:00:00,New Caledonia,Fiji,1,1,South Pacific Games,Apia,Samoa,True
+2007-09-03 00:00:00,Samoa,Solomon Islands,0,3,South Pacific Games,Apia,Samoa,False
+2007-09-03 00:00:00,Tonga,Vanuatu,1,4,South Pacific Games,Apia,Samoa,True
+2007-09-05 00:00:00,Fiji,Vanuatu,3,0,South Pacific Games,Apia,Samoa,True
+2007-09-05 00:00:00,Solomon Islands,New Caledonia,2,3,South Pacific Games,Apia,Samoa,True
+2007-09-07 00:00:00,Austria,Japan,0,0,Friendly,Klagenfurt,Austria,False
+2007-09-07 00:00:00,Bahrain,Jordan,1,3,Friendly,Muharraq,Bahrain,False
+2007-09-07 00:00:00,New Caledonia,Fiji,1,0,South Pacific Games,Apia,Samoa,True
+2007-09-07 00:00:00,Solomon Islands,Vanuatu,0,2,South Pacific Games,Apia,Samoa,True
+2007-09-07 00:00:00,Switzerland,Chile,2,1,Friendly,Vienna,Austria,True
+2007-09-08 00:00:00,Belarus,Romania,1,3,UEFA Euro qualification,Minsk,Belarus,False
+2007-09-08 00:00:00,DR Congo,Libya,1,1,African Cup of Nations qualification,Kinshasa,DR Congo,False
+2007-09-08 00:00:00,Croatia,Estonia,2,0,UEFA Euro qualification,Zagreb,Croatia,False
+2007-09-08 00:00:00,Cyprus,Armenia,3,1,Friendly,Achna,Cyprus,False
+2007-09-08 00:00:00,Ecuador,El Salvador,5,1,Friendly,Quito,Ecuador,False
+2007-09-08 00:00:00,England,Israel,3,0,UEFA Euro qualification,London,England,False
+2007-09-08 00:00:00,Ethiopia,Namibia,2,3,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+2007-09-08 00:00:00,Gabon,Ivory Coast,0,0,African Cup of Nations qualification,Libreville,Gabon,False
+2007-09-08 00:00:00,Georgia,Ukraine,1,1,UEFA Euro qualification,Tbilisi,Georgia,False
+2007-09-08 00:00:00,Hungary,Bosnia and Herzegovina,1,0,UEFA Euro qualification,Sz√©kesfeh√©rv√°r,Hungary,False
+2007-09-08 00:00:00,Iceland,Spain,1,1,UEFA Euro qualification,Reykjav√≠k,Iceland,False
+2007-09-08 00:00:00,Italy,France,0,0,UEFA Euro qualification,Milan,Italy,False
+2007-09-08 00:00:00,Kazakhstan,Tajikistan,1,1,Friendly,Almaty,Kazakhstan,False
+2007-09-08 00:00:00,Kenya,Angola,2,1,African Cup of Nations qualification,Nairobi,Kenya,False
+2007-09-08 00:00:00,Latvia,Northern Ireland,1,0,UEFA Euro qualification,Riga,Latvia,False
+2007-09-08 00:00:00,Luxembourg,Slovenia,0,3,UEFA Euro qualification,Luxembourg,Luxembourg,False
+2007-09-08 00:00:00,Malta,Turkey,2,2,UEFA Euro qualification,Attard,Malta,False
+2007-09-08 00:00:00,Moldova,Norway,0,1,UEFA Euro qualification,Chi»ôinƒÉu,Moldova,False
+2007-09-08 00:00:00,Morocco,Ghana,0,2,Friendly,Rouen,France,True
+2007-09-08 00:00:00,Netherlands,Bulgaria,2,0,UEFA Euro qualification,Amsterdam,Netherlands,False
+2007-09-08 00:00:00,Nigeria,Lesotho,2,0,African Cup of Nations qualification,Warri,Nigeria,False
+2007-09-08 00:00:00,Peru,Colombia,2,2,Friendly,Lima,Peru,False
+2007-09-08 00:00:00,Portugal,Poland,2,2,UEFA Euro qualification,Lisbon,Portugal,False
+2007-09-08 00:00:00,Russia,North Macedonia,3,0,UEFA Euro qualification,Moscow,Russia,False
+2007-09-08 00:00:00,Rwanda,Liberia,4,0,African Cup of Nations qualification,Kigali,Rwanda,False
+2007-09-08 00:00:00,San Marino,Czech Republic,0,3,UEFA Euro qualification,Serravalle,San Marino,False
+2007-09-08 00:00:00,Scotland,Lithuania,3,1,UEFA Euro qualification,Glasgow,Scotland,False
+2007-09-08 00:00:00,Senegal,Burkina Faso,5,1,African Cup of Nations qualification,Dakar,Senegal,False
+2007-09-08 00:00:00,Serbia,Finland,0,0,UEFA Euro qualification,Belgrade,Serbia,False
+2007-09-08 00:00:00,Slovakia,Republic of Ireland,2,2,UEFA Euro qualification,Bratislava,Slovakia,False
+2007-09-08 00:00:00,Sweden,Denmark,0,0,UEFA Euro qualification,Solna,Sweden,False
+2007-09-08 00:00:00,Tanzania,Mozambique,0,1,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+2007-09-08 00:00:00,Uganda,Niger,3,1,African Cup of Nations qualification,Kampala,Uganda,False
+2007-09-08 00:00:00,Venezuela,Paraguay,3,2,Friendly,Puerto Ordaz,Venezuela,False
+2007-09-08 00:00:00,Wales,Germany,0,2,UEFA Euro qualification,Cardiff,Wales,False
+2007-09-09 00:00:00,Burundi,Egypt,0,0,African Cup of Nations qualification,Bujumbura,Burundi,False
+2007-09-09 00:00:00,Chad,Congo,1,1,African Cup of Nations qualification,N'Djamena,Chad,False
+2007-09-09 00:00:00,Costa Rica,Honduras,0,0,Friendly,East Hartford,United States,True
+2007-09-09 00:00:00,Equatorial Guinea,Cameroon,1,0,African Cup of Nations qualification,Malabo,Equatorial Guinea,False
+2007-09-09 00:00:00,Gambia,Algeria,2,1,African Cup of Nations qualification,Bakau,Gambia,False
+2007-09-09 00:00:00,Guinea,Cape Verde,4,0,African Cup of Nations qualification,Conakry,Guinea,False
+2007-09-09 00:00:00,Mauritius,Seychelles,1,1,African Cup of Nations qualification,Curepipe,Mauritius,False
+2007-09-09 00:00:00,Mexico,Panama,1,0,Friendly,Puebla,Mexico,False
+2007-09-09 00:00:00,South Africa,Zambia,1,3,African Cup of Nations qualification,Cape Town,South Africa,False
+2007-09-09 00:00:00,Sudan,Tunisia,3,2,African Cup of Nations qualification,Khartoum,Sudan,False
+2007-09-09 00:00:00,Eswatini,Eritrea,0,0,African Cup of Nations qualification,Manzini,Eswatini,False
+2007-09-09 00:00:00,United States,Brazil,2,4,Friendly,Chicago,United States,False
+2007-09-09 00:00:00,Zimbabwe,Malawi,3,1,African Cup of Nations qualification,Bulawayo,Zimbabwe,False
+2007-09-11 00:00:00,Australia,Argentina,0,1,Friendly,Melbourne,Australia,False
+2007-09-11 00:00:00,Austria,Chile,0,2,Friendly,Vienna,Austria,False
+2007-09-11 00:00:00,Saudi Arabia,Ghana,5,0,Friendly,Riyadh,Saudi Arabia,False
+2007-09-11 00:00:00,Switzerland,Japan,3,4,Friendly,Klagenfurt,Austria,True
+2007-09-12 00:00:00,Albania,Netherlands,0,1,UEFA Euro qualification,Tirana,Albania,False
+2007-09-12 00:00:00,Andorra,Croatia,0,6,UEFA Euro qualification,Sant Juli√† de L√≤ria,Andorra,False
+2007-09-12 00:00:00,Azerbaijan,Georgia,1,1,Friendly,Baku,Azerbaijan,False
+2007-09-12 00:00:00,Bosnia and Herzegovina,Moldova,0,1,UEFA Euro qualification,Sarajevo,Bosnia and Herzegovina,False
+2007-09-12 00:00:00,Bulgaria,Luxembourg,3,0,UEFA Euro qualification,Sofia,Bulgaria,False
+2007-09-12 00:00:00,Canada,Costa Rica,1,1,Friendly,Toronto,Canada,False
+2007-09-12 00:00:00,Colombia,Paraguay,1,0,Friendly,Bogot√°,Colombia,False
+2007-09-12 00:00:00,Cyprus,San Marino,3,0,UEFA Euro qualification,Nicosia,Cyprus,False
+2007-09-12 00:00:00,Czech Republic,Republic of Ireland,1,0,UEFA Euro qualification,Prague,Czech Republic,False
+2007-09-12 00:00:00,Denmark,Liechtenstein,4,0,UEFA Euro qualification,Aarhus,Denmark,False
+2007-09-12 00:00:00,England,Russia,3,0,UEFA Euro qualification,London,England,False
+2007-09-12 00:00:00,Finland,Poland,0,0,UEFA Euro qualification,Helsinki,Finland,False
+2007-09-12 00:00:00,France,Scotland,0,1,UEFA Euro qualification,Paris,France,False
+2007-09-12 00:00:00,Germany,Romania,3,1,Friendly,Cologne,Germany,False
+2007-09-12 00:00:00,Honduras,Ecuador,2,1,Friendly,San Pedro Sula,Honduras,False
+2007-09-12 00:00:00,Iceland,Northern Ireland,2,1,UEFA Euro qualification,Reykjav√≠k,Iceland,False
+2007-09-12 00:00:00,Kazakhstan,Belgium,2,2,UEFA Euro qualification,Almaty,Kazakhstan,False
+2007-09-12 00:00:00,Lithuania,Faroe Islands,2,1,UEFA Euro qualification,Kaunas,Lithuania,False
+2007-09-12 00:00:00,North Macedonia,Estonia,1,1,UEFA Euro qualification,Skopje,North Macedonia,False
+2007-09-12 00:00:00,Malta,Armenia,0,1,Friendly,Attard,Malta,False
+2007-09-12 00:00:00,Mexico,Brazil,1,3,Friendly,Foxborough,United States,True
+2007-09-12 00:00:00,Montenegro,Sweden,1,2,Friendly,Podgorica,Montenegro,False
+2007-09-12 00:00:00,Norway,Greece,2,2,UEFA Euro qualification,Oslo,Norway,False
+2007-09-12 00:00:00,Peru,Bolivia,2,0,Friendly,Lima,Peru,False
+2007-09-12 00:00:00,Portugal,Serbia,1,1,UEFA Euro qualification,Lisbon,Portugal,False
+2007-09-12 00:00:00,Singapore,United Arab Emirates,1,1,Friendly,Singapore,Singapore,False
+2007-09-12 00:00:00,Slovakia,Wales,2,5,UEFA Euro qualification,Trnava,Slovakia,False
+2007-09-12 00:00:00,Slovenia,Belarus,1,0,UEFA Euro qualification,Celje,Slovenia,False
+2007-09-12 00:00:00,South Africa,Uruguay,0,0,Friendly,Johannesburg,South Africa,False
+2007-09-12 00:00:00,Spain,Latvia,2,0,UEFA Euro qualification,Oviedo,Spain,False
+2007-09-12 00:00:00,Turkey,Hungary,3,0,UEFA Euro qualification,Istanbul,Turkey,False
+2007-09-12 00:00:00,Ukraine,Italy,1,2,UEFA Euro qualification,Kyiv,Ukraine,False
+2007-09-12 00:00:00,Venezuela,Panama,1,1,Friendly,Puerto la Cruz,Venezuela,False
+2007-09-17 00:00:00,Qatar,Oman,1,1,Friendly,Doha,Qatar,False
+2007-09-23 00:00:00,United Arab Emirates,Lebanon,1,1,Friendly,Dubai,United Arab Emirates,False
+2007-09-29 00:00:00,Mozambique,Zambia,0,3,COSAFA Cup,Atteridgeville,South Africa,True
+2007-09-29 00:00:00,South Africa,Botswana,1,0,COSAFA Cup,Atteridgeville,South Africa,False
+2007-10-02 00:00:00,Oman,Maldives,1,0,Friendly,Muscat,Oman,False
+2007-10-03 00:00:00,Thailand,United Arab Emirates,1,1,Friendly,Bangkok,Thailand,False
+2007-10-04 00:00:00,Bahrain,Singapore,3,1,Friendly,Manama,Bahrain,False
+2007-10-08 00:00:00,Bangladesh,Tajikistan,1,1,FIFA World Cup qualification,Dhaka,Bangladesh,False
+2007-10-08 00:00:00,Lebanon,India,4,1,FIFA World Cup qualification,Sidon,Lebanon,False
+2007-10-08 00:00:00,Oman,Nepal,2,0,FIFA World Cup qualification,Muscat,Oman,False
+2007-10-08 00:00:00,Palestine,Singapore,0,4,FIFA World Cup qualification,Al Rayyan,Qatar,True
+2007-10-08 00:00:00,Syria,Afghanistan,3,0,FIFA World Cup qualification,Damascus,Syria,False
+2007-10-08 00:00:00,Thailand,Macau,6,1,FIFA World Cup qualification,Bangkok,Thailand,False
+2007-10-08 00:00:00,Vietnam,United Arab Emirates,0,1,FIFA World Cup qualification,Hanoi,Vietnam,False
+2007-10-08 00:00:00,Yemen,Maldives,3,0,FIFA World Cup qualification,Sana'a,Yemen,False
+2007-10-11 00:00:00,Cambodia,Turkmenistan,0,1,FIFA World Cup qualification,Phnom Penh,Cambodia,False
+2007-10-12 00:00:00,Sierra Leone,Benin,0,2,African Cup of Nations qualification,Freetown,Sierra Leone,False
+2007-10-12 00:00:00,Togo,Mali,0,2,African Cup of Nations qualification,Lom√©,Togo,False
+2007-10-13 00:00:00,Argentina,Chile,2,0,FIFA World Cup qualification,Buenos Aires,Argentina,False
+2007-10-13 00:00:00,Armenia,Serbia,0,0,UEFA Euro qualification,Yerevan,Armenia,False
+2007-10-13 00:00:00,Azerbaijan,Portugal,0,2,UEFA Euro qualification,Baku,Azerbaijan,False
+2007-10-13 00:00:00,Belarus,Luxembourg,0,1,UEFA Euro qualification,Homel,Belarus,False
+2007-10-13 00:00:00,Belgium,Finland,0,0,UEFA Euro qualification,Brussels,Belgium,False
+2007-10-13 00:00:00,Croatia,Israel,1,0,UEFA Euro qualification,Zagreb,Croatia,False
+2007-10-13 00:00:00,Cyprus,Wales,3,1,UEFA Euro qualification,Nicosia,Cyprus,False
+2007-10-13 00:00:00,Denmark,Spain,1,3,UEFA Euro qualification,Aarhus,Denmark,False
+2007-10-13 00:00:00,Ecuador,Venezuela,0,1,FIFA World Cup qualification,Quito,Ecuador,False
+2007-10-13 00:00:00,Egypt,Botswana,1,0,African Cup of Nations qualification,Cairo,Egypt,False
+2007-10-13 00:00:00,El Salvador,Costa Rica,2,2,Friendly,San Salvador,El Salvador,False
+2007-10-13 00:00:00,England,Estonia,3,0,UEFA Euro qualification,London,England,False
+2007-10-13 00:00:00,Faroe Islands,France,0,6,UEFA Euro qualification,T√≥rshavn,Faroe Islands,False
+2007-10-13 00:00:00,Greece,Bosnia and Herzegovina,3,2,UEFA Euro qualification,Athens,Greece,False
+2007-10-13 00:00:00,Hungary,Malta,2,0,UEFA Euro qualification,Budapest,Hungary,False
+2007-10-13 00:00:00,Iceland,Latvia,2,4,UEFA Euro qualification,Reykjav√≠k,Iceland,False
+2007-10-13 00:00:00,Republic of Ireland,Germany,0,0,UEFA Euro qualification,Dublin,Republic of Ireland,False
+2007-10-13 00:00:00,Italy,Georgia,2,0,UEFA Euro qualification,Genoa,Italy,False
+2007-10-13 00:00:00,Liechtenstein,Sweden,0,3,UEFA Euro qualification,Vaduz,Liechtenstein,False
+2007-10-13 00:00:00,Mauritania,Burundi,2,1,African Cup of Nations qualification,Nouakchott,Mauritania,False
+2007-10-13 00:00:00,Moldova,Turkey,1,1,UEFA Euro qualification,Chi»ôinƒÉu,Moldova,False
+2007-10-13 00:00:00,Peru,Paraguay,0,0,FIFA World Cup qualification,Lima,Peru,False
+2007-10-13 00:00:00,Poland,Kazakhstan,3,1,UEFA Euro qualification,Warsaw,Poland,False
+2007-10-13 00:00:00,Romania,Netherlands,1,0,UEFA Euro qualification,Constan≈£a,Romania,False
+2007-10-13 00:00:00,Scotland,Ukraine,3,1,UEFA Euro qualification,Glasgow,Scotland,False
+2007-10-13 00:00:00,Slovakia,San Marino,7,0,UEFA Euro qualification,Dubnica nad V√°hom,Slovakia,False
+2007-10-13 00:00:00,Slovenia,Albania,0,0,UEFA Euro qualification,Celje,Slovenia,False
+2007-10-13 00:00:00,Switzerland,Austria,3,1,Friendly,Z√ºrich,Switzerland,False
+2007-10-13 00:00:00,Uruguay,Bolivia,5,0,FIFA World Cup qualification,Montevideo,Uruguay,False
+2007-10-13 00:00:00,Uzbekistan,Taiwan,9,0,FIFA World Cup qualification,Tashkent,Uzbekistan,False
+2007-10-14 00:00:00,Colombia,Brazil,0,0,FIFA World Cup qualification,Bogot√°,Colombia,False
+2007-10-14 00:00:00,Honduras,Panama,1,0,Friendly,Tegucigalpa,Honduras,False
+2007-10-14 00:00:00,Madagascar,Comoros,6,2,FIFA World Cup qualification,Antananarivo,Madagascar,False
+2007-10-14 00:00:00,Mexico,Nigeria,2,2,Friendly,Ciudad Ju√°rez,Mexico,False
+2007-10-14 00:00:00,Senegal,Guinea,3,1,Friendly,Rouen,France,True
+2007-10-15 00:00:00,Macau,Thailand,1,7,FIFA World Cup qualification,Macau,Macau,False
+2007-10-16 00:00:00,Bahrain,Libya,2,0,Friendly,Muharraq,Bahrain,False
+2007-10-16 00:00:00,Croatia,Slovakia,3,0,Friendly,Rijeka,Croatia,False
+2007-10-16 00:00:00,Qatar,Iraq,3,2,Friendly,Doha,Qatar,False
+2007-10-16 00:00:00,Venezuela,Argentina,0,2,FIFA World Cup qualification,Maracaibo,Venezuela,False
+2007-10-17 00:00:00,Albania,Bulgaria,1,1,UEFA Euro qualification,Tirana,Albania,False
+2007-10-17 00:00:00,Austria,Ivory Coast,3,2,Friendly,Innsbruck,Austria,False
+2007-10-17 00:00:00,Azerbaijan,Serbia,1,6,UEFA Euro qualification,Baku,Azerbaijan,False
+2007-10-17 00:00:00,Belgium,Armenia,3,0,UEFA Euro qualification,Brussels,Belgium,False
+2007-10-17 00:00:00,Bolivia,Colombia,0,0,FIFA World Cup qualification,La Paz,Bolivia,False
+2007-10-17 00:00:00,Bosnia and Herzegovina,Norway,0,2,UEFA Euro qualification,Sarajevo,Bosnia and Herzegovina,False
+2007-10-17 00:00:00,Brazil,Ecuador,5,0,FIFA World Cup qualification,Rio de Janeiro,Brazil,False
+2007-10-17 00:00:00,Chile,Peru,2,0,FIFA World Cup qualification,Santiago,Chile,False
+2007-10-17 00:00:00,Costa Rica,Haiti,1,1,Friendly,San Jos√©,Costa Rica,False
+2007-10-17 00:00:00,Denmark,Latvia,3,1,UEFA Euro qualification,Copenhagen,Denmark,False
+2007-10-17 00:00:00,El Salvador,Trinidad and Tobago,0,0,Friendly,San Salvador,El Salvador,False
+2007-10-17 00:00:00,Estonia,Montenegro,0,1,Friendly,Tallinn,Estonia,False
+2007-10-17 00:00:00,Fiji,New Zealand,0,2,FIFA World Cup qualification,Lautoka,Fiji,False
+2007-10-17 00:00:00,Finland,Spain,0,0,Friendly,Helsinki,Finland,False
+2007-10-17 00:00:00,France,Lithuania,2,0,UEFA Euro qualification,Nantes,France,False
+2007-10-17 00:00:00,Georgia,Scotland,2,0,UEFA Euro qualification,Tbilisi,Georgia,False
+2007-10-17 00:00:00,Germany,Czech Republic,0,3,UEFA Euro qualification,Munich,Germany,False
+2007-10-17 00:00:00,Republic of Ireland,Cyprus,1,1,UEFA Euro qualification,Dublin,Republic of Ireland,False
+2007-10-17 00:00:00,Israel,Belarus,2,1,Friendly,Ramat-Gan,Israel,False
+2007-10-17 00:00:00,Italy,South Africa,2,0,Friendly,Siena,Italy,False
+2007-10-17 00:00:00,Japan,Egypt,4,1,Friendly,Osaka,Japan,False
+2007-10-17 00:00:00,Kazakhstan,Portugal,1,2,UEFA Euro qualification,Almaty,Kazakhstan,False
+2007-10-17 00:00:00,Liechtenstein,Iceland,3,0,UEFA Euro qualification,Vaduz,Liechtenstein,False
+2007-10-17 00:00:00,Luxembourg,Romania,0,2,UEFA Euro qualification,Luxembourg,Luxembourg,False
+2007-10-17 00:00:00,North Macedonia,Andorra,3,0,UEFA Euro qualification,Skopje,North Macedonia,False
+2007-10-17 00:00:00,Malta,Moldova,2,3,UEFA Euro qualification,Attard,Malta,False
+2007-10-17 00:00:00,Mexico,Guatemala,2,3,Friendly,Los Angeles,United States,True
+2007-10-17 00:00:00,Morocco,Namibia,2,0,Friendly,Tangier,Morocco,False
+2007-10-17 00:00:00,Netherlands,Slovenia,2,0,UEFA Euro qualification,Eindhoven,Netherlands,False
+2007-10-17 00:00:00,Paraguay,Uruguay,1,0,FIFA World Cup qualification,Asunci√≥n,Paraguay,False
+2007-10-17 00:00:00,Poland,Hungary,0,1,Friendly,≈Å√≥d≈∫,Poland,False
+2007-10-17 00:00:00,Russia,England,2,1,UEFA Euro qualification,Moscow,Russia,False
+2007-10-17 00:00:00,San Marino,Wales,1,2,UEFA Euro qualification,Serravalle,San Marino,False
+2007-10-17 00:00:00,Sierra Leone,Guinea-Bissau,1,0,FIFA World Cup qualification,Freetown,Sierra Leone,False
+2007-10-17 00:00:00,Sweden,Northern Ireland,1,1,UEFA Euro qualification,Solna,Sweden,False
+2007-10-17 00:00:00,Switzerland,United States,0,1,Friendly,Basel,Switzerland,False
+2007-10-17 00:00:00,Turkey,Greece,0,1,UEFA Euro qualification,Istanbul,Turkey,False
+2007-10-17 00:00:00,Ukraine,Faroe Islands,5,0,UEFA Euro qualification,Kyiv,Ukraine,False
+2007-10-17 00:00:00,United Arab Emirates,Tunisia,0,1,Friendly,Abu Dhabi,United Arab Emirates,False
+2007-10-18 00:00:00,Kyrgyzstan,Jordan,2,0,FIFA World Cup qualification,Bishkek,Kyrgyzstan,False
+2007-10-21 00:00:00,Bahrain,Malaysia,4,1,FIFA World Cup qualification,Riffa,Bahrain,False
+2007-10-21 00:00:00,China PR,Myanmar,7,0,FIFA World Cup qualification,Foshan,China PR,False
+2007-10-21 00:00:00,Timor-Leste,Hong Kong,2,3,FIFA World Cup qualification,Gianyar,Indonesia,True
+2007-10-21 00:00:00,Mongolia,North Korea,1,4,FIFA World Cup qualification,Ulaanbaatar,Mongolia,False
+2007-10-21 00:00:00,Sri Lanka,Qatar,0,1,FIFA World Cup qualification,Colombo,Sri Lanka,False
+2007-10-22 00:00:00,Pakistan,Iraq,0,7,FIFA World Cup qualification,Lahore,Pakistan,False
+2007-10-24 00:00:00,South Africa,Zambia,0,0,COSAFA Cup,Bloemfontein,South Africa,False
+2007-10-26 00:00:00,Afghanistan,Syria,1,2,FIFA World Cup qualification,Dushanbe,Tajikistan,True
+2007-10-28 00:00:00,Myanmar,China PR,0,4,FIFA World Cup qualification,Kuala Lumpur,Malaysia,True
+2007-10-28 00:00:00,Hong Kong,Timor-Leste,8,1,FIFA World Cup qualification,So Kon Po,Hong Kong,False
+2007-10-28 00:00:00,Iraq,Pakistan,0,0,FIFA World Cup qualification,Damascus,Syria,True
+2007-10-28 00:00:00,Jordan,Kyrgyzstan,2,0,FIFA World Cup qualification,Amman,Jordan,False
+2007-10-28 00:00:00,North Korea,Mongolia,5,1,FIFA World Cup qualification,Pyongyang,North Korea,False
+2007-10-28 00:00:00,Malaysia,Bahrain,0,0,FIFA World Cup qualification,Shah Alam,Malaysia,False
+2007-10-28 00:00:00,Maldives,Yemen,2,0,FIFA World Cup qualification,Mal√©,Maldives,False
+2007-10-28 00:00:00,Nepal,Oman,0,2,FIFA World Cup qualification,Kathmandu,Nepal,False
+2007-10-28 00:00:00,Qatar,Sri Lanka,5,0,FIFA World Cup qualification,Doha,Qatar,False
+2007-10-28 00:00:00,Tajikistan,Bangladesh,5,0,FIFA World Cup qualification,Dushanbe,Tajikistan,False
+2007-10-28 00:00:00,Turkmenistan,Cambodia,4,1,FIFA World Cup qualification,Ashgabat,Turkmenistan,False
+2007-10-28 00:00:00,United Arab Emirates,Vietnam,5,0,FIFA World Cup qualification,Abu Dhabi,United Arab Emirates,False
+2007-10-30 00:00:00,India,Lebanon,2,2,FIFA World Cup qualification,Margao,India,False
+2007-11-02 00:00:00,Bhutan,Tibet,3,0,Friendly,Gangtok,India,True
+2007-11-02 00:00:00,Saudi Arabia,Namibia,1,0,Friendly,Riyadh,Saudi Arabia,False
+2007-11-09 00:00:00,Indonesia,Syria,1,4,FIFA World Cup qualification,Jakarta,Indonesia,False
+2007-11-09 00:00:00,Saudi Arabia,Estonia,2,0,Friendly,Jeddah,Saudi Arabia,False
+2007-11-09 00:00:00,Singapore,Tajikistan,2,0,FIFA World Cup qualification,Singapore,Singapore,False
+2007-11-09 00:00:00,Yemen,Thailand,1,1,FIFA World Cup qualification,Sana'a,Yemen,False
+2007-11-10 00:00:00,Hong Kong,Turkmenistan,0,0,FIFA World Cup qualification,So Kon Po,Hong Kong,False
+2007-11-11 00:00:00,Saint Martin,British Virgin Islands,0,1,Friendly,Marigot,Saint Martin,False
+2007-11-14 00:00:00,French Guiana,Guadeloupe,2,3,Friendly,Cayenne,French Guiana,False
+2007-11-16 00:00:00,Austria,England,0,1,Friendly,Vienna,Austria,False
+2007-11-16 00:00:00,Djibouti,Somalia,1,0,FIFA World Cup qualification,Djibouti,Djibouti,False
+2007-11-16 00:00:00,France,Morocco,2,2,Friendly,Saint-Denis,France,False
+2007-11-16 00:00:00,Qatar,Georgia,1,2,Friendly,Doha,Qatar,False
+2007-11-17 00:00:00,Albania,Belarus,2,4,UEFA Euro qualification,Tirana,Albania,False
+2007-11-17 00:00:00,Andorra,Estonia,0,2,UEFA Euro qualification,Sant Juli√† de L√≤ria,Andorra,False
+2007-11-17 00:00:00,Angola,Ivory Coast,2,1,Friendly,Melun,France,True
+2007-11-17 00:00:00,Argentina,Bolivia,3,0,FIFA World Cup qualification,Buenos Aires,Argentina,False
+2007-11-17 00:00:00,Australia,Nigeria,1,0,Friendly,London,England,True
+2007-11-17 00:00:00,Benin,United Arab Emirates,1,0,Friendly,Accra,Ghana,True
+2007-11-17 00:00:00,Bulgaria,Romania,1,0,UEFA Euro qualification,Sofia,Bulgaria,False
+2007-11-17 00:00:00,Colombia,Venezuela,1,0,FIFA World Cup qualification,Bogot√°,Colombia,False
+2007-11-17 00:00:00,Comoros,Madagascar,0,4,FIFA World Cup qualification,Moroni,Comoros,False
+2007-11-17 00:00:00,Czech Republic,Slovakia,3,1,UEFA Euro qualification,Prague,Czech Republic,False
+2007-11-17 00:00:00,Fiji,New Caledonia,3,3,FIFA World Cup qualification,Ba,Fiji,False
+2007-11-17 00:00:00,Finland,Azerbaijan,2,1,UEFA Euro qualification,Helsinki,Finland,False
+2007-11-17 00:00:00,Germany,Cyprus,4,0,UEFA Euro qualification,Hanover,Germany,False
+2007-11-17 00:00:00,Greece,Malta,5,0,UEFA Euro qualification,Athens,Greece,False
+2007-11-17 00:00:00,Guatemala,Honduras,0,1,Friendly,Miami Gardens,United States,True
+2007-11-17 00:00:00,Guinea-Bissau,Sierra Leone,0,0,FIFA World Cup qualification,Bissau,Guinea-Bissau,False
+2007-11-17 00:00:00,Israel,Russia,2,1,UEFA Euro qualification,Ramat-Gan,Israel,False
+2007-11-17 00:00:00,Latvia,Liechtenstein,4,1,UEFA Euro qualification,Riga,Latvia,False
+2007-11-17 00:00:00,Lithuania,Ukraine,2,0,UEFA Euro qualification,Kaunas,Lithuania,False
+2007-11-17 00:00:00,North Macedonia,Croatia,2,0,UEFA Euro qualification,Skopje,North Macedonia,False
+2007-11-17 00:00:00,Moldova,Hungary,3,0,UEFA Euro qualification,Chi»ôinƒÉu,Moldova,False
+2007-11-17 00:00:00,Netherlands,Luxembourg,1,0,UEFA Euro qualification,Rotterdam,Netherlands,False
+2007-11-17 00:00:00,Northern Ireland,Denmark,2,1,UEFA Euro qualification,Belfast,Northern Ireland,False
+2007-11-17 00:00:00,Norway,Turkey,1,2,UEFA Euro qualification,Oslo,Norway,False
+2007-11-17 00:00:00,Paraguay,Ecuador,5,1,FIFA World Cup qualification,Asunci√≥n,Paraguay,False
+2007-11-17 00:00:00,Poland,Belgium,2,0,UEFA Euro qualification,Chorz√≥w,Poland,False
+2007-11-17 00:00:00,Portugal,Armenia,1,0,UEFA Euro qualification,Leiria,Portugal,False
+2007-11-17 00:00:00,Scotland,Italy,1,2,UEFA Euro qualification,Glasgow,Scotland,False
+2007-11-17 00:00:00,Senegal,Mali,3,2,Friendly,√âvry/Bondoufle,France,True
+2007-11-17 00:00:00,South Africa,United States,0,1,Friendly,Johannesburg,South Africa,False
+2007-11-17 00:00:00,Spain,Sweden,3,0,UEFA Euro qualification,Madrid,Spain,False
+2007-11-17 00:00:00,Tunisia,Namibia,2,0,Friendly,Rad√®s,Tunisia,False
+2007-11-17 00:00:00,Vanuatu,New Zealand,1,2,FIFA World Cup qualification,Port Vila,Vanuatu,False
+2007-11-17 00:00:00,Wales,Republic of Ireland,2,2,UEFA Euro qualification,Cardiff,Wales,False
+2007-11-18 00:00:00,Ghana,Togo,2,0,Friendly,Accra,Ghana,False
+2007-11-18 00:00:00,Jamaica,El Salvador,3,0,Friendly,Kingston,Jamaica,False
+2007-11-18 00:00:00,Peru,Brazil,1,1,FIFA World Cup qualification,Lima,Peru,False
+2007-11-18 00:00:00,Saint Kitts and Nevis,Antigua and Barbuda,3,0,Friendly,Basseterre,Saint Kitts and Nevis,False
+2007-11-18 00:00:00,Eswatini,Malawi,0,3,Friendly,Manzini,Eswatini,False
+2007-11-18 00:00:00,Syria,Indonesia,7,0,FIFA World Cup qualification,Damascus,Syria,False
+2007-11-18 00:00:00,Tajikistan,Singapore,1,1,FIFA World Cup qualification,Dushanbe,Tajikistan,False
+2007-11-18 00:00:00,Thailand,Yemen,1,0,FIFA World Cup qualification,Bangkok,Thailand,False
+2007-11-18 00:00:00,Turkmenistan,Hong Kong,3,0,FIFA World Cup qualification,Ashgabat,Turkmenistan,False
+2007-11-18 00:00:00,Uruguay,Chile,2,2,FIFA World Cup qualification,Montevideo,Uruguay,False
+2007-11-20 00:00:00,Algeria,Mali,3,2,Friendly,Rouen,France,True
+2007-11-20 00:00:00,Angola,Guinea,0,3,Friendly,Melun,France,True
+2007-11-20 00:00:00,Colombia,Argentina,2,1,FIFA World Cup qualification,Bogot√°,Colombia,False
+2007-11-20 00:00:00,South Africa,Canada,2,0,Friendly,Durban,South Africa,False
+2007-11-20 00:00:00,Switzerland,Nigeria,0,1,Friendly,Z√ºrich,Switzerland,False
+2007-11-20 00:00:00,Venezuela,Bolivia,5,3,FIFA World Cup qualification,San Crist√≥bal,Venezuela,False
+2007-11-21 00:00:00,Andorra,Russia,0,1,UEFA Euro qualification,Sant Juli√† de L√≤ria,Andorra,False
+2007-11-21 00:00:00,Armenia,Kazakhstan,0,1,UEFA Euro qualification,Yerevan,Armenia,False
+2007-11-21 00:00:00,Austria,Tunisia,0,0,Friendly,Vienna,Austria,False
+2007-11-21 00:00:00,Azerbaijan,Belgium,0,1,UEFA Euro qualification,Baku,Azerbaijan,False
+2007-11-21 00:00:00,Belarus,Netherlands,2,1,UEFA Euro qualification,Minsk,Belarus,False
+2007-11-21 00:00:00,Brazil,Uruguay,2,1,FIFA World Cup qualification,S√£o Paulo,Brazil,False
+2007-11-21 00:00:00,Chile,Paraguay,0,3,FIFA World Cup qualification,Santiago,Chile,False
+2007-11-21 00:00:00,Cyprus,Czech Republic,0,2,UEFA Euro qualification,Nicosia,Cyprus,False
+2007-11-21 00:00:00,Denmark,Iceland,3,0,UEFA Euro qualification,Copenhagen,Denmark,False
+2007-11-21 00:00:00,Ecuador,Peru,5,1,FIFA World Cup qualification,Quito,Ecuador,False
+2007-11-21 00:00:00,England,Croatia,2,3,UEFA Euro qualification,London,England,False
+2007-11-21 00:00:00,Equatorial Guinea,Niger,1,1,Friendly,Malabo,Equatorial Guinea,False
+2007-11-21 00:00:00,Georgia,Lithuania,0,2,UEFA Euro qualification,Tbilisi,Georgia,False
+2007-11-21 00:00:00,Germany,Wales,0,0,UEFA Euro qualification,Frankfurt am Main,Germany,False
+2007-11-21 00:00:00,Ghana,Benin,4,2,Friendly,Accra,Ghana,False
+2007-11-21 00:00:00,Hungary,Greece,1,2,UEFA Euro qualification,Budapest,Hungary,False
+2007-11-21 00:00:00,Israel,North Macedonia,1,0,UEFA Euro qualification,Ramat-Gan,Israel,False
+2007-11-21 00:00:00,Italy,Faroe Islands,3,1,UEFA Euro qualification,Modena,Italy,False
+2007-11-21 00:00:00,Jamaica,Guatemala,2,0,Friendly,Kingston,Jamaica,False
+2007-11-21 00:00:00,Malta,Norway,1,4,UEFA Euro qualification,Attard,Malta,False
+2007-11-21 00:00:00,Morocco,Senegal,3,0,Friendly,√âvry/Bondoufle,France,True
+2007-11-21 00:00:00,New Caledonia,Fiji,4,0,FIFA World Cup qualification,Noum√©a,New Caledonia,False
+2007-11-21 00:00:00,New Zealand,Vanuatu,4,1,FIFA World Cup qualification,Wellington,New Zealand,False
+2007-11-21 00:00:00,Oman,Kenya,2,2,Friendly,Muscat,Oman,False
+2007-11-21 00:00:00,Panama,Costa Rica,1,1,Friendly,Panama City,Panama,False
+2007-11-21 00:00:00,Portugal,Finland,0,0,UEFA Euro qualification,Porto,Portugal,False
+2007-11-21 00:00:00,Qatar,Ivory Coast,1,6,Friendly,Doha,Qatar,False
+2007-11-21 00:00:00,Romania,Albania,6,1,UEFA Euro qualification,Bucharest,Romania,False
+2007-11-21 00:00:00,San Marino,Slovakia,0,5,UEFA Euro qualification,Serravalle,San Marino,False
+2007-11-21 00:00:00,Serbia,Poland,2,2,UEFA Euro qualification,Belgrade,Serbia,False
+2007-11-21 00:00:00,Slovenia,Bulgaria,0,2,UEFA Euro qualification,Celje,Slovenia,False
+2007-11-21 00:00:00,Spain,Northern Ireland,1,0,UEFA Euro qualification,Las Palmas,Spain,False
+2007-11-21 00:00:00,Sweden,Latvia,2,1,UEFA Euro qualification,Solna,Sweden,False
+2007-11-21 00:00:00,Tanzania,Zambia,1,0,Friendly,Dar es Salaam,Tanzania,False
+2007-11-21 00:00:00,Turkey,Bosnia and Herzegovina,1,0,UEFA Euro qualification,Istanbul,Turkey,False
+2007-11-21 00:00:00,Ukraine,France,2,2,UEFA Euro qualification,Kyiv,Ukraine,False
+2007-11-21 00:00:00,United Arab Emirates,Togo,0,5,Friendly,Accra,Ghana,True
+2007-11-21 00:00:00,Uzbekistan,Estonia,0,0,Friendly,Tashkent,Uzbekistan,False
+2007-11-22 00:00:00,Oman,Kenya,1,1,Friendly,Muscat,Oman,False
+2007-11-24 00:00:00,Serbia,Kazakhstan,1,0,UEFA Euro qualification,Belgrade,Serbia,False
+2007-11-30 00:00:00,Sudan,Eritrea,1,0,Friendly,Omdurman,Sudan,False
+2007-12-01 00:00:00,Antigua and Barbuda,Saint Kitts and Nevis,2,0,Friendly,St. John's,Antigua and Barbuda,False
+2007-12-02 00:00:00,Guinea-Bissau,Sierra Leone,2,0,Am√≠lcar Cabral Cup,Bissau,Guinea-Bissau,False
+2007-12-03 00:00:00,Cape Verde,Gambia,0,0,Am√≠lcar Cabral Cup,Bissau,Guinea-Bissau,True
+2007-12-03 00:00:00,Sudan,Eritrea,1,0,Friendly,Omdurman,Sudan,False

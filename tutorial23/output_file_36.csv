@@ -1,0 +1,1001 @@
+date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
+2014-01-29 00:00:00,Nigeria,Ghana,0,0,African Nations Championship,Bloemfontein,South Africa,True
+2014-01-29 00:00:00,Zimbabwe,Libya,0,0,African Nations Championship,Bloemfontein,South Africa,True
+2014-01-31 00:00:00,Oman,Jordan,0,0,AFC Asian Cup qualification,Muscat,Oman,False
+2014-02-01 00:00:00,Libya,Ghana,0,0,African Nations Championship,Cape Town,South Africa,True
+2014-02-01 00:00:00,United States,South Korea,2,0,Friendly,Carson,United States,False
+2014-02-01 00:00:00,Zimbabwe,Nigeria,0,1,African Nations Championship,Cape Town,South Africa,True
+2014-02-04 00:00:00,Singapore,Jordan,1,3,AFC Asian Cup qualification,Singapore,Singapore,False
+2014-02-19 00:00:00,Lebanon,Pakistan,3,1,Friendly,Beirut,Lebanon,False
+2014-02-21 00:00:00,Iraq,North Korea,2,0,Friendly,Dubai,United Arab Emirates,True
+2014-03-01 00:00:00,Gibraltar,Faroe Islands,1,4,Friendly,Gibraltar,Gibraltar,False
+2014-03-01 00:00:00,Malaysia,Philippines,0,0,Friendly,Selayang,Malaysia,False
+2014-03-03 00:00:00,Iran,Kuwait,3,2,AFC Asian Cup qualification,Karaj,Iran,False
+2014-03-05 00:00:00,Albania,Malta,2,0,Friendly,Durr√´s,Albania,False
+2014-03-05 00:00:00,Algeria,Slovenia,2,0,Friendly,Blida,Algeria,False
+2014-03-05 00:00:00,Andorra,Moldova,0,3,Friendly,Sant Juli√† de L√≤ria,Andorra,False
+2014-03-05 00:00:00,Australia,Ecuador,3,4,Friendly,London,England,True
+2014-03-05 00:00:00,Austria,Uruguay,1,1,Friendly,Klagenfurt,Austria,False
+2014-03-05 00:00:00,Belgium,Ivory Coast,2,2,Friendly,Brussels,Belgium,False
+2014-03-05 00:00:00,Bosnia and Herzegovina,Egypt,0,2,Friendly,Innsbruck,Austria,True
+2014-03-05 00:00:00,Botswana,South Sudan,3,0,Friendly,Gaborone,Botswana,False
+2014-03-05 00:00:00,Bulgaria,Belarus,2,1,Friendly,Sofia,Bulgaria,False
+2014-03-05 00:00:00,Burkina Faso,Comoros,1,1,Friendly,Martigues,France,True
+2014-03-05 00:00:00,Burundi,Rwanda,1,1,Friendly,Bujumbura,Burundi,False
+2014-03-05 00:00:00,Colombia,Tunisia,1,1,Friendly,Barcelona,Spain,True
+2014-03-05 00:00:00,Cyprus,Northern Ireland,0,0,Friendly,Nicosia,Cyprus,False
+2014-03-05 00:00:00,Czech Republic,Norway,2,2,Friendly,Prague,Czech Republic,False
+2014-03-05 00:00:00,England,Denmark,1,0,Friendly,London,England,False
+2014-03-05 00:00:00,France,Netherlands,2,0,Friendly,Saint-Denis,France,False
+2014-03-05 00:00:00,Georgia,Liechtenstein,2,0,Friendly,Tbilisi,Georgia,False
+2014-03-05 00:00:00,Germany,Chile,1,0,Friendly,Stuttgart,Germany,False
+2014-03-05 00:00:00,Gibraltar,Estonia,0,2,Friendly,Gibraltar,Gibraltar,False
+2014-03-05 00:00:00,Greece,South Korea,0,2,Friendly,Piraeus,Greece,False
+2014-03-05 00:00:00,Hungary,Finland,1,2,Friendly,Gy≈ër,Hungary,False
+2014-03-05 00:00:00,India,Bangladesh,2,2,Friendly,Margao,India,False
+2014-03-05 00:00:00,Iran,Guinea,1,2,Friendly,Tehran,Iran,False
+2014-03-05 00:00:00,Iraq,China PR,3,1,AFC Asian Cup qualification,Sharjah,United Arab Emirates,True
+2014-03-05 00:00:00,Republic of Ireland,Serbia,1,2,Friendly,Dublin,Republic of Ireland,False
+2014-03-05 00:00:00,Israel,Slovakia,1,3,Friendly,Netanya,Israel,False
+2014-03-05 00:00:00,Japan,New Zealand,4,2,Friendly,Tokyo,Japan,False
+2014-03-05 00:00:00,Jordan,Syria,2,1,AFC Asian Cup qualification,Amman,Jordan,False
+2014-03-05 00:00:00,Kazakhstan,Lithuania,1,1,Friendly,Antalya,Turkey,True
+2014-03-05 00:00:00,Kosovo,Haiti,0,0,Friendly,Mitrovica,Kosovo,False
+2014-03-05 00:00:00,Luxembourg,Cape Verde,0,0,Friendly,Luxembourg,Luxembourg,False
+2014-03-05 00:00:00,North Macedonia,Latvia,2,1,Friendly,Skopje,North Macedonia,False
+2014-03-05 00:00:00,Malawi,Zimbabwe,1,4,Friendly,Blantyre,Malawi,False
+2014-03-05 00:00:00,Mali,Senegal,1,1,Friendly,Saint-Leu-la-For√™t,France,True
+2014-03-05 00:00:00,Mauritania,Niger,1,1,Friendly,Nouakchott,Mauritania,False
+2014-03-05 00:00:00,Montenegro,Ghana,1,0,Friendly,Podgorica,Montenegro,False
+2014-03-05 00:00:00,Morocco,Gabon,1,1,Friendly,Marrakech,Morocco,False
+2014-03-05 00:00:00,Mozambique,Angola,1,1,Friendly,Maputo,Mozambique,False
+2014-03-05 00:00:00,Namibia,Tanzania,1,1,Friendly,Windhoek,Namibia,False
+2014-03-05 00:00:00,Oman,Singapore,3,1,AFC Asian Cup qualification,Muscat,Oman,False
+2014-03-05 00:00:00,Philippines,Azerbaijan,0,1,Friendly,Dubai,United Arab Emirates,True
+2014-03-05 00:00:00,Poland,Scotland,0,1,Friendly,Warsaw,Poland,False
+2014-03-05 00:00:00,Portugal,Cameroon,5,1,Friendly,Leiria,Portugal,False
+2014-03-05 00:00:00,Qatar,Bahrain,0,0,AFC Asian Cup qualification,Doha,Qatar,False
+2014-03-05 00:00:00,Romania,Argentina,0,0,Friendly,Bucharest,Romania,False
+2014-03-05 00:00:00,Russia,Armenia,2,0,Friendly,Krasnodar,Russia,False
+2014-03-05 00:00:00,Saudi Arabia,Indonesia,1,0,AFC Asian Cup qualification,Dammam,Saudi Arabia,False
+2014-03-05 00:00:00,South Africa,Brazil,0,5,Friendly,Johannesburg,South Africa,False
+2014-03-05 00:00:00,Spain,Italy,1,0,Friendly,Madrid,Spain,False
+2014-03-05 00:00:00,Saint Lucia,Jamaica,0,5,Friendly,Castries,Saint Lucia,False
+2014-03-05 00:00:00,Switzerland,Croatia,2,2,Friendly,St. Gallen,Switzerland,False
+2014-03-05 00:00:00,Thailand,Lebanon,2,5,AFC Asian Cup qualification,Bangkok,Thailand,False
+2014-03-05 00:00:00,Turkey,Sweden,2,1,Friendly,Ankara,Turkey,False
+2014-03-05 00:00:00,Ukraine,United States,2,0,Friendly,Larnaca,Cyprus,True
+2014-03-05 00:00:00,Uzbekistan,United Arab Emirates,1,1,AFC Asian Cup qualification,Tashkent,Uzbekistan,False
+2014-03-05 00:00:00,Vietnam,Hong Kong,3,1,AFC Asian Cup qualification,Hanoi,Vietnam,False
+2014-03-05 00:00:00,Wales,Iceland,3,1,Friendly,Cardiff,Wales,False
+2014-03-05 00:00:00,Yemen,Malaysia,1,2,AFC Asian Cup qualification,Al Ain,United Arab Emirates,True
+2014-03-05 00:00:00,Zambia,Uganda,2,1,Friendly,Ndola,Zambia,False
+2014-03-07 00:00:00,Lesotho,Eswatini,0,1,Friendly,Maseru,Lesotho,False
+2014-03-09 00:00:00,Lesotho,Eswatini,0,0,Friendly,Maseru,Lesotho,False
+2014-03-19 00:00:00,Saint Lucia,Martinique,0,0,Friendly,Gros Islet,Saint Lucia,False
+2014-03-25 00:00:00,Yemen,Nepal,2,0,Friendly,Doha,Qatar,True
+2014-03-26 00:00:00,Andorra,Indonesia,0,1,Friendly,Alzira,Spain,True
+2014-03-27 00:00:00,Aruba,Guam,2,2,Friendly,Oranjestad,Aruba,False
+2014-03-29 00:00:00,Cuba,Indonesia,1,0,Friendly,Alzira,Spain,True
+2014-03-30 00:00:00,Aruba,Guam,2,0,Friendly,Oranjestad,Aruba,False
+2014-04-12 00:00:00,Mauritania,Mauritius,1,0,African Cup of Nations qualification,Nouakchott,Mauritania,False
+2014-04-13 00:00:00,Afghanistan,Kyrgyzstan,0,0,Friendly,Dubai,United Arab Emirates,True
+2014-04-15 00:00:00,Yemen,Chad,0,0,Friendly,Doha,Qatar,True
+2014-04-17 00:00:00,Guadeloupe,French Guiana,3,2,Friendly,Les Abymes,Guadeloupe,False
+2014-04-20 00:00:00,Mauritius,Mauritania,0,2,African Cup of Nations qualification,Curepipe,Mauritius,False
+2014-04-26 00:00:00,Tanzania,Burundi,0,3,Friendly,Dar es Salaam,Tanzania,False
+2014-04-27 00:00:00,Philippines,Malaysia,0,0,Friendly,Cebu,Philippines,False
+2014-05-02 00:00:00,Grenada,Saint Lucia,0,1,Windward Islands Tournament,Roseau,Dominica,True
+2014-05-04 00:00:00,Dominica,Grenada,3,5,Windward Islands Tournament,Roseau,Dominica,False
+2014-05-10 00:00:00,Vatican City,Monaco,0,2,Friendly,Rome,Italy,False
+2014-05-12 00:00:00,Afghanistan,Kyrgyzstan,1,0,Friendly,Kuwait City,Kuwait,True
+2014-05-13 00:00:00,Germany,Poland,0,0,Friendly,Hamburg,Germany,False
+2014-05-14 00:00:00,Kuwait,Afghanistan,3,2,Friendly,Kuwait City,Kuwait,False
+2014-05-16 00:00:00,Kuwait,Kyrgyzstan,2,2,Friendly,Kuwait City,Kuwait,False
+2014-05-17 00:00:00,Malawi,Chad,2,0,African Cup of Nations qualification,Blantyre,Malawi,False
+2014-05-17 00:00:00,Mauritania,Equatorial Guinea,1,0,African Cup of Nations qualification,Nouakchott,Mauritania,False
+2014-05-17 00:00:00,Namibia,Congo,1,0,African Cup of Nations qualification,Windhoek,Namibia,False
+2014-05-17 00:00:00,Netherlands,Ecuador,1,1,Friendly,Amsterdam,Netherlands,False
+2014-05-17 00:00:00,S√£o Tom√© and Pr√≠ncipe,Benin,0,2,African Cup of Nations qualification,S√£o Tom√©,S√£o Tom√© and Pr√≠ncipe,False
+2014-05-18 00:00:00,Belarus,Iran,0,0,Friendly,Kapfenberg,Austria,True
+2014-05-18 00:00:00,Burundi,Botswana,0,0,African Cup of Nations qualification,Bujumbura,Burundi,False
+2014-05-18 00:00:00,Central African Republic,Guinea-Bissau,0,0,African Cup of Nations qualification,Brazzaville,Congo,True
+2014-05-18 00:00:00,Liberia,Lesotho,1,0,African Cup of Nations qualification,Monrovia,Liberia,False
+2014-05-18 00:00:00,Libya,Rwanda,0,0,African Cup of Nations qualification,Rad√®s,Tunisia,True
+2014-05-18 00:00:00,Tanzania,Zimbabwe,1,0,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+2014-05-19 00:00:00,Maldives,Myanmar,2,3,AFC Challenge Cup,Mal√©,Maldives,False
+2014-05-19 00:00:00,Palestine,Kyrgyzstan,1,0,AFC Challenge Cup,Mal√©,Maldives,True
+2014-05-20 00:00:00,French Guiana,Suriname,0,0,Friendly,Cayenne,French Guiana,False
+2014-05-20 00:00:00,Philippines,Afghanistan,0,0,AFC Challenge Cup,Addu City,Maldives,True
+2014-05-20 00:00:00,Turkmenistan,Laos,5,1,AFC Challenge Cup,Addu City,Maldives,True
+2014-05-21 00:00:00,Burkina Faso,Senegal,1,1,Friendly,Ouagadougou,Burkina Faso,False
+2014-05-21 00:00:00,Myanmar,Palestine,0,2,AFC Challenge Cup,Mal√©,Maldives,True
+2014-05-21 00:00:00,Finland,Czech Republic,2,2,Friendly,Helsinki,Finland,False
+2014-05-21 00:00:00,Kosovo,Turkey,1,6,Friendly,Mitrovica,Kosovo,False
+2014-05-21 00:00:00,Liechtenstein,Belarus,1,5,Friendly,Vaduz,Liechtenstein,False
+2014-05-21 00:00:00,Maldives,Kyrgyzstan,2,0,AFC Challenge Cup,Mal√©,Maldives,False
+2014-05-22 00:00:00,Afghanistan,Turkmenistan,3,1,AFC Challenge Cup,Addu City,Maldives,True
+2014-05-22 00:00:00,Hungary,Denmark,2,2,Friendly,Debrecen,Hungary,False
+2014-05-22 00:00:00,Laos,Philippines,0,2,AFC Challenge Cup,Addu City,Maldives,True
+2014-05-22 00:00:00,Ukraine,Niger,2,1,Friendly,Kyiv,Ukraine,False
+2014-05-23 00:00:00,Bulgaria,Canada,1,1,Friendly,Ritzing,Austria,True
+2014-05-23 00:00:00,Kyrgyzstan,Myanmar,1,0,AFC Challenge Cup,Addu City,Maldives,True
+2014-05-23 00:00:00,Maldives,Palestine,0,0,AFC Challenge Cup,Mal√©,Maldives,False
+2014-05-23 00:00:00,Slovakia,Montenegro,2,0,Friendly,Senec,Slovakia,False
+2014-05-24 00:00:00,Afghanistan,Laos,0,0,AFC Challenge Cup,Addu City,Maldives,True
+2014-05-24 00:00:00,Moldova,Saudi Arabia,4,0,Friendly,Jerez de la Frontera,Spain,True
+2014-05-24 00:00:00,Turkmenistan,Philippines,0,2,AFC Challenge Cup,Mal√©,Maldives,True
+2014-05-25 00:00:00,Republic of Ireland,Turkey,1,2,Friendly,Dublin,Republic of Ireland,False
+2014-05-25 00:00:00,Kosovo,Senegal,1,3,Friendly,Lancy,Switzerland,True
+2014-05-25 00:00:00,Mali,Guinea,1,2,Friendly,Colombes,France,True
+2014-05-25 00:00:00,Thailand,Kuwait,1,1,Friendly,Bangkok,Thailand,False
+2014-05-26 00:00:00,Australia,South Africa,1,1,Friendly,Sydney,Australia,False
+2014-05-26 00:00:00,Belgium,Luxembourg,5,1,Friendly,Genk,Belgium,False
+2014-05-26 00:00:00,Estonia,Gibraltar,1,1,Friendly,Tallinn,Estonia,False
+2014-05-26 00:00:00,Jamaica,Serbia,1,2,Friendly,Harrison,United States,True
+2014-05-26 00:00:00,North Macedonia,Cameroon,0,2,Friendly,Kufstein,Austria,True
+2014-05-26 00:00:00,Montenegro,Iran,0,0,Friendly,Hartberg,Austria,True
+2014-05-26 00:00:00,Russia,Slovakia,1,0,Friendly,Saint Petersburg,Russia,False
+2014-05-27 00:00:00,Armenia,United Arab Emirates,4,3,Friendly,Carouge,Switzerland,True
+2014-05-27 00:00:00,France,Norway,4,0,Friendly,Saint-Denis,France,False
+2014-05-27 00:00:00,Japan,Cyprus,1,0,Friendly,Saitama,Japan,False
+2014-05-27 00:00:00,Maldives,Philippines,2,3,AFC Challenge Cup,Mal√©,Maldives,False
+2014-05-27 00:00:00,Moldova,Canada,1,1,Friendly,Mauer,Austria,True
+2014-05-27 00:00:00,Palestine,Afghanistan,2,0,AFC Challenge Cup,Mal√©,Maldives,True
+2014-05-27 00:00:00,Suriname,French Guiana,1,0,Friendly,Paramaribo,Suriname,False
+2014-05-27 00:00:00,Tanzania,Malawi,1,0,Friendly,Dar es Salaam,Tanzania,False
+2014-05-27 00:00:00,Uzbekistan,Oman,0,1,Friendly,Olmaliq,Uzbekistan,False
+2014-05-28 00:00:00,Angola,Morocco,2,0,Friendly,Faro,Portugal,True
+2014-05-28 00:00:00,Denmark,Sweden,1,0,Friendly,Copenhagen,Denmark,False
+2014-05-28 00:00:00,South Korea,Tunisia,0,1,Friendly,Seoul,South Korea,False
+2014-05-28 00:00:00,Nigeria,Scotland,2,2,Friendly,London,England,True
+2014-05-29 00:00:00,Cameroon,Paraguay,1,2,Friendly,Kufstein,Austria,True
+2014-05-29 00:00:00,Finland,Lithuania,0,1,Baltic Cup,Ventspils,Latvia,True
+2014-05-29 00:00:00,Georgia,Saudi Arabia,2,0,Friendly,Jerez de la Frontera,Spain,True
+2014-05-29 00:00:00,Latvia,Estonia,0,0,Baltic Cup,LiepƒÅja,Latvia,False
+2014-05-29 00:00:00,Maldives,Afghanistan,1,1,AFC Challenge Cup,Mal√©,Maldives,False
+2014-05-29 00:00:00,Uzbekistan,Oman,0,1,Friendly,Tashkent,Uzbekistan,False
+2014-05-30 00:00:00,Angola,Iran,1,1,Friendly,Hartberg,Austria,True
+2014-05-30 00:00:00,Aruba,Turks and Caicos Islands,1,0,CFU Caribbean Cup qualification,Oranjestad,Aruba,False
+2014-05-30 00:00:00,Austria,Iceland,1,1,Friendly,Innsbruck,Austria,False
+2014-05-30 00:00:00,Bosnia and Herzegovina,Ivory Coast,2,1,Friendly,St. Louis,United States,True
+2014-05-30 00:00:00,Comoros,Kenya,1,1,African Cup of Nations qualification,Mitsamiouli,Comoros,False
+2014-05-30 00:00:00,England,Peru,3,0,Friendly,London,England,False
+2014-05-30 00:00:00,French Guiana,British Virgin Islands,6,0,CFU Caribbean Cup qualification,Oranjestad,Aruba,True
+2014-05-30 00:00:00,North Macedonia,Qatar,0,0,Friendly,Rieti,Italy,True
+2014-05-30 00:00:00,Montserrat,United States Virgin Islands,1,0,CFU Caribbean Cup qualification,Lookout,Montserrat,False
+2014-05-30 00:00:00,New Zealand,South Africa,0,0,Friendly,Auckland,New Zealand,False
+2014-05-30 00:00:00,Palestine,Philippines,1,0,AFC Challenge Cup,Mal√©,Maldives,True
+2014-05-30 00:00:00,South Sudan,Mozambique,0,0,African Cup of Nations qualification,Khartoum,Sudan,True
+2014-05-30 00:00:00,Spain,Bolivia,2,0,Friendly,Seville,Spain,False
+2014-05-30 00:00:00,Switzerland,Jamaica,1,0,Friendly,Lucerne,Switzerland,False
+2014-05-30 00:00:00,Uruguay,Northern Ireland,1,0,Friendly,Montevideo,Uruguay,False
+2014-05-31 00:00:00,Albania,Romania,0,1,Friendly,Yverdon-les-Bains,Switzerland,True
+2014-05-31 00:00:00,Armenia,Algeria,1,3,Friendly,Sion,Switzerland,True
+2014-05-31 00:00:00,Chad,Malawi,3,1,African Cup of Nations qualification,N'Djamena,Chad,False
+2014-05-31 00:00:00,Colombia,Senegal,2,2,Friendly,Buenos Aires,Argentina,True
+2014-05-31 00:00:00,Croatia,Mali,2,1,Friendly,Osijek,Croatia,False
+2014-05-31 00:00:00,Finland,Estonia,2,0,Baltic Cup,Ventspils,Latvia,True
+2014-05-31 00:00:00,Guinea-Bissau,Central African Republic,3,1,African Cup of Nations qualification,Bissau,Guinea-Bissau,False
+2014-05-31 00:00:00,Italy,Republic of Ireland,0,0,Friendly,London,England,True
+2014-05-31 00:00:00,Latvia,Lithuania,1,0,Baltic Cup,LiepƒÅja,Latvia,False
+2014-05-31 00:00:00,Mexico,Ecuador,3,1,Friendly,Arlington,United States,True
+2014-05-31 00:00:00,Netherlands,Ghana,1,0,Friendly,Rotterdam,Netherlands,False
+2014-05-31 00:00:00,Norway,Russia,1,1,Friendly,Oslo,Norway,False
+2014-05-31 00:00:00,Portugal,Greece,0,0,Friendly,Oeiras,Portugal,False
+2014-05-31 00:00:00,Rwanda,Libya,3,0,African Cup of Nations qualification,Kigali,Rwanda,False
+2014-05-31 00:00:00,Sierra Leone,Eswatini,1,0,African Cup of Nations qualification,Freetown,Sierra Leone,False
+2014-05-31 00:00:00,Uganda,Madagascar,1,0,African Cup of Nations qualification,Kampala,Uganda,False
+2014-06-01 00:00:00,Aruba,British Virgin Islands,7,0,CFU Caribbean Cup qualification,Oranjestad,Aruba,False
+2014-06-01 00:00:00,Benin,S√£o Tom√© and Pr√≠ncipe,2,0,African Cup of Nations qualification,Porto-Novo,Benin,False
+2014-06-01 00:00:00,Botswana,Burundi,1,0,African Cup of Nations qualification,Lobatse,Botswana,False
+2014-06-01 00:00:00,Congo,Namibia,3,0,African Cup of Nations qualification,Pointe-Noire,Congo,False
+2014-06-01 00:00:00,Equatorial Guinea,Mauritania,3,0,African Cup of Nations qualification,Malabo,Equatorial Guinea,False
+2014-06-01 00:00:00,France,Paraguay,1,1,Friendly,Nice,France,False
+2014-06-01 00:00:00,Germany,Cameroon,2,2,Friendly,M√∂nchengladbach,Germany,False
+2014-06-01 00:00:00,Honduras,Israel,2,4,Friendly,Houston,United States,True
+2014-06-01 00:00:00,Lesotho,Liberia,2,0,African Cup of Nations qualification,Maseru,Lesotho,False
+2014-06-01 00:00:00,Sweden,Belgium,0,2,Friendly,Solna,Sweden,False
+2014-06-01 00:00:00,Turks and Caicos Islands,French Guiana,0,6,CFU Caribbean Cup qualification,Oranjestad,Aruba,True
+2014-06-01 00:00:00,United States,Turkey,2,1,Friendly,Harrison,United States,False
+2014-06-01 00:00:00,United States Virgin Islands,Bonaire,1,2,CFU Caribbean Cup qualification,Lookout,Montserrat,True
+2014-06-01 00:00:00,Zimbabwe,Tanzania,2,2,African Cup of Nations qualification,Harare,Zimbabwe,False
+2014-06-01 00:00:00,Iraqi Kurdistan,Arameans Suryoye,1,2,CONIFA World Football Cup,√ñstersund,Sweden,True
+2014-06-01 00:00:00,Abkhazia,Occitania,1,1,CONIFA World Football Cup,√ñstersund,Sweden,True
+2014-06-01 00:00:00,Darfur,Padania,0,20,CONIFA World Football Cup,√ñstersund,Sweden,True
+2014-06-01 00:00:00,Ellan Vannin,Artsakh,3,2,CONIFA World Football Cup,√ñstersund,Sweden,True
+2014-06-02 00:00:00,Costa Rica,Japan,1,3,Friendly,Tampa,United States,True
+2014-06-02 00:00:00,Tamil Eelam,Arameans Suryoye,0,2,CONIFA World Football Cup,√ñstersund,Sweden,True
+2014-06-02 00:00:00,S√°pmi,Abkhazia,1,2,CONIFA World Football Cup,√ñstersund,Sweden,False
+2014-06-02 00:00:00,Darfur,South Ossetia,0,19,CONIFA World Football Cup,√ñstersund,Sweden,True
+2014-06-02 00:00:00,Ellan Vannin,County of Nice,4,2,CONIFA World Football Cup,√ñstersund,Sweden,True
+2014-06-03 00:00:00,Aruba,French Guiana,0,2,CFU Caribbean Cup qualification,Oranjestad,Aruba,False
+2014-06-03 00:00:00,Brazil,Panama,4,0,Friendly,Goi√¢nia,Brazil,False
+2014-06-03 00:00:00,British Virgin Islands,Turks and Caicos Islands,0,2,CFU Caribbean Cup qualification,Oranjestad,Aruba,True
+2014-06-03 00:00:00,Czech Republic,Austria,1,2,Friendly,Olomouc,Czech Republic,False
+2014-06-03 00:00:00,Georgia,United Arab Emirates,0,1,Friendly,Meyrin,Switzerland,True
+2014-06-03 00:00:00,Greece,Nigeria,0,0,Friendly,Chester,United States,True
+2014-06-03 00:00:00,Mexico,Bosnia and Herzegovina,0,1,Friendly,Chicago,United States,True
+2014-06-03 00:00:00,Switzerland,Peru,2,0,Friendly,Lucerne,Switzerland,False
+2014-06-03 00:00:00,Tamil Eelam,Iraqi Kurdistan,0,9,CONIFA World Football Cup,√ñstersund,Sweden,True
+2014-06-03 00:00:00,S√°pmi,Occitania,0,1,CONIFA World Football Cup,√ñstersund,Sweden,False
+2014-06-03 00:00:00,South Ossetia,Padania,1,3,CONIFA World Football Cup,√ñstersund,Sweden,True
+2014-06-03 00:00:00,Artsakh,County of Nice,0,1,CONIFA World Football Cup,√ñstersund,Sweden,True
+2014-06-04 00:00:00,Argentina,Trinidad and Tobago,3,0,Friendly,Buenos Aires,Argentina,False
+2014-06-04 00:00:00,Ecuador,England,2,2,Friendly,Miami Gardens,United States,True
+2014-06-04 00:00:00,El Salvador,Ivory Coast,1,2,Friendly,Frisco,United States,True
+2014-06-04 00:00:00,Gibraltar,Malta,1,0,Friendly,Faro,Portugal,True
+2014-06-04 00:00:00,Hungary,Albania,1,0,Friendly,Budapest,Hungary,False
+2014-06-04 00:00:00,Iceland,Estonia,1,0,Friendly,Reykjav√≠k,Iceland,False
+2014-06-04 00:00:00,Italy,Luxembourg,1,1,Friendly,Perugia,Italy,False
+2014-06-04 00:00:00,Jamaica,Egypt,2,2,Friendly,London,England,True
+2014-06-04 00:00:00,Netherlands,Wales,2,0,Friendly,Amsterdam,Netherlands,False
+2014-06-04 00:00:00,Romania,Algeria,1,2,Friendly,Lancy,Switzerland,True
+2014-06-04 00:00:00,Padania,County of Nice,1,2,CONIFA World Football Cup,√ñstersund,Sweden,True
+2014-06-04 00:00:00,Abkhazia,South Ossetia,0,0,CONIFA World Football Cup,√ñstersund,Sweden,True
+2014-06-04 00:00:00,Arameans Suryoye,Occitania,0,0,CONIFA World Football Cup,√ñstersund,Sweden,True
+2014-06-04 00:00:00,Ellan Vannin,Iraqi Kurdistan,1,1,CONIFA World Football Cup,√ñstersund,Sweden,True
+2014-06-05 00:00:00,S√°pmi,Tamil Eelam,4,2,CONIFA World Football Cup,√ñstersund,Sweden,False
+2014-06-05 00:00:00,Darfur,Artsakh,0,12,CONIFA World Football Cup,√ñstersund,Sweden,True
+2014-06-05 00:00:00,Padania,Abkhazia,3,3,CONIFA World Football Cup,√ñstersund,Sweden,True
+2014-06-05 00:00:00,Occitania,Iraqi Kurdistan,2,2,CONIFA World Football Cup,√ñstersund,Sweden,True
+2014-06-06 00:00:00,Bolivia,Greece,1,2,Friendly,Harrison,United States,True
+2014-06-06 00:00:00,Brazil,Serbia,1,0,Friendly,S√£o Paulo,Brazil,False
+2014-06-06 00:00:00,Colombia,Jordan,3,0,Friendly,Buenos Aires,Argentina,True
+2014-06-06 00:00:00,Costa Rica,Republic of Ireland,1,1,Friendly,Chester,United States,True
+2014-06-06 00:00:00,Croatia,Australia,1,0,Friendly,Salvador,Brazil,True
+2014-06-06 00:00:00,Germany,Armenia,6,1,Friendly,Mainz,Germany,False
+2014-06-06 00:00:00,Japan,Zambia,4,3,Friendly,Tampa,United States,True
+2014-06-06 00:00:00,Mexico,Portugal,0,1,Friendly,Foxborough,United States,True
+2014-06-06 00:00:00,Poland,Lithuania,2,1,Friendly,Gda≈Ñsk,Poland,False
+2014-06-06 00:00:00,Russia,Morocco,2,0,Friendly,Moscow,Russia,False
+2014-06-06 00:00:00,County of Nice,South Ossetia,3,0,CONIFA World Football Cup,√ñstersund,Sweden,True
+2014-06-06 00:00:00,Arameans Suryoye,Ellan Vannin,1,4,CONIFA World Football Cup,√ñstersund,Sweden,True
+2014-06-07 00:00:00,Argentina,Slovenia,2,0,Friendly,La Plata,Argentina,False
+2014-06-07 00:00:00,Belgium,Tunisia,1,0,Friendly,Brussels,Belgium,False
+2014-06-07 00:00:00,Cameroon,Moldova,1,0,Friendly,Yaound√©,Cameroon,False
+2014-06-07 00:00:00,El Salvador,Spain,0,2,Friendly,Landover,United States,True
+2014-06-07 00:00:00,Estonia,Tajikistan,2,1,Friendly,Tallinn,Estonia,False
+2014-06-07 00:00:00,Honduras,England,0,0,Friendly,Miami Gardens,United States,True
+2014-06-07 00:00:00,Hungary,Kazakhstan,3,0,Friendly,Budapest,Hungary,False
+2014-06-07 00:00:00,United States,Nigeria,2,1,Friendly,Jacksonville,United States,False
+2014-06-07 00:00:00,S√°pmi,Artsakh,1,5,CONIFA World Football Cup,√ñstersund,Sweden,False
+2014-06-07 00:00:00,Tamil Eelam,Darfur,10,0,CONIFA World Football Cup,√ñstersund,Sweden,True
+2014-06-07 00:00:00,Abkhazia,Occitania,0,1,CONIFA World Football Cup,√ñstersund,Sweden,True
+2014-06-07 00:00:00,Padania,Iraqi Kurdistan,1,1,CONIFA World Football Cup,√ñstersund,Sweden,True
+2014-06-08 00:00:00,France,Jamaica,8,0,Friendly,Villeneuve-d'Ascq,France,False
+2014-06-08 00:00:00,Iran,Trinidad and Tobago,2,0,Friendly,S√£o Paulo,Brazil,True
+2014-06-08 00:00:00,San Marino,Albania,0,3,Friendly,Serravalle,San Marino,False
+2014-06-08 00:00:00,South Ossetia,Arameans Suryoye,1,4,CONIFA World Football Cup,√ñstersund,Sweden,True
+2014-06-08 00:00:00,County of Nice,Ellan Vannin,0,0,CONIFA World Football Cup,√ñstersund,Sweden,True
+2014-06-09 00:00:00,Ghana,South Korea,4,0,Friendly,Miami Gardens,United States,True
+2014-06-10 00:00:00,Republic of Ireland,Portugal,1,5,Friendly,East Rutherford,United States,True
+2014-06-12 00:00:00,Brazil,Croatia,3,1,FIFA World Cup,S√£o Paulo,Brazil,False
+2014-06-13 00:00:00,Chile,Australia,3,1,FIFA World Cup,Cuiab√°,Brazil,True
+2014-06-13 00:00:00,Mexico,Cameroon,1,0,FIFA World Cup,Natal,Brazil,True
+2014-06-13 00:00:00,Spain,Netherlands,1,5,FIFA World Cup,Salvador,Brazil,True
+2014-06-14 00:00:00,Colombia,Greece,3,0,FIFA World Cup,Belo Horizonte,Brazil,True
+2014-06-14 00:00:00,England,Italy,1,2,FIFA World Cup,Manaus,Brazil,True
+2014-06-14 00:00:00,Ivory Coast,Japan,2,1,FIFA World Cup,Recife,Brazil,True
+2014-06-14 00:00:00,Uruguay,Costa Rica,1,3,FIFA World Cup,Fortaleza,Brazil,True
+2014-06-15 00:00:00,Argentina,Bosnia and Herzegovina,2,1,FIFA World Cup,Rio de Janeiro,Brazil,True
+2014-06-15 00:00:00,France,Honduras,3,0,FIFA World Cup,Porto Alegre,Brazil,True
+2014-06-15 00:00:00,Switzerland,Ecuador,2,1,FIFA World Cup,Bras√≠lia,Brazil,True
+2014-06-16 00:00:00,Germany,Portugal,4,0,FIFA World Cup,Salvador,Brazil,True
+2014-06-16 00:00:00,Ghana,United States,1,2,FIFA World Cup,Natal,Brazil,True
+2014-06-16 00:00:00,Iran,Nigeria,0,0,FIFA World Cup,Curitiba,Brazil,True
+2014-06-17 00:00:00,Belgium,Algeria,2,1,FIFA World Cup,Belo Horizonte,Brazil,True
+2014-06-17 00:00:00,Brazil,Mexico,0,0,FIFA World Cup,Fortaleza,Brazil,False
+2014-06-17 00:00:00,Russia,South Korea,1,1,FIFA World Cup,Cuiab√°,Brazil,True
+2014-06-18 00:00:00,Australia,Netherlands,2,3,FIFA World Cup,Curitiba,Brazil,True
+2014-06-18 00:00:00,Cameroon,Croatia,0,4,FIFA World Cup,Manaus,Brazil,True
+2014-06-18 00:00:00,China PR,North Macedonia,2,0,Friendly,Shenyang,China PR,False
+2014-06-18 00:00:00,Spain,Chile,0,2,FIFA World Cup,Rio de Janeiro,Brazil,True
+2014-06-19 00:00:00,Colombia,Ivory Coast,2,1,FIFA World Cup,Bras√≠lia,Brazil,True
+2014-06-19 00:00:00,Japan,Greece,0,0,FIFA World Cup,Natal,Brazil,True
+2014-06-19 00:00:00,Uruguay,England,2,1,FIFA World Cup,S√£o Paulo,Brazil,True
+2014-06-20 00:00:00,Honduras,Ecuador,1,2,FIFA World Cup,Curitiba,Brazil,True
+2014-06-20 00:00:00,Italy,Costa Rica,0,1,FIFA World Cup,Recife,Brazil,True
+2014-06-20 00:00:00,Switzerland,France,2,5,FIFA World Cup,Salvador,Brazil,True
+2014-06-21 00:00:00,Argentina,Iran,1,0,FIFA World Cup,Belo Horizonte,Brazil,True
+2014-06-21 00:00:00,Germany,Ghana,2,2,FIFA World Cup,Fortaleza,Brazil,True
+2014-06-21 00:00:00,Indonesia,Pakistan,4,0,Friendly,Surabaya,Indonesia,False
+2014-06-21 00:00:00,Nigeria,Bosnia and Herzegovina,1,0,FIFA World Cup,Cuiab√°,Brazil,True
+2014-06-22 00:00:00,Belgium,Russia,1,0,FIFA World Cup,Rio de Janeiro,Brazil,True
+2014-06-22 00:00:00,China PR,North Macedonia,0,0,Friendly,Jinan,China PR,False
+2014-06-22 00:00:00,South Korea,Algeria,2,4,FIFA World Cup,Porto Alegre,Brazil,True
+2014-06-22 00:00:00,United States,Portugal,2,2,FIFA World Cup,Manaus,Brazil,True
+2014-06-23 00:00:00,Australia,Spain,0,3,FIFA World Cup,Curitiba,Brazil,True
+2014-06-23 00:00:00,Brazil,Cameroon,4,1,FIFA World Cup,Bras√≠lia,Brazil,False
+2014-06-23 00:00:00,Croatia,Mexico,1,3,FIFA World Cup,Recife,Brazil,True
+2014-06-23 00:00:00,Netherlands,Chile,2,0,FIFA World Cup,S√£o Paulo,Brazil,True
+2014-06-24 00:00:00,Costa Rica,England,0,0,FIFA World Cup,Belo Horizonte,Brazil,True
+2014-06-24 00:00:00,Greece,Ivory Coast,2,1,FIFA World Cup,Fortaleza,Brazil,True
+2014-06-24 00:00:00,Italy,Uruguay,0,1,FIFA World Cup,Natal,Brazil,True
+2014-06-24 00:00:00,Japan,Colombia,1,4,FIFA World Cup,Cuiab√°,Brazil,True
+2014-06-25 00:00:00,Bosnia and Herzegovina,Iran,3,1,FIFA World Cup,Salvador,Brazil,True
+2014-06-25 00:00:00,Ecuador,France,0,0,FIFA World Cup,Rio de Janeiro,Brazil,True
+2014-06-25 00:00:00,Honduras,Switzerland,0,3,FIFA World Cup,Manaus,Brazil,True
+2014-06-25 00:00:00,Indonesia,Nepal,2,0,Friendly,Malang,Indonesia,False
+2014-06-25 00:00:00,Nigeria,Argentina,2,3,FIFA World Cup,Porto Alegre,Brazil,True
+2014-06-26 00:00:00,Algeria,Russia,1,1,FIFA World Cup,Curitiba,Brazil,True
+2014-06-26 00:00:00,South Korea,Belgium,0,1,FIFA World Cup,S√£o Paulo,Brazil,True
+2014-06-26 00:00:00,Portugal,Ghana,2,1,FIFA World Cup,Bras√≠lia,Brazil,True
+2014-06-26 00:00:00,United States,Germany,0,1,FIFA World Cup,Recife,Brazil,True
+2014-06-28 00:00:00,Brazil,Chile,1,1,FIFA World Cup,Belo Horizonte,Brazil,False
+2014-06-28 00:00:00,Colombia,Uruguay,2,0,FIFA World Cup,Rio de Janeiro,Brazil,True
+2014-06-29 00:00:00,China PR,Mali,1,3,Friendly,Shenzhen,China PR,False
+2014-06-29 00:00:00,Costa Rica,Greece,1,1,FIFA World Cup,Recife,Brazil,True
+2014-06-29 00:00:00,Netherlands,Mexico,2,1,FIFA World Cup,Fortaleza,Brazil,True
+2014-06-30 00:00:00,France,Nigeria,2,0,FIFA World Cup,Bras√≠lia,Brazil,True
+2014-06-30 00:00:00,Germany,Algeria,2,1,FIFA World Cup,Porto Alegre,Brazil,True
+2014-07-01 00:00:00,Argentina,Switzerland,1,0,FIFA World Cup,S√£o Paulo,Brazil,True
+2014-07-01 00:00:00,Belgium,United States,2,1,FIFA World Cup,Salvador,Brazil,True
+2014-07-02 00:00:00,Vietnam,Myanmar,6,0,Friendly,Th·ªß D·∫ßu M·ªôt,Vietnam,False
+2014-07-04 00:00:00,Brazil,Colombia,2,1,FIFA World Cup,Fortaleza,Brazil,False
+2014-07-04 00:00:00,France,Germany,0,1,FIFA World Cup,Rio de Janeiro,Brazil,True
+2014-07-05 00:00:00,Argentina,Belgium,1,0,FIFA World Cup,Bras√≠lia,Brazil,True
+2014-07-05 00:00:00,Netherlands,Costa Rica,0,0,FIFA World Cup,Salvador,Brazil,True
+2014-07-06 00:00:00,Malawi,Mozambique,1,1,Friendly,Lilongwe,Malawi,False
+2014-07-08 00:00:00,Brazil,Germany,1,7,FIFA World Cup,Belo Horizonte,Brazil,False
+2014-07-09 00:00:00,Netherlands,Argentina,0,0,FIFA World Cup,S√£o Paulo,Brazil,True
+2014-07-11 00:00:00,Uganda,Seychelles,1,0,Friendly,Kampala,Uganda,False
+2014-07-12 00:00:00,Brazil,Netherlands,0,3,FIFA World Cup,Bras√≠lia,Brazil,False
+2014-07-12 00:00:00,Rwanda,Gabon,1,0,Friendly,Kigali,Rwanda,False
+2014-07-13 00:00:00,Germany,Argentina,1,0,FIFA World Cup,Rio de Janeiro,Brazil,True
+2014-07-14 00:00:00,Botswana,Lesotho,2,0,Friendly,Gaborone,Botswana,False
+2014-07-14 00:00:00,Qatar,Indonesia,2,2,Friendly,Al Wakrah,Qatar,False
+2014-07-15 00:00:00,Kenya,Burundi,0,0,Friendly,Nairobi,Kenya,False
+2014-07-15 00:00:00,Uganda,Malawi,0,0,Friendly,Kampala,Uganda,False
+2014-07-19 00:00:00,Botswana,Guinea-Bissau,2,0,African Cup of Nations qualification,Gaborone,Botswana,False
+2014-07-19 00:00:00,Sierra Leone,Seychelles,2,0,African Cup of Nations qualification,Freetown,Sierra Leone,False
+2014-07-19 00:00:00,Uganda,Mauritania,2,0,African Cup of Nations qualification,Kampala,Uganda,False
+2014-07-20 00:00:00,Benin,Malawi,1,0,African Cup of Nations qualification,Cotonou,Benin,False
+2014-07-20 00:00:00,Congo,Rwanda,2,0,African Cup of Nations qualification,Pointe-Noire,Congo,False
+2014-07-20 00:00:00,Lesotho,Kenya,1,0,African Cup of Nations qualification,Maseru,Lesotho,False
+2014-07-20 00:00:00,Tanzania,Mozambique,2,2,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+2014-07-21 00:00:00,Guam,Macau,0,0,EAFF Championship,Dededo,Guam,False
+2014-07-21 00:00:00,Mongolia,Northern Mariana Islands,4,0,EAFF Championship,Dededo,Guam,True
+2014-07-23 00:00:00,Guam,Mongolia,2,0,EAFF Championship,Dededo,Guam,False
+2014-07-23 00:00:00,Northern Mariana Islands,Macau,2,1,EAFF Championship,Dededo,Guam,True
+2014-07-25 00:00:00,Guam,Northern Mariana Islands,5,0,EAFF Championship,Dededo,Guam,False
+2014-07-25 00:00:00,Macau,Mongolia,3,2,EAFF Championship,Dededo,Guam,True
+2014-07-27 00:00:00,Gabon,Rwanda,0,1,Friendly,Libreville,Gabon,False
+2014-08-02 00:00:00,Guinea-Bissau,Botswana,1,1,African Cup of Nations qualification,Bissau,Guinea-Bissau,False
+2014-08-02 00:00:00,Malawi,Benin,1,0,African Cup of Nations qualification,Blantyre,Malawi,False
+2014-08-02 00:00:00,Rwanda,Congo,2,0,African Cup of Nations qualification,Kigali,Rwanda,False
+2014-08-03 00:00:00,Kenya,Lesotho,0,0,African Cup of Nations qualification,Nairobi,Kenya,False
+2014-08-03 00:00:00,Mauritania,Uganda,0,1,African Cup of Nations qualification,Nouakchott,Mauritania,False
+2014-08-03 00:00:00,Mozambique,Tanzania,2,1,African Cup of Nations qualification,Maputo,Mozambique,False
+2014-08-08 00:00:00,Tajikistan,Malaysia,4,1,Friendly,Dushanbe,Tajikistan,False
+2014-08-12 00:00:00,Kazakhstan,Tajikistan,2,1,Friendly,Almaty,Kazakhstan,False
+2014-08-13 00:00:00,Angola,Botswana,0,0,Friendly,Luanda,Angola,False
+2014-08-14 00:00:00,Guatemala,Nicaragua,3,0,Friendly,Antigua Guatemala,Guatemala,False
+2014-08-16 00:00:00,British Virgin Islands,Saint Martin,2,4,Friendly,Road Town,British Virgin Islands,False
+2014-08-20 00:00:00,Azerbaijan,Uzbekistan,0,0,Friendly,Baku,Azerbaijan,False
+2014-08-20 00:00:00,Panama,Cuba,4,0,Friendly,Panama City,Panama,False
+2014-08-23 00:00:00,Guatemala,Cuba,1,0,Friendly,Guatemala,Guatemala,False
+2014-08-24 00:00:00,French Guiana,Suriname,0,1,Friendly,Saint-Laurent-du-Maroni,French Guiana,False
+2014-08-26 00:00:00,Seychelles,Sri Lanka,1,2,Friendly,Victoria,Seychelles,False
+2014-08-26 00:00:00,Saint Lucia,Martinique,0,2,Friendly,Gros Islet,Saint Lucia,False
+2014-08-27 00:00:00,Norway,United Arab Emirates,0,0,Friendly,Stavanger,Norway,False
+2014-08-28 00:00:00,Seychelles,Sri Lanka,3,0,Friendly,Victoria,Seychelles,False
+2014-08-28 00:00:00,Saint Lucia,Martinique,0,1,Friendly,Gros Islet,Saint Lucia,False
+2014-08-30 00:00:00,Egypt,Kenya,1,0,Friendly,Aswan,Egypt,False
+2014-08-30 00:00:00,El Salvador,Dominican Republic,2,0,Friendly,San Salvador,El Salvador,False
+2014-08-31 00:00:00,Zambia,Sudan,3,1,Friendly,Lusaka,Zambia,False
+2014-09-02 00:00:00,Niger,Uganda,2,0,Friendly,Niamey,Niger,False
+2014-09-03 00:00:00,Myanmar,Palestine,4,1,Friendly,Manila,Philippines,True
+2014-09-03 00:00:00,Costa Rica,Nicaragua,3,0,UNCAF Cup,Washington,United States,True
+2014-09-03 00:00:00,Czech Republic,United States,0,1,Friendly,Prague,Czech Republic,False
+2014-09-03 00:00:00,Denmark,Turkey,1,2,Friendly,Odense,Denmark,False
+2014-09-03 00:00:00,England,Norway,1,0,Friendly,London,England,False
+2014-09-03 00:00:00,Germany,Argentina,2,4,Friendly,D√ºsseldorf,Germany,False
+2014-09-03 00:00:00,Grenada,French Guiana,1,1,CFU Caribbean Cup qualification,Bayam√≥n,Puerto Rico,True
+2014-09-03 00:00:00,Guyana,Dominica,0,0,CFU Caribbean Cup qualification,Basseterre,Saint Kitts and Nevis,True
+2014-09-03 00:00:00,Republic of Ireland,Oman,2,0,Friendly,Dublin,Republic of Ireland,False
+2014-09-03 00:00:00,Latvia,Armenia,2,0,Friendly,Riga,Latvia,False
+2014-09-03 00:00:00,Lithuania,United Arab Emirates,1,1,Friendly,Matrei in Osttirol,Austria,True
+2014-09-03 00:00:00,Morocco,Qatar,0,0,Friendly,Rabat,Morocco,False
+2014-09-03 00:00:00,Philippines,Taiwan,5,1,Friendly,Manila,Philippines,False
+2014-09-03 00:00:00,Puerto Rico,Cura√ßao,2,2,CFU Caribbean Cup qualification,Bayam√≥n,Puerto Rico,False
+2014-09-03 00:00:00,Russia,Azerbaijan,4,0,Friendly,Khimki,Russia,False
+2014-09-03 00:00:00,Ukraine,Moldova,1,0,Friendly,Kyiv,Ukraine,False
+2014-09-04 00:00:00,Belarus,Tajikistan,6,1,Friendly,Barysaw,Belarus,False
+2014-09-04 00:00:00,Belgium,Australia,2,0,Friendly,Li√®ge,Belgium,False
+2014-09-04 00:00:00,Bosnia and Herzegovina,Liechtenstein,3,0,Friendly,Tuzla,Bosnia and Herzegovina,False
+2014-09-04 00:00:00,China PR,Kuwait,3,1,Friendly,Anshan,China PR,False
+2014-09-04 00:00:00,Croatia,Cyprus,2,0,Friendly,Pula,Croatia,False
+2014-09-04 00:00:00,France,Spain,1,0,Friendly,Saint-Denis,France,False
+2014-09-04 00:00:00,Iraq,Peru,0,2,Friendly,Dubai,United Arab Emirates,True
+2014-09-04 00:00:00,Italy,Netherlands,2,0,Friendly,Bari,Italy,False
+2014-09-04 00:00:00,Slovakia,Malta,1,0,Friendly,≈Ωilina,Slovakia,False
+2014-09-04 00:00:00,Sweden,Estonia,2,0,Friendly,Solna,Sweden,False
+2014-09-04 00:00:00,Uzbekistan,Jordan,2,0,Friendly,Tashkent,Uzbekistan,False
+2014-09-05 00:00:00,Cura√ßao,Grenada,2,1,CFU Caribbean Cup qualification,Bayam√≥n,Puerto Rico,True
+2014-09-05 00:00:00,Guinea,Togo,2,1,African Cup of Nations qualification,Casablanca,Morocco,True
+2014-09-05 00:00:00,Japan,Uruguay,0,2,Kirin Challenge Cup,Sapporo,Japan,False
+2014-09-05 00:00:00,Kazakhstan,Kyrgyzstan,7,1,Friendly,Astana,Kazakhstan,False
+2014-09-05 00:00:00,South Korea,Venezuela,3,1,Friendly,Bucheon,South Korea,False
+2014-09-05 00:00:00,Puerto Rico,French Guiana,1,2,CFU Caribbean Cup qualification,Bayam√≥n,Puerto Rico,False
+2014-09-05 00:00:00,Senegal,Egypt,2,0,African Cup of Nations qualification,Dakar,Senegal,False
+2014-09-05 00:00:00,Saint Kitts and Nevis,Dominica,5,0,CFU Caribbean Cup qualification,Basseterre,Saint Kitts and Nevis,False
+2014-09-05 00:00:00,Saint Lucia,Guyana,2,0,CFU Caribbean Cup qualification,Basseterre,Saint Kitts and Nevis,True
+2014-09-05 00:00:00,Saint Vincent and the Grenadines,Anguilla,4,0,CFU Caribbean Cup qualification,St. John's,Antigua and Barbuda,True
+2014-09-05 00:00:00,Sudan,South Africa,0,3,African Cup of Nations qualification,Omdurman,Sudan,False
+2014-09-05 00:00:00,Suriname,Bonaire,2,3,CFU Caribbean Cup qualification,Rivi√®re-Pilote,Martinique,True
+2014-09-06 00:00:00,Burkina Faso,Lesotho,2,0,African Cup of Nations qualification,Ouagadougou,Burkina Faso,False
+2014-09-06 00:00:00,DR Congo,Cameroon,0,2,African Cup of Nations qualification,Lubumbashi,DR Congo,False
+2014-09-06 00:00:00,Ethiopia,Algeria,1,2,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+2014-09-06 00:00:00,Gabon,Angola,1,0,African Cup of Nations qualification,Libreville,Gabon,False
+2014-09-06 00:00:00,Ghana,Uganda,1,1,African Cup of Nations qualification,Kumasi,Ghana,False
+2014-09-06 00:00:00,Ivory Coast,Sierra Leone,2,1,African Cup of Nations qualification,Abidjan,Ivory Coast,False
+2014-09-06 00:00:00,Mexico,Chile,0,0,Friendly,Santa Clara,United States,True
+2014-09-06 00:00:00,Niger,Cape Verde,1,3,African Cup of Nations qualification,Niamey,Niger,False
+2014-09-06 00:00:00,Nigeria,Congo,2,3,African Cup of Nations qualification,Calabar,Nigeria,False
+2014-09-06 00:00:00,Palestine,Taiwan,7,3,Friendly,Manila,Philippines,True
+2014-09-06 00:00:00,Philippines,Myanmar,2,3,Friendly,Manila,Philippines,False
+2014-09-06 00:00:00,Singapore,Papua New Guinea,2,1,Friendly,Hougang,Singapore,False
+2014-09-06 00:00:00,Tunisia,Botswana,2,1,African Cup of Nations qualification,Monastir,Tunisia,False
+2014-09-06 00:00:00,Vietnam,Hong Kong,3,1,Friendly,H·∫£i Ph√≤ng,Vietnam,False
+2014-09-06 00:00:00,Zambia,Mozambique,0,0,African Cup of Nations qualification,Ndola,Zambia,False
+2014-09-07 00:00:00,Bonaire,Barbados,1,4,CFU Caribbean Cup qualification,Fort-de-France,Martinique,True
+2014-09-07 00:00:00,Burundi,Tanzania,2,0,Friendly,Bujumbura,Burundi,False
+2014-09-07 00:00:00,Costa Rica,Panama,2,2,UNCAF Cup,Dallas,United States,True
+2014-09-07 00:00:00,Denmark,Armenia,2,1,UEFA Euro qualification,Copenhagen,Denmark,False
+2014-09-07 00:00:00,Dominica,Saint Lucia,1,2,CFU Caribbean Cup qualification,Basseterre,Saint Kitts and Nevis,True
+2014-09-07 00:00:00,Faroe Islands,Finland,1,3,UEFA Euro qualification,T√≥rshavn,Faroe Islands,False
+2014-09-07 00:00:00,French Guiana,Cura√ßao,0,0,CFU Caribbean Cup qualification,Bayam√≥n,Puerto Rico,True
+2014-09-07 00:00:00,Georgia,Republic of Ireland,1,2,UEFA Euro qualification,Tbilisi,Georgia,False
+2014-09-07 00:00:00,Germany,Scotland,2,1,UEFA Euro qualification,Dortmund,Germany,False
+2014-09-07 00:00:00,Gibraltar,Poland,0,7,UEFA Euro qualification,Faro,Portugal,True
+2014-09-07 00:00:00,Greece,Romania,0,1,UEFA Euro qualification,Piraeus,Greece,False
+2014-09-07 00:00:00,Hungary,Northern Ireland,1,2,UEFA Euro qualification,Budapest,Hungary,False
+2014-09-07 00:00:00,Kosovo,Oman,1,0,Friendly,Pristina,Kosovo,False
+2014-09-07 00:00:00,Mali,Malawi,2,0,African Cup of Nations qualification,Bamako,Mali,False
+2014-09-07 00:00:00,Morocco,Libya,3,0,Friendly,Marrakech,Morocco,False
+2014-09-07 00:00:00,Paraguay,United Arab Emirates,0,0,Friendly,Villach,Austria,True
+2014-09-07 00:00:00,Portugal,Albania,0,1,UEFA Euro qualification,Aveiro,Portugal,False
+2014-09-07 00:00:00,Puerto Rico,Grenada,2,2,CFU Caribbean Cup qualification,Bayam√≥n,Puerto Rico,False
+2014-09-07 00:00:00,Serbia,France,1,1,Friendly,Belgrade,Serbia,False
+2014-09-08 00:00:00,Australia,Saudi Arabia,3,2,Friendly,London,England,True
+2014-09-08 00:00:00,Austria,Sweden,1,1,UEFA Euro qualification,Vienna,Austria,False
+2014-09-08 00:00:00,Estonia,Slovenia,1,0,UEFA Euro qualification,Tallinn,Estonia,False
+2014-09-08 00:00:00,South Korea,Uruguay,0,1,Friendly,Goyang,South Korea,False
+2014-09-08 00:00:00,Luxembourg,Belarus,1,1,UEFA Euro qualification,Luxembourg,Luxembourg,False
+2014-09-08 00:00:00,Montenegro,Moldova,2,0,UEFA Euro qualification,Podgorica,Montenegro,False
+2014-09-08 00:00:00,Russia,Liechtenstein,4,0,UEFA Euro qualification,Khimki,Russia,False
+2014-09-08 00:00:00,San Marino,Lithuania,0,2,UEFA Euro qualification,Serravalle,San Marino,False
+2014-09-08 00:00:00,Spain,North Macedonia,5,1,UEFA Euro qualification,Valencia,Spain,False
+2014-09-08 00:00:00,Switzerland,England,0,2,UEFA Euro qualification,Basel,Switzerland,False
+2014-09-08 00:00:00,Ukraine,Slovakia,0,1,UEFA Euro qualification,Kyiv,Ukraine,False
+2014-09-08 00:00:00,Uzbekistan,New Zealand,3,1,Friendly,Tashkent,Uzbekistan,False
+2014-09-09 00:00:00,Andorra,Wales,1,2,UEFA Euro qualification,Sant Juli√† de L√≤ria,Andorra,False
+2014-09-09 00:00:00,Azerbaijan,Bulgaria,1,2,UEFA Euro qualification,Baku,Azerbaijan,False
+2014-09-09 00:00:00,Bosnia and Herzegovina,Cyprus,1,2,UEFA Euro qualification,Zenica,Bosnia and Herzegovina,False
+2014-09-09 00:00:00,China PR,Jordan,1,1,Friendly,Harbin,China PR,False
+2014-09-09 00:00:00,Croatia,Malta,2,0,UEFA Euro qualification,Zagreb,Croatia,False
+2014-09-09 00:00:00,Czech Republic,Netherlands,2,1,UEFA Euro qualification,Prague,Czech Republic,False
+2014-09-09 00:00:00,Haiti,Chile,0,1,Friendly,Fort Lauderdale,United States,True
+2014-09-09 00:00:00,Iceland,Turkey,3,0,UEFA Euro qualification,Reykjav√≠k,Iceland,False
+2014-09-09 00:00:00,Indonesia,Yemen,0,0,Friendly,Yogyakarta,Indonesia,False
+2014-09-09 00:00:00,Japan,Venezuela,2,2,Friendly,Yokohama,Japan,False
+2014-09-09 00:00:00,Kazakhstan,Latvia,0,0,UEFA Euro qualification,Astana,Kazakhstan,False
+2014-09-09 00:00:00,Kuwait,Bahrain,0,1,Friendly,Al Farwaniyah,Kuwait,False
+2014-09-09 00:00:00,Mexico,Bolivia,1,0,Friendly,Commerce City,United States,True
+2014-09-09 00:00:00,Norway,Italy,0,2,UEFA Euro qualification,Oslo,Norway,False
+2014-09-09 00:00:00,Qatar,Peru,0,2,Friendly,Doha,Qatar,False
+2014-09-09 00:00:00,Singapore,Hong Kong,0,0,Friendly,Hougang,Singapore,False
+2014-09-10 00:00:00,Algeria,Mali,1,0,African Cup of Nations qualification,Blida,Algeria,False
+2014-09-10 00:00:00,Angola,Burkina Faso,0,3,African Cup of Nations qualification,Luanda,Angola,False
+2014-09-10 00:00:00,Botswana,Senegal,0,2,African Cup of Nations qualification,Gaborone,Botswana,False
+2014-09-10 00:00:00,Cameroon,Ivory Coast,4,1,African Cup of Nations qualification,Yaound√©,Cameroon,False
+2014-09-10 00:00:00,Cape Verde,Zambia,2,1,African Cup of Nations qualification,Praia,Cape Verde,False
+2014-09-10 00:00:00,Congo,Sudan,2,0,African Cup of Nations qualification,Pointe-Noire,Congo,False
+2014-09-10 00:00:00,DR Congo,Sierra Leone,2,0,African Cup of Nations qualification,Lubumbashi,DR Congo,False
+2014-09-10 00:00:00,Egypt,Tunisia,0,1,African Cup of Nations qualification,Cairo,Egypt,False
+2014-09-10 00:00:00,Lesotho,Gabon,1,1,African Cup of Nations qualification,Maseru,Lesotho,False
+2014-09-10 00:00:00,Malawi,Ethiopia,3,2,African Cup of Nations qualification,Blantyre,Malawi,False
+2014-09-10 00:00:00,Mozambique,Niger,1,1,African Cup of Nations qualification,Maputo,Mozambique,False
+2014-09-10 00:00:00,South Africa,Nigeria,0,0,African Cup of Nations qualification,Cape Town,South Africa,False
+2014-09-10 00:00:00,Togo,Ghana,2,3,African Cup of Nations qualification,Lom√©,Togo,False
+2014-09-10 00:00:00,Uganda,Guinea,2,0,African Cup of Nations qualification,Kampala,Uganda,False
+2014-09-14 00:00:00,Indonesia,Malaysia,2,0,Friendly,Sidoarjo,Indonesia,False
+2014-09-20 00:00:00,Malaysia,Cambodia,4,1,Friendly,Shah Alam,Malaysia,False
+2014-09-25 00:00:00,Indonesia,Cambodia,1,0,Friendly,Malang,Indonesia,False
+2014-09-30 00:00:00,Botswana,Zimbabwe,1,0,Friendly,Gaborone,Botswana,False
+2014-10-06 00:00:00,India,Palestine,2,3,Friendly,Siliguri,India,False
+2014-10-06 00:00:00,Qatar,Uzbekistan,3,0,Friendly,Doha,Qatar,False
+2014-10-08 00:00:00,Antigua and Barbuda,Saint Lucia,2,1,CFU Caribbean Cup qualification,Couva,Trinidad and Tobago,True
+2014-10-08 00:00:00,Cura√ßao,Martinique,1,1,CFU Caribbean Cup qualification,Les Abymes,Guadeloupe,True
+2014-10-08 00:00:00,Haiti,French Guiana,2,2,CFU Caribbean Cup qualification,Port-au-Prince,Haiti,False
+2014-10-08 00:00:00,Saint Kitts and Nevis,Barbados,2,3,CFU Caribbean Cup qualification,Port-au-Prince,Haiti,True
+2014-10-08 00:00:00,Trinidad and Tobago,Dominican Republic,6,1,CFU Caribbean Cup qualification,Couva,Trinidad and Tobago,False
+2014-10-09 00:00:00,Belarus,Ukraine,0,2,UEFA Euro qualification,Barysaw,Belarus,False
+2014-10-09 00:00:00,England,San Marino,5,0,UEFA Euro qualification,London,England,False
+2014-10-09 00:00:00,Liechtenstein,Montenegro,0,0,UEFA Euro qualification,Vaduz,Liechtenstein,False
+2014-10-09 00:00:00,Lithuania,Estonia,1,0,UEFA Euro qualification,Vilnius,Lithuania,False
+2014-10-09 00:00:00,North Macedonia,Luxembourg,3,2,UEFA Euro qualification,Skopje,North Macedonia,False
+2014-10-09 00:00:00,Moldova,Austria,1,2,UEFA Euro qualification,Chi»ôinƒÉu,Moldova,False
+2014-10-09 00:00:00,Morocco,Central African Republic,4,0,Friendly,Marrakech,Morocco,False
+2014-10-09 00:00:00,Qatar,Lebanon,5,0,Friendly,Doha,Qatar,False
+2014-10-09 00:00:00,Slovakia,Spain,2,1,UEFA Euro qualification,≈Ωilina,Slovakia,False
+2014-10-09 00:00:00,Slovenia,Switzerland,1,0,UEFA Euro qualification,Maribor,Slovenia,False
+2014-10-09 00:00:00,Sweden,Russia,1,1,UEFA Euro qualification,Solna,Sweden,False
+2014-10-10 00:00:00,Belgium,Andorra,6,0,UEFA Euro qualification,Brussels,Belgium,False
+2014-10-10 00:00:00,Botswana,Egypt,0,2,African Cup of Nations qualification,Gaborone,Botswana,False
+2014-10-10 00:00:00,Bulgaria,Croatia,0,1,UEFA Euro qualification,Sofia,Bulgaria,False
+2014-10-10 00:00:00,China PR,Thailand,3,0,Friendly,Wuhan,China PR,False
+2014-10-10 00:00:00,Cyprus,Israel,1,2,UEFA Euro qualification,Nicosia,Cyprus,False
+2014-10-10 00:00:00,French Guiana,Saint Kitts and Nevis,1,2,CFU Caribbean Cup qualification,Port-au-Prince,Haiti,True
+2014-10-10 00:00:00,Hong Kong,Singapore,2,1,Friendly,Kowloon,Hong Kong,False
+2014-10-10 00:00:00,Italy,Azerbaijan,2,1,UEFA Euro qualification,Palermo,Italy,False
+2014-10-10 00:00:00,Japan,Jamaica,1,0,Friendly,Niigata,Japan,False
+2014-10-10 00:00:00,Jordan,Kuwait,0,1,Friendly,Amman,Jordan,False
+2014-10-10 00:00:00,South Korea,Paraguay,2,0,Friendly,Cheonan,South Korea,False
+2014-10-10 00:00:00,Latvia,Iceland,0,3,UEFA Euro qualification,Riga,Latvia,False
+2014-10-10 00:00:00,Lesotho,Angola,0,0,African Cup of Nations qualification,Maseru,Lesotho,False
+2014-10-10 00:00:00,Malta,Norway,0,3,UEFA Euro qualification,Attard,Malta,False
+2014-10-10 00:00:00,Netherlands,Kazakhstan,3,1,UEFA Euro qualification,Amsterdam,Netherlands,False
+2014-10-10 00:00:00,Oman,Costa Rica,3,4,Friendly,Muscat,Oman,False
+2014-10-10 00:00:00,Saudi Arabia,Uruguay,1,1,Friendly,Jeddah,Saudi Arabia,False
+2014-10-10 00:00:00,Senegal,Tunisia,0,0,African Cup of Nations qualification,Dakar,Senegal,False
+2014-10-10 00:00:00,Saint Vincent and the Grenadines,Cura√ßao,1,0,CFU Caribbean Cup qualification,Les Abymes,Guadeloupe,True
+2014-10-10 00:00:00,Trinidad and Tobago,Saint Lucia,2,0,CFU Caribbean Cup qualification,Couva,Trinidad and Tobago,False
+2014-10-10 00:00:00,Turkey,Czech Republic,1,2,UEFA Euro qualification,Istanbul,Turkey,False
+2014-10-10 00:00:00,United Arab Emirates,Australia,0,0,Friendly,Abu Dhabi,United Arab Emirates,False
+2014-10-10 00:00:00,Uzbekistan,Bahrain,0,0,Friendly,Dubai,United Arab Emirates,True
+2014-10-10 00:00:00,Wales,Bosnia and Herzegovina,0,0,UEFA Euro qualification,Cardiff,Wales,False
+2014-10-10 00:00:00,Yemen,Iraq,1,1,Friendly,Manama,Bahrain,True
+2014-10-11 00:00:00,Albania,Denmark,1,1,UEFA Euro qualification,Elbasan,Albania,False
+2014-10-11 00:00:00,Argentina,Brazil,0,2,Supercl√°sico de las Am√©ricas,Beijing,China PR,True
+2014-10-11 00:00:00,Armenia,Serbia,1,1,UEFA Euro qualification,Yerevan,Armenia,False
+2014-10-11 00:00:00,Cameroon,Sierra Leone,0,0,African Cup of Nations qualification,Yaound√©,Cameroon,False
+2014-10-11 00:00:00,Congo,South Africa,0,2,African Cup of Nations qualification,Pointe-Noire,Congo,False
+2014-10-11 00:00:00,DR Congo,Ivory Coast,1,2,African Cup of Nations qualification,Kinshasa,DR Congo,False
+2014-10-11 00:00:00,Ethiopia,Mali,0,2,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+2014-10-11 00:00:00,Finland,Greece,1,1,UEFA Euro qualification,Helsinki,Finland,False
+2014-10-11 00:00:00,France,Portugal,2,1,Friendly,Saint-Denis,France,False
+2014-10-11 00:00:00,Gabon,Burkina Faso,2,0,African Cup of Nations qualification,Libreville,Gabon,False
+2014-10-11 00:00:00,Guinea,Ghana,1,1,African Cup of Nations qualification,Casablanca,Morocco,True
+2014-10-11 00:00:00,Republic of Ireland,Gibraltar,7,0,UEFA Euro qualification,Dublin,Republic of Ireland,False
+2014-10-11 00:00:00,Malawi,Algeria,0,2,African Cup of Nations qualification,Blantyre,Malawi,False
+2014-10-11 00:00:00,Mozambique,Cape Verde,2,0,African Cup of Nations qualification,Maputo,Mozambique,False
+2014-10-11 00:00:00,Niger,Zambia,0,0,African Cup of Nations qualification,Niamey,Niger,False
+2014-10-11 00:00:00,Northern Ireland,Faroe Islands,2,0,UEFA Euro qualification,Belfast,Northern Ireland,False
+2014-10-11 00:00:00,Poland,Germany,2,0,UEFA Euro qualification,Warsaw,Poland,False
+2014-10-11 00:00:00,Romania,Hungary,1,1,UEFA Euro qualification,Bucharest,Romania,False
+2014-10-11 00:00:00,Scotland,Georgia,1,0,UEFA Euro qualification,Glasgow,Scotland,False
+2014-10-11 00:00:00,Sudan,Nigeria,1,0,African Cup of Nations qualification,Khartoum,Sudan,False
+2014-10-11 00:00:00,Uganda,Togo,0,1,African Cup of Nations qualification,Kampala,Uganda,False
+2014-10-12 00:00:00,Austria,Montenegro,1,0,UEFA Euro qualification,Vienna,Austria,False
+2014-10-12 00:00:00,Barbados,French Guiana,0,2,CFU Caribbean Cup qualification,Port-au-Prince,Haiti,True
+2014-10-12 00:00:00,Belarus,Slovakia,1,3,UEFA Euro qualification,Barysaw,Belarus,False
+2014-10-12 00:00:00,Timor-Leste,Brunei,4,2,AFF Championship,Vientiane,Laos,True
+2014-10-12 00:00:00,Estonia,England,0,1,UEFA Euro qualification,Tallinn,Estonia,False
+2014-10-12 00:00:00,Guadeloupe,Cura√ßao,0,1,CFU Caribbean Cup qualification,Les Abymes,Guadeloupe,False
+2014-10-12 00:00:00,Haiti,Saint Kitts and Nevis,0,0,CFU Caribbean Cup qualification,Port-au-Prince,Haiti,False
+2014-10-12 00:00:00,Laos,Cambodia,3,2,AFF Championship,Vientiane,Laos,False
+2014-10-12 00:00:00,Lithuania,Slovenia,0,2,UEFA Euro qualification,Vilnius,Lithuania,False
+2014-10-12 00:00:00,Luxembourg,Spain,0,4,UEFA Euro qualification,Luxembourg,Luxembourg,False
+2014-10-12 00:00:00,Mexico,Panama,1,0,Friendly,Quer√©taro,Mexico,False
+2014-10-12 00:00:00,Pakistan,Palestine,0,2,Friendly,Lahore,Pakistan,False
+2014-10-12 00:00:00,Philippines,Papua New Guinea,5,0,Friendly,Manila,Philippines,False
+2014-10-12 00:00:00,Russia,Moldova,1,1,UEFA Euro qualification,Moscow,Russia,False
+2014-10-12 00:00:00,Saint Lucia,Dominican Republic,2,3,CFU Caribbean Cup qualification,Couva,Trinidad and Tobago,True
+2014-10-12 00:00:00,Sweden,Liechtenstein,2,0,UEFA Euro qualification,Solna,Sweden,False
+2014-10-12 00:00:00,Tanzania,Benin,4,1,Friendly,Dar es Salaam,Tanzania,False
+2014-10-12 00:00:00,Trinidad and Tobago,Antigua and Barbuda,1,0,CFU Caribbean Cup qualification,Couva,Trinidad and Tobago,False
+2014-10-12 00:00:00,Ukraine,North Macedonia,1,0,UEFA Euro qualification,Lviv,Ukraine,False
+2014-10-13 00:00:00,Andorra,Israel,1,4,UEFA Euro qualification,Sant Juli√† de L√≤ria,Andorra,False
+2014-10-13 00:00:00,Bosnia and Herzegovina,Belgium,1,1,UEFA Euro qualification,Zenica,Bosnia and Herzegovina,False
+2014-10-13 00:00:00,Croatia,Azerbaijan,6,0,UEFA Euro qualification,Osijek,Croatia,False
+2014-10-13 00:00:00,Iceland,Netherlands,2,0,UEFA Euro qualification,Reykjav√≠k,Iceland,False
+2014-10-13 00:00:00,Jordan,Kuwait,1,1,Friendly,Amman,Jordan,False
+2014-10-13 00:00:00,Kazakhstan,Czech Republic,2,4,UEFA Euro qualification,Astana,Kazakhstan,False
+2014-10-13 00:00:00,Latvia,Turkey,1,1,UEFA Euro qualification,Riga,Latvia,False
+2014-10-13 00:00:00,Malta,Italy,0,1,UEFA Euro qualification,Attard,Malta,False
+2014-10-13 00:00:00,Morocco,Kenya,3,0,Friendly,Marrakech,Morocco,False
+2014-10-13 00:00:00,Norway,Bulgaria,2,1,UEFA Euro qualification,Oslo,Norway,False
+2014-10-13 00:00:00,Oman,Uruguay,0,3,Friendly,Muscat,Oman,False
+2014-10-13 00:00:00,Wales,Cyprus,2,1,UEFA Euro qualification,Cardiff,Wales,False
+2014-10-14 00:00:00,Armenia,France,0,3,Friendly,Yerevan,Armenia,False
+2014-10-14 00:00:00,Bahrain,Iraq,0,0,Friendly,Riffa,Bahrain,False
+2014-10-14 00:00:00,Myanmar,Timor-Leste,0,0,AFF Championship,Vientiane,Laos,True
+2014-10-14 00:00:00,China PR,Paraguay,2,1,Friendly,Changsha,China PR,False
+2014-10-14 00:00:00,Denmark,Portugal,0,1,UEFA Euro qualification,Copenhagen,Denmark,False
+2014-10-14 00:00:00,Faroe Islands,Hungary,0,1,UEFA Euro qualification,T√≥rshavn,Faroe Islands,False
+2014-10-14 00:00:00,Finland,Romania,0,2,UEFA Euro qualification,Helsinki,Finland,False
+2014-10-14 00:00:00,Germany,Republic of Ireland,1,1,UEFA Euro qualification,Gelsenkirchen,Germany,False
+2014-10-14 00:00:00,Gibraltar,Georgia,0,3,UEFA Euro qualification,Faro,Portugal,True
+2014-10-14 00:00:00,Greece,Northern Ireland,0,2,UEFA Euro qualification,Piraeus,Greece,False
+2014-10-14 00:00:00,Hong Kong,Argentina,0,7,Friendly,So Kon Po,Hong Kong,False
+2014-10-14 00:00:00,Japan,Brazil,0,4,Friendly,Kallang,Singapore,True
+2014-10-14 00:00:00,South Korea,Costa Rica,1,3,Friendly,Seoul,South Korea,False
+2014-10-14 00:00:00,Laos,Brunei,4,2,AFF Championship,Vientiane,Laos,False
+2014-10-14 00:00:00,Macau,Singapore,2,2,Friendly,Taipa,Macau,False
+2014-10-14 00:00:00,Poland,Scotland,2,2,UEFA Euro qualification,Warsaw,Poland,False
+2014-10-14 00:00:00,Qatar,Australia,1,0,Friendly,Doha,Qatar,False
+2014-10-14 00:00:00,San Marino,Switzerland,0,4,UEFA Euro qualification,Serravalle,San Marino,False
+2014-10-14 00:00:00,Saudi Arabia,Lebanon,1,1,Friendly,Jeddah,Saudi Arabia,False
+2014-10-14 00:00:00,Serbia,Albania,0,3,UEFA Euro qualification,Belgrade,Serbia,False
+2014-10-14 00:00:00,United Arab Emirates,Uzbekistan,0,4,Friendly,Dubai,United Arab Emirates,False
+2014-10-14 00:00:00,United States,Honduras,1,1,Friendly,Boca Raton,United States,False
+2014-10-15 00:00:00,Algeria,Malawi,3,0,African Cup of Nations qualification,Blida,Algeria,False
+2014-10-15 00:00:00,Angola,Lesotho,4,0,African Cup of Nations qualification,Luanda,Angola,False
+2014-10-15 00:00:00,Burkina Faso,Gabon,1,1,African Cup of Nations qualification,Ouagadougou,Burkina Faso,False
+2014-10-15 00:00:00,Cameroon,Sierra Leone,2,0,African Cup of Nations qualification,Yaound√©,Cameroon,False
+2014-10-15 00:00:00,Cape Verde,Mozambique,1,0,African Cup of Nations qualification,Praia,Cape Verde,False
+2014-10-15 00:00:00,Egypt,Botswana,2,0,African Cup of Nations qualification,Cairo,Egypt,False
+2014-10-15 00:00:00,Ghana,Guinea,3,1,African Cup of Nations qualification,Accra,Ghana,False
+2014-10-15 00:00:00,Ivory Coast,DR Congo,3,4,African Cup of Nations qualification,Abidjan,Ivory Coast,False
+2014-10-15 00:00:00,Mali,Ethiopia,2,3,African Cup of Nations qualification,Bamako,Mali,False
+2014-10-15 00:00:00,Nigeria,Sudan,3,1,African Cup of Nations qualification,Abuja,Nigeria,False
+2014-10-15 00:00:00,South Africa,Congo,0,0,African Cup of Nations qualification,Polokwane,South Africa,False
+2014-10-15 00:00:00,Eswatini,Zimbabwe,0,2,Friendly,Lobamba,Eswatini,False
+2014-10-15 00:00:00,Togo,Uganda,1,0,African Cup of Nations qualification,Lom√©,Togo,False
+2014-10-15 00:00:00,Tunisia,Senegal,1,0,African Cup of Nations qualification,Monastir,Tunisia,False
+2014-10-15 00:00:00,Zambia,Niger,3,0,African Cup of Nations qualification,Ndola,Zambia,False
+2014-10-16 00:00:00,Brunei,Myanmar,1,3,AFF Championship,Vientiane,Laos,True
+2014-10-16 00:00:00,Timor-Leste,Cambodia,2,3,AFF Championship,Vientiane,Laos,True
+2014-10-18 00:00:00,Cambodia,Myanmar,0,1,AFF Championship,Vientiane,Laos,True
+2014-10-18 00:00:00,Laos,Timor-Leste,2,0,AFF Championship,Vientiane,Laos,False
+2014-10-20 00:00:00,Cambodia,Brunei,1,0,AFF Championship,Vientiane,Laos,True
+2014-10-20 00:00:00,Laos,Myanmar,1,2,AFF Championship,Vientiane,Laos,False
+2014-10-24 00:00:00,Bangladesh,Sri Lanka,1,1,Friendly,Jessore,Bangladesh,False
+2014-10-25 00:00:00,Zambia,Ivory Coast,1,1,Friendly,Lusaka,Zambia,False
+2014-10-27 00:00:00,Bangladesh,Sri Lanka,1,0,Friendly,Rajshahi,Bangladesh,False
+2014-10-31 00:00:00,North Korea,Kuwait,0,1,Friendly,Dubai,United Arab Emirates,True
+2014-10-31 00:00:00,Philippines,Nepal,3,0,Friendly,Doha,Qatar,True
+2014-11-02 00:00:00,Bahrain,North Korea,2,2,Friendly,Riffa,Bahrain,False
+2014-11-04 00:00:00,Kuwait,Yemen,1,1,Friendly,Abu Dhabi,United Arab Emirates,True
+2014-11-06 00:00:00,Qatar,North Korea,3,1,Friendly,Doha,Qatar,False
+2014-11-06 00:00:00,Saudi Arabia,Palestine,2,0,Friendly,Dammam,Saudi Arabia,False
+2014-11-06 00:00:00,United Arab Emirates,Lebanon,3,2,Friendly,al-Ahsa,Saudi Arabia,True
+2014-11-07 00:00:00,Bahrain,Singapore,2,0,Friendly,Riffa,Bahrain,False
+2014-11-07 00:00:00,Oman,Yemen,2,0,Friendly,Muscat,Oman,False
+2014-11-09 00:00:00,Thailand,Philippines,3,0,Friendly,Nakhon Ratchasima,Thailand,False
+2014-11-09 00:00:00,Uganda,Ethiopia,3,0,Friendly,Kampala,Uganda,False
+2014-11-09 00:00:00,Vietnam,Palestine,1,3,Friendly,Hanoi,Vietnam,False
+2014-11-11 00:00:00,Cuba,French Guiana,1,1,CFU Caribbean Cup,Montego Bay,Jamaica,True
+2014-11-11 00:00:00,Cura√ßao,Trinidad and Tobago,2,3,CFU Caribbean Cup,Montego Bay,Jamaica,True
+2014-11-12 00:00:00,Argentina,Croatia,2,1,Friendly,London,England,True
+2014-11-12 00:00:00,Belgium,Iceland,3,1,Friendly,Brussels,Belgium,False
+2014-11-12 00:00:00,Haiti,Antigua and Barbuda,2,2,CFU Caribbean Cup,Montego Bay,Jamaica,True
+2014-11-12 00:00:00,Netherlands,Mexico,2,3,Friendly,Amsterdam,Netherlands,False
+2014-11-12 00:00:00,Norway,Estonia,0,1,Friendly,Oslo,Norway,False
+2014-11-12 00:00:00,Turkey,Brazil,0,4,Friendly,Istanbul,Turkey,False
+2014-11-13 00:00:00,Cura√ßao,Cuba,2,3,CFU Caribbean Cup,Montego Bay,Jamaica,True
+2014-11-13 00:00:00,North Korea,Hong Kong,2,1,EAFF Championship,Taipei,Taiwan,True
+2014-11-13 00:00:00,Morocco,Benin,6,1,Friendly,Agadir,Morocco,False
+2014-11-13 00:00:00,Saudi Arabia,Qatar,1,1,Gulf Cup,Riyadh,Saudi Arabia,False
+2014-11-13 00:00:00,Singapore,Laos,2,0,Friendly,Yishun,Singapore,False
+2014-11-13 00:00:00,Trinidad and Tobago,French Guiana,4,2,CFU Caribbean Cup,Montego Bay,Jamaica,True
+2014-11-13 00:00:00,Uruguay,Costa Rica,3,3,Friendly,Montevideo,Uruguay,False
+2014-11-13 00:00:00,Yemen,Bahrain,0,0,Gulf Cup,Riyadh,Saudi Arabia,True
+2014-11-14 00:00:00,Botswana,Tunisia,0,0,African Cup of Nations qualification,Gaborone,Botswana,False
+2014-11-14 00:00:00,China PR,New Zealand,1,1,Friendly,Nanchang,China PR,False
+2014-11-14 00:00:00,France,Albania,1,1,Friendly,Rennes,France,False
+2014-11-14 00:00:00,Georgia,Poland,0,4,UEFA Euro qualification,Tbilisi,Georgia,False
+2014-11-14 00:00:00,Germany,Gibraltar,4,0,UEFA Euro qualification,Nuremberg,Germany,False
+2014-11-14 00:00:00,Greece,Faroe Islands,0,1,UEFA Euro qualification,Piraeus,Greece,False
+2014-11-14 00:00:00,Hungary,Finland,1,0,UEFA Euro qualification,Budapest,Hungary,False
+2014-11-14 00:00:00,Iraq,Kuwait,0,1,Gulf Cup,Riyadh,Saudi Arabia,True
+2014-11-14 00:00:00,Ivory Coast,Sierra Leone,5,1,African Cup of Nations qualification,Abidjan,Ivory Coast,False
+2014-11-14 00:00:00,Japan,Honduras,6,0,Friendly,Toyota,Japan,False
+2014-11-14 00:00:00,Jordan,South Korea,0,1,Friendly,Amman,Jordan,False
+2014-11-14 00:00:00,Martinique,Haiti,0,3,CFU Caribbean Cup,Montego Bay,Jamaica,True
+2014-11-14 00:00:00,Paraguay,Peru,2,1,Friendly,Luque,Paraguay,False
+2014-11-14 00:00:00,Philippines,Cambodia,3,0,Friendly,Manila,Philippines,False
+2014-11-14 00:00:00,Portugal,Armenia,1,0,UEFA Euro qualification,Faro,Portugal,False
+2014-11-14 00:00:00,Romania,Northern Ireland,2,0,UEFA Euro qualification,Bucharest,Romania,False
+2014-11-14 00:00:00,Scotland,Republic of Ireland,1,0,UEFA Euro qualification,Glasgow,Scotland,False
+2014-11-14 00:00:00,Serbia,Denmark,1,3,UEFA Euro qualification,Belgrade,Serbia,False
+2014-11-14 00:00:00,United Arab Emirates,Oman,0,0,Gulf Cup,Riyadh,Saudi Arabia,True
+2014-11-14 00:00:00,United States,Colombia,1,2,Friendly,London,England,True
+2014-11-15 00:00:00,Algeria,Ethiopia,3,1,African Cup of Nations qualification,Blida,Algeria,False
+2014-11-15 00:00:00,Angola,Gabon,0,0,African Cup of Nations qualification,Luanda,Angola,False
+2014-11-15 00:00:00,Austria,Russia,1,0,UEFA Euro qualification,Vienna,Austria,False
+2014-11-15 00:00:00,Cameroon,DR Congo,1,0,African Cup of Nations qualification,Yaound√©,Cameroon,False
+2014-11-15 00:00:00,Cape Verde,Niger,3,1,African Cup of Nations qualification,Praia,Cape Verde,False
+2014-11-15 00:00:00,Congo,Nigeria,0,2,African Cup of Nations qualification,Pointe-Noire,Congo,False
+2014-11-15 00:00:00,Egypt,Senegal,0,1,African Cup of Nations qualification,Cairo,Egypt,False
+2014-11-15 00:00:00,England,Slovenia,3,1,UEFA Euro qualification,London,England,False
+2014-11-15 00:00:00,French Guiana,Cura√ßao,4,1,CFU Caribbean Cup,Montego Bay,Jamaica,True
+2014-11-15 00:00:00,Indonesia,Syria,0,2,Friendly,Jakarta,Indonesia,False
+2014-11-15 00:00:00,Lesotho,Burkina Faso,0,1,African Cup of Nations qualification,Maseru,Lesotho,False
+2014-11-15 00:00:00,Luxembourg,Ukraine,0,3,UEFA Euro qualification,Luxembourg,Luxembourg,False
+2014-11-15 00:00:00,North Macedonia,Slovakia,0,2,UEFA Euro qualification,Skopje,North Macedonia,False
+2014-11-15 00:00:00,Malawi,Mali,2,0,African Cup of Nations qualification,Blantyre,Malawi,False
+2014-11-15 00:00:00,Moldova,Liechtenstein,0,1,UEFA Euro qualification,Chi»ôinƒÉu,Moldova,False
+2014-11-15 00:00:00,Montenegro,Sweden,1,1,UEFA Euro qualification,Podgorica,Montenegro,False
+2014-11-15 00:00:00,Mozambique,Zambia,0,1,African Cup of Nations qualification,Maputo,Mozambique,False
+2014-11-15 00:00:00,San Marino,Estonia,0,0,UEFA Euro qualification,Serravalle,San Marino,False
+2014-11-15 00:00:00,South Africa,Sudan,2,1,African Cup of Nations qualification,Nelspruit,South Africa,False
+2014-11-15 00:00:00,Spain,Belarus,3,0,UEFA Euro qualification,Huelva,Spain,False
+2014-11-15 00:00:00,Switzerland,Lithuania,4,0,UEFA Euro qualification,St. Gallen,Switzerland,False
+2014-11-15 00:00:00,Togo,Guinea,1,4,African Cup of Nations qualification,Lom√©,Togo,False
+2014-11-15 00:00:00,Uganda,Ghana,1,0,African Cup of Nations qualification,Kampala,Uganda,False
+2014-11-16 00:00:00,Antigua and Barbuda,Martinique,0,2,CFU Caribbean Cup,Montego Bay,Jamaica,True
+2014-11-16 00:00:00,Azerbaijan,Norway,0,1,UEFA Euro qualification,Baku,Azerbaijan,False
+2014-11-16 00:00:00,Belgium,Wales,0,0,UEFA Euro qualification,Brussels,Belgium,False
+2014-11-16 00:00:00,Bulgaria,Malta,1,1,UEFA Euro qualification,Sofia,Bulgaria,False
+2014-11-16 00:00:00,Cyprus,Andorra,5,0,UEFA Euro qualification,Nicosia,Cyprus,False
+2014-11-16 00:00:00,Czech Republic,Iceland,2,1,UEFA Euro qualification,Plze≈à,Czech Republic,False
+2014-11-16 00:00:00,Guam,North Korea,1,5,EAFF Championship,Taipei,Taiwan,True
+2014-11-16 00:00:00,Israel,Bosnia and Herzegovina,3,0,UEFA Euro qualification,Haifa,Israel,False
+2014-11-16 00:00:00,Italy,Croatia,1,1,UEFA Euro qualification,Milan,Italy,False
+2014-11-16 00:00:00,Morocco,Zimbabwe,2,1,Friendly,Agadir,Morocco,False
+2014-11-16 00:00:00,Netherlands,Latvia,6,0,UEFA Euro qualification,Amsterdam,Netherlands,False
+2014-11-16 00:00:00,Saudi Arabia,Bahrain,3,0,Gulf Cup,Riyadh,Saudi Arabia,False
+2014-11-16 00:00:00,Eswatini,Tanzania,1,1,Friendly,Lobamba,Eswatini,False
+2014-11-16 00:00:00,Turkey,Kazakhstan,3,1,UEFA Euro qualification,Istanbul,Turkey,False
+2014-11-16 00:00:00,Vietnam,Malaysia,3,1,Friendly,Hanoi,Vietnam,False
+2014-11-16 00:00:00,Yemen,Qatar,0,0,Gulf Cup,Riyadh,Saudi Arabia,True
+2014-11-17 00:00:00,Iraq,Oman,1,1,Gulf Cup,Riyadh,Saudi Arabia,True
+2014-11-17 00:00:00,Singapore,Cambodia,4,2,Friendly,Yishun,Singapore,False
+2014-11-17 00:00:00,United Arab Emirates,Kuwait,2,2,Gulf Cup,Riyadh,Saudi Arabia,True
+2014-11-18 00:00:00,Austria,Brazil,1,2,Friendly,Vienna,Austria,False
+2014-11-18 00:00:00,Belarus,Mexico,3,2,Friendly,Barysaw,Belarus,False
+2014-11-18 00:00:00,Bolivia,Venezuela,3,2,Friendly,La Paz,Bolivia,False
+2014-11-18 00:00:00,Chile,Uruguay,1,2,Friendly,Santiago,Chile,False
+2014-11-18 00:00:00,China PR,Honduras,0,0,Friendly,Xi'an,China PR,False
+2014-11-18 00:00:00,Cuba,Haiti,1,2,CFU Caribbean Cup,Montego Bay,Jamaica,True
+2014-11-18 00:00:00,Estonia,Jordan,1,0,Friendly,Tallinn,Estonia,False
+2014-11-18 00:00:00,France,Sweden,1,0,Friendly,Marseille,France,False
+2014-11-18 00:00:00,Greece,Serbia,0,2,Friendly,Periv√≥lia,Greece,False
+2014-11-18 00:00:00,Hungary,Russia,1,2,Friendly,Budapest,Hungary,False
+2014-11-18 00:00:00,Iran,South Korea,1,0,Friendly,Tehran,Iran,False
+2014-11-18 00:00:00,Republic of Ireland,United States,4,1,Friendly,Dublin,Republic of Ireland,False
+2014-11-18 00:00:00,Italy,Albania,1,0,Friendly,Genoa,Italy,False
+2014-11-18 00:00:00,Jamaica,Trinidad and Tobago,0,0,CFU Caribbean Cup,Montego Bay,Jamaica,False
+2014-11-18 00:00:00,Japan,Australia,2,1,Friendly,Osaka,Japan,False
+2014-11-18 00:00:00,Nicaragua,El Salvador,0,2,Friendly,Managua,Nicaragua,False
+2014-11-18 00:00:00,Panama,Canada,0,0,Friendly,Panama City,Panama,False
+2014-11-18 00:00:00,Peru,Paraguay,2,1,Friendly,Lima,Peru,False
+2014-11-18 00:00:00,Portugal,Argentina,1,0,Friendly,Manchester,England,True
+2014-11-18 00:00:00,Romania,Denmark,2,0,Friendly,Bucharest,Romania,False
+2014-11-18 00:00:00,Scotland,England,1,3,Friendly,Glasgow,Scotland,False
+2014-11-18 00:00:00,Slovakia,Finland,2,1,Friendly,≈Ωilina,Slovakia,False
+2014-11-18 00:00:00,Slovenia,Colombia,0,1,Friendly,Ljubljana,Slovenia,False
+2014-11-18 00:00:00,Spain,Germany,0,1,Friendly,Vigo,Spain,False
+2014-11-18 00:00:00,Thailand,New Zealand,2,0,Friendly,Nakhon Ratchasima,Thailand,False
+2014-11-18 00:00:00,Ukraine,Lithuania,0,0,Friendly,Kyiv,Ukraine,False
+2014-11-19 00:00:00,Bahrain,Qatar,0,0,Gulf Cup,Riyadh,Saudi Arabia,True
+2014-11-19 00:00:00,Burkina Faso,Angola,1,1,African Cup of Nations qualification,Ouagadougou,Burkina Faso,False
+2014-11-19 00:00:00,DR Congo,Sierra Leone,3,1,African Cup of Nations qualification,Kinshasa,DR Congo,False
+2014-11-19 00:00:00,Ethiopia,Malawi,0,0,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+2014-11-19 00:00:00,Gabon,Lesotho,4,2,African Cup of Nations qualification,Libreville,Gabon,False
+2014-11-19 00:00:00,Ghana,Togo,3,1,African Cup of Nations qualification,Tamale,Ghana,False
+2014-11-19 00:00:00,Guam,Hong Kong,0,0,EAFF Championship,Taipei,Taiwan,True
+2014-11-19 00:00:00,Guinea,Uganda,2,0,African Cup of Nations qualification,Casablanca,Morocco,True
+2014-11-19 00:00:00,Ivory Coast,Cameroon,0,0,African Cup of Nations qualification,Abidjan,Ivory Coast,False
+2014-11-19 00:00:00,Mali,Algeria,2,0,African Cup of Nations qualification,Bamako,Mali,False
+2014-11-19 00:00:00,Niger,Mozambique,1,1,African Cup of Nations qualification,Niamey,Niger,False
+2014-11-19 00:00:00,Nigeria,South Africa,2,2,African Cup of Nations qualification,Uyo,Nigeria,False
+2014-11-19 00:00:00,Saudi Arabia,Yemen,1,0,Gulf Cup,Riyadh,Saudi Arabia,False
+2014-11-19 00:00:00,Senegal,Botswana,3,0,African Cup of Nations qualification,Dakar,Senegal,False
+2014-11-19 00:00:00,Sudan,Congo,0,1,African Cup of Nations qualification,Khartoum,Sudan,False
+2014-11-19 00:00:00,Tunisia,Egypt,2,1,African Cup of Nations qualification,Monastir,Tunisia,False
+2014-11-19 00:00:00,Zambia,Cape Verde,1,0,African Cup of Nations qualification,Ndola,Zambia,False
+2014-11-20 00:00:00,Kuwait,Oman,0,5,Gulf Cup,Riyadh,Saudi Arabia,True
+2014-11-20 00:00:00,United Arab Emirates,Iraq,2,0,Gulf Cup,Riyadh,Saudi Arabia,True
+2014-11-22 00:00:00,Philippines,Laos,4,1,AFF Championship,Hanoi,Vietnam,True
+2014-11-22 00:00:00,Vietnam,Indonesia,2,2,AFF Championship,Hanoi,Vietnam,False
+2014-11-23 00:00:00,Malaysia,Myanmar,0,0,AFF Championship,Kallang,Singapore,True
+2014-11-23 00:00:00,Oman,Qatar,1,3,Gulf Cup,Riyadh,Saudi Arabia,True
+2014-11-23 00:00:00,Saudi Arabia,United Arab Emirates,3,2,Gulf Cup,Riyadh,Saudi Arabia,False
+2014-11-23 00:00:00,Singapore,Thailand,1,2,AFF Championship,Kallang,Singapore,False
+2014-11-25 00:00:00,Philippines,Indonesia,4,0,AFF Championship,Hanoi,Vietnam,True
+2014-11-25 00:00:00,Vietnam,Laos,3,0,AFF Championship,Hanoi,Vietnam,False
+2014-11-25 00:00:00,United Arab Emirates,Oman,1,0,Gulf Cup,Riyadh,Saudi Arabia,True
+2014-11-26 00:00:00,Malaysia,Thailand,2,3,AFF Championship,Kallang,Singapore,True
+2014-11-26 00:00:00,Saudi Arabia,Qatar,1,2,Gulf Cup,Riyadh,Saudi Arabia,False
+2014-11-26 00:00:00,Singapore,Myanmar,4,2,AFF Championship,Kallang,Singapore,False
+2014-11-28 00:00:00,Indonesia,Laos,5,1,AFF Championship,Hanoi,Vietnam,True
+2014-11-28 00:00:00,Vietnam,Philippines,3,1,AFF Championship,Hanoi,Vietnam,False
+2014-11-29 00:00:00,Singapore,Malaysia,1,3,AFF Championship,Kallang,Singapore,False
+2014-11-29 00:00:00,Thailand,Myanmar,2,0,AFF Championship,Kallang,Singapore,True
+2014-11-30 00:00:00,South Africa,Ivory Coast,2,0,Friendly,Nelspruit,South Africa,False
+2014-12-06 00:00:00,Philippines,Thailand,0,0,AFF Championship,Manila,Philippines,False
+2014-12-07 00:00:00,Malaysia,Vietnam,1,2,AFF Championship,Shah Alam,Malaysia,False
+2014-12-10 00:00:00,Thailand,Philippines,3,0,AFF Championship,Bangkok,Thailand,False
+2014-12-11 00:00:00,Vietnam,Malaysia,2,4,AFF Championship,Hanoi,Vietnam,False
+2014-12-13 00:00:00,Uzbekistan,Palestine,1,0,Friendly,Dubai,United Arab Emirates,True
+2014-12-17 00:00:00,Thailand,Malaysia,2,0,AFF Championship,Bangkok,Thailand,False
+2014-12-20 00:00:00,Malaysia,Thailand,3,2,AFF Championship,Shah Alam,Malaysia,False
+2014-12-21 00:00:00,China PR,Palestine,0,0,Friendly,Chenzhou,China PR,False
+2014-12-21 00:00:00,Uzbekistan,Jordan,2,1,Friendly,Dubai,United Arab Emirates,True
+2014-12-22 00:00:00,Iraq,Kuwait,1,1,Friendly,al-Hamriyah,United Arab Emirates,True
+2014-12-25 00:00:00,Uzbekistan,Iraq,0,1,Friendly,Sharjah,United Arab Emirates,True
+2014-12-27 00:00:00,Qatar,Estonia,3,0,Friendly,Doha,Qatar,False
+2014-12-28 00:00:00,Uzbekistan,Iraq,0,0,Friendly,Sharjah,United Arab Emirates,True
+2014-12-28 00:00:00,Basque Country,Catalonia,1,1,Friendly,Bilbao,Spain,False
+2014-12-30 00:00:00,Bahrain,Saudi Arabia,4,1,Friendly,South Geelong,Australia,True
+2014-12-30 00:00:00,United Arab Emirates,Jordan,1,0,Friendly,Robina,Australia,True
+2014-12-31 00:00:00,Qatar,Oman,2,2,Friendly,Canberra,Australia,True
+2015-01-04 00:00:00,Bahrain,Jordan,1,0,Friendly,Ballarat,Australia,True
+2015-01-04 00:00:00,Iran,Iraq,1,0,Friendly,Wollongong,Australia,True
+2015-01-04 00:00:00,South Korea,Saudi Arabia,2,0,Friendly,Parramatta,Australia,True
+2015-01-04 00:00:00,South Africa,Zambia,1,0,Friendly,Johannesburg,South Africa,False
+2015-01-05 00:00:00,China PR,Oman,4,1,Friendly,Penrith,Australia,True
+2015-01-07 00:00:00,Cameroon,DR Congo,1,1,Friendly,Yaound√©,Cameroon,False
+2015-01-09 00:00:00,Australia,Kuwait,4,1,AFC Asian Cup,Melbourne,Australia,False
+2015-01-09 00:00:00,Senegal,Gabon,1,0,Friendly,Casablanca,Morocco,True
+2015-01-10 00:00:00,Burkina Faso,Eswatini,5,1,Friendly,Nelspruit,South Africa,True
+2015-01-10 00:00:00,Cameroon,South Africa,1,1,Friendly,Libreville,Gabon,True
+2015-01-10 00:00:00,Cape Verde,Congo,3,2,Friendly,Dakar,Senegal,True
+2015-01-10 00:00:00,South Korea,Oman,1,0,AFC Asian Cup,Canberra,Australia,True
+2015-01-10 00:00:00,Saudi Arabia,China PR,0,1,AFC Asian Cup,Brisbane,Australia,True
+2015-01-10 00:00:00,Uzbekistan,North Korea,1,0,AFC Asian Cup,Sydney,Australia,True
+2015-01-11 00:00:00,Iran,Bahrain,2,0,AFC Asian Cup,Melbourne,Australia,True
+2015-01-11 00:00:00,Nigeria,Ivory Coast,0,1,Friendly,Abu Dhabi,United Arab Emirates,True
+2015-01-11 00:00:00,Tunisia,Algeria,1,1,Friendly,Rad√®s,Tunisia,False
+2015-01-11 00:00:00,United Arab Emirates,Qatar,4,1,AFC Asian Cup,Canberra,Australia,True
+2015-01-12 00:00:00,Japan,Palestine,4,0,AFC Asian Cup,Newcastle,Australia,True
+2015-01-12 00:00:00,Jordan,Iraq,0,1,AFC Asian Cup,Brisbane,Australia,True
+2015-01-13 00:00:00,Australia,Oman,4,0,AFC Asian Cup,Sydney,Australia,False
+2015-01-13 00:00:00,Botswana,Burkina Faso,0,2,Friendly,Nelspruit,South Africa,True
+2015-01-13 00:00:00,Kuwait,South Korea,0,1,AFC Asian Cup,Canberra,Australia,True
+2015-01-13 00:00:00,Senegal,Guinea,5,2,Friendly,Casablanca,Morocco,True
+2015-01-14 00:00:00,China PR,Uzbekistan,2,1,AFC Asian Cup,Brisbane,Australia,True
+2015-01-14 00:00:00,North Korea,Saudi Arabia,1,4,AFC Asian Cup,Melbourne,Australia,True
+2015-01-14 00:00:00,Mali,South Africa,0,3,Friendly,Libreville,Gabon,True
+2015-01-15 00:00:00,Bahrain,United Arab Emirates,1,2,AFC Asian Cup,Canberra,Australia,True
+2015-01-15 00:00:00,Qatar,Iran,0,1,AFC Asian Cup,Sydney,Australia,True
+2015-01-15 00:00:00,Sweden,Ivory Coast,2,0,Friendly,Abu Dhabi,United Arab Emirates,True
+2015-01-16 00:00:00,Canada,Iceland,1,2,Friendly,Orlando,United States,True
+2015-01-16 00:00:00,Iraq,Japan,0,1,AFC Asian Cup,Brisbane,Australia,True
+2015-01-16 00:00:00,Palestine,Jordan,1,5,AFC Asian Cup,Melbourne,Australia,True
+2015-01-17 00:00:00,Australia,South Korea,0,1,AFC Asian Cup,Brisbane,Australia,False
+2015-01-17 00:00:00,Burkina Faso,Gabon,0,2,African Cup of Nations,Bata,Equatorial Guinea,True
+2015-01-17 00:00:00,Equatorial Guinea,Congo,1,1,African Cup of Nations,Bata,Equatorial Guinea,False
+2015-01-17 00:00:00,Oman,Kuwait,1,0,AFC Asian Cup,Newcastle,Australia,True
+2015-01-17 00:00:00,Yemen,Nigeria,0,2,Friendly,Dubai,United Arab Emirates,True
+2015-01-18 00:00:00,China PR,North Korea,2,1,AFC Asian Cup,Canberra,Australia,True
+2015-01-18 00:00:00,Tunisia,Cape Verde,1,1,African Cup of Nations,Ebebiy√≠n,Equatorial Guinea,True
+2015-01-18 00:00:00,Uzbekistan,Saudi Arabia,3,1,AFC Asian Cup,Melbourne,Australia,True
+2015-01-18 00:00:00,Zambia,DR Congo,1,1,African Cup of Nations,Ebebiy√≠n,Equatorial Guinea,True
+2015-01-19 00:00:00,Algeria,South Africa,3,1,African Cup of Nations,Mongomo,Equatorial Guinea,True
+2015-01-19 00:00:00,Canada,Iceland,1,1,Friendly,Orlando,United States,True
+2015-01-19 00:00:00,Finland,Sweden,1,0,Friendly,Abu Dhabi,United Arab Emirates,True
+2015-01-19 00:00:00,Ghana,Senegal,1,2,African Cup of Nations,Mongomo,Equatorial Guinea,True
+2015-01-19 00:00:00,Iran,United Arab Emirates,1,0,AFC Asian Cup,Brisbane,Australia,True
+2015-01-19 00:00:00,Qatar,Bahrain,1,2,AFC Asian Cup,Sydney,Australia,True
+2015-01-20 00:00:00,Iraq,Palestine,2,0,AFC Asian Cup,Canberra,Australia,True
+2015-01-20 00:00:00,Ivory Coast,Guinea,1,1,African Cup of Nations,Malabo,Equatorial Guinea,True
+2015-01-20 00:00:00,Japan,Jordan,2,0,AFC Asian Cup,Melbourne,Australia,True
+2015-01-20 00:00:00,Mali,Cameroon,1,1,African Cup of Nations,Malabo,Equatorial Guinea,True
+2015-01-21 00:00:00,Equatorial Guinea,Burkina Faso,0,0,African Cup of Nations,Bata,Equatorial Guinea,False
+2015-01-21 00:00:00,Gabon,Congo,0,1,African Cup of Nations,Bata,Equatorial Guinea,True
+2015-01-22 00:00:00,Australia,China PR,2,0,AFC Asian Cup,Brisbane,Australia,False
+2015-01-22 00:00:00,Cape Verde,DR Congo,0,0,African Cup of Nations,Ebebiy√≠n,Equatorial Guinea,True
+2015-01-22 00:00:00,South Korea,Uzbekistan,2,0,AFC Asian Cup,Melbourne,Australia,True
+2015-01-22 00:00:00,Yemen,Finland,0,0,Friendly,Dubai,United Arab Emirates,True
+2015-01-22 00:00:00,Zambia,Tunisia,1,2,African Cup of Nations,Ebebiy√≠n,Equatorial Guinea,True
+2015-01-23 00:00:00,Ghana,Algeria,1,0,African Cup of Nations,Mongomo,Equatorial Guinea,True
+2015-01-23 00:00:00,Iran,Iraq,3,3,AFC Asian Cup,Canberra,Australia,True
+2015-01-23 00:00:00,Japan,United Arab Emirates,1,1,AFC Asian Cup,Sydney,Australia,True
+2015-01-23 00:00:00,South Africa,Senegal,1,1,African Cup of Nations,Mongomo,Equatorial Guinea,True
+2015-01-24 00:00:00,Cameroon,Guinea,1,1,African Cup of Nations,Malabo,Equatorial Guinea,True
+2015-01-24 00:00:00,Ivory Coast,Mali,1,1,African Cup of Nations,Malabo,Equatorial Guinea,True
+2015-01-25 00:00:00,Congo,Burkina Faso,2,1,African Cup of Nations,Ebebiy√≠n,Equatorial Guinea,True
+2015-01-25 00:00:00,Equatorial Guinea,Gabon,2,0,African Cup of Nations,Bata,Equatorial Guinea,False
+2015-01-26 00:00:00,Cape Verde,Zambia,0,0,African Cup of Nations,Ebebiy√≠n,Equatorial Guinea,True
+2015-01-26 00:00:00,DR Congo,Tunisia,1,1,African Cup of Nations,Bata,Equatorial Guinea,True
+2015-01-26 00:00:00,South Korea,Iraq,2,0,AFC Asian Cup,Sydney,Australia,True
+2015-01-27 00:00:00,Australia,United Arab Emirates,2,0,AFC Asian Cup,Newcastle,Australia,False
+2015-01-27 00:00:00,Senegal,Algeria,0,2,African Cup of Nations,Malabo,Equatorial Guinea,True
+2015-01-27 00:00:00,South Africa,Ghana,1,2,African Cup of Nations,Mongomo,Equatorial Guinea,True
+2015-01-28 00:00:00,Cameroon,Ivory Coast,0,1,African Cup of Nations,Malabo,Equatorial Guinea,True
+2015-01-28 00:00:00,Chile,United States,3,2,Friendly,Rancagua,Chile,False
+2015-01-28 00:00:00,Guinea,Mali,1,1,African Cup of Nations,Mongomo,Equatorial Guinea,True
+2015-01-30 00:00:00,Cura√ßao,Aruba,0,0,ABCS Tournament,Paramaribo,Suriname,True
+2015-01-30 00:00:00,Iraq,United Arab Emirates,2,3,AFC Asian Cup,Newcastle,Australia,True
+2015-01-30 00:00:00,Suriname,Bonaire,3,0,ABCS Tournament,Paramaribo,Suriname,False
+2015-01-31 00:00:00,Australia,South Korea,2,1,AFC Asian Cup,Sydney,Australia,False
+2015-01-31 00:00:00,Congo,DR Congo,2,4,African Cup of Nations,Bata,Equatorial Guinea,True
+2015-01-31 00:00:00,Equatorial Guinea,Tunisia,2,1,African Cup of Nations,Bata,Equatorial Guinea,False
+2015-02-01 00:00:00,Cura√ßao,Bonaire,4,1,ABCS Tournament,Paramaribo,Suriname,True
+2015-02-01 00:00:00,Ghana,Guinea,3,0,African Cup of Nations,Malabo,Equatorial Guinea,True
+2015-02-01 00:00:00,Ivory Coast,Algeria,3,1,African Cup of Nations,Malabo,Equatorial Guinea,True
+2015-02-01 00:00:00,Suriname,Aruba,1,0,ABCS Tournament,Paramaribo,Suriname,False
+2015-02-02 00:00:00,Bangladesh,Sri Lanka,1,0,Friendly,Dhaka,Bangladesh,False
+2015-02-04 00:00:00,DR Congo,Ivory Coast,1,3,African Cup of Nations,Bata,Equatorial Guinea,True
+2015-02-04 00:00:00,Honduras,Venezuela,2,3,Friendly,San Pedro Sula,Honduras,False
+2015-02-05 00:00:00,Equatorial Guinea,Ghana,0,3,African Cup of Nations,Malabo,Equatorial Guinea,False
+2015-02-06 00:00:00,Pakistan,Afghanistan,2,1,Friendly,Lahore,Pakistan,False
+2015-02-07 00:00:00,Equatorial Guinea,DR Congo,0,0,African Cup of Nations,Malabo,Equatorial Guinea,False
+2015-02-08 00:00:00,Ivory Coast,Ghana,0,0,African Cup of Nations,Bata,Equatorial Guinea,True
+2015-02-08 00:00:00,United States,Panama,2,0,Friendly,Carson,United States,False
+2015-02-18 00:00:00,Kazakhstan,Moldova,1,1,Friendly,Antalya,Turkey,True
+2015-03-08 00:00:00,Antigua and Barbuda,United States Virgin Islands,2,0,Friendly,St. John's,Antigua and Barbuda,False
+2015-03-08 00:00:00,Bermuda,Grenada,2,0,Friendly,Hamilton,Bermuda,False
+2015-03-12 00:00:00,Cambodia,Macau,3,0,FIFA World Cup qualification,Phnom Penh,Cambodia,False
+2015-03-12 00:00:00,Timor-Leste,Mongolia,0,3,FIFA World Cup qualification,Dili,East Timor,False
+2015-03-12 00:00:00,India,Nepal,2,0,FIFA World Cup qualification,Guwahati,India,False
+2015-03-12 00:00:00,Sri Lanka,Bhutan,0,1,FIFA World Cup qualification,Colombo,Sri Lanka,False
+2015-03-12 00:00:00,Yemen,Pakistan,3,1,FIFA World Cup qualification,Doha,Qatar,True
+2015-03-15 00:00:00,Antigua and Barbuda,Dominica,1,0,Friendly,St. John's,Antigua and Barbuda,False
+2015-03-17 00:00:00,Bhutan,Sri Lanka,2,1,FIFA World Cup qualification,Thimphu,Bhutan,False
+2015-03-17 00:00:00,Brunei,Taiwan,0,2,FIFA World Cup qualification,Bandar Seri Begawan,Brunei,False
+2015-03-17 00:00:00,Macau,Cambodia,1,1,FIFA World Cup qualification,Taipa,Macau,False
+2015-03-17 00:00:00,Mongolia,Timor-Leste,3,0,FIFA World Cup qualification,Ulan Bator,Mongolia,False
+2015-03-17 00:00:00,Nepal,India,0,0,FIFA World Cup qualification,Kathmandu,Nepal,False
+2015-03-22 00:00:00,Antigua and Barbuda,British Virgin Islands,1,0,Friendly,St. John's,Antigua and Barbuda,False
+2015-03-22 00:00:00,Barbados,United States Virgin Islands,0,1,FIFA World Cup qualification,Bridgetown,Barbados,False
+2015-03-23 00:00:00,Pakistan,Yemen,0,0,FIFA World Cup qualification,Isa Town,Bahrain,True
+2015-03-25 00:00:00,Botswana,Lesotho,2,0,Friendly,Gaborone,Botswana,False
+2015-03-25 00:00:00,Denmark,United States,3,2,Friendly,Aarhus,Denmark,False
+2015-03-25 00:00:00,Dominican Republic,Cuba,0,3,Friendly,Santiago de los Caballeros,Dominican Republic,False
+2015-03-25 00:00:00,French Guiana,Honduras,3,1,Gold Cup qualification,Cayenne,French Guiana,False
+2015-03-25 00:00:00,Gabon,Mali,4,3,Friendly,Beauvais,France,True
+2015-03-25 00:00:00,Georgia,Malta,2,0,Friendly,Tbilisi,Georgia,False
+2015-03-25 00:00:00,Germany,Australia,2,2,Friendly,Kaiserslautern,Germany,False
+2015-03-25 00:00:00,Indonesia,Cameroon,0,1,Friendly,Sidoarjo,Indonesia,False
+2015-03-25 00:00:00,Mauritius,Burundi,2,2,Friendly,Curepipe,Mauritius,False
+2015-03-25 00:00:00,Nigeria,Uganda,0,1,Friendly,Uyo,Nigeria,False
+2015-03-25 00:00:00,Scotland,Northern Ireland,1,0,Friendly,Glasgow,Scotland,False
+2015-03-25 00:00:00,Eswatini,South Africa,1,3,Friendly,Lobamba,Eswatini,False
+2015-03-26 00:00:00,Bahrain,Colombia,0,6,Friendly,Riffa,Bahrain,False
+2015-03-26 00:00:00,Chile,Iran,0,2,Friendly,Sankt P√∂lten,Austria,True
+2015-03-26 00:00:00,Egypt,Equatorial Guinea,2,0,Friendly,Cairo,Egypt,False
+2015-03-26 00:00:00,France,Brazil,1,3,Friendly,Saint-Denis,France,False
+2015-03-26 00:00:00,Ivory Coast,Angola,2,0,Friendly,Abidjan,Ivory Coast,False
+2015-03-26 00:00:00,Jordan,Syria,0,1,Friendly,Amman,Jordan,False
+2015-03-26 00:00:00,Maldives,Tajikistan,0,2,Friendly,Mal√©,Maldives,False
+2015-03-26 00:00:00,Oman,Malaysia,6,0,Friendly,Seeb,Oman,False
+2015-03-26 00:00:00,Qatar,Algeria,1,0,Friendly,Doha,Qatar,False
+2015-03-26 00:00:00,Thailand,Singapore,2,0,Friendly,Nakhon Ratchasima,Thailand,False
+2015-03-26 00:00:00,United States Virgin Islands,Barbados,0,4,FIFA World Cup qualification,Charlotte Amalie,United States Virgin Islands,False
+2015-03-27 00:00:00,Canada,Guatemala,1,0,Friendly,Fort Lauderdale,United States,True
+2015-03-27 00:00:00,China PR,Haiti,2,2,Friendly,Changsha,China PR,False
+2015-03-27 00:00:00,Cura√ßao,Montserrat,2,1,FIFA World Cup qualification,Willemstad,Cura√ßao,False
+2015-03-27 00:00:00,England,Lithuania,4,0,UEFA Euro qualification,London,England,False
+2015-03-27 00:00:00,Gambia,Mauritania,1,0,Friendly,Bakau,Gambia,False
+2015-03-27 00:00:00,Japan,Tunisia,2,0,Kirin Challenge Cup,≈åita,Japan,False
+2015-03-27 00:00:00,South Korea,Uzbekistan,1,1,Friendly,Daejeon,South Korea,False
+2015-03-27 00:00:00,Liechtenstein,Austria,0,5,UEFA Euro qualification,Vaduz,Liechtenstein,False
+2015-03-27 00:00:00,North Macedonia,Belarus,1,2,UEFA Euro qualification,Skopje,North Macedonia,False
+2015-03-27 00:00:00,Moldova,Sweden,0,2,UEFA Euro qualification,Chi»ôinƒÉu,Moldova,False
+2015-03-27 00:00:00,Slovakia,Luxembourg,3,0,UEFA Euro qualification,≈Ωilina,Slovakia,False
+2015-03-27 00:00:00,Slovenia,San Marino,6,0,UEFA Euro qualification,Ljubljana,Slovenia,False
+2015-03-27 00:00:00,Spain,Ukraine,1,0,UEFA Euro qualification,Seville,Spain,False
+2015-03-27 00:00:00,Switzerland,Estonia,3,0,UEFA Euro qualification,Lucerne,Switzerland,False
+2015-03-27 00:00:00,Trinidad and Tobago,Panama,0,1,Friendly,Couva,Trinidad and Tobago,False
+2015-03-28 00:00:00,Andorra,Bosnia and Herzegovina,0,3,UEFA Euro qualification,Sant Juli√† de L√≤ria,Andorra,False
+2015-03-28 00:00:00,Azerbaijan,Malta,2,0,UEFA Euro qualification,Baku,Azerbaijan,False
+2015-03-28 00:00:00,Belgium,Cyprus,5,0,UEFA Euro qualification,Brussels,Belgium,False
+2015-03-28 00:00:00,Bulgaria,Italy,2,2,UEFA Euro qualification,Sofia,Bulgaria,False
+2015-03-28 00:00:00,Croatia,Norway,5,1,UEFA Euro qualification,Zagreb,Croatia,False
+2015-03-28 00:00:00,Czech Republic,Latvia,1,1,UEFA Euro qualification,Prague,Czech Republic,False
+2015-03-28 00:00:00,Ghana,Senegal,1,2,Friendly,Le Havre,France,True
+2015-03-28 00:00:00,Hong Kong,Guam,1,0,Friendly,Kowloon,Hong Kong,False
+2015-03-28 00:00:00,Iraq,DR Congo,2,1,Friendly,Sharjah,United Arab Emirates,True
+2015-03-28 00:00:00,Israel,Wales,0,3,UEFA Euro qualification,Haifa,Israel,False
+2015-03-28 00:00:00,Kazakhstan,Iceland,0,3,UEFA Euro qualification,Astana,Kazakhstan,False
+2015-03-28 00:00:00,Mauritius,Togo,1,1,Friendly,Mapou,Mauritius,False
+2015-03-28 00:00:00,Morocco,Uruguay,0,1,Friendly,Agadir,Morocco,False
+2015-03-28 00:00:00,Netherlands,Turkey,1,1,UEFA Euro qualification,Amsterdam,Netherlands,False
+2015-03-29 00:00:00,Albania,Armenia,2,1,UEFA Euro qualification,Elbasan,Albania,False
+2015-03-29 00:00:00,Anguilla,Nicaragua,0,3,FIFA World Cup qualification,The Valley,Anguilla,False
+2015-03-29 00:00:00,Bermuda,Bahamas,3,0,FIFA World Cup qualification,Hamilton,Bermuda,False
+2015-03-29 00:00:00,Botswana,Mozambique,1,2,Friendly,Lobatse,Botswana,False
+2015-03-29 00:00:00,Brazil,Chile,1,0,Friendly,London,England,True
+2015-03-29 00:00:00,Dominica,British Virgin Islands,0,0,FIFA World Cup qualification,Roseau,Dominica,False
+2015-03-29 00:00:00,France,Denmark,2,0,Friendly,Saint-√âtienne,France,False
+2015-03-29 00:00:00,Georgia,Germany,0,2,UEFA Euro qualification,Tbilisi,Georgia,False
+2015-03-29 00:00:00,Guyana,Grenada,2,0,Friendly,Providence,Guyana,False
+2015-03-29 00:00:00,Honduras,French Guiana,3,0,Gold Cup qualification,San Pedro Sula,Honduras,False
+2015-03-29 00:00:00,Hungary,Greece,0,0,UEFA Euro qualification,Budapest,Hungary,False
+2015-03-29 00:00:00,Republic of Ireland,Poland,1,1,UEFA Euro qualification,Dublin,Republic of Ireland,False
+2015-03-29 00:00:00,Ivory Coast,Equatorial Guinea,1,1,Friendly,Abidjan,Ivory Coast,False
+2015-03-29 00:00:00,Northern Ireland,Finland,2,1,UEFA Euro qualification,Belfast,Northern Ireland,False
+2015-03-29 00:00:00,Portugal,Serbia,2,1,UEFA Euro qualification,Lisbon,Portugal,False
+2015-03-29 00:00:00,Romania,Faroe Islands,1,0,UEFA Euro qualification,Ploie»ôti,Romania,False
+2015-03-29 00:00:00,Scotland,Gibraltar,6,1,UEFA Euro qualification,Glasgow,Scotland,False
+2015-03-29 00:00:00,South Africa,Nigeria,1,1,Friendly,Nelspruit,South Africa,False
+2015-03-29 00:00:00,Tanzania,Malawi,1,1,Friendly,Mwanza,Tanzania,False
+2015-03-29 00:00:00,Zambia,Rwanda,2,0,Friendly,Lusaka,Zambia,False
+2015-03-30 00:00:00,Bahrain,Philippines,2,1,Friendly,Riffa,Bahrain,False
+2015-03-30 00:00:00,Belarus,Gabon,0,0,Friendly,Belek,Turkey,True

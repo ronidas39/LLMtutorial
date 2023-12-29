@@ -1,0 +1,1001 @@
+date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
+2011-02-09 00:00:00,Malta,Switzerland,0,0,Friendly,Attard,Malta,False
+2011-02-09 00:00:00,Mexico,Bosnia and Herzegovina,2,0,Friendly,Atlanta,United States,True
+2011-02-09 00:00:00,Morocco,Niger,3,0,Friendly,Marrakech,Morocco,False
+2011-02-09 00:00:00,Mozambique,Botswana,1,1,Friendly,Maputo,Mozambique,False
+2011-02-09 00:00:00,Namibia,Malawi,1,2,Friendly,Windhoek,Namibia,False
+2011-02-09 00:00:00,Netherlands,Austria,3,1,Friendly,Eindhoven,Netherlands,False
+2011-02-09 00:00:00,Nigeria,Sierra Leone,2,1,Friendly,Lagos,Nigeria,False
+2011-02-09 00:00:00,Norway,Poland,0,1,Friendly,Faro,Portugal,True
+2011-02-09 00:00:00,Philippines,Mongolia,2,0,AFC Challenge Cup qualification,Bacolod,Philippines,False
+2011-02-09 00:00:00,San Marino,Liechtenstein,0,1,Friendly,Serravalle,San Marino,False
+2011-02-09 00:00:00,Scotland,Northern Ireland,3,0,Nations Cup,Dublin,Republic of Ireland,True
+2011-02-09 00:00:00,Senegal,Guinea,4,0,Friendly,Dakar,Senegal,False
+2011-02-09 00:00:00,South Africa,Kenya,2,0,Friendly,Rustenburg,South Africa,False
+2011-02-09 00:00:00,Spain,Colombia,1,0,Friendly,Madrid,Spain,False
+2011-02-09 00:00:00,Eswatini,Zambia,0,4,Friendly,Manzini,Eswatini,False
+2011-02-09 00:00:00,Sweden,Ukraine,1,1,Cyprus International Tournament,Nicosia,Cyprus,True
+2011-02-09 00:00:00,Tanzania,Palestine,1,0,Friendly,Dar es Salaam,Tanzania,False
+2011-02-09 00:00:00,Turkey,South Korea,0,0,Friendly,Trabzon,Turkey,False
+2011-02-09 00:00:00,Venezuela,Costa Rica,2,2,Friendly,Puerto la Cruz,Venezuela,False
+2011-02-14 00:00:00,Bahrain,Kuwait,0,0,Friendly,Riffa,Bahrain,False
+2011-02-16 00:00:00,Laos,Taiwan,1,1,AFC Challenge Cup qualification,Vientiane,Laos,False
+2011-02-16 00:00:00,Macau,Cambodia,3,2,AFC Challenge Cup qualification,Macau,Macau,False
+2011-03-11 00:00:00,Gibraltar,Faroe Islands,3,0,Friendly,Gibraltar,Gibraltar,False
+2011-03-15 00:00:00,Mongolia,Philippines,2,1,AFC Challenge Cup qualification,Ulaanbaatar,Mongolia,False
+2011-03-16 00:00:00,Argentina,Venezuela,4,1,Friendly,San Juan,Argentina,False
+2011-03-16 00:00:00,Botswana,Namibia,1,1,Friendly,Maun,Botswana,False
+2011-03-17 00:00:00,Nepal,Bhutan,1,0,Friendly,Pokhara,Nepal,False
+2011-03-19 00:00:00,Nepal,Bhutan,2,1,Friendly,Pokhara,Nepal,False
+2011-03-21 00:00:00,Myanmar,Philippines,1,1,AFC Challenge Cup qualification,Yangon,Myanmar,False
+2011-03-21 00:00:00,India,Taiwan,3,0,AFC Challenge Cup qualification,Petaling Jaya,Malaysia,True
+2011-03-21 00:00:00,Maldives,Cambodia,4,0,AFC Challenge Cup qualification,Mal√©,Maldives,False
+2011-03-21 00:00:00,Palestine,Bangladesh,2,0,AFC Challenge Cup qualification,Yangon,Myanmar,True
+2011-03-21 00:00:00,Tajikistan,Kyrgyzstan,1,0,AFC Challenge Cup qualification,Mal√©,Maldives,True
+2011-03-21 00:00:00,Turkmenistan,Pakistan,3,0,AFC Challenge Cup qualification,Petaling Jaya,Malaysia,True
+2011-03-23 00:00:00,Bhutan,Afghanistan,0,3,AFC Challenge Cup qualification,Gurgaon,India,True
+2011-03-23 00:00:00,Myanmar,Bangladesh,0,2,AFC Challenge Cup qualification,Yangon,Myanmar,False
+2011-03-23 00:00:00,Cambodia,Tajikistan,0,3,AFC Challenge Cup qualification,Mal√©,Maldives,True
+2011-03-23 00:00:00,Maldives,Kyrgyzstan,2,1,AFC Challenge Cup qualification,Mal√©,Maldives,False
+2011-03-23 00:00:00,Pakistan,India,1,3,AFC Challenge Cup qualification,Petaling Jaya,Malaysia,True
+2011-03-23 00:00:00,Philippines,Palestine,0,0,AFC Challenge Cup qualification,Yangon,Myanmar,True
+2011-03-24 00:00:00,Cuba,El Salvador,0,1,Friendly,Havana,Cuba,False
+2011-03-25 00:00:00,Afghanistan,Bhutan,2,0,AFC Challenge Cup qualification,Gurgaon,India,True
+2011-03-25 00:00:00,Austria,Belgium,0,2,UEFA Euro qualification,Vienna,Austria,False
+2011-03-25 00:00:00,Bangladesh,Philippines,0,3,AFC Challenge Cup qualification,Yangon,Myanmar,True
+2011-03-25 00:00:00,Myanmar,Palestine,1,3,AFC Challenge Cup qualification,Yangon,Myanmar,False
+2011-03-25 00:00:00,Cambodia,Kyrgyzstan,3,4,AFC Challenge Cup qualification,Mal√©,Maldives,True
+2011-03-25 00:00:00,China PR,New Zealand,1,1,Friendly,Wuhan,China PR,False
+2011-03-25 00:00:00,Estonia,Uruguay,2,0,Friendly,Tallinn,Estonia,False
+2011-03-25 00:00:00,Hungary,Netherlands,0,4,UEFA Euro qualification,Budapest,Hungary,False
+2011-03-25 00:00:00,Jamaica,Venezuela,0,2,Friendly,Montego Bay,Jamaica,False
+2011-03-25 00:00:00,South Korea,Honduras,4,0,Friendly,Seoul,South Korea,False
+2011-03-25 00:00:00,Lithuania,Poland,2,0,Friendly,Kaunas,Lithuania,False
+2011-03-25 00:00:00,Luxembourg,France,0,2,UEFA Euro qualification,Luxembourg,Luxembourg,False
+2011-03-25 00:00:00,Maldives,Tajikistan,0,0,AFC Challenge Cup qualification,Mal√©,Maldives,False
+2011-03-25 00:00:00,Montenegro,Uzbekistan,1,0,Friendly,Podgorica,Montenegro,False
+2011-03-25 00:00:00,Panama,Bolivia,2,0,Friendly,Panama City,Panama,False
+2011-03-25 00:00:00,Serbia,Northern Ireland,2,1,UEFA Euro qualification,Belgrade,Serbia,False
+2011-03-25 00:00:00,Slovenia,Italy,0,1,UEFA Euro qualification,Ljubljana,Slovenia,False
+2011-03-25 00:00:00,Spain,Czech Republic,2,1,UEFA Euro qualification,Granada,Spain,False
+2011-03-25 00:00:00,Turkmenistan,India,1,1,AFC Challenge Cup qualification,Petaling Jaya,Malaysia,True
+2011-03-26 00:00:00,Albania,Belarus,1,0,UEFA Euro qualification,Tirana,Albania,False
+2011-03-26 00:00:00,Andorra,Slovakia,0,1,UEFA Euro qualification,Sant Juli√† de L√≤ria,Andorra,False
+2011-03-26 00:00:00,Armenia,Russia,0,0,UEFA Euro qualification,Yerevan,Armenia,False
+2011-03-26 00:00:00,Bosnia and Herzegovina,Romania,2,1,UEFA Euro qualification,Zenica,Bosnia and Herzegovina,False
+2011-03-26 00:00:00,Bulgaria,Switzerland,0,0,UEFA Euro qualification,Sofia,Bulgaria,False
+2011-03-26 00:00:00,Burkina Faso,Namibia,4,0,African Cup of Nations qualification,Ouagadougou,Burkina Faso,False
+2011-03-26 00:00:00,Chad,Botswana,0,1,African Cup of Nations qualification,N'Djamena,Chad,False
+2011-03-26 00:00:00,Colombia,Ecuador,2,0,Friendly,Madrid,Spain,True
+2011-03-26 00:00:00,Costa Rica,China PR,2,2,Friendly,San Jos√©,Costa Rica,False
+2011-03-26 00:00:00,Cyprus,Iceland,0,0,UEFA Euro qualification,Nicosia,Cyprus,False
+2011-03-26 00:00:00,Georgia,Croatia,1,0,UEFA Euro qualification,Tbilisi,Georgia,False
+2011-03-26 00:00:00,Germany,Kazakhstan,4,0,UEFA Euro qualification,Kaiserslautern,Germany,False
+2011-03-26 00:00:00,Guinea-Bissau,Uganda,0,1,African Cup of Nations qualification,Bissau,Guinea-Bissau,False
+2011-03-26 00:00:00,Republic of Ireland,North Macedonia,2,1,UEFA Euro qualification,Dublin,Republic of Ireland,False
+2011-03-26 00:00:00,Israel,Latvia,2,1,UEFA Euro qualification,Jaffa,Israel,False
+2011-03-26 00:00:00,Jordan,Kuwait,1,1,Friendly,Sharjah,United Arab Emirates,True
+2011-03-26 00:00:00,Kenya,Angola,2,1,African Cup of Nations qualification,Nairobi,Kenya,False
+2011-03-26 00:00:00,North Korea,Iraq,2,0,Friendly,Sharjah,United Arab Emirates,True
+2011-03-26 00:00:00,Malawi,Togo,1,0,African Cup of Nations qualification,Blantyre,Malawi,False
+2011-03-26 00:00:00,Mali,Zimbabwe,1,0,African Cup of Nations qualification,Bamako,Mali,False
+2011-03-26 00:00:00,Malta,Greece,0,1,UEFA Euro qualification,Attard,Malta,False
+2011-03-26 00:00:00,Mexico,Paraguay,3,1,Friendly,Oakland,United States,True
+2011-03-26 00:00:00,Norway,Denmark,1,1,UEFA Euro qualification,Oslo,Norway,False
+2011-03-26 00:00:00,Portugal,Chile,1,1,Friendly,Leiria,Portugal,False
+2011-03-26 00:00:00,Rwanda,Burundi,3,1,African Cup of Nations qualification,Kigali,Rwanda,False
+2011-03-26 00:00:00,Senegal,Cameroon,1,0,African Cup of Nations qualification,Dakar,Senegal,False
+2011-03-26 00:00:00,South Africa,Egypt,1,0,African Cup of Nations qualification,Johannesburg,South Africa,False
+2011-03-26 00:00:00,United States,Argentina,1,1,Friendly,East Rutherford,United States,False
+2011-03-26 00:00:00,Wales,England,0,2,UEFA Euro qualification,Cardiff,Wales,False
+2011-03-27 00:00:00,Algeria,Morocco,1,0,African Cup of Nations qualification,Annaba,Algeria,False
+2011-03-27 00:00:00,Brazil,Scotland,2,0,Friendly,London,England,True
+2011-03-27 00:00:00,Congo,Ghana,0,3,African Cup of Nations qualification,Brazzaville,Congo,False
+2011-03-27 00:00:00,DR Congo,Mauritius,3,0,African Cup of Nations qualification,Kinshasa,DR Congo,False
+2011-03-27 00:00:00,Ivory Coast,Benin,2,1,African Cup of Nations qualification,Accra,Ghana,True
+2011-03-27 00:00:00,Madagascar,Guinea,1,1,African Cup of Nations qualification,Antananarivo,Madagascar,False
+2011-03-27 00:00:00,Mozambique,Zambia,0,2,African Cup of Nations qualification,Maputo,Mozambique,False
+2011-03-27 00:00:00,Niger,Sierra Leone,3,1,African Cup of Nations qualification,Niamey,Niger,False
+2011-03-27 00:00:00,Nigeria,Ethiopia,4,0,African Cup of Nations qualification,Abuja,Nigeria,False
+2011-03-27 00:00:00,Sri Lanka,Tajikistan,2,2,Friendly,Colombo,Sri Lanka,False
+2011-03-27 00:00:00,Saint Kitts and Nevis,Grenada,0,0,Friendly,Basseterre,Saint Kitts and Nevis,False
+2011-03-27 00:00:00,Sudan,Eswatini,3,0,African Cup of Nations qualification,Omdurman,Sudan,False
+2011-03-28 00:00:00,Guatemala,Bolivia,1,1,Friendly,Mazatenango,Guatemala,False
+2011-03-29 00:00:00,Belarus,Canada,0,1,Friendly,Antalya,Turkey,True
+2011-03-29 00:00:00,Belgium,Azerbaijan,4,1,UEFA Euro qualification,Brussels,Belgium,False
+2011-03-29 00:00:00,China PR,Honduras,3,0,Friendly,Wuhan,China PR,False
+2011-03-29 00:00:00,Colombia,Chile,0,2,Friendly,The Hague,Netherlands,True
+2011-03-29 00:00:00,Costa Rica,Argentina,0,0,Friendly,San Jos√©,Costa Rica,False
+2011-03-29 00:00:00,Cuba,Panama,0,2,Friendly,Havana,Cuba,False
+2011-03-29 00:00:00,Cyprus,Bulgaria,0,1,Friendly,Larnaca,Cyprus,False
+2011-03-29 00:00:00,Czech Republic,Liechtenstein,2,0,UEFA Euro qualification,ƒåesk√© Budƒõjovice,Czech Republic,False
+2011-03-29 00:00:00,Ecuador,Peru,0,0,Friendly,The Hague,Netherlands,True
+2011-03-29 00:00:00,El Salvador,Jamaica,2,3,Friendly,San Salvador,El Salvador,False
+2011-03-29 00:00:00,England,Ghana,1,1,Friendly,London,England,False
+2011-03-29 00:00:00,Equatorial Guinea,Gambia,1,0,Friendly,Malabo,Equatorial Guinea,False
+2011-03-29 00:00:00,Estonia,Serbia,1,1,UEFA Euro qualification,Tallinn,Estonia,False
+2011-03-29 00:00:00,France,Croatia,0,0,Friendly,Saint-Denis,France,False
+2011-03-29 00:00:00,Germany,Australia,1,2,Friendly,M√∂nchengladbach,Germany,False
+2011-03-29 00:00:00,Greece,Poland,0,0,Friendly,Piraeus,Greece,False
+2011-03-29 00:00:00,Republic of Ireland,Uruguay,2,3,Friendly,Dublin,Republic of Ireland,False
+2011-03-29 00:00:00,Israel,Georgia,1,0,UEFA Euro qualification,Jaffa,Israel,False
+2011-03-29 00:00:00,Jordan,North Korea,1,1,Friendly,Sharjah,United Arab Emirates,True
+2011-03-29 00:00:00,Kuwait,Iraq,1,0,Friendly,Sharjah,United Arab Emirates,True
+2011-03-29 00:00:00,Lithuania,Spain,1,3,UEFA Euro qualification,Kaunas,Lithuania,False
+2011-03-29 00:00:00,Mexico,Venezuela,1,1,Friendly,San Diego,United States,True
+2011-03-29 00:00:00,Netherlands,Hungary,5,3,UEFA Euro qualification,Amsterdam,Netherlands,False
+2011-03-29 00:00:00,Nigeria,Kenya,3,0,Friendly,Abuja,Nigeria,False
+2011-03-29 00:00:00,Northern Ireland,Slovenia,0,0,UEFA Euro qualification,Belfast,Northern Ireland,False
+2011-03-29 00:00:00,Oman,Tunisia,2,1,Friendly,Muscat,Oman,False
+2011-03-29 00:00:00,Portugal,Finland,2,0,Friendly,Aveiro,Portugal,False
+2011-03-29 00:00:00,Qatar,Russia,1,1,Friendly,Doha,Qatar,False
+2011-03-29 00:00:00,Romania,Luxembourg,3,1,UEFA Euro qualification,Piatra Neam≈£,Romania,False
+2011-03-29 00:00:00,Slovakia,Denmark,1,2,Friendly,Trnava,Slovakia,False
+2011-03-29 00:00:00,Sri Lanka,Tajikistan,0,2,Friendly,Colombo,Sri Lanka,False
+2011-03-29 00:00:00,Sweden,Moldova,2,1,UEFA Euro qualification,Solna,Sweden,False
+2011-03-29 00:00:00,Turkey,Austria,2,0,UEFA Euro qualification,Istanbul,Turkey,False
+2011-03-29 00:00:00,Ukraine,Italy,0,2,Friendly,Kyiv,Ukraine,False
+2011-03-29 00:00:00,United States,Paraguay,0,1,Friendly,Nashville,United States,False
+2011-04-02 00:00:00,Grenada,Saint Kitts and Nevis,0,1,Friendly,St. George's,Grenada,False
+2011-04-03 00:00:00,Tahiti,New Caledonia,1,3,Friendly,Papeete,French Polynesia,False
+2011-04-07 00:00:00,North Korea,Sri Lanka,4,0,AFC Challenge Cup qualification,Kathmandu,Nepal,True
+2011-04-07 00:00:00,Nepal,Afghanistan,1,0,AFC Challenge Cup qualification,Kathmandu,Nepal,False
+2011-04-07 00:00:00,Tahiti,New Caledonia,1,0,Friendly,Papeete,French Polynesia,False
+2011-04-09 00:00:00,Nepal,North Korea,0,1,AFC Challenge Cup qualification,Kathmandu,Nepal,False
+2011-04-09 00:00:00,Sri Lanka,Afghanistan,0,1,AFC Challenge Cup qualification,Kathmandu,Nepal,True
+2011-04-11 00:00:00,North Korea,Afghanistan,2,0,AFC Challenge Cup qualification,Kathmandu,Nepal,True
+2011-04-11 00:00:00,Nepal,Sri Lanka,0,0,AFC Challenge Cup qualification,Kathmandu,Nepal,False
+2011-04-20 00:00:00,Argentina,Ecuador,2,2,Friendly,Mar del Plata,Argentina,False
+2011-04-23 00:00:00,Mozambique,Tanzania,2,0,Friendly,Maputo,Mozambique,False
+2011-05-04 00:00:00,New Caledonia,R√©union,2,4,Friendly,Noum√©a,New Caledonia,False
+2011-05-07 00:00:00,Monaco,Vatican City,2,1,Friendly,Albano Laziale,Italy,True
+2011-05-07 00:00:00,New Caledonia,R√©union,1,3,Friendly,Noum√©a,New Caledonia,False
+2011-05-14 00:00:00,Tanzania,South Africa,0,1,Friendly,Dar es Salaam,Tanzania,False
+2011-05-20 00:00:00,Guyana,Barbados,0,1,Friendly,Linden,Guyana,False
+2011-05-22 00:00:00,Guyana,Barbados,3,2,Friendly,Providence,Guyana,False
+2011-05-24 00:00:00,Republic of Ireland,Northern Ireland,5,0,Nations Cup,Dublin,Republic of Ireland,False
+2011-05-25 00:00:00,Argentina,Paraguay,4,2,Friendly,Resistencia,Argentina,False
+2011-05-25 00:00:00,Eswatini,Botswana,0,0,Friendly,Manzini,Eswatini,False
+2011-05-25 00:00:00,Wales,Scotland,1,3,Nations Cup,Dublin,Republic of Ireland,True
+2011-05-25 00:00:00,Estonia,Basque Country,1,2,Friendly,Tallinn,Estonia,False
+2011-05-26 00:00:00,Cuba,Nicaragua,1,1,Friendly,Havana,Cuba,False
+2011-05-27 00:00:00,Grenada,Antigua and Barbuda,2,2,Friendly,St. George's,Grenada,False
+2011-05-27 00:00:00,Wales,Northern Ireland,2,0,Nations Cup,Dublin,Republic of Ireland,True
+2011-05-28 00:00:00,Cuba,Nicaragua,2,1,Friendly,Havana,Cuba,False
+2011-05-28 00:00:00,Mexico,Ecuador,1,1,Friendly,Seattle,United States,True
+2011-05-29 00:00:00,Barbados,Guyana,1,0,Friendly,Bridgetown,Barbados,False
+2011-05-29 00:00:00,El Salvador,Honduras,2,2,Friendly,Houston,United States,True
+2011-05-29 00:00:00,Ethiopia,Sudan,1,2,Friendly,Addis Ababa,Ethiopia,False
+2011-05-29 00:00:00,Germany,Uruguay,2,1,Friendly,Sinsheim,Germany,False
+2011-05-29 00:00:00,Republic of Ireland,Scotland,1,0,Nations Cup,Dublin,Republic of Ireland,False
+2011-05-29 00:00:00,Panama,Grenada,2,0,Friendly,Panama City,Panama,False
+2011-05-29 00:00:00,Eswatini,Malawi,1,1,Friendly,Mhlume,Eswatini,False
+2011-05-29 00:00:00,Tunisia,Central African Republic,3,0,Friendly,Sousse,Tunisia,False
+2011-05-31 00:00:00,Corsica,Bulgaria,1,0,Friendly,Ajaccio,France,False
+2011-06-01 00:00:00,Canada,Ecuador,2,2,Friendly,Toronto,Canada,False
+2011-06-01 00:00:00,Guatemala,Venezuela,0,2,Friendly,Guatemala,Guatemala,False
+2011-06-01 00:00:00,Japan,Peru,0,0,Kirin Cup,Niigata,Japan,False
+2011-06-01 00:00:00,Mexico,New Zealand,3,0,Friendly,Denver,United States,True
+2011-06-01 00:00:00,Nigeria,Argentina,4,1,Friendly,Abuja,Nigeria,False
+2011-06-01 00:00:00,Ukraine,Uzbekistan,2,0,Friendly,Kyiv,Ukraine,False
+2011-06-02 00:00:00,Brittany,Equatorial Guinea,0,1,Friendly,Saint-Nazaire,France,False
+2011-06-03 00:00:00,Austria,Germany,1,2,UEFA Euro qualification,Vienna,Austria,False
+2011-06-03 00:00:00,Belarus,France,1,1,UEFA Euro qualification,Minsk,Belarus,False
+2011-06-03 00:00:00,Belgium,Turkey,1,1,UEFA Euro qualification,Brussels,Belgium,False
+2011-06-03 00:00:00,Croatia,Georgia,2,1,UEFA Euro qualification,Split,Croatia,False
+2011-06-03 00:00:00,Faroe Islands,Slovenia,0,2,UEFA Euro qualification,Toftir,Faroe Islands,False
+2011-06-03 00:00:00,Hong Kong,Malaysia,1,1,Friendly,Siu Sai Wan,Hong Kong,False
+2011-06-03 00:00:00,Italy,Estonia,3,0,UEFA Euro qualification,Modena,Italy,False
+2011-06-03 00:00:00,Kazakhstan,Azerbaijan,2,1,UEFA Euro qualification,Astana,Kazakhstan,False
+2011-06-03 00:00:00,South Korea,Serbia,2,1,Friendly,Seoul,South Korea,False
+2011-06-03 00:00:00,Liechtenstein,Lithuania,2,0,UEFA Euro qualification,Vaduz,Liechtenstein,False
+2011-06-03 00:00:00,Luxembourg,Hungary,0,1,Friendly,Luxembourg,Luxembourg,False
+2011-06-03 00:00:00,Moldova,Sweden,1,4,UEFA Euro qualification,Chi»ôinƒÉu,Moldova,False
+2011-06-03 00:00:00,Romania,Bosnia and Herzegovina,3,0,UEFA Euro qualification,Bucharest,Romania,False
+2011-06-03 00:00:00,San Marino,Finland,0,1,UEFA Euro qualification,Serravalle,San Marino,False
+2011-06-04 00:00:00,Bolivia,Paraguay,0,2,Copa Paz del Chaco,Santa Cruz,Bolivia,False
+2011-06-04 00:00:00,Brazil,Netherlands,0,0,Friendly,Goi√¢nia,Brazil,False
+2011-06-04 00:00:00,Cameroon,Senegal,0,0,African Cup of Nations qualification,Yaound√©,Cameroon,False
+2011-06-04 00:00:00,Central African Republic,Tanzania,2,1,African Cup of Nations qualification,Bangui,Central African Republic,False
+2011-06-04 00:00:00,England,Switzerland,2,2,UEFA Euro qualification,London,England,False
+2011-06-04 00:00:00,Greece,Malta,3,1,UEFA Euro qualification,Piraeus,Greece,False
+2011-06-04 00:00:00,Iceland,Denmark,0,2,UEFA Euro qualification,Reykjav√≠k,Iceland,False
+2011-06-04 00:00:00,Latvia,Israel,1,2,UEFA Euro qualification,Riga,Latvia,False
+2011-06-04 00:00:00,North Macedonia,Republic of Ireland,0,2,UEFA Euro qualification,Skopje,North Macedonia,False
+2011-06-04 00:00:00,Montenegro,Bulgaria,1,1,UEFA Euro qualification,Podgorica,Montenegro,False
+2011-06-04 00:00:00,Morocco,Algeria,4,0,African Cup of Nations qualification,Marrakech,Morocco,False
+2011-06-04 00:00:00,Peru,Czech Republic,0,0,Kirin Cup,Matsumoto,Japan,True
+2011-06-04 00:00:00,Portugal,Norway,1,0,UEFA Euro qualification,Lisbon,Portugal,False
+2011-06-04 00:00:00,Russia,Armenia,3,1,UEFA Euro qualification,Saint Petersburg,Russia,False
+2011-06-04 00:00:00,Sierra Leone,Niger,1,0,African Cup of Nations qualification,Freetown,Sierra Leone,False
+2011-06-04 00:00:00,Slovakia,Andorra,1,0,UEFA Euro qualification,Bratislava,Slovakia,False
+2011-06-04 00:00:00,Uganda,Guinea-Bissau,2,0,African Cup of Nations qualification,Kampala,Uganda,False
+2011-06-04 00:00:00,United States,Spain,0,4,Friendly,Foxborough,United States,False
+2011-06-04 00:00:00,Zambia,Mozambique,3,0,African Cup of Nations qualification,Lusaka,Zambia,False
+2011-06-05 00:00:00,Angola,Kenya,1,0,African Cup of Nations qualification,Luanda,Angola,False
+2011-06-05 00:00:00,Australia,New Zealand,3,0,Friendly,Adelaide,Australia,False
+2011-06-05 00:00:00,Benin,Ivory Coast,2,6,African Cup of Nations qualification,Cotonou,Benin,False
+2011-06-05 00:00:00,Botswana,Malawi,0,0,African Cup of Nations qualification,Gaborone,Botswana,False
+2011-06-05 00:00:00,Burundi,Rwanda,3,1,African Cup of Nations qualification,Bujumbura,Burundi,False
+2011-06-05 00:00:00,China PR,Uzbekistan,1,0,Friendly,Guangzhou,China PR,False
+2011-06-05 00:00:00,Comoros,Libya,1,1,African Cup of Nations qualification,Mitsamiouli,Comoros,False
+2011-06-05 00:00:00,Costa Rica,Cuba,5,0,Gold Cup,Arlington,United States,True
+2011-06-05 00:00:00,Egypt,South Africa,0,0,African Cup of Nations qualification,Cairo,Egypt,False
+2011-06-05 00:00:00,Ethiopia,Nigeria,2,2,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+2011-06-05 00:00:00,Guinea,Madagascar,4,1,African Cup of Nations qualification,Conakry,Guinea,False
+2011-06-05 00:00:00,Liberia,Cape Verde,1,0,African Cup of Nations qualification,Paynesville,Liberia,False
+2011-06-05 00:00:00,Mauritius,DR Congo,1,2,African Cup of Nations qualification,Mapou,Mauritius,False
+2011-06-05 00:00:00,Mexico,El Salvador,5,0,Gold Cup,Arlington,United States,True
+2011-06-05 00:00:00,Poland,Argentina,2,1,Friendly,Warsaw,Poland,False
+2011-06-05 00:00:00,Eswatini,Sudan,1,2,African Cup of Nations qualification,Lobamba,Eswatini,False
+2011-06-05 00:00:00,Tunisia,Chad,5,0,African Cup of Nations qualification,Sousse,Tunisia,False
+2011-06-05 00:00:00,Zimbabwe,Mali,2,1,African Cup of Nations qualification,Harare,Zimbabwe,False
+2011-06-06 00:00:00,Honduras,Guatemala,0,0,Gold Cup,Carson,United States,True
+2011-06-06 00:00:00,Jamaica,Grenada,4,0,Gold Cup,Carson,United States,True
+2011-06-06 00:00:00,Ukraine,France,1,4,Friendly,Donets'k,Ukraine,False
+2011-06-07 00:00:00,Australia,Serbia,0,0,Friendly,Melbourne,Australia,False
+2011-06-07 00:00:00,Austria,Latvia,3,1,Friendly,Graz,Austria,False
+2011-06-07 00:00:00,Azerbaijan,Germany,1,3,UEFA Euro qualification,Baku,Azerbaijan,False
+2011-06-07 00:00:00,Belarus,Luxembourg,2,0,UEFA Euro qualification,Minsk,Belarus,False
+2011-06-07 00:00:00,Bosnia and Herzegovina,Albania,2,0,UEFA Euro qualification,Zenica,Bosnia and Herzegovina,False
+2011-06-07 00:00:00,Brazil,Romania,1,0,Friendly,S√£o Paulo,Brazil,False
+2011-06-07 00:00:00,Ecuador,Greece,1,1,Friendly,New York,United States,True
+2011-06-07 00:00:00,Faroe Islands,Estonia,2,0,UEFA Euro qualification,Toftir,Faroe Islands,False
+2011-06-07 00:00:00,Gabon,Gambia,0,1,Friendly,Franceville,Gabon,False
+2011-06-07 00:00:00,Italy,Republic of Ireland,0,2,Friendly,Li√®ge,Belgium,True
+2011-06-07 00:00:00,Japan,Czech Republic,0,0,Kirin Cup,Yokohama,Japan,False
+2011-06-07 00:00:00,South Korea,Ghana,2,1,Friendly,Jeonju,South Korea,False
+2011-06-07 00:00:00,Norway,Lithuania,1,0,Friendly,Oslo,Norway,False
+2011-06-07 00:00:00,Panama,Guadeloupe,3,2,Gold Cup,Detroit,United States,True
+2011-06-07 00:00:00,Paraguay,Bolivia,0,0,Copa Paz del Chaco,Luque,Paraguay,False
+2011-06-07 00:00:00,Russia,Cameroon,0,0,Friendly,Salzburg,Austria,True
+2011-06-07 00:00:00,San Marino,Hungary,0,3,UEFA Euro qualification,Serravalle,San Marino,False
+2011-06-07 00:00:00,Sweden,Finland,5,0,UEFA Euro qualification,Solna,Sweden,False
+2011-06-07 00:00:00,United States,Canada,2,0,Gold Cup,Detroit,United States,False
+2011-06-07 00:00:00,Venezuela,Spain,0,3,Friendly,Puerto la Cruz,Venezuela,False
+2011-06-08 00:00:00,China PR,North Korea,2,0,Friendly,Guiyang,China PR,False
+2011-06-08 00:00:00,Uruguay,Netherlands,1,1,Copa Confraternidad,Montevideo,Uruguay,False
+2011-06-09 00:00:00,Costa Rica,El Salvador,1,1,Gold Cup,Charlotte,United States,True
+2011-06-09 00:00:00,Cuba,Mexico,0,5,Gold Cup,Charlotte,United States,True
+2011-06-09 00:00:00,Poland,France,0,1,Friendly,Warsaw,Poland,False
+2011-06-10 00:00:00,Grenada,Honduras,1,7,Gold Cup,Miami,United States,True
+2011-06-10 00:00:00,Jamaica,Guatemala,2,0,Gold Cup,Miami,United States,True
+2011-06-11 00:00:00,Canada,Guadeloupe,1,0,Gold Cup,Tampa,United States,True
+2011-06-11 00:00:00,Mexico,Venezuela,0,3,Friendly,Las Vegas,United States,True
+2011-06-11 00:00:00,Paraguay,Romania,2,0,Friendly,Asunci√≥n,Paraguay,False
+2011-06-11 00:00:00,United States,Panama,1,2,Gold Cup,Tampa,United States,False
+2011-06-12 00:00:00,El Salvador,Cuba,6,1,Gold Cup,Chicago,United States,True
+2011-06-12 00:00:00,Mexico,Costa Rica,4,1,Gold Cup,Chicago,United States,True
+2011-06-12 00:00:00,Palestine,Vatican City,9,1,Friendly,Al-Khader,Palestine,False
+2011-06-13 00:00:00,Guatemala,Grenada,4,0,Gold Cup,Harrison,United States,True
+2011-06-13 00:00:00,Honduras,Jamaica,0,1,Gold Cup,Harrison,United States,True
+2011-06-14 00:00:00,Canada,Panama,1,1,Gold Cup,Kansas City,United States,True
+2011-06-14 00:00:00,United States,Guadeloupe,1,0,Gold Cup,Kansas City,United States,False
+2011-06-15 00:00:00,Montserrat,Belize,2,5,FIFA World Cup qualification,Couva,Trinidad and Tobago,True
+2011-06-18 00:00:00,Costa Rica,Honduras,1,1,Gold Cup,East Rutherford,United States,True
+2011-06-18 00:00:00,Malaysia,Myanmar,2,0,Friendly,Kota Bharu,Malaysia,False
+2011-06-18 00:00:00,Mexico,Guatemala,2,1,Gold Cup,East Rutherford,United States,True
+2011-06-19 00:00:00,Chile,Estonia,4,0,Friendly,Santiago,Chile,False
+2011-06-19 00:00:00,Anguilla,United States Virgin Islands,0,0,Friendly,The Valley,Anguilla,False
+2011-06-19 00:00:00,Panama,El Salvador,1,1,Gold Cup,Washington,United States,True
+2011-06-19 00:00:00,United States,Jamaica,2,0,Gold Cup,Washington,United States,False
+2011-06-20 00:00:00,Argentina,Albania,4,0,Friendly,Buenos Aires,Argentina,False
+2011-06-22 00:00:00,Honduras,Mexico,0,2,Gold Cup,Houston,United States,True
+2011-06-22 00:00:00,United States,Panama,1,0,Gold Cup,Houston,United States,False
+2011-06-23 00:00:00,Uruguay,Estonia,3,0,Friendly,Rivera,Uruguay,False
+2011-06-23 00:00:00,Paraguay,Chile,0,0,Friendly,Asunci√≥n,Paraguay,False
+2011-06-25 00:00:00,Colombia,Senegal,2,0,Friendly,Medell√≠n,Colombia,False
+2011-06-25 00:00:00,Kenya,Sudan,1,2,Friendly,Nairobi,Kenya,False
+2011-06-25 00:00:00,United States,Mexico,2,4,Gold Cup,Pasadena,United States,False
+2011-06-26 00:00:00,Rhodes,Greenland,2,1,Island Games,Brading,England,True
+2011-06-26 00:00:00,Jersey,Menorca,2,0,Island Games,Cowes,England,True
+2011-06-26 00:00:00,Alderney,Gibraltar,1,6,Island Games,Newport,England,True
+2011-06-26 00:00:00,Isle of Wight,Ynys M√¥n,4,0,Island Games,Newport,England,False
+2011-06-26 00:00:00,Gotland,Isle of Man,2,4,Island Games,Cowes,England,True
+2011-06-26 00:00:00,Guernsey,Falkland Islands,5,0,Island Games,Brading,England,True
+2011-06-26 00:00:00,√Öland Islands,Saare County,3,3,Island Games,East Cowes,England,True
+2011-06-27 00:00:00,Bolivia,Mexico,0,1,Friendly,Buenos Aires,Argentina,True
+2011-06-27 00:00:00,Greenland,Menorca,2,3,Island Games,East Cowes,England,True
+2011-06-27 00:00:00,Jersey,Rhodes,2,0,Island Games,Newport,England,True
+2011-06-27 00:00:00,Isle of Wight,Alderney,4,0,Island Games,Cowes,England,False
+2011-06-27 00:00:00,Gibraltar,Ynys M√¥n,6,3,Island Games,Brading,England,True
+2011-06-27 00:00:00,Isle of Man,Falkland Islands,6,0,Island Games,Rookley,England,True
+2011-06-27 00:00:00,Gotland,Guernsey,2,5,Island Games,Freshwater,England,True
+2011-06-27 00:00:00,Western Isles,√Öland Islands,0,2,Island Games,Newport,England,True
+2011-06-28 00:00:00,Peru,Senegal,1,0,Friendly,Lima,Peru,False
+2011-06-28 00:00:00,Greenland,Jersey,1,2,Island Games,Freshwater,England,True
+2011-06-28 00:00:00,Alderney,Ynys M√¥n,0,5,Island Games,Shanklin,England,True
+2011-06-28 00:00:00,Isle of Wight,Gibraltar,3,2,Island Games,East Cowes,England,False
+2011-06-28 00:00:00,Guernsey,Isle of Man,2,1,Island Games,East Cowes,England,True
+2011-06-28 00:00:00,Falkland Islands,Gotland,1,6,Island Games,Oakfield,England,True
+2011-06-28 00:00:00,Saare County,Western Isles,2,0,Island Games,Cowes,England,True
+2011-06-29 00:00:00,Afghanistan,Palestine,0,2,FIFA World Cup qualification,Tursunzoda,Tajikistan,True
+2011-06-29 00:00:00,Bangladesh,Pakistan,3,0,FIFA World Cup qualification,Dhaka,Bangladesh,False
+2011-06-29 00:00:00,Cambodia,Laos,4,2,FIFA World Cup qualification,Phnom Penh,Cambodia,False
+2011-06-29 00:00:00,Iraq,Syria,1,2,Friendly,Erbil,Iraq,False
+2011-06-29 00:00:00,Malaysia,Taiwan,2,1,FIFA World Cup qualification,Kuala Lumpur,Malaysia,False
+2011-06-29 00:00:00,Mongolia,Myanmar,1,0,FIFA World Cup qualification,Ulaanbaatar,Mongolia,False
+2011-06-29 00:00:00,Nepal,Timor-Leste,2,1,FIFA World Cup qualification,Kathmandu,Nepal,False
+2011-06-29 00:00:00,Sri Lanka,Philippines,1,1,FIFA World Cup qualification,Colombo,Sri Lanka,False
+2011-06-29 00:00:00,Vietnam,Macau,6,0,FIFA World Cup qualification,Ho Chi Minh City,Vietnam,False
+2011-06-30 00:00:00,Alderney,Falkland Islands,0,3,Island Games,Shanklin,England,True
+2011-06-30 00:00:00,Greenland,Western Isles,1,0,Island Games,Shanklin,England,True
+2011-06-30 00:00:00,Gotland,Ynys M√¥n,1,2,Island Games,Freshwater,England,True
+2011-06-30 00:00:00,Isle of Man,Menorca,2,2,Island Games,Cowes,England,True
+2011-06-30 00:00:00,Saare County,Gibraltar,0,4,Island Games,Brading,England,True
+2011-06-30 00:00:00,Isle of Wight,Jersey,1,0,Island Games,Cowes,England,False
+2011-06-30 00:00:00,Guernsey,√Öland Islands,3,2,Island Games,Brading,England,True
+2011-07-01 00:00:00,Argentina,Bolivia,1,1,Copa Am√©rica,La Plata,Argentina,False
+2011-07-01 00:00:00,Jersey,√Öland Islands,5,1,Island Games,Brading,England,True
+2011-07-01 00:00:00,Isle of Wight,Guernsey,4,2,Island Games,Newport,England,False
+2011-07-02 00:00:00,Colombia,Costa Rica,1,0,Copa Am√©rica,San Salvador de Jujuy,Argentina,True
+2011-07-02 00:00:00,Lebanon,Kuwait,0,6,Friendly,Beirut,Lebanon,False
+2011-07-02 00:00:00,Nepal,Timor-Leste,5,0,FIFA World Cup qualification,Kathmandu,Nepal,False
+2011-07-02 00:00:00,Turks and Caicos Islands,Bahamas,0,4,FIFA World Cup qualification,Providenciales,Turks and Caicos Islands,False
+2011-07-03 00:00:00,Brazil,Venezuela,0,0,Copa Am√©rica,La Plata,Argentina,True
+2011-07-03 00:00:00,Myanmar,Mongolia,2,0,FIFA World Cup qualification,Yangon,Myanmar,False
+2011-07-03 00:00:00,Laos,Cambodia,6,2,FIFA World Cup qualification,Vientiane,Laos,False
+2011-07-03 00:00:00,Macau,Vietnam,1,7,FIFA World Cup qualification,Macau,Macau,False
+2011-07-03 00:00:00,Pakistan,Bangladesh,0,0,FIFA World Cup qualification,Lahore,Pakistan,False
+2011-07-03 00:00:00,Palestine,Afghanistan,1,1,FIFA World Cup qualification,Al-Ram,Palestine,False
+2011-07-03 00:00:00,Paraguay,Ecuador,0,0,Copa Am√©rica,Santa Fe,Argentina,True
+2011-07-03 00:00:00,Philippines,Sri Lanka,4,0,FIFA World Cup qualification,Manila,Philippines,False
+2011-07-03 00:00:00,United States Virgin Islands,British Virgin Islands,2,0,FIFA World Cup qualification,Charlotte Amalie,United States Virgin Islands,False
+2011-07-04 00:00:00,Chile,Mexico,2,1,Copa Am√©rica,San Juan,Argentina,True
+2011-07-04 00:00:00,Uruguay,Peru,1,1,Copa Am√©rica,San Juan,Argentina,True
+2011-07-05 00:00:00,Jordan,Syria,1,3,Friendly,Istanbul,Turkey,True
+2011-07-06 00:00:00,Argentina,Colombia,0,0,Copa Am√©rica,Santa Fe,Argentina,False
+2011-07-06 00:00:00,Kuwait,Oman,1,1,Friendly,Beirut,Lebanon,True
+2011-07-06 00:00:00,Malawi,Namibia,0,1,Friendly,Mzuzu,Malawi,False
+2011-07-07 00:00:00,Bolivia,Costa Rica,0,2,Copa Am√©rica,San Salvador de Jujuy,Argentina,True
+2011-07-07 00:00:00,Solomon Islands,Vanuatu,2,1,Friendly,Honiara,Solomon Islands,False
+2011-07-08 00:00:00,Aruba,Saint Lucia,4,2,FIFA World Cup qualification,Oranjestad,Aruba,False
+2011-07-08 00:00:00,Dominican Republic,Anguilla,2,0,FIFA World Cup qualification,San Crist√≥bal,Dominican Republic,False
+2011-07-08 00:00:00,Jordan,Yemen,4,0,Friendly,Istanbul,Turkey,True
+2011-07-08 00:00:00,Peru,Mexico,1,0,Copa Am√©rica,Mendoza,Argentina,True
+2011-07-08 00:00:00,Uruguay,Chile,1,1,Copa Am√©rica,Mendoza,Argentina,True
+2011-07-09 00:00:00,Bahamas,Turks and Caicos Islands,6,0,FIFA World Cup qualification,Nassau,Bahamas,False
+2011-07-09 00:00:00,Brazil,Paraguay,2,2,Copa Am√©rica,C√≥rdoba,Argentina,True
+2011-07-09 00:00:00,Lebanon,Oman,0,1,Friendly,Beirut,Lebanon,False
+2011-07-09 00:00:00,Solomon Islands,Vanuatu,0,0,Friendly,Honiara,Solomon Islands,False
+2011-07-09 00:00:00,Venezuela,Ecuador,1,0,Copa Am√©rica,Salta,Argentina,True
+2011-07-10 00:00:00,British Virgin Islands,United States Virgin Islands,1,2,FIFA World Cup qualification,Road Town,British Virgin Islands,False
+2011-07-10 00:00:00,Colombia,Bolivia,2,0,Copa Am√©rica,Santa Fe,Argentina,True
+2011-07-10 00:00:00,Dominican Republic,Anguilla,4,0,FIFA World Cup qualification,San Crist√≥bal,Dominican Republic,False
+2011-07-10 00:00:00,Maldives,India,1,1,Friendly,Mal√©,Maldives,False
+2011-07-11 00:00:00,Argentina,Costa Rica,3,0,Copa Am√©rica,C√≥rdoba,Argentina,False
+2011-07-12 00:00:00,Chile,Peru,1,0,Copa Am√©rica,Mendoza,Argentina,True
+2011-07-12 00:00:00,Saint Lucia,Aruba,4,2,FIFA World Cup qualification,Castries,Saint Lucia,False
+2011-07-12 00:00:00,Uruguay,Mexico,1,0,Copa Am√©rica,La Plata,Argentina,True
+2011-07-13 00:00:00,Brazil,Ecuador,4,2,Copa Am√©rica,C√≥rdoba,Argentina,True
+2011-07-13 00:00:00,Iraq,Kuwait,0,2,Friendly,Amman,Jordan,True
+2011-07-13 00:00:00,Jordan,Saudi Arabia,1,1,Friendly,Amman,Jordan,False
+2011-07-13 00:00:00,Paraguay,Venezuela,3,3,Copa Am√©rica,Salta,Argentina,True
+2011-07-14 00:00:00,Thailand,Myanmar,1,0,Friendly,Buriram,Thailand,False
+2011-07-15 00:00:00,Fiji,Vanuatu,1,2,Friendly,Lautoka,Fiji,False
+2011-07-15 00:00:00,Oman,Syria,1,1,Friendly,Muscat,Oman,False
+2011-07-15 00:00:00,Thailand,Myanmar,1,1,Friendly,Buriram,Thailand,False
+2011-07-16 00:00:00,Argentina,Uruguay,1,1,Copa Am√©rica,Santa Fe,Argentina,False
+2011-07-16 00:00:00,Colombia,Peru,0,2,Copa Am√©rica,C√≥rdoba,Argentina,True
+2011-07-16 00:00:00,Jordan,Iraq,1,1,Friendly,Amman,Jordan,False
+2011-07-16 00:00:00,Kuwait,Saudi Arabia,1,0,Friendly,Amman,Jordan,True
+2011-07-17 00:00:00,Belize,Montserrat,3,1,FIFA World Cup qualification,San Pedro Sula,Honduras,True
+2011-07-17 00:00:00,Brazil,Paraguay,0,0,Copa Am√©rica,La Plata,Argentina,True
+2011-07-17 00:00:00,Chile,Venezuela,1,2,Copa Am√©rica,San Juan,Argentina,True
+2011-07-17 00:00:00,Iran,Madagascar,1,0,Friendly,Tehran,Iran,False
+2011-07-17 00:00:00,Qatar,India,1,2,Friendly,Doha,Qatar,False
+2011-07-17 00:00:00,United Arab Emirates,Lebanon,6,2,Friendly,Al Ain,United Arab Emirates,False
+2011-07-18 00:00:00,Singapore,Taiwan,3,2,Friendly,Singapore,Singapore,False
+2011-07-19 00:00:00,Peru,Uruguay,0,2,Copa Am√©rica,La Plata,Argentina,True
+2011-07-20 00:00:00,Paraguay,Venezuela,0,0,Copa Am√©rica,Mendoza,Argentina,True
+2011-07-23 00:00:00,China PR,Laos,7,2,FIFA World Cup qualification,Kunming,China PR,False
+2011-07-23 00:00:00,Iran,Maldives,4,0,FIFA World Cup qualification,Tehran,Iran,False
+2011-07-23 00:00:00,Iraq,Yemen,2,0,FIFA World Cup qualification,Erbil,Iraq,False
+2011-07-23 00:00:00,Jordan,Nepal,9,0,FIFA World Cup qualification,Amman,Jordan,False
+2011-07-23 00:00:00,Kuwait,Philippines,3,0,FIFA World Cup qualification,Hawalli,Kuwait,False
+2011-07-23 00:00:00,Lebanon,Bangladesh,4,0,FIFA World Cup qualification,Beirut,Lebanon,False
+2011-07-23 00:00:00,Oman,Myanmar,2,0,FIFA World Cup qualification,Muscat,Oman,False
+2011-07-23 00:00:00,Peru,Venezuela,4,1,Copa Am√©rica,La Plata,Argentina,True
+2011-07-23 00:00:00,Qatar,Vietnam,3,0,FIFA World Cup qualification,Doha,Qatar,False
+2011-07-23 00:00:00,Saudi Arabia,Hong Kong,3,0,FIFA World Cup qualification,Dammam,Saudi Arabia,False
+2011-07-23 00:00:00,Singapore,Malaysia,5,3,FIFA World Cup qualification,Singapore,Singapore,False
+2011-07-23 00:00:00,Syria,Tajikistan,0,3,FIFA World Cup qualification,Amman,Jordan,True
+2011-07-23 00:00:00,Thailand,Palestine,1,0,FIFA World Cup qualification,Buriram,Thailand,False
+2011-07-23 00:00:00,Turkmenistan,Indonesia,1,1,FIFA World Cup qualification,Ashgabat,Turkmenistan,False
+2011-07-23 00:00:00,United Arab Emirates,India,3,0,FIFA World Cup qualification,Al Ain,United Arab Emirates,False
+2011-07-23 00:00:00,Uzbekistan,Kyrgyzstan,4,0,FIFA World Cup qualification,Tashkent,Uzbekistan,False
+2011-07-24 00:00:00,Liberia,Gambia,3,2,Friendly,Paynesville,Liberia,False
+2011-07-24 00:00:00,Uruguay,Paraguay,3,0,Copa Am√©rica,Buenos Aires,Argentina,True
+2011-07-27 00:00:00,Vanuatu,Solomon Islands,0,0,Friendly,Port Vila,Vanuatu,False
+2011-07-28 00:00:00,Bangladesh,Lebanon,2,0,FIFA World Cup qualification,Dhaka,Bangladesh,False
+2011-07-28 00:00:00,Myanmar,Oman,0,2,FIFA World Cup qualification,Yangon,Myanmar,False
+2011-07-28 00:00:00,Hong Kong,Saudi Arabia,0,5,FIFA World Cup qualification,Siu Sai Wan,Hong Kong,False
+2011-07-28 00:00:00,India,United Arab Emirates,2,2,FIFA World Cup qualification,New Delhi,India,False
+2011-07-28 00:00:00,Indonesia,Turkmenistan,4,3,FIFA World Cup qualification,Jakarta,Indonesia,False
+2011-07-28 00:00:00,Kyrgyzstan,Uzbekistan,0,3,FIFA World Cup qualification,Bishkek,Kyrgyzstan,False
+2011-07-28 00:00:00,Laos,China PR,1,6,FIFA World Cup qualification,Vientiane,Laos,False
+2011-07-28 00:00:00,Malaysia,Singapore,1,1,FIFA World Cup qualification,Kuala Lumpur,Malaysia,False
+2011-07-28 00:00:00,Maldives,Iran,0,1,FIFA World Cup qualification,Mal√©,Maldives,False
+2011-07-28 00:00:00,Nepal,Jordan,1,1,FIFA World Cup qualification,Kathmandu,Nepal,False
+2011-07-28 00:00:00,Palestine,Thailand,2,2,FIFA World Cup qualification,Al-Ram,Palestine,False
+2011-07-28 00:00:00,Philippines,Kuwait,1,2,FIFA World Cup qualification,Manila,Philippines,False
+2011-07-28 00:00:00,Tajikistan,Syria,3,0,FIFA World Cup qualification,Tursunzoda,Tajikistan,False
+2011-07-28 00:00:00,Vietnam,Qatar,2,1,FIFA World Cup qualification,Hanoi,Vietnam,False
+2011-07-28 00:00:00,Yemen,Iraq,0,0,FIFA World Cup qualification,Al Ain,United Arab Emirates,True
+2011-07-30 00:00:00,Vanuatu,Solomon Islands,2,0,Friendly,Port Vila,Vanuatu,False
+2011-07-31 00:00:00,Eswatini,Botswana,0,2,Friendly,Pretoria,South Africa,True
+2011-08-07 00:00:00,El Salvador,Venezuela,2,1,Friendly,Washington,United States,True
+2011-08-10 00:00:00,Albania,Montenegro,3,2,Friendly,Shkod√´r,Albania,False
+2011-08-10 00:00:00,Austria,Slovakia,1,2,Friendly,Klagenfurt,Austria,False
+2011-08-10 00:00:00,Azerbaijan,North Macedonia,0,1,Friendly,Baku,Azerbaijan,False
+2011-08-10 00:00:00,Belarus,Bulgaria,1,0,Friendly,Minsk,Belarus,False
+2011-08-10 00:00:00,Bolivia,Panama,1,3,Friendly,Santa Cruz,Bolivia,False
+2011-08-10 00:00:00,Bosnia and Herzegovina,Greece,0,0,Friendly,Sarajevo,Bosnia and Herzegovina,False
+2011-08-10 00:00:00,Botswana,Kenya,1,0,Friendly,Gaborone,Botswana,False
+2011-08-10 00:00:00,China PR,Jamaica,1,0,Friendly,Hefei,China PR,False
+2011-08-10 00:00:00,Costa Rica,Ecuador,0,2,Friendly,San Jos√©,Costa Rica,False
+2011-08-10 00:00:00,Cyprus,Moldova,3,2,Friendly,Nicosia,Cyprus,False
+2011-08-10 00:00:00,Equatorial Guinea,Guinea-Bissau,1,4,Friendly,Lisbon,Portugal,True
+2011-08-10 00:00:00,France,Chile,1,1,Friendly,Montpellier,France,False
+2011-08-10 00:00:00,Gabon,Guinea,1,1,Friendly,Saint-Leu-la-For√™t,France,True
+2011-08-10 00:00:00,Gambia,DR Congo,3,0,Friendly,Banjul,Gambia,False
+2011-08-10 00:00:00,Germany,Brazil,3,2,Friendly,Stuttgart,Germany,False
+2011-08-10 00:00:00,Honduras,Venezuela,2,0,Friendly,Fort Lauderdale,United States,True
+2011-08-10 00:00:00,Hungary,Iceland,4,0,Friendly,Budapest,Hungary,False
+2011-08-10 00:00:00,Republic of Ireland,Croatia,0,0,Friendly,Dublin,Republic of Ireland,False
+2011-08-10 00:00:00,Israel,Ivory Coast,3,4,Friendly,Geneva,Switzerland,True
+2011-08-10 00:00:00,Italy,Spain,2,1,Friendly,Bari,Italy,False
+2011-08-10 00:00:00,Japan,South Korea,3,0,Friendly,Sapporo,Japan,False
+2011-08-10 00:00:00,Kazakhstan,Syria,1,1,Friendly,Astana,Kazakhstan,False
+2011-08-10 00:00:00,Kuwait,North Korea,0,0,Friendly,Kuwait City,Kuwait,False
+2011-08-10 00:00:00,Latvia,Finland,0,2,Friendly,Riga,Latvia,False
+2011-08-10 00:00:00,Liberia,Angola,0,0,Friendly,Paynesville,Liberia,False
+2011-08-10 00:00:00,Liechtenstein,Switzerland,1,2,Friendly,Vaduz,Liechtenstein,False
+2011-08-10 00:00:00,Lithuania,Armenia,3,0,Friendly,Kaunas,Lithuania,False
+2011-08-10 00:00:00,Malta,Central African Republic,2,1,Friendly,Attard,Malta,False
+2011-08-10 00:00:00,Niger,Togo,3,3,Friendly,Niamey,Niger,False
+2011-08-10 00:00:00,Northern Ireland,Faroe Islands,4,0,UEFA Euro qualification,Belfast,Northern Ireland,False
+2011-08-10 00:00:00,Norway,Czech Republic,3,0,Friendly,Oslo,Norway,False
+2011-08-10 00:00:00,Oman,Bahrain,1,1,Friendly,Dubai,United Arab Emirates,True
+2011-08-10 00:00:00,Poland,Georgia,1,0,Friendly,Lubin,Poland,False
+2011-08-10 00:00:00,Portugal,Luxembourg,5,0,Friendly,Faro,Portugal,False
+2011-08-10 00:00:00,Russia,Serbia,1,0,Friendly,Moscow,Russia,False
+2011-08-10 00:00:00,San Marino,Romania,0,1,Friendly,Serravalle,San Marino,False
+2011-08-10 00:00:00,Scotland,Denmark,2,1,Friendly,Glasgow,Scotland,False
+2011-08-10 00:00:00,Senegal,Morocco,0,2,Friendly,Dakar,Senegal,False
+2011-08-10 00:00:00,Slovenia,Belgium,0,0,Friendly,Ljubljana,Slovenia,False
+2011-08-10 00:00:00,South Africa,Burkina Faso,3,0,Friendly,Johannesburg,South Africa,False
+2011-08-10 00:00:00,Tunisia,Mali,4,2,Friendly,Monastir,Tunisia,False
+2011-08-10 00:00:00,Turkey,Estonia,3,0,Friendly,Istanbul,Turkey,False
+2011-08-10 00:00:00,Ukraine,Sweden,0,1,Friendly,Kharkiv,Ukraine,False
+2011-08-10 00:00:00,United States,Mexico,1,1,Friendly,Philadelphia,United States,False
+2011-08-10 00:00:00,Wales,Australia,1,2,Friendly,Cardiff,Wales,False
+2011-08-10 00:00:00,Zimbabwe,Zambia,2,0,Friendly,Harare,Zimbabwe,False
+2011-08-14 00:00:00,Liberia,Niger,0,0,Friendly,Paynesville,Liberia,False
+2011-08-17 00:00:00,Fiji,Samoa,3,0,Friendly,Navua,Fiji,False
+2011-08-17 00:00:00,Lebanon,Syria,2,3,Friendly,Sidon,Lebanon,False
+2011-08-18 00:00:00,Fiji,Samoa,5,1,Friendly,Suva,Fiji,False
+2011-08-19 00:00:00,Eritrea,Sudan,0,3,Friendly,Asmara,Eritrea,False
+2011-08-19 00:00:00,Qatar,Iraq,0,1,Friendly,Doha,Qatar,False
+2011-08-20 00:00:00,Dominican Republic,Cura√ßao,1,0,Friendly,San Crist√≥bal,Dominican Republic,False
+2011-08-20 00:00:00,Lesotho,Eswatini,0,0,Friendly,Maseru,Lesotho,False
+2011-08-21 00:00:00,Barbados,Saint Lucia,4,0,Friendly,Bridgetown,Barbados,False
+2011-08-21 00:00:00,Dominican Republic,Cura√ßao,1,0,Friendly,San Crist√≥bal,Dominican Republic,False
+2011-08-21 00:00:00,Trinidad and Tobago,India,3,0,Friendly,Port of Spain,Trinidad and Tobago,False
+2011-08-22 00:00:00,Indonesia,Palestine,4,1,Friendly,Surakarta,Indonesia,False
+2011-08-22 00:00:00,Jordan,Tunisia,3,3,Friendly,Amman,Jordan,False
+2011-08-22 00:00:00,Lesotho,Eswatini,0,1,Friendly,Maseru,Lesotho,False
+2011-08-22 00:00:00,Tuvalu,Samoa,3,0,Friendly,Nausori,Fiji,True
+2011-08-24 00:00:00,Guyana,India,2,1,Friendly,Providence,Guyana,False
+2011-08-24 00:00:00,Thailand,Singapore,0,0,Friendly,Bangkok,Thailand,False
+2011-08-25 00:00:00,United Arab Emirates,Qatar,3,1,Friendly,Al Ain,United Arab Emirates,False
+2011-08-26 00:00:00,Bahrain,Sudan,1,0,Friendly,Riffa,Bahrain,False
+2011-08-27 00:00:00,Angola,DR Congo,1,2,Friendly,Dundo,Angola,False
+2011-08-27 00:00:00,Fiji,Tahiti,3,0,Pacific Games,Boulari,New Caledonia,True
+2011-08-27 00:00:00,Jordan,Indonesia,1,0,Friendly,Amman,Jordan,False
+2011-08-27 00:00:00,New Caledonia,Vanuatu,5,0,Pacific Games,Noum√©a,New Caledonia,False
+2011-08-27 00:00:00,Oman,Kuwait,1,0,Friendly,Muscat,Oman,False
+2011-08-27 00:00:00,Papua New Guinea,Cook Islands,4,0,Pacific Games,Boulari,New Caledonia,True
+2011-08-27 00:00:00,Solomon Islands,Guam,7,0,Pacific Games,Noum√©a,New Caledonia,True
+2011-08-27 00:00:00,Tuvalu,American Samoa,4,0,Pacific Games,Noum√©a,New Caledonia,True
+2011-08-28 00:00:00,Antigua and Barbuda,Saint Vincent and the Grenadines,2,2,Friendly,Osbourn,Antigua and Barbuda,False
+2011-08-30 00:00:00,American Samoa,Solomon Islands,0,4,Pacific Games,Noum√©a,New Caledonia,True
+2011-08-30 00:00:00,Fiji,Kiribati,9,0,Pacific Games,Boulari,New Caledonia,True
+2011-08-30 00:00:00,New Caledonia,Guam,9,0,Pacific Games,Noum√©a,New Caledonia,False
+2011-08-30 00:00:00,Tahiti,Cook Islands,7,0,Pacific Games,Boulari,New Caledonia,True
+2011-08-30 00:00:00,Vanuatu,Tuvalu,5,1,Pacific Games,Noum√©a,New Caledonia,True
+2011-09-01 00:00:00,American Samoa,Guam,0,2,Pacific Games,Noum√©a,New Caledonia,True
+2011-09-01 00:00:00,Cook Islands,Kiribati,3,0,Pacific Games,Boulari,New Caledonia,True
+2011-09-01 00:00:00,New Caledonia,Tuvalu,8,0,Pacific Games,Noum√©a,New Caledonia,False
+2011-09-01 00:00:00,Tahiti,Papua New Guinea,1,1,Pacific Games,Boulari,New Caledonia,True
+2011-09-01 00:00:00,Vanuatu,Solomon Islands,1,0,Pacific Games,Noum√©a,New Caledonia,True
+2011-09-02 00:00:00,Albania,France,1,2,UEFA Euro qualification,Tirana,Albania,False
+2011-09-02 00:00:00,Andorra,Armenia,0,3,UEFA Euro qualification,Sant Juli√† de L√≤ria,Andorra,False
+2011-09-02 00:00:00,Antigua and Barbuda,Cura√ßao,5,2,FIFA World Cup qualification,St. John's,Antigua and Barbuda,False
+2011-09-02 00:00:00,Argentina,Venezuela,1,0,Friendly,Calcutta,India,True
+2011-09-02 00:00:00,Australia,Thailand,2,1,FIFA World Cup qualification,Brisbane,Australia,False
+2011-09-02 00:00:00,Azerbaijan,Belgium,1,1,UEFA Euro qualification,Baku,Azerbaijan,False
+2011-09-02 00:00:00,Bahrain,Qatar,0,0,FIFA World Cup qualification,Riffa,Bahrain,False
+2011-09-02 00:00:00,Belarus,Bosnia and Herzegovina,0,2,UEFA Euro qualification,Minsk,Belarus,False
+2011-09-02 00:00:00,Bulgaria,England,0,3,UEFA Euro qualification,Sofia,Bulgaria,False
+2011-09-02 00:00:00,Canada,Saint Lucia,4,1,FIFA World Cup qualification,Toronto,Canada,False
+2011-09-02 00:00:00,China PR,Singapore,2,1,FIFA World Cup qualification,Kunming,China PR,False
+2011-09-02 00:00:00,Cyprus,Portugal,0,4,UEFA Euro qualification,Nicosia,Cyprus,False
+2011-09-02 00:00:00,Dominica,Nicaragua,0,2,FIFA World Cup qualification,Roseau,Dominica,False
+2011-09-02 00:00:00,Ecuador,Jamaica,5,2,Friendly,Quito,Ecuador,False
+2011-09-02 00:00:00,El Salvador,Dominican Republic,3,2,FIFA World Cup qualification,San Salvador,El Salvador,False
+2011-09-02 00:00:00,Faroe Islands,Italy,0,1,UEFA Euro qualification,T√≥rshavn,Faroe Islands,False
+2011-09-02 00:00:00,Finland,Moldova,4,1,UEFA Euro qualification,Helsinki,Finland,False
+2011-09-02 00:00:00,Georgia,Latvia,0,1,UEFA Euro qualification,Tbilisi,Georgia,False
+2011-09-02 00:00:00,Germany,Austria,6,2,UEFA Euro qualification,Gelsenkirchen,Germany,False
+2011-09-02 00:00:00,Ghana,Eswatini,2,0,African Cup of Nations qualification,Accra,Ghana,False
+2011-09-02 00:00:00,Grenada,Belize,0,3,FIFA World Cup qualification,St. George's,Grenada,False
+2011-09-02 00:00:00,Guyana,Barbados,2,0,FIFA World Cup qualification,Providence,Guyana,False
+2011-09-02 00:00:00,Haiti,United States Virgin Islands,6,0,FIFA World Cup qualification,Port-au-Prince,Haiti,False
+2011-09-02 00:00:00,Hungary,Sweden,2,1,UEFA Euro qualification,Budapest,Hungary,False
+2011-09-02 00:00:00,Iran,Indonesia,3,0,FIFA World Cup qualification,Tehran,Iran,False
+2011-09-02 00:00:00,Iraq,Jordan,0,2,FIFA World Cup qualification,Erbil,Iraq,False
+2011-09-02 00:00:00,Republic of Ireland,Slovakia,0,0,UEFA Euro qualification,Dublin,Republic of Ireland,False
+2011-09-02 00:00:00,Israel,Greece,0,1,UEFA Euro qualification,Jaffa,Israel,False
+2011-09-02 00:00:00,Japan,North Korea,1,0,FIFA World Cup qualification,Saitama,Japan,False
+2011-09-02 00:00:00,South Korea,Lebanon,6,0,FIFA World Cup qualification,Goyang,South Korea,False
+2011-09-02 00:00:00,Lithuania,Liechtenstein,0,0,UEFA Euro qualification,Kaunas,Lithuania,False
+2011-09-02 00:00:00,Luxembourg,Romania,0,2,UEFA Euro qualification,Luxembourg,Luxembourg,False
+2011-09-02 00:00:00,Malta,Croatia,1,3,UEFA Euro qualification,Attard,Malta,False
+2011-09-02 00:00:00,Netherlands,San Marino,11,0,UEFA Euro qualification,Eindhoven,Netherlands,False
+2011-09-02 00:00:00,Northern Ireland,Serbia,0,1,UEFA Euro qualification,Belfast,Northern Ireland,False
+2011-09-02 00:00:00,Norway,Iceland,1,0,UEFA Euro qualification,Oslo,Norway,False
+2011-09-02 00:00:00,Oman,Saudi Arabia,0,0,FIFA World Cup qualification,Muscat,Oman,False
+2011-09-02 00:00:00,Panama,Paraguay,0,2,Friendly,Panama,Panama,False
+2011-09-02 00:00:00,Peru,Bolivia,2,2,Friendly,Lima,Peru,False
+2011-09-02 00:00:00,Poland,Mexico,1,1,Friendly,Warsaw,Poland,False
+2011-09-02 00:00:00,Russia,North Macedonia,1,0,UEFA Euro qualification,Moscow,Russia,False
+2011-09-02 00:00:00,Slovenia,Estonia,1,2,UEFA Euro qualification,Ljubljana,Slovenia,False
+2011-09-02 00:00:00,Spain,Chile,3,2,Friendly,St. Gallen,Switzerland,True
+2011-09-02 00:00:00,Saint Kitts and Nevis,Puerto Rico,0,0,FIFA World Cup qualification,Basseterre,Saint Kitts and Nevis,False
+2011-09-02 00:00:00,Suriname,Cayman Islands,1,0,FIFA World Cup qualification,Paramaribo,Suriname,False
+2011-09-02 00:00:00,Tajikistan,Uzbekistan,0,1,FIFA World Cup qualification,Tursunzoda,Tajikistan,False
+2011-09-02 00:00:00,Trinidad and Tobago,Bermuda,1,0,FIFA World Cup qualification,Port of Spain,Trinidad and Tobago,False
+2011-09-02 00:00:00,Turkey,Kazakhstan,2,1,UEFA Euro qualification,Istanbul,Turkey,False
+2011-09-02 00:00:00,Ukraine,Uruguay,2,3,Friendly,Kharkiv,Ukraine,False
+2011-09-02 00:00:00,United Arab Emirates,Kuwait,2,3,FIFA World Cup qualification,Al Ain,United Arab Emirates,False
+2011-09-02 00:00:00,United States,Costa Rica,0,1,Friendly,Carson,United States,False
+2011-09-02 00:00:00,Wales,Montenegro,2,1,UEFA Euro qualification,Cardiff,Wales,False
+2011-09-03 00:00:00,Burkina Faso,Equatorial Guinea,1,0,Friendly,Bobo Dioulasso,Burkina Faso,False
+2011-09-03 00:00:00,Cameroon,Mauritius,6,0,African Cup of Nations qualification,Yaound√©,Cameroon,False
+2011-09-03 00:00:00,Cook Islands,Fiji,1,4,Pacific Games,Boulari,New Caledonia,True
+2011-09-03 00:00:00,Guam,Vanuatu,1,4,Pacific Games,Noum√©a,New Caledonia,True
+2011-09-03 00:00:00,Honduras,Colombia,0,2,Friendly,Harrison,United States,True
+2011-09-03 00:00:00,Kenya,Guinea-Bissau,2,1,African Cup of Nations qualification,Nairobi,Kenya,False
+2011-09-03 00:00:00,Kiribati,Papua New Guinea,1,17,Pacific Games,Boulari,New Caledonia,True
+2011-09-03 00:00:00,Malawi,Tunisia,0,0,African Cup of Nations qualification,Blantyre,Malawi,False
+2011-09-03 00:00:00,Namibia,Gambia,1,0,African Cup of Nations qualification,Windhoek,Namibia,False
+2011-09-03 00:00:00,New Caledonia,American Samoa,8,0,Pacific Games,Noum√©a,New Caledonia,False
+2011-09-03 00:00:00,Rwanda,Ivory Coast,0,5,African Cup of Nations qualification,Kigali,Rwanda,False
+2011-09-03 00:00:00,Scotland,Czech Republic,2,2,UEFA Euro qualification,Glasgow,Scotland,False
+2011-09-03 00:00:00,Senegal,DR Congo,2,0,African Cup of Nations qualification,Dakar,Senegal,False
+2011-09-03 00:00:00,Sierra Leone,Egypt,2,1,African Cup of Nations qualification,Freetown,Sierra Leone,False
+2011-09-03 00:00:00,Solomon Islands,Tuvalu,6,1,Pacific Games,Noum√©a,New Caledonia,True
+2011-09-03 00:00:00,Tanzania,Algeria,1,1,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+2011-09-04 00:00:00,Angola,Uganda,2,0,African Cup of Nations qualification,Luanda,Angola,False
+2011-09-04 00:00:00,Burundi,Benin,1,1,African Cup of Nations qualification,Bujumbura,Burundi,False
+2011-09-04 00:00:00,Central African Republic,Morocco,0,0,African Cup of Nations qualification,Bangui,Central African Republic,False
+2011-09-04 00:00:00,Comoros,Zambia,1,2,African Cup of Nations qualification,Mitsamiouli,Comoros,False
+2011-09-04 00:00:00,Congo,Sudan,0,1,African Cup of Nations qualification,Brazzaville,Congo,False
+2011-09-04 00:00:00,Guinea,Ethiopia,1,0,African Cup of Nations qualification,Conakry,Guinea,False
+2011-09-04 00:00:00,Madagascar,Nigeria,0,2,African Cup of Nations qualification,Antananarivo,Madagascar,False
+2011-09-04 00:00:00,Mexico,Chile,1,0,Friendly,Barcelona,Spain,True
+2011-09-04 00:00:00,Niger,South Africa,2,1,African Cup of Nations qualification,Niamey,Niger,False
+2011-09-04 00:00:00,Togo,Botswana,1,0,African Cup of Nations qualification,Lom√©,Togo,False
+2011-09-04 00:00:00,Zimbabwe,Liberia,3,0,African Cup of Nations qualification,Harare,Zimbabwe,False
+2011-09-05 00:00:00,American Samoa,Vanuatu,0,8,Pacific Games,Noum√©a,New Caledonia,True
+2011-09-05 00:00:00,Bolivia,Peru,0,0,Friendly,La Paz,Bolivia,False
+2011-09-05 00:00:00,Brazil,Ghana,1,0,Friendly,London,England,True
+2011-09-05 00:00:00,Guam,Tuvalu,1,1,Pacific Games,Noum√©a,New Caledonia,True
+2011-09-05 00:00:00,Kiribati,Tahiti,1,17,Pacific Games,Boulari,New Caledonia,True
+2011-09-05 00:00:00,New Caledonia,Solomon Islands,1,2,Pacific Games,Noum√©a,New Caledonia,False
+2011-09-05 00:00:00,Papua New Guinea,Fiji,0,2,Pacific Games,Boulari,New Caledonia,True
+2011-09-06 00:00:00,Argentina,Nigeria,3,1,Friendly,Dhaka,Bangladesh,True
+2011-09-06 00:00:00,Austria,Turkey,0,0,UEFA Euro qualification,Vienna,Austria,False
+2011-09-06 00:00:00,Azerbaijan,Kazakhstan,3,2,UEFA Euro qualification,Baku,Azerbaijan,False
+2011-09-06 00:00:00,Barbados,Trinidad and Tobago,0,2,FIFA World Cup qualification,Bridgetown,Barbados,False
+2011-09-06 00:00:00,Belgium,United States,1,0,Friendly,Brussels,Belgium,False
+2011-09-06 00:00:00,Belize,Guatemala,1,2,FIFA World Cup qualification,Belmopan,Belize,False
+2011-09-06 00:00:00,Bosnia and Herzegovina,Belarus,1,0,UEFA Euro qualification,Zenica,Bosnia and Herzegovina,False
+2011-09-06 00:00:00,Cayman Islands,El Salvador,1,4,FIFA World Cup qualification,George Town,Cayman Islands,False
+2011-09-06 00:00:00,Croatia,Israel,3,1,UEFA Euro qualification,Zagreb,Croatia,False
+2011-09-06 00:00:00,Cura√ßao,Haiti,2,4,FIFA World Cup qualification,Willemstad,Cura√ßao,False
+2011-09-06 00:00:00,Czech Republic,Ukraine,4,0,Friendly,Prague,Czech Republic,False
+2011-09-06 00:00:00,Denmark,Norway,2,0,UEFA Euro qualification,Copenhagen,Denmark,False
+2011-09-06 00:00:00,Dominican Republic,Suriname,1,1,FIFA World Cup qualification,San Crist√≥bal,Dominican Republic,False
+2011-09-06 00:00:00,Ecuador,Costa Rica,4,0,Friendly,Quito,Ecuador,False
+2011-09-06 00:00:00,England,Wales,1,0,UEFA Euro qualification,London,England,False
+2011-09-06 00:00:00,Estonia,Northern Ireland,4,1,UEFA Euro qualification,Tallinn,Estonia,False
+2011-09-06 00:00:00,Finland,Netherlands,0,2,UEFA Euro qualification,Helsinki,Finland,False
+2011-09-06 00:00:00,Gabon,Niger,1,0,Friendly,Nice,France,True
+2011-09-06 00:00:00,Guyana,Bermuda,2,1,FIFA World Cup qualification,Georgetown,Guyana,False
+2011-09-06 00:00:00,Honduras,Paraguay,0,3,Friendly,San Pedro Sula,Honduras,False
+2011-09-06 00:00:00,Iceland,Cyprus,1,0,UEFA Euro qualification,Reykjav√≠k,Iceland,False
+2011-09-06 00:00:00,Indonesia,Bahrain,0,2,FIFA World Cup qualification,Jakarta,Indonesia,False
+2011-09-06 00:00:00,Italy,Slovenia,1,0,UEFA Euro qualification,Florence,Italy,False
+2011-09-06 00:00:00,Jamaica,Colombia,0,2,Friendly,Fort Lauderdale,United States,True
+2011-09-06 00:00:00,Jordan,China PR,2,1,FIFA World Cup qualification,Amman,Jordan,False
+2011-09-06 00:00:00,North Korea,Tajikistan,1,0,FIFA World Cup qualification,Pyongyang,North Korea,False
+2011-09-06 00:00:00,Kuwait,South Korea,1,1,FIFA World Cup qualification,Kuwait City,Kuwait,False
+2011-09-06 00:00:00,Latvia,Greece,1,1,UEFA Euro qualification,Riga,Latvia,False
+2011-09-06 00:00:00,Lebanon,United Arab Emirates,3,1,FIFA World Cup qualification,Beirut,Lebanon,False
+2011-09-06 00:00:00,Luxembourg,Albania,2,1,UEFA Euro qualification,Luxembourg,Luxembourg,False
+2011-09-06 00:00:00,North Macedonia,Andorra,1,0,UEFA Euro qualification,Skopje,North Macedonia,False
+2011-09-06 00:00:00,Malta,Georgia,1,1,UEFA Euro qualification,Attard,Malta,False
+2011-09-06 00:00:00,Moldova,Hungary,0,2,UEFA Euro qualification,Chi»ôinƒÉu,Moldova,False
+2011-09-06 00:00:00,Nicaragua,Panama,1,2,FIFA World Cup qualification,Managua,Nicaragua,False
+2011-09-06 00:00:00,Poland,Germany,2,2,Friendly,Gda≈Ñsk,Poland,False
+2011-09-06 00:00:00,Puerto Rico,Canada,0,3,FIFA World Cup qualification,Bayam√≥n,Puerto Rico,False
+2011-09-06 00:00:00,Qatar,Iran,1,1,FIFA World Cup qualification,Doha,Qatar,False
+2011-09-06 00:00:00,Romania,France,0,0,UEFA Euro qualification,Bucharest,Romania,False
+2011-09-06 00:00:00,Russia,Republic of Ireland,0,0,UEFA Euro qualification,Moscow,Russia,False
+2011-09-06 00:00:00,San Marino,Sweden,0,5,UEFA Euro qualification,Serravalle,San Marino,False
+2011-09-06 00:00:00,Saudi Arabia,Australia,1,3,FIFA World Cup qualification,Riyadh,Saudi Arabia,False
+2011-09-06 00:00:00,Scotland,Lithuania,1,0,UEFA Euro qualification,Glasgow,Scotland,False
+2011-09-06 00:00:00,Serbia,Faroe Islands,3,1,UEFA Euro qualification,Belgrade,Serbia,False
+2011-09-06 00:00:00,Singapore,Iraq,0,2,FIFA World Cup qualification,Singapore,Singapore,False
+2011-09-06 00:00:00,Slovakia,Armenia,0,4,UEFA Euro qualification,≈Ωilina,Slovakia,False
+2011-09-06 00:00:00,Spain,Liechtenstein,6,0,UEFA Euro qualification,Logro√±o,Spain,False
+2011-09-06 00:00:00,Saint Lucia,Saint Kitts and Nevis,2,4,FIFA World Cup qualification,Gros Islet,Saint Lucia,False
+2011-09-06 00:00:00,Switzerland,Bulgaria,3,1,UEFA Euro qualification,Basel,Switzerland,False
+2011-09-06 00:00:00,Thailand,Oman,3,0,FIFA World Cup qualification,Bangkok,Thailand,False
+2011-09-06 00:00:00,Uzbekistan,Japan,1,1,FIFA World Cup qualification,Tashkent,Uzbekistan,False
+2011-09-06 00:00:00,Venezuela,Guinea,2,1,Friendly,Caracas,Venezuela,False
+2011-09-06 00:00:00,United States Virgin Islands,Antigua and Barbuda,1,8,FIFA World Cup qualification,Frederiksted,United States Virgin Islands,False
+2011-09-07 00:00:00,Equatorial Guinea,Central African Republic,3,0,Friendly,Malabo,Equatorial Guinea,False
+2011-09-07 00:00:00,New Caledonia,Tahiti,3,1,Pacific Games,Kon√©,New Caledonia,False
+2011-09-07 00:00:00,Solomon Islands,Fiji,2,1,Pacific Games,Lifou,New Caledonia,True
+2011-09-09 00:00:00,New Caledonia,Solomon Islands,2,0,Pacific Games,Noum√©a,New Caledonia,False
+2011-09-09 00:00:00,Tahiti,Fiji,2,1,Pacific Games,Boulari,New Caledonia,True
+2011-09-11 00:00:00,Saint Vincent and the Grenadines,Dominica,1,0,Friendly,Kingstown,Saint Vincent and the Grenadines,False
+2011-09-14 00:00:00,Argentina,Brazil,0,0,Supercl√°sico de las Am√©ricas,C√≥rdoba,Argentina,False
+2011-09-23 00:00:00,Suriname,Cura√ßao,2,0,Friendly,Paramaribo,Suriname,False
+2011-09-25 00:00:00,Suriname,Cura√ßao,2,2,Friendly,Paramaribo,Suriname,False
+2011-09-28 00:00:00,Brazil,Argentina,2,0,Supercl√°sico de las Am√©ricas,Bel√©m,Brazil,False
+2011-09-30 00:00:00,Antigua and Barbuda,Martinique,1,0,Friendly,Osbourn,Antigua and Barbuda,False
+2011-09-30 00:00:00,Hong Kong,Philippines,3,3,Dragon Cup,Kaohsiung,Taiwan,True
+2011-10-01 00:00:00,Ethiopia,Sudan,1,2,Friendly,Addis Ababa,Ethiopia,False
+2011-10-02 00:00:00,Antigua and Barbuda,Martinique,1,2,Friendly,Osbourn,Antigua and Barbuda,False
+2011-10-02 00:00:00,Hong Kong,Macau,5,1,Dragon Cup,Kaohsiung,Taiwan,True
+2011-10-04 00:00:00,Ethiopia,Malawi,0,0,Friendly,Addis Ababa,Ethiopia,False
+2011-10-04 00:00:00,Philippines,Macau,2,0,Dragon Cup,Kaohsiung,Taiwan,True
+2011-10-05 00:00:00,Iran,Palestine,7,0,Friendly,Tehran,Iran,False
+2011-10-06 00:00:00,China PR,United Arab Emirates,2,1,Friendly,Shenzhen,China PR,False
+2011-10-06 00:00:00,Thailand,Jordan,0,0,Friendly,Bangkok,Thailand,False
+2011-10-07 00:00:00,Andorra,Republic of Ireland,0,2,UEFA Euro qualification,Sant Juli√† de L√≤ria,Andorra,False
+2011-10-07 00:00:00,Argentina,Chile,4,1,FIFA World Cup qualification,Buenos Aires,Argentina,False
+2011-10-07 00:00:00,Armenia,North Macedonia,4,1,UEFA Euro qualification,Yerevan,Armenia,False
+2011-10-07 00:00:00,Australia,Malaysia,5,0,Friendly,Canberra,Australia,False
+2011-10-07 00:00:00,Azerbaijan,Austria,1,4,UEFA Euro qualification,Baku,Azerbaijan,False
+2011-10-07 00:00:00,Barbados,Guyana,0,2,FIFA World Cup qualification,Bridgetown,Barbados,False
+2011-10-07 00:00:00,Belgium,Kazakhstan,4,1,UEFA Euro qualification,Brussels,Belgium,False
+2011-10-07 00:00:00,Belize,Grenada,1,4,FIFA World Cup qualification,Belmopan,Belize,False
+2011-10-07 00:00:00,Bermuda,Trinidad and Tobago,2,1,FIFA World Cup qualification,Hamilton,Bermuda,False
+2011-10-07 00:00:00,Bosnia and Herzegovina,Luxembourg,5,0,UEFA Euro qualification,Zenica,Bosnia and Herzegovina,False
+2011-10-07 00:00:00,Cayman Islands,Suriname,0,1,FIFA World Cup qualification,George Town,Cayman Islands,False
+2011-10-07 00:00:00,DR Congo,Cameroon,2,3,African Cup of Nations qualification,Kinshasa,DR Congo,False
+2011-10-07 00:00:00,Costa Rica,Brazil,0,1,Friendly,San Jos√©,Costa Rica,False
+2011-10-07 00:00:00,Cura√ßao,Antigua and Barbuda,0,1,FIFA World Cup qualification,Willemstad,Cura√ßao,False
+2011-10-07 00:00:00,Cyprus,Denmark,1,4,UEFA Euro qualification,Nicosia,Cyprus,False
+2011-10-07 00:00:00,Czech Republic,Spain,0,2,UEFA Euro qualification,Prague,Czech Republic,False
+2011-10-07 00:00:00,Dominica,Panama,0,5,FIFA World Cup qualification,Roseau,Dominica,False
+2011-10-07 00:00:00,Dominican Republic,El Salvador,1,2,FIFA World Cup qualification,San Crist√≥bal,Dominican Republic,False
+2011-10-07 00:00:00,Ecuador,Venezuela,2,0,FIFA World Cup qualification,Quito,Ecuador,False
+2011-10-07 00:00:00,Finland,Sweden,1,2,UEFA Euro qualification,Helsinki,Finland,False
+2011-10-07 00:00:00,France,Albania,3,0,UEFA Euro qualification,Saint-Denis,France,False
+2011-10-07 00:00:00,Gabon,Equatorial Guinea,2,0,Friendly,Nice,France,True
+2011-10-07 00:00:00,Greece,Croatia,2,0,UEFA Euro qualification,Piraeus,Greece,False
+2011-10-07 00:00:00,Indonesia,Saudi Arabia,0,0,Friendly,Kuala Lumpur,Malaysia,True
+2011-10-07 00:00:00,Japan,Vietnam,1,0,Friendly,Kobe,Japan,False
+2011-10-07 00:00:00,South Korea,Poland,2,2,Friendly,Seoul,South Korea,False
+2011-10-07 00:00:00,Latvia,Malta,2,0,UEFA Euro qualification,Riga,Latvia,False
+2011-10-07 00:00:00,Montenegro,England,2,2,UEFA Euro qualification,Podgorica,Montenegro,False
+2011-10-07 00:00:00,Netherlands,Moldova,1,0,UEFA Euro qualification,Rotterdam,Netherlands,False
+2011-10-07 00:00:00,Northern Ireland,Estonia,1,2,UEFA Euro qualification,Belfast,Northern Ireland,False
+2011-10-07 00:00:00,Peru,Paraguay,2,0,FIFA World Cup qualification,Lima,Peru,False
+2011-10-07 00:00:00,Portugal,Iceland,5,3,UEFA Euro qualification,Porto,Portugal,False
+2011-10-07 00:00:00,Puerto Rico,Saint Kitts and Nevis,1,1,FIFA World Cup qualification,Bayam√≥n,Puerto Rico,False
+2011-10-07 00:00:00,Romania,Belarus,2,2,UEFA Euro qualification,Bucharest,Romania,False
+2011-10-07 00:00:00,Serbia,Italy,1,1,UEFA Euro qualification,Belgrade,Serbia,False
+2011-10-07 00:00:00,Singapore,Philippines,2,0,Friendly,Singapore,Singapore,False
+2011-10-07 00:00:00,Slovakia,Russia,0,1,UEFA Euro qualification,≈Ωilina,Slovakia,False
+2011-10-07 00:00:00,Saint Lucia,Canada,0,7,FIFA World Cup qualification,Gros Islet,Saint Lucia,False
+2011-10-07 00:00:00,Turkey,Germany,1,3,UEFA Euro qualification,Istanbul,Turkey,False
+2011-10-07 00:00:00,Ukraine,Bulgaria,3,0,Friendly,Kyiv,Ukraine,False
+2011-10-07 00:00:00,Uruguay,Bolivia,4,2,FIFA World Cup qualification,Montevideo,Uruguay,False
+2011-10-07 00:00:00,United States Virgin Islands,Haiti,0,7,FIFA World Cup qualification,Frederiksted,United States Virgin Islands,False
+2011-10-07 00:00:00,Wales,Switzerland,2,0,UEFA Euro qualification,Swansea,Wales,False
+2011-10-08 00:00:00,Cape Verde,Zimbabwe,2,1,African Cup of Nations qualification,Praia,Cape Verde,False
+2011-10-08 00:00:00,Chad,Malawi,2,2,African Cup of Nations qualification,N'Djamena,Chad,False
+2011-10-08 00:00:00,Egypt,Niger,3,0,African Cup of Nations qualification,Cairo,Egypt,False
+2011-10-08 00:00:00,Ethiopia,Madagascar,4,2,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+2011-10-08 00:00:00,Gambia,Burkina Faso,1,1,African Cup of Nations qualification,Bakau,Gambia,False
+2011-10-08 00:00:00,Guinea-Bissau,Angola,0,2,African Cup of Nations qualification,Bissau,Guinea-Bissau,False
+2011-10-08 00:00:00,Liberia,Mali,1,2,African Cup of Nations qualification,Paynesville,Liberia,False
+2011-10-08 00:00:00,Liechtenstein,Scotland,0,1,UEFA Euro qualification,Vaduz,Liechtenstein,False
+2011-10-08 00:00:00,Mozambique,Comoros,3,0,African Cup of Nations qualification,Maputo,Mozambique,False
+2011-10-08 00:00:00,Nigeria,Guinea,2,2,African Cup of Nations qualification,Abuja,Nigeria,False
+2011-10-08 00:00:00,South Africa,Sierra Leone,0,0,African Cup of Nations qualification,Nelspruit,South Africa,False
+2011-10-08 00:00:00,Sudan,Ghana,0,2,African Cup of Nations qualification,Khartoum,Sudan,False
+2011-10-08 00:00:00,Eswatini,Congo,0,1,African Cup of Nations qualification,Lobamba,Eswatini,False
+2011-10-08 00:00:00,Tunisia,Togo,2,0,African Cup of Nations qualification,Rad√®s,Tunisia,False
+2011-10-08 00:00:00,Uganda,Kenya,0,0,African Cup of Nations qualification,Kampala,Uganda,False
+2011-10-08 00:00:00,United States,Honduras,1,0,Friendly,Miami Gardens,United States,False
+2011-10-08 00:00:00,Zambia,Libya,0,0,African Cup of Nations qualification,Chingola,Zambia,False
+2011-10-09 00:00:00,Algeria,Central African Republic,2,0,African Cup of Nations qualification,Algiers,Algeria,False
+2011-10-09 00:00:00,Benin,Rwanda,0,1,African Cup of Nations qualification,Cotonou,Benin,False
+2011-10-09 00:00:00,Ivory Coast,Burundi,2,1,African Cup of Nations qualification,Abidjan,Ivory Coast,False
+2011-10-09 00:00:00,Mauritius,Senegal,0,2,African Cup of Nations qualification,Mapou,Mauritius,False
+2011-10-09 00:00:00,Morocco,Tanzania,3,1,African Cup of Nations qualification,Marrakech,Morocco,False
+2011-10-11 00:00:00,Albania,Romania,1,1,UEFA Euro qualification,Tirana,Albania,False
+2011-10-11 00:00:00,Antigua and Barbuda,United States Virgin Islands,10,0,FIFA World Cup qualification,St. John's,Antigua and Barbuda,False
+2011-10-11 00:00:00,Australia,Oman,3,0,FIFA World Cup qualification,Sydney,Australia,False
+2011-10-11 00:00:00,Belarus,Poland,0,2,Friendly,Wiesbaden,Germany,True
+2011-10-11 00:00:00,Bermuda,Guyana,1,1,FIFA World Cup qualification,Hamilton,Bermuda,False
+2011-10-11 00:00:00,Bolivia,Colombia,1,2,FIFA World Cup qualification,La Paz,Bolivia,False
+2011-10-11 00:00:00,Bulgaria,Wales,0,1,UEFA Euro qualification,Sofia,Bulgaria,False
+2011-10-11 00:00:00,Canada,Puerto Rico,0,0,FIFA World Cup qualification,Toronto,Canada,False
+2011-10-11 00:00:00,Chile,Peru,4,2,FIFA World Cup qualification,Santiago,Chile,False
+2011-10-11 00:00:00,China PR,Iraq,0,1,FIFA World Cup qualification,Shenzhen,China PR,False
+2011-10-11 00:00:00,Croatia,Latvia,2,0,UEFA Euro qualification,Rijeka,Croatia,False
+2011-10-11 00:00:00,Denmark,Portugal,2,1,UEFA Euro qualification,Copenhagen,Denmark,False
+2011-10-11 00:00:00,El Salvador,Cayman Islands,4,0,FIFA World Cup qualification,San Salvador,El Salvador,False
+2011-10-11 00:00:00,Equatorial Guinea,Cameroon,1,1,Friendly,Malabo,Equatorial Guinea,False
+2011-10-11 00:00:00,Estonia,Ukraine,0,2,Friendly,Tallinn,Estonia,False
+2011-10-11 00:00:00,France,Bosnia and Herzegovina,1,1,UEFA Euro qualification,Saint-Denis,France,False
+2011-10-11 00:00:00,Georgia,Greece,1,2,UEFA Euro qualification,Tbilisi,Georgia,False
+2011-10-11 00:00:00,Germany,Belgium,3,1,UEFA Euro qualification,D√ºsseldorf,Germany,False
+2011-10-11 00:00:00,Ghana,Nigeria,0,0,Friendly,Watford,England,True
+2011-10-11 00:00:00,Guatemala,Belize,3,1,FIFA World Cup qualification,Guatemala,Guatemala,False
+2011-10-11 00:00:00,Haiti,Cura√ßao,2,2,FIFA World Cup qualification,Port-au-Prince,Haiti,False
+2011-10-11 00:00:00,Honduras,Jamaica,2,1,Friendly,La Ceiba,Honduras,False
+2011-10-11 00:00:00,Hungary,Finland,0,0,UEFA Euro qualification,Budapest,Hungary,False
+2011-10-11 00:00:00,Indonesia,Qatar,2,3,FIFA World Cup qualification,Jakarta,Indonesia,False
+2011-10-11 00:00:00,Iran,Bahrain,6,0,FIFA World Cup qualification,Tehran,Iran,False
+2011-10-11 00:00:00,Republic of Ireland,Armenia,2,1,UEFA Euro qualification,Dublin,Republic of Ireland,False
+2011-10-11 00:00:00,Italy,Northern Ireland,3,0,UEFA Euro qualification,Pescara,Italy,False
+2011-10-11 00:00:00,Japan,Tajikistan,8,0,FIFA World Cup qualification,Osaka,Japan,False
+2011-10-11 00:00:00,Kazakhstan,Austria,0,0,UEFA Euro qualification,Astana,Kazakhstan,False
+2011-10-11 00:00:00,North Korea,Uzbekistan,0,1,FIFA World Cup qualification,Pyongyang,North Korea,False
+2011-10-11 00:00:00,South Korea,United Arab Emirates,2,1,FIFA World Cup qualification,Suwon,South Korea,False
+2011-10-11 00:00:00,Lebanon,Kuwait,2,2,FIFA World Cup qualification,Beirut,Lebanon,False
+2011-10-11 00:00:00,Lithuania,Czech Republic,1,4,UEFA Euro qualification,Kaunas,Lithuania,False
+2011-10-11 00:00:00,North Macedonia,Slovakia,1,1,UEFA Euro qualification,Skopje,North Macedonia,False
+2011-10-11 00:00:00,Malta,Israel,0,2,UEFA Euro qualification,Attard,Malta,False
+2011-10-11 00:00:00,Mexico,Brazil,1,2,Friendly,Torre√≥n,Mexico,False
+2011-10-11 00:00:00,Moldova,San Marino,4,0,UEFA Euro qualification,Chi»ôinƒÉu,Moldova,False
+2011-10-11 00:00:00,Norway,Cyprus,3,1,UEFA Euro qualification,Oslo,Norway,False
+2011-10-11 00:00:00,Panama,Nicaragua,5,1,FIFA World Cup qualification,Panama City,Panama,False
+2011-10-11 00:00:00,Paraguay,Uruguay,1,1,FIFA World Cup qualification,Asunci√≥n,Paraguay,False
+2011-10-11 00:00:00,Philippines,Nepal,4,0,Friendly,Manila,Philippines,False
+2011-10-11 00:00:00,Russia,Andorra,6,0,UEFA Euro qualification,Moscow,Russia,False
+2011-10-11 00:00:00,Singapore,Jordan,0,3,FIFA World Cup qualification,Singapore,Singapore,False
+2011-10-11 00:00:00,Slovenia,Serbia,1,0,UEFA Euro qualification,Maribor,Slovenia,False
+2011-10-11 00:00:00,Spain,Scotland,3,1,UEFA Euro qualification,Alicante,Spain,False
+2011-10-11 00:00:00,Saint Kitts and Nevis,Saint Lucia,1,1,FIFA World Cup qualification,Basseterre,Saint Kitts and Nevis,False
+2011-10-11 00:00:00,Suriname,Dominican Republic,1,3,FIFA World Cup qualification,Paramaribo,Suriname,False
+2011-10-11 00:00:00,Sweden,Netherlands,3,2,UEFA Euro qualification,Solna,Sweden,False
+2011-10-11 00:00:00,Switzerland,Montenegro,2,0,UEFA Euro qualification,Basel,Switzerland,False
+2011-10-11 00:00:00,Thailand,Saudi Arabia,0,0,FIFA World Cup qualification,Bangkok,Thailand,False
+2011-10-11 00:00:00,Trinidad and Tobago,Barbados,4,0,FIFA World Cup qualification,Port of Spain,Trinidad and Tobago,False
+2011-10-11 00:00:00,Turkey,Azerbaijan,1,0,UEFA Euro qualification,Istanbul,Turkey,False
+2011-10-11 00:00:00,United States,Ecuador,0,1,Friendly,Harrison,United States,False
+2011-10-11 00:00:00,Venezuela,Argentina,1,0,FIFA World Cup qualification,Puerto la Cruz,Venezuela,False
+2011-10-31 00:00:00,Namibia,Lesotho,0,0,Friendly,Windhoek,Namibia,False
+2011-11-04 00:00:00,Kuwait,Bahrain,0,1,Friendly,Kuwait City,Kuwait,False
+2011-11-04 00:00:00,Qatar,Oman,0,0,Friendly,Doha,Qatar,False
+2011-11-05 00:00:00,Antigua and Barbuda,Guadeloupe,0,0,Friendly,Osbourn,Antigua and Barbuda,False
+2011-11-06 00:00:00,Iraq,Lebanon,1,0,Friendly,Doha,Qatar,True
+2011-11-06 00:00:00,Lesotho,DR Congo,0,3,Friendly,Pretoria,South Africa,True
+2011-11-10 00:00:00,Gabon,Brazil,0,2,Friendly,Libreville,Gabon,False
+2011-11-11 00:00:00,Albania,Azerbaijan,0,1,Friendly,Tirana,Albania,False
+2011-11-11 00:00:00,Antigua and Barbuda,Haiti,1,0,FIFA World Cup qualification,St. John's,Antigua and Barbuda,False
+2011-11-11 00:00:00,Argentina,Bolivia,1,1,FIFA World Cup qualification,Buenos Aires,Argentina,False
+2011-11-11 00:00:00,Bahrain,Iran,1,1,FIFA World Cup qualification,Riffa,Bahrain,False
+2011-11-11 00:00:00,Belgium,Romania,2,1,Friendly,Li√®ge,Belgium,False
+2011-11-11 00:00:00,Bermuda,Barbados,2,1,FIFA World Cup qualification,Hamilton,Bermuda,False
+2011-11-11 00:00:00,Bosnia and Herzegovina,Portugal,0,0,UEFA Euro qualification,Zenica,Bosnia and Herzegovina,False
+2011-11-11 00:00:00,Burkina Faso,Mali,1,1,Friendly,Saint-Leu-la-For√™t,France,True
+2011-11-11 00:00:00,Cameroon,Sudan,3,1,Friendly,Marrakech,Morocco,True
+2011-11-11 00:00:00,Chad,Tanzania,1,2,FIFA World Cup qualification,N'Djamena,Chad,False
+2011-11-11 00:00:00,Colombia,Venezuela,1,1,FIFA World Cup qualification,Barranquilla,Colombia,False
+2011-11-11 00:00:00,Comoros,Mozambique,0,1,FIFA World Cup qualification,Mitsamiouli,Comoros,False
+2011-11-11 00:00:00,Cyprus,Scotland,1,2,Friendly,Larnaca,Cyprus,False
+2011-11-11 00:00:00,Czech Republic,Montenegro,2,0,UEFA Euro qualification,Prague,Czech Republic,False
+2011-11-11 00:00:00,Denmark,Sweden,2,0,Friendly,Copenhagen,Denmark,False
+2011-11-11 00:00:00,Djibouti,Namibia,0,4,FIFA World Cup qualification,Djibouti,Djibouti,False
+2011-11-11 00:00:00,Dominican Republic,Cayman Islands,4,0,FIFA World Cup qualification,San Crist√≥bal,Dominican Republic,False
+2011-11-11 00:00:00,Equatorial Guinea,Madagascar,2,0,FIFA World Cup qualification,Malabo,Equatorial Guinea,False
+2011-11-11 00:00:00,Eritrea,Rwanda,1,1,FIFA World Cup qualification,Asmara,Eritrea,False
+2011-11-11 00:00:00,Estonia,Republic of Ireland,0,4,UEFA Euro qualification,Tallinn,Estonia,False
+2011-11-11 00:00:00,France,United States,1,0,Friendly,Saint-Denis,France,False
+2011-11-11 00:00:00,Georgia,Moldova,2,0,Friendly,Tbilisi,Georgia,False
+2011-11-11 00:00:00,Greece,Russia,1,1,Friendly,Piraeus,Greece,False
+2011-11-11 00:00:00,Guatemala,Grenada,3,0,FIFA World Cup qualification,Guatemala,Guatemala,False
+2011-11-11 00:00:00,Guinea-Bissau,Togo,1,1,FIFA World Cup qualification,Bissau,Guinea-Bissau,False
+2011-11-11 00:00:00,Guyana,Trinidad and Tobago,2,1,FIFA World Cup qualification,Providence,Guyana,False
+2011-11-11 00:00:00,Hungary,Liechtenstein,5,0,Friendly,Budapest,Hungary,False
+2011-11-11 00:00:00,Iraq,China PR,1,0,FIFA World Cup qualification,Doha,Qatar,True
+2011-11-11 00:00:00,Jordan,Singapore,2,0,FIFA World Cup qualification,Amman,Jordan,False
+2011-11-11 00:00:00,Kuwait,Lebanon,0,1,FIFA World Cup qualification,Kuwait City,Kuwait,False
+2011-11-11 00:00:00,Lesotho,Burundi,1,0,FIFA World Cup qualification,Maseru,Lesotho,False
+2011-11-11 00:00:00,Mexico,Serbia,2,0,Friendly,Quer√©taro,Mexico,False
+2011-11-11 00:00:00,Morocco,Uganda,0,1,Friendly,Marrakech,Morocco,False
+2011-11-11 00:00:00,Netherlands,Switzerland,0,0,Friendly,Amsterdam,Netherlands,False
+2011-11-11 00:00:00,Nicaragua,Dominica,1,0,FIFA World Cup qualification,Managua,Nicaragua,False
+2011-11-11 00:00:00,Oman,Australia,1,0,FIFA World Cup qualification,Muscat,Oman,False
+2011-11-11 00:00:00,Panama,Costa Rica,2,0,Friendly,Panama City,Panama,False
+2011-11-11 00:00:00,Paraguay,Ecuador,2,1,FIFA World Cup qualification,Asunci√≥n,Paraguay,False
+2011-11-11 00:00:00,Poland,Italy,0,2,Friendly,Wroc≈Çaw,Poland,False
+2011-11-11 00:00:00,Puerto Rico,Saint Lucia,4,0,FIFA World Cup qualification,Bayam√≥n,Puerto Rico,False
+2011-11-11 00:00:00,Qatar,Indonesia,4,0,FIFA World Cup qualification,Doha,Qatar,False
+2011-11-11 00:00:00,S√£o Tom√© and Pr√≠ncipe,Congo,0,5,FIFA World Cup qualification,S√£o Tom√©,S√£o Tom√© and Pr√≠ncipe,False
+2011-11-11 00:00:00,Saudi Arabia,Thailand,3,0,FIFA World Cup qualification,Riyadh,Saudi Arabia,False
+2011-11-11 00:00:00,Seychelles,Kenya,0,3,FIFA World Cup qualification,Victoria,Seychelles,False
+2011-11-11 00:00:00,Saint Kitts and Nevis,Canada,0,0,FIFA World Cup qualification,Basseterre,Saint Kitts and Nevis,False
+2011-11-11 00:00:00,Suriname,El Salvador,1,3,FIFA World Cup qualification,Paramaribo,Suriname,False
+2011-11-11 00:00:00,Eswatini,DR Congo,1,3,FIFA World Cup qualification,Lobamba,Eswatini,False
+2011-11-11 00:00:00,Tajikistan,Japan,0,4,FIFA World Cup qualification,Dushanbe,Tajikistan,False
+2011-11-11 00:00:00,Turkey,Croatia,0,3,UEFA Euro qualification,Istanbul,Turkey,False
+2011-11-11 00:00:00,Ukraine,Germany,3,3,Friendly,Kyiv,Ukraine,False
+2011-11-11 00:00:00,United Arab Emirates,South Korea,0,2,FIFA World Cup qualification,Dubai,United Arab Emirates,False
+2011-11-11 00:00:00,Uruguay,Chile,4,0,FIFA World Cup qualification,Montevideo,Uruguay,False
+2011-11-11 00:00:00,Uzbekistan,North Korea,1,0,FIFA World Cup qualification,Tashkent,Uzbekistan,False
+2011-11-11 00:00:00,United States Virgin Islands,Cura√ßao,0,3,FIFA World Cup qualification,Frederiksted,United States Virgin Islands,False
+2011-11-12 00:00:00,Algeria,Tunisia,1,0,Friendly,Algiers,Algeria,False
+2011-11-12 00:00:00,England,Spain,1,0,Friendly,London,England,False
+2011-11-12 00:00:00,Nigeria,Botswana,0,0,Friendly,Abuja,Nigeria,False
+2011-11-12 00:00:00,Somalia,Ethiopia,0,0,FIFA World Cup qualification,Djibouti,Djibouti,True
+2011-11-12 00:00:00,South Africa,Ivory Coast,1,1,Friendly,Port Elizabeth,South Africa,False
+2011-11-12 00:00:00,Wales,Norway,4,1,Friendly,Cardiff,Wales,False
+2011-11-13 00:00:00,India,Malaysia,1,1,Friendly,Guwahati,India,False
+2011-11-13 00:00:00,Morocco,Cameroon,1,1,Friendly,Marrakech,Morocco,False
+2011-11-13 00:00:00,Sudan,Uganda,0,0,Friendly,Marrakech,Morocco,True
+2011-11-14 00:00:00,Bermuda,Barbados,2,1,FIFA World Cup qualification,Hamilton,Bermuda,False
+2011-11-14 00:00:00,Brazil,Egypt,2,0,Friendly,Al Rayyan,Qatar,True
+2011-11-14 00:00:00,Cayman Islands,Dominican Republic,1,1,FIFA World Cup qualification,George Town,Cayman Islands,False
+2011-11-14 00:00:00,Honduras,Serbia,2,0,Friendly,San Pedro Sula,Honduras,False
+2011-11-14 00:00:00,Puerto Rico,Saint Lucia,3,0,FIFA World Cup qualification,Mayag√ºez,Puerto Rico,False
+2011-11-15 00:00:00,Belarus,Libya,1,1,Friendly,Dubai,United Arab Emirates,True
+2011-11-15 00:00:00,Burundi,Lesotho,2,2,FIFA World Cup qualification,Bujumbura,Burundi,False
+2011-11-15 00:00:00,Canada,Saint Kitts and Nevis,4,0,FIFA World Cup qualification,Toronto,Canada,False
+2011-11-15 00:00:00,Chile,Paraguay,2,0,FIFA World Cup qualification,Santiago,Chile,False
+2011-11-15 00:00:00,Colombia,Argentina,1,2,FIFA World Cup qualification,Barranquilla,Colombia,False
+2011-11-15 00:00:00,Congo,S√£o Tom√© and Pr√≠ncipe,1,1,FIFA World Cup qualification,Pointe-Noire,Congo,False
+2011-11-15 00:00:00,DR Congo,Eswatini,5,1,FIFA World Cup qualification,Kinshasa,DR Congo,False
+2011-11-15 00:00:00,Costa Rica,Spain,2,2,Friendly,San Jos√©,Costa Rica,False
+2011-11-15 00:00:00,Croatia,Turkey,0,0,UEFA Euro qualification,Zagreb,Croatia,False
+2011-11-15 00:00:00,Cura√ßao,United States Virgin Islands,6,1,FIFA World Cup qualification,Willemstad,Cura√ßao,False
+2011-11-15 00:00:00,Denmark,Finland,2,1,Friendly,Esbjerg,Denmark,False
+2011-11-15 00:00:00,Ecuador,Peru,2,0,FIFA World Cup qualification,Quito,Ecuador,False
+2011-11-15 00:00:00,El Salvador,Suriname,4,0,FIFA World Cup qualification,San Salvador,El Salvador,False
+2011-11-15 00:00:00,England,Sweden,1,0,Friendly,London,England,False
+2011-11-15 00:00:00,France,Belgium,0,0,Friendly,Saint-Denis,France,False
+2011-11-15 00:00:00,Germany,Netherlands,3,0,Friendly,Hamburg,Germany,False
+2011-11-15 00:00:00,Ghana,Gabon,2,1,Friendly,Saint-Leu-la-For√™t,France,True
+2011-11-15 00:00:00,Greece,Romania,1,3,Friendly,Altach,Austria,True
+2011-11-15 00:00:00,Grenada,Guatemala,1,4,FIFA World Cup qualification,St. George's,Grenada,False
+2011-11-15 00:00:00,Guinea,Burkina Faso,1,1,Friendly,Viry-Ch√¢tillon,France,True
+2011-11-15 00:00:00,Haiti,Antigua and Barbuda,2,1,FIFA World Cup qualification,Port-au-Prince,Haiti,False
+2011-11-15 00:00:00,Indonesia,Iran,1,4,FIFA World Cup qualification,Jakarta,Indonesia,False
+2011-11-15 00:00:00,Republic of Ireland,Estonia,1,1,UEFA Euro qualification,Dublin,Republic of Ireland,False
+2011-11-15 00:00:00,Italy,Uruguay,0,1,Friendly,Rome,Italy,False
+2011-11-15 00:00:00,Jordan,Iraq,1,3,FIFA World Cup qualification,Amman,Jordan,False
+2011-11-15 00:00:00,Kenya,Seychelles,4,0,FIFA World Cup qualification,Nairobi,Kenya,False
+2011-11-15 00:00:00,North Korea,Japan,1,0,FIFA World Cup qualification,Pyongyang,North Korea,False
+2011-11-15 00:00:00,Kuwait,United Arab Emirates,2,1,FIFA World Cup qualification,Kuwait City,Kuwait,False
+2011-11-15 00:00:00,Lebanon,South Korea,2,1,FIFA World Cup qualification,Beirut,Lebanon,False
+2011-11-15 00:00:00,Luxembourg,Switzerland,0,1,Friendly,Luxembourg,Luxembourg,False
+2011-11-15 00:00:00,North Macedonia,Albania,0,0,Friendly,Prilep,North Macedonia,False
+2011-11-15 00:00:00,Madagascar,Equatorial Guinea,2,1,FIFA World Cup qualification,Antananarivo,Madagascar,False
+2011-11-15 00:00:00,Montenegro,Czech Republic,0,1,UEFA Euro qualification,Podgorica,Montenegro,False
+2011-11-15 00:00:00,Mozambique,Comoros,4,1,FIFA World Cup qualification,Maputo,Mozambique,False
+2011-11-15 00:00:00,Namibia,Djibouti,4,0,FIFA World Cup qualification,Windhoek,Namibia,False
+2011-11-15 00:00:00,Niger,Botswana,1,1,Friendly,Niamey,Niger,False
+2011-11-15 00:00:00,Nigeria,Zambia,2,0,Friendly,Kaduna,Nigeria,False
+2011-11-15 00:00:00,Panama,Dominica,3,0,FIFA World Cup qualification,Panama City,Panama,False
+2011-11-15 00:00:00,Poland,Hungary,2,1,Friendly,Pozna≈Ñ,Poland,False
+2011-11-15 00:00:00,Portugal,Bosnia and Herzegovina,6,2,UEFA Euro qualification,Lisbon,Portugal,False
+2011-11-15 00:00:00,Qatar,Bahrain,0,0,FIFA World Cup qualification,Doha,Qatar,False
+2011-11-15 00:00:00,Rwanda,Eritrea,3,1,FIFA World Cup qualification,Kigali,Rwanda,False
+2011-11-15 00:00:00,Saudi Arabia,Oman,0,0,FIFA World Cup qualification,Riyadh,Saudi Arabia,False
+2011-11-15 00:00:00,Singapore,China PR,0,4,FIFA World Cup qualification,Singapore,Singapore,False
+2011-11-15 00:00:00,Slovenia,United States,2,3,Friendly,Ljubljana,Slovenia,False
+2011-11-15 00:00:00,Tanzania,Chad,0,1,FIFA World Cup qualification,Dar es Salaam,Tanzania,False
+2011-11-15 00:00:00,Thailand,Australia,0,1,FIFA World Cup qualification,Bangkok,Thailand,False
+2011-11-15 00:00:00,Togo,Guinea-Bissau,1,0,FIFA World Cup qualification,Lom√©,Togo,False
+2011-11-15 00:00:00,Trinidad and Tobago,Guyana,2,0,FIFA World Cup qualification,Port of Spain,Trinidad and Tobago,False
+2011-11-15 00:00:00,Ukraine,Austria,2,1,Friendly,Lviv,Ukraine,False
+2011-11-15 00:00:00,Uzbekistan,Tajikistan,3,0,FIFA World Cup qualification,Tashkent,Uzbekistan,False
+2011-11-15 00:00:00,Venezuela,Bolivia,1,0,FIFA World Cup qualification,San Crist√≥bal,Venezuela,False
+2011-11-15 00:00:00,Zimbabwe,South Africa,2,1,Friendly,Harare,Zimbabwe,False
+2011-11-16 00:00:00,Ethiopia,Somalia,5,0,FIFA World Cup qualification,Addis Ababa,Ethiopia,False
+2011-11-16 00:00:00,India,Malaysia,3,2,Friendly,Calcutta,India,False
+2011-11-22 00:00:00,American Samoa,Tonga,2,1,Oceania Nations Cup qualification,Apia,Samoa,True
+2011-11-22 00:00:00,Maldives,Seychelles,3,0,Friendly,Mal√©,Maldives,False
+2011-11-22 00:00:00,Samoa,Cook Islands,3,2,Oceania Nations Cup qualification,Apia,Samoa,False
+2011-11-24 00:00:00,American Samoa,Cook Islands,1,1,Oceania Nations Cup qualification,Apia,Samoa,True
+2011-11-24 00:00:00,Maldives,Seychelles,2,1,Friendly,Mal√©,Maldives,False
+2011-11-24 00:00:00,Samoa,Tonga,1,1,Oceania Nations Cup qualification,Apia,Samoa,False
+2011-11-25 00:00:00,Burundi,Somalia,4,1,CECAFA Cup,Dar es Salaam,Tanzania,True
+2011-11-25 00:00:00,Uganda,Zanzibar,2,1,CECAFA Cup,Dar es Salaam,Tanzania,True
+2011-11-26 00:00:00,Samoa,American Samoa,1,0,Oceania Nations Cup qualification,Apia,Samoa,False
+2011-11-26 00:00:00,Tanzania,Rwanda,0,1,CECAFA Cup,Dar es Salaam,Tanzania,False
+2011-11-26 00:00:00,Tonga,Cook Islands,2,1,Oceania Nations Cup qualification,Apia,Samoa,True
+2011-11-27 00:00:00,Zanzibar,Burundi,0,0,CECAFA Cup,Dar es Salaam,Tanzania,True
+2011-11-27 00:00:00,Zimbabwe,Djibouti,2,0,CECAFA Cup,Dar es Salaam,Tanzania,True
+2011-11-28 00:00:00,Kenya,Malawi,0,2,CECAFA Cup,Dar es Salaam,Tanzania,True
+2011-11-28 00:00:00,Somalia,Uganda,0,4,CECAFA Cup,Chamazi,Tanzania,True
+2011-11-28 00:00:00,Sudan,Ethiopia,1,1,CECAFA Cup,Dar es Salaam,Tanzania,True
+2011-11-29 00:00:00,India,Zambia,0,5,Friendly,Margao,India,False
+2011-11-29 00:00:00,Rwanda,Zimbabwe,2,0,CECAFA Cup,Dar es Salaam,Tanzania,True
+2011-11-29 00:00:00,Tanzania,Djibouti,3,0,CECAFA Cup,Dar es Salaam,Tanzania,False
+2011-11-30 00:00:00,Ethiopia,Kenya,0,2,CECAFA Cup,Dar es Salaam,Tanzania,True
+2011-11-30 00:00:00,Malawi,Sudan,0,0,CECAFA Cup,Dar es Salaam,Tanzania,True
+2011-12-01 00:00:00,Burundi,Uganda,1,0,CECAFA Cup,Dar es Salaam,Tanzania,True
+2011-12-01 00:00:00,Somalia,Zanzibar,0,3,CECAFA Cup,Dar es Salaam,Tanzania,True
+2011-12-02 00:00:00,Bangladesh,Pakistan,0,0,SAFF Cup,New Delhi,India,True
+2011-12-02 00:00:00,Cura√ßao,Bonaire,1,3,ABCS Tournament,Paramaribo,Suriname,True
+2011-12-02 00:00:00,Ethiopia,Malawi,1,1,CECAFA Cup,Dar es Salaam,Tanzania,True
+2011-12-02 00:00:00,Maldives,Nepal,1,1,SAFF Cup,New Delhi,India,True
+2011-12-02 00:00:00,Rwanda,Djibouti,5,2,CECAFA Cup,Dar es Salaam,Tanzania,True
+2011-12-02 00:00:00,Suriname,Aruba,0,0,ABCS Tournament,Paramaribo,Suriname,False
+2011-12-03 00:00:00,India,Afghanistan,1,1,SAFF Cup,New Delhi,India,False
+2011-12-03 00:00:00,Kenya,Sudan,0,1,CECAFA Cup,Dar es Salaam,Tanzania,True
+2011-12-03 00:00:00,Sri Lanka,Bhutan,3,0,SAFF Cup,New Delhi,India,True
+2011-12-03 00:00:00,Tanzania,Zimbabwe,1,2,CECAFA Cup,Dar es Salaam,Tanzania,False
+2011-12-04 00:00:00,Bangladesh,Nepal,0,1,SAFF Cup,New Delhi,India,True
+2011-12-04 00:00:00,Bonaire,Aruba,2,2,ABCS Tournament,Paramaribo,Suriname,True
+2011-12-04 00:00:00,Maldives,Pakistan,0,0,SAFF Cup,New Delhi,India,True
+2011-12-04 00:00:00,Suriname,Cura√ßao,2,0,ABCS Tournament,Paramaribo,Suriname,False
+2011-12-05 00:00:00,Burundi,Sudan,0,2,CECAFA Cup,Dar es Salaam,Tanzania,True
+2011-12-05 00:00:00,India,Bhutan,5,0,SAFF Cup,New Delhi,India,False
+2011-12-05 00:00:00,Rwanda,Zanzibar,2,1,CECAFA Cup,Dar es Salaam,Tanzania,True
+2011-12-05 00:00:00,Sri Lanka,Afghanistan,1,3,SAFF Cup,New Delhi,India,True
+2011-12-06 00:00:00,Bahrain,Palestine,0,1,Friendly,Arad,Bahrain,False
+2011-12-06 00:00:00,Maldives,Bangladesh,3,1,SAFF Cup,New Delhi,India,True
+2011-12-06 00:00:00,Pakistan,Nepal,1,1,SAFF Cup,New Delhi,India,True
+2011-12-06 00:00:00,Tanzania,Malawi,1,0,CECAFA Cup,Dar es Salaam,Tanzania,False
+2011-12-06 00:00:00,Uganda,Zimbabwe,1,0,CECAFA Cup,Dar es Salaam,Tanzania,True
+2011-12-07 00:00:00,Bhutan,Afghanistan,1,8,SAFF Cup,New Delhi,India,True
+2011-12-07 00:00:00,India,Sri Lanka,3,0,SAFF Cup,New Delhi,India,False
+2011-12-08 00:00:00,Sudan,Rwanda,1,2,CECAFA Cup,Dar es Salaam,Tanzania,True
+2011-12-08 00:00:00,Tanzania,Uganda,1,3,CECAFA Cup,Dar es Salaam,Tanzania,False
+2011-12-09 00:00:00,Afghanistan,Nepal,1,0,SAFF Cup,New Delhi,India,True
+2011-12-09 00:00:00,India,Maldives,3,1,SAFF Cup,New Delhi,India,False
+2011-12-10 00:00:00,Rwanda,Uganda,2,2,CECAFA Cup,Dar es Salaam,Tanzania,True
+2011-12-10 00:00:00,Tanzania,Sudan,0,1,CECAFA Cup,Dar es Salaam,Tanzania,False
+2011-12-11 00:00:00,Cuba,Costa Rica,1,1,Friendly,Havana,Cuba,False
+2011-12-11 00:00:00,India,Afghanistan,4,0,SAFF Cup,New Delhi,India,False
+2011-12-14 00:00:00,Angola,Cameroon,1,1,Friendly,Cabinda,Angola,False
+2011-12-18 00:00:00,Angola,Zambia,1,0,Friendly,Dundo,Angola,False
+2011-12-21 00:00:00,Chile,Paraguay,3,2,Friendly,La Serena,Chile,False
+2011-12-22 00:00:00,Angola,Namibia,0,0,Friendly,Lubango,Angola,False
+2011-12-22 00:00:00,Venezuela,Costa Rica,0,2,Friendly,Barquisimeto,Venezuela,False
+2011-12-28 00:00:00,Basque Country,Tunisia,0,2,Friendly,Bilbao,Spain,False
+2011-12-30 00:00:00,Catalonia,Tunisia,0,0,Friendly,Barcelona,Spain,False
+2012-01-06 00:00:00,Equatorial Guinea,South Africa,0,0,Friendly,Bata,Equatorial Guinea,False
+2012-01-07 00:00:00,Botswana,Zimbabwe,0,0,Friendly,Gaborone,Botswana,False
+2012-01-09 00:00:00,Gabon,Burkina Faso,0,0,Friendly,Bitam,Gabon,False
+2012-01-09 00:00:00,Tunisia,Sudan,3,0,Friendly,Sharjah,United Arab Emirates,True
+2012-01-11 00:00:00,Nigeria,Angola,0,0,Friendly,Abuja,Nigeria,False
+2012-01-12 00:00:00,Senegal,Sudan,1,0,Friendly,Dakar,Senegal,False
+2012-01-13 00:00:00,Tunisia,Ivory Coast,0,2,Friendly,Abu Dhabi,United Arab Emirates,True
+2012-01-14 00:00:00,Angola,Sierra Leone,3,1,Friendly,Cabinda,Angola,False
+2012-01-14 00:00:00,Zambia,Namibia,0,0,Friendly,Johannesburg,South Africa,True
+2012-01-15 00:00:00,Oman,DR Congo,2,2,Friendly,Muscat,Oman,False
+2012-01-15 00:00:00,S√£o Tom√© and Pr√≠ncipe,Lesotho,1,0,African Cup of Nations qualification,S√£o Tom√©,S√£o Tom√© and Pr√≠ncipe,False
+2012-01-16 00:00:00,Gabon,Sudan,0,0,Friendly,Franceville,Gabon,False
+2012-01-16 00:00:00,Ivory Coast,Libya,1,0,Friendly,Abu Dhabi,United Arab Emirates,True
+2012-01-17 00:00:00,Kuwait,Uzbekistan,1,0,Friendly,Kuwait City,Kuwait,False
+2012-01-18 00:00:00,Bahrain,Sweden,0,2,Friendly,Doha,Qatar,True
+2012-01-18 00:00:00,Thailand,Norway,0,1,King's Cup,Bangkok,Thailand,False
+2012-01-21 00:00:00,Equatorial Guinea,Libya,1,0,African Cup of Nations,Bata,Equatorial Guinea,False
+2012-01-21 00:00:00,Senegal,Zambia,1,2,African Cup of Nations,Bata,Equatorial Guinea,True
+2012-01-21 00:00:00,United States,Venezuela,1,0,Friendly,Glendale,United States,False
+2012-01-22 00:00:00,Burkina Faso,Angola,1,2,African Cup of Nations,Malabo,Equatorial Guinea,True

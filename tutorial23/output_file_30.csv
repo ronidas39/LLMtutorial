@@ -1,0 +1,1001 @@
+date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
+2007-12-07 00:00:00,Guinea-Bissau,Cape Verde,1,1,Am√≠lcar Cabral Cup,Bissau,Guinea-Bissau,False
+2007-12-08 00:00:00,Tanzania,Kenya,2,1,CECAFA Cup,Dar es Salaam,Tanzania,False
+2007-12-09 00:00:00,Rwanda,Eritrea,2,1,CECAFA Cup,Dar es Salaam,Tanzania,True
+2007-12-09 00:00:00,Sudan,Zanzibar,2,2,CECAFA Cup,Arusha,Tanzania,True
+2007-12-09 00:00:00,Uganda,Djibouti,7,0,CECAFA Cup,Dar es Salaam,Tanzania,True
+2007-12-10 00:00:00,Somalia,Burundi,0,3,CECAFA Cup,Dar es Salaam,Tanzania,True
+2007-12-11 00:00:00,Djibouti,Eritrea,2,3,CECAFA Cup,Dar es Salaam,Tanzania,True
+2007-12-11 00:00:00,Oman,Jordan,0,3,Friendly,Muscat,Oman,False
+2007-12-11 00:00:00,Rwanda,Uganda,0,2,CECAFA Cup,Dar es Salaam,Tanzania,True
+2007-12-12 00:00:00,Kenya,Burundi,0,1,CECAFA Cup,Dar es Salaam,Tanzania,True
+2007-12-12 00:00:00,Tanzania,Somalia,1,0,CECAFA Cup,Dar es Salaam,Tanzania,False
+2007-12-13 00:00:00,Djibouti,Rwanda,0,9,CECAFA Cup,Dar es Salaam,Tanzania,True
+2007-12-13 00:00:00,Zanzibar,Ethiopia,3,1,CECAFA Cup,Arusha,Tanzania,True
+2007-12-14 00:00:00,Bermuda,Saint Kitts and Nevis,1,2,Friendly,Hamilton,Bermuda,False
+2007-12-14 00:00:00,Eritrea,Uganda,3,2,CECAFA Cup,Dar es Salaam,Tanzania,True
+2007-12-14 00:00:00,Kenya,Somalia,2,0,CECAFA Cup,Dar es Salaam,Tanzania,True
+2007-12-15 00:00:00,Ethiopia,Sudan,0,0,CECAFA Cup,Arusha,Tanzania,True
+2007-12-15 00:00:00,Tanzania,Burundi,0,0,CECAFA Cup,Dar es Salaam,Tanzania,False
+2007-12-16 00:00:00,Bermuda,Saint Kitts and Nevis,4,2,Friendly,Hamilton,Bermuda,False
+2007-12-16 00:00:00,Oman,Tajikistan,4,2,Friendly,Muscat,Oman,False
+2007-12-17 00:00:00,Burundi,Eritrea,2,1,CECAFA Cup,Dar es Salaam,Tanzania,True
+2007-12-17 00:00:00,Tanzania,Sudan,1,2,CECAFA Cup,Dar es Salaam,Tanzania,False
+2007-12-18 00:00:00,Uganda,Kenya,1,1,CECAFA Cup,Dar es Salaam,Tanzania,True
+2007-12-18 00:00:00,Zanzibar,Rwanda,0,0,CECAFA Cup,Dar es Salaam,Tanzania,True
+2007-12-19 00:00:00,Burundi,Sudan,1,2,CECAFA Cup,Dar es Salaam,Tanzania,True
+2007-12-20 00:00:00,Uganda,Rwanda,0,1,CECAFA Cup,Dar es Salaam,Tanzania,True
+2007-12-22 00:00:00,Burundi,Uganda,0,2,CECAFA Cup,Dar es Salaam,Tanzania,True
+2007-12-22 00:00:00,Sudan,Rwanda,2,2,CECAFA Cup,Dar es Salaam,Tanzania,True
+2007-12-22 00:00:00,Thailand,Uzbekistan,3,2,King's Cup,Bangkok,Thailand,False
+2007-12-23 00:00:00,Gambia,Sierra Leone,2,1,Friendly,Bakau,Gambia,False
+2007-12-24 00:00:00,North Korea,Uzbekistan,2,2,King's Cup,Bangkok,Thailand,True
+2007-12-26 00:00:00,Thailand,North Korea,1,0,King's Cup,Bangkok,Thailand,False
+2007-12-27 00:00:00,Galicia,Cameroon,1,1,Friendly,Vigo,Spain,False
+2007-12-27 00:00:00,Andalusia,Zambia,4,1,Friendly,Jerez,Spain,False
+2007-12-29 00:00:00,Basque Country,Catalonia,1,1,Friendly,Bilbao,Spain,False
+2007-12-29 00:00:00,Canary Islands,Angola,2,0,Friendly,Las Palmas,Spain,False
+2008-01-02 00:00:00,Kuwait,Lebanon,3,2,Friendly,Salmiya,Kuwait,False
+2008-01-05 00:00:00,Egypt,Namibia,3,0,Friendly,Aswan,Egypt,False
+2008-01-06 00:00:00,Tunisia,Zambia,1,2,Friendly,Rad√®s,Tunisia,False
+2008-01-08 00:00:00,Tunisia,Zambia,1,0,Friendly,Rad√®s,Tunisia,False
+2008-01-09 00:00:00,Nigeria,Sudan,2,0,Friendly,Estepona,Spain,True
+2008-01-10 00:00:00,Egypt,Mali,1,0,Friendly,Abu Dhabi,United Arab Emirates,True
+2008-01-10 00:00:00,Qatar,Iran,0,0,Friendly,Doha,Qatar,False
+2008-01-10 00:00:00,United Arab Emirates,China PR,0,0,Friendly,Dubai,United Arab Emirates,False
+2008-01-11 00:00:00,Guinea,Sudan,6,0,Friendly,Estepona,Spain,True
+2008-01-12 00:00:00,Kuwait,Ivory Coast,0,2,Friendly,Kuwait City,Kuwait,False
+2008-01-12 00:00:00,Morocco,Zambia,2,0,Friendly,F√®s,Morocco,False
+2008-01-12 00:00:00,Senegal,Namibia,3,1,Friendly,Dakar,Senegal,False
+2008-01-13 00:00:00,Angola,Egypt,3,3,Friendly,Alverca do Ribatejo,Portugal,True
+2008-01-13 00:00:00,Barbados,Antigua and Barbuda,3,2,Friendly,Black Rock,Barbados,False
+2008-01-13 00:00:00,Costa Rica,Sweden,0,1,Friendly,San Jos√©,Costa Rica,False
+2008-01-13 00:00:00,South Africa,Mozambique,2,0,Friendly,Durban,South Africa,False
+2008-01-13 00:00:00,Syria,Qatar,0,0,Friendly,Damascus,Syria,False
+2008-01-16 00:00:00,Bahrain,Kuwait,1,0,Friendly,Manama,Bahrain,False
+2008-01-16 00:00:00,Benin,Senegal,1,2,Friendly,Ouagadougou,Burkina Faso,True
+2008-01-16 00:00:00,Bermuda,Puerto Rico,0,2,Friendly,Hamilton,Bermuda,False
+2008-01-16 00:00:00,Morocco,Angola,2,1,Friendly,Rabat,Morocco,False
+2008-01-16 00:00:00,South Africa,Botswana,2,1,Friendly,Umlazi,South Africa,False
+2008-01-18 00:00:00,Bermuda,Puerto Rico,0,1,Friendly,Hamilton,Bermuda,False
+2008-01-18 00:00:00,Dominica,Guadeloupe,0,3,Friendly,Roseau,Dominica,False
+2008-01-19 00:00:00,United States,Sweden,2,0,Friendly,Carson,United States,False
+2008-01-20 00:00:00,China PR,Lebanon,0,0,Friendly,Zhongshan,China PR,False
+2008-01-20 00:00:00,Ghana,Guinea,2,1,African Cup of Nations,Accra,Ghana,False
+2008-01-20 00:00:00,Guyana,Grenada,1,2,Friendly,Georgetown,Guyana,False
+2008-01-21 00:00:00,Mali,Benin,1,0,African Cup of Nations,Sekondi,Ghana,True
+2008-01-21 00:00:00,Namibia,Morocco,1,5,African Cup of Nations,Accra,Ghana,True
+2008-01-21 00:00:00,Nigeria,Ivory Coast,0,1,African Cup of Nations,Sekondi,Ghana,True
+2008-01-22 00:00:00,Belize,El Salvador,0,1,Friendly,San Ignacio,Belize,False
+2008-01-22 00:00:00,Egypt,Cameroon,4,2,African Cup of Nations,Kumasi,Ghana,True
+2008-01-22 00:00:00,Sudan,Zambia,0,3,African Cup of Nations,Kumasi,Ghana,True
+2008-01-23 00:00:00,Bahrain,Syria,1,2,Friendly,Manama,Bahrain,False
+2008-01-23 00:00:00,South Africa,Angola,1,1,African Cup of Nations,Tamale,Ghana,True
+2008-01-23 00:00:00,Tunisia,Senegal,2,2,African Cup of Nations,Tamale,Ghana,True
+2008-01-24 00:00:00,Ghana,Namibia,1,0,African Cup of Nations,Accra,Ghana,False
+2008-01-24 00:00:00,Guinea,Morocco,3,2,African Cup of Nations,Accra,Ghana,True
+2008-01-24 00:00:00,Iraq,Jordan,1,1,Friendly,Dubai,United Arab Emirates,True
+2008-01-24 00:00:00,Kuwait,Singapore,0,2,Friendly,Muscat,Oman,True
+2008-01-25 00:00:00,Ivory Coast,Benin,4,1,African Cup of Nations,Sekondi,Ghana,True
+2008-01-25 00:00:00,Nigeria,Mali,0,0,African Cup of Nations,Sekondi,Ghana,True
+2008-01-26 00:00:00,Bahrain,Yemen,2,1,Friendly,Manama,Bahrain,False
+2008-01-26 00:00:00,Cameroon,Zambia,5,1,African Cup of Nations,Kumasi,Ghana,True
+2008-01-26 00:00:00,Egypt,Sudan,3,0,African Cup of Nations,Kumasi,Ghana,True
+2008-01-26 00:00:00,Haiti,El Salvador,0,0,Friendly,Port-au-Prince,Haiti,False
+2008-01-26 00:00:00,Japan,Chile,0,0,Friendly,Tokyo,Japan,False
+2008-01-26 00:00:00,Puerto Rico,Trinidad and Tobago,2,2,Friendly,Bayam√≥n,Puerto Rico,False
+2008-01-27 00:00:00,China PR,Syria,2,1,Friendly,Zhongshan,China PR,False
+2008-01-27 00:00:00,Oman,Singapore,2,0,Friendly,Muscat,Oman,False
+2008-01-27 00:00:00,Senegal,Angola,1,3,African Cup of Nations,Tamale,Ghana,True
+2008-01-27 00:00:00,Tunisia,South Africa,3,1,African Cup of Nations,Tamale,Ghana,True
+2008-01-28 00:00:00,Ghana,Morocco,2,0,African Cup of Nations,Accra,Ghana,False
+2008-01-28 00:00:00,Guinea,Namibia,1,1,African Cup of Nations,Sekondi,Ghana,True
+2008-01-28 00:00:00,Jordan,Lebanon,4,1,Friendly,Amman,Jordan,False
+2008-01-29 00:00:00,Haiti,El Salvador,0,0,Friendly,Saint-Marc,Haiti,False
+2008-01-29 00:00:00,Ivory Coast,Mali,3,0,African Cup of Nations,Accra,Ghana,True
+2008-01-29 00:00:00,Nigeria,Benin,2,0,African Cup of Nations,Sekondi,Ghana,True
+2008-01-29 00:00:00,Trinidad and Tobago,Guyana,2,1,Friendly,Couva,Trinidad and Tobago,False
+2008-01-30 00:00:00,Cameroon,Sudan,3,0,African Cup of Nations,Tamale,Ghana,True
+2008-01-30 00:00:00,Egypt,Zambia,1,1,African Cup of Nations,Kumasi,Ghana,True
+2008-01-30 00:00:00,Iran,Costa Rica,0,0,Friendly,Tehran,Iran,False
+2008-01-30 00:00:00,Japan,Bosnia and Herzegovina,3,0,Friendly,Tokyo,Japan,False
+2008-01-30 00:00:00,South Korea,Chile,0,1,Friendly,Seoul,South Korea,False
+2008-01-30 00:00:00,Martinique,Canada,0,1,Friendly,Fort-de-France,Martinique,False
+2008-01-30 00:00:00,Oman,Kuwait,1,1,Friendly,Muscat,Oman,False
+2008-01-30 00:00:00,Saudi Arabia,Luxembourg,2,1,Friendly,Riyadh,Saudi Arabia,False
+2008-01-31 00:00:00,Jordan,Singapore,2,1,Friendly,Zarqa,Jordan,False
+2008-01-31 00:00:00,Senegal,South Africa,1,1,African Cup of Nations,Kumasi,Ghana,True
+2008-01-31 00:00:00,Tunisia,Angola,0,0,African Cup of Nations,Tamale,Ghana,True
+2008-01-31 00:00:00,United Arab Emirates,Iraq,0,1,Friendly,Abu Dhabi,United Arab Emirates,False
+2008-02-02 00:00:00,Belarus,Iceland,2,0,Malta International Tournament,Attard,Malta,True
+2008-02-02 00:00:00,Malta,Armenia,0,1,Malta International Tournament,Attard,Malta,False
+2008-02-03 00:00:00,Azerbaijan,Kazakhstan,0,0,Friendly,Antalya,Turkey,True
+2008-02-03 00:00:00,Bermuda,Cayman Islands,1,1,FIFA World Cup qualification,Hamilton,Bermuda,False
+2008-02-03 00:00:00,Ghana,Nigeria,2,1,African Cup of Nations,Accra,Ghana,False
+2008-02-03 00:00:00,Ivory Coast,Guinea,5,0,African Cup of Nations,Sekondi,Ghana,True
+2008-02-03 00:00:00,Venezuela,Haiti,1,0,Friendly,Matur√≠n,Venezuela,False
+2008-02-04 00:00:00,Armenia,Belarus,2,1,Malta International Tournament,Attard,Malta,True
+2008-02-04 00:00:00,Egypt,Angola,2,1,African Cup of Nations,Kumasi,Ghana,True
+2008-02-04 00:00:00,Malta,Iceland,1,0,Malta International Tournament,Attard,Malta,False
+2008-02-04 00:00:00,Tunisia,Cameroon,2,3,African Cup of Nations,Tamale,Ghana,True
+2008-02-06 00:00:00,Armenia,Iceland,0,2,Malta International Tournament,Attard,Malta,True
+2008-02-06 00:00:00,Aruba,Antigua and Barbuda,0,3,FIFA World Cup qualification,Oranjestad,Aruba,False
+2008-02-06 00:00:00,Australia,Qatar,3,0,FIFA World Cup qualification,Melbourne,Australia,False
+2008-02-06 00:00:00,Austria,Germany,0,3,Friendly,Vienna,Austria,False
+2008-02-06 00:00:00,Belize,Saint Kitts and Nevis,3,1,FIFA World Cup qualification,Guatemala,Guatemala,True
+2008-02-06 00:00:00,Bolivia,Peru,2,1,Friendly,La Paz,Bolivia,False
+2008-02-06 00:00:00,Burundi,Rwanda,0,0,Friendly,Bujumbura,Burundi,False
+2008-02-06 00:00:00,Croatia,Netherlands,0,3,Friendly,Split,Croatia,False
+2008-02-06 00:00:00,Cyprus,Ukraine,1,1,Friendly,Nicosia,Cyprus,False
+2008-02-06 00:00:00,Czech Republic,Poland,0,2,Friendly,Larnaca,Cyprus,True
+2008-02-06 00:00:00,Dominica,Barbados,1,1,FIFA World Cup qualification,Roseau,Dominica,False
+2008-02-06 00:00:00,El Salvador,Anguilla,12,0,FIFA World Cup qualification,San Salvador,El Salvador,False
+2008-02-06 00:00:00,England,Switzerland,2,1,Friendly,London,England,False
+2008-02-06 00:00:00,Georgia,Latvia,1,3,Friendly,Tbilisi,Georgia,False
+2008-02-06 00:00:00,Greece,Finland,2,1,Friendly,Nicosia,Cyprus,True
+2008-02-06 00:00:00,Honduras,Paraguay,2,0,Friendly,San Pedro Sula,Honduras,False
+2008-02-06 00:00:00,Hungary,Slovakia,1,1,Friendly,Limassol,Cyprus,True
+2008-02-06 00:00:00,Iran,Syria,0,0,FIFA World Cup qualification,Tehran,Iran,False
+2008-02-06 00:00:00,Iraq,China PR,1,1,FIFA World Cup qualification,Dubai,United Arab Emirates,True
+2008-02-06 00:00:00,Republic of Ireland,Brazil,0,1,Friendly,Dublin,Republic of Ireland,False
+2008-02-06 00:00:00,Israel,Romania,1,0,Friendly,Ramat-Gan,Israel,False
+2008-02-06 00:00:00,Italy,Portugal,3,1,Friendly,Z√ºrich,Switzerland,True
+2008-02-06 00:00:00,Jamaica,Costa Rica,1,1,Friendly,Kingston,Jamaica,False
+2008-02-06 00:00:00,Japan,Thailand,4,1,FIFA World Cup qualification,Saitama,Japan,False
+2008-02-06 00:00:00,Jordan,North Korea,0,1,FIFA World Cup qualification,Amman,Jordan,False
+2008-02-06 00:00:00,Kazakhstan,Moldova,0,1,Friendly,Antalya,Turkey,True
+2008-02-06 00:00:00,South Korea,Turkmenistan,4,0,FIFA World Cup qualification,Seoul,South Korea,False
+2008-02-06 00:00:00,Lebanon,Uzbekistan,0,1,FIFA World Cup qualification,Beirut,Lebanon,False
+2008-02-06 00:00:00,North Macedonia,Serbia,1,1,Friendly,Skopje,North Macedonia,False
+2008-02-06 00:00:00,Malta,Belarus,0,1,Malta International Tournament,Attard,Malta,False
+2008-02-06 00:00:00,Nicaragua,Cura√ßao,0,1,FIFA World Cup qualification,Diriamba,Nicaragua,False
+2008-02-06 00:00:00,Northern Ireland,Bulgaria,0,1,Friendly,Belfast,Northern Ireland,False
+2008-02-06 00:00:00,Oman,Bahrain,0,1,FIFA World Cup qualification,Muscat,Oman,False
+2008-02-06 00:00:00,Saudi Arabia,Singapore,2,0,FIFA World Cup qualification,Riyadh,Saudi Arabia,False
+2008-02-06 00:00:00,Slovenia,Denmark,1,2,Friendly,Nova Gorica,Slovenia,False
+2008-02-06 00:00:00,Spain,France,1,0,Friendly,M√°laga,Spain,False
+2008-02-06 00:00:00,Trinidad and Tobago,Guadeloupe,0,0,Friendly,Port of Spain,Trinidad and Tobago,False
+2008-02-06 00:00:00,Turkey,Sweden,0,0,Friendly,Istanbul,Turkey,False
+2008-02-06 00:00:00,Turks and Caicos Islands,Saint Lucia,2,1,FIFA World Cup qualification,Providenciales,Turks and Caicos Islands,False
+2008-02-06 00:00:00,United Arab Emirates,Kuwait,2,0,FIFA World Cup qualification,Abu Dhabi,United Arab Emirates,False
+2008-02-06 00:00:00,Uruguay,Colombia,2,2,Friendly,Montevideo,Uruguay,False
+2008-02-06 00:00:00,United States,Mexico,2,2,Friendly,Houston,United States,False
+2008-02-06 00:00:00,Venezuela,Haiti,1,1,Friendly,Puerto la Cruz,Venezuela,False
+2008-02-06 00:00:00,Wales,Norway,3,0,Friendly,Wrexham,Wales,False
+2008-02-07 00:00:00,Ghana,Cameroon,0,1,African Cup of Nations,Accra,Ghana,False
+2008-02-07 00:00:00,Ivory Coast,Egypt,1,4,African Cup of Nations,Kumasi,Ghana,True
+2008-02-09 00:00:00,Ghana,Ivory Coast,4,2,African Cup of Nations,Kumasi,Ghana,False
+2008-02-09 00:00:00,Lesotho,Mozambique,0,1,Friendly,Lobamba,Eswatini,True
+2008-02-09 00:00:00,Eswatini,Botswana,1,4,Friendly,Lobamba,Eswatini,False
+2008-02-10 00:00:00,Botswana,Mozambique,1,0,Friendly,Lobamba,Eswatini,True
+2008-02-10 00:00:00,Cameroon,Egypt,0,1,African Cup of Nations,Accra,Ghana,True
+2008-02-10 00:00:00,Eswatini,Lesotho,2,2,Friendly,Lobamba,Eswatini,False
+2008-02-17 00:00:00,China PR,South Korea,2,3,EAFF Championship,Chongqing,China PR,False
+2008-02-17 00:00:00,Japan,North Korea,1,1,EAFF Championship,Chongqing,China PR,True
+2008-02-20 00:00:00,China PR,Japan,0,1,EAFF Championship,Chongqing,China PR,False
+2008-02-20 00:00:00,South Korea,North Korea,1,1,EAFF Championship,Chongqing,China PR,True
+2008-02-23 00:00:00,China PR,North Korea,3,1,EAFF Championship,Chongqing,China PR,False
+2008-02-23 00:00:00,Japan,South Korea,1,1,EAFF Championship,Chongqing,China PR,True
+2008-02-24 00:00:00,Guyana,Cuba,0,0,Friendly,Georgetown,Guyana,False
+2008-02-27 00:00:00,Dominican Republic,Haiti,1,2,Friendly,San Crist√≥bal,Dominican Republic,False
+2008-02-27 00:00:00,Poland,Estonia,2,0,Friendly,Wronki,Poland,False
+2008-02-28 00:00:00,Dominican Republic,Haiti,0,2,Friendly,San Crist√≥bal,Dominican Republic,False
+2008-03-04 00:00:00,Qatar,Bahrain,1,2,Friendly,Doha,Qatar,False
+2008-03-09 00:00:00,Mauritius,Madagascar,1,2,Friendly,Curepipe,Mauritius,False
+2008-03-11 00:00:00,South Africa,Zimbabwe,2,1,Friendly,Germiston,South Africa,False
+2008-03-14 00:00:00,British Virgin Islands,United States Virgin Islands,0,0,Friendly,Road Town,British Virgin Islands,False
+2008-03-15 00:00:00,British Virgin Islands,United States Virgin Islands,1,1,Friendly,Road Town,British Virgin Islands,False
+2008-03-15 00:00:00,China PR,Thailand,3,3,Friendly,Kunming,China PR,False
+2008-03-16 00:00:00,Iceland,Faroe Islands,3,0,Friendly,K√≥pavogur,Iceland,False
+2008-03-16 00:00:00,Qatar,Jordan,2,1,Friendly,Doha,Qatar,False
+2008-03-19 00:00:00,Oman,United Arab Emirates,1,1,Friendly,Muscat,Oman,False
+2008-03-19 00:00:00,Trinidad and Tobago,El Salvador,1,0,Friendly,Macoya,Trinidad and Tobago,False
+2008-03-21 00:00:00,Bahrain,Iran,1,0,Friendly,Manama,Bahrain,False
+2008-03-21 00:00:00,Kuwait,Iraq,0,0,Friendly,Kuwait City,Kuwait,False
+2008-03-22 00:00:00,Singapore,Australia,0,0,Friendly,Singapore,Singapore,False
+2008-03-22 00:00:00,Uzbekistan,Jordan,4,1,Friendly,Tashkent,Uzbekistan,False
+2008-03-23 00:00:00,Venezuela,El Salvador,1,0,Friendly,Puerto Ordaz,Venezuela,False
+2008-03-25 00:00:00,Gabon,DR Congo,0,0,Friendly,Aubervilliers,France,True
+2008-03-25 00:00:00,Nepal,Pakistan,2,1,Friendly,Pokhara,Nepal,False
+2008-03-25 00:00:00,Togo,Guinea,0,2,Friendly,Paris,France,True
+2008-03-26 00:00:00,Algeria,DR Congo,1,1,Friendly,Nanterre,France,True
+2008-03-26 00:00:00,Andorra,Latvia,0,3,Friendly,Sant Juli√† de L√≤ria,Andorra,False
+2008-03-26 00:00:00,Anguilla,El Salvador,0,4,FIFA World Cup qualification,Washington,United States,True
+2008-03-26 00:00:00,Antigua and Barbuda,Aruba,1,0,FIFA World Cup qualification,St. John's,Antigua and Barbuda,False
+2008-03-26 00:00:00,Armenia,Kazakhstan,1,0,Friendly,Pernis,Netherlands,True
+2008-03-26 00:00:00,Austria,Netherlands,3,4,Friendly,Vienna,Austria,False
+2008-03-26 00:00:00,Bahamas,British Virgin Islands,1,1,FIFA World Cup qualification,Nassau,Bahamas,False
+2008-03-26 00:00:00,Bahrain,Japan,1,0,FIFA World Cup qualification,Riffa,Bahrain,False
+2008-03-26 00:00:00,Barbados,Dominica,1,0,FIFA World Cup qualification,Bridgetown,Barbados,False
+2008-03-26 00:00:00,Belarus,Turkey,2,2,Friendly,Minsk,Belarus,False
+2008-03-26 00:00:00,Belgium,Morocco,1,4,Friendly,Brussels,Belgium,False
+2008-03-26 00:00:00,Bosnia and Herzegovina,North Macedonia,2,2,Friendly,Zenica,Bosnia and Herzegovina,False
+2008-03-26 00:00:00,Botswana,Zimbabwe,0,1,Friendly,Gaborone,Botswana,False
+2008-03-26 00:00:00,Brazil,Sweden,1,0,Friendly,London,England,True
+2008-03-26 00:00:00,Bulgaria,Finland,2,1,Friendly,Sofia,Bulgaria,False
+2008-03-26 00:00:00,China PR,Australia,0,0,FIFA World Cup qualification,Kunming,China PR,False
+2008-03-26 00:00:00,Cura√ßao,Nicaragua,2,0,FIFA World Cup qualification,Willemstad,Netherlands Antilles,True
+2008-03-26 00:00:00,Denmark,Czech Republic,1,1,Friendly,Herning,Denmark,False
+2008-03-26 00:00:00,Ecuador,Haiti,3,1,Friendly,Latacunga,Ecuador,False
+2008-03-26 00:00:00,Egypt,Argentina,0,2,Friendly,Cairo,Egypt,False
+2008-03-26 00:00:00,Estonia,Canada,2,0,Friendly,Tallinn,Estonia,False
+2008-03-26 00:00:00,France,England,1,0,Friendly,Saint-Denis,France,False
+2008-03-26 00:00:00,Ghana,Mexico,1,2,Friendly,London,England,True
+2008-03-26 00:00:00,Grenada,United States Virgin Islands,10,0,FIFA World Cup qualification,St. George's,Grenada,False
+2008-03-26 00:00:00,Honduras,Colombia,2,1,Friendly,Fort Lauderdale,United States,True
+2008-03-26 00:00:00,Hungary,Slovenia,0,1,Friendly,Zalaegerszeg,Hungary,False
+2008-03-26 00:00:00,Israel,Chile,1,0,Friendly,Ramat-Gan,Israel,False
+2008-03-26 00:00:00,Ivory Coast,Tunisia,0,2,Friendly,√âvry/Bondoufle,France,True
+2008-03-26 00:00:00,Jamaica,Trinidad and Tobago,2,2,Friendly,Kingston,Jamaica,False
+2008-03-26 00:00:00,North Korea,South Korea,0,0,FIFA World Cup qualification,Shanghai,China PR,True
+2008-03-26 00:00:00,Kuwait,Iran,2,2,FIFA World Cup qualification,Kuwait City,Kuwait,False
+2008-03-26 00:00:00,Lithuania,Azerbaijan,1,0,Friendly,Vilnius,Lithuania,False
+2008-03-26 00:00:00,Luxembourg,Wales,0,2,Friendly,Luxembourg,Luxembourg,False
+2008-03-26 00:00:00,Malta,Liechtenstein,7,1,Friendly,Attard,Malta,False
+2008-03-26 00:00:00,Montenegro,Norway,3,1,Friendly,Podgorica,Montenegro,False
+2008-03-26 00:00:00,Montserrat,Suriname,1,7,FIFA World Cup qualification,Macoya,Trinidad and Tobago,True
+2008-03-26 00:00:00,Namibia,Malawi,1,3,Friendly,Windhoek,Namibia,False
+2008-03-26 00:00:00,Northern Ireland,Georgia,4,1,Friendly,Belfast,Northern Ireland,False
+2008-03-26 00:00:00,Peru,Costa Rica,3,1,Friendly,Iquitos,Peru,False
+2008-03-26 00:00:00,Poland,United States,0,3,Friendly,Cracow,Poland,False
+2008-03-26 00:00:00,Portugal,Greece,1,2,Friendly,D√ºsseldorf,Germany,True
+2008-03-26 00:00:00,Puerto Rico,Dominican Republic,1,0,FIFA World Cup qualification,Bayam√≥n,Puerto Rico,False
+2008-03-26 00:00:00,Qatar,Iraq,2,0,FIFA World Cup qualification,Doha,Qatar,False
+2008-03-26 00:00:00,Romania,Russia,3,0,Friendly,Bucharest,Romania,False
+2008-03-26 00:00:00,Scotland,Croatia,1,1,Friendly,Glasgow,Scotland,False
+2008-03-26 00:00:00,Singapore,Lebanon,2,0,FIFA World Cup qualification,Singapore,Singapore,False
+2008-03-26 00:00:00,Slovakia,Iceland,1,2,Friendly,Zlat√© Moravce,Slovakia,False
+2008-03-26 00:00:00,South Africa,Paraguay,3,0,Friendly,Atteridgeville,South Africa,False
+2008-03-26 00:00:00,Spain,Italy,1,0,Friendly,Elche,Spain,False
+2008-03-26 00:00:00,Saint Kitts and Nevis,Belize,1,1,FIFA World Cup qualification,Basseterre,Saint Kitts and Nevis,False
+2008-03-26 00:00:00,Saint Lucia,Turks and Caicos Islands,2,0,FIFA World Cup qualification,Vieux Fort,Saint Lucia,False
+2008-03-26 00:00:00,Sudan,Liberia,0,2,Friendly,Khartoum,Sudan,False
+2008-03-26 00:00:00,Switzerland,Germany,0,4,Friendly,Basel,Switzerland,False
+2008-03-26 00:00:00,Syria,United Arab Emirates,1,1,FIFA World Cup qualification,Damascus,Syria,False
+2008-03-26 00:00:00,Thailand,Oman,0,1,FIFA World Cup qualification,Bangkok,Thailand,False
+2008-03-26 00:00:00,Turkmenistan,Jordan,0,2,FIFA World Cup qualification,Ashgabat,Turkmenistan,False
+2008-03-26 00:00:00,Uganda,Libya,1,1,Friendly,Kampala,Uganda,False
+2008-03-26 00:00:00,Ukraine,Serbia,2,0,Friendly,Kyiv,Ukraine,False
+2008-03-26 00:00:00,Uzbekistan,Saudi Arabia,3,0,FIFA World Cup qualification,Tashkent,Uzbekistan,False
+2008-03-26 00:00:00,Venezuela,Bolivia,0,1,Friendly,Puerto la Cruz,Venezuela,False
+2008-03-27 00:00:00,Nepal,Pakistan,0,2,Friendly,Pokhara,Nepal,False
+2008-03-30 00:00:00,Bahamas,British Virgin Islands,2,2,FIFA World Cup qualification,Nassau,Bahamas,False
+2008-03-30 00:00:00,Cayman Islands,Bermuda,1,3,FIFA World Cup qualification,George Town,Cayman Islands,False
+2008-04-02 00:00:00,Sri Lanka,Guam,5,1,AFC Challenge Cup qualification,Taipei,Taiwan,True
+2008-04-04 00:00:00,Pakistan,Sri Lanka,1,7,AFC Challenge Cup qualification,Taipei,Taiwan,True
+2008-04-04 00:00:00,Taiwan,Guam,4,1,AFC Challenge Cup qualification,Taipei,Taiwan,False
+2008-04-04 00:00:00,Yemen,Tanzania,2,1,Friendly,Sana'a,Yemen,False
+2008-04-06 00:00:00,Pakistan,Guam,9,2,AFC Challenge Cup qualification,Taipei,Taiwan,True
+2008-04-06 00:00:00,Taiwan,Sri Lanka,2,2,AFC Challenge Cup qualification,Taipei,Taiwan,False
+2008-04-09 00:00:00,Lebanon,Maldives,4,0,AFC Asian Cup qualification,Beirut,Lebanon,False
+2008-04-16 00:00:00,Mexico,China PR,1,0,Friendly,Seattle,United States,True
+2008-04-23 00:00:00,El Salvador,China PR,2,2,Friendly,Los Angeles,United States,True
+2008-04-23 00:00:00,Guatemala,Haiti,1,0,Friendly,Guatemala,Guatemala,False
+2008-04-23 00:00:00,Maldives,Lebanon,1,2,AFC Asian Cup qualification,Mal√©,Maldives,False
+2008-04-24 00:00:00,Oman,Liberia,1,0,Friendly,Muscat,Oman,False
+2008-04-25 00:00:00,Indonesia,Yemen,1,0,Friendly,Bandung,Indonesia,False
+2008-04-27 00:00:00,Northern Mariana Islands,Guam,2,3,Friendly,Susupe,Northern Mariana Islands,False
+2008-04-27 00:00:00,Oman,Kyrgyzstan,2,0,Friendly,Muscat,Oman,False
+2008-04-27 00:00:00,Trinidad and Tobago,Grenada,2,0,Friendly,Macoya,Trinidad and Tobago,False
+2008-04-30 00:00:00,Colombia,Venezuela,5,2,Friendly,Bucaramanga,Colombia,False
+2008-04-30 00:00:00,Liberia,Sierra Leone,3,1,Friendly,Paynesville,Liberia,False
+2008-05-03 00:00:00,Oman,Yemen,0,0,Friendly,Muscat,Oman,False
+2008-05-05 00:00:00,Bangladesh,Afghanistan,0,0,AFC Challenge Cup qualification,Bishkek,Kyrgyzstan,True
+2008-05-05 00:00:00,Jersey,Guernsey,1,1,Friendly,St. Helier,Jersey,False
+2008-05-07 00:00:00,Kyrgyzstan,Afghanistan,0,1,AFC Challenge Cup qualification,Bishkek,Kyrgyzstan,False
+2008-05-09 00:00:00,Kyrgyzstan,Bangladesh,2,1,AFC Challenge Cup qualification,Bishkek,Kyrgyzstan,False
+2008-05-10 00:00:00,Syria,Oman,2,1,Friendly,Damascus,Syria,False
+2008-05-11 00:00:00,Trinidad and Tobago,Barbados,3,0,Friendly,Macoya,Trinidad and Tobago,False
+2008-05-13 00:00:00,Philippines,Brunei,1,0,AFC Challenge Cup qualification,Iloilo City,Philippines,False
+2008-05-13 00:00:00,Tajikistan,Bhutan,3,1,AFC Challenge Cup qualification,Barotac Nuevo,Philippines,True
+2008-05-15 00:00:00,Bhutan,Brunei,1,1,AFC Challenge Cup qualification,Barotac Nuevo,Philippines,True
+2008-05-15 00:00:00,Philippines,Tajikistan,0,0,AFC Challenge Cup qualification,Iloilo City,Philippines,False
+2008-05-17 00:00:00,Philippines,Bhutan,3,0,AFC Challenge Cup qualification,Barotac Nuevo,Philippines,False
+2008-05-17 00:00:00,Syria,Iraq,2,1,Friendly,Damascus,Syria,False
+2008-05-17 00:00:00,Tajikistan,Brunei,4,0,AFC Challenge Cup qualification,Iloilo City,Philippines,True
+2008-05-18 00:00:00,Antigua and Barbuda,Saint Lucia,6,1,Friendly,St. John's,Antigua and Barbuda,False
+2008-05-18 00:00:00,Oman,Turkmenistan,2,1,Friendly,Nizwa,Oman,False
+2008-05-19 00:00:00,Greece,Cyprus,2,0,Friendly,Patras,Greece,False
+2008-05-20 00:00:00,Thailand,Nepal,7,0,Friendly,Bangkok,Thailand,False
+2008-05-20 00:00:00,Turkey,Slovakia,1,0,Friendly,Bielefeld,Germany,True
+2008-05-20 00:00:00,Brittany,Congo,3,1,Friendly,Saint-Brieuc,France,False
+2008-05-21 00:00:00,Cura√ßao,Suriname,2,1,Friendly,Willemstad,Netherlands Antilles,False
+2008-05-21 00:00:00,Mozambique,Lesotho,2,3,Friendly,Maputo,Mozambique,False
+2008-05-22 00:00:00,Ivory Coast,Paraguay,1,1,Kirin Cup,Yokohama,Japan,True
+2008-05-22 00:00:00,Libya,Zambia,2,2,Friendly,Tripoli,Libya,False
+2008-05-22 00:00:00,Yemen,Sudan,1,1,Friendly,Sana'a,Yemen,False
+2008-05-23 00:00:00,Australia,Ghana,1,0,Friendly,Sydney,Australia,False
+2008-05-23 00:00:00,Honduras,Belize,2,0,Friendly,San Pedro Sula,Honduras,False
+2008-05-23 00:00:00,Qatar,Kuwait,1,1,Friendly,Doha,Qatar,False
+2008-05-23 00:00:00,Russia,Kazakhstan,6,0,Friendly,Moscow,Russia,False
+2008-05-23 00:00:00,Eswatini,Lesotho,1,1,Friendly,Lobamba,Eswatini,False
+2008-05-24 00:00:00,Burkina Faso,Cape Verde,0,1,Friendly,Alcochete,Portugal,True
+2008-05-24 00:00:00,Croatia,Moldova,1,0,Friendly,Rijeka,Croatia,False
+2008-05-24 00:00:00,Hungary,Greece,3,2,Friendly,Budapest,Hungary,False
+2008-05-24 00:00:00,India,Taiwan,3,0,Friendly,Margao,India,False
+2008-05-24 00:00:00,Republic of Ireland,Serbia,1,1,Friendly,Dublin,Republic of Ireland,False
+2008-05-24 00:00:00,Japan,Ivory Coast,1,0,Kirin Cup,Toyota,Japan,False
+2008-05-24 00:00:00,Nepal,Macau,3,2,AFC Challenge Cup qualification,Phnom Penh,Cambodia,True
+2008-05-24 00:00:00,Netherlands,Ukraine,3,0,Friendly,Rotterdam,Netherlands,False
+2008-05-24 00:00:00,Saudi Arabia,Syria,1,0,Friendly,Riyadh,Saudi Arabia,False
+2008-05-24 00:00:00,Switzerland,Slovakia,2,0,Friendly,Lugano,Switzerland,False
+2008-05-24 00:00:00,Catalonia,Argentina,0,1,Friendly,Barcelona,Spain,False
+2008-05-25 00:00:00,China PR,Jordan,2,0,Friendly,Kunshan,China PR,False
+2008-05-25 00:00:00,Iran,Zambia,3,2,Friendly,Tehran,Iran,False
+2008-05-25 00:00:00,Tanzania,Malawi,1,1,Friendly,Dar es Salaam,Tanzania,False
+2008-05-25 00:00:00,Thailand,Iraq,2,1,Friendly,Bangkok,Thailand,False
+2008-05-25 00:00:00,Turkey,Uruguay,2,3,Friendly,Bochum,Germany,True
+2008-05-26 00:00:00,Cambodia,Nepal,0,1,AFC Challenge Cup qualification,Phnom Penh,Cambodia,False
+2008-05-26 00:00:00,North Macedonia,Poland,1,1,Friendly,Reutlingen,Germany,True
+2008-05-26 00:00:00,Sweden,Slovenia,1,0,Friendly,Gothenburg,Sweden,False
+2008-05-27 00:00:00,Albania,Poland,0,1,Friendly,Reutlingen,Germany,True
+2008-05-27 00:00:00,Austria,Nigeria,1,1,Friendly,Graz,Austria,False
+2008-05-27 00:00:00,Czech Republic,Lithuania,2,0,Friendly,Prague,Czech Republic,False
+2008-05-27 00:00:00,Estonia,Georgia,1,1,Friendly,Tallinn,Estonia,False
+2008-05-27 00:00:00,France,Ecuador,2,0,Friendly,Grenoble,France,False
+2008-05-27 00:00:00,Germany,Belarus,2,2,Friendly,Kaiserslautern,Germany,False
+2008-05-27 00:00:00,India,Taiwan,2,2,Friendly,Chennai,India,False
+2008-05-27 00:00:00,Japan,Paraguay,0,0,Kirin Cup,Saitama,Japan,False
+2008-05-27 00:00:00,Libya,Liberia,4,2,Friendly,Tripoli,Libya,False
+2008-05-27 00:00:00,Luxembourg,Cape Verde,1,1,Friendly,Luxembourg,Luxembourg,False
+2008-05-27 00:00:00,Montenegro,Kazakhstan,3,0,Friendly,Podgorica,Montenegro,False
+2008-05-27 00:00:00,Qatar,Lebanon,2,1,Friendly,Doha,Qatar,False
+2008-05-27 00:00:00,Saudi Arabia,Kuwait,2,1,Friendly,Dammam,Saudi Arabia,False
+2008-05-28 00:00:00,Cambodia,Macau,3,1,AFC Challenge Cup qualification,Phnom Penh,Cambodia,False
+2008-05-28 00:00:00,England,United States,2,0,Friendly,London,England,False
+2008-05-28 00:00:00,Iceland,Wales,0,1,Friendly,Reykjav√≠k,Iceland,False
+2008-05-28 00:00:00,Moldova,Armenia,2,2,Friendly,Tiraspol,Moldova,False
+2008-05-28 00:00:00,Norway,Uruguay,2,2,Friendly,Oslo,Norway,False
+2008-05-28 00:00:00,Russia,Serbia,2,1,Friendly,Burghausen,Germany,True
+2008-05-28 00:00:00,Singapore,Bahrain,0,1,Friendly,Singapore,Singapore,False
+2008-05-29 00:00:00,Finland,Turkey,0,2,Friendly,Duisburg,Germany,True
+2008-05-29 00:00:00,Republic of Ireland,Colombia,1,0,Friendly,London,England,True
+2008-05-29 00:00:00,Netherlands,Denmark,1,1,Friendly,Eindhoven,Netherlands,False
+2008-05-30 00:00:00,Austria,Malta,5,1,Friendly,Graz,Austria,False
+2008-05-30 00:00:00,Czech Republic,Scotland,3,1,Friendly,Prague,Czech Republic,False
+2008-05-30 00:00:00,Guatemala,El Salvador,0,0,Friendly,Washington,United States,True
+2008-05-30 00:00:00,Italy,Belgium,3,1,Friendly,Florence,Italy,False
+2008-05-30 00:00:00,Latvia,Estonia,1,0,Baltic Cup,Riga,Latvia,False
+2008-05-30 00:00:00,Switzerland,Liechtenstein,3,0,Friendly,St. Gallen,Switzerland,False
+2008-05-30 00:00:00,Venezuela,Honduras,1,1,Friendly,Fort Lauderdale,United States,True
+2008-05-31 00:00:00,Botswana,Madagascar,0,0,FIFA World Cup qualification,Gaborone,Botswana,False
+2008-05-31 00:00:00,Brazil,Canada,3,2,Friendly,Seattle,United States,True
+2008-05-31 00:00:00,Cameroon,Cape Verde,2,0,FIFA World Cup qualification,Yaound√©,Cameroon,False
+2008-05-31 00:00:00,Estonia,Lithuania,0,1,Baltic Cup,J≈´rmala,Latvia,True
+2008-05-31 00:00:00,France,Paraguay,0,0,Friendly,Toulouse,France,False
+2008-05-31 00:00:00,Germany,Serbia,2,1,Friendly,Gelsenkirchen,Germany,False
+2008-05-31 00:00:00,Hungary,Croatia,1,1,Friendly,Budapest,Hungary,False
+2008-05-31 00:00:00,South Korea,Jordan,2,2,FIFA World Cup qualification,Seoul,South Korea,False
+2008-05-31 00:00:00,Malawi,Djibouti,8,1,FIFA World Cup qualification,Blantyre,Malawi,False
+2008-05-31 00:00:00,Morocco,Ethiopia,3,0,FIFA World Cup qualification,Casablanca,Morocco,False
+2008-05-31 00:00:00,Namibia,Kenya,2,1,FIFA World Cup qualification,Windhoek,Namibia,False
+2008-05-31 00:00:00,Portugal,Georgia,2,0,Friendly,Viseu,Portugal,False
+2008-05-31 00:00:00,Romania,Montenegro,4,0,Friendly,Bucharest,Romania,False
+2008-05-31 00:00:00,Rwanda,Mauritania,3,0,FIFA World Cup qualification,Kigali,Rwanda,False
+2008-05-31 00:00:00,Senegal,Algeria,1,0,FIFA World Cup qualification,Dakar,Senegal,False
+2008-05-31 00:00:00,Spain,Peru,2,1,Friendly,Huelva,Spain,False
+2008-05-31 00:00:00,Tanzania,Mauritius,1,1,FIFA World Cup qualification,Dar es Salaam,Tanzania,False
+2008-05-31 00:00:00,Togo,Zambia,1,0,FIFA World Cup qualification,Accra,Ghana,True
+2008-05-31 00:00:00,Uganda,Niger,1,0,FIFA World Cup qualification,Kampala,Uganda,False
+2008-06-01 00:00:00,Angola,Benin,3,0,FIFA World Cup qualification,Luanda,Angola,False
+2008-06-01 00:00:00,Armenia,Greece,0,0,Friendly,Offenbach am Main,Germany,True
+2008-06-01 00:00:00,Australia,Iraq,1,0,FIFA World Cup qualification,Brisbane,Australia,False
+2008-06-01 00:00:00,Bosnia and Herzegovina,Azerbaijan,1,0,Friendly,Zenica,Bosnia and Herzegovina,False
+2008-06-01 00:00:00,Burundi,Seychelles,1,0,FIFA World Cup qualification,Bujumbura,Burundi,False
+2008-06-01 00:00:00,Egypt,DR Congo,2,1,FIFA World Cup qualification,Cairo,Egypt,False
+2008-06-01 00:00:00,Equatorial Guinea,Sierra Leone,2,0,FIFA World Cup qualification,Malabo,Equatorial Guinea,False
+2008-06-01 00:00:00,Ghana,Libya,3,0,FIFA World Cup qualification,Kumasi,Ghana,False
+2008-06-01 00:00:00,Guatemala,Panama,0,1,Friendly,Fort Lauderdale,United States,True
+2008-06-01 00:00:00,Guinea,Zimbabwe,0,0,FIFA World Cup qualification,Conakry,Guinea,False
+2008-06-01 00:00:00,Ivory Coast,Mozambique,1,0,FIFA World Cup qualification,Abidjan,Ivory Coast,False
+2008-06-01 00:00:00,Latvia,Lithuania,2,1,Baltic Cup,Riga,Latvia,False
+2008-06-01 00:00:00,Liberia,Gambia,1,1,FIFA World Cup qualification,Paynesville,Liberia,False
+2008-06-01 00:00:00,Mali,Congo,4,2,FIFA World Cup qualification,Bamako,Mali,False
+2008-06-01 00:00:00,Netherlands,Wales,2,0,Friendly,Rotterdam,Netherlands,False
+2008-06-01 00:00:00,Nigeria,South Africa,2,0,FIFA World Cup qualification,Abuja,Nigeria,False
+2008-06-01 00:00:00,Poland,Denmark,1,1,Friendly,Chorz√≥w,Poland,False
+2008-06-01 00:00:00,Sweden,Ukraine,0,1,Friendly,Solna,Sweden,False
+2008-06-01 00:00:00,Trinidad and Tobago,England,0,3,Friendly,Port of Spain,Trinidad and Tobago,False
+2008-06-01 00:00:00,Tunisia,Burkina Faso,1,2,FIFA World Cup qualification,Rad√®s,Tunisia,False
+2008-06-02 00:00:00,Finland,Belarus,1,1,Friendly,Turku,Finland,False
+2008-06-02 00:00:00,Iran,United Arab Emirates,0,0,FIFA World Cup qualification,Tehran,Iran,False
+2008-06-02 00:00:00,Japan,Oman,3,0,FIFA World Cup qualification,Yokohama,Japan,False
+2008-06-02 00:00:00,Qatar,China PR,0,0,FIFA World Cup qualification,Doha,Qatar,False
+2008-06-02 00:00:00,Saudi Arabia,Lebanon,4,1,FIFA World Cup qualification,Riyadh,Saudi Arabia,False
+2008-06-02 00:00:00,Singapore,Uzbekistan,3,7,FIFA World Cup qualification,Singapore,Singapore,False
+2008-06-02 00:00:00,Syria,Kuwait,1,0,FIFA World Cup qualification,Damascus,Syria,False
+2008-06-02 00:00:00,Thailand,Bahrain,2,3,FIFA World Cup qualification,Bangkok,Thailand,False
+2008-06-02 00:00:00,Turkmenistan,North Korea,0,0,FIFA World Cup qualification,Ashgabat,Turkmenistan,False
+2008-06-03 00:00:00,France,Colombia,1,0,Friendly,Saint-Denis,France,False
+2008-06-03 00:00:00,India,Nepal,4,0,SAFF Cup,Mal√©,Maldives,True
+2008-06-03 00:00:00,Maldives,Pakistan,3,0,SAFF Cup,Mal√©,Maldives,False
+2008-06-04 00:00:00,Andorra,Azerbaijan,1,2,Friendly,Sant Juli√† de L√≤ria,Andorra,False
+2008-06-04 00:00:00,Bangladesh,Bhutan,1,1,SAFF Cup,Colombo,Sri Lanka,True
+2008-06-04 00:00:00,Chile,Guatemala,2,0,Friendly,Rancagua,Chile,False
+2008-06-04 00:00:00,Estonia,Faroe Islands,4,3,Friendly,Tallinn,Estonia,False
+2008-06-04 00:00:00,Honduras,Puerto Rico,4,0,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2008-06-04 00:00:00,Lithuania,Russia,1,4,Friendly,Burghausen,Germany,True
+2008-06-04 00:00:00,Mexico,Argentina,1,4,Friendly,San Diego,United States,True
+2008-06-04 00:00:00,Panama,Canada,2,2,Friendly,Fort Lauderdale,United States,True
+2008-06-04 00:00:00,Spain,United States,1,0,Friendly,Santander,Spain,False
+2008-06-04 00:00:00,Sri Lanka,Afghanistan,2,2,SAFF Cup,Colombo,Sri Lanka,False
+2008-06-05 00:00:00,India,Pakistan,2,1,SAFF Cup,Mal√©,Maldives,True
+2008-06-05 00:00:00,Maldives,Nepal,4,1,SAFF Cup,Mal√©,Maldives,False
+2008-06-06 00:00:00,Algeria,Liberia,3,0,FIFA World Cup qualification,Blida,Algeria,False
+2008-06-06 00:00:00,Bangladesh,Afghanistan,2,2,SAFF Cup,Colombo,Sri Lanka,True
+2008-06-06 00:00:00,Bermuda,Barbados,2,1,Friendly,Hamilton,Bermuda,False
+2008-06-06 00:00:00,Brazil,Venezuela,0,2,Friendly,Foxborough,United States,True
+2008-06-06 00:00:00,Indonesia,Malaysia,1,1,Friendly,Jakarta,Indonesia,False
+2008-06-06 00:00:00,Sri Lanka,Bhutan,2,0,SAFF Cup,Colombo,Sri Lanka,False
+2008-06-07 00:00:00,Bahrain,Thailand,1,1,FIFA World Cup qualification,Riffa,Bahrain,False
+2008-06-07 00:00:00,Burkina Faso,Burundi,2,0,FIFA World Cup qualification,Ouagadougou,Burkina Faso,False
+2008-06-07 00:00:00,Cape Verde,Tanzania,1,0,FIFA World Cup qualification,Praia,Cape Verde,False
+2008-06-07 00:00:00,Chad,Mali,1,2,FIFA World Cup qualification,N'Djamena,Chad,False
+2008-06-07 00:00:00,Chile,Panama,0,0,Friendly,Valpara√≠so,Chile,False
+2008-06-07 00:00:00,China PR,Qatar,0,1,FIFA World Cup qualification,Tianjin,China PR,False
+2008-06-07 00:00:00,Cuba,Saint Vincent and the Grenadines,1,0,Friendly,Havana,Cuba,False
+2008-06-07 00:00:00,Honduras,Haiti,3,1,Friendly,La Ceiba,Honduras,False
+2008-06-07 00:00:00,Iraq,Australia,1,0,FIFA World Cup qualification,Dubai,United Arab Emirates,True
+2008-06-07 00:00:00,Jordan,South Korea,0,1,FIFA World Cup qualification,Amman,Jordan,False
+2008-06-07 00:00:00,Kenya,Guinea,2,0,FIFA World Cup qualification,Nairobi,Kenya,False
+2008-06-07 00:00:00,North Korea,Turkmenistan,1,0,FIFA World Cup qualification,Pyongyang,North Korea,False
+2008-06-07 00:00:00,Libya,Gabon,1,0,FIFA World Cup qualification,Tripoli,Libya,False
+2008-06-07 00:00:00,Maldives,India,0,1,SAFF Cup,Mal√©,Maldives,False
+2008-06-07 00:00:00,Mauritania,Morocco,1,4,FIFA World Cup qualification,Nouakchott,Mauritania,False
+2008-06-07 00:00:00,Oman,Japan,1,1,FIFA World Cup qualification,Muscat,Oman,False
+2008-06-07 00:00:00,Pakistan,Nepal,1,4,SAFF Cup,Mal√©,Maldives,True
+2008-06-07 00:00:00,Portugal,Turkey,2,0,UEFA Euro,Geneva,Switzerland,True
+2008-06-07 00:00:00,Saudi Arabia,Lebanon,2,1,FIFA World Cup qualification,Riyadh,Saudi Arabia,False
+2008-06-07 00:00:00,Seychelles,Tunisia,0,2,FIFA World Cup qualification,Victoria,Seychelles,False
+2008-06-07 00:00:00,Sierra Leone,Nigeria,0,1,FIFA World Cup qualification,Freetown,Sierra Leone,False
+2008-06-07 00:00:00,Switzerland,Czech Republic,0,1,UEFA Euro,Basel,Switzerland,False
+2008-06-07 00:00:00,Trinidad and Tobago,Jamaica,1,1,Friendly,Macoya,Trinidad and Tobago,False
+2008-06-07 00:00:00,United Arab Emirates,Iran,0,1,FIFA World Cup qualification,Al Ain,United Arab Emirates,False
+2008-06-07 00:00:00,Uzbekistan,Singapore,3,0,FIFA World Cup qualification,Tashkent,Uzbekistan,False
+2008-06-08 00:00:00,Afghanistan,Bhutan,1,3,SAFF Cup,Colombo,Sri Lanka,True
+2008-06-08 00:00:00,Antigua and Barbuda,Saint Kitts and Nevis,2,0,Friendly,St. John's,Antigua and Barbuda,False
+2008-06-08 00:00:00,Austria,Croatia,0,1,UEFA Euro,Vienna,Austria,False
+2008-06-08 00:00:00,Benin,Uganda,4,1,FIFA World Cup qualification,Cotonou,Benin,False
+2008-06-08 00:00:00,Congo,Sudan,1,0,FIFA World Cup qualification,Brazzaville,Congo,False
+2008-06-08 00:00:00,DR Congo,Malawi,1,0,FIFA World Cup qualification,Kinshasa,DR Congo,False
+2008-06-08 00:00:00,Ethiopia,Rwanda,1,2,FIFA World Cup qualification,Addis Ababa,Ethiopia,False
+2008-06-08 00:00:00,Gambia,Senegal,0,0,FIFA World Cup qualification,Bakau,Gambia,False
+2008-06-08 00:00:00,Germany,Poland,2,0,UEFA Euro,Klagenfurt,Austria,True
+2008-06-08 00:00:00,Kuwait,Syria,4,2,FIFA World Cup qualification,Kuwait City,Kuwait,False
+2008-06-08 00:00:00,Lesotho,Ghana,2,3,FIFA World Cup qualification,Bloemfontein,South Africa,True
+2008-06-08 00:00:00,Madagascar,Ivory Coast,0,0,FIFA World Cup qualification,Antananarivo,Madagascar,False
+2008-06-08 00:00:00,Mauritius,Cameroon,0,3,FIFA World Cup qualification,Curepipe,Mauritius,False
+2008-06-08 00:00:00,Mexico,Peru,4,0,Friendly,Chicago,United States,True
+2008-06-08 00:00:00,Mozambique,Botswana,1,2,FIFA World Cup qualification,Maputo,Mozambique,False
+2008-06-08 00:00:00,Niger,Angola,1,2,FIFA World Cup qualification,Niamey,Niger,False
+2008-06-08 00:00:00,Sri Lanka,Bangladesh,1,0,SAFF Cup,Colombo,Sri Lanka,False
+2008-06-08 00:00:00,Eswatini,Togo,2,1,FIFA World Cup qualification,Lobamba,Eswatini,False
+2008-06-08 00:00:00,United States,Argentina,0,0,Friendly,East Rutherford,United States,False
+2008-06-08 00:00:00,Zimbabwe,Namibia,2,0,FIFA World Cup qualification,Harare,Zimbabwe,False
+2008-06-09 00:00:00,Bermuda,Barbados,3,0,Friendly,Hamilton,Bermuda,False
+2008-06-09 00:00:00,Cura√ßao,Venezuela,0,1,Friendly,Willemstad,Netherlands Antilles,False
+2008-06-09 00:00:00,Netherlands,Italy,3,0,UEFA Euro,Berne,Switzerland,True
+2008-06-09 00:00:00,Romania,France,0,0,UEFA Euro,Z√ºrich,Switzerland,True
+2008-06-10 00:00:00,Greece,Sweden,0,2,UEFA Euro,Salzburg,Austria,True
+2008-06-10 00:00:00,Grenada,Jamaica,2,1,Friendly,St. George's,Grenada,False
+2008-06-10 00:00:00,Spain,Russia,4,1,UEFA Euro,Innsbruck,Austria,True
+2008-06-11 00:00:00,Czech Republic,Portugal,1,3,UEFA Euro,Geneva,Switzerland,True
+2008-06-11 00:00:00,India,Bhutan,2,1,SAFF Cup,Mal√©,Maldives,True
+2008-06-11 00:00:00,Indonesia,Vietnam,1,0,Friendly,Surabaya,Indonesia,False
+2008-06-11 00:00:00,Sri Lanka,Maldives,0,1,SAFF Cup,Colombo,Sri Lanka,False
+2008-06-11 00:00:00,Switzerland,Turkey,1,2,UEFA Euro,Basel,Switzerland,False
+2008-06-12 00:00:00,Austria,Poland,1,1,UEFA Euro,Vienna,Austria,False
+2008-06-12 00:00:00,Croatia,Germany,2,1,UEFA Euro,Klagenfurt,Austria,True
+2008-06-13 00:00:00,Djibouti,DR Congo,0,6,FIFA World Cup qualification,Djibouti,Djibouti,False
+2008-06-13 00:00:00,Italy,Romania,1,1,UEFA Euro,Z√ºrich,Switzerland,True
+2008-06-13 00:00:00,Mauritania,Ethiopia,0,1,FIFA World Cup qualification,Nouakchott,Mauritania,False
+2008-06-13 00:00:00,Netherlands,France,4,1,UEFA Euro,Berne,Switzerland,True
+2008-06-14 00:00:00,Bahrain,Oman,1,1,FIFA World Cup qualification,Riffa,Bahrain,False
+2008-06-14 00:00:00,Botswana,Ivory Coast,1,1,FIFA World Cup qualification,Gaborone,Botswana,False
+2008-06-14 00:00:00,Chad,Congo,2,1,FIFA World Cup qualification,N'Djamena,Chad,False
+2008-06-14 00:00:00,China PR,Iraq,1,2,FIFA World Cup qualification,Tianjin,China PR,False
+2008-06-14 00:00:00,Gabon,Ghana,2,0,FIFA World Cup qualification,Libreville,Gabon,False
+2008-06-14 00:00:00,Gambia,Algeria,1,0,FIFA World Cup qualification,Bakau,Gambia,False
+2008-06-14 00:00:00,Greece,Russia,0,1,UEFA Euro,Salzburg,Austria,True
+2008-06-14 00:00:00,Grenada,Costa Rica,2,2,FIFA World Cup qualification,St. George's,Grenada,False
+2008-06-14 00:00:00,Guatemala,Saint Lucia,6,0,FIFA World Cup qualification,Guatemala,Guatemala,False
+2008-06-14 00:00:00,India,Maldives,0,1,SAFF Cup,Colombo,Sri Lanka,True
+2008-06-14 00:00:00,Kenya,Zimbabwe,2,0,FIFA World Cup qualification,Nairobi,Kenya,False
+2008-06-14 00:00:00,North Korea,Jordan,2,0,FIFA World Cup qualification,Pyongyang,North Korea,False
+2008-06-14 00:00:00,Kuwait,United Arab Emirates,2,3,FIFA World Cup qualification,Kuwait City,Kuwait,False
+2008-06-14 00:00:00,Malawi,Egypt,1,0,FIFA World Cup qualification,Blantyre,Malawi,False
+2008-06-14 00:00:00,Namibia,Guinea,1,2,FIFA World Cup qualification,Windhoek,Namibia,False
+2008-06-14 00:00:00,Niger,Benin,0,2,FIFA World Cup qualification,Niamey,Niger,False
+2008-06-14 00:00:00,Peru,Colombia,1,1,FIFA World Cup qualification,Lima,Peru,False
+2008-06-14 00:00:00,Puerto Rico,Honduras,2,2,FIFA World Cup qualification,Bayam√≥n,Puerto Rico,False
+2008-06-14 00:00:00,Qatar,Australia,1,3,FIFA World Cup qualification,Doha,Qatar,False
+2008-06-14 00:00:00,Rwanda,Morocco,3,1,FIFA World Cup qualification,Kigali,Rwanda,False
+2008-06-14 00:00:00,Seychelles,Burkina Faso,2,3,FIFA World Cup qualification,Victoria,Seychelles,False
+2008-06-14 00:00:00,Sierra Leone,South Africa,1,0,FIFA World Cup qualification,Freetown,Sierra Leone,False
+2008-06-14 00:00:00,Singapore,Saudi Arabia,0,3,FIFA World Cup qualification,Singapore,Singapore,False
+2008-06-14 00:00:00,Sudan,Mali,3,2,FIFA World Cup qualification,Khartoum,Sudan,False
+2008-06-14 00:00:00,Suriname,Guyana,1,0,FIFA World Cup qualification,Paramaribo,Suriname,False
+2008-06-14 00:00:00,Sweden,Spain,1,2,UEFA Euro,Innsbruck,Austria,True
+2008-06-14 00:00:00,Syria,Iran,0,2,FIFA World Cup qualification,Damascus,Syria,False
+2008-06-14 00:00:00,Tanzania,Cameroon,0,0,FIFA World Cup qualification,Dar es Salaam,Tanzania,False
+2008-06-14 00:00:00,Thailand,Japan,0,3,FIFA World Cup qualification,Bangkok,Thailand,False
+2008-06-14 00:00:00,Turkmenistan,South Korea,1,3,FIFA World Cup qualification,Ashgabat,Turkmenistan,False
+2008-06-14 00:00:00,Uganda,Angola,3,1,FIFA World Cup qualification,Kampala,Uganda,False
+2008-06-14 00:00:00,Uruguay,Venezuela,1,1,FIFA World Cup qualification,Montevideo,Uruguay,False
+2008-06-14 00:00:00,Uzbekistan,Lebanon,3,0,FIFA World Cup qualification,Tashkent,Uzbekistan,False
+2008-06-14 00:00:00,Vanuatu,New Caledonia,1,1,FIFA World Cup qualification,Port Vila,Vanuatu,False
+2008-06-15 00:00:00,Argentina,Ecuador,1,1,FIFA World Cup qualification,Buenos Aires,Argentina,False
+2008-06-15 00:00:00,Belize,Mexico,0,2,FIFA World Cup qualification,Houston,United States,True
+2008-06-15 00:00:00,Bolivia,Chile,0,2,FIFA World Cup qualification,La Paz,Bolivia,False
+2008-06-15 00:00:00,Burundi,Tunisia,0,1,FIFA World Cup qualification,Bujumbura,Burundi,False
+2008-06-15 00:00:00,Equatorial Guinea,Nigeria,0,1,FIFA World Cup qualification,Malabo,Equatorial Guinea,False
+2008-06-15 00:00:00,Haiti,Cura√ßao,0,0,FIFA World Cup qualification,Port-au-Prince,Haiti,False
+2008-06-15 00:00:00,Jamaica,Bahamas,7,0,FIFA World Cup qualification,Kingston,Jamaica,False
+2008-06-15 00:00:00,Lesotho,Libya,0,1,FIFA World Cup qualification,Bloemfontein,South Africa,True
+2008-06-15 00:00:00,Liberia,Senegal,2,2,FIFA World Cup qualification,Paynesville,Liberia,False
+2008-06-15 00:00:00,Macau,Hong Kong,0,1,Friendly,Macau,Macau,False
+2008-06-15 00:00:00,Madagascar,Mozambique,1,1,FIFA World Cup qualification,Antananarivo,Madagascar,False
+2008-06-15 00:00:00,Mauritius,Cape Verde,0,1,FIFA World Cup qualification,Curepipe,Mauritius,False
+2008-06-15 00:00:00,Panama,El Salvador,1,0,FIFA World Cup qualification,Panama City,Panama,False
+2008-06-15 00:00:00,Paraguay,Brazil,2,0,FIFA World Cup qualification,Asunci√≥n,Paraguay,False
+2008-06-15 00:00:00,Eswatini,Zambia,0,0,FIFA World Cup qualification,Lobamba,Eswatini,False
+2008-06-15 00:00:00,Switzerland,Portugal,2,0,UEFA Euro,Basel,Switzerland,False
+2008-06-15 00:00:00,Trinidad and Tobago,Bermuda,1,2,FIFA World Cup qualification,Macoya,Trinidad and Tobago,False
+2008-06-15 00:00:00,Turkey,Czech Republic,3,2,UEFA Euro,Geneva,Switzerland,True
+2008-06-15 00:00:00,United States,Barbados,8,0,FIFA World Cup qualification,Carson,United States,False
+2008-06-16 00:00:00,Austria,Germany,0,1,UEFA Euro,Vienna,Austria,False
+2008-06-16 00:00:00,Poland,Croatia,0,1,UEFA Euro,Klagenfurt,Austria,True
+2008-06-17 00:00:00,Antigua and Barbuda,Cuba,3,4,FIFA World Cup qualification,St. John's,Antigua and Barbuda,False
+2008-06-17 00:00:00,France,Italy,0,2,UEFA Euro,Z√ºrich,Switzerland,True
+2008-06-17 00:00:00,Netherlands,Romania,2,0,UEFA Euro,Berne,Switzerland,True
+2008-06-17 00:00:00,Uruguay,Peru,6,0,FIFA World Cup qualification,Montevideo,Uruguay,False
+2008-06-18 00:00:00,Bolivia,Paraguay,4,2,FIFA World Cup qualification,La Paz,Bolivia,False
+2008-06-18 00:00:00,Ecuador,Colombia,0,0,FIFA World Cup qualification,Quito,Ecuador,False
+2008-06-18 00:00:00,Greece,Spain,1,2,UEFA Euro,Salzburg,Austria,True
+2008-06-18 00:00:00,Jamaica,Bahamas,6,0,FIFA World Cup qualification,Falmouth,Jamaica,False
+2008-06-18 00:00:00,Russia,Sweden,2,0,UEFA Euro,Innsbruck,Austria,True
+2008-06-18 00:00:00,Brazil,Argentina,0,0,FIFA World Cup qualification,Belo Horizonte,Brazil,False
+2008-06-19 00:00:00,Portugal,Germany,2,3,UEFA Euro,Basel,Switzerland,True
+2008-06-19 00:00:00,Venezuela,Chile,2,3,FIFA World Cup qualification,Puerto la Cruz,Venezuela,False
+2008-06-20 00:00:00,Algeria,Gambia,1,0,FIFA World Cup qualification,Blida,Algeria,False
+2008-06-20 00:00:00,Canada,Saint Vincent and the Grenadines,4,1,FIFA World Cup qualification,Montr√©al,Canada,False
+2008-06-20 00:00:00,Croatia,Turkey,1,1,UEFA Euro,Vienna,Austria,True
+2008-06-20 00:00:00,Libya,Lesotho,4,0,FIFA World Cup qualification,Tripoli,Libya,False
+2008-06-21 00:00:00,Burkina Faso,Seychelles,4,1,FIFA World Cup qualification,Ouagadougou,Burkina Faso,False
+2008-06-21 00:00:00,Cameroon,Tanzania,2,1,FIFA World Cup qualification,Yaound√©,Cameroon,False
+2008-06-21 00:00:00,Costa Rica,Grenada,3,0,FIFA World Cup qualification,San Jos√©,Costa Rica,False
+2008-06-21 00:00:00,Mexico,Belize,7,0,FIFA World Cup qualification,Monterrey,Mexico,False
+2008-06-21 00:00:00,Morocco,Rwanda,2,0,FIFA World Cup qualification,Casablanca,Morocco,False
+2008-06-21 00:00:00,Netherlands,Russia,1,3,UEFA Euro,Basel,Switzerland,True
+2008-06-21 00:00:00,New Caledonia,Vanuatu,3,0,FIFA World Cup qualification,Noum√©a,New Caledonia,False
+2008-06-21 00:00:00,Nigeria,Equatorial Guinea,2,0,FIFA World Cup qualification,Abuja,Nigeria,False
+2008-06-21 00:00:00,Senegal,Liberia,3,1,FIFA World Cup qualification,Dakar,Senegal,False
+2008-06-21 00:00:00,South Africa,Sierra Leone,0,0,FIFA World Cup qualification,Atteridgeville,South Africa,False
+2008-06-21 00:00:00,Saint Lucia,Guatemala,1,3,FIFA World Cup qualification,Los Angeles,United States,True
+2008-06-21 00:00:00,Tunisia,Burundi,2,1,FIFA World Cup qualification,Rad√®s,Tunisia,False
+2008-06-21 00:00:00,Zambia,Eswatini,1,0,FIFA World Cup qualification,Chililabombwe,Zambia,False
+2008-06-22 00:00:00,Australia,China PR,0,1,FIFA World Cup qualification,Sydney,Australia,False
+2008-06-22 00:00:00,Barbados,United States,0,1,FIFA World Cup qualification,Bridgetown,Barbados,False
+2008-06-22 00:00:00,Benin,Niger,2,0,FIFA World Cup qualification,Cotonou,Benin,False
+2008-06-22 00:00:00,Bermuda,Trinidad and Tobago,0,2,FIFA World Cup qualification,Hamilton,Bermuda,False
+2008-06-22 00:00:00,Cape Verde,Mauritius,3,1,FIFA World Cup qualification,Praia,Cape Verde,False
+2008-06-22 00:00:00,Congo,Chad,2,0,FIFA World Cup qualification,Brazzaville,Congo,False
+2008-06-22 00:00:00,DR Congo,Djibouti,5,1,FIFA World Cup qualification,Kinshasa,DR Congo,False
+2008-06-22 00:00:00,Cuba,Antigua and Barbuda,4,0,FIFA World Cup qualification,Havana,Cuba,False
+2008-06-22 00:00:00,Cura√ßao,Haiti,0,1,FIFA World Cup qualification,Willemstad,Netherlands Antilles,True
+2008-06-22 00:00:00,Egypt,Malawi,2,0,FIFA World Cup qualification,Cairo,Egypt,False
+2008-06-22 00:00:00,El Salvador,Panama,3,1,FIFA World Cup qualification,San Salvador,El Salvador,False
+2008-06-22 00:00:00,Ethiopia,Mauritania,6,1,FIFA World Cup qualification,Addis Ababa,Ethiopia,False
+2008-06-22 00:00:00,Ghana,Gabon,2,0,FIFA World Cup qualification,Accra,Ghana,False
+2008-06-22 00:00:00,Guinea,Namibia,4,0,FIFA World Cup qualification,Conakry,Guinea,False
+2008-06-22 00:00:00,Guyana,Suriname,1,2,FIFA World Cup qualification,Providence,Guyana,False
+2008-06-22 00:00:00,Iran,Kuwait,2,0,FIFA World Cup qualification,Tehran,Iran,False
+2008-06-22 00:00:00,Iraq,Qatar,0,1,FIFA World Cup qualification,Dubai,United Arab Emirates,True
+2008-06-22 00:00:00,Ivory Coast,Botswana,4,0,FIFA World Cup qualification,Abidjan,Ivory Coast,False
+2008-06-22 00:00:00,Japan,Bahrain,1,0,FIFA World Cup qualification,Saitama,Japan,False
+2008-06-22 00:00:00,Jordan,Turkmenistan,2,0,FIFA World Cup qualification,Amman,Jordan,False
+2008-06-22 00:00:00,South Korea,North Korea,0,0,FIFA World Cup qualification,Seoul,South Korea,False
+2008-06-22 00:00:00,Lebanon,Singapore,1,2,FIFA World Cup qualification,Beirut,Lebanon,False
+2008-06-22 00:00:00,Mali,Sudan,3,0,FIFA World Cup qualification,Bamako,Mali,False
+2008-06-22 00:00:00,Mozambique,Madagascar,3,0,FIFA World Cup qualification,Maputo,Mozambique,False
+2008-06-22 00:00:00,Oman,Thailand,2,1,FIFA World Cup qualification,Muscat,Oman,False
+2008-06-22 00:00:00,Saudi Arabia,Uzbekistan,4,0,FIFA World Cup qualification,Riyadh,Saudi Arabia,False
+2008-06-22 00:00:00,Spain,Italy,0,0,UEFA Euro,Vienna,Austria,True
+2008-06-22 00:00:00,United Arab Emirates,Syria,1,3,FIFA World Cup qualification,Al Ain,United Arab Emirates,False
+2008-06-22 00:00:00,Zimbabwe,Kenya,0,0,FIFA World Cup qualification,Harare,Zimbabwe,False
+2008-06-23 00:00:00,Angola,Uganda,0,0,FIFA World Cup qualification,Luanda,Angola,False
+2008-06-25 00:00:00,Germany,Turkey,3,2,UEFA Euro,Basel,Switzerland,True
+2008-06-26 00:00:00,Russia,Spain,0,3,UEFA Euro,Vienna,Austria,True
+2008-06-28 00:00:00,Gabon,Lesotho,2,0,FIFA World Cup qualification,Libreville,Gabon,False
+2008-06-29 00:00:00,Germany,Spain,0,1,UEFA Euro,Vienna,Austria,True
+2008-07-07 00:00:00,Solomon Islands,Vanuatu,1,2,Friendly,Honiara,Solomon Islands,False
+2008-07-07 00:00:00,S√°pmi,Iraqi Kurdistan,2,2,Viva World Cup,G√§llivare,Sweden,False
+2008-07-08 00:00:00,Trinidad and Tobago,Guyana,2,0,Friendly,Macoya,Trinidad and Tobago,False
+2008-07-08 00:00:00,Provence,Padania,1,6,Viva World Cup,G√§llivare,Sweden,True
+2008-07-09 00:00:00,Provence,Iraqi Kurdistan,0,3,Viva World Cup,Malmberget,Sweden,True
+2008-07-09 00:00:00,S√°pmi,Arameans Suryoye,0,1,Viva World Cup,G√§llivare,Sweden,False
+2008-07-10 00:00:00,Arameans Suryoye,Provence,5,0,Viva World Cup,Malmberget,Sweden,True
+2008-07-10 00:00:00,Padania,Iraqi Kurdistan,2,1,Viva World Cup,G√§llivare,Sweden,True
+2008-07-11 00:00:00,S√°pmi,Padania,0,2,Viva World Cup,Malmberget,Sweden,False
+2008-07-11 00:00:00,Iraqi Kurdistan,Arameans Suryoye,0,0,Viva World Cup,G√§llivare,Sweden,True
+2008-07-12 00:00:00,Padania,Arameans Suryoye,4,1,Viva World Cup,Malmberget,Sweden,True
+2008-07-12 00:00:00,S√°pmi,Provence,4,2,Viva World Cup,G√§llivare,Sweden,False
+2008-07-13 00:00:00,S√°pmi,Iraqi Kurdistan,3,1,Viva World Cup,Malmberget,Sweden,False
+2008-07-13 00:00:00,Padania,Arameans Suryoye,2,0,Viva World Cup,G√§llivare,Sweden,True
+2008-07-17 00:00:00,Trinidad and Tobago,Cura√ßao,2,0,Friendly,Macoya,Trinidad and Tobago,False
+2008-07-19 00:00:00,Madagascar,Eswatini,1,1,COSAFA Cup qualification,Witbank,South Africa,True
+2008-07-19 00:00:00,Mauritius,Seychelles,0,7,COSAFA Cup qualification,Witbank,South Africa,True
+2008-07-20 00:00:00,Comoros,Namibia,0,3,COSAFA Cup qualification,Secunda,South Africa,True
+2008-07-20 00:00:00,El Salvador,Guatemala,0,0,Friendly,Los Angeles,United States,True
+2008-07-20 00:00:00,Lesotho,Malawi,0,1,COSAFA Cup qualification,Secunda,South Africa,True
+2008-07-21 00:00:00,Madagascar,Seychelles,1,1,COSAFA Cup qualification,Witbank,South Africa,True
+2008-07-21 00:00:00,Mauritius,Eswatini,1,1,COSAFA Cup qualification,Witbank,South Africa,True
+2008-07-22 00:00:00,Comoros,Malawi,0,1,COSAFA Cup qualification,Secunda,South Africa,True
+2008-07-22 00:00:00,India,Malaysia,1,1,Friendly,Hyderabad,India,False
+2008-07-22 00:00:00,Lesotho,Namibia,1,1,COSAFA Cup qualification,Secunda,South Africa,True
+2008-07-23 00:00:00,Madagascar,Mauritius,2,1,COSAFA Cup qualification,Witbank,South Africa,True
+2008-07-23 00:00:00,Seychelles,Eswatini,0,1,COSAFA Cup qualification,Witbank,South Africa,True
+2008-07-24 00:00:00,Comoros,Lesotho,0,1,COSAFA Cup qualification,Secunda,South Africa,True
+2008-07-24 00:00:00,Malawi,Namibia,0,1,COSAFA Cup qualification,Secunda,South Africa,True
+2008-07-26 00:00:00,El Salvador,Jamaica,0,0,Friendly,Frisco,United States,True
+2008-07-26 00:00:00,South Africa,Namibia,1,0,COSAFA Cup,Witbank,South Africa,False
+2008-07-27 00:00:00,Botswana,Mozambique,0,2,COSAFA Cup,Secunda,South Africa,True
+2008-07-27 00:00:00,Cura√ßao,Aruba,0,0,CFU Caribbean Cup qualification,Willemstad,Netherlands Antilles,True
+2008-07-27 00:00:00,Zambia,Zimbabwe,0,0,COSAFA Cup,Secunda,South Africa,True
+2008-07-29 00:00:00,Grenada,Aruba,3,1,CFU Caribbean Cup qualification,Willemstad,Netherlands Antilles,True
+2008-07-30 00:00:00,India,Afghanistan,1,0,AFC Challenge Cup,Hyderabad,India,False
+2008-07-30 00:00:00,Madagascar,Mozambique,1,2,COSAFA Cup,Bushbuckridge,South Africa,True
+2008-07-30 00:00:00,South Africa,Zambia,1,0,COSAFA Cup,Bushbuckridge,South Africa,False
+2008-07-30 00:00:00,Trinidad and Tobago,Haiti,2,0,Friendly,Macoya,Trinidad and Tobago,False
+2008-07-30 00:00:00,Turkmenistan,Tajikistan,0,0,AFC Challenge Cup,Hyderabad,India,True
+2008-07-31 00:00:00,Myanmar,Nepal,3,0,AFC Challenge Cup,Hyderabad,India,True
+2008-07-31 00:00:00,Cura√ßao,Grenada,2,0,CFU Caribbean Cup qualification,Willemstad,Netherlands Antilles,True
+2008-07-31 00:00:00,North Korea,Sri Lanka,3,0,AFC Challenge Cup,Hyderabad,India,True
+2008-08-01 00:00:00,Afghanistan,Turkmenistan,0,5,AFC Challenge Cup,Hyderabad,India,True
+2008-08-01 00:00:00,India,Tajikistan,1,1,AFC Challenge Cup,Hyderabad,India,False
+2008-08-02 00:00:00,Nepal,North Korea,0,1,AFC Challenge Cup,Hyderabad,India,True
+2008-08-02 00:00:00,Sri Lanka,Myanmar,1,3,AFC Challenge Cup,Hyderabad,India,True
+2008-08-03 00:00:00,Afghanistan,Tajikistan,0,4,AFC Challenge Cup,Hyderabad,India,True
+2008-08-03 00:00:00,India,Turkmenistan,2,1,AFC Challenge Cup,Hyderabad,India,False
+2008-08-03 00:00:00,Madagascar,Zambia,0,2,COSAFA Cup,Bushbuckridge,South Africa,True
+2008-08-03 00:00:00,South Africa,Madagascar,2,1,COSAFA Cup,Bushbuckridge,South Africa,False
+2008-08-04 00:00:00,North Korea,Myanmar,1,0,AFC Challenge Cup,Hyderabad,India,True
+2008-08-04 00:00:00,Nepal,Sri Lanka,3,0,AFC Challenge Cup,Hyderabad,India,True
+2008-08-06 00:00:00,Guatemala,Bolivia,3,0,Friendly,Washington,United States,True
+2008-08-07 00:00:00,India,Myanmar,1,0,AFC Challenge Cup,Hyderabad,India,False
+2008-08-07 00:00:00,Iran,Palestine,3,0,WAFF Championship,Tehran,Iran,False
+2008-08-07 00:00:00,North Korea,Tajikistan,0,1,AFC Challenge Cup,Hyderabad,India,True
+2008-08-07 00:00:00,Syria,Jordan,0,0,WAFF Championship,Tehran,Iran,True
+2008-08-08 00:00:00,Guyana,Dominica,3,0,CFU Caribbean Cup qualification,Providence,Guyana,False
+2008-08-09 00:00:00,Dominica,Suriname,1,3,CFU Caribbean Cup qualification,Blairmont,Guyana,True
+2008-08-09 00:00:00,Oman,Syria,1,2,WAFF Championship,Tehran,Iran,True
+2008-08-09 00:00:00,Palestine,Qatar,0,1,WAFF Championship,Tehran,Iran,True
+2008-08-10 00:00:00,Guyana,Suriname,1,1,CFU Caribbean Cup qualification,Providence,Guyana,False
+2008-08-10 00:00:00,Haiti,Trinidad and Tobago,1,0,Friendly,Port-au-Prince,Haiti,False
+2008-08-11 00:00:00,Iran,Qatar,6,1,WAFF Championship,Tehran,Iran,False
+2008-08-13 00:00:00,Myanmar,North Korea,0,4,AFC Challenge Cup,New Delhi,India,True
+2008-08-13 00:00:00,India,Tajikistan,4,1,AFC Challenge Cup,New Delhi,India,False
+2008-08-13 00:00:00,Iran,Syria,2,0,WAFF Championship,Tehran,Iran,False
+2008-08-13 00:00:00,Jordan,Qatar,3,0,WAFF Championship,Tehran,Iran,True
+2008-08-14 00:00:00,El Salvador,Trinidad and Tobago,1,3,Friendly,Washington,United States,True
+2008-08-15 00:00:00,Iran,Jordan,2,1,WAFF Championship,Tehran,Iran,False
+2008-08-19 00:00:00,Australia,South Africa,2,2,Friendly,London,England,True
+2008-08-19 00:00:00,Gabon,Mali,1,0,Friendly,Mantes-la-Ville,France,True
+2008-08-20 00:00:00,Albania,Liechtenstein,2,0,Friendly,Tirana,Albania,False
+2008-08-20 00:00:00,Algeria,United Arab Emirates,1,0,Friendly,Le Touquet-Paris-Plage,France,True
+2008-08-20 00:00:00,Bahrain,Burkina Faso,3,1,Friendly,Manama,Bahrain,False
+2008-08-20 00:00:00,Belarus,Argentina,0,0,Friendly,Minsk,Belarus,False
+2008-08-20 00:00:00,Bolivia,Panama,1,0,Friendly,Santa Cruz,Bolivia,False
+2008-08-20 00:00:00,Bosnia and Herzegovina,Bulgaria,1,2,Friendly,Zenica,Bosnia and Herzegovina,False
+2008-08-20 00:00:00,Canada,Jamaica,1,1,FIFA World Cup qualification,Toronto,Canada,False
+2008-08-20 00:00:00,Colombia,Ecuador,0,1,Friendly,East Rutherford,United States,True
+2008-08-20 00:00:00,DR Congo,Togo,2,1,Friendly,Dreux,France,True
+2008-08-20 00:00:00,Costa Rica,El Salvador,1,0,FIFA World Cup qualification,San Jos√©,Costa Rica,False
+2008-08-20 00:00:00,Cuba,Trinidad and Tobago,1,3,FIFA World Cup qualification,Havana,Cuba,False
+2008-08-20 00:00:00,Denmark,Spain,0,3,Friendly,Copenhagen,Denmark,False
+2008-08-20 00:00:00,England,Czech Republic,2,2,Friendly,London,England,False
+2008-08-20 00:00:00,Estonia,Malta,2,1,Friendly,Tallinn,Estonia,False
+2008-08-20 00:00:00,Finland,Israel,2,0,Friendly,Tampere,Finland,False
+2008-08-20 00:00:00,Germany,Belgium,2,0,Friendly,Nuremberg,Germany,False
+2008-08-20 00:00:00,Guatemala,United States,0,1,FIFA World Cup qualification,Guatemala,Guatemala,False
+2008-08-20 00:00:00,Guinea,Ivory Coast,1,2,Friendly,Chantilly,France,True
+2008-08-20 00:00:00,Haiti,Suriname,2,2,FIFA World Cup qualification,Port-au-Prince,Haiti,False
+2008-08-20 00:00:00,Hungary,Montenegro,3,3,Friendly,Budapest,Hungary,False
+2008-08-20 00:00:00,Iceland,Azerbaijan,1,1,Friendly,Reykjav√≠k,Iceland,False
+2008-08-20 00:00:00,Italy,Austria,2,2,Friendly,Nice,France,True
+2008-08-20 00:00:00,Japan,Uruguay,1,3,Friendly,Sapporo,Japan,False
+2008-08-20 00:00:00,Kazakhstan,Andorra,3,0,FIFA World Cup qualification,Almaty,Kazakhstan,False
+2008-08-20 00:00:00,Libya,Senegal,0,0,Friendly,Tripoli,Libya,False
+2008-08-20 00:00:00,Lithuania,Moldova,3,0,Friendly,Marijampolƒó,Lithuania,False
+2008-08-20 00:00:00,Luxembourg,North Macedonia,1,4,Friendly,Luxembourg,Luxembourg,False
+2008-08-20 00:00:00,Mexico,Honduras,2,1,FIFA World Cup qualification,Mexico City,Mexico,False
+2008-08-20 00:00:00,Morocco,Benin,3,1,Friendly,Rabat,Morocco,False
+2008-08-20 00:00:00,Mozambique,Eswatini,3,0,Friendly,Maputo,Mozambique,False
+2008-08-20 00:00:00,Norway,Republic of Ireland,1,1,Friendly,Oslo,Norway,False
+2008-08-20 00:00:00,Oman,Uzbekistan,2,0,Friendly,Muscat,Oman,False
+2008-08-20 00:00:00,Portugal,Faroe Islands,5,0,Friendly,Aveiro,Portugal,False
+2008-08-20 00:00:00,Qatar,Tajikistan,5,0,Friendly,Doha,Qatar,False
+2008-08-20 00:00:00,Romania,Latvia,1,0,Friendly,Urziceni,Romania,False
+2008-08-20 00:00:00,Russia,Netherlands,1,1,Friendly,Moscow,Russia,False
+2008-08-20 00:00:00,Saudi Arabia,Paraguay,1,1,Friendly,Nyon,Switzerland,True
+2008-08-20 00:00:00,Scotland,Northern Ireland,0,0,Friendly,Glasgow,Scotland,False
+2008-08-20 00:00:00,Slovakia,Greece,0,2,Friendly,Bratislava,Slovakia,False
+2008-08-20 00:00:00,Slovenia,Croatia,2,3,Friendly,Maribor,Slovenia,False
+2008-08-20 00:00:00,Sudan,Egypt,4,0,Friendly,Omdurman,Sudan,False
+2008-08-20 00:00:00,Sweden,France,2,3,Friendly,Gothenburg,Sweden,False
+2008-08-20 00:00:00,Switzerland,Cyprus,4,1,Friendly,Geneva,Switzerland,False
+2008-08-20 00:00:00,Tanzania,Ghana,1,1,Friendly,Arusha,Tanzania,False
+2008-08-20 00:00:00,Tunisia,Angola,1,1,Friendly,Monastir,Tunisia,False
+2008-08-20 00:00:00,Turkey,Chile,1,0,Friendly,ƒ∞zmit,Turkey,False
+2008-08-20 00:00:00,Ukraine,Poland,1,0,Friendly,Lviv,Ukraine,False
+2008-08-20 00:00:00,Venezuela,Syria,4,1,Friendly,Puerto la Cruz,Venezuela,False
+2008-08-20 00:00:00,Wales,Georgia,1,2,Friendly,Swansea,Wales,False
+2008-08-20 00:00:00,Zimbabwe,Botswana,1,0,Friendly,Harare,Zimbabwe,False
+2008-08-21 00:00:00,Indonesia,Cambodia,7,0,Friendly,Jakarta,Indonesia,False
+2008-08-22 00:00:00,Cambodia,Myanmar,1,7,Friendly,Jakarta,Indonesia,True
+2008-08-24 00:00:00,Libya,Chad,3,0,Friendly,Tripoli,Libya,False
+2008-08-24 00:00:00,Qatar,North Korea,2,1,Friendly,Doha,Qatar,False
+2008-08-25 00:00:00,Indonesia,Myanmar,4,0,Friendly,Jakarta,Indonesia,False
+2008-08-27 00:00:00,Bermuda,Antigua and Barbuda,0,4,CFU Caribbean Cup qualification,George Town,Cayman Islands,True
+2008-08-27 00:00:00,Cayman Islands,Saint Martin,3,0,CFU Caribbean Cup qualification,George Town,Cayman Islands,False
+2008-08-27 00:00:00,Iran,Azerbaijan,1,0,Friendly,Tehran,Iran,False
+2008-08-28 00:00:00,Libya,Niger,6,2,Friendly,Tripoli,Libya,False
+2008-08-29 00:00:00,United Arab Emirates,Bahrain,2,3,Friendly,Abu Dhabi,United Arab Emirates,False
+2008-08-29 00:00:00,Uzbekistan,North Korea,0,0,Friendly,Tashkent,Uzbekistan,False
+2008-08-30 00:00:00,Cayman Islands,Antigua and Barbuda,1,1,CFU Caribbean Cup qualification,George Town,Cayman Islands,False
+2008-08-30 00:00:00,Saudi Arabia,Qatar,2,1,Friendly,Dammam,Saudi Arabia,False
+2008-08-30 00:00:00,Saint Martin,Bermuda,0,7,CFU Caribbean Cup qualification,George Town,Cayman Islands,True
+2008-08-30 00:00:00,Suriname,French Guiana,2,1,Friendly,Paramaribo,Suriname,False
+2008-08-31 00:00:00,Antigua and Barbuda,Saint Martin,3,2,CFU Caribbean Cup qualification,George Town,Cayman Islands,True
+2008-08-31 00:00:00,Cayman Islands,Bermuda,0,0,CFU Caribbean Cup qualification,George Town,Cayman Islands,False
+2008-09-03 00:00:00,Trinidad and Tobago,Guyana,3,0,Friendly,Port of Spain,Trinidad and Tobago,False
+2008-09-05 00:00:00,Algeria,Senegal,3,2,FIFA World Cup qualification,Blida,Algeria,False
+2008-09-05 00:00:00,Djibouti,Malawi,0,3,FIFA World Cup qualification,Djibouti,Djibouti,False
+2008-09-05 00:00:00,South Korea,Jordan,1,0,Friendly,Seoul,South Korea,False
+2008-09-05 00:00:00,Libya,Ghana,1,0,FIFA World Cup qualification,Tripoli,Libya,False
+2008-09-06 00:00:00,Albania,Sweden,0,0,FIFA World Cup qualification,Tirana,Albania,False
+2008-09-06 00:00:00,Andorra,England,0,2,FIFA World Cup qualification,Barcelona,Spain,True
+2008-09-06 00:00:00,Argentina,Paraguay,1,1,FIFA World Cup qualification,Buenos Aires,Argentina,False
+2008-09-06 00:00:00,Armenia,Turkey,0,2,FIFA World Cup qualification,Yerevan,Armenia,False
+2008-09-06 00:00:00,Austria,France,3,1,FIFA World Cup qualification,Vienna,Austria,False
+2008-09-06 00:00:00,Bahrain,Japan,2,3,FIFA World Cup qualification,Riffa,Bahrain,False
+2008-09-06 00:00:00,Belgium,Estonia,3,2,FIFA World Cup qualification,Li√®ge,Belgium,False
+2008-09-06 00:00:00,Burkina Faso,Tunisia,0,0,FIFA World Cup qualification,Ouagadougou,Burkina Faso,False
+2008-09-06 00:00:00,Cape Verde,Cameroon,1,2,FIFA World Cup qualification,Praia,Cape Verde,False
+2008-09-06 00:00:00,Colombia,Uruguay,0,1,FIFA World Cup qualification,Bogot√°,Colombia,False
+2008-09-06 00:00:00,Croatia,Kazakhstan,3,0,FIFA World Cup qualification,Zagreb,Croatia,False
+2008-09-06 00:00:00,Cuba,United States,0,1,FIFA World Cup qualification,Havana,Cuba,False
+2008-09-06 00:00:00,Cyprus,Italy,1,2,FIFA World Cup qualification,Larnaca,Cyprus,False
+2008-09-06 00:00:00,Ecuador,Bolivia,3,1,FIFA World Cup qualification,Quito,Ecuador,False
+2008-09-06 00:00:00,Fiji,Vanuatu,2,0,FIFA World Cup qualification,Ba,Fiji,False
+2008-09-06 00:00:00,Gambia,Liberia,3,0,FIFA World Cup qualification,Bakau,Gambia,False
+2008-09-06 00:00:00,Georgia,Republic of Ireland,1,2,FIFA World Cup qualification,Mainz,Germany,True
+2008-09-06 00:00:00,Hungary,Denmark,0,0,FIFA World Cup qualification,Budapest,Hungary,False
+2008-09-06 00:00:00,Israel,Switzerland,2,2,FIFA World Cup qualification,Ramat-Gan,Israel,False
+2008-09-06 00:00:00,Kenya,Namibia,1,0,FIFA World Cup qualification,Nairobi,Kenya,False
+2008-09-06 00:00:00,Liechtenstein,Germany,0,6,FIFA World Cup qualification,Vaduz,Liechtenstein,False
+2008-09-06 00:00:00,Luxembourg,Greece,0,3,FIFA World Cup qualification,Luxembourg,Luxembourg,False
+2008-09-06 00:00:00,North Macedonia,Scotland,1,0,FIFA World Cup qualification,Skopje,North Macedonia,False
+2008-09-06 00:00:00,Malta,Portugal,0,4,FIFA World Cup qualification,Attard,Malta,False
+2008-09-06 00:00:00,Martinique,French Guiana,2,1,Friendly,Fort-de-France,Martinique,False
+2008-09-06 00:00:00,Mauritania,Rwanda,0,1,FIFA World Cup qualification,Nouakchott,Mauritania,False
+2008-09-06 00:00:00,Mauritius,Tanzania,1,4,FIFA World Cup qualification,Curepipe,Mauritius,False
+2008-09-06 00:00:00,Moldova,Latvia,1,2,FIFA World Cup qualification,Tiraspol,Moldova,False
+2008-09-06 00:00:00,Montenegro,Bulgaria,2,2,FIFA World Cup qualification,Podgorica,Montenegro,False
+2008-09-06 00:00:00,Netherlands,Australia,1,2,Friendly,Eindhoven,Netherlands,False
+2008-09-06 00:00:00,New Caledonia,New Zealand,1,3,FIFA World Cup qualification,Noum√©a,New Caledonia,False
+2008-09-06 00:00:00,Norway,Iceland,2,2,FIFA World Cup qualification,Oslo,Norway,False
+2008-09-06 00:00:00,Oman,Morocco,0,0,Friendly,Muscat,Oman,False
+2008-09-06 00:00:00,Peru,Venezuela,1,0,FIFA World Cup qualification,Lima,Peru,False
+2008-09-06 00:00:00,Poland,Slovenia,1,1,FIFA World Cup qualification,Wroc≈Çaw,Poland,False
+2008-09-06 00:00:00,Qatar,Uzbekistan,3,0,FIFA World Cup qualification,Doha,Qatar,False
+2008-09-06 00:00:00,Romania,Lithuania,0,3,FIFA World Cup qualification,Cluj,Romania,False
+2008-09-06 00:00:00,Saudi Arabia,Iran,1,1,FIFA World Cup qualification,Riyadh,Saudi Arabia,False
+2008-09-06 00:00:00,Serbia,Faroe Islands,2,0,FIFA World Cup qualification,Belgrade,Serbia,False
+2008-09-06 00:00:00,Seychelles,Burundi,1,2,FIFA World Cup qualification,Victoria,Seychelles,False
+2008-09-06 00:00:00,Sierra Leone,Equatorial Guinea,2,1,FIFA World Cup qualification,Freetown,Sierra Leone,False
+2008-09-06 00:00:00,Slovakia,Northern Ireland,2,1,FIFA World Cup qualification,Bratislava,Slovakia,False
+2008-09-06 00:00:00,South Africa,Nigeria,0,1,FIFA World Cup qualification,Port Elizabeth,South Africa,False
+2008-09-06 00:00:00,Spain,Bosnia and Herzegovina,1,0,FIFA World Cup qualification,Murcia,Spain,False
+2008-09-06 00:00:00,Sudan,Chad,1,2,FIFA World Cup qualification,Cairo,Egypt,True
+2008-09-06 00:00:00,Trinidad and Tobago,Guatemala,1,1,FIFA World Cup qualification,Port of Spain,Trinidad and Tobago,False
+2008-09-06 00:00:00,Ukraine,Belarus,1,0,FIFA World Cup qualification,Lviv,Ukraine,False
+2008-09-06 00:00:00,United Arab Emirates,North Korea,1,2,FIFA World Cup qualification,Abu Dhabi,United Arab Emirates,False
+2008-09-06 00:00:00,Wales,Azerbaijan,1,0,FIFA World Cup qualification,Cardiff,Wales,False
+2008-09-07 00:00:00,Benin,Angola,3,2,FIFA World Cup qualification,Cotonou,Benin,False
+2008-09-07 00:00:00,Chile,Brazil,0,3,FIFA World Cup qualification,Santiago,Chile,False
+2008-09-07 00:00:00,Congo,Mali,1,0,FIFA World Cup qualification,Brazzaville,Congo,False
+2008-09-07 00:00:00,DR Congo,Egypt,0,1,FIFA World Cup qualification,Kinshasa,DR Congo,False
+2008-09-07 00:00:00,Lesotho,Gabon,0,3,FIFA World Cup qualification,Bloemfontein,South Africa,True
+2008-09-07 00:00:00,Madagascar,Botswana,1,0,FIFA World Cup qualification,Antananarivo,Madagascar,False
+2008-09-07 00:00:00,Mozambique,Ivory Coast,1,1,FIFA World Cup qualification,Maputo,Mozambique,False
+2008-09-07 00:00:00,Niger,Uganda,3,1,FIFA World Cup qualification,Niamey,Niger,False
+2008-09-07 00:00:00,Zimbabwe,Guinea,0,0,FIFA World Cup qualification,Harare,Zimbabwe,False
+2008-09-09 00:00:00,Paraguay,Venezuela,2,0,FIFA World Cup qualification,Asunci√≥n,Paraguay,False
+2008-09-09 00:00:00,South Africa,Guinea,0,1,Friendly,Atteridgeville,South Africa,False
+2008-09-10 00:00:00,Albania,Malta,3,0,FIFA World Cup qualification,Tirana,Albania,False
+2008-09-10 00:00:00,Andorra,Belarus,1,3,FIFA World Cup qualification,Sant Juli√† de L√≤ria,Andorra,False
+2008-09-10 00:00:00,Azerbaijan,Liechtenstein,0,0,FIFA World Cup qualification,Baku,Azerbaijan,False
+2008-09-10 00:00:00,Bosnia and Herzegovina,Estonia,7,0,FIFA World Cup qualification,Zenica,Bosnia and Herzegovina,False
+2008-09-10 00:00:00,Brazil,Bolivia,0,0,FIFA World Cup qualification,Rio de Janeiro,Brazil,False
+2008-09-10 00:00:00,Chad,Sudan,1,3,FIFA World Cup qualification,Cairo,Egypt,True
+2008-09-10 00:00:00,Chile,Colombia,4,0,FIFA World Cup qualification,Santiago,Chile,False
+2008-09-10 00:00:00,Croatia,England,1,4,FIFA World Cup qualification,Zagreb,Croatia,False
+2008-09-10 00:00:00,Faroe Islands,Romania,0,1,FIFA World Cup qualification,T√≥rshavn,Faroe Islands,False
+2008-09-10 00:00:00,Finland,Germany,3,3,FIFA World Cup qualification,Helsinki,Finland,False
+2008-09-10 00:00:00,France,Serbia,2,1,FIFA World Cup qualification,Saint-Denis,France,False
+2008-09-10 00:00:00,Guatemala,Cuba,4,1,FIFA World Cup qualification,Guatemala,Guatemala,False
+2008-09-10 00:00:00,Haiti,Costa Rica,1,3,FIFA World Cup qualification,Port-au-Prince,Haiti,False
+2008-09-10 00:00:00,Honduras,Jamaica,2,0,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2008-09-10 00:00:00,Iceland,Scotland,1,2,FIFA World Cup qualification,Reykjav√≠k,Iceland,False
+2008-09-10 00:00:00,Italy,Georgia,2,0,FIFA World Cup qualification,Udine,Italy,False
+2008-09-10 00:00:00,Kazakhstan,Ukraine,1,3,FIFA World Cup qualification,Almaty,Kazakhstan,False
+2008-09-10 00:00:00,North Korea,South Korea,1,1,FIFA World Cup qualification,Shanghai,China PR,True
+2008-09-10 00:00:00,Latvia,Greece,0,2,FIFA World Cup qualification,Riga,Latvia,False
+2008-09-10 00:00:00,Lithuania,Austria,2,0,FIFA World Cup qualification,Marijampolƒó,Lithuania,False
+2008-09-10 00:00:00,North Macedonia,Netherlands,1,2,FIFA World Cup qualification,Skopje,North Macedonia,False
+2008-09-10 00:00:00,Mexico,Canada,2,1,FIFA World Cup qualification,Tuxtla Guti√©rrez,Mexico,False
+2008-09-10 00:00:00,Moldova,Israel,1,2,FIFA World Cup qualification,Chi»ôinƒÉu,Moldova,False
+2008-09-10 00:00:00,Montenegro,Republic of Ireland,0,0,FIFA World Cup qualification,Podgorica,Montenegro,False
+2008-09-10 00:00:00,New Zealand,New Caledonia,3,0,FIFA World Cup qualification,North Shore,New Zealand,False
+2008-09-10 00:00:00,Northern Ireland,Czech Republic,0,0,FIFA World Cup qualification,Belfast,Northern Ireland,False
+2008-09-10 00:00:00,Oman,Zimbabwe,3,2,Friendly,Muscat,Oman,False
+2008-09-10 00:00:00,Peru,Argentina,1,1,FIFA World Cup qualification,Lima,Peru,False
+2008-09-10 00:00:00,Portugal,Denmark,2,3,FIFA World Cup qualification,Lisbon,Portugal,False
+2008-09-10 00:00:00,Qatar,Bahrain,1,1,FIFA World Cup qualification,Doha,Qatar,False
+2008-09-10 00:00:00,Russia,Wales,2,1,FIFA World Cup qualification,Moscow,Russia,False
+2008-09-10 00:00:00,San Marino,Poland,0,2,FIFA World Cup qualification,Serravalle,San Marino,False
+2008-09-10 00:00:00,Slovenia,Slovakia,2,1,FIFA World Cup qualification,Maribor,Slovenia,False
+2008-09-10 00:00:00,Spain,Armenia,4,0,FIFA World Cup qualification,Albacete,Spain,False
+2008-09-10 00:00:00,Suriname,El Salvador,0,2,FIFA World Cup qualification,Paramaribo,Suriname,False
+2008-09-10 00:00:00,Sweden,Hungary,2,1,FIFA World Cup qualification,Solna,Sweden,False
+2008-09-10 00:00:00,Switzerland,Luxembourg,1,2,FIFA World Cup qualification,Z√ºrich,Switzerland,False
+2008-09-10 00:00:00,Turkey,Belgium,1,1,FIFA World Cup qualification,Istanbul,Turkey,False
+2008-09-10 00:00:00,United Arab Emirates,Saudi Arabia,1,2,FIFA World Cup qualification,Abu Dhabi,United Arab Emirates,False
+2008-09-10 00:00:00,Uruguay,Ecuador,0,0,FIFA World Cup qualification,Montevideo,Uruguay,False
+2008-09-10 00:00:00,United States,Trinidad and Tobago,3,0,FIFA World Cup qualification,Bridgeview,United States,False
+2008-09-10 00:00:00,Uzbekistan,Australia,0,1,FIFA World Cup qualification,Tashkent,Uzbekistan,False
+2008-09-10 00:00:00,Vanuatu,Fiji,2,1,FIFA World Cup qualification,Port Vila,Vanuatu,False
+2008-09-10 00:00:00,Zambia,Togo,1,0,FIFA World Cup qualification,Chililabombwe,Zambia,False
+2008-09-19 00:00:00,Martinique,Anguilla,3,1,CFU Caribbean Cup qualification,Fort-de-France,Martinique,False
+2008-09-21 00:00:00,Antigua and Barbuda,Guyana,3,0,Friendly,St. John's,Antigua and Barbuda,False
+2008-09-24 00:00:00,Guadeloupe,Martinique,0,1,African Nations Championship,La Courneuve,France,True
+2008-09-24 00:00:00,Mexico,Chile,0,1,Friendly,Los Angeles,United States,True
+2008-09-24 00:00:00,Saint Kitts and Nevis,British Virgin Islands,4,0,CFU Caribbean Cup qualification,Basseterre,Saint Kitts and Nevis,False
+2008-09-24 00:00:00,Tahiti,New Caledonia,0,1,African Nations Championship,La Courneuve,France,True
+2008-09-25 00:00:00,Mayotte,R√©union,1,6,African Nations Championship,Franconville,France,True
+2008-09-26 00:00:00,British Virgin Islands,Barbados,1,2,CFU Caribbean Cup qualification,Basseterre,Saint Kitts and Nevis,True
+2008-09-27 00:00:00,New Caledonia,Guadeloupe,0,4,African Nations Championship,Melun,France,True
+2008-09-27 00:00:00,Tahiti,Martinique,0,1,African Nations Championship,Melun,France,True
+2008-09-28 00:00:00,French Guiana,Mayotte,4,2,African Nations Championship,Bonneuil-sur-Marne,France,True
+2008-09-28 00:00:00,Saint Kitts and Nevis,Barbados,1,3,CFU Caribbean Cup qualification,Basseterre,Saint Kitts and Nevis,False
+2008-09-30 00:00:00,New Caledonia,Martinique,1,1,African Nations Championship,Poissy,France,True
+2008-09-30 00:00:00,South Africa,Malawi,3,0,Friendly,Johannesburg,South Africa,False
+2008-09-30 00:00:00,Tahiti,Guadeloupe,0,1,African Nations Championship,Colombes,France,True
+2008-10-01 00:00:00,French Guiana,R√©union,0,2,African Nations Championship,Viry-Ch√¢tillon,France,True
+2008-10-01 00:00:00,Vietnam,Myanmar,2,3,Friendly,Ho Chi Minh City,Vietnam,False
+2008-10-03 00:00:00,Myanmar,Turkmenistan,1,2,Friendly,Ho Chi Minh City,Vietnam,True
+2008-10-03 00:00:00,Guadeloupe,French Guiana,4,0,African Nations Championship,La Courneuve,France,True
+2008-10-03 00:00:00,New Caledonia,Mayotte,3,2,African Nations Championship,La Courneuve,France,True
+2008-10-04 00:00:00,Martinique,R√©union,0,1,African Nations Championship,Cr√©teil,France,True
+2008-10-08 00:00:00,Trinidad and Tobago,Dominican Republic,9,0,Friendly,Port of Spain,Trinidad and Tobago,False
+2008-10-09 00:00:00,Japan,United Arab Emirates,1,1,Friendly,Niigata,Japan,False
+2008-10-10 00:00:00,Malaysia,Pakistan,4,1,Friendly,Kuala Lumpur,Malaysia,False
+2008-10-11 00:00:00,Argentina,Uruguay,2,1,FIFA World Cup qualification,Buenos Aires,Argentina,False
+2008-10-11 00:00:00,Belgium,Armenia,2,0,FIFA World Cup qualification,Brussels,Belgium,False
+2008-10-11 00:00:00,Bolivia,Peru,3,0,FIFA World Cup qualification,La Paz,Bolivia,False
+2008-10-11 00:00:00,Botswana,Mozambique,0,1,FIFA World Cup qualification,Gaborone,Botswana,False
+2008-10-11 00:00:00,Bulgaria,Italy,0,0,FIFA World Cup qualification,Sofia,Bulgaria,False
+2008-10-11 00:00:00,Cameroon,Mauritius,5,0,FIFA World Cup qualification,Yaound√©,Cameroon,False
+2008-10-11 00:00:00,Colombia,Paraguay,0,1,FIFA World Cup qualification,Bogot√°,Colombia,False
+2008-10-11 00:00:00,Denmark,Malta,3,0,FIFA World Cup qualification,Copenhagen,Denmark,False
+2008-10-11 00:00:00,England,Kazakhstan,5,1,FIFA World Cup qualification,London,England,False
+2008-10-11 00:00:00,Equatorial Guinea,South Africa,0,1,FIFA World Cup qualification,Malabo,Equatorial Guinea,False
+2008-10-11 00:00:00,Estonia,Spain,0,3,FIFA World Cup qualification,Tallinn,Estonia,False
+2008-10-11 00:00:00,Faroe Islands,Austria,1,1,FIFA World Cup qualification,T√≥rshavn,Faroe Islands,False
+2008-10-11 00:00:00,Finland,Azerbaijan,1,0,FIFA World Cup qualification,Helsinki,Finland,False
+2008-10-11 00:00:00,Gabon,Libya,1,0,FIFA World Cup qualification,Libreville,Gabon,False
+2008-10-11 00:00:00,Georgia,Cyprus,1,1,FIFA World Cup qualification,Tbilisi,Georgia,False
+2008-10-11 00:00:00,Germany,Russia,2,1,FIFA World Cup qualification,Dortmund,Germany,False
+2008-10-11 00:00:00,Ghana,Lesotho,3,0,FIFA World Cup qualification,Sekondi,Ghana,False
+2008-10-11 00:00:00,Greece,Moldova,3,0,FIFA World Cup qualification,Athens,Greece,False
+2008-10-11 00:00:00,Guadeloupe,Cayman Islands,7,1,CFU Caribbean Cup qualification,Les Abymes,Guadeloupe,False
+2008-10-11 00:00:00,Guatemala,Trinidad and Tobago,0,0,FIFA World Cup qualification,Guatemala,Guatemala,False
+2008-10-11 00:00:00,Haiti,El Salvador,0,0,FIFA World Cup qualification,Port-au-Prince,Haiti,False
+2008-10-11 00:00:00,Honduras,Canada,3,1,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2008-10-11 00:00:00,Hungary,Albania,2,0,FIFA World Cup qualification,Budapest,Hungary,False
+2008-10-11 00:00:00,Ivory Coast,Madagascar,3,0,FIFA World Cup qualification,Abidjan,Ivory Coast,False
+2008-10-11 00:00:00,Jamaica,Mexico,1,0,FIFA World Cup qualification,Kingston,Jamaica,False
+2008-10-11 00:00:00,South Korea,Uzbekistan,3,0,Friendly,Suwon,South Korea,False
+2008-10-11 00:00:00,Liberia,Algeria,0,0,FIFA World Cup qualification,Paynesville,Liberia,False
+2008-10-11 00:00:00,Luxembourg,Israel,1,3,FIFA World Cup qualification,Luxembourg,Luxembourg,False
+2008-10-11 00:00:00,Malawi,DR Congo,2,1,FIFA World Cup qualification,Blantyre,Malawi,False
+2008-10-11 00:00:00,Mali,Chad,2,1,FIFA World Cup qualification,Bamako,Mali,False
+2008-10-11 00:00:00,Martinique,Grenada,2,2,CFU Caribbean Cup qualification,Les Abymes,Guadeloupe,True
+2008-10-11 00:00:00,Morocco,Mauritania,4,1,FIFA World Cup qualification,Rabat,Morocco,False
+2008-10-11 00:00:00,Namibia,Zimbabwe,4,2,FIFA World Cup qualification,Windhoek,Namibia,False
+2008-10-11 00:00:00,Netherlands,Iceland,2,0,FIFA World Cup qualification,Rotterdam,Netherlands,False
+2008-10-11 00:00:00,Nigeria,Sierra Leone,4,1,FIFA World Cup qualification,Abuja,Nigeria,False
+2008-10-11 00:00:00,Poland,Czech Republic,2,1,FIFA World Cup qualification,Chorz√≥w,Poland,False
+2008-10-11 00:00:00,Romania,France,2,2,FIFA World Cup qualification,Constan≈£a,Romania,False
+2008-10-11 00:00:00,San Marino,Slovakia,1,3,FIFA World Cup qualification,Serravalle,San Marino,False
+2008-10-11 00:00:00,Scotland,Norway,0,0,FIFA World Cup qualification,Glasgow,Scotland,False
+2008-10-11 00:00:00,Senegal,Gambia,1,1,FIFA World Cup qualification,Dakar,Senegal,False
+2008-10-11 00:00:00,Serbia,Lithuania,3,0,FIFA World Cup qualification,Belgrade,Serbia,False
+2008-10-11 00:00:00,Slovenia,Northern Ireland,2,0,FIFA World Cup qualification,Maribor,Slovenia,False
+2008-10-11 00:00:00,Sudan,Congo,2,0,FIFA World Cup qualification,Omdurman,Sudan,False
+2008-10-11 00:00:00,Suriname,Costa Rica,1,4,FIFA World Cup qualification,Paramaribo,Suriname,False
+2008-10-11 00:00:00,Sweden,Portugal,0,0,FIFA World Cup qualification,Solna,Sweden,False
+2008-10-11 00:00:00,Switzerland,Latvia,2,1,FIFA World Cup qualification,St. Gallen,Switzerland,False
+2008-10-11 00:00:00,Tanzania,Cape Verde,3,1,FIFA World Cup qualification,Dar es Salaam,Tanzania,False
+2008-10-11 00:00:00,Togo,Eswatini,6,0,FIFA World Cup qualification,Accra,Ghana,True
+2008-10-11 00:00:00,Tunisia,Seychelles,5,0,FIFA World Cup qualification,Rad√®s,Tunisia,False
+2008-10-11 00:00:00,Turkey,Bosnia and Herzegovina,2,1,FIFA World Cup qualification,Istanbul,Turkey,False
+2008-10-11 00:00:00,Ukraine,Croatia,0,0,FIFA World Cup qualification,Kharkiv,Ukraine,False
+2008-10-11 00:00:00,United States,Cuba,6,1,FIFA World Cup qualification,Washington,United States,False
+2008-10-11 00:00:00,Wales,Liechtenstein,2,0,FIFA World Cup qualification,Cardiff,Wales,False
+2008-10-12 00:00:00,Angola,Niger,3,1,FIFA World Cup qualification,Luanda,Angola,False
+2008-10-12 00:00:00,Burundi,Burkina Faso,1,3,FIFA World Cup qualification,Bujumbura,Burundi,False
+2008-10-12 00:00:00,Ecuador,Chile,1,0,FIFA World Cup qualification,Quito,Ecuador,False
+2008-10-12 00:00:00,Egypt,Djibouti,4,0,FIFA World Cup qualification,Cairo,Egypt,False
+2008-10-12 00:00:00,Guinea,Kenya,3,2,FIFA World Cup qualification,Conakry,Guinea,False
+2008-10-12 00:00:00,Uganda,Benin,2,1,FIFA World Cup qualification,Kampala,Uganda,False
+2008-10-12 00:00:00,Venezuela,Brazil,0,4,FIFA World Cup qualification,San Crist√≥bal,Venezuela,False
+2008-10-13 00:00:00,Cayman Islands,Martinique,0,1,CFU Caribbean Cup qualification,Les Abymes,Guadeloupe,True
+2008-10-13 00:00:00,Guadeloupe,Grenada,2,1,CFU Caribbean Cup qualification,Les Abymes,Guadeloupe,False
+2008-10-14 00:00:00,Bolivia,Uruguay,2,2,FIFA World Cup qualification,La Paz,Bolivia,False
+2008-10-14 00:00:00,France,Tunisia,3,1,Friendly,Saint-Denis,France,False
+2008-10-14 00:00:00,Vietnam,Singapore,0,0,Friendly,Hanoi,Vietnam,False
+2008-10-15 00:00:00,Australia,Qatar,4,0,FIFA World Cup qualification,Brisbane,Australia,False
+2008-10-15 00:00:00,Austria,Serbia,1,3,FIFA World Cup qualification,Vienna,Austria,False
+2008-10-15 00:00:00,Bahrain,Azerbaijan,1,2,Friendly,Arad,Bahrain,False
+2008-10-15 00:00:00,Belarus,England,1,3,FIFA World Cup qualification,Minsk,Belarus,False
+2008-10-15 00:00:00,Belgium,Spain,1,2,FIFA World Cup qualification,Brussels,Belgium,False
+2008-10-15 00:00:00,Bosnia and Herzegovina,Armenia,4,1,FIFA World Cup qualification,Zenica,Bosnia and Herzegovina,False
+2008-10-15 00:00:00,Brazil,Colombia,0,0,FIFA World Cup qualification,Rio de Janeiro,Brazil,False
+2008-10-15 00:00:00,Canada,Mexico,2,2,FIFA World Cup qualification,Edmonton,Canada,False
+2008-10-15 00:00:00,Chile,Argentina,1,0,FIFA World Cup qualification,Santiago,Chile,False
+2008-10-15 00:00:00,Costa Rica,Haiti,2,0,FIFA World Cup qualification,San Jos√©,Costa Rica,False
+2008-10-15 00:00:00,Croatia,Andorra,4,0,FIFA World Cup qualification,Zagreb,Croatia,False
+2008-10-15 00:00:00,Cuba,Guatemala,2,1,FIFA World Cup qualification,Havana,Cuba,False
+2008-10-15 00:00:00,Czech Republic,Slovenia,1,0,FIFA World Cup qualification,Teplice,Czech Republic,False
+2008-10-15 00:00:00,El Salvador,Suriname,3,0,FIFA World Cup qualification,San Salvador,El Salvador,False
+2008-10-15 00:00:00,Estonia,Turkey,0,0,FIFA World Cup qualification,Tallinn,Estonia,False
+2008-10-15 00:00:00,Georgia,Bulgaria,0,0,FIFA World Cup qualification,Tbilisi,Georgia,False
+2008-10-15 00:00:00,Germany,Wales,1,0,FIFA World Cup qualification,M√∂nchengladbach,Germany,False
+2008-10-15 00:00:00,Greece,Switzerland,1,2,FIFA World Cup qualification,Athens,Greece,False
+2008-10-15 00:00:00,Grenada,Cayman Islands,4,2,CFU Caribbean Cup qualification,Les Abymes,Guadeloupe,True
+2008-10-15 00:00:00,Guadeloupe,Martinique,3,1,CFU Caribbean Cup qualification,Les Abymes,Guadeloupe,False
+2008-10-15 00:00:00,Iceland,North Macedonia,1,0,FIFA World Cup qualification,Reykjav√≠k,Iceland,False
+2008-10-15 00:00:00,Iran,North Korea,2,1,FIFA World Cup qualification,Tehran,Iran,False
+2008-10-15 00:00:00,Republic of Ireland,Cyprus,1,0,FIFA World Cup qualification,Dublin,Republic of Ireland,False
+2008-10-15 00:00:00,Italy,Montenegro,2,1,FIFA World Cup qualification,Lecce,Italy,False
+2008-10-15 00:00:00,Jamaica,Honduras,1,0,FIFA World Cup qualification,Kingston,Jamaica,False
+2008-10-15 00:00:00,Japan,Uzbekistan,1,1,FIFA World Cup qualification,Saitama,Japan,False
+2008-10-15 00:00:00,South Korea,United Arab Emirates,4,1,FIFA World Cup qualification,Seoul,South Korea,False
+2008-10-15 00:00:00,Latvia,Israel,1,1,FIFA World Cup qualification,Riga,Latvia,False
+2008-10-15 00:00:00,Lithuania,Faroe Islands,1,0,FIFA World Cup qualification,Kaunas,Lithuania,False
+2008-10-15 00:00:00,Luxembourg,Moldova,0,0,FIFA World Cup qualification,Luxembourg,Luxembourg,False
+2008-10-15 00:00:00,Malaysia,Nepal,4,0,Merdeka Tournament,Petaling Jaya,Malaysia,False
+2008-10-15 00:00:00,Malta,Hungary,0,1,FIFA World Cup qualification,Attard,Malta,False
+2008-10-15 00:00:00,Northern Ireland,San Marino,4,0,FIFA World Cup qualification,Belfast,Northern Ireland,False
+2008-10-15 00:00:00,Norway,Netherlands,0,1,FIFA World Cup qualification,Oslo,Norway,False
+2008-10-15 00:00:00,Paraguay,Peru,1,0,FIFA World Cup qualification,Asunci√≥n,Paraguay,False
+2008-10-15 00:00:00,Portugal,Albania,0,0,FIFA World Cup qualification,Braga,Portugal,False
+2008-10-15 00:00:00,Russia,Finland,3,0,FIFA World Cup qualification,Moscow,Russia,False
+2008-10-15 00:00:00,Slovakia,Poland,2,1,FIFA World Cup qualification,Bratislava,Slovakia,False
+2008-10-15 00:00:00,South Africa,Ghana,2,1,Friendly,Bloemfontein,South Africa,False
+2008-10-15 00:00:00,Trinidad and Tobago,United States,2,1,FIFA World Cup qualification,Port of Spain,Trinidad and Tobago,False
+2008-10-15 00:00:00,Venezuela,Ecuador,3,1,FIFA World Cup qualification,Puerto la Cruz,Venezuela,False
+2008-10-17 00:00:00,Cambodia,Laos,3,2,AFF Championship,Phnom Penh,Cambodia,False
+2008-10-17 00:00:00,Nepal,Afghanistan,2,2,Merdeka Tournament,Petaling Jaya,Malaysia,True
+2008-10-17 00:00:00,Philippines,Timor-Leste,1,0,AFF Championship,Phnom Penh,Cambodia,True
+2008-10-18 00:00:00,Bangladesh,Myanmar,0,1,Merdeka Tournament,Shah Alam,Malaysia,True
+2008-10-19 00:00:00,Brunei,Philippines,1,1,AFF Championship,Phnom Penh,Cambodia,True
+2008-10-19 00:00:00,Cambodia,Timor-Leste,2,2,AFF Championship,Phnom Penh,Cambodia,False
+2008-10-20 00:00:00,Malaysia,Afghanistan,6,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+2008-10-21 00:00:00,Timor-Leste,Brunei,1,4,AFF Championship,Phnom Penh,Cambodia,True
+2008-10-21 00:00:00,Philippines,Laos,1,2,AFF Championship,Phnom Penh,Cambodia,True
+2008-10-22 00:00:00,Bolivia,El Salvador,0,2,Friendly,Washington,United States,True
+2008-10-23 00:00:00,Barbados,Suriname,3,2,CFU Caribbean Cup qualification,Havana,Cuba,True
+2008-10-23 00:00:00,Cambodia,Philippines,2,3,AFF Championship,Phnom Penh,Cambodia,False

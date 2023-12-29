@@ -1,0 +1,1001 @@
+date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
+1971-09-08 00:00:00,Norway,France,1,3,UEFA Euro qualification,Oslo,Norway,False
+1971-09-09 00:00:00,Fiji,New Caledonia,1,5,South Pacific Games,Papeete,French Polynesia,True
+1971-09-09 00:00:00,Tahiti,Papua New Guinea,2,2,South Pacific Games,Papeete,French Polynesia,False
+1971-09-09 00:00:00,El Salvador,Nicaragua,3,2,CONCACAF Championship qualification,San Salvador,El Salvador,False
+1971-09-10 00:00:00,South Korea,Iran,2,0,Friendly,Seoul,South Korea,False
+1971-09-11 00:00:00,Cook Islands,Papua New Guinea,1,16,South Pacific Games,Papeete,French Polynesia,True
+1971-09-11 00:00:00,Fiji,Vanuatu,4,6,South Pacific Games,Papeete,French Polynesia,True
+1971-09-12 00:00:00,South Korea,Iran,0,2,Friendly,Seoul,South Korea,False
+1971-09-12 00:00:00,Guatemala,Honduras,1,1,CONCACAF Championship qualification,Guatemala,Guatemala,False
+1971-09-13 00:00:00,New Caledonia,Vanuatu,0,0,South Pacific Games,Papeete,French Polynesia,True
+1971-09-13 00:00:00,Tahiti,Cook Islands,30,0,South Pacific Games,Papeete,French Polynesia,False
+1971-09-15 00:00:00,Cook Islands,Fiji,1,15,South Pacific Games,Papeete,French Polynesia,True
+1971-09-15 00:00:00,El Salvador,Nicaragua,1,0,CONCACAF Championship qualification,San Salvador,El Salvador,False
+1971-09-15 00:00:00,Suriname,Guyana,4,1,CONCACAF Championship qualification,Paramaribo,Suriname,False
+1971-09-16 00:00:00,New Caledonia,Papua New Guinea,4,0,South Pacific Games,Papeete,French Polynesia,True
+1971-09-16 00:00:00,Tahiti,Vanuatu,1,2,South Pacific Games,Papeete,French Polynesia,False
+1971-09-18 00:00:00,German DR,Mexico,1,1,Friendly,Leipzig,German DR,False
+1971-09-18 00:00:00,Russia,India,5,0,Friendly,Moscow,Soviet Union,False
+1971-09-18 00:00:00,Tahiti,Papua New Guinea,8,1,South Pacific Games,Papeete,French Polynesia,False
+1971-09-18 00:00:00,New Caledonia,Vanuatu,7,1,South Pacific Games,Papeete,French Polynesia,True
+1971-09-21 00:00:00,Guyana,Suriname,2,3,CONCACAF Championship qualification,Georgetown,Guyana,False
+1971-09-22 00:00:00,Finland,Romania,0,4,UEFA Euro qualification,Helsinki,Finland,False
+1971-09-22 00:00:00,Poland,Turkey,5,1,UEFA Euro qualification,Cracow,Poland,False
+1971-09-22 00:00:00,Russia,Northern Ireland,1,0,UEFA Euro qualification,Moscow,Soviet Union,False
+1971-09-22 00:00:00,Yugoslavia,Mexico,4,0,Friendly,Sarajevo,Yugoslavia,False
+1971-09-25 00:00:00,German DR,Czechoslovakia,1,1,Friendly,Berlin,German DR,False
+1971-09-25 00:00:00,Hungary,Bulgaria,2,0,UEFA Euro qualification,Budapest,Hungary,False
+1971-09-25 00:00:00,Italy,Mexico,2,0,Friendly,Genoa,Italy,False
+1971-09-25 00:00:00,Kenya,Tanzania,1,1,Friendly,Nairobi,Kenya,False
+1971-09-26 00:00:00,Norway,Denmark,1,4,Nordic Championship,Oslo,Norway,False
+1971-09-26 00:00:00,Switzerland,Turkey,4,0,Friendly,Z√ºrich,Switzerland,False
+1971-09-26 00:00:00,Uganda,Zanzibar,3,1,Friendly,Nairobi,Kenya,True
+1971-09-29 00:00:00,Uganda,Tanzania,0,0,Friendly,Nairobi,Kenya,True
+1971-09-30 00:00:00,Greece,Mexico,0,1,Friendly,Salonica,Greece,False
+1971-09-30 00:00:00,Kenya,Zanzibar,4,0,Friendly,Nairobi,Kenya,False
+1971-10-01 00:00:00,Jamaica,Cuba,0,1,CONCACAF Championship qualification,Kingston,Jamaica,False
+1971-10-02 00:00:00,Tanzania,Zanzibar,1,1,Friendly,Nairobi,Kenya,True
+1971-10-03 00:00:00,Kenya,Uganda,2,0,Friendly,Nairobi,Kenya,False
+1971-10-04 00:00:00,Cuba,Jamaica,0,0,CONCACAF Championship qualification,Havana,Cuba,False
+1971-10-06 00:00:00,Bermuda,Mexico,0,2,CONCACAF Championship qualification,Hamilton,Bermuda,False
+1971-10-06 00:00:00,Mexico,Bermuda,4,0,CONCACAF Championship qualification,Mexico City,Mexico,False
+1971-10-08 00:00:00,Lesotho,Malawi,0,0,Friendly,Maseru,Lesotho,False
+1971-10-09 00:00:00,France,Hungary,0,2,UEFA Euro qualification,Colombes,France,False
+1971-10-09 00:00:00,Italy,Sweden,3,0,UEFA Euro qualification,Milan,Italy,False
+1971-10-10 00:00:00,Austria,Republic of Ireland,6,0,UEFA Euro qualification,Linz,Austria,False
+1971-10-10 00:00:00,Lesotho,Malawi,0,2,Friendly,Maseru,Lesotho,False
+1971-10-10 00:00:00,Netherlands,German DR,3,2,UEFA Euro qualification,Rotterdam,Netherlands,False
+1971-10-10 00:00:00,Poland,Germany,1,3,UEFA Euro qualification,Warsaw,Poland,False
+1971-10-13 00:00:00,Northern Ireland,Russia,1,1,UEFA Euro qualification,Belfast,Northern Ireland,False
+1971-10-13 00:00:00,Scotland,Portugal,2,1,UEFA Euro qualification,Glasgow,Scotland,False
+1971-10-13 00:00:00,Switzerland,England,2,3,UEFA Euro qualification,Basel,Switzerland,False
+1971-10-13 00:00:00,Wales,Finland,3,0,UEFA Euro qualification,Swansea,Wales,False
+1971-10-16 00:00:00,Yugoslavia,German DR,0,0,UEFA Euro qualification,Belgrade,Yugoslavia,False
+1971-10-17 00:00:00,Zambia,Kenya,0,2,Friendly,Ndola,Zambia,False
+1971-10-20 00:00:00,Zambia,Kenya,3,1,Friendly,Kitwe,Zambia,False
+1971-10-23 00:00:00,Zambia,Kenya,0,1,Friendly,Lusaka,Zambia,False
+1971-10-27 00:00:00,Czechoslovakia,Wales,1,0,UEFA Euro qualification,Prague,Czechoslovakia,False
+1971-10-27 00:00:00,Hungary,Norway,4,0,UEFA Euro qualification,Budapest,Hungary,False
+1971-10-27 00:00:00,Spain,Russia,0,0,UEFA Euro qualification,Seville,Spain,False
+1971-10-27 00:00:00,Uruguay,Chile,3,0,Copa Juan Pinto Dur√°n,Montevideo,Uruguay,False
+1971-10-27 00:00:00,Yugoslavia,Luxembourg,0,0,UEFA Euro qualification,Titograd,Yugoslavia,False
+1971-10-28 00:00:00,Singapore,Thailand,0,1,Vietnam Independence Cup,Saigon,Vietnam Republic,True
+1971-10-28 00:00:00,Vietnam Republic,Malaysia,0,1,Vietnam Independence Cup,Saigon,Vietnam Republic,False
+1971-10-30 00:00:00,Malaysia,Singapore,1,1,Vietnam Independence Cup,Saigon,Vietnam Republic,True
+1971-10-30 00:00:00,Vietnam Republic,Thailand,3,0,Vietnam Independence Cup,Saigon,Vietnam Republic,False
+1971-10-31 00:00:00,Martinique,Haiti,2,2,Friendly,Fort-de-France,Martinique,False
+1971-10-31 00:00:00,Singapore,Thailand,3,1,Vietnam Independence Cup,Saigon,Vietnam Republic,True
+1971-10-31 00:00:00,Vietnam Republic,Malaysia,1,1,Vietnam Independence Cup,Saigon,Vietnam Republic,False
+1971-11-03 00:00:00,Chile,Uruguay,5,0,Copa Juan Pinto Dur√°n,Santiago,Chile,False
+1971-11-07 00:00:00,Belgium,Luxembourg,1,0,Friendly,Verviers,Belgium,False
+1971-11-07 00:00:00,Thailand,Singapore,2,0,King's Cup,Bangkok,Thailand,False
+1971-11-08 00:00:00,South Korea,Malaysia,2,2,King's Cup,Bangkok,Thailand,True
+1971-11-09 00:00:00,Singapore,Vietnam Republic,4,5,King's Cup,Bangkok,Thailand,True
+1971-11-10 00:00:00,England,Switzerland,1,1,UEFA Euro qualification,London,England,False
+1971-11-10 00:00:00,France,Bulgaria,2,1,UEFA Euro qualification,Nantes,France,False
+1971-11-10 00:00:00,Indonesia,Malaysia,2,0,King's Cup,Bangkok,Thailand,True
+1971-11-10 00:00:00,Scotland,Belgium,1,0,UEFA Euro qualification,Aberdeen,Scotland,False
+1971-11-11 00:00:00,Australia,Israel,2,2,Friendly,Brisbane,Australia,False
+1971-11-11 00:00:00,Thailand,Vietnam Republic,0,1,King's Cup,Bangkok,Thailand,False
+1971-11-12 00:00:00,Indonesia,South Korea,0,0,King's Cup,Bangkok,Thailand,True
+1971-11-14 00:00:00,Albania,Turkey,3,0,UEFA Euro qualification,Tirana,Albania,False
+1971-11-14 00:00:00,Australia,Israel,1,0,Friendly,Sydney,Australia,False
+1971-11-14 00:00:00,Guinea,Tanzania,3,2,Friendly,Conakry,Guinea,False
+1971-11-14 00:00:00,South Korea,Vietnam Republic,1,1,King's Cup,Bangkok,Thailand,True
+1971-11-14 00:00:00,Malta,Hungary,0,2,FIFA World Cup qualification,G≈ºira,Malta,False
+1971-11-14 00:00:00,Romania,Czechoslovakia,2,1,UEFA Euro qualification,Bucharest,Romania,False
+1971-11-14 00:00:00,Thailand,Indonesia,1,0,King's Cup,Bangkok,Thailand,False
+1971-11-16 00:00:00,Thailand,South Korea,0,1,King's Cup,Bangkok,Thailand,False
+1971-11-17 00:00:00,Bulgaria,Greece,2,2,Friendly,Sofia,Bulgaria,False
+1971-11-17 00:00:00,Germany,Poland,0,0,UEFA Euro qualification,Hamburg,Germany,False
+1971-11-17 00:00:00,Netherlands,Luxembourg,8,0,UEFA Euro qualification,Eindhoven,Netherlands,False
+1971-11-19 00:00:00,Iraq,Kuwait,3,1,Friendly,Baghdad,Iraq,False
+1971-11-20 00:00:00,Italy,Austria,2,2,UEFA Euro qualification,Rome,Italy,False
+1971-11-20 00:00:00,Cuba,Costa Rica,0,3,CONCACAF Championship,Port of Spain,Trinidad and Tobago,True
+1971-11-21 00:00:00,Australia,Israel,1,3,Friendly,Melbourne,Australia,False
+1971-11-21 00:00:00,Haiti,Mexico,0,0,CONCACAF Championship,San Fernando,Trinidad and Tobago,True
+1971-11-21 00:00:00,Trinidad and Tobago,Honduras,1,1,CONCACAF Championship,San Fernando,Trinidad and Tobago,False
+1971-11-21 00:00:00,Portugal,Belgium,1,1,UEFA Euro qualification,Lisbon,Portugal,False
+1971-11-23 00:00:00,Cuba,Honduras,3,1,CONCACAF Championship,Port of Spain,Trinidad and Tobago,True
+1971-11-24 00:00:00,Costa Rica,Haiti,0,0,CONCACAF Championship,Port of Spain,Trinidad and Tobago,True
+1971-11-24 00:00:00,Libya,Algeria,0,0,Friendly,Tripoli,Libya,False
+1971-11-24 00:00:00,Romania,Wales,2,0,UEFA Euro qualification,Bucharest,Romania,False
+1971-11-24 00:00:00,Spain,Cyprus,7,0,UEFA Euro qualification,Granada,Spain,False
+1971-11-26 00:00:00,Trinidad and Tobago,Mexico,0,2,CONCACAF Championship,Port of Spain,Trinidad and Tobago,False
+1971-11-27 00:00:00,Costa Rica,Honduras,2,1,CONCACAF Championship,Port of Spain,Trinidad and Tobago,True
+1971-11-27 00:00:00,Grenada,Saint Lucia,5,2,Windward Islands Tournament,Roseau,Dominica,True
+1971-11-27 00:00:00,Nigeria,Burkina Faso,4,0,Friendly,Lagos,Nigeria,False
+1971-11-28 00:00:00,Cuba,Mexico,0,1,CONCACAF Championship,San Fernando,Trinidad and Tobago,True
+1971-11-28 00:00:00,Dominica,Saint Vincent and the Grenadines,3,0,Windward Islands Tournament,Roseau,Dominica,False
+1971-11-28 00:00:00,Trinidad and Tobago,Haiti,1,6,CONCACAF Championship,Arima,Trinidad and Tobago,False
+1971-11-30 00:00:00,Trinidad and Tobago,Cuba,2,2,CONCACAF Championship,Port of Spain,Trinidad and Tobago,False
+1971-11-30 00:00:00,Barbados,Cura√ßao,1,3,Friendly,Bridgetown,Barbados,False
+1971-11-30 00:00:00,Grenada,Saint Vincent and the Grenadines,1,1,Windward Islands Tournament,Roseau,Dominica,True
+1971-11-30 00:00:00,Togo,Burkina Faso,1,0,Friendly,Lom√©,Togo,False
+1971-12-01 00:00:00,Dominica,Saint Lucia,2,2,Windward Islands Tournament,Roseau,Dominica,False
+1971-12-01 00:00:00,Greece,England,0,2,UEFA Euro qualification,Piraeus,Greece,False
+1971-12-01 00:00:00,Guinea,Nigeria,3,0,Friendly,Conakry,Guinea,False
+1971-12-01 00:00:00,Haiti,Honduras,3,1,CONCACAF Championship,Port of Spain,Trinidad and Tobago,True
+1971-12-01 00:00:00,Netherlands,Scotland,2,1,Friendly,Amsterdam,Netherlands,False
+1971-12-02 00:00:00,Costa Rica,Mexico,0,1,CONCACAF Championship,Port of Spain,Trinidad and Tobago,True
+1971-12-04 00:00:00,Bulgaria,France,2,1,UEFA Euro qualification,Sofia,Bulgaria,False
+1971-12-04 00:00:00,Cuba,Haiti,0,0,CONCACAF Championship,San Fernando,Trinidad and Tobago,True
+1971-12-04 00:00:00,Dominica,Grenada,3,0,Windward Islands Tournament,Roseau,Dominica,False
+1971-12-04 00:00:00,Honduras,Mexico,1,2,CONCACAF Championship,Port of Spain,Trinidad and Tobago,True
+1971-12-04 00:00:00,Sierra Leone,Nigeria,0,1,Friendly,Freetown,Sierra Leone,False
+1971-12-05 00:00:00,Trinidad and Tobago,Costa Rica,3,1,CONCACAF Championship,Port of Spain,Trinidad and Tobago,False
+1971-12-05 00:00:00,Kenya,Zambia,1,0,Friendly,Kisumu,Kenya,False
+1971-12-05 00:00:00,Tanzania,Burundi,4,1,Friendly,Dar es Salaam,Tanzania,False
+1971-12-05 00:00:00,Turkey,Poland,1,0,UEFA Euro qualification,ƒ∞zmir,Turkey,False
+1971-12-08 00:00:00,Kenya,Zambia,3,2,Friendly,Nakuru,Kenya,False
+1971-12-08 00:00:00,Malta,Algeria,1,1,Friendly,G≈ºira,Malta,False
+1971-12-09 00:00:00,Tanzania,China PR,1,1,Friendly,Dar es Salaam,Tanzania,False
+1971-12-10 00:00:00,Kuwait,Iraq,1,1,AFC Asian Cup qualification,Kuwait City,Kuwait,False
+1971-12-11 00:00:00,Bahrain,Lebanon,3,0,AFC Asian Cup qualification,Kuwait City,Kuwait,True
+1971-12-11 00:00:00,Syria,Jordan,0,0,AFC Asian Cup qualification,Kuwait City,Kuwait,True
+1971-12-12 00:00:00,Burkina Faso,Togo,1,2,Friendly,Ouagadougou,Upper Volta,False
+1971-12-12 00:00:00,Kenya,Zambia,0,2,Friendly,Nairobi,Kenya,False
+1971-12-12 00:00:00,Tanzania,China PR,3,4,Friendly,Dar es Salaam,Tanzania,False
+1971-12-13 00:00:00,Iraq,Sri Lanka,5,0,AFC Asian Cup qualification,Kuwait City,Kuwait,True
+1971-12-13 00:00:00,Jordan,Bahrain,3,2,AFC Asian Cup qualification,Kuwait City,Kuwait,True
+1971-12-14 00:00:00,Kuwait,Lebanon,1,0,AFC Asian Cup qualification,Kuwait City,Kuwait,False
+1971-12-15 00:00:00,Iraq,Bahrain,1,0,AFC Asian Cup qualification,Kuwait City,Kuwait,True
+1971-12-16 00:00:00,Jordan,Sri Lanka,2,1,AFC Asian Cup qualification,Kuwait City,Kuwait,True
+1971-12-17 00:00:00,Kuwait,Syria,2,2,AFC Asian Cup qualification,Kuwait City,Kuwait,False
+1971-12-18 00:00:00,Iraq,Jordan,2,0,AFC Asian Cup qualification,Kuwait City,Kuwait,True
+1971-12-19 00:00:00,Lebanon,Syria,3,2,AFC Asian Cup qualification,Kuwait City,Kuwait,True
+1971-12-19 00:00:00,Niger,Libya,0,1,Friendly,Niamey,Niger,False
+1971-12-19 00:00:00,Senegal,Mali,4,1,Friendly,Dakar,Senegal,False
+1971-12-20 00:00:00,Bahrain,Sri Lanka,3,0,AFC Asian Cup qualification,Kuwait City,Kuwait,True
+1971-12-21 00:00:00,Kuwait,Jordan,2,0,AFC Asian Cup qualification,Kuwait City,Kuwait,False
+1971-12-22 00:00:00,Iraq,Lebanon,4,1,AFC Asian Cup qualification,Kuwait City,Kuwait,True
+1971-12-24 00:00:00,Kuwait,Iraq,0,1,AFC Asian Cup qualification,Kuwait City,Kuwait,False
+1971-12-24 00:00:00,Lebanon,Jordan,2,0,AFC Asian Cup qualification,Kuwait City,Kuwait,True
+1972-01-01 00:00:00,Algeria,Palestine,2,0,Palestine Cup,Baghdad,Iraq,True
+1972-01-01 00:00:00,Iraq,Egypt,0,0,Palestine Cup,Baghdad,Iraq,False
+1972-01-01 00:00:00,Kuwait,Libya,3,2,Palestine Cup,Baghdad,Iraq,True
+1972-01-01 00:00:00,Syria,Yemen DPR,1,0,Palestine Cup,Baghdad,Iraq,True
+1972-01-01 00:00:00,Zambia,China PR,3,3,Friendly,Lusaka,Zambia,False
+1972-01-04 00:00:00,Algeria,Qatar,3,0,Palestine Cup,Baghdad,Iraq,True
+1972-01-04 00:00:00,Palestine,Syria,1,3,Palestine Cup,Baghdad,Iraq,True
+1972-01-05 00:00:00,Egypt,Kuwait,2,0,Palestine Cup,Baghdad,Iraq,True
+1972-01-05 00:00:00,Iraq,Libya,3,0,Palestine Cup,Baghdad,Iraq,False
+1972-01-06 00:00:00,Palestine,Yemen DPR,1,2,Palestine Cup,Baghdad,Iraq,True
+1972-01-06 00:00:00,Syria,Qatar,3,2,Palestine Cup,Baghdad,Iraq,True
+1972-01-07 00:00:00,Egypt,Libya,1,1,Palestine Cup,Baghdad,Iraq,True
+1972-01-07 00:00:00,Iraq,Kuwait,3,1,Palestine Cup,Baghdad,Iraq,False
+1972-01-08 00:00:00,Algeria,Syria,0,1,Palestine Cup,Baghdad,Iraq,True
+1972-01-08 00:00:00,Qatar,Yemen DPR,1,2,Palestine Cup,Baghdad,Iraq,True
+1972-01-09 00:00:00,Burkina Faso,Nigeria,3,3,Friendly,Ouagadougou,Upper Volta,False
+1972-01-09 00:00:00,Senegal,Congo,0,2,Friendly,Dakar,Senegal,False
+1972-01-10 00:00:00,Algeria,Yemen DPR,4,1,Palestine Cup,Baghdad,Iraq,True
+1972-01-10 00:00:00,Palestine,Qatar,7,2,Palestine Cup,Baghdad,Iraq,True
+1972-01-12 00:00:00,Guinea,Congo,0,1,Friendly,Conakry,Guinea,False
+1972-01-12 00:00:00,Iraq,Algeria,3,1,Palestine Cup,Baghdad,Iraq,False
+1972-01-12 00:00:00,Spain,Hungary,1,0,Friendly,Madrid,Spain,False
+1972-01-12 00:00:00,Egypt,Syria,4,2,Palestine Cup,Baghdad,Iraq,True
+1972-01-13 00:00:00,Algeria,Syria,3,1,Palestine Cup,Baghdad,Iraq,True
+1972-01-14 00:00:00,Iraq,Egypt,1,3,Palestine Cup,Baghdad,Iraq,False
+1972-01-18 00:00:00,Somalia,China PR,1,3,Friendly,Mogadishu,Somalia,False
+1972-01-20 00:00:00,Togo,Benin,4,0,Friendly,Lom√©,Togo,False
+1972-01-27 00:00:00,Mexico,Chile,2,0,Friendly,Guadalajara,Mexico,False
+1972-01-30 00:00:00,Nigeria,Guinea,1,1,Friendly,Lagos,Nigeria,False
+1972-02-06 00:00:00,Congo,Benin,2,2,Friendly,Brazzaville,Congo,False
+1972-02-07 00:00:00,Congo,Guinea,2,2,Friendly,Brazzaville,Congo,False
+1972-02-09 00:00:00,Haiti,Chile,1,0,Friendly,Port-au-Prince,Haiti,False
+1972-02-13 00:00:00,Cameroon,Nigeria,1,2,Friendly,Douala,Cameroon,False
+1972-02-13 00:00:00,Guadeloupe,Haiti,4,4,Friendly,Basse-Terre,Guadeloupe,False
+1972-02-15 00:00:00,Martinique,Haiti,2,2,Friendly,Fort-de-France,Martinique,False
+1972-02-16 00:00:00,Greece,Netherlands,0,5,Friendly,Piraeus,Greece,False
+1972-02-16 00:00:00,Northern Ireland,Spain,1,1,UEFA Euro qualification,Kingston upon Hull,England,True
+1972-02-17 00:00:00,Senegal,Morocco,1,3,Friendly,Dakar,Senegal,False
+1972-02-20 00:00:00,Nigeria,Morocco,3,0,Friendly,Lagos,Nigeria,False
+1972-02-20 00:00:00,Tunisia,Austria,3,3,Friendly,Tunis,Tunisia,False
+1972-02-23 00:00:00,Cameroon,Kenya,2,1,African Cup of Nations,Yaound√©,Cameroon,False
+1972-02-23 00:00:00,Israel,Norway,2,1,Friendly,Jaffa,Israel,False
+1972-02-24 00:00:00,Mali,Togo,3,3,African Cup of Nations,Yaound√©,Cameroon,True
+1972-02-25 00:00:00,Congo,Morocco,1,1,African Cup of Nations,Douala,Cameroon,True
+1972-02-25 00:00:00,Sudan,DR Congo,1,1,African Cup of Nations,Douala,Cameroon,True
+1972-02-26 00:00:00,Cameroon,Togo,2,0,African Cup of Nations,Yaound√©,Cameroon,False
+1972-02-26 00:00:00,Kenya,Mali,1,1,African Cup of Nations,Yaound√©,Cameroon,True
+1972-02-27 00:00:00,Congo,DR Congo,0,2,African Cup of Nations,Douala,Cameroon,True
+1972-02-27 00:00:00,Morocco,Sudan,1,1,African Cup of Nations,Douala,Cameroon,True
+1972-02-28 00:00:00,Cameroon,Mali,1,1,African Cup of Nations,Yaound√©,Cameroon,False
+1972-02-28 00:00:00,Kenya,Togo,1,1,African Cup of Nations,Yaound√©,Cameroon,True
+1972-02-29 00:00:00,Congo,Sudan,4,2,African Cup of Nations,Douala,Cameroon,True
+1972-02-29 00:00:00,Morocco,DR Congo,1,1,African Cup of Nations,Douala,Cameroon,True
+1972-03-02 00:00:00,Algeria,Guinea,1,0,FIFA World Cup qualification,Algiers,Algeria,False
+1972-03-02 00:00:00,Cameroon,Congo,0,1,African Cup of Nations,Yaound√©,Cameroon,False
+1972-03-02 00:00:00,Mali,DR Congo,4,3,African Cup of Nations,Douala,Cameroon,True
+1972-03-04 00:00:00,Cameroon,DR Congo,5,2,African Cup of Nations,Yaound√©,Cameroon,False
+1972-03-04 00:00:00,Greece,Italy,2,1,Friendly,Piraeus,Greece,False
+1972-03-05 00:00:00,Congo,Mali,3,2,African Cup of Nations,Yaound√©,Cameroon,True
+1972-03-12 00:00:00,Guinea,Algeria,5,1,FIFA World Cup qualification,Conakry,Guinea,False
+1972-03-15 00:00:00,Algeria,Malta,1,0,Friendly,Algiers,Algeria,False
+1972-03-16 00:00:00,Saudi Arabia,Kuwait,2,2,Gulf Cup,Riyadh,Saudi Arabia,False
+1972-03-17 00:00:00,Qatar,United Arab Emirates,0,1,Gulf Cup,Riyadh,Saudi Arabia,True
+1972-03-18 00:00:00,Bahrain,Kuwait,0,2,Gulf Cup,Riyadh,Saudi Arabia,True
+1972-03-19 00:00:00,Saudi Arabia,United Arab Emirates,4,0,Gulf Cup,Riyadh,Saudi Arabia,False
+1972-03-21 00:00:00,Bahrain,Qatar,6,2,Gulf Cup,Riyadh,Saudi Arabia,True
+1972-03-22 00:00:00,Kuwait,United Arab Emirates,7,0,Gulf Cup,Riyadh,Saudi Arabia,True
+1972-03-24 00:00:00,Saudi Arabia,Qatar,4,0,Gulf Cup,Riyadh,Saudi Arabia,False
+1972-03-25 00:00:00,Bahrain,United Arab Emirates,2,0,Gulf Cup,Riyadh,Saudi Arabia,True
+1972-03-26 00:00:00,Kuwait,Qatar,5,0,Gulf Cup,Riyadh,Saudi Arabia,True
+1972-03-28 00:00:00,Saudi Arabia,Bahrain,2,1,Gulf Cup,Riyadh,Saudi Arabia,False
+1972-03-29 00:00:00,Bulgaria,Russia,1,1,Friendly,Sofia,Bulgaria,False
+1972-03-29 00:00:00,Colombia,Peru,1,1,Friendly,Bogot√°,Colombia,False
+1972-03-29 00:00:00,Hungary,Germany,0,2,Friendly,Budapest,Hungary,False
+1972-03-29 00:00:00,Portugal,Cyprus,4,0,FIFA World Cup qualification,Lisbon,Portugal,False
+1972-04-02 00:00:00,Jamaica,Cuba,2,0,Friendly,Kingston,Jamaica,False
+1972-04-05 00:00:00,Mexico,Peru,2,1,Friendly,Mexico City,Mexico,False
+1972-04-08 00:00:00,Czechoslovakia,Austria,2,0,Friendly,Brno,Czechoslovakia,False
+1972-04-08 00:00:00,Poland,German DR,2,1,Friendly,≈Å√≥d≈∫,Poland,False
+1972-04-08 00:00:00,Romania,France,2,0,Friendly,Bucharest,Romania,False
+1972-04-12 00:00:00,Greece,Spain,0,0,Friendly,Salonica,Greece,False
+1972-04-15 00:00:00,Haiti,Puerto Rico,7,0,CONCACAF Championship qualification,Port-au-Prince,Haiti,False
+1972-04-19 00:00:00,Ghana,Ivory Coast,1,2,Friendly,Accra,Ghana,False
+1972-04-19 00:00:00,Russia,Peru,2,0,Friendly,Kyiv,Soviet Union,False
+1972-04-23 00:00:00,Puerto Rico,Haiti,0,5,CONCACAF Championship qualification,San Juan,Puerto Rico,False
+1972-04-23 00:00:00,Romania,Peru,2,2,Friendly,Bucharest,Romania,False
+1972-04-26 00:00:00,Brazil,Paraguay,3,2,Friendly,Porto Alegre,Brazil,False
+1972-04-26 00:00:00,Czechoslovakia,Luxembourg,6,0,Friendly,Plze≈à,Czechoslovakia,False
+1972-04-26 00:00:00,Scotland,Peru,2,0,Friendly,Glasgow,Scotland,False
+1972-04-26 00:00:00,Switzerland,Sweden,1,1,Friendly,Geneva,Switzerland,False
+1972-04-29 00:00:00,England,Germany,1,3,UEFA Euro qualification,London,England,False
+1972-04-29 00:00:00,Hungary,Romania,1,1,UEFA Euro qualification,Budapest,Hungary,False
+1972-04-29 00:00:00,Italy,Belgium,0,0,UEFA Euro qualification,Milan,Italy,False
+1972-04-29 00:00:00,Madagascar,Tanzania,0,1,Friendly,Antananarivo,Madagascar,False
+1972-04-30 00:00:00,Austria,Malta,4,0,FIFA World Cup qualification,Vienna,Austria,False
+1972-04-30 00:00:00,Lesotho,Zambia,0,0,FIFA World Cup qualification,Maseru,Lesotho,False
+1972-04-30 00:00:00,Yugoslavia,Russia,0,0,UEFA Euro qualification,Belgrade,Yugoslavia,False
+1972-05-03 00:00:00,Netherlands,Peru,3,0,Friendly,Rotterdam,Netherlands,False
+1972-05-06 00:00:00,Hungary,Malta,3,0,FIFA World Cup qualification,Budapest,Hungary,False
+1972-05-07 00:00:00,Ethiopia,Greece,0,1,Friendly,Addis Ababa,Ethiopia,False
+1972-05-07 00:00:00,Iran,Cambodia,2,0,AFC Asian Cup,Bangkok,Thailand,True
+1972-05-07 00:00:00,South Korea,Iraq,0,0,AFC Asian Cup,Bangkok,Thailand,True
+1972-05-08 00:00:00,Thailand,Kuwait,0,2,AFC Asian Cup,Bangkok,Thailand,False
+1972-05-09 00:00:00,Iran,Iraq,3,0,AFC Asian Cup,Bangkok,Thailand,True
+1972-05-10 00:00:00,Cambodia,South Korea,1,4,AFC Asian Cup,Bangkok,Thailand,True
+1972-05-10 00:00:00,Cyprus,Portugal,0,1,FIFA World Cup qualification,Nicosia,Cyprus,False
+1972-05-10 00:00:00,Poland,Switzerland,0,0,Friendly,Pozna≈Ñ,Poland,False
+1972-05-11 00:00:00,Thailand,Iraq,1,1,AFC Asian Cup,Bangkok,Thailand,False
+1972-05-12 00:00:00,South Korea,Kuwait,1,2,AFC Asian Cup,Bangkok,Thailand,True
+1972-05-13 00:00:00,Belgium,Italy,2,1,UEFA Euro qualification,Brussels,Belgium,False
+1972-05-13 00:00:00,Germany,England,0,0,UEFA Euro qualification,Berlin,Germany,False
+1972-05-13 00:00:00,Russia,Yugoslavia,3,0,UEFA Euro qualification,Moscow,Soviet Union,False
+1972-05-13 00:00:00,Thailand,Iran,2,3,AFC Asian Cup,Bangkok,Thailand,False
+1972-05-14 00:00:00,Cambodia,Kuwait,4,0,AFC Asian Cup,Bangkok,Thailand,True
+1972-05-14 00:00:00,Romania,Hungary,2,2,UEFA Euro qualification,Bucharest,Romania,False
+1972-05-14 00:00:00,Sweden,Czechoslovakia,1,2,Friendly,Gothenburg,Sweden,False
+1972-05-16 00:00:00,Iran,Cambodia,2,1,AFC Asian Cup,Bangkok,Thailand,True
+1972-05-17 00:00:00,Hungary,Romania,2,1,UEFA Euro qualification,Belgrade,Yugoslavia,True
+1972-05-17 00:00:00,Kenya,Madagascar,1,3,Friendly,Nairobi,Kenya,False
+1972-05-17 00:00:00,Thailand,South Korea,1,1,AFC Asian Cup,Bangkok,Thailand,False
+1972-05-18 00:00:00,Belgium,Iceland,4,0,FIFA World Cup qualification,Li√®ge,Belgium,False
+1972-05-19 00:00:00,Iran,South Korea,2,1,AFC Asian Cup,Bangkok,Thailand,True
+1972-05-19 00:00:00,Thailand,Cambodia,2,2,AFC Asian Cup,Bangkok,Thailand,False
+1972-05-20 00:00:00,Scotland,Northern Ireland,2,0,British Championship,Glasgow,Scotland,False
+1972-05-20 00:00:00,Wales,England,0,3,British Championship,Cardiff,Wales,False
+1972-05-22 00:00:00,Belgium,Iceland,4,0,FIFA World Cup qualification,Bruges,Belgium,False
+1972-05-22 00:00:00,Mauritius,Uganda,1,2,Friendly,Port Louis,Mauritius,False
+1972-05-23 00:00:00,England,Northern Ireland,0,1,British Championship,London,England,False
+1972-05-23 00:00:00,Spain,Uruguay,2,0,Friendly,Madrid,Spain,False
+1972-05-24 00:00:00,Scotland,Wales,1,0,British Championship,Glasgow,Scotland,False
+1972-05-25 00:00:00,Argentina,Paraguay,0,0,Friendly,Salta,Argentina,False
+1972-05-25 00:00:00,Sweden,Hungary,0,0,FIFA World Cup qualification,Solna,Sweden,False
+1972-05-26 00:00:00,Germany,Russia,4,1,Friendly,Munich,Germany,False
+1972-05-27 00:00:00,German DR,Uruguay,1,0,Friendly,Leipzig,German DR,False
+1972-05-27 00:00:00,Scotland,England,0,1,British Championship,Glasgow,Scotland,False
+1972-05-27 00:00:00,Wales,Northern Ireland,0,0,British Championship,Wrexham,Wales,False
+1972-05-28 00:00:00,Finland,Norway,0,0,Nordic Championship,Turku,Finland,False
+1972-05-28 00:00:00,Mauritius,Uganda,1,3,Friendly,Curepipe,Mauritius,False
+1972-05-31 00:00:00,Chile,Argentina,3,4,Copa Carlos Dittborn,Santiago,Chile,False
+1972-05-31 00:00:00,German DR,Uruguay,0,0,Friendly,Rostock,German DR,False
+1972-05-31 00:00:00,Liberia,Guinea,0,2,Friendly,Monrovia,Liberia,False
+1972-05-31 00:00:00,Sierra Leone,Ghana,3,1,Friendly,Freetown,Sierra Leone,False
+1972-06-01 00:00:00,Puerto Rico,Panama,0,0,Friendly,San Juan,Puerto Rico,False
+1972-06-04 00:00:00,Zambia,Lesotho,6,1,FIFA World Cup qualification,Ndola,Zambia,False
+1972-06-05 00:00:00,Indonesia,Myanmar,1,0,Indonesia Tournament,Jakarta,Indonesia,False
+1972-06-05 00:00:00,Tunisia,Algeria,3,1,Friendly,Tunis,Tunisia,False
+1972-06-06 00:00:00,Cambodia,Singapore,3,0,Indonesia Tournament,Jakarta,Indonesia,True
+1972-06-06 00:00:00,Togo,DR Congo,0,0,FIFA World Cup qualification,Lom√©,Togo,False
+1972-06-07 00:00:00,Denmark,Finland,3,0,Nordic Championship,Copenhagen,Denmark,False
+1972-06-07 00:00:00,Russia,Bulgaria,1,0,Friendly,Moscow,Soviet Union,False
+1972-06-08 00:00:00,Cambodia,Thailand,2,0,Indonesia Tournament,Jakarta,Indonesia,True
+1972-06-08 00:00:00,Philippines,Singapore,2,0,Indonesia Tournament,Jakarta,Indonesia,True
+1972-06-09 00:00:00,Myanmar,Sri Lanka,4,2,Indonesia Tournament,Jakarta,Indonesia,True
+1972-06-09 00:00:00,Laos,Malaysia,1,2,Indonesia Tournament,Jakarta,Indonesia,True
+1972-06-10 00:00:00,Austria,Sweden,2,0,FIFA World Cup qualification,Vienna,Austria,False
+1972-06-10 00:00:00,Kenya,Uganda,2,0,Friendly,Nairobi,Kenya,False
+1972-06-11 00:00:00,Bolivia,Peru,0,3,Brazil Independence Cup,Curitiba,Brazil,True
+1972-06-11 00:00:00,Myanmar,Laos,6,1,Indonesia Tournament,Jakarta,Indonesia,True
+1972-06-11 00:00:00,Ecuador,Portugal,0,3,Brazil Independence Cup,Natal,Brazil,True
+1972-06-11 00:00:00,Iran,Republic of Ireland,1,2,Brazil Independence Cup,Recife,Brazil,True
+1972-06-11 00:00:00,Paraguay,Venezuela,4,1,Brazil Independence Cup,Campo Grande,Brazil,True
+1972-06-12 00:00:00,Philippines,Thailand,1,0,Indonesia Tournament,Jakarta,Indonesia,True
+1972-06-13 00:00:00,Laos,Sri Lanka,1,3,Indonesia Tournament,Jakarta,Indonesia,True
+1972-06-14 00:00:00,Belgium,Germany,1,2,UEFA Euro,Antwerp,Belgium,False
+1972-06-14 00:00:00,Chile,Ecuador,2,1,Brazil Independence Cup,Natal,Brazil,True
+1972-06-14 00:00:00,Hungary,Russia,0,1,UEFA Euro,Brussels,Belgium,True
+1972-06-14 00:00:00,Iran,Portugal,0,3,Brazil Independence Cup,Recife,Brazil,True
+1972-06-14 00:00:00,Norway,Uruguay,0,1,Friendly,Oslo,Norway,False
+1972-06-14 00:00:00,Paraguay,Peru,1,0,Brazil Independence Cup,Campo Grande,Brazil,True
+1972-06-14 00:00:00,Venezuela,Yugoslavia,0,10,Brazil Independence Cup,Curitiba,Brazil,True
+1972-06-15 00:00:00,Myanmar,Malaysia,2,2,Indonesia Tournament,Jakarta,Indonesia,True
+1972-06-16 00:00:00,Benin,Congo,5,3,Friendly,Cotonou,Dahomey,False
+1972-06-17 00:00:00,Belgium,Hungary,2,1,UEFA Euro,Li√®ge,Belgium,False
+1972-06-17 00:00:00,Romania,Italy,3,3,Friendly,Bucharest,Romania,False
+1972-06-18 00:00:00,Benin,Ghana,0,5,FIFA World Cup qualification,Cotonou,Dahomey,True
+1972-06-18 00:00:00,Bolivia,Yugoslavia,1,1,Brazil Independence Cup,Campo Grande,Brazil,True
+1972-06-18 00:00:00,Chile,Portugal,1,4,Brazil Independence Cup,Recife,Brazil,True
+1972-06-18 00:00:00,Colombia,France,2,3,Brazil Independence Cup,Salvador,Brazil,True
+1972-06-18 00:00:00,Ecuador,Republic of Ireland,2,3,Brazil Independence Cup,Natal,Brazil,True
+1972-06-18 00:00:00,Germany,Russia,3,0,UEFA Euro,Brussels,Belgium,True
+1972-06-18 00:00:00,Peru,Venezuela,1,0,Brazil Independence Cup,Manaus,Brazil,True
+1972-06-19 00:00:00,Myanmar,Cambodia,0,3,Indonesia Tournament,Jakarta,Indonesia,True
+1972-06-20 00:00:00,DR Congo,Togo,4,0,FIFA World Cup qualification,Kinshasa,Za√Øre,False
+1972-06-21 00:00:00,Bolivia,Venezuela,2,2,Brazil Independence Cup,Manaus,Brazil,True
+1972-06-21 00:00:00,Bulgaria,Italy,1,1,Friendly,Sofia,Bulgaria,False
+1972-06-21 00:00:00,Chile,Republic of Ireland,2,1,Brazil Independence Cup,Recife,Brazil,True
+1972-06-21 00:00:00,Ecuador,Iran,1,1,Brazil Independence Cup,Recife,Brazil,True
+1972-06-21 00:00:00,Finland,Albania,1,0,FIFA World Cup qualification,Helsinki,Finland,False
+1972-06-22 00:00:00,Argentina,Colombia,4,1,Brazil Independence Cup,Salvador,Brazil,True
+1972-06-22 00:00:00,Paraguay,Yugoslavia,1,2,Brazil Independence Cup,Manaus,Brazil,True
+1972-06-23 00:00:00,Singapore,Sri Lanka,3,1,Friendly,Kallang,Singapore,False
+1972-06-25 00:00:00,Argentina,France,0,0,Brazil Independence Cup,Salvador,Brazil,True
+1972-06-25 00:00:00,Bolivia,Paraguay,1,6,Brazil Independence Cup,Manaus,Brazil,True
+1972-06-25 00:00:00,Chile,Iran,2,1,Brazil Independence Cup,Recife,Brazil,True
+1972-06-25 00:00:00,Republic of Ireland,Portugal,1,2,Brazil Independence Cup,Recife,Brazil,True
+1972-06-25 00:00:00,Peru,Yugoslavia,1,2,Brazil Independence Cup,Manaus,Brazil,True
+1972-06-28 00:00:00,Brazil,Czechoslovakia,0,0,Brazil Independence Cup,Rio de Janeiro,Brazil,False
+1972-06-29 00:00:00,Argentina,Portugal,1,3,Brazil Independence Cup,Rio de Janeiro,Brazil,True
+1972-06-29 00:00:00,Scotland,Yugoslavia,2,2,Brazil Independence Cup,Belo Horizonte,Brazil,True
+1972-06-29 00:00:00,Sweden,Denmark,2,0,Nordic Championship,Malm√∂,Sweden,False
+1972-06-29 00:00:00,Uruguay,Russia,0,1,Brazil Independence Cup,S√£o Paulo,Brazil,True
+1972-07-02 00:00:00,Argentina,Russia,1,0,Brazil Independence Cup,Belo Horizonte,Brazil,True
+1972-07-02 00:00:00,Brazil,Yugoslavia,3,0,Brazil Independence Cup,S√£o Paulo,Brazil,False
+1972-07-02 00:00:00,DR Congo,Guinea,6,0,Friendly,Kinshasa,Za√Øre,False
+1972-07-02 00:00:00,Czechoslovakia,Scotland,0,0,Brazil Independence Cup,Porto Alegre,Brazil,True
+1972-07-02 00:00:00,Ghana,Benin,5,1,FIFA World Cup qualification,Kumasi,Ghana,False
+1972-07-02 00:00:00,Portugal,Uruguay,1,1,Brazil Independence Cup,Rio de Janeiro,Brazil,True
+1972-07-03 00:00:00,Iceland,Denmark,2,5,Friendly,Reykjav√≠k,Iceland,False
+1972-07-04 00:00:00,Tanzania,Sudan,3,0,Friendly,Dar es Salaam,Tanzania,False
+1972-07-05 00:00:00,Brazil,Scotland,1,0,Brazil Independence Cup,Rio de Janeiro,Brazil,False
+1972-07-06 00:00:00,Argentina,Uruguay,1,0,Brazil Independence Cup,Porto Alegre,Brazil,True
+1972-07-06 00:00:00,Czechoslovakia,Yugoslavia,1,2,Brazil Independence Cup,S√£o Paulo,Brazil,True
+1972-07-06 00:00:00,Malawi,Lesotho,1,0,Friendly,Blantyre,Malawi,False
+1972-07-06 00:00:00,Portugal,Russia,1,0,Brazil Independence Cup,Belo Horizonte,Brazil,True
+1972-07-06 00:00:00,Tanzania,Nigeria,0,0,Friendly,Dar es Salaam,Tanzania,False
+1972-07-08 00:00:00,Malawi,Lesotho,4,0,Friendly,Blantyre,Malawi,False
+1972-07-09 00:00:00,Argentina,Yugoslavia,2,4,Brazil Independence Cup,Rio de Janeiro,Brazil,True
+1972-07-09 00:00:00,Brazil,Portugal,1,0,Brazil Independence Cup,Rio de Janeiro,Brazil,False
+1972-07-09 00:00:00,Uganda,Sudan,4,0,Friendly,Kampala,Uganda,False
+1972-07-11 00:00:00,Zanzibar,Nigeria,1,4,Friendly,Zanzibar,Zanzibar,False
+1972-07-12 00:00:00,Iceland,Faroe Islands,3,0,Friendly,Reykjav√≠k,Iceland,False
+1972-07-12 00:00:00,Malaysia,Sri Lanka,4,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1972-07-12 00:00:00,Japan,Cambodia,4,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1972-07-13 00:00:00,Indonesia,Singapore,0,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1972-07-14 00:00:00,Malaysia,Philippines,1,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1972-07-15 00:00:00,Hong Kong,South Korea,0,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1972-07-15 00:00:00,Singapore,Thailand,0,2,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1972-07-16 00:00:00,Cambodia,Philippines,2,2,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1972-07-16 00:00:00,Finland,Russia,1,1,Friendly,Vaasa,Finland,False
+1972-07-16 00:00:00,Japan,Sri Lanka,5,0,Merdeka Tournament,Ipoh,Malaysia,True
+1972-07-16 00:00:00,Kenya,Sudan,2,0,FIFA World Cup qualification,Nairobi,Kenya,False
+1972-07-17 00:00:00,Hong Kong,Singapore,4,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1972-07-17 00:00:00,South Korea,Thailand,2,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1972-07-18 00:00:00,Japan,Philippines,5,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1972-07-19 00:00:00,Indonesia,Thailand,3,2,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1972-07-19 00:00:00,Malaysia,Cambodia,6,1,Merdeka Tournament,Ipoh,Malaysia,False
+1972-07-19 00:00:00,South Korea,Singapore,4,1,Merdeka Tournament,Ipoh,Malaysia,True
+1972-07-20 00:00:00,Philippines,Sri Lanka,4,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1972-07-21 00:00:00,Hong Kong,Indonesia,1,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1972-07-22 00:00:00,Cambodia,Sri Lanka,6,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1972-07-22 00:00:00,Malaysia,Japan,3,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1972-07-23 00:00:00,Hong Kong,Thailand,2,2,Merdeka Tournament,Ipoh,Malaysia,True
+1972-07-23 00:00:00,Indonesia,South Korea,0,2,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1972-07-23 00:00:00,Sudan,Kenya,1,0,FIFA World Cup qualification,Khartoum,Sudan,False
+1972-07-25 00:00:00,Singapore,Sri Lanka,6,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1972-07-26 00:00:00,Japan,South Korea,0,3,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1972-07-27 00:00:00,Uganda,Tanzania,1,1,Friendly,Kampala,Uganda,False
+1972-07-28 00:00:00,Cambodia,Hong Kong,1,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1972-07-29 00:00:00,Philippines,Thailand,0,4,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1972-07-29 00:00:00,Malaysia,South Korea,1,2,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1972-08-02 00:00:00,Indonesia,Philippines,3,0,Friendly,Kallang,Singapore,True
+1972-08-02 00:00:00,Singapore,Sri Lanka,6,1,Friendly,Kallang,Singapore,False
+1972-08-03 00:00:00,Norway,Iceland,4,1,FIFA World Cup qualification,Stavanger,Norway,False
+1972-08-04 00:00:00,Hong Kong,Sri Lanka,2,1,Friendly,Kallang,Singapore,True
+1972-08-04 00:00:00,Japan,Philippines,4,1,Friendly,Kallang,Singapore,True
+1972-08-05 00:00:00,Nigeria,Congo,2,1,FIFA World Cup qualification,Ibadan,Nigeria,False
+1972-08-06 00:00:00,Costa Rica,Mexico,1,0,Friendly,San Jos√©,Costa Rica,False
+1972-08-06 00:00:00,Indonesia,Japan,1,0,Friendly,Kallang,Singapore,True
+1972-08-06 00:00:00,Singapore,Hong Kong,0,2,Friendly,Kallang,Singapore,False
+1972-08-06 00:00:00,Sweden,Russia,4,4,Friendly,Solna,Sweden,False
+1972-08-08 00:00:00,Cambodia,Indonesia,0,5,Friendly,Kallang,Singapore,True
+1972-08-09 00:00:00,Peru,Mexico,3,2,Friendly,Lima,Peru,False
+1972-08-10 00:00:00,Hong Kong,Cambodia,2,1,Friendly,Kallang,Singapore,True
+1972-08-15 00:00:00,Congo,Nigeria,1,1,FIFA World Cup qualification,Brazzaville,Congo,False
+1972-08-16 00:00:00,Chile,Mexico,0,2,Friendly,Santiago,Chile,False
+1972-08-20 00:00:00,Canada,United States,3,2,CONCACAF Championship qualification,St. John's,Canada,False
+1972-08-24 00:00:00,Canada,Mexico,0,1,CONCACAF Championship qualification,Toronto,Canada,False
+1972-08-29 00:00:00,United States,Canada,2,2,CONCACAF Championship qualification,Baltimore,United States,False
+1972-08-30 00:00:00,Czechoslovakia,Netherlands,1,2,Friendly,Prague,Czechoslovakia,False
+1972-09-02 00:00:00,Greece,France,1,3,Friendly,Piraeus,Greece,False
+1972-09-02 00:00:00,Guatemala,Canada,2,2,Friendly,Guatemala,Guatemala,False
+1972-09-03 00:00:00,Mexico,United States,3,1,CONCACAF Championship qualification,Mexico City,Mexico,False
+1972-09-03 00:00:00,Romania,Austria,1,1,Friendly,Craiova,Romania,False
+1972-09-03 00:00:00,Sri Lanka,China PR,2,3,Friendly,Colombo,Sri Lanka,False
+1972-09-06 00:00:00,Mexico,Canada,2,1,CONCACAF Championship qualification,Mexico City,Mexico,False
+1972-09-10 00:00:00,United States,Mexico,1,2,CONCACAF Championship qualification,Los Angeles,United States,False
+1972-09-12 00:00:00,Sri Lanka,China PR,0,1,Friendly,Colombo,Sri Lanka,False
+1972-09-14 00:00:00,Japan,South Korea,2,2,Friendly,Tokyo,Japan,False
+1972-09-17 00:00:00,New Zealand,New Caledonia,4,1,Friendly,Wellington,New Zealand,False
+1972-09-17 00:00:00,Norway,Sweden,1,3,Nordic Championship,Oslo,Norway,False
+1972-09-20 00:00:00,Cambodia,Malaysia,0,1,Korea Cup,Seoul,South Korea,True
+1972-09-20 00:00:00,Finland,Romania,1,1,FIFA World Cup qualification,Helsinki,Finland,False
+1972-09-20 00:00:00,Italy,Yugoslavia,3,1,Friendly,Turin,Italy,False
+1972-09-20 00:00:00,South Korea,Thailand,3,0,Korea Cup,Seoul,South Korea,False
+1972-09-21 00:00:00,Myanmar,Philippines,4,0,Korea Cup,Seoul,South Korea,True
+1972-09-22 00:00:00,South Korea,Cambodia,3,1,Korea Cup,Seoul,South Korea,False
+1972-09-22 00:00:00,Malaysia,Thailand,1,1,Korea Cup,Seoul,South Korea,True
+1972-09-23 00:00:00,Myanmar,Indonesia,1,1,Korea Cup,Seoul,South Korea,True
+1972-09-23 00:00:00,Philippines,Singapore,0,5,Korea Cup,Seoul,South Korea,True
+1972-09-24 00:00:00,Cambodia,Thailand,0,0,Korea Cup,Seoul,South Korea,True
+1972-09-24 00:00:00,South Korea,Malaysia,2,0,Korea Cup,Seoul,South Korea,False
+1972-09-25 00:00:00,Myanmar,Singapore,1,0,Korea Cup,Seoul,South Korea,True
+1972-09-27 00:00:00,Cambodia,Philippines,1,0,Korea Cup,Seoul,South Korea,True
+1972-09-27 00:00:00,South Korea,Myanmar,0,1,Korea Cup,Seoul,South Korea,False
+1972-09-28 00:00:00,Indonesia,Malaysia,3,1,Korea Cup,Seoul,South Korea,True
+1972-09-28 00:00:00,Singapore,Thailand,1,4,Korea Cup,Seoul,South Korea,True
+1972-09-30 00:00:00,Myanmar,Indonesia,3,1,Korea Cup,Seoul,South Korea,True
+1972-09-30 00:00:00,South Korea,Malaysia,1,0,Korea Cup,Seoul,South Korea,False
+1972-09-30 00:00:00,Martinique,Trinidad and Tobago,1,2,Friendly,Fort-de-France,Martinique,False
+1972-09-30 00:00:00,New Zealand,New Caledonia,2,1,Friendly,Auckland,New Zealand,False
+1972-10-01 00:00:00,Costa Rica,El Salvador,2,0,Friendly,San Jos√©,Costa Rica,False
+1972-10-03 00:00:00,Martinique,Trinidad and Tobago,1,2,Friendly,Fort-de-France,Martinique,False
+1972-10-04 00:00:00,Algeria,Turkey,1,0,Friendly,Algiers,Algeria,False
+1972-10-04 00:00:00,Denmark,Switzerland,1,1,Friendly,Copenhagen,Denmark,False
+1972-10-04 00:00:00,Lesotho,Zambia,1,1,Friendly,Maseru,Lesotho,False
+1972-10-04 00:00:00,Norway,Belgium,0,2,FIFA World Cup qualification,Oslo,Norway,False
+1972-10-05 00:00:00,Hong Kong,Singapore,2,3,Friendly,So Kon Po,Hong Kong,False
+1972-10-07 00:00:00,German DR,Finland,5,0,FIFA World Cup qualification,Dresden,German DR,False
+1972-10-07 00:00:00,Indonesia,Australia,1,4,Friendly,Jakarta,Indonesia,False
+1972-10-07 00:00:00,Luxembourg,Italy,0,4,FIFA World Cup qualification,Luxembourg,Luxembourg,False
+1972-10-08 00:00:00,El Salvador,Costa Rica,0,1,Friendly,San Salvador,El Salvador,False
+1972-10-08 00:00:00,Lesotho,Zambia,1,1,Friendly,Maseru,Lesotho,False
+1972-10-09 00:00:00,Australia,New Zealand,3,1,Friendly,Jakarta,Indonesia,True
+1972-10-11 00:00:00,England,Yugoslavia,1,1,Friendly,London,England,False
+1972-10-11 00:00:00,Indonesia,New Zealand,1,1,Friendly,Jakarta,Indonesia,False
+1972-10-11 00:00:00,Spain,Argentina,1,0,Friendly,Madrid,Spain,False
+1972-10-11 00:00:00,Saint Kitts and Nevis,Trinidad and Tobago,0,3,Friendly,Basseterre,Saint Kitts and Nevis,False
+1972-10-12 00:00:00,Mexico,Costa Rica,3,1,Friendly,Mexico City,Mexico,False
+1972-10-13 00:00:00,China PR,Nepal,6,2,Friendly,Beijing,China PR,False
+1972-10-13 00:00:00,France,Russia,1,0,FIFA World Cup qualification,Paris,France,False
+1972-10-14 00:00:00,New Caledonia,New Zealand,3,1,Friendly,Noum√©a,New Caledonia,False
+1972-10-15 00:00:00,Austria,Hungary,2,2,FIFA World Cup qualification,Vienna,Austria,False
+1972-10-15 00:00:00,Guatemala,Costa Rica,0,0,Friendly,Guatemala,Guatemala,False
+1972-10-15 00:00:00,Malawi,Kenya,0,1,Friendly,Lilongwe,Malawi,False
+1972-10-15 00:00:00,Poland,Czechoslovakia,3,0,Friendly,Bydgoszcz,Poland,False
+1972-10-15 00:00:00,Sierra Leone,Ivory Coast,0,1,FIFA World Cup qualification,Freetown,Sierra Leone,False
+1972-10-15 00:00:00,Sweden,Malta,7,0,FIFA World Cup qualification,Gothenburg,Sweden,False
+1972-10-15 00:00:00,Vietnam Republic,Australia,0,1,Friendly,Saigon,Vietnam Republic,False
+1972-10-18 00:00:00,Bulgaria,Northern Ireland,3,0,FIFA World Cup qualification,Sofia,Bulgaria,False
+1972-10-18 00:00:00,Denmark,Scotland,1,4,FIFA World Cup qualification,Copenhagen,Denmark,False
+1972-10-18 00:00:00,Republic of Ireland,Russia,1,2,FIFA World Cup qualification,Dublin,Republic of Ireland,False
+1972-10-19 00:00:00,Spain,Yugoslavia,2,2,FIFA World Cup qualification,Las Palmas,Spain,False
+1972-10-21 00:00:00,Switzerland,Italy,0,0,FIFA World Cup qualification,Berne,Switzerland,False
+1972-10-22 00:00:00,South Korea,Australia,1,1,Friendly,Seoul,South Korea,False
+1972-10-22 00:00:00,Luxembourg,Turkey,2,0,FIFA World Cup qualification,Luxembourg,Luxembourg,False
+1972-10-22 00:00:00,Malawi,Kenya,2,1,Friendly,Blantyre,Malawi,False
+1972-10-24 00:00:00,South Korea,Australia,0,2,Friendly,Seoul,South Korea,False
+1972-10-25 00:00:00,Peru,Argentina,0,2,Copa Ram√≥n Castilla,Lima,Peru,False
+1972-10-28 00:00:00,Cambodia,Singapore,0,1,Vietnam Independence Cup,Saigon,Vietnam Republic,True
+1972-10-28 00:00:00,Vietnam Republic,Malaysia,0,0,Vietnam Independence Cup,Saigon,Vietnam Republic,False
+1972-10-29 00:00:00,Cambodia,Malaysia,1,0,Vietnam Independence Cup,Saigon,Vietnam Republic,True
+1972-10-29 00:00:00,Ivory Coast,Sierra Leone,2,0,FIFA World Cup qualification,Abidjan,Ivory Coast,False
+1972-10-29 00:00:00,Philippines,Australia,0,6,Friendly,Manila,Philippines,False
+1972-10-29 00:00:00,Romania,Albania,2,0,FIFA World Cup qualification,Bucharest,Romania,False
+1972-10-29 00:00:00,Vietnam Republic,Singapore,4,1,Vietnam Independence Cup,Saigon,Vietnam Republic,False
+1972-11-01 00:00:00,Czechoslovakia,German DR,1,3,Friendly,Bratislava,Czechoslovakia,False
+1972-11-01 00:00:00,Malaysia,Singapore,1,3,Vietnam Independence Cup,Saigon,Vietnam Republic,True
+1972-11-01 00:00:00,Netherlands,Norway,9,0,FIFA World Cup qualification,Rotterdam,Netherlands,False
+1972-11-01 00:00:00,Vietnam Republic,Cambodia,1,2,Vietnam Independence Cup,Saigon,Vietnam Republic,False
+1972-11-06 00:00:00,Nigeria,Tanzania,2,1,Friendly,Benin City,Nigeria,False
+1972-11-10 00:00:00,Trinidad and Tobago,Antigua and Barbuda,11,1,CONCACAF Championship qualification,Port of Spain,Trinidad and Tobago,False
+1972-11-11 00:00:00,Nigeria,Tanzania,3,2,Friendly,Lagos,Nigeria,False
+1972-11-12 00:00:00,Costa Rica,Guatemala,1,1,Friendly,San Jos√©,Costa Rica,False
+1972-11-15 00:00:00,Germany,Switzerland,5,1,Friendly,D√ºsseldorf,Germany,False
+1972-11-15 00:00:00,Republic of Ireland,France,2,1,FIFA World Cup qualification,Dublin,Republic of Ireland,False
+1972-11-15 00:00:00,Scotland,Denmark,2,0,FIFA World Cup qualification,Glasgow,Scotland,False
+1972-11-15 00:00:00,Wales,England,0,1,FIFA World Cup qualification,Cardiff,Wales,False
+1972-11-16 00:00:00,Tunisia,Algeria,1,2,Friendly,Tunis,Tunisia,False
+1972-11-18 00:00:00,South Korea,Malaysia,4,1,King's Cup,Bangkok,Thailand,True
+1972-11-18 00:00:00,Sierra Leone,Tanzania,2,2,Friendly,Freetown,Sierra Leone,False
+1972-11-18 00:00:00,Thailand,Singapore,4,0,King's Cup,Bangkok,Thailand,False
+1972-11-18 00:00:00,Yugoslavia,Greece,1,0,FIFA World Cup qualification,Belgrade,Yugoslavia,False
+1972-11-19 00:00:00,Antigua and Barbuda,Trinidad and Tobago,1,2,CONCACAF Championship qualification,St. John's,Antigua and Barbuda,False
+1972-11-19 00:00:00,Belgium,Netherlands,0,0,FIFA World Cup qualification,Antwerp,Belgium,False
+1972-11-19 00:00:00,Cyprus,Bulgaria,0,4,FIFA World Cup qualification,Akdoƒüan,Cyprus,False
+1972-11-19 00:00:00,Morocco,Senegal,0,0,FIFA World Cup qualification,Rabat,Morocco,False
+1972-11-20 00:00:00,Indonesia,Singapore,1,2,King's Cup,Bangkok,Thailand,True
+1972-11-20 00:00:00,Thailand,Malaysia,0,2,King's Cup,Bangkok,Thailand,False
+1972-11-22 00:00:00,Indonesia,South Korea,1,1,King's Cup,Bangkok,Thailand,True
+1972-11-22 00:00:00,Malaysia,Singapore,2,0,King's Cup,Bangkok,Thailand,True
+1972-11-22 00:00:00,Mali,Nigeria,2,1,Friendly,Bamako,Mali,False
+1972-11-24 00:00:00,Guinea,China PR,1,1,Friendly,Conakry,Guinea,False
+1972-11-24 00:00:00,South Korea,Singapore,2,0,King's Cup,Bangkok,Thailand,True
+1972-11-24 00:00:00,Liberia,Nigeria,1,3,Friendly,Monrovia,Liberia,False
+1972-11-24 00:00:00,Thailand,Indonesia,3,0,King's Cup,Bangkok,Thailand,False
+1972-11-25 00:00:00,Dominica,Grenada,1,2,Windward Islands Tournament,Castries,Saint Lucia,True
+1972-11-25 00:00:00,Malta,Austria,0,2,FIFA World Cup qualification,G≈ºira,Malta,False
+1972-11-25 00:00:00,Tanzania,Ethiopia,1,1,FIFA World Cup qualification,Dar es Salaam,Tanzania,False
+1972-11-26 00:00:00,Indonesia,Malaysia,0,2,King's Cup,Bangkok,Thailand,True
+1972-11-26 00:00:00,Sierra Leone,Nigeria,0,1,Friendly,Freetown,Sierra Leone,False
+1972-11-26 00:00:00,Saint Lucia,Saint Vincent and the Grenadines,2,1,Windward Islands Tournament,Castries,Saint Lucia,False
+1972-11-26 00:00:00,Thailand,South Korea,1,0,King's Cup,Bangkok,Thailand,False
+1972-11-28 00:00:00,Dominica,Saint Vincent and the Grenadines,1,2,Windward Islands Tournament,Castries,Saint Lucia,True
+1972-11-28 00:00:00,South Korea,Singapore,0,0,King's Cup,Bangkok,Thailand,True
+1972-11-28 00:00:00,Thailand,Malaysia,0,1,King's Cup,Bangkok,Thailand,False
+1972-11-28 00:00:00,Trinidad and Tobago,Suriname,2,1,CONCACAF Championship qualification,Port of Spain,Trinidad and Tobago,False
+1972-11-29 00:00:00,Senegal,China PR,0,0,Friendly,Dakar,Senegal,False
+1972-11-29 00:00:00,Saint Lucia,Grenada,1,0,Windward Islands Tournament,Castries,Saint Lucia,False
+1972-11-30 00:00:00,Trinidad and Tobago,Suriname,1,1,CONCACAF Championship qualification,San Fernando,Trinidad and Tobago,False
+1972-12-01 00:00:00,Grenada,Saint Vincent and the Grenadines,0,0,Windward Islands Tournament,Castries,Saint Lucia,True
+1972-12-02 00:00:00,Saint Lucia,Dominica,1,0,Windward Islands Tournament,Castries,Saint Lucia,False
+1972-12-03 00:00:00,Antigua and Barbuda,Suriname,0,6,CONCACAF Championship qualification,St. John's,Antigua and Barbuda,False
+1972-12-03 00:00:00,Ethiopia,Tanzania,0,0,FIFA World Cup qualification,Addis Ababa,Ethiopia,False
+1972-12-03 00:00:00,Guatemala,El Salvador,1,0,CONCACAF Championship qualification,Guatemala,Guatemala,False
+1972-12-03 00:00:00,Honduras,Costa Rica,2,1,CONCACAF Championship qualification,Tegucigalpa,Honduras,False
+1972-12-03 00:00:00,Senegal,Morocco,1,2,FIFA World Cup qualification,Dakar,Senegal,False
+1972-12-04 00:00:00,Nigeria,Mali,3,0,Friendly,Lagos,Nigeria,False
+1972-12-05 00:00:00,Antigua and Barbuda,Suriname,1,3,CONCACAF Championship qualification,St. John's,Antigua and Barbuda,False
+1972-12-08 00:00:00,Egypt,Tunisia,2,1,FIFA World Cup qualification,Cairo,Egypt,False
+1972-12-10 00:00:00,Costa Rica,Honduras,3,3,CONCACAF Championship qualification,San Jos√©,Costa Rica,False
+1972-12-10 00:00:00,El Salvador,Guatemala,0,1,CONCACAF Championship qualification,San Salvador,El Salvador,False
+1972-12-10 00:00:00,Ethiopia,Tanzania,3,0,FIFA World Cup qualification,Addis Ababa,Ethiopia,False
+1972-12-10 00:00:00,Mauritius,Kenya,1,3,FIFA World Cup qualification,Curepipe,Mauritius,False
+1972-12-10 00:00:00,Turkey,Luxembourg,3,0,FIFA World Cup qualification,Istanbul,Turkey,False
+1972-12-12 00:00:00,Nigeria,Sierra Leone,4,0,Friendly,Lagos,Nigeria,False
+1972-12-14 00:00:00,Haiti,Cura√ßao,3,0,Friendly,Port-au-Prince,Haiti,False
+1972-12-14 00:00:00,Panama,Puerto Rico,5,0,Friendly,Panama City,Panama,False
+1972-12-16 00:00:00,Panama,Puerto Rico,0,1,Friendly,Panama City,Panama,False
+1972-12-17 00:00:00,Haiti,Cura√ßao,4,1,Friendly,Port-au-Prince,Haiti,False
+1972-12-17 00:00:00,Kenya,Mauritius,2,2,FIFA World Cup qualification,Nairobi,Kenya,False
+1972-12-17 00:00:00,Tunisia,Egypt,2,0,FIFA World Cup qualification,Tunis,Tunisia,False
+1972-12-20 00:00:00,Nigeria,Benin,3,0,Friendly,Lagos,Nigeria,False
+1972-12-24 00:00:00,Bermuda,Jamaica,0,0,Friendly,Hamilton,Bermuda,False
+1972-12-27 00:00:00,Bermuda,Jamaica,0,3,Friendly,Hamilton,Bermuda,False
+1972-12-28 00:00:00,Ghana,Togo,2,2,Friendly,Accra,Ghana,False
+1972-12-29 00:00:00,Liberia,Ghana,2,2,Friendly,Monrovia,Liberia,False
+1973-01-01 00:00:00,Gambia,Senegal,2,1,Friendly,Banjul,Gambia,False
+1973-01-13 00:00:00,Italy,Turkey,0,0,FIFA World Cup qualification,Naples,Italy,False
+1973-01-17 00:00:00,Greece,Spain,2,3,FIFA World Cup qualification,Athens,Greece,False
+1973-01-24 00:00:00,England,Wales,1,1,FIFA World Cup qualification,London,England,False
+1973-01-26 00:00:00,Uganda,Congo,3,1,Friendly,Kampala,Uganda,False
+1973-01-28 00:00:00,Cyprus,Bulgaria,0,3,Friendly,Akdoƒüan,Cyprus,False
+1973-01-30 00:00:00,Guyana,Haiti,1,3,Friendly,Georgetown,Guyana,False
+1973-01-31 00:00:00,Greece,Bulgaria,2,2,Friendly,Athens,Greece,False
+1973-02-01 00:00:00,Guyana,Haiti,1,0,Friendly,Georgetown,Guyana,False
+1973-02-04 00:00:00,Cameroon,DR Congo,0,1,FIFA World Cup qualification,Douala,Cameroon,False
+1973-02-04 00:00:00,Haiti,Trinidad and Tobago,0,0,Friendly,Port-au-Prince,Haiti,False
+1973-02-04 00:00:00,Indonesia,Bulgaria,0,4,Friendly,Jakarta,Indonesia,False
+1973-02-04 00:00:00,Tunisia,Yugoslavia,0,5,Friendly,Tunis,Tunisia,False
+1973-02-06 00:00:00,Haiti,Trinidad and Tobago,4,2,Friendly,Port-au-Prince,Haiti,False
+1973-02-06 00:00:00,Mexico,Argentina,2,0,Friendly,Mexico City,Mexico,False
+1973-02-08 00:00:00,Barbados,Haiti,3,2,Friendly,Bridgetown,Barbados,False
+1973-02-08 00:00:00,New Caledonia,Bulgaria,3,5,Friendly,Noum√©a,New Caledonia,False
+1973-02-10 00:00:00,Nigeria,Ghana,2,3,FIFA World Cup qualification,Lagos,Nigeria,False
+1973-02-11 00:00:00,Guinea,Morocco,1,1,FIFA World Cup qualification,Conakry,Guinea,False
+1973-02-11 00:00:00,Tunisia,Ivory Coast,1,1,FIFA World Cup qualification,Tunis,Tunisia,False
+1973-02-14 00:00:00,Australia,Bulgaria,2,2,Friendly,Sydney,Australia,False
+1973-02-14 00:00:00,Chile,Tahiti,10,1,Friendly,Santiago,Chile,False
+1973-02-14 00:00:00,Cyprus,Northern Ireland,1,0,FIFA World Cup qualification,Akdoƒüan,Cyprus,False
+1973-02-14 00:00:00,Germany,Argentina,2,3,Friendly,Munich,Germany,False
+1973-02-14 00:00:00,Scotland,England,0,5,Friendly,Glasgow,Scotland,False
+1973-02-14 00:00:00,Turkey,Algeria,4,0,Friendly,ƒ∞zmir,Turkey,False
+1973-02-15 00:00:00,Colombia,German DR,0,2,Friendly,Bogot√°,Colombia,False
+1973-02-16 00:00:00,Australia,Bulgaria,1,3,Friendly,Adelaide,Australia,False
+1973-02-17 00:00:00,Morocco,Senegal,3,1,Friendly,Casablanca,Morocco,False
+1973-02-17 00:00:00,New Caledonia,Tahiti,1,2,Oceania Nations Cup,Auckland,New Zealand,True
+1973-02-17 00:00:00,New Zealand,Fiji,5,1,Oceania Nations Cup,Auckland,New Zealand,False
+1973-02-18 00:00:00,Australia,Bulgaria,0,2,Friendly,Melbourne,Australia,False
+1973-02-18 00:00:00,Ecuador,German DR,1,1,Friendly,Quito,Ecuador,False
+1973-02-18 00:00:00,New Caledonia,Vanuatu,4,1,Oceania Nations Cup,Auckland,New Zealand,True
+1973-02-18 00:00:00,New Zealand,Tahiti,1,1,Oceania Nations Cup,Auckland,New Zealand,False
+1973-02-20 00:00:00,Fiji,New Caledonia,0,2,Oceania Nations Cup,Auckland,New Zealand,True
+1973-02-20 00:00:00,Israel,Argentina,1,1,Friendly,Jaffa,Israel,False
+1973-02-20 00:00:00,Vanuatu,Tahiti,0,1,Oceania Nations Cup,Auckland,New Zealand,True
+1973-02-21 00:00:00,Fiji,Vanuatu,1,2,Oceania Nations Cup,Auckland,New Zealand,True
+1973-02-21 00:00:00,New Zealand,New Caledonia,2,1,Oceania Nations Cup,Auckland,New Zealand,False
+1973-02-21 00:00:00,Spain,Greece,3,1,FIFA World Cup qualification,M√°laga,Spain,False
+1973-02-23 00:00:00,Fiji,Tahiti,0,4,Oceania Nations Cup,Auckland,New Zealand,True
+1973-02-23 00:00:00,New Zealand,Vanuatu,3,1,Oceania Nations Cup,Auckland,New Zealand,False
+1973-02-24 00:00:00,New Caledonia,Vanuatu,2,1,Oceania Nations Cup,Auckland,New Zealand,True
+1973-02-24 00:00:00,New Zealand,Tahiti,2,0,Oceania Nations Cup,Auckland,New Zealand,False
+1973-02-25 00:00:00,DR Congo,Cameroon,0,1,FIFA World Cup qualification,Kinshasa,Za√Øre,False
+1973-02-25 00:00:00,Ghana,Nigeria,0,0,FIFA World Cup qualification,Accra,Ghana,False
+1973-02-25 00:00:00,Ivory Coast,Tunisia,2,1,FIFA World Cup qualification,Abidjan,Ivory Coast,False
+1973-02-25 00:00:00,Morocco,Guinea,2,0,FIFA World Cup qualification,T√©touan,Morocco,False
+1973-02-25 00:00:00,Turkey,Italy,0,1,FIFA World Cup qualification,Istanbul,Turkey,False
+1973-02-27 00:00:00,DR Congo,Cameroon,2,0,FIFA World Cup qualification,Kinshasa,Za√Øre,False
+1973-03-03 00:00:00,France,Portugal,1,2,Friendly,Paris,France,False
+1973-03-04 00:00:00,New Zealand,Australia,1,1,FIFA World Cup qualification,Auckland,New Zealand,False
+1973-03-04 00:00:00,Peru,Guatemala,5,1,Friendly,Lima,Peru,False
+1973-03-10 00:00:00,Sudan,Ethiopia,1,0,Friendly,Khartoum,Sudan,False
+1973-03-11 00:00:00,Australia,Iraq,3,1,FIFA World Cup qualification,Sydney,Australia,False
+1973-03-11 00:00:00,Indonesia,New Zealand,1,1,FIFA World Cup qualification,Sydney,Australia,True
+1973-03-13 00:00:00,Australia,Indonesia,2,1,FIFA World Cup qualification,Sydney,Australia,False
+1973-03-13 00:00:00,Iraq,New Zealand,2,0,FIFA World Cup qualification,Sydney,Australia,True
+1973-03-16 00:00:00,Australia,New Zealand,3,3,FIFA World Cup qualification,Sydney,Australia,False
+1973-03-16 00:00:00,Iraq,Indonesia,1,1,FIFA World Cup qualification,Sydney,Australia,True
+1973-03-17 00:00:00,Bermuda,United States,4,0,Friendly,Hamilton,Bermuda,False
+1973-03-18 00:00:00,Australia,Iraq,0,0,FIFA World Cup qualification,Melbourne,Australia,False
+1973-03-18 00:00:00,Indonesia,New Zealand,1,0,FIFA World Cup qualification,Melbourne,Australia,True
+1973-03-20 00:00:00,Poland,United States,4,0,Friendly,≈Å√≥d≈∫,Poland,False
+1973-03-21 00:00:00,Iraq,Indonesia,3,2,FIFA World Cup qualification,Sydney,Australia,True
+1973-03-24 00:00:00,Australia,Indonesia,6,0,FIFA World Cup qualification,Sydney,Australia,False
+1973-03-24 00:00:00,Iraq,New Zealand,4,0,FIFA World Cup qualification,Sydney,Australia,True
+1973-03-24 00:00:00,Peru,Bolivia,2,0,Friendly,Lima,Peru,False
+1973-03-28 00:00:00,Austria,Netherlands,1,0,Friendly,Vienna,Austria,False
+1973-03-28 00:00:00,Bulgaria,Russia,1,0,Friendly,Plovdiv,Bulgaria,False
+1973-03-28 00:00:00,Germany,Czechoslovakia,3,0,Friendly,D√ºsseldorf,Germany,False
+1973-03-28 00:00:00,Northern Ireland,Portugal,1,1,FIFA World Cup qualification,Coventry,England,True
+1973-03-28 00:00:00,Peru,Paraguay,1,0,Friendly,Lima,Peru,False
+1973-03-28 00:00:00,Wales,Poland,2,0,FIFA World Cup qualification,Cardiff,Wales,False
+1973-03-31 00:00:00,Bolivia,Paraguay,1,1,Friendly,La Paz,Bolivia,False
+1973-03-31 00:00:00,Italy,Luxembourg,5,0,FIFA World Cup qualification,Genoa,Italy,False
+1973-04-01 00:00:00,Ethiopia,Zambia,0,0,FIFA World Cup qualification,Addis Ababa,Ethiopia,False
+1973-04-08 00:00:00,Central African Republic,Ivory Coast,4,2,African Cup of Nations qualification,Bangui,Central African Republic,False
+1973-04-08 00:00:00,German DR,Albania,2,0,FIFA World Cup qualification,Magdeburg,German DR,False
+1973-04-08 00:00:00,Luxembourg,Switzerland,0,1,FIFA World Cup qualification,Luxembourg,Luxembourg,False
+1973-04-08 00:00:00,Paraguay,Peru,1,1,Friendly,Asunci√≥n,Paraguay,False
+1973-04-12 00:00:00,Kuwait,Qatar,9,0,Friendly,Kuwait City,Kuwait,False
+1973-04-14 00:00:00,Haiti,Chile,1,1,Friendly,Port-au-Prince,Haiti,False
+1973-04-15 00:00:00,Burkina Faso,DR Congo,0,5,African Cup of Nations qualification,Ouagadougou,Upper Volta,False
+1973-04-15 00:00:00,Zambia,Ethiopia,4,2,FIFA World Cup qualification,Lusaka,Zambia,False
+1973-04-17 00:00:00,Kuwait,Qatar,4,1,Friendly,Kuwait City,Kuwait,False
+1973-04-18 00:00:00,Belgium,German DR,3,0,Friendly,Antwerp,Belgium,False
+1973-04-18 00:00:00,Russia,Romania,2,0,Friendly,Kyiv,Soviet Union,False
+1973-04-18 00:00:00,Turkey,Bulgaria,5,2,Balkan Cup,ƒ∞zmir,Turkey,False
+1973-04-21 00:00:00,Senegal,Ghana,1,0,African Cup of Nations qualification,Dakar,Senegal,False
+1973-04-22 00:00:00,DR Congo,Burkina Faso,4,1,African Cup of Nations qualification,Kinshasa,Za√Øre,False
+1973-04-22 00:00:00,Ivory Coast,Central African Republic,2,1,African Cup of Nations qualification,Abidjan,Ivory Coast,False
+1973-04-23 00:00:00,Peru,Panama,4,0,Friendly,Lima,Peru,False
+1973-04-24 00:00:00,Ecuador,Chile,1,1,Friendly,Guayaquil,Ecuador,False
+1973-04-26 00:00:00,Denmark,Sweden,1,2,Friendly,Copenhagen,Denmark,False
+1973-04-28 00:00:00,Kenya,Uganda,1,2,African Cup of Nations qualification,Nairobi,Kenya,False
+1973-04-29 00:00:00,Bolivia,Ecuador,3,3,Friendly,La Paz,Bolivia,False
+1973-04-29 00:00:00,Hungary,Austria,2,2,FIFA World Cup qualification,Budapest,Hungary,False
+1973-04-29 00:00:00,Peru,Chile,2,0,FIFA World Cup qualification,Lima,Peru,False
+1973-05-02 00:00:00,Bulgaria,Portugal,2,1,FIFA World Cup qualification,Sofia,Bulgaria,False
+1973-05-02 00:00:00,Denmark,Czechoslovakia,1,1,FIFA World Cup qualification,Copenhagen,Denmark,False
+1973-05-02 00:00:00,Netherlands,Spain,3,2,Friendly,Amsterdam,Netherlands,False
+1973-05-04 00:00:00,Iran,North Korea,0,0,FIFA World Cup qualification,Tehran,Iran,False
+1973-05-04 00:00:00,Syria,Kuwait,2,1,FIFA World Cup qualification,Tehran,Iran,True
+1973-05-06 00:00:00,Albania,Romania,1,4,FIFA World Cup qualification,Tirana,Albania,False
+1973-05-06 00:00:00,Ecuador,Bolivia,0,0,Friendly,Quito,Ecuador,False
+1973-05-06 00:00:00,Iran,Kuwait,2,1,FIFA World Cup qualification,Tehran,Iran,False
+1973-05-06 00:00:00,North Korea,Syria,1,1,FIFA World Cup qualification,Tehran,Iran,True
+1973-05-08 00:00:00,Iran,Syria,1,0,FIFA World Cup qualification,Tehran,Iran,False
+1973-05-08 00:00:00,North Korea,Kuwait,0,0,FIFA World Cup qualification,Tehran,Iran,True
+1973-05-08 00:00:00,Northern Ireland,Cyprus,3,0,FIFA World Cup qualification,London,England,True
+1973-05-09 00:00:00,Germany,Yugoslavia,0,1,Friendly,Munich,Germany,False
+1973-05-09 00:00:00,Switzerland,Turkey,0,0,FIFA World Cup qualification,Basel,Switzerland,False
+1973-05-11 00:00:00,Iran,North Korea,2,1,FIFA World Cup qualification,Tehran,Iran,False
+1973-05-11 00:00:00,Syria,Kuwait,2,0,FIFA World Cup qualification,Tehran,Iran,True
+1973-05-12 00:00:00,England,Northern Ireland,2,1,British Championship,Liverpool,England,False
+1973-05-12 00:00:00,Germany,Bulgaria,3,0,Friendly,Hamburg,Germany,False
+1973-05-12 00:00:00,Haiti,Ecuador,1,2,Friendly,Port-au-Prince,Haiti,False
+1973-05-12 00:00:00,Wales,Scotland,0,2,British Championship,Wrexham,Wales,False
+1973-05-13 00:00:00,Chile,Peru,2,0,FIFA World Cup qualification,Santiago,Chile,False
+1973-05-13 00:00:00,Iran,Kuwait,2,0,FIFA World Cup qualification,Tehran,Iran,False
+1973-05-13 00:00:00,North Korea,Syria,3,0,FIFA World Cup qualification,Tehran,Iran,True
+1973-05-13 00:00:00,Poland,Yugoslavia,2,2,Friendly,Warsaw,Poland,False
+1973-05-13 00:00:00,Russia,Republic of Ireland,1,0,FIFA World Cup qualification,Moscow,Soviet Union,True
+1973-05-15 00:00:00,England,Wales,3,0,British Championship,London,England,False
+1973-05-15 00:00:00,Haiti,Ecuador,1,0,Friendly,Port-au-Prince,Haiti,False
+1973-05-15 00:00:00,Iran,Syria,0,1,FIFA World Cup qualification,Tehran,Iran,False
+1973-05-15 00:00:00,North Korea,Kuwait,0,2,FIFA World Cup qualification,Tehran,Iran,True
+1973-05-16 00:00:00,German DR,Hungary,2,1,Friendly,Karl-Marx-Stadt,German DR,False
+1973-05-16 00:00:00,Israel,Japan,2,1,FIFA World Cup qualification,Seoul,South Korea,True
+1973-05-16 00:00:00,Poland,Republic of Ireland,2,0,Friendly,Wroc≈Çaw,Poland,False
+1973-05-16 00:00:00,Scotland,Northern Ireland,1,2,British Championship,Glasgow,Scotland,False
+1973-05-16 00:00:00,Thailand,Vietnam Republic,0,1,FIFA World Cup qualification,Seoul,South Korea,True
+1973-05-17 00:00:00,Argentina,Uruguay,1,1,Copa Lipton,Buenos Aires,Argentina,False
+1973-05-17 00:00:00,Hong Kong,Malaysia,1,0,FIFA World Cup qualification,Seoul,South Korea,True
+1973-05-19 00:00:00,England,Scotland,1,0,British Championship,London,England,False
+1973-05-19 00:00:00,France,Republic of Ireland,1,1,FIFA World Cup qualification,Paris,France,False
+1973-05-19 00:00:00,Israel,Malaysia,3,0,FIFA World Cup qualification,Seoul,South Korea,True
+1973-05-19 00:00:00,South Korea,Thailand,4,0,FIFA World Cup qualification,Seoul,South Korea,False
+1973-05-19 00:00:00,Northern Ireland,Wales,1,0,British Championship,Liverpool,England,True
+1973-05-20 00:00:00,Ivory Coast,Morocco,1,1,FIFA World Cup qualification,Abidjan,Ivory Coast,False
+1973-05-20 00:00:00,Vietnam Republic,Japan,0,4,FIFA World Cup qualification,Seoul,South Korea,True
+1973-05-21 00:00:00,Israel,Thailand,6,0,FIFA World Cup qualification,Seoul,South Korea,True
+1973-05-21 00:00:00,South Korea,Malaysia,0,0,FIFA World Cup qualification,Seoul,South Korea,False
+1973-05-22 00:00:00,Japan,Hong Kong,0,1,FIFA World Cup qualification,Seoul,South Korea,True
+1973-05-23 00:00:00,South Korea,Israel,0,0,FIFA World Cup qualification,Seoul,South Korea,False
+1973-05-23 00:00:00,Sweden,Austria,3,2,FIFA World Cup qualification,Gothenburg,Sweden,False
+1973-05-23 00:00:00,Thailand,Malaysia,0,2,FIFA World Cup qualification,Seoul,South Korea,True
+1973-05-23 00:00:00,Uruguay,Argentina,1,1,Copa Newton,Montevideo,Uruguay,False
+1973-05-24 00:00:00,Hong Kong,Vietnam Republic,1,0,FIFA World Cup qualification,Seoul,South Korea,True
+1973-05-26 00:00:00,Israel,Japan,1,0,FIFA World Cup qualification,Seoul,South Korea,True
+1973-05-26 00:00:00,South Korea,Hong Kong,3,1,FIFA World Cup qualification,Seoul,South Korea,False
+1973-05-26 00:00:00,Russia,France,2,0,FIFA World Cup qualification,Moscow,Soviet Union,True
+1973-05-27 00:00:00,Brazil,Bolivia,5,0,Friendly,Rio de Janeiro,Brazil,False
+1973-05-27 00:00:00,Cameroon,DR Congo,2,1,African Cup of Nations qualification,Yaound√©,Cameroon,False
+1973-05-27 00:00:00,Czechoslovakia,England,1,1,Friendly,Prague,Czechoslovakia,False
+1973-05-27 00:00:00,Haiti,Colombia,1,2,Friendly,Port-au-Prince,Haiti,False
+1973-05-27 00:00:00,Romania,German DR,1,0,FIFA World Cup qualification,Bucharest,Romania,False
+1973-05-28 00:00:00,South Korea,Israel,1,0,FIFA World Cup qualification,Seoul,South Korea,False
+1973-05-29 00:00:00,Haiti,Colombia,2,1,Friendly,Port-au-Prince,Haiti,False
+1973-06-03 00:00:00,Algeria,Brazil,0,2,Friendly,Algiers,Algeria,False
+1973-06-03 00:00:00,Morocco,Ivory Coast,4,1,FIFA World Cup qualification,T√©touan,Morocco,False
+1973-06-05 00:00:00,Madagascar,Zambia,2,1,African Cup of Nations qualification,Antananarivo,Madagascar,False
+1973-06-06 00:00:00,Czechoslovakia,Denmark,6,0,FIFA World Cup qualification,Prague,Czechoslovakia,False
+1973-06-06 00:00:00,Finland,German DR,1,5,FIFA World Cup qualification,Tampere,Finland,False
+1973-06-06 00:00:00,Haiti,Uruguay,0,0,Friendly,Port-au-Prince,Haiti,False
+1973-06-06 00:00:00,Norway,Republic of Ireland,1,1,Friendly,Oslo,Norway,False
+1973-06-06 00:00:00,Poland,England,2,0,FIFA World Cup qualification,Chorz√≥w,Poland,False
+1973-06-06 00:00:00,Tunisia,Brazil,1,4,Friendly,Tunis,Tunisia,False
+1973-06-08 00:00:00,Faroe Islands,Iceland,0,4,Friendly,Klaksv√≠k,Faroe Islands,False
+1973-06-09 00:00:00,Italy,Brazil,2,0,Friendly,Rome,Italy,False
+1973-06-10 00:00:00,China PR,Pakistan,7,4,Friendly,Beijing,China PR,False
+1973-06-10 00:00:00,Russia,England,1,2,Friendly,Moscow,Soviet Union,False
+1973-06-12 00:00:00,Myanmar,Malaysia,2,2,Indonesia Tournament,Jakarta,Indonesia,True
+1973-06-13 00:00:00,Austria,Brazil,1,1,Friendly,Vienna,Austria,False
+1973-06-13 00:00:00,Hungary,Sweden,3,3,FIFA World Cup qualification,Budapest,Hungary,False
+1973-06-14 00:00:00,DR Congo,Cameroon,2,0,African Cup of Nations qualification,Kinshasa,Za√Øre,False
+1973-06-14 00:00:00,Indonesia,Malaysia,2,0,Indonesia Tournament,Jakarta,Indonesia,False
+1973-06-14 00:00:00,Italy,England,2,0,Friendly,Turin,Italy,False
+1973-06-16 00:00:00,Germany,Brazil,0,1,Friendly,Berlin,Germany,False
+1973-06-17 00:00:00,China PR,Somalia,7,4,Friendly,Beijing,China PR,False
+1973-06-18 00:00:00,Indonesia,Myanmar,0,0,Indonesia Tournament,Jakarta,Indonesia,False
+1973-06-21 00:00:00,Colombia,Ecuador,1,1,FIFA World Cup qualification,Bogot√°,Colombia,False
+1973-06-21 00:00:00,Denmark,Norway,1,0,Nordic Championship,Copenhagen,Denmark,False
+1973-06-21 00:00:00,Russia,Brazil,0,1,Friendly,Moscow,Soviet Union,False
+1973-06-22 00:00:00,Switzerland,Scotland,1,0,Friendly,Berne,Switzerland,False
+1973-06-23 00:00:00,South Korea,Japan,2,0,Friendly,Seoul,South Korea,False
+1973-06-24 00:00:00,Colombia,Uruguay,0,0,FIFA World Cup qualification,Bogot√°,Colombia,False
+1973-06-25 00:00:00,Sweden,Brazil,1,0,Friendly,Solna,Sweden,False
+1973-06-28 00:00:00,Ecuador,Colombia,1,1,FIFA World Cup qualification,Guayaquil,Ecuador,False
+1973-06-30 00:00:00,Scotland,Brazil,0,1,Friendly,Glasgow,Scotland,False
+1973-07-01 00:00:00,Ecuador,Uruguay,1,2,FIFA World Cup qualification,Quito,Ecuador,False
+1973-07-01 00:00:00,Peru,Colombia,3,1,Friendly,Lima,Peru,False
+1973-07-03 00:00:00,Republic of Ireland,Brazil,3,4,Friendly,Dublin,Republic of Ireland,False
+1973-07-05 00:00:00,Tanzania,Congo,2,1,Friendly,Dar es Salaam,Tanzania,False
+1973-07-05 00:00:00,Uruguay,Colombia,0,1,FIFA World Cup qualification,Montevideo,Uruguay,False
+1973-07-06 00:00:00,Malawi,Mauritius,4,1,Friendly,Lilongwe,Malawi,False
+1973-07-08 00:00:00,Malawi,Mauritius,1,0,Friendly,Lilongwe,Malawi,False
+1973-07-08 00:00:00,Sweden,Finland,1,1,Nordic Championship,Halmstad,Sweden,False
+1973-07-08 00:00:00,Uruguay,Ecuador,4,0,FIFA World Cup qualification,Montevideo,Uruguay,False
+1973-07-11 00:00:00,Sweden,Iceland,1,0,Friendly,Uddevalla,Sweden,False
+1973-07-13 00:00:00,Argentina,Chile,5,4,Copa Carlos Dittborn,Buenos Aires,Argentina,False
+1973-07-15 00:00:00,Bolivia,Peru,2,0,Friendly,La Paz,Bolivia,False
+1973-07-15 00:00:00,Ghana,Ivory Coast,0,3,African Cup of Nations qualification,Accra,Ghana,False
+1973-07-15 00:00:00,Mauritius,R√©union,1,1,Friendly,Curepipe,Mauritius,False
+1973-07-16 00:00:00,Egypt,Tanzania,10,1,Friendly,Tunis,Tunisia,True
+1973-07-17 00:00:00,Iceland,German DR,1,2,Friendly,Reykjav√≠k,Iceland,False
+1973-07-18 00:00:00,Chile,Argentina,3,1,Copa Carlos Dittborn,Santiago,Chile,False
+1973-07-19 00:00:00,Iceland,German DR,0,2,Friendly,Reykjav√≠k,Iceland,False
+1973-07-19 00:00:00,Israel,Uruguay,1,2,Friendly,Ramat-Gan,Israel,False
+1973-07-21 00:00:00,Syria,Palestine,1,1,Palestine Cup,Tripoli,Libya,True
+1973-07-24 00:00:00,Chile,Bolivia,3,0,Friendly,Santiago,Chile,False
+1973-07-25 00:00:00,Norway,North Korea,3,0,Friendly,Bergen,Norway,False
+1973-07-26 00:00:00,Cambodia,Singapore,1,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1973-07-26 00:00:00,Malaysia,Kuwait,0,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1973-07-27 00:00:00,Argentina,Peru,3,1,Copa Ram√≥n Castilla,Buenos Aires,Argentina,False
+1973-07-27 00:00:00,Bangladesh,Thailand,2,2,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1973-07-27 00:00:00,India,Vietnam Republic,2,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1973-07-28 00:00:00,Myanmar,South Korea,0,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1973-07-28 00:00:00,Kuwait,Singapore,2,0,Merdeka Tournament,Ipoh,Malaysia,True
+1973-07-29 00:00:00,Bangladesh,Vietnam Republic,1,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1973-07-29 00:00:00,India,Thailand,2,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1973-07-29 00:00:00,Ivory Coast,Ghana,1,0,African Cup of Nations qualification,Abidjan,Ivory Coast,False
+1973-07-30 00:00:00,Malaysia,South Korea,1,2,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1973-07-30 00:00:00,Myanmar,Singapore,1,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1973-07-31 00:00:00,Bangladesh,Kuwait,1,2,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1973-08-01 00:00:00,Canada,Poland,1,3,Friendly,Toronto,Canada,False
+1973-08-01 00:00:00,South Korea,Thailand,0,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1973-08-02 00:00:00,Bangladesh,Singapore,1,1,Merdeka Tournament,Ipoh,Malaysia,True
+1973-08-02 00:00:00,Myanmar,Vietnam Republic,2,1,Merdeka Tournament,Ipoh,Malaysia,True
+1973-08-03 00:00:00,China PR,Guinea,5,2,Friendly,Beijing,China PR,False
+1973-08-03 00:00:00,Cambodia,South Korea,0,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1973-08-03 00:00:00,Iceland,Norway,0,4,FIFA World Cup qualification,Reykjav√≠k,Iceland,False
+1973-08-03 00:00:00,United States,Poland,0,1,Friendly,Chicago,United States,False
+1973-08-03 00:00:00,Malaysia,Thailand,2,2,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1973-08-03 00:00:00,Malaysia,Cambodia,1,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1973-08-03 00:00:00,Malaysia,India,4,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1973-08-05 00:00:00,India,Cambodia,3,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1973-08-05 00:00:00,Myanmar,Kuwait,2,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1973-08-05 00:00:00,India,South Korea,0,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1973-08-05 00:00:00,Canada,United States,0,2,Friendly,Windsor,Canada,False
+1973-08-05 00:00:00,Chile,Peru,2,1,FIFA World Cup qualification,Montevideo,Uruguay,True
+1973-08-05 00:00:00,Ghana,DR Congo,1,0,FIFA World Cup qualification,Accra,Ghana,False
+1973-08-05 00:00:00,Mexico,Poland,0,1,Friendly,Los Angeles,United States,True
+1973-08-05 00:00:00,Russia,Sweden,0,0,Friendly,Moscow,Soviet Union,False
+1973-08-05 00:00:00,Singapore,Vietnam Republic,0,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1973-08-06 00:00:00,Cambodia,Thailand,1,4,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1973-08-06 00:00:00,Eswatini,Malawi,0,1,Friendly,Mbabane,Eswatini,False
+1973-08-08 00:00:00,Bangladesh,Myanmar,0,6,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1973-08-08 00:00:00,Kuwait,Vietnam Republic,2,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1973-08-08 00:00:00,Mexico,Poland,1,2,Friendly,Monterrey,Mexico,False
+1973-08-09 00:00:00,India,Vietnam Republic,1,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1973-08-10 00:00:00,Cambodia,Singapore,0,3,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1973-08-10 00:00:00,Malaysia,Myanmar,2,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1973-08-10 00:00:00,United States,Poland,0,4,Friendly,San Francisco,United States,False
+1973-08-11 00:00:00,Libya,United Arab Emirates,2,2,Palestine Cup,Benghazi,Libya,False
+1973-08-11 00:00:00,South Korea,Kuwait,0,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1973-08-11 00:00:00,South Korea,Myanmar,1,2,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1973-08-12 00:00:00,Bangladesh,Thailand,0,2,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1973-08-12 00:00:00,Egypt,Yemen DPR,6,1,Palestine Cup,Tripoli,Libya,True
+1973-08-12 00:00:00,Malaysia,Kuwait,3,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1973-08-12 00:00:00,New Zealand,Iran,0,0,Friendly,Auckland,New Zealand,False
+1973-08-12 00:00:00,United States,Poland,1,0,Friendly,New Britain,United States,False
+1973-08-12 00:00:00,Zambia,Kenya,2,0,FIFA World Cup qualification,Ndola,Zambia,False
+1973-08-13 00:00:00,Algeria,United Arab Emirates,2,0,Palestine Cup,Benghazi,Libya,True
+1973-08-13 00:00:00,Iraq,Yemen,2,0,Palestine Cup,Benghazi,Libya,True
+1973-08-13 00:00:00,Singapore,Bangladesh,0,1,Friendly,Kallang,Singapore,False
+1973-08-13 00:00:00,Palestine,Yemen DPR,1,0,Palestine Cup,Tripoli,Libya,True
+1973-08-13 00:00:00,Syria,Tunisia,1,4,Palestine Cup,Tripoli,Libya,True
+1973-08-14 00:00:00,Libya,Yemen,10,0,Palestine Cup,Benghazi,Libya,False
+1973-08-15 00:00:00,Algeria,Iraq,0,0,Palestine Cup,Benghazi,Libya,True
+1973-08-15 00:00:00,Congo,Uganda,3,2,Friendly,Brazzaville,Congo,False
+1973-08-15 00:00:00,Egypt,Tunisia,0,1,Palestine Cup,Tripoli,Libya,True
+1973-08-15 00:00:00,Singapore,India,4,5,Friendly,Kallang,Singapore,False
+1973-08-16 00:00:00,Yemen,United Arab Emirates,1,1,Palestine Cup,Benghazi,Libya,False
+1973-08-16 00:00:00,Syria,Yemen DPR,7,1,Palestine Cup,Tripoli,Libya,True
+1973-08-16 00:00:00,Egypt,Palestine,2,0,Palestine Cup,Tripoli,Libya,True
+1973-08-17 00:00:00,Algeria,Yemen,15,1,Palestine Cup,Benghazi,Libya,True
+1973-08-18 00:00:00,Australia,Iran,3,0,FIFA World Cup qualification,Sydney,Australia,False
+1973-08-18 00:00:00,Libya,Iraq,0,0,Palestine Cup,Benghazi,Libya,False
+1973-08-19 00:00:00,Bulgaria,Poland,0,2,Friendly,Varna,Bulgaria,False
+1973-08-19 00:00:00,DR Congo,Ghana,4,1,FIFA World Cup qualification,Kinshasa,Za√Øre,False
+1973-08-19 00:00:00,Kenya,Zambia,2,2,FIFA World Cup qualification,Nairobi,Kenya,False
+1973-08-19 00:00:00,Tunisia,Yemen DPR,2,0,Palestine Cup,Tripoli,Libya,True
+1973-08-20 00:00:00,Egypt,Syria,0,2,Palestine Cup,Tripoli,Libya,True
+1973-08-20 00:00:00,Iraq,United Arab Emirates,3,1,Palestine Cup,Benghazi,Libya,True
+1973-08-21 00:00:00,Libya,Algeria,0,2,Palestine Cup,Benghazi,Libya,False
+1973-08-21 00:00:00,Palestine,Tunisia,2,6,Palestine Cup,Tripoli,Libya,True
+1973-08-22 00:00:00,Netherlands,Iceland,5,0,FIFA World Cup qualification,Amsterdam,Netherlands,False
+1973-08-23 00:00:00,Algeria,Syria,0,0,Palestine Cup,Benghazi,Libya,True
+1973-08-23 00:00:00,Iraq,Tunisia,0,2,Palestine Cup,Tripoli,Libya,True
+1973-08-24 00:00:00,Iran,Australia,2,0,FIFA World Cup qualification,Tehran,Iran,False
+1973-08-25 00:00:00,Algeria,Iraq,0,0,Palestine Cup,Tripoli,Libya,True
+1973-08-26 00:00:00,Syria,Tunisia,0,4,Palestine Cup,Tripoli,Libya,True
+1973-08-29 00:00:00,Finland,Sweden,1,2,Nordic Championship,Helsinki,Finland,False
+1973-08-29 00:00:00,Netherlands,Iceland,8,1,FIFA World Cup qualification,Deventer,Netherlands,False
+1973-09-02 00:00:00,Bolivia,Paraguay,1,2,FIFA World Cup qualification,La Paz,Bolivia,False
+1973-09-05 00:00:00,Russia,Germany,0,1,Friendly,Moscow,Soviet Union,False
+1973-09-08 00:00:00,France,Greece,3,1,Friendly,Paris,France,False
+1973-09-09 00:00:00,Argentina,Bolivia,4,0,FIFA World Cup qualification,Buenos Aires,Argentina,False
+1973-09-09 00:00:00,United States,Bermuda,1,0,Friendly,Hartford,United States,False
+1973-09-12 00:00:00,Norway,Netherlands,1,2,FIFA World Cup qualification,Oslo,Norway,False
+1973-09-16 00:00:00,Paraguay,Argentina,1,1,FIFA World Cup qualification,Asunci√≥n,Paraguay,False
+1973-09-20 00:00:00,Mexico,Chile,1,2,Friendly,Mexico City,Mexico,False
+1973-09-22 00:00:00,Myanmar,Thailand,2,2,Korea Cup,Seoul,South Korea,True
+1973-09-22 00:00:00,South Korea,Cambodia,6,0,Korea Cup,Seoul,South Korea,False
+1973-09-22 00:00:00,Uganda,Somalia,6,1,CECAFA Cup,Kampala,Uganda,False
+1973-09-23 00:00:00,Bolivia,Argentina,0,1,FIFA World Cup qualification,La Paz,Bolivia,False
+1973-09-23 00:00:00,Kenya,Zanzibar,2,0,CECAFA Cup,Kampala,Uganda,True
+1973-09-23 00:00:00,Norway,Denmark,0,1,Nordic Championship,Trondheim,Norway,False
+1973-09-24 00:00:00,South Korea,Indonesia,3,1,Korea Cup,Seoul,South Korea,False
+1973-09-24 00:00:00,Malaysia,Thailand,5,1,Korea Cup,Seoul,South Korea,True
+1973-09-24 00:00:00,Somalia,Zambia,1,6,CECAFA Cup,Kampala,Uganda,True
+1973-09-25 00:00:00,Tanzania,Zanzibar,1,0,CECAFA Cup,Kampala,Uganda,True
+1973-09-26 00:00:00,Myanmar,Malaysia,1,3,Korea Cup,Seoul,South Korea,True
+1973-09-26 00:00:00,England,Austria,7,0,Friendly,London,England,False
+1973-09-26 00:00:00,German DR,Romania,2,0,FIFA World Cup qualification,Leipzig,German DR,False
+1973-09-26 00:00:00,Indonesia,Cambodia,2,3,Korea Cup,Seoul,South Korea,True
+1973-09-26 00:00:00,Northern Ireland,Bulgaria,0,0,FIFA World Cup qualification,Sheffield,England,True
+1973-09-26 00:00:00,Poland,Wales,3,0,FIFA World Cup qualification,Chorz√≥w,Poland,False
+1973-09-26 00:00:00,Russia,Chile,0,0,FIFA World Cup qualification,Moscow,Soviet Union,True
+1973-09-26 00:00:00,Scotland,Czechoslovakia,2,1,FIFA World Cup qualification,Glasgow,Scotland,False
+1973-09-26 00:00:00,Switzerland,Luxembourg,1,0,FIFA World Cup qualification,Lucerne,Switzerland,False
+1973-09-26 00:00:00,Uganda,Zambia,1,1,CECAFA Cup,Kampala,Uganda,False
+1973-09-26 00:00:00,Yugoslavia,Hungary,1,1,Friendly,Belgrade,Yugoslavia,False
+1973-09-27 00:00:00,Kenya,Tanzania,1,2,CECAFA Cup,Kampala,Uganda,True
+1973-09-28 00:00:00,Cambodia,Malaysia,2,0,Korea Cup,Seoul,South Korea,True
+1973-09-28 00:00:00,South Korea,Myanmar,0,1,Korea Cup,Seoul,South Korea,False
+1973-09-28 00:00:00,Malta,Canada,2,0,Friendly,G≈ºira,Malta,False
+1973-09-28 00:00:00,Uganda,Zambia,2,1,CECAFA Cup,Kampala,Uganda,False
+1973-09-29 00:00:00,Italy,Sweden,2,0,Friendly,Milan,Italy,False
+1973-09-29 00:00:00,Uganda,Tanzania,2,1,CECAFA Cup,Kampala,Uganda,False
+1973-09-30 00:00:00,Myanmar,Cambodia,0,0,Korea Cup,Seoul,South Korea,True
+1973-09-30 00:00:00,South Korea,Malaysia,2,0,Korea Cup,Seoul,South Korea,False
+1973-09-30 00:00:00,Malta,Canada,0,0,Friendly,G≈ºira,Malta,False
+1973-09-30 00:00:00,Paraguay,Bolivia,4,0,FIFA World Cup qualification,Asunci√≥n,Paraguay,False
+1973-10-07 00:00:00,Argentina,Paraguay,3,1,FIFA World Cup qualification,Buenos Aires,Argentina,False
+1973-10-07 00:00:00,Luxembourg,Canada,0,2,Friendly,Luxembourg,Luxembourg,False
+1973-10-10 00:00:00,Albania,Finland,1,0,FIFA World Cup qualification,Tirana,Albania,False
+1973-10-10 00:00:00,Germany,Austria,4,0,Friendly,Hanover,Germany,False
+1973-10-10 00:00:00,Netherlands,Poland,1,1,Friendly,Rotterdam,Netherlands,False
+1973-10-11 00:00:00,Trinidad and Tobago,Martinique,2,0,Friendly,Port of Spain,Trinidad and Tobago,False
+1973-10-13 00:00:00,Denmark,Hungary,2,2,Friendly,Copenhagen,Denmark,False
+1973-10-13 00:00:00,Germany,France,2,1,Friendly,Gelsenkirchen,Germany,False
+1973-10-13 00:00:00,Portugal,Bulgaria,2,2,FIFA World Cup qualification,Lisbon,Portugal,False
+1973-10-14 00:00:00,Romania,Finland,9,0,FIFA World Cup qualification,Bucharest,Romania,False
+1973-10-16 00:00:00,Mexico,United States,2,0,Friendly,Mexico City,Mexico,False
+1973-10-17 00:00:00,Czechoslovakia,Scotland,1,0,FIFA World Cup qualification,Bratislava,Czechoslovakia,False
+1973-10-17 00:00:00,England,Poland,1,1,FIFA World Cup qualification,London,England,False
+1973-10-17 00:00:00,German DR,Russia,1,0,Friendly,Leipzig,German DR,False
+1973-10-17 00:00:00,Turkey,Spain,0,0,Friendly,Istanbul,Turkey,False
+1973-10-20 00:00:00,Italy,Switzerland,2,0,FIFA World Cup qualification,Rome,Italy,False
+1973-10-21 00:00:00,Republic of Ireland,Poland,1,0,Friendly,Dublin,Republic of Ireland,False
+1973-10-21 00:00:00,Yugoslavia,Spain,0,0,FIFA World Cup qualification,Zagreb,Yugoslavia,False
+1973-10-21 00:00:00,Zambia,Morocco,4,0,FIFA World Cup qualification,Lusaka,Zambia,False
+1973-10-27 00:00:00,Cura√ßao,Suriname,1,1,Friendly,Willemstad,Netherlands Antilles,False
+1973-10-28 00:00:00,Australia,South Korea,0,0,FIFA World Cup qualification,Sydney,Australia,False
+1973-10-29 00:00:00,Cura√ßao,Suriname,2,2,Friendly,Willemstad,Netherlands Antilles,False
+1973-10-31 00:00:00,Algeria,Morocco,2,0,Friendly,Algiers,Algeria,False
+1973-10-31 00:00:00,Belgium,Norway,2,0,FIFA World Cup qualification,Brussels,Belgium,False
+1973-11-01 00:00:00,Vietnam Republic,Malaysia,1,5,Vietnam Independence Cup,Saigon,Vietnam Republic,False
+1973-11-03 00:00:00,Albania,German DR,1,4,FIFA World Cup qualification,Tirana,Albania,False
+1973-11-03 00:00:00,Haiti,United States,1,0,Friendly,Port-au-Prince,Haiti,False
+1973-11-03 00:00:00,Malaysia,Singapore,2,1,Vietnam Independence Cup,Saigon,Vietnam Republic,True
+1973-11-04 00:00:00,Guyana,Jamaica,2,1,Friendly,Georgetown,Guyana,False
+1973-11-04 00:00:00,Vietnam Republic,Singapore,4,2,Vietnam Independence Cup,Saigon,Vietnam Republic,False
+1973-11-04 00:00:00,Zambia,DR Congo,0,2,FIFA World Cup qualification,Lusaka,Zambia,False
+1973-11-05 00:00:00,Haiti,United States,1,0,Friendly,Port-au-Prince,Haiti,False
+1973-11-06 00:00:00,Barbados,Suriname,0,2,Friendly,Georgetown,Guyana,True
+1973-11-06 00:00:00,Guadeloupe,Martinique,0,2,Friendly,Basse-Terre,Guadeloupe,False
+1973-11-07 00:00:00,Albania,China PR,1,1,Friendly,Tirana,Albania,False
+1973-11-07 00:00:00,Dominica,Grenada,4,2,Windward Islands Tournament,Roseau,Dominica,False
+1973-11-09 00:00:00,Guyana,Suriname,0,2,Friendly,Georgetown,Guyana,False
+1973-11-10 00:00:00,Haiti,Canada,5,1,Friendly,Port-au-Prince,Haiti,False
+1973-11-10 00:00:00,South Korea,Australia,2,2,FIFA World Cup qualification,Seoul,South Korea,False
+1973-11-11 00:00:00,Dominica,Saint Lucia,1,0,Windward Islands Tournament,Roseau,Dominica,False
+1973-11-11 00:00:00,Malta,Sweden,1,2,FIFA World Cup qualification,G≈ºira,Malta,False
+1973-11-11 00:00:00,Saint Vincent and the Grenadines,Grenada,4,1,Windward Islands Tournament,Kingstown,Saint Vincent and the Grenadines,False
+1973-11-12 00:00:00,Haiti,Canada,0,1,Friendly,Port-au-Prince,Haiti,False
+1973-11-13 00:00:00,Australia,South Korea,1,0,FIFA World Cup qualification,So Kon Po,Hong Kong,True
+1973-11-13 00:00:00,Israel,United States,3,1,Friendly,Jaffa,Israel,False
+1973-11-14 00:00:00,England,Italy,0,1,Friendly,London,England,False
+1973-11-14 00:00:00,Portugal,Northern Ireland,1,1,FIFA World Cup qualification,Lisbon,Portugal,False
+1973-11-14 00:00:00,Scotland,Germany,1,1,Friendly,Glasgow,Scotland,False
+1973-11-15 00:00:00,Israel,United States,2,0,Friendly,Beer Sheva,Israel,False
+1973-11-15 00:00:00,Saint Lucia,Grenada,1,3,Windward Islands Tournament,Castries,Saint Lucia,False
+1973-11-16 00:00:00,Saint Lucia,Dominica,2,1,Windward Islands Tournament,Castries,Saint Lucia,False
+1973-11-18 00:00:00,Bulgaria,Cyprus,2,0,FIFA World Cup qualification,Sofia,Bulgaria,False
+1973-11-18 00:00:00,DR Congo,Zambia,2,1,FIFA World Cup qualification,Kinshasa,Za√Øre,False
+1973-11-18 00:00:00,Netherlands,Belgium,0,0,FIFA World Cup qualification,Amsterdam,Netherlands,False
+1973-11-18 00:00:00,Turkey,Switzerland,2,0,FIFA World Cup qualification,ƒ∞zmir,Turkey,False
+1973-11-19 00:00:00,Saint Vincent and the Grenadines,Dominica,2,2,Windward Islands Tournament,Kingstown,Saint Vincent and the Grenadines,False
+1973-11-21 00:00:00,France,Denmark,3,0,Friendly,Paris,France,False
+1973-11-21 00:00:00,Grenada,Dominica,1,1,Windward Islands Tournament,St. George's,Grenada,False
+1973-11-21 00:00:00,Hungary,German DR,0,1,Friendly,Budapest,Hungary,False
+1973-11-23 00:00:00,Saint Vincent and the Grenadines,Saint Lucia,2,0,Windward Islands Tournament,Kingstown,Saint Vincent and the Grenadines,False
+1973-11-24 00:00:00,Germany,Spain,2,1,Friendly,Stuttgart,Germany,False
+1973-11-25 00:00:00,Morocco,Zambia,2,0,FIFA World Cup qualification,T√©touan,Morocco,False
+1973-11-27 00:00:00,Austria,Sweden,1,2,FIFA World Cup qualification,Gelsenkirchen,Germany,True
+1973-11-27 00:00:00,Saint Lucia,Saint Vincent and the Grenadines,0,1,Windward Islands Tournament,Castries,Saint Lucia,False
+1973-11-29 00:00:00,Grenada,Saint Lucia,2,0,Windward Islands Tournament,St. George's,Grenada,False
+1973-11-29 00:00:00,Honduras,Trinidad and Tobago,2,1,CONCACAF Championship,Port-au-Prince,Haiti,True
+1973-11-30 00:00:00,Dominica,Saint Vincent and the Grenadines,0,0,Windward Islands Tournament,Roseau,Dominica,False
+1973-11-30 00:00:00,Guatemala,Mexico,0,0,CONCACAF Championship,Port-au-Prince,Haiti,True
+1973-12-01 00:00:00,Haiti,Cura√ßao,3,0,CONCACAF Championship,Port-au-Prince,Haiti,False
+1973-12-02 00:00:00,Panama,Nicaragua,2,0,Friendly,Panama City,Panama,False
+1973-12-03 00:00:00,Myanmar,Vietnam Republic,0,1,King's Cup,Bangkok,Thailand,True
+1973-12-03 00:00:00,Honduras,Mexico,1,1,CONCACAF Championship,Port-au-Prince,Haiti,True
+1973-12-04 00:00:00,Haiti,Trinidad and Tobago,2,1,CONCACAF Championship,Port-au-Prince,Haiti,False
+1973-12-05 00:00:00,Guatemala,Cura√ßao,2,2,CONCACAF Championship,Port-au-Prince,Haiti,True
+1973-12-07 00:00:00,Haiti,Honduras,1,0,CONCACAF Championship,Port-au-Prince,Haiti,False
+1973-12-08 00:00:00,Kenya,Uganda,2,2,Friendly,Nairobi,Kenya,False
+1973-12-08 00:00:00,Mexico,Cura√ßao,8,0,CONCACAF Championship,Port-au-Prince,Haiti,True
+1973-12-09 00:00:00,DR Congo,Morocco,3,0,FIFA World Cup qualification,Kinshasa,Za√Øre,False
+1973-12-10 00:00:00,Guatemala,Trinidad and Tobago,0,1,CONCACAF Championship,Port-au-Prince,Haiti,True
+1973-12-10 00:00:00,Uganda,Zambia,2,0,Friendly,Nairobi,Kenya,True
+1973-12-12 00:00:00,Honduras,Cura√ßao,2,2,CONCACAF Championship,Port-au-Prince,Haiti,True
+1973-12-12 00:00:00,Kenya,Zambia,3,1,Friendly,Nairobi,Kenya,False
+1973-12-13 00:00:00,Haiti,Guatemala,2,1,CONCACAF Championship,Port-au-Prince,Haiti,False
+1973-12-14 00:00:00,Mexico,Trinidad and Tobago,0,4,CONCACAF Championship,Port-au-Prince,Haiti,True
+1973-12-15 00:00:00,Guatemala,Honduras,1,1,CONCACAF Championship,Port-au-Prince,Haiti,True
+1973-12-15 00:00:00,Laos,Singapore,3,2,King's Cup,Bangkok,Thailand,True
+1973-12-15 00:00:00,Thailand,Myanmar,2,1,King's Cup,Bangkok,Thailand,False
+1973-12-16 00:00:00,Cambodia,South Korea,0,5,King's Cup,Bangkok,Thailand,True
+1973-12-17 00:00:00,Myanmar,Singapore,6,1,King's Cup,Bangkok,Thailand,True
+1973-12-17 00:00:00,Cura√ßao,Trinidad and Tobago,0,4,CONCACAF Championship,Port-au-Prince,Haiti,True
+1973-12-17 00:00:00,Thailand,Laos,5,0,King's Cup,Bangkok,Thailand,False
+1973-12-18 00:00:00,Haiti,Mexico,0,1,CONCACAF Championship,Port-au-Prince,Haiti,False
+1973-12-18 00:00:00,South Korea,Malaysia,0,0,King's Cup,Bangkok,Thailand,True
+1973-12-19 00:00:00,Myanmar,Laos,2,1,King's Cup,Bangkok,Thailand,True

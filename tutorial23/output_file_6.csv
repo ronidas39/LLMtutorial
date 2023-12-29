@@ -1,0 +1,1001 @@
+date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
+1965-08-28 00:00:00,Japan,Vietnam Republic,2,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1965-08-28 00:00:00,South Korea,Taiwan,1,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1965-08-29 00:00:00,Bolivia,Argentina,1,2,FIFA World Cup qualification,La Paz,Bolivia,False
+1965-08-29 00:00:00,Gabon,Nigeria,1,4,Friendly,Libreville,Gabon,False
+1965-08-31 00:00:00,Singapore,India,1,2,Friendly,Kallang,Singapore,False
+1965-09-04 00:00:00,Bulgaria,German DR,3,2,Friendly,Varna,Bulgaria,False
+1965-09-04 00:00:00,Russia,Yugoslavia,0,0,Friendly,Moscow,Soviet Union,False
+1965-09-05 00:00:00,DR Congo,Ivory Coast,4,2,African Cup of Nations qualification,Brazzaville,Congo,True
+1965-09-05 00:00:00,Hungary,Austria,3,0,FIFA World Cup qualification,Budapest,Hungary,False
+1965-09-07 00:00:00,Brazil,Uruguay,3,0,Friendly,Belo Horizonte,Brazil,False
+1965-09-11 00:00:00,New Caledonia,Tahiti,4,1,Friendly,Noum√©a,New Caledonia,False
+1965-09-12 00:00:00,Zambia,Kenya,3,3,Friendly,Ndola,Zambia,False
+1965-09-13 00:00:00,New Caledonia,Tahiti,2,1,Friendly,Noum√©a,New Caledonia,False
+1965-09-14 00:00:00,Zambia,Kenya,2,3,Friendly,Kitwe,Zambia,False
+1965-09-15 00:00:00,Norway,France,0,1,FIFA World Cup qualification,Oslo,Norway,False
+1965-09-18 00:00:00,Uganda,Zambia,2,2,Friendly,Kampala,Uganda,False
+1965-09-19 00:00:00,Czechoslovakia,Romania,3,1,FIFA World Cup qualification,Prague,Czechoslovakia,False
+1965-09-19 00:00:00,Luxembourg,Yugoslavia,2,5,FIFA World Cup qualification,Luxembourg,Luxembourg,False
+1965-09-19 00:00:00,Zambia,Kenya,3,2,Friendly,Lusaka,Zambia,False
+1965-09-21 00:00:00,DR Congo,Liberia,3,2,African Cup of Nations qualification,Brazzaville,Congo,True
+1965-09-25 00:00:00,Uganda,Zanzibar,4,1,Friendly,Kampala,Uganda,False
+1965-09-26 00:00:00,Bulgaria,Belgium,3,0,FIFA World Cup qualification,Sofia,Bulgaria,False
+1965-09-26 00:00:00,Kenya,Tanzania,0,2,Friendly,Kampala,Uganda,True
+1965-09-26 00:00:00,Norway,Denmark,2,2,Nordic Championship,Oslo,Norway,False
+1965-09-26 00:00:00,Sweden,Germany,1,2,FIFA World Cup qualification,Solna,Sweden,False
+1965-09-28 00:00:00,Uganda,Kenya,2,2,Friendly,Kampala,Uganda,False
+1965-09-29 00:00:00,Finland,Poland,2,0,FIFA World Cup qualification,Helsinki,Finland,False
+1965-09-29 00:00:00,Tanzania,Zanzibar,3,0,Friendly,Kampala,Uganda,True
+1965-10-01 00:00:00,Kenya,Zanzibar,5,1,Friendly,Kampala,Uganda,True
+1965-10-02 00:00:00,Northern Ireland,Scotland,3,2,British Championship,Belfast,Northern Ireland,False
+1965-10-02 00:00:00,Uganda,Tanzania,1,1,Friendly,Kampala,Uganda,False
+1965-10-02 00:00:00,Wales,England,0,0,British Championship,Cardiff,Wales,False
+1965-10-03 00:00:00,Greece,Russia,1,4,FIFA World Cup qualification,Piraeus,Greece,False
+1965-10-09 00:00:00,France,Yugoslavia,1,0,FIFA World Cup qualification,Paris,France,False
+1965-10-09 00:00:00,Germany,Austria,4,1,Friendly,Stuttgart,Germany,False
+1965-10-09 00:00:00,Hungary,German DR,3,2,FIFA World Cup qualification,Budapest,Hungary,False
+1965-10-09 00:00:00,Turkey,Czechoslovakia,0,6,FIFA World Cup qualification,Istanbul,Turkey,False
+1965-10-12 00:00:00,Chile,Ecuador,2,1,FIFA World Cup qualification,Lima,Peru,True
+1965-10-13 00:00:00,Scotland,Poland,1,2,FIFA World Cup qualification,Glasgow,Scotland,False
+1965-10-14 00:00:00,Ghana,Congo,5,0,Friendly,Accra,Ghana,False
+1965-10-17 00:00:00,Congo,Ghana,2,1,Friendly,Brazzaville,Congo,False
+1965-10-17 00:00:00,Denmark,Russia,1,3,FIFA World Cup qualification,Copenhagen,Denmark,False
+1965-10-17 00:00:00,Netherlands,Switzerland,0,0,FIFA World Cup qualification,Amsterdam,Netherlands,False
+1965-10-20 00:00:00,England,Austria,2,3,Friendly,London,England,False
+1965-10-21 00:00:00,Congo,Ghana,1,2,Friendly,Brazzaville,Congo,False
+1965-10-23 00:00:00,Kenya,Tanzania,4,2,Friendly,Nairobi,Kenya,False
+1965-10-23 00:00:00,Turkey,Romania,2,1,FIFA World Cup qualification,Ankara,Turkey,False
+1965-10-24 00:00:00,Poland,Finland,7,0,FIFA World Cup qualification,Szczecin,Poland,False
+1965-10-27 00:00:00,Belgium,Bulgaria,5,0,FIFA World Cup qualification,Brussels,Belgium,False
+1965-10-27 00:00:00,Denmark,Greece,1,1,FIFA World Cup qualification,Copenhagen,Denmark,False
+1965-10-27 00:00:00,Spain,Republic of Ireland,4,1,FIFA World Cup qualification,Seville,Spain,False
+1965-10-27 00:00:00,Wales,Russia,2,1,FIFA World Cup qualification,Cardiff,Wales,False
+1965-10-30 00:00:00,Nigeria,Ghana,0,4,Friendly,Lagos,Nigeria,False
+1965-10-31 00:00:00,Algeria,Morocco,0,0,Friendly,Algiers,Algeria,False
+1965-10-31 00:00:00,German DR,Austria,1,0,FIFA World Cup qualification,Leipzig,German DR,False
+1965-10-31 00:00:00,Portugal,Czechoslovakia,0,0,FIFA World Cup qualification,Porto,Portugal,False
+1965-10-31 00:00:00,Sweden,Norway,0,0,Nordic Championship,Solna,Sweden,False
+1965-11-01 00:00:00,Italy,Poland,6,1,FIFA World Cup qualification,Rome,Italy,False
+1965-11-06 00:00:00,France,Luxembourg,4,1,FIFA World Cup qualification,Marseille,France,False
+1965-11-07 00:00:00,Cyprus,Sweden,0,5,FIFA World Cup qualification,Famagusta,Cyprus,False
+1965-11-07 00:00:00,Ghana,Nigeria,3,0,Friendly,Accra,Ghana,False
+1965-11-07 00:00:00,Yugoslavia,Norway,1,1,FIFA World Cup qualification,Belgrade,Yugoslavia,False
+1965-11-09 00:00:00,Scotland,Italy,1,0,FIFA World Cup qualification,Glasgow,Scotland,False
+1965-11-10 00:00:00,England,Northern Ireland,2,1,British Championship,London,England,False
+1965-11-10 00:00:00,Republic of Ireland,Spain,0,1,FIFA World Cup qualification,Paris,France,True
+1965-11-10 00:00:00,Israel,Belgium,0,5,FIFA World Cup qualification,Ramat-Gan,Israel,False
+1965-11-12 00:00:00,DR Congo,Ghana,2,5,African Cup of Nations,Sousse,Tunisia,True
+1965-11-12 00:00:00,Tunisia,Ethiopia,4,0,African Cup of Nations,Tunis,Tunisia,False
+1965-11-13 00:00:00,Vietnam Republic,Thailand,4,0,Vietnam Independence Cup,Saigon,Vietnam Republic,False
+1965-11-14 00:00:00,DR Congo,Ivory Coast,0,3,African Cup of Nations,Sfax,Tunisia,True
+1965-11-14 00:00:00,Cyprus,Germany,0,6,FIFA World Cup qualification,Nicosia,Cyprus,False
+1965-11-14 00:00:00,Switzerland,Netherlands,2,1,FIFA World Cup qualification,Berne,Switzerland,False
+1965-11-14 00:00:00,Tunisia,Senegal,0,0,African Cup of Nations,Tunis,Tunisia,False
+1965-11-16 00:00:00,Vietnam Republic,Malaysia,2,2,Vietnam Independence Cup,Saigon,Vietnam Republic,False
+1965-11-19 00:00:00,Ethiopia,Senegal,1,5,African Cup of Nations,Tunis,Tunisia,True
+1965-11-19 00:00:00,Ghana,Ivory Coast,4,1,African Cup of Nations,Bizerte,Tunisia,True
+1965-11-21 00:00:00,Brazil,Russia,2,2,Friendly,Rio de Janeiro,Brazil,False
+1965-11-21 00:00:00,Brazil,Hungary,5,3,Friendly,S√£o Paulo,Brazil,False
+1965-11-21 00:00:00,Czechoslovakia,Turkey,3,1,FIFA World Cup qualification,Brno,Czechoslovakia,False
+1965-11-21 00:00:00,Dominica,Grenada,2,0,Windward Islands Tournament,Kingstown,Saint Vincent and the Grenadines,True
+1965-11-21 00:00:00,Israel,Bulgaria,1,2,FIFA World Cup qualification,Ramat-Gan,Israel,False
+1965-11-21 00:00:00,Ivory Coast,Senegal,1,0,African Cup of Nations,Tunis,Tunisia,True
+1965-11-21 00:00:00,North Korea,Australia,6,1,FIFA World Cup qualification,Phnom Penh,Cambodia,True
+1965-11-21 00:00:00,Romania,Portugal,2,0,FIFA World Cup qualification,Bucharest,Romania,False
+1965-11-21 00:00:00,Tunisia,Ghana,2,3,African Cup of Nations,Tunis,Tunisia,False
+1965-11-22 00:00:00,Saint Vincent and the Grenadines,Saint Lucia,1,2,Windward Islands Tournament,Kingstown,Saint Vincent and the Grenadines,False
+1965-11-23 00:00:00,Congo,Ivory Coast,0,1,Friendly,Brazzaville,Congo,False
+1965-11-23 00:00:00,Dominica,Saint Lucia,1,0,Windward Islands Tournament,Kingstown,Saint Vincent and the Grenadines,True
+1965-11-24 00:00:00,Albania,Northern Ireland,1,1,FIFA World Cup qualification,Tirana,Albania,False
+1965-11-24 00:00:00,Australia,North Korea,1,3,FIFA World Cup qualification,Phnom Penh,Cambodia,True
+1965-11-24 00:00:00,Scotland,Wales,4,1,British Championship,Glasgow,Scotland,False
+1965-11-25 00:00:00,Ivory Coast,Mali,1,3,Friendly,Brazzaville,Congo,True
+1965-11-26 00:00:00,Cambodia,Australia,0,0,Friendly,Phnom Penh,Cambodia,False
+1965-11-26 00:00:00,Saint Vincent and the Grenadines,Dominica,3,1,Windward Islands Tournament,Kingstown,Saint Vincent and the Grenadines,False
+1965-11-29 00:00:00,Hong Kong,Australia,1,0,Friendly,So Kon Po,Hong Kong,False
+1965-12-01 00:00:00,Argentina,Russia,1,1,Friendly,Buenos Aires,Argentina,False
+1965-12-01 00:00:00,Wales,Denmark,4,2,FIFA World Cup qualification,Wrexham,Wales,False
+1965-12-03 00:00:00,Australia,Taiwan,3,1,Friendly,So Kon Po,Hong Kong,True
+1965-12-04 00:00:00,Uruguay,Russia,1,3,Friendly,Montevideo,Uruguay,False
+1965-12-05 00:00:00,Hong Kong,Singapore,0,0,Friendly,So Kon Po,Hong Kong,False
+1965-12-07 00:00:00,Hong Kong,Singapore,1,2,Friendly,So Kon Po,Hong Kong,False
+1965-12-07 00:00:00,Italy,Scotland,3,0,FIFA World Cup qualification,Naples,Italy,False
+1965-12-07 00:00:00,Malaysia,Australia,0,1,Friendly,Ipoh,Malaysia,False
+1965-12-08 00:00:00,Malaysia,Australia,0,3,Friendly,Ipoh,Malaysia,False
+1965-12-08 00:00:00,Spain,England,0,2,Friendly,Madrid,Spain,False
+1965-12-11 00:00:00,Kenya,Ghana,2,13,Friendly,Nairobi,Kenya,False
+1965-12-11 00:00:00,Nigeria,Benin,0,1,Friendly,Lagos,Nigeria,False
+1965-12-13 00:00:00,Kenya,Ghana,3,3,Friendly,Nairobi,Kenya,False
+1965-12-28 00:00:00,Bermuda,Jamaica,0,3,Friendly,Hamilton,Bermuda,False
+1965-12-29 00:00:00,Belgium,Bulgaria,1,2,FIFA World Cup qualification,Florence,Italy,True
+1966-01-05 00:00:00,England,Poland,1,1,Friendly,Liverpool,England,False
+1966-02-08 00:00:00,Panama,Nicaragua,3,1,Friendly,Panama City,Panama,False
+1966-02-13 00:00:00,Malta,Libya,1,0,Friendly,G≈ºira,Malta,False
+1966-02-23 00:00:00,Chile,Russia,0,2,Friendly,Santiago,Chile,False
+1966-02-23 00:00:00,England,Germany,1,0,Friendly,London,England,False
+1966-02-25 00:00:00,Egypt,Bulgaria,2,2,Friendly,Cairo,Egypt,False
+1966-02-27 00:00:00,Benin,Nigeria,1,2,Friendly,Cotonou,Dahomey,False
+1966-02-27 00:00:00,Niger,DR Congo,2,1,Friendly,Niamey,Niger,False
+1966-02-28 00:00:00,Panama,Guatemala,0,1,Friendly,Panama City,Panama,False
+1966-03-05 00:00:00,Uganda,Kenya,2,3,Friendly,Kampala,Uganda,False
+1966-03-06 00:00:00,Guinea,Senegal,5,0,Friendly,Conakry,Guinea,False
+1966-03-06 00:00:00,Morocco,Algeria,1,0,Friendly,Casablanca,Morocco,False
+1966-03-06 00:00:00,Togo,Nigeria,2,2,Friendly,Lom√©,Togo,False
+1966-03-11 00:00:00,Libya,Morocco,4,0,Friendly,Tripoli,Libya,False
+1966-03-14 00:00:00,Libya,Iraq,0,2,Friendly,Tripoli,Libya,False
+1966-03-16 00:00:00,Iran,Turkey,0,0,Friendly,Tehran,Iran,False
+1966-03-18 00:00:00,Iraq,Morocco,0,1,Friendly,Tripoli,Libya,True
+1966-03-19 00:00:00,France,Italy,0,0,Friendly,Paris,France,False
+1966-03-19 00:00:00,Iraq,Morocco,1,2,Friendly,Tripoli,Libya,True
+1966-03-23 00:00:00,Netherlands,Germany,2,4,Friendly,Rotterdam,Netherlands,False
+1966-03-25 00:00:00,Panama,El Salvador,1,0,Friendly,Panama City,Panama,False
+1966-03-27 00:00:00,Libya,Malta,0,1,Friendly,Tripoli,Libya,False
+1966-03-30 00:00:00,Wales,Northern Ireland,1,4,British Championship,Cardiff,Wales,False
+1966-04-01 00:00:00,Montenegro,Russia,0,1,Friendly,Titograd,Yugoslavia,False
+1966-04-01 00:00:00,Libya,Palestine,0,0,Arab Cup,Baghdad,Iraq,True
+1966-04-01 00:00:00,Iraq,Kuwait,3,1,Arab Cup,Baghdad,Iraq,False
+1966-04-02 00:00:00,Scotland,England,3,4,British Championship,Glasgow,Scotland,False
+1966-04-02 00:00:00,Syria,Yemen,4,1,Arab Cup,Baghdad,Iraq,True
+1966-04-02 00:00:00,Iraq,Jordan,2,1,Arab Cup,Baghdad,Iraq,False
+1966-04-02 00:00:00,Lebanon,Bahrain,6,1,Arab Cup,Baghdad,Iraq,True
+1966-04-03 00:00:00,Libya,Oman,21,0,Arab Cup,Baghdad,Iraq,True
+1966-04-03 00:00:00,Kenya,Uganda,3,3,Friendly,Nairobi,Kenya,False
+1966-04-03 00:00:00,Kuwait,Lebanon,1,2,Arab Cup,Baghdad,Iraq,True
+1966-04-04 00:00:00,Libya,Syria,0,0,Arab Cup,Baghdad,Iraq,True
+1966-04-04 00:00:00,Palestine,Yemen,7,0,Arab Cup,Baghdad,Iraq,True
+1966-04-05 00:00:00,Jordan,Lebanon,1,2,Arab Cup,Baghdad,Iraq,True
+1966-04-05 00:00:00,Iraq,Bahrain,10,1,Arab Cup,Baghdad,Iraq,False
+1966-04-06 00:00:00,Bahrain,Kuwait,4,4,Arab Cup,Habbaniyah,Iraq,True
+1966-04-06 00:00:00,Israel,Finland,7,1,Friendly,Jaffa,Israel,False
+1966-04-06 00:00:00,Libya,Yemen,13,0,Arab Cup,Kut,Iraq,True
+1966-04-06 00:00:00,Palestine,Syria,1,3,Arab Cup,Baghdad,Iraq,True
+1966-04-07 00:00:00,Iraq,Lebanon,0,0,Arab Cup,Baghdad,Iraq,False
+1966-04-07 00:00:00,Bahrain,Jordan,1,5,Arab Cup,Baghdad,Iraq,True
+1966-04-08 00:00:00,Jordan,Kuwait,0,4,Arab Cup,Baghdad,Iraq,True
+1966-04-09 00:00:00,Iraq,Libya,3,1,Arab Cup,Baghdad,Iraq,False
+1966-04-09 00:00:00,Lebanon,Syria,0,1,Arab Cup,Baghdad,Iraq,True
+1966-04-09 00:00:00,Nigeria,Togo,1,1,Friendly,Lagos,Nigeria,False
+1966-04-10 00:00:00,Benin,Ghana,2,5,Friendly,Cotonou,Dahomey,False
+1966-04-10 00:00:00,Iraq,Syria,2,1,Arab Cup,Baghdad,Iraq,False
+1966-04-10 00:00:00,Libya,Lebanon,6,1,Arab Cup,Baghdad,Iraq,True
+1966-04-17 00:00:00,Chile,Brazil,0,1,Copa Bernardo O'Higgins,Santiago,Chile,False
+1966-04-17 00:00:00,Netherlands,Belgium,3,1,Friendly,Rotterdam,Netherlands,False
+1966-04-20 00:00:00,Chile,Brazil,2,1,Copa Bernardo O'Higgins,Vi√±a del Mar,Chile,False
+1966-04-20 00:00:00,France,Belgium,0,3,Friendly,Paris,France,False
+1966-04-20 00:00:00,Switzerland,Russia,2,2,Friendly,Basel,Switzerland,False
+1966-04-24 00:00:00,Austria,Russia,0,1,Friendly,Vienna,Austria,False
+1966-04-24 00:00:00,Mexico,Paraguay,7,0,Friendly,Mexico City,Mexico,False
+1966-04-26 00:00:00,Togo,Benin,1,0,Friendly,Lom√©,Togo,False
+1966-04-27 00:00:00,German DR,Sweden,4,1,Friendly,Leipzig,German DR,False
+1966-05-03 00:00:00,Poland,Hungary,1,1,Friendly,Chorz√≥w,Poland,False
+1966-05-04 00:00:00,England,Yugoslavia,2,0,Friendly,London,England,False
+1966-05-04 00:00:00,Republic of Ireland,Germany,0,4,Friendly,Dublin,Republic of Ireland,False
+1966-05-07 00:00:00,Northern Ireland,Germany,0,2,Friendly,Belfast,Northern Ireland,False
+1966-05-08 00:00:00,Finland,Israel,0,3,Friendly,Helsinki,Finland,False
+1966-05-08 00:00:00,Yugoslavia,Hungary,2,0,Friendly,Zagreb,Yugoslavia,False
+1966-05-11 00:00:00,Mexico,Chile,1,0,Friendly,Mexico City,Mexico,False
+1966-05-11 00:00:00,Scotland,Netherlands,0,3,Friendly,Glasgow,Scotland,False
+1966-05-14 00:00:00,Brazil,Wales,3,1,Friendly,Rio de Janeiro,Brazil,False
+1966-05-15 00:00:00,Brazil,Chile,1,1,Friendly,S√£o Paulo,Brazil,False
+1966-05-15 00:00:00,Paraguay,Uruguay,2,2,Copa Artigas,Asunci√≥n,Paraguay,False
+1966-05-18 00:00:00,Brazil,Wales,1,0,Friendly,Belo Horizonte,Brazil,False
+1966-05-18 00:00:00,Czechoslovakia,Russia,1,2,Friendly,Prague,Czechoslovakia,False
+1966-05-18 00:00:00,Poland,Sweden,1,1,Friendly,Wroc≈Çaw,Poland,False
+1966-05-18 00:00:00,Uruguay,Paraguay,3,1,Copa Artigas,Montevideo,Uruguay,False
+1966-05-19 00:00:00,Brazil,Chile,1,0,Friendly,Rio de Janeiro,Brazil,False
+1966-05-22 00:00:00,Austria,Republic of Ireland,1,0,Friendly,Vienna,Austria,False
+1966-05-22 00:00:00,Belgium,Russia,0,1,Friendly,Brussels,Belgium,False
+1966-05-22 00:00:00,Chile,Wales,2,0,Friendly,Santiago,Chile,False
+1966-05-25 00:00:00,Belgium,Republic of Ireland,2,3,Friendly,Li√®ge,Belgium,False
+1966-05-25 00:00:00,Lithuania,Libya,6,0,Friendly,Vilnius,Lithuania,False
+1966-05-29 00:00:00,Benin,Togo,2,2,Friendly,Cotonou,Dahomey,False
+1966-05-29 00:00:00,Chile,Mexico,0,1,Friendly,Santiago,Chile,False
+1966-05-30 00:00:00,Denmark,Turkey,0,0,Friendly,Copenhagen,Denmark,False
+1966-06-01 00:00:00,Germany,Romania,1,0,Friendly,Ludwigshafen,Germany,False
+1966-06-01 00:00:00,Yugoslavia,Bulgaria,0,2,Friendly,Belgrade,Yugoslavia,False
+1966-06-04 00:00:00,Brazil,Peru,4,0,Friendly,S√£o Paulo,Brazil,False
+1966-06-04 00:00:00,Finland,Sweden,1,0,Nordic Championship,Helsinki,Finland,False
+1966-06-05 00:00:00,Brazil,Poland,4,1,Friendly,Belo Horizonte,Brazil,False
+1966-06-05 00:00:00,Hungary,Switzerland,3,1,Friendly,Budapest,Hungary,False
+1966-06-05 00:00:00,Russia,France,3,3,Friendly,Moscow,Soviet Union,False
+1966-06-08 00:00:00,Brazil,Poland,2,1,Friendly,Rio de Janeiro,Brazil,False
+1966-06-08 00:00:00,Brazil,Peru,3,1,Friendly,Rio de Janeiro,Brazil,False
+1966-06-10 00:00:00,Cura√ßao,Jamaica,0,0,Friendly,Port-au-Prince,Haiti,True
+1966-06-10 00:00:00,Trinidad and Tobago,Suriname,3,2,Friendly,Port-au-Prince,Haiti,True
+1966-06-11 00:00:00,Argentina,Poland,1,1,Friendly,Buenos Aires,Argentina,False
+1966-06-11 00:00:00,Haiti,Guadeloupe,3,0,Friendly,Port-au-Prince,Haiti,False
+1966-06-12 00:00:00,Brazil,Czechoslovakia,2,1,Friendly,Rio de Janeiro,Brazil,False
+1966-06-12 00:00:00,Portugal,Norway,4,0,Friendly,Oeiras,Portugal,False
+1966-06-12 00:00:00,Trinidad and Tobago,Cura√ßao,1,0,Friendly,Port-au-Prince,Haiti,True
+1966-06-13 00:00:00,Haiti,Suriname,1,4,Friendly,Port-au-Prince,Haiti,False
+1966-06-13 00:00:00,Jamaica,Guadeloupe,0,0,Friendly,Port-au-Prince,Haiti,True
+1966-06-14 00:00:00,Italy,Bulgaria,6,1,Friendly,Bologna,Italy,False
+1966-06-15 00:00:00,Brazil,Czechoslovakia,2,2,Friendly,Rio de Janeiro,Brazil,False
+1966-06-15 00:00:00,Guadeloupe,Suriname,0,4,Friendly,Port-au-Prince,Haiti,True
+1966-06-15 00:00:00,Israel,Uruguay,1,2,Friendly,Ramat-Gan,Israel,False
+1966-06-15 00:00:00,Trinidad and Tobago,Jamaica,4,1,Friendly,Port-au-Prince,Haiti,True
+1966-06-16 00:00:00,Haiti,Cura√ßao,3,0,Friendly,Port-au-Prince,Haiti,False
+1966-06-17 00:00:00,Jamaica,Suriname,3,5,Friendly,Port-au-Prince,Haiti,True
+1966-06-18 00:00:00,Guadeloupe,Cura√ßao,0,4,Friendly,Port-au-Prince,Haiti,True
+1966-06-18 00:00:00,Haiti,Trinidad and Tobago,1,0,Friendly,Port-au-Prince,Haiti,False
+1966-06-18 00:00:00,Italy,Austria,1,0,Friendly,Milan,Italy,False
+1966-06-18 00:00:00,Scotland,Portugal,0,1,Friendly,Glasgow,Scotland,False
+1966-06-19 00:00:00,Romania,Uruguay,1,0,Friendly,Bucharest,Romania,False
+1966-06-19 00:00:00,Switzerland,Mexico,1,1,Friendly,Lausanne,Switzerland,False
+1966-06-20 00:00:00,Cura√ßao,Suriname,1,1,Friendly,Port-au-Prince,Haiti,True
+1966-06-20 00:00:00,Trinidad and Tobago,Guadeloupe,1,2,Friendly,Port-au-Prince,Haiti,True
+1966-06-21 00:00:00,Denmark,Portugal,1,3,Friendly,Esbjerg,Denmark,False
+1966-06-22 00:00:00,Haiti,Jamaica,3,0,Friendly,Port-au-Prince,Haiti,False
+1966-06-22 00:00:00,Italy,Argentina,3,0,Friendly,Turin,Italy,False
+1966-06-22 00:00:00,Northern Ireland,Mexico,4,1,Friendly,Belfast,Northern Ireland,False
+1966-06-23 00:00:00,Germany,Yugoslavia,2,0,Friendly,Hanover,Germany,False
+1966-06-23 00:00:00,Spain,Uruguay,1,1,Friendly,La Coru√±a,Spain,False
+1966-06-25 00:00:00,Scotland,Brazil,1,1,Friendly,Glasgow,Scotland,False
+1966-06-26 00:00:00,Denmark,Norway,0,1,Nordic Championship,Copenhagen,Denmark,False
+1966-06-26 00:00:00,Finland,England,0,3,Friendly,Helsinki,Finland,False
+1966-06-26 00:00:00,Portugal,Uruguay,3,0,Friendly,Oeiras,Portugal,False
+1966-06-27 00:00:00,Sweden,Yugoslavia,1,1,Friendly,Malm√∂,Sweden,False
+1966-06-28 00:00:00,China PR,Tanzania,10,4,Friendly,Beijing,China PR,False
+1966-06-29 00:00:00,Italy,Mexico,5,0,Friendly,Florence,Italy,False
+1966-06-29 00:00:00,Norway,England,1,6,Friendly,Oslo,Norway,False
+1966-06-30 00:00:00,DR Congo,Ghana,0,3,Friendly,Brazzaville,Congo,True
+1966-06-30 00:00:00,Sweden,Brazil,2,3,Friendly,Gothenburg,Sweden,False
+1966-07-01 00:00:00,Zambia,Malawi,4,1,Friendly,Ndola,Zambia,False
+1966-07-02 00:00:00,German DR,Chile,5,2,Friendly,Leipzig,German DR,False
+1966-07-03 00:00:00,Denmark,England,0,2,Friendly,Copenhagen,Denmark,False
+1966-07-03 00:00:00,Portugal,Romania,1,0,Friendly,Porto,Portugal,False
+1966-07-04 00:00:00,Malawi,Zambia,0,3,Friendly,Blantyre,Malawi,False
+1966-07-05 00:00:00,Madagascar,Zambia,0,3,Friendly,Blantyre,Malawi,True
+1966-07-05 00:00:00,Poland,England,0,1,Friendly,Chorz√≥w,Poland,False
+1966-07-06 00:00:00,Malawi,Zambia,0,6,Friendly,Blantyre,Malawi,False
+1966-07-07 00:00:00,Ethiopia,Uganda,5,0,Friendly,Addis Ababa,Ethiopia,False
+1966-07-08 00:00:00,Malawi,Zambia,1,5,Friendly,Blantyre,Malawi,False
+1966-07-09 00:00:00,Malawi,Madagascar,1,6,Friendly,Lilongwe,Malawi,False
+1966-07-10 00:00:00,Ethiopia,Sudan,1,1,Friendly,Addis Ababa,Ethiopia,False
+1966-07-11 00:00:00,England,Uruguay,0,0,FIFA World Cup,London,England,False
+1966-07-12 00:00:00,Brazil,Bulgaria,2,0,FIFA World Cup,Liverpool,England,True
+1966-07-12 00:00:00,Germany,Switzerland,5,0,FIFA World Cup,Sheffield,England,True
+1966-07-12 00:00:00,North Korea,Russia,0,3,FIFA World Cup,Middlesbrough,England,True
+1966-07-13 00:00:00,Argentina,Spain,2,1,FIFA World Cup,Birmingham,England,True
+1966-07-13 00:00:00,Chile,Italy,0,2,FIFA World Cup,Sunderland,England,True
+1966-07-13 00:00:00,France,Mexico,1,1,FIFA World Cup,London,England,True
+1966-07-13 00:00:00,Hungary,Portugal,1,3,FIFA World Cup,Manchester,England,True
+1966-07-15 00:00:00,Brazil,Hungary,1,3,FIFA World Cup,Liverpool,England,True
+1966-07-15 00:00:00,Chile,North Korea,1,1,FIFA World Cup,Middlesbrough,England,True
+1966-07-15 00:00:00,France,Uruguay,1,2,FIFA World Cup,London,England,True
+1966-07-15 00:00:00,Spain,Switzerland,2,1,FIFA World Cup,Sheffield,England,True
+1966-07-16 00:00:00,Argentina,Germany,0,0,FIFA World Cup,Birmingham,England,True
+1966-07-16 00:00:00,Bulgaria,Portugal,0,3,FIFA World Cup,Manchester,England,True
+1966-07-16 00:00:00,England,Mexico,2,0,FIFA World Cup,London,England,False
+1966-07-16 00:00:00,Italy,Russia,0,1,FIFA World Cup,Sunderland,England,True
+1966-07-18 00:00:00,Sudan,Uganda,2,1,Friendly,Addis Ababa,Ethiopia,True
+1966-07-19 00:00:00,Argentina,Switzerland,2,0,FIFA World Cup,Sheffield,England,True
+1966-07-19 00:00:00,Brazil,Portugal,1,3,FIFA World Cup,Liverpool,England,True
+1966-07-19 00:00:00,Italy,North Korea,0,1,FIFA World Cup,Middlesbrough,England,True
+1966-07-19 00:00:00,Mexico,Uruguay,0,0,FIFA World Cup,London,England,True
+1966-07-20 00:00:00,Bulgaria,Hungary,1,3,FIFA World Cup,Manchester,England,True
+1966-07-20 00:00:00,Chile,Russia,1,2,FIFA World Cup,Sunderland,England,True
+1966-07-20 00:00:00,England,France,2,0,FIFA World Cup,London,England,False
+1966-07-20 00:00:00,Germany,Spain,2,1,FIFA World Cup,Birmingham,England,True
+1966-07-23 00:00:00,China PR,Syria,6,0,Friendly,Beijing,China PR,False
+1966-07-23 00:00:00,England,Argentina,1,0,FIFA World Cup,London,England,False
+1966-07-23 00:00:00,Germany,Uruguay,4,0,FIFA World Cup,Sheffield,England,True
+1966-07-23 00:00:00,Hungary,Russia,1,2,FIFA World Cup,Sunderland,England,True
+1966-07-23 00:00:00,North Korea,Portugal,3,5,FIFA World Cup,Liverpool,England,True
+1966-07-25 00:00:00,Germany,Russia,2,1,FIFA World Cup,Liverpool,England,True
+1966-07-26 00:00:00,England,Portugal,2,1,FIFA World Cup,London,England,False
+1966-07-28 00:00:00,Portugal,Russia,2,1,FIFA World Cup,London,England,True
+1966-07-30 00:00:00,England,Germany,4,2,FIFA World Cup,London,England,False
+1966-07-31 00:00:00,Cameroon,Congo,2,3,Friendly,Yaound√©,Cameroon,False
+1966-08-07 00:00:00,DR Congo,Central African Republic,5,0,Friendly,Kinshasa,DR Congo,False
+1966-08-13 00:00:00,Myanmar,Singapore,2,2,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1966-08-13 00:00:00,Malaysia,Vietnam Republic,5,2,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1966-08-14 00:00:00,Hong Kong,India,0,2,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1966-08-14 00:00:00,South Korea,Japan,2,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1966-08-14 00:00:00,Norway,Finland,1,1,Nordic Championship,Stavanger,Norway,False
+1966-08-15 00:00:00,Taiwan,Thailand,2,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1966-08-16 00:00:00,Togo,Ivory Coast,1,2,Friendly,Lom√©,Togo,False
+1966-08-17 00:00:00,Myanmar,Thailand,3,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1966-08-17 00:00:00,Taiwan,Vietnam Republic,0,3,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1966-08-17 00:00:00,India,Japan,3,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1966-08-18 00:00:00,Togo,Ghana,1,1,Friendly,Lom√©,Togo,False
+1966-08-19 00:00:00,Hong Kong,South Korea,0,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1966-08-19 00:00:00,Malaysia,Thailand,0,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1966-08-20 00:00:00,Singapore,Taiwan,4,1,Merdeka Tournament,Ipoh,Malaysia,True
+1966-08-20 00:00:00,Japan,Taiwan,5,2,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1966-08-20 00:00:00,Singapore,Vietnam Republic,1,2,Merdeka Tournament,Ipoh,Malaysia,True
+1966-08-21 00:00:00,Ghana,Togo,6,2,Friendly,Accra,Ghana,False
+1966-08-21 00:00:00,South Korea,Thailand,2,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1966-08-21 00:00:00,Hong Kong,Myanmar,0,2,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1966-08-22 00:00:00,India,Singapore,0,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1966-08-22 00:00:00,Japan,Vietnam Republic,0,2,Merdeka Tournament,Ipoh,Malaysia,True
+1966-08-23 00:00:00,Myanmar,South Korea,2,0,Merdeka Tournament,Ipoh,Malaysia,True
+1966-08-23 00:00:00,Hong Kong,Thailand,2,2,Merdeka Tournament,Ipoh,Malaysia,True
+1966-08-23 00:00:00,India,Taiwan,1,0,Merdeka Tournament,Ipoh,Malaysia,True
+1966-08-23 00:00:00,Malaysia,Myanmar,0,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1966-08-25 00:00:00,Malaysia,Hong Kong,1,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1966-08-25 00:00:00,Singapore,Japan,0,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1966-08-26 00:00:00,India,Vietnam Republic,1,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1966-08-27 00:00:00,Malaysia,South Korea,1,2,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1966-08-28 00:00:00,Myanmar,Vietnam Republic,0,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1966-08-28 00:00:00,China PR,Mali,4,0,Friendly,Beijing,China PR,False
+1966-08-28 00:00:00,Guinea,Cameroon,2,2,Friendly,Conakry,Guinea,False
+1966-08-28 00:00:00,India,South Korea,1,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1966-08-29 00:00:00,Singapore,Vietnam Republic,2,2,Friendly,Kallang,Singapore,False
+1966-08-30 00:00:00,Guinea,Mali,5,0,Friendly,Conakry,Guinea,False
+1966-08-31 00:00:00,Singapore,South Korea,1,3,Friendly,Kallang,Singapore,False
+1966-09-04 00:00:00,German DR,Egypt,6,0,Friendly,Karl-Marx-Stadt,German DR,False
+1966-09-06 00:00:00,Zambia,Kenya,0,1,Friendly,Ndola,Zambia,False
+1966-09-07 00:00:00,Netherlands,Hungary,2,2,UEFA Euro qualification,Rotterdam,Netherlands,False
+1966-09-09 00:00:00,Zambia,Kenya,2,1,Friendly,Lusaka,Zambia,False
+1966-09-11 00:00:00,German DR,Poland,2,0,Friendly,Erfurt,German DR,False
+1966-09-13 00:00:00,Zambia,Kenya,5,4,Friendly,Ndola,Zambia,False
+1966-09-18 00:00:00,Austria,Netherlands,2,1,Friendly,Vienna,Austria,False
+1966-09-18 00:00:00,Finland,Denmark,2,1,Nordic Championship,Helsinki,Finland,False
+1966-09-18 00:00:00,Norway,Sweden,2,4,Nordic Championship,Oslo,Norway,False
+1966-09-18 00:00:00,Yugoslavia,Russia,1,2,Friendly,Belgrade,Yugoslavia,False
+1966-09-21 00:00:00,German DR,Romania,2,0,Friendly,Gera,German DR,False
+1966-09-21 00:00:00,Hungary,Denmark,6,0,UEFA Euro qualification,Budapest,Hungary,False
+1966-09-24 00:00:00,Zanzibar,Kenya,1,3,Friendly,Zanzibar,Tanzania,False
+1966-09-25 00:00:00,Tanzania,Uganda,0,3,Friendly,Zanzibar,Zanzibar,True
+1966-09-27 00:00:00,Kenya,Uganda,0,0,Friendly,Zanzibar,Tanzania,True
+1966-09-28 00:00:00,Hungary,France,4,2,Friendly,Budapest,Hungary,False
+1966-09-28 00:00:00,Zanzibar,Tanzania,0,4,Friendly,Zanzibar,Zanzibar,False
+1966-09-30 00:00:00,Tanzania,Kenya,2,3,Friendly,Zanzibar,Tanzania,False
+1966-10-01 00:00:00,Zanzibar,Uganda,0,0,Friendly,Zanzibar,Zanzibar,False
+1966-10-02 00:00:00,Finland,Austria,0,0,UEFA Euro qualification,Helsinki,Finland,False
+1966-10-02 00:00:00,Poland,Luxembourg,4,0,UEFA Euro qualification,Szczecin,Poland,False
+1966-10-05 00:00:00,Sweden,Austria,4,1,Friendly,Solna,Sweden,False
+1966-10-12 00:00:00,Israel,Yugoslavia,1,3,Friendly,Jaffa,Israel,False
+1966-10-12 00:00:00,Turkey,Germany,0,2,Friendly,Ankara,Turkey,False
+1966-10-15 00:00:00,French Guiana,Suriname,3,3,Friendly,Cayenne,French Guiana,False
+1966-10-16 00:00:00,French Guiana,Suriname,0,3,Friendly,Cayenne,French Guiana,False
+1966-10-16 00:00:00,Greece,Finland,2,1,UEFA Euro qualification,Salonica,Greece,False
+1966-10-16 00:00:00,Russia,Turkey,0,2,Friendly,Moscow,Soviet Union,False
+1966-10-19 00:00:00,Yugoslavia,Czechoslovakia,1,0,Friendly,Belgrade,Yugoslavia,False
+1966-10-22 00:00:00,Belgium,Switzerland,1,0,Friendly,Bruges,Belgium,False
+1966-10-22 00:00:00,France,Poland,2,1,UEFA Euro qualification,Paris,France,False
+1966-10-22 00:00:00,Northern Ireland,England,0,2,UEFA Euro qualification,Belfast,Northern Ireland,False
+1966-10-22 00:00:00,Wales,Scotland,1,1,UEFA Euro qualification,Cardiff,Wales,False
+1966-10-23 00:00:00,Republic of Ireland,Spain,0,0,UEFA Euro qualification,Dublin,Republic of Ireland,False
+1966-10-23 00:00:00,Russia,German DR,2,2,Friendly,Moscow,Soviet Union,False
+1966-10-26 00:00:00,Denmark,Israel,3,1,Friendly,Copenhagen,Denmark,False
+1966-10-30 00:00:00,Hungary,Austria,3,1,Friendly,Budapest,Hungary,False
+1966-10-31 00:00:00,Cameroon,Togo,2,0,Friendly,Yaound√©,Cameroon,False
+1966-11-01 00:00:00,Italy,Russia,1,0,Friendly,Milan,Italy,False
+1966-11-01 00:00:00,Ivory Coast,Ghana,1,1,Friendly,Abidjan,Ivory Coast,False
+1966-11-01 00:00:00,Vietnam Republic,Malaysia,3,2,Vietnam Independence Cup,Saigon,Vietnam Republic,False
+1966-11-02 00:00:00,England,Czechoslovakia,0,0,Friendly,London,England,False
+1966-11-02 00:00:00,Romania,Switzerland,4,2,UEFA Euro qualification,Bucharest,Romania,False
+1966-11-03 00:00:00,Malaysia,Thailand,1,1,Vietnam Independence Cup,Saigon,Vietnam Republic,True
+1966-11-05 00:00:00,Dominica,Saint Vincent and the Grenadines,0,1,Windward Islands Tournament,St. George's,Grenada,True
+1966-11-05 00:00:00,Nigeria,DR Congo,3,2,Friendly,Lagos,Nigeria,False
+1966-11-05 00:00:00,Vietnam Republic,Thailand,4,1,Vietnam Independence Cup,Saigon,Vietnam Republic,False
+1966-11-06 00:00:00,Bulgaria,Yugoslavia,6,1,Friendly,Sofia,Bulgaria,False
+1966-11-06 00:00:00,Grenada,Saint Lucia,7,1,Windward Islands Tournament,St. George's,Grenada,False
+1966-11-06 00:00:00,Netherlands,Czechoslovakia,1,2,Friendly,Amsterdam,Netherlands,False
+1966-11-06 00:00:00,Sweden,Denmark,2,1,Nordic Championship,Solna,Sweden,False
+1966-11-08 00:00:00,Grenada,Dominica,3,3,Windward Islands Tournament,St. George's,Grenada,False
+1966-11-09 00:00:00,Saint Lucia,Saint Vincent and the Grenadines,1,2,Windward Islands Tournament,St. George's,Grenada,True
+1966-11-10 00:00:00,Dominica,Saint Lucia,5,3,Windward Islands Tournament,St. George's,Grenada,True
+1966-11-11 00:00:00,Belgium,France,2,1,UEFA Euro qualification,Brussels,Belgium,False
+1966-11-12 00:00:00,Grenada,Saint Vincent and the Grenadines,1,3,Windward Islands Tournament,St. George's,Grenada,False
+1966-11-12 00:00:00,Sierra Leone,Liberia,1,1,Friendly,Freetown,Sierra Leone,False
+1966-11-13 00:00:00,Bulgaria,Norway,4,2,UEFA Euro qualification,Sofia,Bulgaria,False
+1966-11-13 00:00:00,Portugal,Sweden,1,2,UEFA Euro qualification,Oeiras,Portugal,False
+1966-11-16 00:00:00,England,Wales,5,1,UEFA Euro qualification,London,England,False
+1966-11-16 00:00:00,Republic of Ireland,Turkey,2,1,UEFA Euro qualification,Dublin,Republic of Ireland,False
+1966-11-16 00:00:00,Scotland,Northern Ireland,2,1,UEFA Euro qualification,Glasgow,Scotland,False
+1966-11-17 00:00:00,Romania,Poland,4,3,Friendly,Ploie»ôti,Romania,False
+1966-11-19 00:00:00,Germany,Norway,3,0,Friendly,Cologne,Germany,False
+1966-11-19 00:00:00,Liberia,Sierra Leone,2,0,Friendly,Monrovia,Liberia,False
+1966-11-20 00:00:00,Mali,Guinea,1,0,Friendly,Bamako,Mali,False
+1966-11-24 00:00:00,Algeria,Morocco,2,2,Friendly,Algiers,Algeria,False
+1966-11-25 00:00:00,DR Congo,Nigeria,1,0,Friendly,Kinshasa,DR Congo,False
+1966-11-25 00:00:00,Palestine,Yemen,5,3,GaNEFo,Phnom Penh,Cambodia,True
+1966-11-26 00:00:00,Cambodia,North Korea,0,2,GaNEFo,Phnom Penh,Cambodia,False
+1966-11-26 00:00:00,China PR,Palestine,7,0,GaNEFo,Phnom Penh,Cambodia,True
+1966-11-26 00:00:00,Italy,Romania,3,1,UEFA Euro qualification,Naples,Italy,False
+1966-11-26 00:00:00,Luxembourg,France,0,3,UEFA Euro qualification,Luxembourg,Luxembourg,False
+1966-11-26 00:00:00,North Vietnam,Yemen,9,0,GaNEFo,Phnom Penh,Cambodia,True
+1966-11-27 00:00:00,Cambodia,China PR,0,4,GaNEFo,Phnom Penh,Cambodia,False
+1966-11-27 00:00:00,Palestine,North Vietnam,0,4,GaNEFo,Phnom Penh,Cambodia,True
+1966-11-29 00:00:00,Cambodia,Yemen,8,0,GaNEFo,Phnom Penh,Cambodia,False
+1966-11-29 00:00:00,Palestine,North Korea,1,5,GaNEFo,Phnom Penh,Cambodia,True
+1966-11-30 00:00:00,Cambodia,North Vietnam,2,2,GaNEFo,Phnom Penh,Cambodia,False
+1966-11-30 00:00:00,Chile,Colombia,5,2,Copa Am√©rica,Santiago,Chile,False
+1966-11-30 00:00:00,China PR,North Vietnam,2,0,GaNEFo,Phnom Penh,Cambodia,True
+1966-11-30 00:00:00,North Korea,Yemen,14,0,GaNEFo,Phnom Penh,Cambodia,True
+1966-11-30 00:00:00,Netherlands,Denmark,2,0,UEFA Euro qualification,Rotterdam,Netherlands,False
+1966-11-30 00:00:00,Uganda,Kenya,1,2,Friendly,Kampala,Uganda,False
+1966-12-02 00:00:00,DR Congo,Gabon,4,3,Friendly,Bangui,Central African Republic,True
+1966-12-03 00:00:00,Central African Republic,DR Congo,1,4,Friendly,Bangui,Central African Republic,False
+1966-12-03 00:00:00,China PR,North Korea,1,2,GaNEFo,Phnom Penh,Cambodia,True
+1966-12-03 00:00:00,Cyprus,Romania,1,5,UEFA Euro qualification,Nicosia,Cyprus,False
+1966-12-03 00:00:00,Israel,Poland,0,0,Friendly,Jaffa,Israel,False
+1966-12-06 00:00:00,China PR,Yemen,6,0,GaNEFo,Phnom Penh,Cambodia,True
+1966-12-06 00:00:00,North Korea,North Vietnam,3,1,GaNEFo,Phnom Penh,Cambodia,True
+1966-12-07 00:00:00,Israel,Romania,1,2,Friendly,Jaffa,Israel,False
+1966-12-07 00:00:00,Spain,Republic of Ireland,2,0,UEFA Euro qualification,Valencia,Spain,False
+1966-12-09 00:00:00,Libya,Egypt,2,2,African Cup of Nations qualification,Tripoli,Libya,False
+1966-12-09 00:00:00,Papua New Guinea,Tahiti,3,4,South Pacific Games,Noum√©a,New Caledonia,True
+1966-12-10 00:00:00,Kenya,Sudan,0,1,Friendly,Nairobi,Kenya,False
+1966-12-11 00:00:00,Colombia,Chile,0,0,Copa Am√©rica,Bogot√°,Colombia,False
+1966-12-11 00:00:00,Tahiti,Wallis Islands and Futuna,5,0,South Pacific Games,Noum√©a,New Caledonia,True
+1966-12-12 00:00:00,Kenya,Sudan,3,2,Friendly,Nairobi,Kenya,False
+1966-12-12 00:00:00,New Caledonia,Vanuatu,5,0,South Pacific Games,Noum√©a,New Caledonia,False
+1966-12-12 00:00:00,New Caledonia,Solomon Islands,8,0,South Pacific Games,Noum√©a,New Caledonia,False
+1966-12-13 00:00:00,Papua New Guinea,Wallis Islands and Futuna,9,1,South Pacific Games,Noum√©a,New Caledonia,True
+1966-12-13 00:00:00,Solomon Islands,Vanuatu,4,4,South Pacific Games,Noum√©a,New Caledonia,True
+1966-12-15 00:00:00,New Caledonia,Papua New Guinea,4,0,South Pacific Games,Noum√©a,New Caledonia,False
+1966-12-15 00:00:00,Tahiti,Vanuatu,3,0,South Pacific Games,Noum√©a,New Caledonia,True
+1966-12-17 00:00:00,New Caledonia,Tahiti,0,2,South Pacific Games,Noum√©a,New Caledonia,False
+1966-12-17 00:00:00,Papua New Guinea,Vanuatu,2,5,South Pacific Games,Noum√©a,New Caledonia,True
+1966-12-21 00:00:00,Ecuador,Paraguay,2,2,Copa Am√©rica,Guayaquil,Ecuador,False
+1966-12-28 00:00:00,Paraguay,Ecuador,3,1,Copa Am√©rica,Asunci√≥n,Paraguay,False
+1967-01-04 00:00:00,Gabon,DR Congo,1,0,Friendly,Libreville,Gabon,False
+1967-01-04 00:00:00,Uruguay,Romania,1,1,Friendly,Montevideo,Uruguay,False
+1967-01-05 00:00:00,Mexico,Switzerland,3,0,Friendly,Mexico City,Mexico,False
+1967-01-08 00:00:00,Mexico,Switzerland,0,2,Friendly,Guadalajara,Mexico,False
+1967-01-11 00:00:00,Jamaica,Cura√ßao,1,1,CONCACAF Championship qualification,Kingston,Jamaica,False
+1967-01-12 00:00:00,Cuba,Haiti,1,1,CONCACAF Championship qualification,Kingston,Jamaica,True
+1967-01-13 00:00:00,Cura√ßao,Trinidad and Tobago,1,2,CONCACAF Championship qualification,Kingston,Jamaica,True
+1967-01-13 00:00:00,Uruguay,Bolivia,4,0,Copa Am√©rica,Montevideo,Uruguay,False
+1967-01-14 00:00:00,Jamaica,Cuba,2,1,CONCACAF Championship qualification,Kingston,Jamaica,False
+1967-01-16 00:00:00,Haiti,Trinidad and Tobago,4,2,CONCACAF Championship qualification,Kingston,Jamaica,True
+1967-01-17 00:00:00,Cura√ßao,Cuba,2,2,CONCACAF Championship qualification,Kingston,Jamaica,True
+1967-01-17 00:00:00,Egypt,German DR,1,2,Friendly,Cairo,United Arab Republic,True
+1967-01-18 00:00:00,Argentina,Paraguay,4,1,Copa Am√©rica,Montevideo,Uruguay,True
+1967-01-18 00:00:00,Chile,Venezuela,2,0,Copa Am√©rica,Montevideo,Uruguay,True
+1967-01-18 00:00:00,Guatemala,Honduras,3,1,Friendly,Guatemala,Guatemala,False
+1967-01-18 00:00:00,Jamaica,Trinidad and Tobago,1,1,CONCACAF Championship qualification,Kingston,Jamaica,False
+1967-01-19 00:00:00,Cura√ßao,Haiti,0,1,CONCACAF Championship qualification,Kingston,Jamaica,True
+1967-01-20 00:00:00,Cuba,Trinidad and Tobago,1,2,CONCACAF Championship qualification,Kingston,Jamaica,True
+1967-01-20 00:00:00,Egypt,German DR,0,3,Friendly,Cairo,United Arab Republic,True
+1967-01-21 00:00:00,Jamaica,Haiti,0,1,CONCACAF Championship qualification,Kingston,Jamaica,False
+1967-01-21 00:00:00,Martinique,Guadeloupe,2,1,Friendly,Fort-de-France,Martinique,False
+1967-01-21 00:00:00,Uruguay,Venezuela,4,0,Copa Am√©rica,Montevideo,Uruguay,False
+1967-01-22 00:00:00,Bolivia,Argentina,0,1,Copa Am√©rica,Montevideo,Uruguay,True
+1967-01-22 00:00:00,Chile,Paraguay,4,2,Copa Am√©rica,Montevideo,Uruguay,True
+1967-01-22 00:00:00,DR Congo,Congo,4,1,Friendly,Kinshasa,DR Congo,False
+1967-01-22 00:00:00,Honduras,Guatemala,1,1,Friendly,Tegucigalpa,Honduras,False
+1967-01-22 00:00:00,Tunisia,Turkey,0,0,Friendly,Tunis,Tunisia,False
+1967-01-23 00:00:00,Martinique,French Guiana,2,1,Friendly,Fort-de-France,Martinique,False
+1967-01-24 00:00:00,Egypt,German DR,2,2,Friendly,Alexandria,United Arab Republic,True
+1967-01-25 00:00:00,Argentina,Venezuela,5,1,Copa Am√©rica,Montevideo,Uruguay,True
+1967-01-25 00:00:00,Paraguay,Bolivia,1,0,Copa Am√©rica,Montevideo,Uruguay,True
+1967-01-26 00:00:00,Uruguay,Chile,2,2,Copa Am√©rica,Montevideo,Uruguay,False
+1967-01-28 00:00:00,Argentina,Chile,2,0,Copa Am√©rica,Montevideo,Uruguay,True
+1967-01-28 00:00:00,Bolivia,Venezuela,0,3,Copa Am√©rica,Montevideo,Uruguay,True
+1967-01-28 00:00:00,Nigeria,Ghana,2,2,Friendly,Lagos,Nigeria,False
+1967-01-29 00:00:00,Burkina Faso,Niger,3,2,Friendly,Ouagadougou,Upper Volta,False
+1967-01-29 00:00:00,Sudan,German DR,1,2,Friendly,Khartoum,Sudan,False
+1967-01-29 00:00:00,Uruguay,Paraguay,2,0,Copa Am√©rica,Montevideo,Uruguay,False
+1967-01-31 00:00:00,Niger,Congo,1,3,Friendly,Niamey,Niger,False
+1967-02-01 00:00:00,Bolivia,Chile,0,0,Copa Am√©rica,Montevideo,Uruguay,True
+1967-02-01 00:00:00,Turkey,Spain,0,0,UEFA Euro qualification,Istanbul,Turkey,False
+1967-02-01 00:00:00,Venezuela,Paraguay,3,5,Copa Am√©rica,Montevideo,Uruguay,True
+1967-02-02 00:00:00,Uruguay,Argentina,1,0,Copa Am√©rica,Montevideo,Uruguay,False
+1967-02-03 00:00:00,Mali,Congo,1,0,Friendly,Bamako,Mali,False
+1967-02-05 00:00:00,Tunisia,Cameroon,4,0,African Cup of Nations qualification,Tunis,Tunisia,False
+1967-02-09 00:00:00,Nicaragua,Panama,3,1,CONCACAF Championship qualification,Guatemala,Guatemala,True
+1967-02-12 00:00:00,Burkina Faso,Algeria,1,2,African Cup of Nations qualification,Ouagadougou,Upper Volta,False
+1967-02-12 00:00:00,Ghana,Nigeria,2,0,Friendly,Accra,Ghana,False
+1967-02-12 00:00:00,Iraq,German DR,1,1,Friendly,Baghdad,Iraq,False
+1967-02-12 00:00:00,Guatemala,Panama,3,1,CONCACAF Championship qualification,Guatemala,Guatemala,False
+1967-02-14 00:00:00,Guatemala,Nicaragua,3,1,CONCACAF Championship qualification,Guatemala,Guatemala,False
+1967-02-15 00:00:00,Greece,Libya,4,0,Friendly,Athens,Greece,False
+1967-02-18 00:00:00,Togo,DR Congo,2,4,Friendly,Lom√©,Togo,False
+1967-02-19 00:00:00,Ethiopia,Kenya,2,0,Friendly,Khartoum,Sudan,True
+1967-02-19 00:00:00,Ghana,Ivory Coast,2,2,Friendly,Accra,Ghana,False
+1967-02-19 00:00:00,Tunisia,Congo,1,1,African Cup of Nations qualification,Tunis,Tunisia,False
+1967-02-21 00:00:00,Sudan,Tanzania,1,0,Friendly,Khartoum,Sudan,False
+1967-02-22 00:00:00,Germany,Morocco,5,1,Friendly,Karlsruhe,Germany,False
+1967-02-22 00:00:00,Turkey,Republic of Ireland,2,1,UEFA Euro qualification,Ankara,Turkey,False
+1967-02-23 00:00:00,Kenya,Tanzania,2,0,Friendly,Khartoum,Sudan,True
+1967-02-24 00:00:00,Sudan,Ethiopia,1,1,Friendly,Khartoum,Sudan,False
+1967-02-24 00:00:00,Uganda,DR Congo,0,5,Friendly,Kampala,Uganda,False
+1967-02-26 00:00:00,Cameroon,Congo,1,1,African Cup of Nations qualification,Yaound√©,Cameroon,False
+1967-02-26 00:00:00,Sudan,Ethiopia,5,3,Friendly,Khartoum,Sudan,False
+1967-02-28 00:00:00,Ethiopia,Sudan,2,1,Friendly,Addis Ababa,Ethiopia,False
+1967-02-28 00:00:00,France,Corsica,0,2,Friendly,Marseille,France,False
+1967-03-05 00:00:00,Benin,Congo,1,1,Friendly,Cotonou,Dahomey,False
+1967-03-05 00:00:00,Ivory Coast,Liberia,1,1,Friendly,Abidjan,Ivory Coast,False
+1967-03-05 00:00:00,Honduras,Trinidad and Tobago,1,0,CONCACAF Championship,Tegucigalpa,Honduras,False
+1967-03-06 00:00:00,Haiti,Guatemala,1,2,CONCACAF Championship,Tegucigalpa,Honduras,True
+1967-03-06 00:00:00,Mexico,Nicaragua,4,0,CONCACAF Championship,Tegucigalpa,Honduras,True
+1967-03-07 00:00:00,Libya,Sudan,1,1,Friendly,Tripoli,Libya,False
+1967-03-08 00:00:00,Greece,Romania,1,2,Friendly,Athens,Greece,False
+1967-03-08 00:00:00,Haiti,Trinidad and Tobago,2,3,CONCACAF Championship,Tegucigalpa,Honduras,True
+1967-03-08 00:00:00,Honduras,Guatemala,1,1,CONCACAF Championship,Tegucigalpa,Honduras,False
+1967-03-10 00:00:00,Guatemala,Mexico,1,0,CONCACAF Championship,Tegucigalpa,Honduras,True
+1967-03-10 00:00:00,Haiti,Nicaragua,2,1,CONCACAF Championship,Tegucigalpa,Honduras,True
+1967-03-10 00:00:00,Iraq,Sudan,2,2,Friendly,Tripoli,Libya,True
+1967-03-12 00:00:00,Libya,Iraq,0,1,Friendly,Tripoli,Libya,False
+1967-03-12 00:00:00,Honduras,Guatemala,0,0,CONCACAF Championship,Tegucigalpa,Honduras,False
+1967-03-12 00:00:00,Mexico,Trinidad and Tobago,4,0,CONCACAF Championship,Tegucigalpa,Honduras,True
+1967-03-12 00:00:00,Nigeria,Ivory Coast,0,0,African Cup of Nations qualification,Lagos,Nigeria,False
+1967-03-14 00:00:00,Haiti,Mexico,0,1,CONCACAF Championship,Tegucigalpa,Honduras,True
+1967-03-14 00:00:00,Trinidad and Tobago,Guatemala,0,2,CONCACAF Championship,Tegucigalpa,Honduras,True
+1967-03-16 00:00:00,Nicaragua,Trinidad and Tobago,1,3,CONCACAF Championship,Tegucigalpa,Honduras,True
+1967-03-16 00:00:00,Honduras,Haiti,2,0,CONCACAF Championship,Tegucigalpa,Honduras,False
+1967-03-18 00:00:00,DR Congo,Sudan,3,2,African Cup of Nations qualification,Kinshasa,DR Congo,False
+1967-03-19 00:00:00,Congo,Ghana,3,1,Friendly,Brazzaville,Congo,False
+1967-03-19 00:00:00,Honduras,Mexico,0,1,CONCACAF Championship,Tegucigalpa,Honduras,False
+1967-03-19 00:00:00,Guatemala,Nicaragua,2,0,CONCACAF Championship,Tegucigalpa,Honduras,True
+1967-03-19 00:00:00,Luxembourg,Belgium,0,5,UEFA Euro qualification,Luxembourg,Luxembourg,False
+1967-03-22 00:00:00,Algeria,Hungary,0,1,Friendly,Algiers,Algeria,False
+1967-03-22 00:00:00,Cyprus,Italy,0,2,UEFA Euro qualification,Nicosia,Cyprus,False
+1967-03-22 00:00:00,France,Romania,1,2,Friendly,Paris,France,False
+1967-03-22 00:00:00,Germany,Bulgaria,1,0,Friendly,Hanover,Germany,False
+1967-03-22 00:00:00,Hong Kong,Vietnam Republic,2,0,AFC Asian Cup qualification,So Kon Po,Hong Kong,False
+1967-03-24 00:00:00,Thailand,Vietnam Republic,0,1,AFC Asian Cup qualification,So Kon Po,Hong Kong,True
+1967-03-27 00:00:00,Italy,Portugal,1,1,Friendly,Rome,Italy,False
+1967-03-28 00:00:00,Gabon,Ivory Coast,0,3,Friendly,Libreville,Gabon,False
+1967-03-29 00:00:00,Vietnam Republic,Malaysia,0,2,AFC Asian Cup qualification,So Kon Po,Hong Kong,True
+1967-04-02 00:00:00,Sudan,DR Congo,1,0,African Cup of Nations qualification,Khartoum,Sudan,False
+1967-04-02 00:00:00,Vietnam Republic,Singapore,3,0,AFC Asian Cup qualification,So Kon Po,Hong Kong,True
+1967-04-05 00:00:00,German DR,Netherlands,4,3,UEFA Euro qualification,Leipzig,German DR,False
+1967-04-08 00:00:00,Germany,Albania,6,0,UEFA Euro qualification,Dortmund,Germany,False
+1967-04-09 00:00:00,Algeria,Burkina Faso,3,1,African Cup of Nations qualification,Algiers,Algeria,False
+1967-04-12 00:00:00,Northern Ireland,Wales,0,0,UEFA Euro qualification,Belfast,Northern Ireland,False
+1967-04-15 00:00:00,England,Scotland,2,3,UEFA Euro qualification,London,England,False
+1967-04-16 00:00:00,Belgium,Netherlands,1,0,Friendly,Antwerp,Belgium,False
+1967-04-16 00:00:00,Luxembourg,Poland,0,0,UEFA Euro qualification,Luxembourg,Luxembourg,False
+1967-04-19 00:00:00,Congo,DR Congo,3,1,Friendly,Brazzaville,Congo,False
+1967-04-23 00:00:00,Hungary,Yugoslavia,1,0,Friendly,Budapest,Hungary,False
+1967-04-23 00:00:00,Romania,Cyprus,7,0,UEFA Euro qualification,Bucharest,Romania,False
+1967-04-30 00:00:00,Ivory Coast,Togo,3,0,African Cup of Nations qualification,Abidjan,Ivory Coast,False
+1967-05-03 00:00:00,Switzerland,Czechoslovakia,1,2,Friendly,Basel,Switzerland,False
+1967-05-03 00:00:00,Yugoslavia,Germany,1,0,UEFA Euro qualification,Belgrade,Yugoslavia,False
+1967-05-07 00:00:00,Ivory Coast,Nigeria,2,0,African Cup of Nations qualification,Abidjan,Ivory Coast,False
+1967-05-10 00:00:00,Finland,Greece,1,1,UEFA Euro qualification,Helsinki,Finland,False
+1967-05-10 00:00:00,Hungary,Netherlands,2,1,UEFA Euro qualification,Budapest,Hungary,False
+1967-05-10 00:00:00,Scotland,Russia,0,2,Friendly,Glasgow,Scotland,False
+1967-05-14 00:00:00,Albania,Yugoslavia,0,2,UEFA Euro qualification,Tirana,Albania,False
+1967-05-14 00:00:00,Suriname,French Guiana,6,1,Friendly,Paramaribo,Suriname,False
+1967-05-15 00:00:00,Suriname,French Guiana,3,0,Friendly,Paramaribo,Suriname,False
+1967-05-16 00:00:00,Israel,Scotland,1,2,Friendly,Ramat-Gan,Israel,False
+1967-05-17 00:00:00,Congo,Tanzania,6,1,Friendly,Brazzaville,Congo,False
+1967-05-17 00:00:00,Sweden,German DR,0,1,Friendly,Helsingborg,Sweden,False
+1967-05-21 00:00:00,Republic of Ireland,Czechoslovakia,0,2,UEFA Euro qualification,Dublin,Republic of Ireland,False
+1967-05-21 00:00:00,Poland,Belgium,3,1,UEFA Euro qualification,Chorz√≥w,Poland,False
+1967-05-24 00:00:00,Denmark,Hungary,0,2,UEFA Euro qualification,Copenhagen,Denmark,False
+1967-05-24 00:00:00,England,Spain,2,0,Friendly,London,England,False
+1967-05-24 00:00:00,Ghana,DR Congo,2,0,Friendly,Accra,Ghana,False
+1967-05-24 00:00:00,Switzerland,Romania,7,1,UEFA Euro qualification,Z√ºrich,Switzerland,False
+1967-05-27 00:00:00,Austria,England,0,1,Friendly,Vienna,Austria,False
+1967-05-28 00:00:00,Russia,Mexico,2,0,Friendly,Leningrad,Soviet Union,False
+1967-05-31 00:00:00,Spain,Turkey,2,0,UEFA Euro qualification,Bilbao,Spain,False
+1967-06-01 00:00:00,Finland,Norway,0,2,Nordic Championship,Helsinki,Finland,False
+1967-06-01 00:00:00,Russia,Mexico,0,1,Friendly,Volgograd,Soviet Union,False
+1967-06-01 00:00:00,Sweden,Portugal,1,1,UEFA Euro qualification,Solna,Sweden,False
+1967-06-03 00:00:00,France,Russia,2,4,Friendly,Paris,France,False
+1967-06-04 00:00:00,Belarus,Mexico,2,1,Friendly,Minsk,Soviet Union,False
+1967-06-04 00:00:00,Denmark,German DR,1,1,UEFA Euro qualification,Copenhagen,Denmark,False
+1967-06-08 00:00:00,Norway,Portugal,1,2,UEFA Euro qualification,Oslo,Norway,False
+1967-06-11 00:00:00,Russia,Austria,4,3,UEFA Euro qualification,Moscow,Soviet Union,False
+1967-06-11 00:00:00,Sweden,Bulgaria,0,2,UEFA Euro qualification,Solna,Sweden,False
+1967-06-18 00:00:00,Czechoslovakia,Turkey,3,0,UEFA Euro qualification,Bratislava,Czechoslovakia,False
+1967-06-22 00:00:00,Uganda,Zambia,1,3,Friendly,Kampala,Uganda,False
+1967-06-25 00:00:00,Denmark,Sweden,1,1,Nordic Championship,Copenhagen,Denmark,False
+1967-06-25 00:00:00,Romania,Italy,0,1,UEFA Euro qualification,Bucharest,Romania,False
+1967-06-25 00:00:00,Uruguay,Brazil,0,0,Copa Rio Branco,Montevideo,Uruguay,False
+1967-06-28 00:00:00,Uruguay,Brazil,2,2,Copa Rio Branco,Montevideo,Uruguay,False
+1967-06-29 00:00:00,Norway,Bulgaria,0,0,UEFA Euro qualification,Oslo,Norway,False
+1967-07-01 00:00:00,Uruguay,Brazil,1,1,Copa Rio Branco,Montevideo,Uruguay,False
+1967-07-06 00:00:00,Tanzania,Zambia,2,2,Friendly,Dar es Salaam,Tanzania,False
+1967-07-08 00:00:00,Benin,Ghana,2,1,Friendly,Cotonou,Dahomey,False
+1967-07-08 00:00:00,Tanzania,Zambia,2,1,Friendly,Dar es Salaam,Tanzania,False
+1967-07-16 00:00:00,Russia,Greece,4,0,UEFA Euro qualification,Tbilisi,Soviet Union,False
+1967-07-28 00:00:00,Peru,Uruguay,0,1,Friendly,Lima,Peru,False
+1967-07-29 00:00:00,South Korea,Indonesia,1,1,AFC Asian Cup qualification,Taipei,Taiwan,True
+1967-07-30 00:00:00,Guyana,Suriname,2,2,Friendly,Georgetown,Guyana,False
+1967-07-30 00:00:00,Peru,Uruguay,1,2,Friendly,Lima,Peru,False
+1967-07-31 00:00:00,Guyana,Suriname,0,1,Friendly,Georgetown,Guyana,False
+1967-08-01 00:00:00,Japan,South Korea,2,1,AFC Asian Cup qualification,Taipei,Taiwan,True
+1967-08-01 00:00:00,Mauritania,Tanzania,1,1,Friendly,Nouakchott,Mauritania,False
+1967-08-01 00:00:00,Niger,Burkina Faso,2,3,Friendly,Niamey,Niger,False
+1967-08-02 00:00:00,DR Congo,Ethiopia,1,0,Friendly,Kinshasa,DR Congo,False
+1967-08-02 00:00:00,Guyana,Suriname,0,2,Friendly,Georgetown,Guyana,False
+1967-08-02 00:00:00,Tanzania,Mauritius,1,0,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+1967-08-03 00:00:00,Japan,Philippines,2,0,AFC Asian Cup qualification,Taipei,Taiwan,True
+1967-08-05 00:00:00,Japan,Indonesia,2,1,AFC Asian Cup qualification,Taipei,Taiwan,True
+1967-08-05 00:00:00,South Korea,Philippines,7,0,AFC Asian Cup qualification,Taipei,Taiwan,True
+1967-08-07 00:00:00,Indonesia,Philippines,6,0,AFC Asian Cup qualification,Taipei,Taiwan,True
+1967-08-10 00:00:00,DR Congo,Mali,2,2,Friendly,Kinshasa,DR Congo,False
+1967-08-10 00:00:00,Hong Kong,Thailand,1,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1967-08-10 00:00:00,Malaysia,Western Australia,3,2,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1967-08-10 00:00:00,Sweden,Finland,2,0,Nordic Championship,Solna,Sweden,False
+1967-08-11 00:00:00,Indonesia,South Korea,1,3,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1967-08-11 00:00:00,Singapore,Taiwan,3,3,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1967-08-12 00:00:00,Hong Kong,Vietnam Republic,0,5,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1967-08-12 00:00:00,India,Thailand,1,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1967-08-13 00:00:00,Myanmar,South Korea,0,1,Merdeka Tournament,Ipoh,Malaysia,True
+1967-08-13 00:00:00,DR Congo,Sudan,2,1,African Cup of Nations qualification,Kampala,Uganda,True
+1967-08-13 00:00:00,India,Western Australia,3,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1967-08-13 00:00:00,Indonesia,Singapore,4,1,Merdeka Tournament,Ipoh,Malaysia,True
+1967-08-13 00:00:00,Malaysia,Hong Kong,3,0,Merdeka Tournament,Ipoh,Malaysia,False
+1967-08-15 00:00:00,Myanmar,Singapore,3,0,Merdeka Tournament,Ipoh,Malaysia,True
+1967-08-15 00:00:00,Chile,Argentina,1,0,Friendly,Santiago,Chile,False
+1967-08-15 00:00:00,Indonesia,Taiwan,2,1,Merdeka Tournament,Ipoh,Malaysia,True
+1967-08-15 00:00:00,Malaysia,Vietnam Republic,1,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1967-08-15 00:00:00,Thailand,Western Australia,1,3,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1967-08-16 00:00:00,Hong Kong,India,0,4,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1967-08-16 00:00:00,Mauritius,Tanzania,1,1,African Cup of Nations qualification,Curepipe,Mauritius,False
+1967-08-16 00:00:00,Togo,Ivory Coast,0,2,African Cup of Nations qualification,Lom√©,Togo,False
+1967-08-16 00:00:00,Vietnam Republic,Western Australia,3,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1967-08-18 00:00:00,Hong Kong,Western Australia,3,2,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1967-08-18 00:00:00,South Korea,Taiwan,2,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1967-08-19 00:00:00,Myanmar,Indonesia,5,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1967-08-19 00:00:00,Kenya,DR Congo,5,4,Friendly,Nairobi,Kenya,False
+1967-08-19 00:00:00,Malaysia,India,0,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1967-08-19 00:00:00,Thailand,Vietnam Republic,2,5,Merdeka Tournament,Ipoh,Malaysia,True
+1967-08-20 00:00:00,Myanmar,Taiwan,1,2,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1967-08-20 00:00:00,Malaysia,Thailand,1,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1967-08-20 00:00:00,India,Vietnam Republic,0,1,Merdeka Tournament,Ipoh,Malaysia,True
+1967-08-20 00:00:00,Kenya,DR Congo,1,1,Friendly,Nairobi,Kenya,False
+1967-08-20 00:00:00,South Korea,Singapore,3,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1967-08-22 00:00:00,Myanmar,Vietnam Republic,3,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1967-08-22 00:00:00,India,Taiwan,1,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1967-08-22 00:00:00,Mexico,Argentina,2,1,Friendly,Mexico City,Mexico,False
+1967-08-23 00:00:00,Denmark,Iceland,14,2,Friendly,Copenhagen,Denmark,False
+1967-08-23 00:00:00,Hong Kong,Indonesia,2,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1967-08-23 00:00:00,Malaysia,South Korea,1,3,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1967-08-24 00:00:00,Singapore,Western Australia,3,5,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1967-08-25 00:00:00,Hong Kong,Taiwan,2,4,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1967-08-25 00:00:00,Malaysia,Vietnam Republic,1,2,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1967-08-26 00:00:00,Myanmar,South Korea,0,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1967-08-26 00:00:00,India,Indonesia,0,3,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1967-08-28 00:00:00,Singapore,Vietnam Republic,1,0,Friendly,Kallang,Singapore,False
+1967-08-30 00:00:00,Russia,Finland,2,0,UEFA Euro qualification,Moscow,Soviet Union,False
+1967-09-01 00:00:00,DR Congo,Ghana,0,2,Friendly,Kinshasa,DR Congo,False
+1967-09-03 00:00:00,Norway,Sweden,3,1,UEFA Euro qualification,Oslo,Norway,False
+1967-09-06 00:00:00,Austria,Hungary,1,3,Friendly,Vienna,Austria,False
+1967-09-06 00:00:00,Finland,Russia,2,5,UEFA Euro qualification,Turku,Finland,False
+1967-09-13 00:00:00,Netherlands,German DR,1,0,UEFA Euro qualification,Amsterdam,Netherlands,False
+1967-09-17 00:00:00,DR Congo,Tanzania,1,0,African Cup of Nations qualification,Kinshasa,DR Congo,False
+1967-09-17 00:00:00,Poland,France,1,4,UEFA Euro qualification,Warsaw,Poland,False
+1967-09-19 00:00:00,Chile,Brazil,0,1,Friendly,Santiago,Chile,False
+1967-09-24 00:00:00,Austria,Finland,2,1,UEFA Euro qualification,Vienna,Austria,False
+1967-09-24 00:00:00,Norway,Denmark,0,5,Nordic Championship,Oslo,Norway,False
+1967-09-27 00:00:00,Germany,France,5,1,Friendly,Berlin,Germany,False
+1967-09-27 00:00:00,Hungary,German DR,3,1,UEFA Euro qualification,Budapest,Hungary,False
+1967-09-27 00:00:00,Mali,Burkina Faso,4,0,African Cup of Nations qualification,Bamako,Mali,False
+1967-09-28 00:00:00,Ghana,Nigeria,1,1,Friendly,Accra,Ghana,False
+1967-09-30 00:00:00,Kenya,Uganda,3,1,Friendly,Nairobi,Kenya,False
+1967-10-01 00:00:00,Czechoslovakia,Spain,1,0,UEFA Euro qualification,Prague,Czechoslovakia,False
+1967-10-01 00:00:00,Ghana,Burkina Faso,5,2,Friendly,Accra,Ghana,False
+1967-10-01 00:00:00,Russia,Switzerland,2,2,Friendly,Moscow,Soviet Union,False
+1967-10-03 00:00:00,Tanzania,Uganda,1,2,Friendly,Nairobi,Kenya,True
+1967-10-04 00:00:00,Denmark,Netherlands,3,2,UEFA Euro qualification,Copenhagen,Denmark,False
+1967-10-04 00:00:00,Greece,Austria,4,1,UEFA Euro qualification,Piraeus,Greece,False
+1967-10-04 00:00:00,Kenya,Zanzibar,6,0,Friendly,Nairobi,Kenya,False
+1967-10-05 00:00:00,Trinidad and Tobago,Martinique,2,2,Friendly,Port of Spain,Trinidad and Tobago,False
+1967-10-06 00:00:00,Uganda,Zanzibar,2,0,Friendly,Nairobi,Kenya,True
+1967-10-07 00:00:00,Germany,Yugoslavia,3,1,UEFA Euro qualification,Hamburg,Germany,False
+1967-10-07 00:00:00,Singapore,Hong Kong,4,0,Friendly,Kallang,Singapore,False
+1967-10-08 00:00:00,Belgium,Poland,2,4,UEFA Euro qualification,Brussels,Belgium,False
+1967-10-08 00:00:00,Bulgaria,Russia,1,2,Friendly,Sofia,Bulgaria,False
+1967-10-09 00:00:00,Kenya,Tanzania,5,3,Friendly,Nairobi,Kenya,False
+1967-10-10 00:00:00,El Salvador,Haiti,2,0,Friendly,San Salvador,El Salvador,False
+1967-10-10 00:00:00,Tanzania,Zanzibar,0,3,Friendly,Nairobi,Kenya,True
+1967-10-11 00:00:00,German DR,Denmark,3,2,UEFA Euro qualification,Leipzig,German DR,False
+1967-10-13 00:00:00,Paraguay,Argentina,1,1,Friendly,Asunci√≥n,Paraguay,False
+1967-10-14 00:00:00,Tanzania,DR Congo,0,1,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+1967-10-14 00:00:00,Sierra Leone,Nigeria,1,1,Friendly,Freetown,Sierra Leone,False
+1967-10-15 00:00:00,Austria,Russia,1,0,UEFA Euro qualification,Vienna,Austria,False
+1967-10-20 00:00:00,Liberia,DR Congo,1,4,Friendly,Monrovia,Liberia,False
+1967-10-21 00:00:00,Ghana,Nigeria,2,1,Friendly,Accra,Ghana,False
+1967-10-21 00:00:00,Northern Ireland,Scotland,1,0,UEFA Euro qualification,Belfast,Northern Ireland,False
+1967-10-21 00:00:00,Wales,England,0,3,UEFA Euro qualification,Cardiff,Wales,False
+1967-10-22 00:00:00,Denmark,Finland,3,0,Nordic Championship,Copenhagen,Denmark,False
+1967-10-22 00:00:00,Guatemala,El Salvador,1,0,Friendly,Guatemala,Guatemala,False
+1967-10-22 00:00:00,Spain,Czechoslovakia,2,1,UEFA Euro qualification,Madrid,Spain,False
+1967-10-24 00:00:00,Trinidad and Tobago,Martinique,3,2,Friendly,Port of Spain,Trinidad and Tobago,False
+1967-10-28 00:00:00,France,Belgium,1,1,UEFA Euro qualification,Nantes,France,False
+1967-10-29 00:00:00,El Salvador,Costa Rica,3,1,Friendly,San Salvador,El Salvador,False
+1967-10-29 00:00:00,German DR,Hungary,1,0,UEFA Euro qualification,Leipzig,German DR,False
+1967-10-29 00:00:00,Poland,Romania,0,0,Friendly,Cracow,Poland,False
+1967-10-29 00:00:00,Uganda,Ethiopia,2,3,Friendly,Kampala,Uganda,False
+1967-10-31 00:00:00,Greece,Russia,0,1,UEFA Euro qualification,Piraeus,Greece,False
+1967-11-01 00:00:00,Italy,Cyprus,5,0,UEFA Euro qualification,Cosenza,Italy,False
+1967-11-01 00:00:00,Netherlands,Yugoslavia,1,2,Friendly,Rotterdam,Netherlands,False
+1967-11-04 00:00:00,Malaysia,Thailand,3,2,Vietnam Independence Cup,Saigon,Vietnam Republic,True
+1967-11-04 00:00:00,Vietnam Republic,Singapore,2,0,Vietnam Independence Cup,Saigon,Vietnam Republic,False
+1967-11-05 00:00:00,Australia,New Zealand,5,3,Vietnam Independence Cup,Saigon,Vietnam Republic,True
+1967-11-05 00:00:00,Austria,Greece,1,1,UEFA Euro qualification,Vienna,Austria,False
+1967-11-05 00:00:00,El Salvador,Guatemala,1,3,Friendly,San Salvador,El Salvador,False
+1967-11-05 00:00:00,Hong Kong,South Korea,0,1,Vietnam Independence Cup,Saigon,Vietnam Republic,True
+1967-11-05 00:00:00,Puerto Rico,Martinique,3,6,Friendly,San Juan,Puerto Rico,False
+1967-11-05 00:00:00,Sweden,Norway,5,2,UEFA Euro qualification,Solna,Sweden,False
+1967-11-07 00:00:00,South Korea,Thailand,3,1,Vietnam Independence Cup,Saigon,Vietnam Republic,True
+1967-11-07 00:00:00,Vietnam Republic,Australia,0,1,Vietnam Independence Cup,Saigon,Vietnam Republic,False
+1967-11-08 00:00:00,Chile,Argentina,3,1,Friendly,Santiago,Chile,False
+1967-11-08 00:00:00,Hong Kong,Malaysia,0,2,Vietnam Independence Cup,Saigon,Vietnam Republic,True
+1967-11-08 00:00:00,New Caledonia,New Zealand,4,0,Friendly,Noum√©a,New Caledonia,False
+1967-11-08 00:00:00,New Zealand,Singapore,3,1,Vietnam Independence Cup,Saigon,Vietnam Republic,True
+1967-11-08 00:00:00,Puerto Rico,Guadeloupe,2,4,Friendly,San Juan,Puerto Rico,False
+1967-11-08 00:00:00,Switzerland,Cyprus,5,0,UEFA Euro qualification,Lugano,Switzerland,False
+1967-11-10 00:00:00,Hong Kong,Thailand,1,5,Vietnam Independence Cup,Saigon,Vietnam Republic,True
+1967-11-10 00:00:00,Vietnam Republic,New Zealand,5,1,Vietnam Independence Cup,Saigon,Vietnam Republic,False
+1967-11-11 00:00:00,Australia,Singapore,5,1,Vietnam Independence Cup,Saigon,Vietnam Republic,True
+1967-11-11 00:00:00,Guadeloupe,Martinique,0,1,Friendly,San Juan,Puerto Rico,True
+1967-11-11 00:00:00,South Korea,Malaysia,2,1,Vietnam Independence Cup,Saigon,Vietnam Republic,True
+1967-11-12 00:00:00,Australia,Malaysia,1,0,Vietnam Independence Cup,Saigon,Vietnam Republic,True
+1967-11-12 00:00:00,Bulgaria,Sweden,3,0,UEFA Euro qualification,Sofia,Bulgaria,False
+1967-11-12 00:00:00,Myanmar,India,2,0,AFC Asian Cup qualification,Yangon,Burma,False
+1967-11-12 00:00:00,Portugal,Norway,2,1,UEFA Euro qualification,Porto,Portugal,False
+1967-11-12 00:00:00,Vietnam Republic,South Korea,0,3,Vietnam Independence Cup,Saigon,Vietnam Republic,False
+1967-11-12 00:00:00,Yugoslavia,Albania,4,0,UEFA Euro qualification,Belgrade,Yugoslavia,False
+1967-11-12 00:00:00,Zimbabwe,Malawi,1,0,Friendly,Salisbury,Rhodesia,False
+1967-11-14 00:00:00,Australia,South Korea,3,2,Vietnam Independence Cup,Saigon,Vietnam Republic,True
+1967-11-14 00:00:00,Vietnam Republic,Malaysia,4,1,Vietnam Independence Cup,Saigon,Vietnam Republic,False
+1967-11-15 00:00:00,Burkina Faso,Mali,0,1,African Cup of Nations qualification,Ouagadougou,Upper Volta,False
+1967-11-15 00:00:00,India,Pakistan,1,1,AFC Asian Cup qualification,Yangon,Burma,True
+1967-11-15 00:00:00,Turkey,Czechoslovakia,0,0,UEFA Euro qualification,Ankara,Turkey,False
+1967-11-16 00:00:00,Myanmar,Cambodia,1,0,AFC Asian Cup qualification,Yangon,Burma,False
+1967-11-16 00:00:00,Malaysia,New Zealand,2,8,Friendly,Kuala Lumpur,Malaysia,False
+1967-11-18 00:00:00,Switzerland,Italy,2,2,UEFA Euro qualification,Berne,Switzerland,False
+1967-11-19 00:00:00,Myanmar,Pakistan,2,0,AFC Asian Cup qualification,Yangon,Burma,False
+1967-11-22 00:00:00,Belgium,Luxembourg,3,0,UEFA Euro qualification,Bruges,Belgium,False
+1967-11-22 00:00:00,Czechoslovakia,Republic of Ireland,1,2,UEFA Euro qualification,Prague,Czechoslovakia,False
+1967-11-22 00:00:00,England,Northern Ireland,2,0,UEFA Euro qualification,London,England,False
+1967-11-22 00:00:00,Romania,Germany,1,0,Friendly,Bucharest,Romania,False
+1967-11-22 00:00:00,Scotland,Wales,3,2,UEFA Euro qualification,Glasgow,Scotland,False
+1967-11-22 00:00:00,Senegal,Guinea,2,1,African Cup of Nations qualification,Dakar,Senegal,False
+1967-11-24 00:00:00,Benin,DR Congo,2,5,Friendly,Cotonou,Dahomey,False
+1967-11-25 00:00:00,Zimbabwe,Mauritius,1,2,Friendly,Salisbury,Rhodesia,False
+1967-11-26 00:00:00,Bulgaria,Portugal,1,0,UEFA Euro qualification,Sofia,Bulgaria,False
+1967-11-26 00:00:00,Burkina Faso,Ivory Coast,3,2,Friendly,Ouagadougou,Upper Volta,False
+1967-11-26 00:00:00,Grenada,Saint Vincent and the Grenadines,1,1,Windward Islands Tournament,Roseau,Dominica,True
+1967-11-26 00:00:00,Iran,Turkey,0,1,Friendly,Dhaka,Pakistan,True
+1967-11-26 00:00:00,Trinidad and Tobago,Jamaica,1,0,Friendly,San Fernando,Trinidad and Tobago,False
+1967-11-26 00:00:00,Zimbabwe,Mauritius,2,3,Friendly,Salisbury,Rhodesia,False
+1967-11-27 00:00:00,Dominica,Saint Lucia,2,4,Windward Islands Tournament,Roseau,Dominica,False
+1967-11-28 00:00:00,Pakistan,Turkey,4,7,Friendly,Dhaka,Pakistan,False
+1967-11-29 00:00:00,Netherlands,Russia,3,1,Friendly,Rotterdam,Netherlands,False
+1967-11-29 00:00:00,Saint Lucia,Saint Vincent and the Grenadines,4,3,Windward Islands Tournament,Roseau,Dominica,True
+1967-11-30 00:00:00,Dominica,Grenada,2,4,Windward Islands Tournament,Roseau,Dominica,False
+1967-12-02 00:00:00,Grenada,Saint Lucia,2,1,Windward Islands Tournament,Roseau,Dominica,True
+1967-12-02 00:00:00,Sierra Leone,Guinea,2,1,Friendly,Freetown,Sierra Leone,False
+1967-12-02 00:00:00,Trinidad and Tobago,Jamaica,1,0,Friendly,Port of Spain,Trinidad and Tobago,False
+1967-12-03 00:00:00,Dominica,Saint Vincent and the Grenadines,1,2,Windward Islands Tournament,Roseau,Dominica,False
+1967-12-03 00:00:00,Mali,Congo,1,1,Friendly,Bamako,Mali,False
+1967-12-06 00:00:00,England,Russia,2,2,Friendly,London,England,False
+1967-12-06 00:00:00,Mauritius,Ethiopia,0,2,Friendly,Port Louis,Mauritius,False
+1967-12-06 00:00:00,Mexico,Hungary,2,1,Friendly,Mexico City,Mexico,False
+1967-12-08 00:00:00,Mexico,Hungary,0,2,Friendly,Mexico City,Mexico,False
+1967-12-10 00:00:00,Saudi Arabia,Tunisia,4,0,Friendly,Riyadh,Saudi Arabia,False
+1967-12-13 00:00:00,Chile,Hungary,4,5,Friendly,Santiago,Chile,False
+1967-12-16 00:00:00,Chile,Russia,1,4,Friendly,Santiago,Chile,False
+1967-12-17 00:00:00,Albania,Germany,0,0,UEFA Euro qualification,Tirana,Albania,False
+1967-12-17 00:00:00,Kenya,Zambia,1,5,Friendly,Nairobi,Kenya,False
+1967-12-17 00:00:00,Portugal,Bulgaria,0,0,UEFA Euro qualification,Oeiras,Portugal,False
+1967-12-23 00:00:00,France,Luxembourg,3,1,UEFA Euro qualification,Paris,France,False
+1967-12-23 00:00:00,Italy,Switzerland,4,0,UEFA Euro qualification,Cagliari,Italy,False
+1967-12-23 00:00:00,Nigeria,Ghana,2,2,Friendly,Lagos,Nigeria,False
+1967-12-24 00:00:00,DR Congo,Romania,1,1,Friendly,Kinshasa,DR Congo,False
+1967-12-31 00:00:00,Ethiopia,Kenya,2,0,Friendly,Addis Ababa,Ethiopia,False
+1968-01-10 00:00:00,Israel,Belgium,0,2,Friendly,Jaffa,Israel,False
+1968-01-12 00:00:00,Algeria,Ivory Coast,0,3,African Cup of Nations,Addis Ababa,Ethiopia,True
+1968-01-12 00:00:00,Congo,DR Congo,0,3,African Cup of Nations,Asmara,Ethiopia,True
+1968-01-12 00:00:00,Ethiopia,Uganda,2,1,African Cup of Nations,Addis Ababa,Ethiopia,False
+1968-01-12 00:00:00,Ghana,Senegal,2,2,African Cup of Nations,Asmara,Ethiopia,True
+1968-01-14 00:00:00,Algeria,Uganda,4,0,African Cup of Nations,Addis Ababa,Ethiopia,True
+1968-01-14 00:00:00,Congo,Senegal,1,2,African Cup of Nations,Asmara,Ethiopia,True
+1968-01-14 00:00:00,DR Congo,Ghana,1,2,African Cup of Nations,Asmara,Ethiopia,True
+1968-01-14 00:00:00,Ethiopia,Ivory Coast,1,0,African Cup of Nations,Addis Ababa,Ethiopia,False
+1968-01-16 00:00:00,Congo,Ghana,1,3,African Cup of Nations,Asmara,Ethiopia,True
+1968-01-16 00:00:00,DR Congo,Senegal,2,1,African Cup of Nations,Asmara,Ethiopia,True
+1968-01-16 00:00:00,Ethiopia,Algeria,3,1,African Cup of Nations,Addis Ababa,Ethiopia,False
+1968-01-16 00:00:00,Ivory Coast,Uganda,2,1,African Cup of Nations,Addis Ababa,Ethiopia,True
+1968-01-19 00:00:00,Ethiopia,DR Congo,2,3,African Cup of Nations,Addis Ababa,Ethiopia,False
+1968-01-19 00:00:00,Ghana,Ivory Coast,4,3,African Cup of Nations,Asmara,Ethiopia,True
+1968-01-21 00:00:00,DR Congo,Ghana,1,0,African Cup of Nations,Addis Ababa,Ethiopia,True
+1968-01-21 00:00:00,Ethiopia,Ivory Coast,0,1,African Cup of Nations,Addis Ababa,Ethiopia,False
+1968-01-27 00:00:00,Nigeria,Sierra Leone,4,1,Friendly,Lagos,Nigeria,False
+1968-02-14 00:00:00,Israel,Switzerland,2,1,Friendly,Jaffa,Israel,False
+1968-02-17 00:00:00,Cyprus,Switzerland,2,1,UEFA Euro qualification,Nicosia,Cyprus,False
+1968-02-19 00:00:00,Israel,Sweden,0,3,Friendly,Jaffa,Israel,False
+1968-02-24 00:00:00,Scotland,England,1,1,UEFA Euro qualification,Glasgow,Scotland,False
+1968-02-25 00:00:00,Burkina Faso,Guinea,2,0,Friendly,Ouagadougou,Upper Volta,False
+1968-02-28 00:00:00,Spain,Sweden,3,1,Friendly,Seville,Spain,False
+1968-02-28 00:00:00,Wales,Northern Ireland,2,0,UEFA Euro qualification,Wrexham,Wales,False
+1968-03-03 00:00:00,Mexico,Russia,0,0,Friendly,Mexico City,Mexico,False
+1968-03-06 00:00:00,Belgium,Germany,1,3,Friendly,Brussels,Belgium,False
+1968-03-07 00:00:00,Guinea,DR Congo,1,0,Friendly,Conakry,Guinea,False
+1968-03-07 00:00:00,Mexico,Russia,1,1,Friendly,Le√≥n,Mexico,False
+1968-03-10 00:00:00,Mexico,Russia,0,0,Friendly,Mexico City,Mexico,False
+1968-03-13 00:00:00,Turkey,Tunisia,0,0,Friendly,ƒ∞zmir,Turkey,False
+1968-03-17 00:00:00,Morocco,Algeria,0,0,Friendly,Casablanca,Morocco,False
+1968-03-26 00:00:00,Mexico,Japan,4,0,Friendly,Mexico City,Mexico,False
+1968-03-30 00:00:00,Australia,Japan,2,2,Friendly,Sydney,Australia,False
+1968-03-31 00:00:00,Australia,Japan,3,1,Friendly,Melbourne,Australia,False
+1968-03-31 00:00:00,Guinea,Burkina Faso,3,1,Friendly,Conakry,Guinea,False
+1968-04-02 00:00:00,Guinea,Burkina Faso,1,3,Friendly,Conakry,Guinea,False
+1968-04-03 00:00:00,England,Spain,1,0,UEFA Euro qualification,London,England,False
+1968-04-04 00:00:00,Australia,Japan,1,3,Friendly,Adelaide,Australia,False
+1968-04-06 00:00:00,Barbados,Suriname,0,2,Friendly,Bridgetown,Barbados,False
+1968-04-06 00:00:00,Bulgaria,Italy,3,2,UEFA Euro qualification,Sofia,Bulgaria,False
+1968-04-06 00:00:00,France,Yugoslavia,1,1,UEFA Euro qualification,Marseille,France,False
+1968-04-07 00:00:00,Netherlands,Belgium,1,2,Friendly,Amsterdam,Netherlands,False
+1968-04-07 00:00:00,Togo,Guinea,1,1,Friendly,Lom√©,Togo,False
+1968-04-08 00:00:00,Barbados,Suriname,0,0,Friendly,Bridgetown,Barbados,False
+1968-04-10 00:00:00,Benin,Guinea,2,5,Friendly,Cotonou,Dahomey,False
+1968-04-11 00:00:00,Martinique,Suriname,1,3,Friendly,Fort-de-France,Martinique,False
+1968-04-14 00:00:00,Martinique,Suriname,3,2,Friendly,Fort-de-France,Martinique,False
+1968-04-17 00:00:00,Switzerland,Germany,0,0,Friendly,Basel,Switzerland,False
+1968-04-20 00:00:00,Italy,Bulgaria,2,0,UEFA Euro qualification,Naples,Italy,False
+1968-04-24 00:00:00,Poland,Turkey,8,0,Friendly,Chorz√≥w,Poland,False
+1968-04-24 00:00:00,Russia,Belgium,1,0,Friendly,Moscow,Soviet Union,False
+1968-04-24 00:00:00,Yugoslavia,France,5,1,UEFA Euro qualification,Belgrade,Yugoslavia,False
+1968-04-27 00:00:00,Czechoslovakia,Yugoslavia,3,0,Friendly,Bratislava,Czechoslovakia,False
+1968-05-01 00:00:00,Austria,Romania,1,1,Friendly,Linz,Austria,False
+1968-05-01 00:00:00,Poland,Netherlands,0,0,Friendly,Warsaw,Poland,False
+1968-05-01 00:00:00,Eswatini,Malawi,2,0,Friendly,Mbabane,Eswatini,False
+1968-05-02 00:00:00,Sweden,Spain,1,1,Friendly,Malm√∂,Sweden,False
+1968-05-04 00:00:00,Hungary,Russia,2,0,UEFA Euro qualification,Budapest,Hungary,False
+1968-05-07 00:00:00,El Salvador,Guatemala,3,0,Friendly,San Salvador,El Salvador,False
+1968-05-08 00:00:00,Kenya,Nigeria,1,2,Friendly,Nairobi,Kenya,False
+1968-05-08 00:00:00,Spain,England,1,2,UEFA Euro qualification,Madrid,Spain,False
+1968-05-08 00:00:00,Wales,Germany,1,1,Friendly,Cardiff,Wales,False
+1968-05-10 00:00:00,Iran,Hong Kong,2,0,AFC Asian Cup,Tehran,Iran,False
+1968-05-11 00:00:00,Myanmar,Taiwan,1,1,AFC Asian Cup,Tehran,Iran,True
+1968-05-11 00:00:00,Russia,Hungary,3,0,UEFA Euro qualification,Moscow,Soviet Union,False
+1968-05-12 00:00:00,Hong Kong,Israel,1,6,AFC Asian Cup,Tehran,Iran,True
+1968-05-13 00:00:00,Iran,Taiwan,4,0,AFC Asian Cup,Tehran,Iran,False
+1968-05-14 00:00:00,Myanmar,Israel,1,0,AFC Asian Cup,Tehran,Iran,True
+1968-05-15 00:00:00,Hong Kong,Taiwan,1,1,AFC Asian Cup,Tehran,Iran,True
+1968-05-15 00:00:00,Republic of Ireland,Poland,2,2,Friendly,Dublin,Republic of Ireland,False
+1968-05-15 00:00:00,Paraguay,Argentina,2,0,Friendly,Asunci√≥n,Paraguay,False
+1968-05-16 00:00:00,Iran,Myanmar,3,1,AFC Asian Cup,Tehran,Iran,False
+1968-05-17 00:00:00,Israel,Taiwan,4,1,AFC Asian Cup,Tehran,Iran,True
+1968-05-18 00:00:00,Myanmar,Hong Kong,2,0,AFC Asian Cup,Tehran,Iran,True
+1968-05-19 00:00:00,Austria,Cyprus,7,1,FIFA World Cup qualification,Vienna,Austria,False
+1968-05-19 00:00:00,Ghana,Ivory Coast,2,1,Friendly,Accra,Ghana,False
+1968-05-19 00:00:00,Iran,Israel,2,1,AFC Asian Cup,Tehran,Iran,False
+1968-05-21 00:00:00,Mexico,Uruguay,3,3,Friendly,Mexico City,Mexico,False
+1968-05-22 00:00:00,England,Sweden,3,1,Friendly,London,England,False
+1968-05-28 00:00:00,Mexico,Uruguay,2,2,Friendly,Mexico City,Mexico,False
+1968-05-30 00:00:00,Netherlands,Scotland,0,0,Friendly,Amsterdam,Netherlands,False
+1968-06-01 00:00:00,Germany,England,1,0,Friendly,Hanover,Germany,False
+1968-06-02 00:00:00,Paraguay,Uruguay,0,0,Copa Artigas,Asunci√≥n,Paraguay,False
+1968-06-04 00:00:00,Finland,Denmark,1,3,Nordic Championship,Helsinki,Finland,False
+1968-06-05 00:00:00,Argentina,Uruguay,2,0,Copa Lipton,Buenos Aires,Argentina,False
+1968-06-05 00:00:00,England,Yugoslavia,0,1,UEFA Euro,Florence,Italy,True
+1968-06-05 00:00:00,Italy,Russia,0,0,UEFA Euro,Naples,Italy,False
+1968-06-05 00:00:00,Romania,Netherlands,0,0,Friendly,Bucharest,Romania,False
+1968-06-08 00:00:00,England,Russia,2,0,UEFA Euro,Rome,Italy,True
+1968-06-08 00:00:00,Italy,Yugoslavia,1,1,UEFA Euro,Rome,Italy,False
+1968-06-09 00:00:00,Brazil,Uruguay,2,0,Copa Rio Branco,S√£o Paulo,Brazil,False
+1968-06-09 00:00:00,Norway,Poland,1,6,Friendly,Oslo,Norway,False
+1968-06-10 00:00:00,Italy,Yugoslavia,2,0,UEFA Euro,Rome,Italy,False
+1968-06-12 00:00:00,Brazil,Uruguay,4,0,Copa Rio Branco,Rio de Janeiro,Brazil,False
+1968-06-16 00:00:00,Germany,Brazil,2,1,Friendly,Stuttgart,Germany,False
+1968-06-16 00:00:00,Russia,Austria,3,1,Friendly,Leningrad,Soviet Union,False
+1968-06-19 00:00:00,Finland,Belgium,1,2,FIFA World Cup qualification,Helsinki,Finland,False
+1968-06-20 00:00:00,Poland,Brazil,3,6,Friendly,Warsaw,Poland,False
+1968-06-20 00:00:00,Uruguay,Argentina,2,1,Copa Newton,Montevideo,Uruguay,False
+1968-06-23 00:00:00,Czechoslovakia,Brazil,3,2,Friendly,Bratislava,Czechoslovakia,False
+1968-06-23 00:00:00,Denmark,Norway,5,1,Nordic Championship,Copenhagen,Denmark,False
+1968-06-25 00:00:00,Yugoslavia,Brazil,0,2,Friendly,Belgrade,Yugoslavia,False
+1968-06-27 00:00:00,Sweden,Denmark,2,1,Nordic Championship,Solna,Sweden,False
+1968-06-29 00:00:00,Zambia,Uganda,2,1,Friendly,Lusaka,Zambia,False
+1968-06-30 00:00:00,Portugal,Brazil,0,2,Friendly,Maputo,Mozambique,True
+1968-06-30 00:00:00,Zambia,Uganda,1,1,Friendly,Mufulira,Zambia,False
+1968-07-02 00:00:00,Zambia,Uganda,2,1,Friendly,Ndola,Zambia,False
+1968-07-04 00:00:00,Zambia,Uganda,2,2,Friendly,Kitwe,Zambia,False
+1968-07-06 00:00:00,Malawi,Kenya,2,2,Friendly,Blantyre,Malawi,False
+1968-07-07 00:00:00,Mexico,Brazil,0,2,Friendly,Mexico City,Mexico,False
+1968-07-10 00:00:00,Mexico,Brazil,2,1,Friendly,Mexico City,Mexico,False
+1968-07-13 00:00:00,Malawi,Botswana,8,1,Friendly,Blantyre,Malawi,False
+1968-07-14 00:00:00,Peru,Brazil,3,4,Friendly,Lima,Peru,False
+1968-07-17 00:00:00,Honduras,El Salvador,0,0,Friendly,Tegucigalpa,Honduras,False
+1968-07-17 00:00:00,Peru,Brazil,0,4,Friendly,Lima,Peru,False
+1968-07-18 00:00:00,Iceland,Norway,0,4,Friendly,Reykjav√≠k,Iceland,False
+1968-07-20 00:00:00,Eswatini,Malawi,2,0,Friendly,Mbabane,Eswatini,False
+1968-07-25 00:00:00,Paraguay,Brazil,0,4,Copa Oswaldo Cruz,Asunci√≥n,Paraguay,False
+1968-07-28 00:00:00,Paraguay,Brazil,1,0,Copa Oswaldo Cruz,Asunci√≥n,Paraguay,False
+1968-07-31 00:00:00,El Salvador,Honduras,2,1,Friendly,San Salvador,El Salvador,False
+1968-08-01 00:00:00,Sweden,Russia,2,2,Friendly,Gothenburg,Sweden,False
+1968-08-07 00:00:00,Brazil,Argentina,4,1,Friendly,Rio de Janeiro,Brazil,False
+1968-08-09 00:00:00,Malaysia,Hong Kong,1,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1968-08-10 00:00:00,Myanmar,Vietnam Republic,3,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1968-08-10 00:00:00,South Korea,Western Australia,0,3,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1968-08-11 00:00:00,Brazil,Argentina,3,2,Friendly,Belo Horizonte,Brazil,False
+1968-08-11 00:00:00,Hong Kong,Thailand,0,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1968-08-11 00:00:00,Singapore,Taiwan,0,2,Merdeka Tournament,Ipoh,Malaysia,True
+1968-08-11 00:00:00,Malaysia,India,2,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1968-08-12 00:00:00,Myanmar,Hong Kong,3,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1968-08-12 00:00:00,India,Vietnam Republic,3,2,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1968-08-12 00:00:00,Indonesia,Western Australia,4,5,Merdeka Tournament,Ipoh,Malaysia,True
+1968-08-12 00:00:00,South Korea,Singapore,3,2,Merdeka Tournament,Ipoh,Malaysia,True
+1968-08-14 00:00:00,Myanmar,Thailand,0,0,Merdeka Tournament,Ipoh,Malaysia,True
+1968-08-14 00:00:00,South Korea,Taiwan,2,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1968-08-14 00:00:00,Malaysia,Vietnam Republic,4,0,Merdeka Tournament,Ipoh,Malaysia,False
+1968-08-15 00:00:00,El Salvador,Guatemala,1,0,Friendly,San Salvador,El Salvador,False
+1968-08-15 00:00:00,Hong Kong,India,1,1,Merdeka Tournament,Ipoh,Malaysia,True
+1968-08-15 00:00:00,Western Australia,Taiwan,3,2,Merdeka Tournament,Ipoh,Malaysia,True
+1968-08-15 00:00:00,Indonesia,Singapore,4,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1968-08-15 00:00:00,Thailand,Vietnam Republic,2,3,Merdeka Tournament,Ipoh,Malaysia,True
+1968-08-17 00:00:00,Malaysia,Thailand,4,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1968-08-17 00:00:00,Myanmar,India,1,3,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1968-08-17 00:00:00,Indonesia,South Korea,4,2,Merdeka Tournament,Ipoh,Malaysia,True
+1968-08-18 00:00:00,Hong Kong,Vietnam Republic,1,3,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1968-08-18 00:00:00,Malaysia,Myanmar,1,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1968-08-18 00:00:00,Norway,Finland,4,1,Nordic Championship,Oslo,Norway,False
+1968-08-18 00:00:00,Peru,Chile,1,2,Copa del Pac√≠fico,Lima,Peru,False
+1968-08-18 00:00:00,Singapore,Western Australia,4,4,Merdeka Tournament,Ipoh,Malaysia,True
+1968-08-19 00:00:00,India,Thailand,0,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1968-08-19 00:00:00,Indonesia,Taiwan,10,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1968-08-21 00:00:00,Myanmar,Indonesia,2,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1968-08-21 00:00:00,South Korea,Thailand,2,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1968-08-21 00:00:00,Peru,Chile,0,0,Copa del Pac√≠fico,Lima,Peru,False
+1968-08-22 00:00:00,Malaysia,Western Australia,4,3,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1968-08-24 00:00:00,India,South Korea,0,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1968-08-24 00:00:00,Indonesia,Western Australia,1,3,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1968-08-25 00:00:00,Malaysia,Myanmar,3,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1968-08-27 00:00:00,Singapore,South Korea,4,3,Friendly,Kallang,Singapore,False
+1968-08-28 00:00:00,Singapore,Vietnam Republic,1,0,Friendly,Kallang,Singapore,False
+1968-08-29 00:00:00,India,Indonesia,1,3,Friendly,Kallang,Singapore,True
+1968-08-29 00:00:00,Peru,Argentina,2,2,Friendly,Lima,Peru,False
+1968-08-30 00:00:00,India,Vietnam Republic,0,2,Friendly,Kallang,Singapore,True
+1968-08-30 00:00:00,Singapore,Indonesia,1,0,Friendly,Kallang,Singapore,False
+1968-09-01 00:00:00,Peru,Argentina,1,1,Friendly,Lima,Peru,False
+1968-09-01 00:00:00,Suriname,French Guiana,2,1,Friendly,Paramaribo,Suriname,False
+1968-09-04 00:00:00,Netherlands,Luxembourg,2,0,FIFA World Cup qualification,Rotterdam,Netherlands,False
+1968-09-10 00:00:00,Israel,Northern Ireland,2,3,Friendly,Jaffa,Israel,False
+1968-09-11 00:00:00,El Salvador,Costa Rica,1,1,Friendly,San Salvador,El Salvador,False
+1968-09-11 00:00:00,Finland,Sweden,0,3,Nordic Championship,Helsinki,Finland,False
+1968-09-15 00:00:00,Norway,Sweden,1,1,Nordic Championship,Oslo,Norway,False
+1968-09-15 00:00:00,United States,Israel,3,3,Friendly,New York,United States,False
+1968-09-17 00:00:00,New Zealand,Fiji,5,0,Friendly,Auckland,New Zealand,False
+1968-09-19 00:00:00,New Caledonia,Fiji,2,1,Friendly,Noum√©a,New Caledonia,False
+1968-09-22 00:00:00,Ghana,Benin,3,0,Friendly,Accra,Ghana,False
+1968-09-22 00:00:00,Switzerland,Austria,1,0,Friendly,Berne,Switzerland,False
+1968-09-25 00:00:00,Denmark,Czechoslovakia,0,3,FIFA World Cup qualification,Copenhagen,Denmark,False
+1968-09-25 00:00:00,France,Germany,1,1,Friendly,Marseille,France,False
+1968-09-25 00:00:00,United States,Israel,0,4,Friendly,Philadelphia,United States,False
+1968-09-25 00:00:00,Yugoslavia,Finland,9,1,FIFA World Cup qualification,Belgrade,Yugoslavia,False
+1968-09-28 00:00:00,Tanzania,Uganda,0,2,Friendly,Dar es Salaam,Tanzania,False
+1968-09-29 00:00:00,Kenya,Zanzibar,3,0,Friendly,Dar es Salaam,Tanzania,True
+1968-09-29 00:00:00,Mexico,Ethiopia,3,0,Friendly,Le√≥n,Mexico,False
+1968-10-01 00:00:00,Tanzania,Kenya,3,3,Friendly,Dar es Salaam,Tanzania,False
+1968-10-02 00:00:00,Uganda,Zanzibar,2,0,Friendly,Dar es Salaam,Tanzania,True
+1968-10-04 00:00:00,Cura√ßao,Costa Rica,1,1,Friendly,Willemstad,Netherlands Antilles,False
+1968-10-04 00:00:00,Kenya,Uganda,1,1,Friendly,Dar es Salaam,Tanzania,True
+1968-10-05 00:00:00,Tanzania,Zanzibar,3,0,Friendly,Dar es Salaam,Tanzania,False
+1968-10-06 00:00:00,Canada,Bermuda,4,0,FIFA World Cup qualification,Toronto,Canada,False
+1968-10-06 00:00:00,Suriname,Martinique,7,0,Friendly,Paramaribo,Suriname,False
+1968-10-08 00:00:00,New Zealand,New Caledonia,1,3,Friendly,Auckland,New Zealand,False
+1968-10-08 00:00:00,Suriname,Martinique,0,0,Friendly,Paramaribo,Suriname,False
+1968-10-09 00:00:00,Belgium,Finland,6,1,FIFA World Cup qualification,Waregem,Belgium,False
+1968-10-09 00:00:00,Sweden,Norway,5,0,FIFA World Cup qualification,Solna,Sweden,False
+1968-10-09 00:00:00,Turkey,Bulgaria,0,2,Friendly,Istanbul,Turkey,False
+1968-10-09 00:00:00,Uganda,Zambia,2,3,Friendly,Kampala,Uganda,False
+1968-10-12 00:00:00,Switzerland,Greece,1,0,FIFA World Cup qualification,Basel,Switzerland,False
+1968-10-12 00:00:00,Uganda,Zambia,1,1,Friendly,Mbale,Uganda,False
+1968-10-13 00:00:00,Austria,Germany,0,2,FIFA World Cup qualification,Vienna,Austria,False
+1968-10-13 00:00:00,Canada,United States,4,2,FIFA World Cup qualification,Toronto,Canada,False
+1968-10-13 00:00:00,Kenya,Zambia,2,1,Friendly,Nairobi,Kenya,False
+1968-10-15 00:00:00,Ethiopia,Thailand,6,0,Friendly,Le√≥n,Mexico,True
+1968-10-16 00:00:00,Belgium,Yugoslavia,3,0,FIFA World Cup qualification,Brussels,Belgium,False
+1968-10-16 00:00:00,Colombia,Mexico,0,1,Friendly,Bogot√°,Colombia,False
+1968-10-16 00:00:00,Denmark,Scotland,0,1,Friendly,Copenhagen,Denmark,False
+1968-10-17 00:00:00,France,Spain,1,3,Friendly,Lyon,France,False
+1968-10-20 00:00:00,Bermuda,Canada,0,0,FIFA World Cup qualification,Hamilton,Bermuda,False
+1968-10-20 00:00:00,Czechoslovakia,Denmark,1,0,FIFA World Cup qualification,Bratislava,Czechoslovakia,False
+1968-10-20 00:00:00,Haiti,United States,3,6,Friendly,Port-au-Prince,Haiti,False
+1968-10-20 00:00:00,Peru,Mexico,3,3,Friendly,Lima,Peru,False
+1968-10-20 00:00:00,Poland,German DR,1,1,Friendly,Szczecin,Poland,False
+1968-10-21 00:00:00,Haiti,United States,5,2,Friendly,Port-au-Prince,Haiti,False
+1968-10-22 00:00:00,Zambia,Tanzania,7,1,Friendly,Kitwe,Zambia,False
+1968-10-23 00:00:00,Chile,Mexico,3,1,Friendly,Santiago,Chile,False
+1968-10-23 00:00:00,Haiti,United States,1,0,Friendly,Port-au-Prince,Haiti,False
+1968-10-23 00:00:00,Northern Ireland,Turkey,4,1,FIFA World Cup qualification,Belfast,Northern Ireland,False
+1968-10-23 00:00:00,Wales,Italy,0,1,FIFA World Cup qualification,Cardiff,Wales,False
+1968-10-24 00:00:00,Zambia,Tanzania,2,1,Friendly,Lusaka,Zambia,False
+1968-10-26 00:00:00,Uruguay,Mexico,0,2,Friendly,Montevideo,Uruguay,False
+1968-10-27 00:00:00,Bulgaria,Netherlands,2,0,FIFA World Cup qualification,Sofia,Bulgaria,False

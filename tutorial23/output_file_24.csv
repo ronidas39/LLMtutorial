@@ -1,0 +1,1001 @@
+date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
+2001-04-22 00:00:00,Indonesia,Cambodia,6,0,FIFA World Cup qualification,Jakarta,Indonesia,False
+2001-04-22 00:00:00,Ivory Coast,Congo,2,0,FIFA World Cup qualification,Abidjan,Ivory Coast,False
+2001-04-22 00:00:00,Liberia,Sudan,2,0,FIFA World Cup qualification,Paynesville,Liberia,False
+2001-04-22 00:00:00,Mozambique,Lesotho,1,0,Friendly,Beira,Mozambique,False
+2001-04-23 00:00:00,Iraq,Nepal,4,2,FIFA World Cup qualification,Almaty,Kazakhstan,True
+2001-04-23 00:00:00,Kazakhstan,Macau,5,0,FIFA World Cup qualification,Almaty,Kazakhstan,False
+2001-04-23 00:00:00,Turkmenistan,Jordan,2,0,FIFA World Cup qualification,Tashkent,Uzbekistan,True
+2001-04-23 00:00:00,Uzbekistan,Taiwan,7,0,FIFA World Cup qualification,Tashkent,Uzbekistan,False
+2001-04-24 00:00:00,Belize,Nicaragua,2,0,Friendly,Belize City,Belize,False
+2001-04-24 00:00:00,Chile,Uruguay,0,1,FIFA World Cup qualification,Santiago,Chile,False
+2001-04-24 00:00:00,Ecuador,Paraguay,2,1,FIFA World Cup qualification,Quito,Ecuador,False
+2001-04-24 00:00:00,Egypt,Canada,3,0,Friendly,Cairo,Egypt,False
+2001-04-24 00:00:00,Georgia,Israel,3,2,Friendly,Tbilisi,Georgia,False
+2001-04-24 00:00:00,Iran,South Korea,0,1,Friendly,Cairo,Egypt,True
+2001-04-24 00:00:00,Panama,Haiti,2,0,Friendly,Panama City,Panama,False
+2001-04-24 00:00:00,Venezuela,Colombia,2,2,FIFA World Cup qualification,San Crist√≥bal,Venezuela,False
+2001-04-25 00:00:00,Austria,Liechtenstein,2,0,FIFA World Cup qualification,Innsbruck,Austria,False
+2001-04-25 00:00:00,Bolivia,Argentina,3,3,FIFA World Cup qualification,La Paz,Bolivia,False
+2001-04-25 00:00:00,Brazil,Peru,1,1,FIFA World Cup qualification,S√£o Paulo,Brazil,False
+2001-04-25 00:00:00,Croatia,Greece,2,2,Friendly,Vara≈ædin,Croatia,False
+2001-04-25 00:00:00,Czech Republic,Belgium,1,1,Friendly,Prague,Czech Republic,False
+2001-04-25 00:00:00,Denmark,Slovenia,3,0,Friendly,Copenhagen,Denmark,False
+2001-04-25 00:00:00,France,Portugal,4,0,Friendly,Saint-Denis,France,False
+2001-04-25 00:00:00,Hungary,Finland,0,0,Friendly,Budapest,Hungary,False
+2001-04-25 00:00:00,Republic of Ireland,Andorra,3,1,FIFA World Cup qualification,Dublin,Republic of Ireland,False
+2001-04-25 00:00:00,Italy,South Africa,1,0,Friendly,Perugia,Italy,False
+2001-04-25 00:00:00,Jamaica,Honduras,1,1,FIFA World Cup qualification,Kingston,Jamaica,False
+2001-04-25 00:00:00,Kazakhstan,Iraq,1,1,FIFA World Cup qualification,Almaty,Kazakhstan,False
+2001-04-25 00:00:00,Latvia,San Marino,1,1,FIFA World Cup qualification,Riga,Latvia,False
+2001-04-25 00:00:00,Lebanon,Philippines,3,0,Friendly,Tripoli,Lebanon,False
+2001-04-25 00:00:00,Macau,Nepal,1,6,FIFA World Cup qualification,Almaty,Kazakhstan,True
+2001-04-25 00:00:00,Malta,Iceland,1,4,FIFA World Cup qualification,Attard,Malta,False
+2001-04-25 00:00:00,Moldova,Estonia,0,0,Friendly,Chi»ôinƒÉu,Moldova,False
+2001-04-25 00:00:00,Netherlands,Cyprus,4,0,FIFA World Cup qualification,Eindhoven,Netherlands,False
+2001-04-25 00:00:00,Norway,Bulgaria,2,1,Friendly,Oslo,Norway,False
+2001-04-25 00:00:00,Poland,Scotland,1,1,Friendly,Bydgoszcz,Poland,False
+2001-04-25 00:00:00,Romania,Slovakia,0,0,Friendly,Ploie»ôti,Romania,False
+2001-04-25 00:00:00,Serbia,Russia,0,1,FIFA World Cup qualification,Belgrade,Yugoslavia,True
+2001-04-25 00:00:00,Spain,Japan,1,0,Friendly,C√≥rdoba,Spain,False
+2001-04-25 00:00:00,Switzerland,Sweden,0,2,Friendly,Geneva,Switzerland,False
+2001-04-25 00:00:00,Trinidad and Tobago,Mexico,1,1,FIFA World Cup qualification,Port of Spain,Trinidad and Tobago,False
+2001-04-25 00:00:00,Turkey,Albania,0,2,Friendly,Gaziantep,Turkey,False
+2001-04-25 00:00:00,United States,Costa Rica,1,0,FIFA World Cup qualification,Kansas City,United States,False
+2001-04-25 00:00:00,Uzbekistan,Turkmenistan,1,0,FIFA World Cup qualification,Tashkent,Uzbekistan,False
+2001-04-26 00:00:00,Belize,Nicaragua,2,1,Friendly,Belize City,Belize,False
+2001-04-26 00:00:00,Canada,Iran,1,0,Friendly,Cairo,Egypt,True
+2001-04-26 00:00:00,Egypt,South Korea,1,2,Friendly,Cairo,Egypt,False
+2001-04-26 00:00:00,United Arab Emirates,India,1,0,FIFA World Cup qualification,Al Ain,United Arab Emirates,False
+2001-04-27 00:00:00,Uzbekistan,Jordan,2,2,FIFA World Cup qualification,Tashkent,Uzbekistan,False
+2001-04-27 00:00:00,Yemen,Brunei,1,0,FIFA World Cup qualification,Sana'a,Yemen,False
+2001-04-28 00:00:00,Bangladesh,Bhutan,3,1,Friendly,Dhaka,Bangladesh,False
+2001-04-28 00:00:00,Congo,Madagascar,2,0,FIFA World Cup qualification,Pointe-Noire,Congo,False
+2001-04-28 00:00:00,Maldives,China PR,0,1,FIFA World Cup qualification,Mal√©,Maldives,False
+2001-04-29 00:00:00,Cambodia,Indonesia,0,2,FIFA World Cup qualification,Phnom Penh,Cambodia,False
+2001-04-29 00:00:00,Mozambique,South Africa,0,3,COSAFA Cup,Maputo,Mozambique,False
+2001-04-30 00:00:00,Oman,Laos,12,0,FIFA World Cup qualification,Muscat,Oman,False
+2001-04-30 00:00:00,Syria,Philippines,12,0,FIFA World Cup qualification,Aleppo,Syria,False
+2001-05-03 00:00:00,Jordan,Taiwan,6,0,FIFA World Cup qualification,Amman,Jordan,False
+2001-05-03 00:00:00,Turkmenistan,Uzbekistan,2,5,FIFA World Cup qualification,Amman,Jordan,True
+2001-05-04 00:00:00,Algeria,Morocco,1,2,FIFA World Cup qualification,Algiers,Algeria,False
+2001-05-04 00:00:00,Oman,Laos,7,0,FIFA World Cup qualification,Muscat,Oman,False
+2001-05-04 00:00:00,Syria,Philippines,5,1,FIFA World Cup qualification,Aleppo,Syria,False
+2001-05-04 00:00:00,United Arab Emirates,Brunei,4,0,FIFA World Cup qualification,Al Ain,United Arab Emirates,False
+2001-05-04 00:00:00,Yemen,India,3,3,FIFA World Cup qualification,Sana'a,Yemen,False
+2001-05-05 00:00:00,Jordan,Turkmenistan,1,2,FIFA World Cup qualification,Amman,Jordan,False
+2001-05-05 00:00:00,Madagascar,Tunisia,0,2,FIFA World Cup qualification,Antananarivo,Madagascar,False
+2001-05-05 00:00:00,Nigeria,Liberia,2,0,FIFA World Cup qualification,Port Harcourt,Nigeria,False
+2001-05-05 00:00:00,Sierra Leone,Ghana,1,1,FIFA World Cup qualification,Freetown,Sierra Leone,False
+2001-05-05 00:00:00,South Africa,Zimbabwe,2,1,FIFA World Cup qualification,Johannesburg,South Africa,False
+2001-05-05 00:00:00,Saint Kitts and Nevis,Puerto Rico,2,0,Friendly,Basseterre,Saint Kitts and Nevis,False
+2001-05-06 00:00:00,Angola,Cameroon,2,0,FIFA World Cup qualification,Luanda,Angola,False
+2001-05-06 00:00:00,Cambodia,China PR,0,4,FIFA World Cup qualification,Phnom Penh,Cambodia,False
+2001-05-06 00:00:00,Congo,DR Congo,1,1,FIFA World Cup qualification,Pointe-Noire,Congo,False
+2001-05-06 00:00:00,Egypt,Senegal,1,0,FIFA World Cup qualification,Cairo,Egypt,False
+2001-05-06 00:00:00,Maldives,Indonesia,0,2,FIFA World Cup qualification,Mal√©,Maldives,False
+2001-05-06 00:00:00,Togo,Zambia,3,2,FIFA World Cup qualification,Lom√©,Togo,False
+2001-05-07 00:00:00,Guernsey,Jersey,4,1,Friendly,St. Sampson,Guernsey,False
+2001-05-07 00:00:00,Jordan,Uzbekistan,1,1,FIFA World Cup qualification,Amman,Jordan,False
+2001-05-07 00:00:00,Oman,Philippines,7,0,FIFA World Cup qualification,Muscat,Oman,False
+2001-05-07 00:00:00,Syria,Laos,11,0,FIFA World Cup qualification,Aleppo,Syria,False
+2001-05-07 00:00:00,Turkmenistan,Taiwan,1,0,FIFA World Cup qualification,Amman,Jordan,True
+2001-05-09 00:00:00,Estonia,Finland,1,1,Friendly,Kuressaare,Estonia,False
+2001-05-09 00:00:00,Georgia,Azerbaijan,1,0,Friendly,Kutaisi,Georgia,False
+2001-05-10 00:00:00,Trinidad and Tobago,Grenada,5,3,Friendly,Macoya,Trinidad and Tobago,False
+2001-05-11 00:00:00,Oman,Philippines,2,0,FIFA World Cup qualification,Muscat,Oman,False
+2001-05-11 00:00:00,Syria,Laos,9,0,FIFA World Cup qualification,Aleppo,Syria,False
+2001-05-11 00:00:00,Yemen,United Arab Emirates,2,1,FIFA World Cup qualification,Sana'a,Yemen,False
+2001-05-12 00:00:00,Brunei,India,0,1,FIFA World Cup qualification,Bandar Seri Begawan,Brunei,False
+2001-05-13 00:00:00,China PR,Indonesia,5,1,FIFA World Cup qualification,Kunming,China PR,False
+2001-05-13 00:00:00,Lebanon,Pakistan,6,0,FIFA World Cup qualification,Beirut,Lebanon,False
+2001-05-13 00:00:00,Thailand,Sri Lanka,4,2,FIFA World Cup qualification,Beirut,Lebanon,True
+2001-05-15 00:00:00,Lebanon,Sri Lanka,4,0,FIFA World Cup qualification,Beirut,Lebanon,False
+2001-05-15 00:00:00,Martinique,Jamaica,0,1,CFU Caribbean Cup,Arima,Trinidad and Tobago,True
+2001-05-15 00:00:00,Thailand,Pakistan,3,0,FIFA World Cup qualification,Beirut,Lebanon,True
+2001-05-15 00:00:00,Trinidad and Tobago,Barbados,5,0,CFU Caribbean Cup,Arima,Trinidad and Tobago,False
+2001-05-16 00:00:00,Cuba,Suriname,4,3,CFU Caribbean Cup,Macoya,Trinidad and Tobago,True
+2001-05-16 00:00:00,Haiti,Saint Kitts and Nevis,7,2,CFU Caribbean Cup,Macoya,Trinidad and Tobago,True
+2001-05-17 00:00:00,Lebanon,Thailand,1,2,FIFA World Cup qualification,Beirut,Lebanon,False
+2001-05-17 00:00:00,Martinique,Barbados,3,1,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,True
+2001-05-17 00:00:00,Pakistan,Sri Lanka,3,3,FIFA World Cup qualification,Beirut,Lebanon,True
+2001-05-17 00:00:00,Trinidad and Tobago,Jamaica,2,1,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,False
+2001-05-17 00:00:00,Andalusia,Iraq,3,1,Friendly,V√©lez-M√°laga,Spain,False
+2001-05-18 00:00:00,Haiti,Suriname,1,1,CFU Caribbean Cup,Macoya,Trinidad and Tobago,True
+2001-05-18 00:00:00,Saint Kitts and Nevis,Cuba,1,1,CFU Caribbean Cup,Macoya,Trinidad and Tobago,True
+2001-05-18 00:00:00,Syria,Oman,3,3,FIFA World Cup qualification,Aleppo,Syria,False
+2001-05-18 00:00:00,United Arab Emirates,Yemen,3,2,FIFA World Cup qualification,Al Ain,United Arab Emirates,False
+2001-05-19 00:00:00,Barbados,Jamaica,1,2,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,True
+2001-05-19 00:00:00,Laos,Philippines,2,0,FIFA World Cup qualification,Vientiane,Laos,False
+2001-05-19 00:00:00,Trinidad and Tobago,Martinique,1,2,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,False
+2001-05-20 00:00:00,China PR,Cambodia,3,1,FIFA World Cup qualification,Guangzhou,China PR,False
+2001-05-20 00:00:00,Haiti,Cuba,0,0,CFU Caribbean Cup,Arima,Trinidad and Tobago,True
+2001-05-20 00:00:00,India,Brunei,5,0,FIFA World Cup qualification,Bangalore,India,False
+2001-05-20 00:00:00,Lesotho,Eswatini,1,0,Friendly,Maseru,Lesotho,False
+2001-05-20 00:00:00,Suriname,Saint Kitts and Nevis,0,4,CFU Caribbean Cup,Arima,Trinidad and Tobago,True
+2001-05-20 00:00:00,Tunisia,Ivory Coast,1,1,FIFA World Cup qualification,Tunis,Tunisia,False
+2001-05-22 00:00:00,Haiti,Martinique,5,0,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,True
+2001-05-22 00:00:00,Singapore,New Zealand,3,0,Friendly,Singapore,Singapore,False
+2001-05-22 00:00:00,Trinidad and Tobago,Cuba,2,0,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,False
+2001-05-23 00:00:00,Costa Rica,Belize,4,0,UNCAF Cup,San Pedro Sula,Honduras,True
+2001-05-23 00:00:00,El Salvador,Nicaragua,3,0,UNCAF Cup,Puerto Cort√©s,Honduras,True
+2001-05-23 00:00:00,Honduras,Panama,1,2,UNCAF Cup,San Pedro Sula,Honduras,False
+2001-05-24 00:00:00,Martinique,Cuba,1,0,CFU Caribbean Cup,Arima,Trinidad and Tobago,True
+2001-05-25 00:00:00,El Salvador,Panama,2,1,UNCAF Cup,Tegucigalpa,Honduras,True
+2001-05-25 00:00:00,England,Mexico,4,0,Friendly,Derby,England,False
+2001-05-25 00:00:00,Guatemala,Belize,3,3,UNCAF Cup,Puerto Cort√©s,Honduras,True
+2001-05-25 00:00:00,Honduras,Nicaragua,10,2,UNCAF Cup,Tegucigalpa,Honduras,False
+2001-05-25 00:00:00,South Korea,Cameroon,0,0,Friendly,Suwon,South Korea,False
+2001-05-25 00:00:00,Oman,Syria,2,0,FIFA World Cup qualification,Muscat,Oman,False
+2001-05-25 00:00:00,Trinidad and Tobago,Haiti,3,0,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,False
+2001-05-26 00:00:00,Pakistan,Lebanon,1,8,FIFA World Cup qualification,Bangkok,Thailand,True
+2001-05-26 00:00:00,Philippines,Laos,1,1,FIFA World Cup qualification,Pasig City,Philippines,False
+2001-05-26 00:00:00,Thailand,Sri Lanka,3,0,FIFA World Cup qualification,Bangkok,Thailand,False
+2001-05-27 00:00:00,Costa Rica,Guatemala,1,1,UNCAF Cup,San Pedro Sula,Honduras,True
+2001-05-27 00:00:00,Honduras,El Salvador,1,1,UNCAF Cup,San Pedro Sula,Honduras,False
+2001-05-27 00:00:00,Indonesia,China PR,0,2,FIFA World Cup qualification,Jakarta,Indonesia,False
+2001-05-27 00:00:00,Panama,Nicaragua,6,0,UNCAF Cup,Puerto Cort√©s,Honduras,True
+2001-05-28 00:00:00,Sri Lanka,Lebanon,0,5,FIFA World Cup qualification,Bangkok,Thailand,True
+2001-05-28 00:00:00,Thailand,Pakistan,6,0,FIFA World Cup qualification,Bangkok,Thailand,False
+2001-05-29 00:00:00,Germany,Slovakia,2,0,Friendly,Bremen,Germany,False
+2001-05-30 00:00:00,El Salvador,Guatemala,0,0,UNCAF Cup,San Pedro Sula,Honduras,True
+2001-05-30 00:00:00,South Korea,France,0,5,Confederations Cup,Daegu,South Korea,False
+2001-05-30 00:00:00,Mexico,Australia,0,2,Confederations Cup,Suwon,South Korea,True
+2001-05-30 00:00:00,Panama,Costa Rica,1,2,UNCAF Cup,San Pedro Sula,Honduras,True
+2001-05-30 00:00:00,Sri Lanka,Pakistan,3,1,FIFA World Cup qualification,Bangkok,Thailand,True
+2001-05-30 00:00:00,Thailand,Lebanon,2,2,FIFA World Cup qualification,Bangkok,Thailand,False
+2001-05-31 00:00:00,Brazil,Cameroon,2,0,Confederations Cup,Kashima,Japan,True
+2001-05-31 00:00:00,Japan,Canada,3,0,Confederations Cup,Niigata,Japan,False
+2001-06-01 00:00:00,Algeria,Angola,3,2,African Cup of Nations qualification,Algiers,Algeria,False
+2001-06-01 00:00:00,Australia,France,1,0,Confederations Cup,Daegu,South Korea,True
+2001-06-01 00:00:00,El Salvador,Panama,1,1,UNCAF Cup,Tegucigalpa,Honduras,True
+2001-06-01 00:00:00,Guatemala,Costa Rica,2,0,UNCAF Cup,Tegucigalpa,Honduras,True
+2001-06-01 00:00:00,South Korea,Mexico,2,1,Confederations Cup,Ulsan,South Korea,False
+2001-06-02 00:00:00,Armenia,Belarus,0,0,FIFA World Cup qualification,Yerevan,Armenia,False
+2001-06-02 00:00:00,Belgium,Latvia,3,1,FIFA World Cup qualification,Brussels,Belgium,False
+2001-06-02 00:00:00,Canada,Brazil,0,0,Confederations Cup,Kashima,Japan,True
+2001-06-02 00:00:00,Croatia,San Marino,4,0,FIFA World Cup qualification,Vara≈ædin,Croatia,False
+2001-06-02 00:00:00,Denmark,Czech Republic,2,1,FIFA World Cup qualification,Copenhagen,Denmark,False
+2001-06-02 00:00:00,Estonia,Netherlands,2,4,FIFA World Cup qualification,Tallinn,Estonia,False
+2001-06-02 00:00:00,Faroe Islands,Switzerland,0,1,FIFA World Cup qualification,Toftir,Faroe Islands,False
+2001-06-02 00:00:00,Finland,Germany,2,2,FIFA World Cup qualification,Helsinki,Finland,False
+2001-06-02 00:00:00,Gabon,Tunisia,1,1,African Cup of Nations qualification,Libreville,Gabon,False
+2001-06-02 00:00:00,Georgia,Italy,1,2,FIFA World Cup qualification,Tbilisi,Georgia,False
+2001-06-02 00:00:00,Greece,Albania,1,0,FIFA World Cup qualification,Heraklion,Greece,False
+2001-06-02 00:00:00,Iceland,Malta,3,0,FIFA World Cup qualification,Reykjav√≠k,Iceland,False
+2001-06-02 00:00:00,Republic of Ireland,Portugal,1,1,FIFA World Cup qualification,Dublin,Republic of Ireland,False
+2001-06-02 00:00:00,Japan,Cameroon,2,0,Confederations Cup,Niigata,Japan,False
+2001-06-02 00:00:00,Kenya,Morocco,1,1,African Cup of Nations qualification,Nairobi,Kenya,False
+2001-06-02 00:00:00,Liechtenstein,Israel,0,3,FIFA World Cup qualification,Vaduz,Liechtenstein,False
+2001-06-02 00:00:00,North Macedonia,Moldova,2,2,FIFA World Cup qualification,Skopje,North Macedonia,False
+2001-06-02 00:00:00,Nigeria,Madagascar,1,0,African Cup of Nations qualification,Benin City,Nigeria,False
+2001-06-02 00:00:00,Northern Ireland,Bulgaria,0,1,FIFA World Cup qualification,Belfast,Northern Ireland,False
+2001-06-02 00:00:00,Paraguay,Chile,1,0,FIFA World Cup qualification,Asunci√≥n,Paraguay,False
+2001-06-02 00:00:00,Peru,Ecuador,1,2,FIFA World Cup qualification,Lima,Peru,False
+2001-06-02 00:00:00,Romania,Hungary,2,0,FIFA World Cup qualification,Bucharest,Romania,False
+2001-06-02 00:00:00,Russia,Serbia,1,1,FIFA World Cup qualification,Moscow,Russia,False
+2001-06-02 00:00:00,Slovenia,Luxembourg,2,0,FIFA World Cup qualification,Ljubljana,Slovenia,False
+2001-06-02 00:00:00,Spain,Bosnia and Herzegovina,4,1,FIFA World Cup qualification,Oviedo,Spain,False
+2001-06-02 00:00:00,Sweden,Slovakia,2,0,FIFA World Cup qualification,Solna,Sweden,False
+2001-06-02 00:00:00,Turkey,Azerbaijan,3,0,FIFA World Cup qualification,Istanbul,Turkey,False
+2001-06-02 00:00:00,Uganda,Togo,0,3,African Cup of Nations qualification,Kampala,Uganda,False
+2001-06-02 00:00:00,Ukraine,Norway,0,0,FIFA World Cup qualification,Kyiv,Ukraine,False
+2001-06-02 00:00:00,Wales,Poland,1,2,FIFA World Cup qualification,Cardiff,Wales,False
+2001-06-02 00:00:00,Zambia,Namibia,0,0,African Cup of Nations qualification,Chingola,Zambia,False
+2001-06-03 00:00:00,Argentina,Colombia,3,0,FIFA World Cup qualification,Buenos Aires,Argentina,False
+2001-06-03 00:00:00,Bolivia,Venezuela,5,0,FIFA World Cup qualification,La Paz,Bolivia,False
+2001-06-03 00:00:00,Burundi,Burkina Faso,0,0,African Cup of Nations qualification,Bujumbura,Burundi,False
+2001-06-03 00:00:00,Congo,Mauritius,0,0,African Cup of Nations qualification,Pointe-Noire,Congo,False
+2001-06-03 00:00:00,Costa Rica,El Salvador,1,1,UNCAF Cup,San Pedro Sula,Honduras,True
+2001-06-03 00:00:00,France,Mexico,4,0,Confederations Cup,Ulsan,South Korea,True
+2001-06-03 00:00:00,Gambia,Senegal,0,0,Friendly,Banjul,Gambia,False
+2001-06-03 00:00:00,Guatemala,Panama,3,1,UNCAF Cup,San Pedro Sula,Honduras,True
+2001-06-03 00:00:00,South Korea,Australia,1,0,Confederations Cup,Suwon,South Korea,False
+2001-06-03 00:00:00,Lesotho,DR Congo,0,0,African Cup of Nations qualification,Maseru,Lesotho,False
+2001-06-03 00:00:00,Liberia,South Africa,1,1,African Cup of Nations qualification,Paynesville,Liberia,False
+2001-06-03 00:00:00,Libya,Ivory Coast,0,3,African Cup of Nations qualification,Tripoli,Libya,False
+2001-06-03 00:00:00,Zimbabwe,Ghana,1,2,African Cup of Nations qualification,Harare,Zimbabwe,False
+2001-06-04 00:00:00,Cameroon,Canada,2,0,Confederations Cup,Niigata,Japan,True
+2001-06-04 00:00:00,Japan,Brazil,0,0,Confederations Cup,Kashima,Japan,False
+2001-06-04 00:00:00,Solomon Islands,Cook Islands,9,1,FIFA World Cup qualification,North Shore,New Zealand,True
+2001-06-04 00:00:00,Vanuatu,Tahiti,1,6,FIFA World Cup qualification,North Shore,New Zealand,True
+2001-06-06 00:00:00,Albania,Germany,0,2,FIFA World Cup qualification,Tirana,Albania,False
+2001-06-06 00:00:00,Armenia,Poland,1,1,FIFA World Cup qualification,Yerevan,Armenia,False
+2001-06-06 00:00:00,Azerbaijan,Slovakia,2,0,FIFA World Cup qualification,Baku,Azerbaijan,False
+2001-06-06 00:00:00,Cook Islands,Vanuatu,1,8,FIFA World Cup qualification,North Shore,New Zealand,True
+2001-06-06 00:00:00,Czech Republic,Northern Ireland,3,1,FIFA World Cup qualification,Teplice,Czech Republic,False
+2001-06-06 00:00:00,Denmark,Malta,2,1,FIFA World Cup qualification,Copenhagen,Denmark,False
+2001-06-06 00:00:00,Estonia,Republic of Ireland,0,2,FIFA World Cup qualification,Tallinn,Estonia,False
+2001-06-06 00:00:00,Faroe Islands,Serbia,0,6,FIFA World Cup qualification,Toftir,Faroe Islands,False
+2001-06-06 00:00:00,Greece,England,0,2,FIFA World Cup qualification,Athens,Greece,False
+2001-06-06 00:00:00,Hungary,Georgia,4,1,FIFA World Cup qualification,Budapest,Hungary,False
+2001-06-06 00:00:00,Iceland,Bulgaria,1,1,FIFA World Cup qualification,Reykjav√≠k,Iceland,False
+2001-06-06 00:00:00,Israel,Spain,1,1,FIFA World Cup qualification,Ramat-Gan,Israel,False
+2001-06-06 00:00:00,Latvia,Croatia,0,1,FIFA World Cup qualification,Riga,Latvia,False
+2001-06-06 00:00:00,Lithuania,Romania,1,2,FIFA World Cup qualification,Kaunas,Lithuania,False
+2001-06-06 00:00:00,Luxembourg,Russia,1,2,FIFA World Cup qualification,Luxembourg,Luxembourg,False
+2001-06-06 00:00:00,New Zealand,Tahiti,5,0,FIFA World Cup qualification,North Shore,New Zealand,False
+2001-06-06 00:00:00,Norway,Belarus,1,1,FIFA World Cup qualification,Oslo,Norway,False
+2001-06-06 00:00:00,Portugal,Cyprus,6,0,FIFA World Cup qualification,Lisbon,Portugal,False
+2001-06-06 00:00:00,San Marino,Belgium,1,4,FIFA World Cup qualification,Serravalle,San Marino,False
+2001-06-06 00:00:00,Sweden,Moldova,6,0,FIFA World Cup qualification,Gothenburg,Sweden,False
+2001-06-06 00:00:00,Switzerland,Slovenia,0,1,FIFA World Cup qualification,Basel,Switzerland,False
+2001-06-06 00:00:00,Turkey,North Macedonia,3,3,FIFA World Cup qualification,Bursa,Turkey,False
+2001-06-06 00:00:00,Ukraine,Wales,1,1,FIFA World Cup qualification,Kyiv,Ukraine,False
+2001-06-07 00:00:00,France,Brazil,2,1,Confederations Cup,Suwon,South Korea,True
+2001-06-07 00:00:00,Japan,Australia,1,0,Confederations Cup,Yokohama,Japan,False
+2001-06-07 00:00:00,United States,Ecuador,0,0,Friendly,Columbus,United States,False
+2001-06-08 00:00:00,New Zealand,Cook Islands,2,0,FIFA World Cup qualification,North Shore,New Zealand,False
+2001-06-08 00:00:00,Vanuatu,Solomon Islands,2,7,FIFA World Cup qualification,North Shore,New Zealand,True
+2001-06-09 00:00:00,Australia,Brazil,1,0,Confederations Cup,Ulsan,South Korea,True
+2001-06-10 00:00:00,Angola,Mauritius,1,0,COSAFA Cup,Luanda,Angola,False
+2001-06-10 00:00:00,Jamaica,Cuba,4,1,Friendly,Kingston,Jamaica,False
+2001-06-10 00:00:00,Japan,France,0,1,Confederations Cup,Yokohama,Japan,False
+2001-06-10 00:00:00,Kenya,Egypt,1,1,Friendly,Nairobi,Kenya,False
+2001-06-10 00:00:00,Panama,Trinidad and Tobago,0,0,Friendly,La Chorrera,Panama,False
+2001-06-10 00:00:00,Sierra Leone,Gambia,1,1,Friendly,Freetown,Sierra Leone,False
+2001-06-11 00:00:00,Cook Islands,Tahiti,0,6,FIFA World Cup qualification,North Shore,New Zealand,True
+2001-06-11 00:00:00,New Zealand,Solomon Islands,5,1,FIFA World Cup qualification,North Shore,New Zealand,False
+2001-06-13 00:00:00,New Zealand,Vanuatu,7,0,FIFA World Cup qualification,North Shore,New Zealand,False
+2001-06-13 00:00:00,Tahiti,Solomon Islands,2,0,FIFA World Cup qualification,North Shore,New Zealand,True
+2001-06-16 00:00:00,Jamaica,United States,0,0,FIFA World Cup qualification,Kingston,Jamaica,False
+2001-06-16 00:00:00,Madagascar,Zambia,0,1,African Cup of Nations qualification,Antananarivo,Madagascar,False
+2001-06-16 00:00:00,Mexico,Costa Rica,1,2,FIFA World Cup qualification,Mexico City,Mexico,False
+2001-06-16 00:00:00,Morocco,Gabon,0,1,African Cup of Nations qualification,F√®s,Morocco,False
+2001-06-16 00:00:00,Namibia,Nigeria,0,2,African Cup of Nations qualification,Windhoek,Namibia,False
+2001-06-16 00:00:00,Trinidad and Tobago,Honduras,2,4,FIFA World Cup qualification,Port of Spain,Trinidad and Tobago,False
+2001-06-17 00:00:00,Angola,Burundi,2,1,African Cup of Nations qualification,Cabinda,Angola,False
+2001-06-17 00:00:00,Burkina Faso,Algeria,1,0,African Cup of Nations qualification,Ouagadougou,Burkina Faso,False
+2001-06-17 00:00:00,DR Congo,Zimbabwe,2,1,African Cup of Nations qualification,Kinshasa,DR Congo,False
+2001-06-17 00:00:00,Ivory Coast,Egypt,2,2,African Cup of Nations qualification,Abidjan,Ivory Coast,False
+2001-06-17 00:00:00,Sudan,Libya,1,0,African Cup of Nations qualification,Khartoum,Sudan,False
+2001-06-20 00:00:00,Costa Rica,Jamaica,2,1,FIFA World Cup qualification,Alajuela,Costa Rica,False
+2001-06-20 00:00:00,Honduras,Mexico,3,1,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2001-06-20 00:00:00,New Zealand,Australia,0,2,FIFA World Cup qualification,Wellington,New Zealand,False
+2001-06-20 00:00:00,United States,Trinidad and Tobago,2,0,FIFA World Cup qualification,Foxborough,United States,False
+2001-06-21 00:00:00,Slovakia,Bosnia and Herzegovina,0,1,Merdeka Tournament,Shah Alam,Malaysia,True
+2001-06-21 00:00:00,Malaysia,Bahrain,2,4,Merdeka Tournament,Shah Alam,Malaysia,False
+2001-06-23 00:00:00,Malaysia,Slovakia,0,2,Merdeka Tournament,Shah Alam,Malaysia,False
+2001-06-23 00:00:00,Bahrain,Bosnia and Herzegovina,0,1,Merdeka Tournament,Shah Alam,Malaysia,True
+2001-06-23 00:00:00,Bermuda,Trinidad and Tobago,0,5,Friendly,Hamilton,Bermuda,False
+2001-06-24 00:00:00,Australia,New Zealand,4,1,FIFA World Cup qualification,Sydney,Australia,False
+2001-06-24 00:00:00,Belize,Cuba,3,2,Friendly,Belize,Belize,False
+2001-06-24 00:00:00,Lesotho,Zambia,1,2,COSAFA Cup,Maseru,Lesotho,False
+2001-06-25 00:00:00,Bahrain,Slovakia,2,0,Merdeka Tournament,Shah Alam,Malaysia,True
+2001-06-25 00:00:00,Malaysia,Bosnia and Herzegovina,2,2,Merdeka Tournament,Shah Alam,Malaysia,False
+2001-06-26 00:00:00,India,Uzbekistan,1,2,Merdeka Tournament,Shah Alam,Malaysia,True
+2001-06-28 00:00:00,Bahrain,Uzbekistan,0,2,Merdeka Tournament,Shah Alam,Malaysia,True
+2001-06-28 00:00:00,Paraguay,Serbia,2,0,Kirin Cup,Tokyo,Japan,True
+2001-06-29 00:00:00,Libya,Angola,1,1,FIFA World Cup qualification,Tripoli,Libya,False
+2001-06-30 00:00:00,Bosnia and Herzegovina,Uzbekistan,1,2,Merdeka Tournament,Shah Alam,Malaysia,True
+2001-06-30 00:00:00,Greenland,Tibet,4,1,Friendly,Copenhagen,Denmark,True
+2001-06-30 00:00:00,Morocco,Egypt,1,0,FIFA World Cup qualification,Rabat,Morocco,False
+2001-06-30 00:00:00,Namibia,Algeria,0,4,FIFA World Cup qualification,Windhoek,Namibia,False
+2001-06-30 00:00:00,Trinidad and Tobago,Jamaica,1,2,FIFA World Cup qualification,Port of Spain,Trinidad and Tobago,False
+2001-07-01 00:00:00,Burkina Faso,South Africa,1,1,FIFA World Cup qualification,Ouagadougou,Burkina Faso,False
+2001-07-01 00:00:00,Cameroon,Togo,2,0,FIFA World Cup qualification,Yaound√©,Cameroon,False
+2001-07-01 00:00:00,Honduras,Costa Rica,2,3,FIFA World Cup qualification,Tegucigalpa,Honduras,False
+2001-07-01 00:00:00,Ivory Coast,Madagascar,6,0,FIFA World Cup qualification,Abidjan,Ivory Coast,False
+2001-07-01 00:00:00,Japan,Paraguay,2,0,Kirin Cup,Sapporo,Japan,False
+2001-07-01 00:00:00,Liberia,Ghana,1,2,FIFA World Cup qualification,Paynesville,Liberia,False
+2001-07-01 00:00:00,Malawi,Eswatini,2,2,Friendly,Lilongwe,Malawi,False
+2001-07-01 00:00:00,Mexico,United States,1,0,FIFA World Cup qualification,Mexico City,Mexico,False
+2001-07-01 00:00:00,Sudan,Nigeria,0,4,FIFA World Cup qualification,Omdurman,Sudan,False
+2001-07-01 00:00:00,Tunisia,Congo,6,0,FIFA World Cup qualification,Tunis,Tunisia,False
+2001-07-01 00:00:00,Uruguay,Brazil,1,0,FIFA World Cup qualification,Montevideo,Uruguay,False
+2001-07-02 00:00:00,El Salvador,Ecuador,0,1,Friendly,East Rutherford,United States,True
+2001-07-03 00:00:00,Latvia,Estonia,3,1,Baltic Cup,Riga,Latvia,False
+2001-07-04 00:00:00,Estonia,Lithuania,2,5,Baltic Cup,Riga,Latvia,True
+2001-07-04 00:00:00,Japan,Serbia,1,0,Kirin Cup,≈åita,Japan,False
+2001-07-05 00:00:00,Latvia,Lithuania,4,1,Baltic Cup,Riga,Latvia,False
+2001-07-07 00:00:00,Honduras,Ecuador,1,1,Friendly,Miami,United States,True
+2001-07-08 00:00:00,Zimbabwe,Eswatini,2,1,COSAFA Cup,Harare,Zimbabwe,False
+2001-07-08 00:00:00,Ynys M√¥n,Saare County,4,1,Island Games,Castletown,Isle of Man,True
+2001-07-08 00:00:00,Jersey,Orkney,12,0,Island Games,Douglas,Isle of Man,True
+2001-07-08 00:00:00,Isle of Wight,Greenland,0,0,Island Games,Peel,Isle of Man,True
+2001-07-08 00:00:00,Isle of Man,Falkland Islands,9,0,Island Games,Douglas,Isle of Man,False
+2001-07-09 00:00:00,Saare County,Shetland,2,3,Island Games,Port Erin,Isle of Man,True
+2001-07-09 00:00:00,Orkney,Gibraltar,0,2,Island Games,Douglas,Isle of Man,True
+2001-07-09 00:00:00,Greenland,Rhodes,0,2,Island Games,Ramsey,Isle of Man,True
+2001-07-09 00:00:00,Guernsey,Falkland Islands,3,0,Island Games,Douglas,Isle of Man,True
+2001-07-10 00:00:00,Singapore,Saudi Arabia,0,3,Friendly,Singapore,Singapore,False
+2001-07-10 00:00:00,Ynys M√¥n,Shetland,1,1,Island Games,Douglas,Isle of Man,True
+2001-07-10 00:00:00,Jersey,Gibraltar,2,1,Island Games,Douglas,Isle of Man,True
+2001-07-10 00:00:00,Rhodes,Isle of Wight,1,4,Island Games,Douglas,Isle of Man,True
+2001-07-10 00:00:00,Isle of Man,Guernsey,2,3,Island Games,Douglas,Isle of Man,False
+2001-07-11 00:00:00,Colombia,Venezuela,2,0,Copa Am√©rica,Barranquilla,Colombia,False
+2001-07-11 00:00:00,Ecuador,Chile,1,4,Copa Am√©rica,Barranquilla,Colombia,True
+2001-07-12 00:00:00,Brazil,Mexico,0,1,Copa Am√©rica,Cali,Colombia,True
+2001-07-12 00:00:00,Peru,Paraguay,3,3,Copa Am√©rica,Cali,Colombia,True
+2001-07-12 00:00:00,Saare County,Orkney,2,1,Island Games,Douglas,Isle of Man,True
+2001-07-12 00:00:00,Greenland,Falkland Islands,4,0,Island Games,Braddan,Isle of Man,True
+2001-07-12 00:00:00,Isle of Man,Rhodes,1,3,Island Games,Ramsey,Isle of Man,False
+2001-07-12 00:00:00,Gibraltar,Shetland,2,0,Island Games,Peel,Isle of Man,True
+2001-07-12 00:00:00,Isle of Wight,Guernsey,2,3,Island Games,Port Erin,Isle of Man,True
+2001-07-12 00:00:00,Ynys M√¥n,Jersey,2,2,Island Games,Castletown,Isle of Man,True
+2001-07-13 00:00:00,Bolivia,Uruguay,0,1,Copa Am√©rica,Medell√≠n,Colombia,True
+2001-07-13 00:00:00,Egypt,Namibia,8,2,FIFA World Cup qualification,Alexandria,Egypt,False
+2001-07-13 00:00:00,Honduras,Costa Rica,0,1,Copa Am√©rica,Medell√≠n,Colombia,True
+2001-07-13 00:00:00,Orkney,Falkland Islands,1,4,Island Games,Peel,Isle of Man,True
+2001-07-13 00:00:00,Greenland,Saare County,2,0,Island Games,Ramsey,Isle of Man,True
+2001-07-13 00:00:00,Isle of Man,Shetland,2,2,Island Games,Castletown,Isle of Man,False
+2001-07-13 00:00:00,Gibraltar,Rhodes,2,0,Island Games,Douglas,Isle of Man,True
+2001-07-13 00:00:00,Isle of Wight,Jersey,0,2,Island Games,Douglas,Isle of Man,True
+2001-07-13 00:00:00,Guernsey,Ynys M√¥n,0,0,Island Games,Douglas,Isle of Man,True
+2001-07-14 00:00:00,Chile,Venezuela,1,0,Copa Am√©rica,Barranquilla,Colombia,True
+2001-07-14 00:00:00,Colombia,Ecuador,1,0,Copa Am√©rica,Barranquilla,Colombia,False
+2001-07-14 00:00:00,Monaco,Tibet,2,1,Friendly,Freiburg,Germany,True
+2001-07-14 00:00:00,Senegal,Morocco,1,0,FIFA World Cup qualification,Dakar,Senegal,False
+2001-07-14 00:00:00,Sierra Leone,Liberia,0,1,FIFA World Cup qualification,Freetown,Sierra Leone,False
+2001-07-14 00:00:00,South Africa,Malawi,2,0,FIFA World Cup qualification,Durban,South Africa,False
+2001-07-14 00:00:00,Zambia,Cameroon,2,2,FIFA World Cup qualification,Lusaka,Zambia,False
+2001-07-15 00:00:00,Brazil,Peru,2,0,Copa Am√©rica,Cali,Colombia,True
+2001-07-15 00:00:00,Congo,Ivory Coast,1,1,FIFA World Cup qualification,Pointe-Noire,Congo,False
+2001-07-15 00:00:00,DR Congo,Tunisia,0,3,FIFA World Cup qualification,Kinshasa,DR Congo,False
+2001-07-15 00:00:00,Ghana,Sudan,1,0,FIFA World Cup qualification,Accra,Ghana,False
+2001-07-15 00:00:00,Paraguay,Mexico,0,0,Copa Am√©rica,Cali,Colombia,True
+2001-07-15 00:00:00,Togo,Libya,2,0,FIFA World Cup qualification,Lom√©,Togo,False
+2001-07-15 00:00:00,Zimbabwe,Burkina Faso,1,0,FIFA World Cup qualification,Harare,Zimbabwe,False
+2001-07-16 00:00:00,Honduras,Bolivia,2,0,Copa Am√©rica,Medell√≠n,Colombia,True
+2001-07-16 00:00:00,Uruguay,Costa Rica,1,1,Copa Am√©rica,Medell√≠n,Colombia,True
+2001-07-17 00:00:00,Colombia,Chile,2,0,Copa Am√©rica,Barranquilla,Colombia,False
+2001-07-17 00:00:00,Ecuador,Venezuela,4,0,Copa Am√©rica,Barranquilla,Colombia,True
+2001-07-18 00:00:00,Brazil,Paraguay,3,1,Copa Am√©rica,Cali,Colombia,True
+2001-07-18 00:00:00,Peru,Mexico,1,0,Copa Am√©rica,Cali,Colombia,True
+2001-07-19 00:00:00,Bolivia,Costa Rica,0,4,Copa Am√©rica,Medell√≠n,Colombia,True
+2001-07-19 00:00:00,Honduras,Uruguay,1,0,Copa Am√©rica,Medell√≠n,Colombia,True
+2001-07-19 00:00:00,Malaysia,Saudi Arabia,0,4,Friendly,Kuala Lumpur,Malaysia,False
+2001-07-20 00:00:00,Cuba,Jamaica,0,0,Friendly,Havana,Cuba,False
+2001-07-21 00:00:00,Algeria,Egypt,1,1,FIFA World Cup qualification,Annaba,Algeria,False
+2001-07-21 00:00:00,Malawi,South Africa,1,0,COSAFA Cup,Blantyre,Malawi,False
+2001-07-21 00:00:00,Namibia,Senegal,0,5,FIFA World Cup qualification,Windhoek,Namibia,False
+2001-07-22 00:00:00,Bosnia and Herzegovina,Iran,2,2,Friendly,Bihaƒá,Bosnia and Herzegovina,False
+2001-07-22 00:00:00,Chile,Mexico,0,2,Copa Am√©rica,Pereira,Colombia,True
+2001-07-22 00:00:00,Uruguay,Costa Rica,2,1,Copa Am√©rica,Armenia,Colombia,True
+2001-07-23 00:00:00,Brazil,Honduras,0,2,Copa Am√©rica,Manizales,Colombia,True
+2001-07-23 00:00:00,Colombia,Peru,3,0,Copa Am√©rica,Armenia,Colombia,False
+2001-07-23 00:00:00,Saudi Arabia,North Korea,1,0,Friendly,Kuala Lumpur,Malaysia,True
+2001-07-24 00:00:00,North Macedonia,Qatar,0,1,Friendly,√âvreux,France,True
+2001-07-25 00:00:00,Mexico,Uruguay,2,1,Copa Am√©rica,Pereira,Colombia,True
+2001-07-26 00:00:00,Colombia,Honduras,2,0,Copa Am√©rica,Manizales,Colombia,False
+2001-07-27 00:00:00,Jamaica,Martinique,0,0,SKN Football Festival,Basseterre,Saint Kitts and Nevis,True
+2001-07-27 00:00:00,Libya,Zambia,2,4,FIFA World Cup qualification,Tripoli,Libya,False
+2001-07-28 00:00:00,Malawi,Zimbabwe,0,1,FIFA World Cup qualification,Blantyre,Malawi,False
+2001-07-28 00:00:00,Saint Kitts and Nevis,Martinique,4,2,SKN Football Festival,Basseterre,Saint Kitts and Nevis,False
+2001-07-28 00:00:00,Uruguay,Honduras,2,2,Copa Am√©rica,Bogot√°,Colombia,True
+2001-07-29 00:00:00,Angola,Togo,1,1,FIFA World Cup qualification,Luanda,Angola,False
+2001-07-29 00:00:00,Colombia,Mexico,1,0,Copa Am√©rica,Bogot√°,Colombia,False
+2001-07-29 00:00:00,Ivory Coast,DR Congo,1,2,FIFA World Cup qualification,Abidjan,Ivory Coast,False
+2001-07-29 00:00:00,Madagascar,Congo,1,0,FIFA World Cup qualification,Antananarivo,Madagascar,False
+2001-07-29 00:00:00,Nigeria,Ghana,3,0,FIFA World Cup qualification,Port Harcourt,Nigeria,False
+2001-07-29 00:00:00,Oman,Iraq,1,0,Friendly,Muscat,Oman,False
+2001-07-29 00:00:00,Panama,Cuba,0,0,Gold Cup qualification,Panama City,Panama,False
+2001-07-29 00:00:00,Sudan,Sierra Leone,3,0,FIFA World Cup qualification,Omdurman,Sudan,False
+2001-07-30 00:00:00,Saint Kitts and Nevis,Jamaica,0,0,SKN Football Festival,Basseterre,Saint Kitts and Nevis,False
+2001-08-01 00:00:00,Grenada,Jamaica,2,0,Friendly,St. George's,Grenada,False
+2001-08-01 00:00:00,Qatar,Iran,2,1,Friendly,Doha,Qatar,False
+2001-08-01 00:00:00,Saudi Arabia,North Macedonia,1,1,Friendly,Riyadh,Saudi Arabia,False
+2001-08-02 00:00:00,United Arab Emirates,Iraq,2,2,Friendly,Abu Dhabi,United Arab Emirates,False
+2001-08-03 00:00:00,China PR,North Korea,2,2,Friendly,Shanghai,China PR,False
+2001-08-03 00:00:00,Kuwait,Trinidad and Tobago,1,1,Friendly,Shanghai,China PR,True
+2001-08-04 00:00:00,Colombia,Liberia,2,1,Friendly,East Rutherford,United States,True
+2001-08-05 00:00:00,China PR,Trinidad and Tobago,3,0,Friendly,Shanghai,China PR,False
+2001-08-05 00:00:00,Cuba,Panama,1,0,Gold Cup qualification,Havana,Cuba,False
+2001-08-05 00:00:00,Kuwait,North Korea,1,1,Friendly,Shanghai,China PR,True
+2001-08-05 00:00:00,Saudi Arabia,Qatar,1,2,Friendly,Riyadh,Saudi Arabia,False
+2001-08-08 00:00:00,Iran,Oman,5,2,Friendly,Tehran,Iran,False
+2001-08-08 00:00:00,United Arab Emirates,Saudi Arabia,0,1,Friendly,Doha,Qatar,True
+2001-08-09 00:00:00,Brazil,Panama,5,0,Friendly,Curitiba,Brazil,False
+2001-08-10 00:00:00,Iran,Bosnia and Herzegovina,4,0,Friendly,Tehran,Iran,False
+2001-08-10 00:00:00,Qatar,Bahrain,1,1,Friendly,Doha,Qatar,False
+2001-08-13 00:00:00,Singapore,Thailand,0,5,Friendly,Singapore,Singapore,False
+2001-08-14 00:00:00,Chile,Bolivia,2,2,FIFA World Cup qualification,Santiago,Chile,False
+2001-08-14 00:00:00,Venezuela,Uruguay,2,0,FIFA World Cup qualification,Maracaibo,Venezuela,False
+2001-08-15 00:00:00,Austria,Switzerland,1,2,Friendly,Vienna,Austria,False
+2001-08-15 00:00:00,Bosnia and Herzegovina,Malta,2,0,Friendly,Sarajevo,Bosnia and Herzegovina,False
+2001-08-15 00:00:00,Brazil,Paraguay,2,0,FIFA World Cup qualification,Porto Alegre,Brazil,False
+2001-08-15 00:00:00,Bulgaria,North Macedonia,1,0,Friendly,Sofia,Bulgaria,False
+2001-08-15 00:00:00,Czech Republic,South Korea,5,0,Friendly,Drnovice,Czech Republic,False
+2001-08-15 00:00:00,Ecuador,Argentina,0,2,FIFA World Cup qualification,Quito,Ecuador,False
+2001-08-15 00:00:00,England,Netherlands,0,2,Friendly,London,England,False
+2001-08-15 00:00:00,Estonia,Cyprus,2,2,FIFA World Cup qualification,Tallinn,Estonia,False
+2001-08-15 00:00:00,Finland,Belgium,4,1,Friendly,Helsinki,Finland,False
+2001-08-15 00:00:00,France,Denmark,1,0,Friendly,Nantes,France,False
+2001-08-15 00:00:00,Hungary,Germany,2,5,Friendly,Budapest,Hungary,False
+2001-08-15 00:00:00,Iceland,Poland,1,1,Friendly,Reykjav√≠k,Iceland,False
+2001-08-15 00:00:00,Republic of Ireland,Croatia,2,2,Friendly,Dublin,Republic of Ireland,False
+2001-08-15 00:00:00,Japan,Australia,3,0,Friendly,Fukuroi,Japan,False
+2001-08-15 00:00:00,Latvia,Ukraine,0,1,Friendly,Riga,Latvia,False
+2001-08-15 00:00:00,Lithuania,Israel,2,3,Friendly,Kaunas,Lithuania,False
+2001-08-15 00:00:00,Luxembourg,Georgia,0,3,Friendly,Mondercange,Luxembourg,False
+2001-08-15 00:00:00,Norway,Turkey,1,1,Friendly,Oslo,Norway,False
+2001-08-15 00:00:00,Portugal,Moldova,3,0,Friendly,Faro,Portugal,False
+2001-08-15 00:00:00,Russia,Greece,0,0,Friendly,Moscow,Russia,False
+2001-08-15 00:00:00,Serbia,Faroe Islands,2,0,FIFA World Cup qualification,Belgrade,Yugoslavia,True
+2001-08-15 00:00:00,Slovakia,Iran,3,4,Friendly,Bratislava,Slovakia,False
+2001-08-15 00:00:00,Slovenia,Romania,2,2,Friendly,Ljubljana,Slovenia,False
+2001-08-15 00:00:00,Sweden,South Africa,3,0,Friendly,Solna,Sweden,False
+2001-08-16 00:00:00,Colombia,Peru,0,1,FIFA World Cup qualification,Bogot√°,Colombia,False
+2001-08-16 00:00:00,Qatar,Oman,0,0,FIFA World Cup qualification,Doha,Qatar,False
+2001-08-17 00:00:00,Iraq,Thailand,4,0,FIFA World Cup qualification,Baghdad,Iraq,False
+2001-08-17 00:00:00,Saudi Arabia,Bahrain,1,1,FIFA World Cup qualification,Riyadh,Saudi Arabia,False
+2001-08-17 00:00:00,United Arab Emirates,Uzbekistan,4,1,FIFA World Cup qualification,Abu Dhabi,United Arab Emirates,False
+2001-08-18 00:00:00,Zambia,Angola,1,1,COSAFA Cup,Lusaka,Zambia,False
+2001-08-23 00:00:00,Bahrain,Iraq,2,0,FIFA World Cup qualification,Riffa,Bahrain,False
+2001-08-23 00:00:00,Mexico,Liberia,5,4,Friendly,Veracruz,Mexico,False
+2001-08-24 00:00:00,Iran,Saudi Arabia,2,0,FIFA World Cup qualification,Tehran,Iran,False
+2001-08-25 00:00:00,China PR,United Arab Emirates,3,0,FIFA World Cup qualification,Shenyang,China PR,False
+2001-08-25 00:00:00,Malawi,Zimbabwe,0,2,COSAFA Cup,Blantyre,Malawi,False
+2001-08-26 00:00:00,Uzbekistan,Qatar,2,1,FIFA World Cup qualification,Tashkent,Uzbekistan,False
+2001-08-31 00:00:00,Oman,China PR,0,2,FIFA World Cup qualification,Muscat,Oman,False
+2001-08-31 00:00:00,Saudi Arabia,Iraq,1,0,FIFA World Cup qualification,Riffa,Bahrain,True
+2001-08-31 00:00:00,United Arab Emirates,Qatar,0,2,FIFA World Cup qualification,Abu Dhabi,United Arab Emirates,False
+2001-09-01 00:00:00,Albania,Finland,0,2,FIFA World Cup qualification,Tirana,Albania,False
+2001-09-01 00:00:00,Andorra,Portugal,1,7,FIFA World Cup qualification,Lleida,Spain,True
+2001-09-01 00:00:00,Belarus,Ukraine,0,2,FIFA World Cup qualification,Minsk,Belarus,False
+2001-09-01 00:00:00,Bosnia and Herzegovina,Israel,0,0,FIFA World Cup qualification,Sarajevo,Bosnia and Herzegovina,False
+2001-09-01 00:00:00,Chile,France,2,1,Friendly,Santiago,Chile,False
+2001-09-01 00:00:00,Denmark,Northern Ireland,1,1,FIFA World Cup qualification,Copenhagen,Denmark,False
+2001-09-01 00:00:00,Faroe Islands,Luxembourg,1,0,FIFA World Cup qualification,Toftir,Faroe Islands,False
+2001-09-01 00:00:00,Georgia,Hungary,3,1,FIFA World Cup qualification,Tbilisi,Georgia,False
+2001-09-01 00:00:00,Germany,England,1,5,FIFA World Cup qualification,Munich,Germany,False
+2001-09-01 00:00:00,Iceland,Czech Republic,3,1,FIFA World Cup qualification,Reykjav√≠k,Iceland,False
+2001-09-01 00:00:00,Republic of Ireland,Netherlands,1,0,FIFA World Cup qualification,Dublin,Republic of Ireland,False
+2001-09-01 00:00:00,Lithuania,Italy,0,0,FIFA World Cup qualification,Kaunas,Lithuania,False
+2001-09-01 00:00:00,North Macedonia,Sweden,1,2,FIFA World Cup qualification,Skopje,North Macedonia,False
+2001-09-01 00:00:00,Malta,Bulgaria,0,2,FIFA World Cup qualification,Attard,Malta,False
+2001-09-01 00:00:00,Moldova,Azerbaijan,2,0,FIFA World Cup qualification,Chi»ôinƒÉu,Moldova,False
+2001-09-01 00:00:00,Poland,Norway,3,0,FIFA World Cup qualification,Chorz√≥w,Poland,False
+2001-09-01 00:00:00,Scotland,Croatia,0,0,FIFA World Cup qualification,Glasgow,Scotland,False
+2001-09-01 00:00:00,Slovakia,Turkey,0,1,FIFA World Cup qualification,Bratislava,Slovakia,False
+2001-09-01 00:00:00,Slovenia,Russia,2,1,FIFA World Cup qualification,Ljubljana,Slovenia,False
+2001-09-01 00:00:00,Spain,Austria,4,0,FIFA World Cup qualification,Valencia,Spain,False
+2001-09-01 00:00:00,Switzerland,Serbia,1,2,FIFA World Cup qualification,Basel,Switzerland,False
+2001-09-01 00:00:00,Thailand,Iran,0,0,FIFA World Cup qualification,Bangkok,Thailand,False
+2001-09-01 00:00:00,Trinidad and Tobago,Costa Rica,0,2,FIFA World Cup qualification,Port of Spain,Trinidad and Tobago,False
+2001-09-01 00:00:00,United States,Honduras,2,3,FIFA World Cup qualification,Washington,United States,False
+2001-09-01 00:00:00,Wales,Armenia,0,0,FIFA World Cup qualification,Cardiff,Wales,False
+2001-09-02 00:00:00,Jamaica,Mexico,1,2,FIFA World Cup qualification,Kingston,Jamaica,False
+2001-09-04 00:00:00,Chile,Venezuela,0,2,FIFA World Cup qualification,Santiago,Chile,False
+2001-09-04 00:00:00,Peru,Uruguay,0,2,FIFA World Cup qualification,Lima,Peru,False
+2001-09-05 00:00:00,Argentina,Brazil,2,1,FIFA World Cup qualification,Buenos Aires,Argentina,False
+2001-09-05 00:00:00,Austria,Bosnia and Herzegovina,2,0,FIFA World Cup qualification,Vienna,Austria,False
+2001-09-05 00:00:00,Azerbaijan,North Macedonia,1,1,FIFA World Cup qualification,Baku,Azerbaijan,False
+2001-09-05 00:00:00,Belarus,Poland,4,1,FIFA World Cup qualification,Minsk,Belarus,False
+2001-09-05 00:00:00,Belgium,Scotland,2,0,FIFA World Cup qualification,Brussels,Belgium,False
+2001-09-05 00:00:00,Bulgaria,Denmark,0,2,FIFA World Cup qualification,Sofia,Bulgaria,False
+2001-09-05 00:00:00,Colombia,Ecuador,0,0,FIFA World Cup qualification,Bogot√°,Colombia,False
+2001-09-05 00:00:00,Costa Rica,United States,2,0,FIFA World Cup qualification,San Jos√©,Costa Rica,False
+2001-09-05 00:00:00,Cyprus,Portugal,1,3,FIFA World Cup qualification,Larnaca,Cyprus,False
+2001-09-05 00:00:00,Czech Republic,Malta,3,2,FIFA World Cup qualification,Teplice,Czech Republic,False
+2001-09-05 00:00:00,England,Albania,2,0,FIFA World Cup qualification,Newcastle,England,False
+2001-09-05 00:00:00,Faroe Islands,Russia,0,3,FIFA World Cup qualification,T√≥rshavn,Faroe Islands,False
+2001-09-05 00:00:00,Finland,Greece,5,1,FIFA World Cup qualification,Helsinki,Finland,False
+2001-09-05 00:00:00,Georgia,Lithuania,2,0,FIFA World Cup qualification,Tbilisi,Georgia,False
+2001-09-05 00:00:00,Honduras,Jamaica,1,0,FIFA World Cup qualification,Tegucigalpa,Honduras,False
+2001-09-05 00:00:00,Hungary,Romania,0,2,FIFA World Cup qualification,Budapest,Hungary,False
+2001-09-05 00:00:00,Italy,Morocco,1,0,Friendly,Piacenza,Italy,False
+2001-09-05 00:00:00,Liechtenstein,Spain,0,2,FIFA World Cup qualification,Vaduz,Liechtenstein,False
+2001-09-05 00:00:00,Luxembourg,Switzerland,0,3,FIFA World Cup qualification,Luxembourg,Luxembourg,False
+2001-09-05 00:00:00,Mexico,Trinidad and Tobago,3,0,FIFA World Cup qualification,Mexico City,Mexico,False
+2001-09-05 00:00:00,Netherlands,Estonia,5,0,FIFA World Cup qualification,Eindhoven,Netherlands,False
+2001-09-05 00:00:00,Northern Ireland,Iceland,3,0,FIFA World Cup qualification,Belfast,Northern Ireland,False
+2001-09-05 00:00:00,Norway,Wales,3,2,FIFA World Cup qualification,Oslo,Norway,False
+2001-09-05 00:00:00,Paraguay,Bolivia,5,1,FIFA World Cup qualification,Asunci√≥n,Paraguay,False
+2001-09-05 00:00:00,San Marino,Croatia,0,4,FIFA World Cup qualification,Serravalle,San Marino,False
+2001-09-05 00:00:00,Serbia,Slovenia,1,1,FIFA World Cup qualification,Belgrade,Yugoslavia,True
+2001-09-05 00:00:00,Slovakia,Moldova,4,2,FIFA World Cup qualification,Trenƒç√≠n,Slovakia,False
+2001-09-05 00:00:00,Turkey,Sweden,1,2,FIFA World Cup qualification,Istanbul,Turkey,False
+2001-09-05 00:00:00,Ukraine,Armenia,3,0,FIFA World Cup qualification,Lviv,Ukraine,False
+2001-09-06 00:00:00,Bahrain,Thailand,1,1,FIFA World Cup qualification,Riffa,Bahrain,False
+2001-09-07 00:00:00,Iraq,Iran,1,2,FIFA World Cup qualification,Baghdad,Iraq,False
+2001-09-07 00:00:00,Qatar,China PR,1,1,FIFA World Cup qualification,Doha,Qatar,False
+2001-09-07 00:00:00,Saudi Arabia,United Arab Emirates,0,2,Friendly,Dammam,Saudi Arabia,False
+2001-09-08 00:00:00,Uzbekistan,Oman,5,0,FIFA World Cup qualification,Tashkent,Uzbekistan,False
+2001-09-13 00:00:00,South Korea,Nigeria,2,2,Friendly,Daejeon,South Korea,False
+2001-09-14 00:00:00,Iran,Bahrain,0,0,FIFA World Cup qualification,Tehran,Iran,False
+2001-09-14 00:00:00,Oman,United Arab Emirates,1,1,FIFA World Cup qualification,Muscat,Oman,False
+2001-09-14 00:00:00,Qatar,Iraq,0,0,Friendly,Doha,Qatar,False
+2001-09-15 00:00:00,China PR,Uzbekistan,2,0,FIFA World Cup qualification,Shenyang,China PR,False
+2001-09-15 00:00:00,Thailand,Saudi Arabia,1,3,FIFA World Cup qualification,Bangkok,Thailand,False
+2001-09-16 00:00:00,Angola,Zimbabwe,0,0,COSAFA Cup,Luanda,Angola,False
+2001-09-16 00:00:00,South Korea,Nigeria,2,1,Friendly,Busan,South Korea,False
+2001-09-21 00:00:00,Bahrain,Saudi Arabia,0,4,FIFA World Cup qualification,Riffa,Bahrain,False
+2001-09-21 00:00:00,Oman,Qatar,0,3,FIFA World Cup qualification,Muscat,Oman,False
+2001-09-22 00:00:00,Thailand,Iraq,1,1,FIFA World Cup qualification,Bangkok,Thailand,False
+2001-09-22 00:00:00,Uzbekistan,United Arab Emirates,0,1,FIFA World Cup qualification,Tashkent,Uzbekistan,False
+2001-09-27 00:00:00,United Arab Emirates,China PR,0,1,FIFA World Cup qualification,Abu Dhabi,United Arab Emirates,False
+2001-09-28 00:00:00,Iraq,Bahrain,1,0,FIFA World Cup qualification,Baghdad,Iraq,False
+2001-09-28 00:00:00,Qatar,Uzbekistan,2,2,FIFA World Cup qualification,Doha,Qatar,False
+2001-09-28 00:00:00,Saudi Arabia,Iran,2,2,FIFA World Cup qualification,Jeddah,Saudi Arabia,False
+2001-09-29 00:00:00,Thailand,Oman,2,0,Friendly,Bangkok,Thailand,False
+2001-09-30 00:00:00,Zimbabwe,Angola,0,1,COSAFA Cup,Harare,Zimbabwe,False
+2001-10-04 00:00:00,Japan,Senegal,0,2,Friendly,Lens,France,True
+2001-10-04 00:00:00,Qatar,United Arab Emirates,1,2,FIFA World Cup qualification,Doha,Qatar,False
+2001-10-05 00:00:00,Bahrain,Qatar,1,0,Friendly,Manama,Bahrain,False
+2001-10-05 00:00:00,Iran,Thailand,1,0,FIFA World Cup qualification,Tehran,Iran,False
+2001-10-05 00:00:00,Iraq,Saudi Arabia,1,2,FIFA World Cup qualification,Amman,Jordan,True
+2001-10-06 00:00:00,Armenia,Norway,1,4,FIFA World Cup qualification,Yerevan,Armenia,False
+2001-10-06 00:00:00,Bolivia,Ecuador,1,5,FIFA World Cup qualification,La Paz,Bolivia,False
+2001-10-06 00:00:00,Croatia,Belgium,1,0,FIFA World Cup qualification,Zagreb,Croatia,False
+2001-10-06 00:00:00,Czech Republic,Bulgaria,6,0,FIFA World Cup qualification,Prague,Czech Republic,False
+2001-10-06 00:00:00,Denmark,Iceland,6,0,FIFA World Cup qualification,Copenhagen,Denmark,False
+2001-10-06 00:00:00,England,Greece,2,2,FIFA World Cup qualification,Manchester,England,False
+2001-10-06 00:00:00,France,Algeria,4,1,Friendly,Saint-Denis,France,False
+2001-10-06 00:00:00,Germany,Finland,0,0,FIFA World Cup qualification,Gelsenkirchen,Germany,False
+2001-10-06 00:00:00,Republic of Ireland,Cyprus,4,0,FIFA World Cup qualification,Dublin,Republic of Ireland,False
+2001-10-06 00:00:00,Italy,Hungary,1,0,FIFA World Cup qualification,Parma,Italy,False
+2001-10-06 00:00:00,Malta,Northern Ireland,0,1,FIFA World Cup qualification,Attard,Malta,False
+2001-10-06 00:00:00,Moldova,Turkey,0,3,FIFA World Cup qualification,Chi»ôinƒÉu,Moldova,False
+2001-10-06 00:00:00,Netherlands,Andorra,4,0,FIFA World Cup qualification,Arnhem,Netherlands,False
+2001-10-06 00:00:00,Poland,Ukraine,1,1,FIFA World Cup qualification,Chorz√≥w,Poland,False
+2001-10-06 00:00:00,Portugal,Estonia,5,0,FIFA World Cup qualification,Lisbon,Portugal,False
+2001-10-06 00:00:00,Romania,Georgia,1,1,FIFA World Cup qualification,Bucharest,Romania,False
+2001-10-06 00:00:00,Russia,Switzerland,4,0,FIFA World Cup qualification,Moscow,Russia,False
+2001-10-06 00:00:00,Scotland,Latvia,2,1,FIFA World Cup qualification,Glasgow,Scotland,False
+2001-10-06 00:00:00,Serbia,Luxembourg,6,2,FIFA World Cup qualification,Belgrade,Yugoslavia,True
+2001-10-06 00:00:00,Slovenia,Faroe Islands,3,0,FIFA World Cup qualification,Ljubljana,Slovenia,False
+2001-10-06 00:00:00,Venezuela,Peru,3,0,FIFA World Cup qualification,San Crist√≥bal,Venezuela,False
+2001-10-06 00:00:00,Wales,Belarus,1,0,FIFA World Cup qualification,Cardiff,Wales,False
+2001-10-07 00:00:00,Bosnia and Herzegovina,Liechtenstein,5,0,FIFA World Cup qualification,Zenica,Bosnia and Herzegovina,False
+2001-10-07 00:00:00,Brazil,Chile,2,0,FIFA World Cup qualification,Curitiba,Brazil,False
+2001-10-07 00:00:00,China PR,Oman,1,0,FIFA World Cup qualification,Shenyang,China PR,False
+2001-10-07 00:00:00,Costa Rica,Mexico,0,0,FIFA World Cup qualification,San Jos√©,Costa Rica,False
+2001-10-07 00:00:00,Honduras,Trinidad and Tobago,0,1,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2001-10-07 00:00:00,Japan,Nigeria,2,2,Friendly,Southampton,England,True
+2001-10-07 00:00:00,North Macedonia,Slovakia,0,5,FIFA World Cup qualification,Skopje,North Macedonia,False
+2001-10-07 00:00:00,Paraguay,Argentina,2,2,FIFA World Cup qualification,Asunci√≥n,Paraguay,False
+2001-10-07 00:00:00,Sweden,Azerbaijan,3,0,FIFA World Cup qualification,Solna,Sweden,False
+2001-10-07 00:00:00,Uruguay,Colombia,1,1,FIFA World Cup qualification,Montevideo,Uruguay,False
+2001-10-07 00:00:00,United States,Jamaica,2,1,FIFA World Cup qualification,Foxborough,United States,False
+2001-10-12 00:00:00,Gambia,Morocco,0,2,Friendly,Bamako,Mali,True
+2001-10-12 00:00:00,Iran,Iraq,2,1,FIFA World Cup qualification,Tehran,Iran,False
+2001-10-13 00:00:00,China PR,Qatar,3,0,FIFA World Cup qualification,Shenyang,China PR,False
+2001-10-13 00:00:00,Oman,Uzbekistan,4,2,FIFA World Cup qualification,Muscat,Oman,False
+2001-10-14 00:00:00,Mali,Morocco,2,1,Friendly,Bamako,Mali,False
+2001-10-15 00:00:00,Algeria,Burkina Faso,2,0,Friendly,Annaba,Algeria,False
+2001-10-16 00:00:00,Thailand,Bahrain,1,1,FIFA World Cup qualification,Bangkok,Thailand,False
+2001-10-18 00:00:00,Kuwait,Qatar,0,1,Friendly,Kuwait City,Kuwait,False
+2001-10-19 00:00:00,United Arab Emirates,Oman,2,2,FIFA World Cup qualification,Abu Dhabi,United Arab Emirates,False
+2001-10-19 00:00:00,Uzbekistan,China PR,1,0,FIFA World Cup qualification,Tashkent,Uzbekistan,False
+2001-10-21 00:00:00,Bahamas,Haiti,0,2,Friendly,Nassau,Bahamas,False
+2001-10-21 00:00:00,Bahrain,Iran,3,1,FIFA World Cup qualification,Riffa,Bahrain,False
+2001-10-21 00:00:00,Saudi Arabia,Thailand,4,1,FIFA World Cup qualification,Riyadh,Saudi Arabia,False
+2001-10-24 00:00:00,Kenya,Uganda,0,0,Friendly,Arusha,Tanzania,True
+2001-10-24 00:00:00,Tanzania,DR Congo,2,2,Friendly,Arusha,Tanzania,False
+2001-10-25 00:00:00,Iran,United Arab Emirates,1,0,FIFA World Cup qualification,Tehran,Iran,False
+2001-10-27 00:00:00,DR Congo,Uganda,0,1,Friendly,Mwanza,Tanzania,True
+2001-10-27 00:00:00,Israel,Austria,1,1,FIFA World Cup qualification,Ramat-Gan,Israel,False
+2001-10-27 00:00:00,Tanzania,Kenya,3,1,Friendly,Mwanza,Tanzania,False
+2001-10-31 00:00:00,Mexico,El Salvador,4,1,Friendly,Puebla,Mexico,False
+2001-10-31 00:00:00,United Arab Emirates,Iran,0,3,FIFA World Cup qualification,Abu Dhabi,United Arab Emirates,False
+2001-11-03 00:00:00,Benin,Guinea-Bissau,2,7,Am√≠lcar Cabral Cup,Bamako,Mali,True
+2001-11-03 00:00:00,Mali,Mauritania,3,2,Am√≠lcar Cabral Cup,Bamako,Mali,False
+2001-11-05 00:00:00,Benin,Mauritania,2,0,Am√≠lcar Cabral Cup,S√©gou,Mali,True
+2001-11-05 00:00:00,Mali,Guinea-Bissau,2,0,Am√≠lcar Cabral Cup,S√©gou,Mali,False
+2001-11-07 00:00:00,Bolivia,Brazil,3,1,FIFA World Cup qualification,La Paz,Bolivia,False
+2001-11-07 00:00:00,Cape Verde,Gambia,1,1,Am√≠lcar Cabral Cup,Sikasso,Mali,True
+2001-11-07 00:00:00,Colombia,Chile,3,1,FIFA World Cup qualification,Bogot√°,Colombia,False
+2001-11-07 00:00:00,Ecuador,Uruguay,1,1,FIFA World Cup qualification,Quito,Ecuador,False
+2001-11-07 00:00:00,Guinea-Bissau,Mauritania,1,0,Am√≠lcar Cabral Cup,S√©gou,Mali,True
+2001-11-07 00:00:00,Japan,Italy,1,1,Friendly,Saitama,Japan,False
+2001-11-07 00:00:00,Mali,Benin,0,0,Am√≠lcar Cabral Cup,S√©gou,Mali,False
+2001-11-08 00:00:00,Argentina,Peru,2,0,FIFA World Cup qualification,Buenos Aires,Argentina,False
+2001-11-08 00:00:00,South Korea,Senegal,0,1,Friendly,Jeonju,South Korea,False
+2001-11-08 00:00:00,Venezuela,Paraguay,3,1,FIFA World Cup qualification,San Crist√≥bal,Venezuela,False
+2001-11-09 00:00:00,Mali,Gambia,0,1,Am√≠lcar Cabral Cup,S√©gou,Mali,False
+2001-11-10 00:00:00,Austria,Turkey,0,1,FIFA World Cup qualification,Vienna,Austria,False
+2001-11-10 00:00:00,Belgium,Czech Republic,1,0,FIFA World Cup qualification,Brussels,Belgium,False
+2001-11-10 00:00:00,Denmark,Netherlands,1,1,Friendly,Copenhagen,Denmark,False
+2001-11-10 00:00:00,England,Sweden,1,1,Friendly,Manchester,England,False
+2001-11-10 00:00:00,Greece,Estonia,4,2,Friendly,Athens,Greece,False
+2001-11-10 00:00:00,Republic of Ireland,Iran,2,0,FIFA World Cup qualification,Dublin,Republic of Ireland,False
+2001-11-10 00:00:00,South Korea,Croatia,2,0,Friendly,Seoul,South Korea,False
+2001-11-10 00:00:00,Slovenia,Romania,2,1,FIFA World Cup qualification,Ljubljana,Slovenia,False
+2001-11-10 00:00:00,South Africa,Egypt,1,0,Friendly,Johannesburg,South Africa,False
+2001-11-10 00:00:00,Ukraine,Germany,1,1,FIFA World Cup qualification,Kyiv,Ukraine,False
+2001-11-11 00:00:00,Australia,France,1,1,Friendly,Melbourne,Australia,False
+2001-11-11 00:00:00,Jamaica,Costa Rica,0,1,FIFA World Cup qualification,Kingston,Jamaica,False
+2001-11-11 00:00:00,Mali,Guinea-Bissau,2,1,Am√≠lcar Cabral Cup,Bamako,Mali,False
+2001-11-11 00:00:00,Mexico,Honduras,3,0,FIFA World Cup qualification,Mexico City,Mexico,False
+2001-11-11 00:00:00,Trinidad and Tobago,United States,0,0,FIFA World Cup qualification,Port of Spain,Trinidad and Tobago,False
+2001-11-13 00:00:00,South Korea,Croatia,1,1,Friendly,Gwangju,South Korea,False
+2001-11-14 00:00:00,Brazil,Venezuela,3,0,FIFA World Cup qualification,S√£o Lu√≠s,Brazil,False
+2001-11-14 00:00:00,Chile,Ecuador,0,0,FIFA World Cup qualification,Santiago,Chile,False
+2001-11-14 00:00:00,Czech Republic,Belgium,0,1,FIFA World Cup qualification,Prague,Czech Republic,False
+2001-11-14 00:00:00,Estonia,Kazakhstan,0,0,Friendly,Tallinn,Estonia,False
+2001-11-14 00:00:00,Germany,Ukraine,4,1,FIFA World Cup qualification,Dortmund,Germany,False
+2001-11-14 00:00:00,Greece,Cyprus,1,2,Friendly,Athens,Greece,False
+2001-11-14 00:00:00,Hungary,North Macedonia,5,0,Friendly,Budapest,Hungary,False
+2001-11-14 00:00:00,Latvia,Russia,1,3,Friendly,Riga,Latvia,False
+2001-11-14 00:00:00,Malta,Canada,2,1,Friendly,Paola,Malta,False
+2001-11-14 00:00:00,Morocco,Zambia,1,0,Friendly,Rabat,Morocco,False
+2001-11-14 00:00:00,Paraguay,Colombia,0,4,FIFA World Cup qualification,Asunci√≥n,Paraguay,False
+2001-11-14 00:00:00,Peru,Bolivia,1,1,FIFA World Cup qualification,Lima,Peru,False
+2001-11-14 00:00:00,Poland,Cameroon,0,0,Friendly,Pozna≈Ñ,Poland,False
+2001-11-14 00:00:00,Portugal,Angola,5,1,Friendly,Lisbon,Portugal,False
+2001-11-14 00:00:00,Romania,Slovenia,1,1,FIFA World Cup qualification,Bucharest,Romania,False
+2001-11-14 00:00:00,Spain,Mexico,1,0,Friendly,Huelva,Spain,False
+2001-11-14 00:00:00,Turkey,Austria,5,0,FIFA World Cup qualification,Istanbul,Turkey,False
+2001-11-14 00:00:00,Uruguay,Argentina,1,1,FIFA World Cup qualification,Montevideo,Uruguay,False
+2001-11-15 00:00:00,Iran,Republic of Ireland,1,0,FIFA World Cup qualification,Tehran,Iran,False
+2001-11-20 00:00:00,Australia,Uruguay,1,0,FIFA World Cup qualification,Melbourne,Australia,False
+2001-11-20 00:00:00,Madagascar,Mayotte,1,0,Friendly,Antananarivo,Madagascar,False
+2001-11-21 00:00:00,Ethiopia,Zambia,1,2,Friendly,Addis Ababa,Ethiopia,False
+2001-11-25 00:00:00,Uruguay,Australia,3,0,FIFA World Cup qualification,Montevideo,Uruguay,False
+2001-11-28 00:00:00,Tunisia,Togo,1,0,Friendly,Tunis,Tunisia,False
+2001-11-29 00:00:00,Oman,Kuwait,1,1,Friendly,Muscat,Oman,False
+2001-12-05 00:00:00,Algeria,Ghana,1,1,Friendly,Algiers,Algeria,False
+2001-12-05 00:00:00,Mali,Ivory Coast,0,3,Friendly,Sikasso,Mali,False
+2001-12-08 00:00:00,Rwanda,Somalia,3,0,CECAFA Cup,Kigali,Rwanda,False
+2001-12-09 00:00:00,Burundi,Tanzania,1,2,CECAFA Cup,Kigali,Rwanda,True
+2001-12-09 00:00:00,South Korea,United States,1,0,Friendly,Seogwipo,South Korea,False
+2001-12-09 00:00:00,Uganda,Djibouti,10,1,CECAFA Cup,Kigali,Rwanda,True
+2001-12-10 00:00:00,Kenya,Eritrea,2,1,CECAFA Cup,Kigali,Rwanda,True
+2001-12-11 00:00:00,Burundi,Djibouti,3,1,CECAFA Cup,Kigali,Rwanda,True
+2001-12-11 00:00:00,Uganda,Tanzania,0,1,CECAFA Cup,Kigali,Rwanda,True
+2001-12-12 00:00:00,Kenya,Somalia,3,0,CECAFA Cup,Kigali,Rwanda,True
+2001-12-12 00:00:00,Rwanda,Eritrea,1,0,CECAFA Cup,Kigali,Rwanda,False
+2001-12-13 00:00:00,Bahrain,Oman,2,2,Friendly,Manama,Bahrain,False
+2001-12-13 00:00:00,Ethiopia,Zanzibar,5,0,CECAFA Cup,Kigali,Rwanda,True
+2001-12-13 00:00:00,Tanzania,Djibouti,4,1,CECAFA Cup,Kigali,Rwanda,True
+2001-12-14 00:00:00,Eritrea,Somalia,0,0,CECAFA Cup,Kigali,Rwanda,True
+2001-12-14 00:00:00,Uganda,Burundi,0,2,CECAFA Cup,Kigali,Rwanda,True
+2001-12-15 00:00:00,Botswana,Namibia,3,2,Friendly,Gaborone,Botswana,False
+2001-12-15 00:00:00,El Salvador,Haiti,0,0,Friendly,Miami,United States,True
+2001-12-15 00:00:00,Rwanda,Kenya,0,0,CECAFA Cup,Kigali,Rwanda,False
+2001-12-16 00:00:00,Botswana,Lesotho,1,0,Friendly,Gaborone,Botswana,False
+2001-12-16 00:00:00,Burkina Faso,Togo,1,2,Friendly,Ouagadougou,Burkina Faso,False
+2001-12-17 00:00:00,Kenya,Eritrea,1,0,CECAFA Cup,Kigali,Rwanda,True
+2001-12-18 00:00:00,Ethiopia,Burundi,2,2,Friendly,Kigali,Rwanda,True
+2001-12-18 00:00:00,Rwanda,Uganda,3,2,CECAFA Cup,Kigali,Rwanda,False
+2001-12-20 00:00:00,Rwanda,Ethiopia,0,1,CECAFA Cup,Kigali,Rwanda,False
+2001-12-22 00:00:00,Kenya,Ethiopia,1,2,CECAFA Cup,Kigali,Rwanda,True
+2001-12-22 00:00:00,Togo,Burkina Faso,1,0,Friendly,Lom√©,Togo,False
+2001-12-23 00:00:00,Oman,Syria,2,0,Friendly,Muscat,Oman,False
+2001-12-25 00:00:00,Mali,Ghana,1,1,Friendly,Mopti,Mali,False
+2001-12-25 00:00:00,Oman,Syria,1,0,Friendly,Muscat,Oman,False
+2001-12-26 00:00:00,Senegal,Burkina Faso,2,4,Friendly,Dakar,Senegal,False
+2001-12-27 00:00:00,Andalusia,Tunisia,3,3,Friendly,Seville,Spain,False
+2001-12-28 00:00:00,Mali,Burkina Faso,2,1,Friendly,S√©gou,Mali,False
+2001-12-28 00:00:00,Catalonia,Chile,1,0,Friendly,Barcelona,Spain,False
+2001-12-29 00:00:00,Kuwait,Syria,0,0,Friendly,Kuwait City,Kuwait,False
+2001-12-29 00:00:00,Basque Country,Ghana,3,2,Friendly,Bilbao,Spain,False
+2001-12-30 00:00:00,Benin,Togo,1,1,Friendly,Cotonou,Benin,False
+2001-12-30 00:00:00,Oman,North Macedonia,2,0,Friendly,Muscat,Oman,False
+2001-12-30 00:00:00,Qatar,Egypt,2,2,Friendly,Doha,Qatar,False
+2001-12-30 00:00:00,Saudi Arabia,Zimbabwe,0,2,Friendly,Riyadh,Saudi Arabia,False
+2001-12-30 00:00:00,Senegal,Algeria,1,0,Friendly,Dakar,Senegal,False
+2001-12-30 00:00:00,Tunisia,Liberia,7,2,Friendly,Tunis,Tunisia,False
+2001-12-31 00:00:00,Kuwait,Syria,2,2,Friendly,Kuwait City,Kuwait,False
+2002-01-04 00:00:00,Bahrain,Finland,0,2,Prime Minister's Cup,Riffa,Bahrain,False
+2002-01-04 00:00:00,Egypt,Ghana,2,0,Friendly,Cairo,Egypt,False
+2002-01-04 00:00:00,Martinique,Guadeloupe,1,3,Friendly,Fort-de-France,Martinique,False
+2002-01-05 00:00:00,Albania,North Macedonia,0,0,Prime Minister's Cup,Riffa,Bahrain,True
+2002-01-05 00:00:00,Kuwait,Zimbabwe,3,0,Friendly,Kuwait City,Kuwait,False
+2002-01-06 00:00:00,Cuba,Guatemala,0,1,Friendly,Havana,Cuba,False
+2002-01-06 00:00:00,Egypt,Mali,1,2,Friendly,Ismaila,Egypt,False
+2002-01-06 00:00:00,Martinique,Haiti,3,3,Friendly,Fort-de-France,Martinique,False
+2002-01-07 00:00:00,Albania,Finland,1,1,Prime Minister's Cup,Riffa,Bahrain,True
+2002-01-07 00:00:00,Bahrain,North Macedonia,1,1,Prime Minister's Cup,Riffa,Bahrain,False
+2002-01-07 00:00:00,Burkina Faso,Cameroon,1,3,Friendly,Ouagadougou,Burkina Faso,False
+2002-01-08 00:00:00,Kuwait,Iceland,0,0,Friendly,Muscat,Oman,True
+2002-01-08 00:00:00,Qatar,Zimbabwe,0,2,Friendly,Doha,Qatar,False
+2002-01-09 00:00:00,Cuba,Guatemala,0,0,Friendly,Havana,Cuba,False
+2002-01-10 00:00:00,Bahrain,Albania,3,0,Prime Minister's Cup,Riffa,Bahrain,False
+2002-01-10 00:00:00,Finland,North Macedonia,3,0,Prime Minister's Cup,Riffa,Bahrain,True
+2002-01-10 00:00:00,Mali,Zambia,1,1,Friendly,Kayes,Mali,False
+2002-01-10 00:00:00,Saudi Arabia,Iceland,1,0,Friendly,Riyadh,Saudi Arabia,False
+2002-01-11 00:00:00,Egypt,Burkina Faso,2,2,Friendly,Cairo,Egypt,False
+2002-01-11 00:00:00,Grenada,Trinidad and Tobago,2,3,Friendly,St. George's,Grenada,False
+2002-01-11 00:00:00,Iraq,Oman,2,0,Friendly,Doha,Qatar,True
+2002-01-11 00:00:00,Tunisia,Cameroon,0,1,Friendly,Tunis,Tunisia,False
+2002-01-12 00:00:00,Ecuador,Guatemala,1,0,Friendly,Guayaquil,Ecuador,False
+2002-01-12 00:00:00,Ivory Coast,Nigeria,1,1,Friendly,Abidjan,Ivory Coast,False
+2002-01-13 00:00:00,Morocco,Guinea,2,1,Friendly,Rabat,Morocco,False
+2002-01-13 00:00:00,Qatar,Iraq,1,3,Friendly,Doha,Qatar,False
+2002-01-14 00:00:00,Algeria,Benin,4,0,Friendly,Algiers,Algeria,False
+2002-01-15 00:00:00,South Africa,Angola,1,0,Friendly,Mafikeng,South Africa,False
+2002-01-16 00:00:00,Gambia,Morocco,0,2,Friendly,Banjul,Gambia,False
+2002-01-16 00:00:00,Saudi Arabia,Kuwait,1,1,Gulf Cup,Riyadh,Saudi Arabia,False
+2002-01-17 00:00:00,Qatar,Bahrain,1,0,Gulf Cup,Riyadh,Saudi Arabia,True
+2002-01-17 00:00:00,United Arab Emirates,Oman,1,0,Gulf Cup,Riyadh,Saudi Arabia,True
+2002-01-18 00:00:00,Haiti,Canada,0,2,Gold Cup,Miami,United States,True
+2002-01-18 00:00:00,Martinique,Costa Rica,0,2,Gold Cup,Miami,United States,True
+2002-01-19 00:00:00,El Salvador,Mexico,0,1,Gold Cup,Pasadena,United States,True
+2002-01-19 00:00:00,Kuwait,Oman,1,3,Gulf Cup,Riyadh,Saudi Arabia,True
+2002-01-19 00:00:00,Mali,Liberia,1,1,African Cup of Nations,Bamako,Mali,False
+2002-01-19 00:00:00,Saint Kitts and Nevis,Grenada,1,1,Friendly,Basseterre,Saint Kitts and Nevis,False
+2002-01-19 00:00:00,United States,South Korea,2,1,Gold Cup,Pasadena,United States,False
+2002-01-20 00:00:00,Antigua and Barbuda,Dominica,4,0,Friendly,St. John's,Antigua and Barbuda,False
+2002-01-20 00:00:00,Cameroon,DR Congo,1,0,African Cup of Nations,Sikasso,Mali,True
+2002-01-20 00:00:00,Costa Rica,Trinidad and Tobago,1,1,Gold Cup,Miami,United States,True
+2002-01-20 00:00:00,Ecuador,Haiti,0,2,Gold Cup,Miami,United States,True
+2002-01-20 00:00:00,Egypt,Senegal,0,1,African Cup of Nations,Bamako,Mali,True
+2002-01-20 00:00:00,Saudi Arabia,Bahrain,3,1,Gulf Cup,Riyadh,Saudi Arabia,False
+2002-01-20 00:00:00,South Africa,Burkina Faso,0,0,African Cup of Nations,S√©gou,Mali,True
+2002-01-20 00:00:00,United Arab Emirates,Qatar,0,2,Gulf Cup,Riyadh,Saudi Arabia,True
+2002-01-21 00:00:00,Algeria,Nigeria,0,1,African Cup of Nations,Bamako,Mali,True
+2002-01-21 00:00:00,Mexico,Guatemala,3,1,Gold Cup,Pasadena,United States,True
+2002-01-21 00:00:00,Morocco,Ghana,0,0,African Cup of Nations,S√©gou,Mali,True
+2002-01-21 00:00:00,Togo,Ivory Coast,0,0,African Cup of Nations,Sikasso,Mali,True
+2002-01-21 00:00:00,United States,Cuba,1,0,Gold Cup,Pasadena,United States,False
+2002-01-21 00:00:00,Zambia,Tunisia,0,0,African Cup of Nations,Bamako,Mali,True
+2002-01-22 00:00:00,Canada,Ecuador,0,2,Gold Cup,Miami,United States,True
+2002-01-22 00:00:00,Kuwait,Bahrain,0,0,Gulf Cup,Riyadh,Saudi Arabia,True
+2002-01-22 00:00:00,Trinidad and Tobago,Martinique,0,1,Gold Cup,Miami,United States,True
+2002-01-23 00:00:00,Guatemala,El Salvador,0,1,Gold Cup,Pasadena,United States,True
+2002-01-23 00:00:00,South Korea,Cuba,0,0,Gold Cup,Pasadena,United States,True
+2002-01-24 00:00:00,Mali,Nigeria,0,0,African Cup of Nations,Bamako,Mali,False
+2002-01-24 00:00:00,South Africa,Ghana,0,0,African Cup of Nations,S√©gou,Mali,True
+2002-01-24 00:00:00,Oman,Qatar,1,2,Gulf Cup,Riyadh,Saudi Arabia,True
+2002-01-24 00:00:00,Saudi Arabia,United Arab Emirates,1,0,Gulf Cup,Riyadh,Saudi Arabia,False
+2002-01-25 00:00:00,Cameroon,Ivory Coast,1,0,African Cup of Nations,Sikasso,Mali,True
+2002-01-25 00:00:00,Egypt,Tunisia,1,0,African Cup of Nations,Bamako,Mali,True
+2002-01-25 00:00:00,Liberia,Algeria,2,2,African Cup of Nations,Bamako,Mali,True
+2002-01-26 00:00:00,Burkina Faso,Morocco,1,2,African Cup of Nations,S√©gou,Mali,True
+2002-01-26 00:00:00,Canada,Martinique,1,1,Gold Cup,Miami,United States,True
+2002-01-26 00:00:00,DR Congo,Togo,0,0,African Cup of Nations,Sikasso,Mali,True
+2002-01-26 00:00:00,Costa Rica,Haiti,2,1,Gold Cup,Miami,United States,True
+2002-01-26 00:00:00,Senegal,Zambia,1,0,African Cup of Nations,Bamako,Mali,True
+2002-01-26 00:00:00,Kuwait,Qatar,0,1,Gulf Cup,Riyadh,Saudi Arabia,True
+2002-01-27 00:00:00,Mexico,South Korea,0,0,Gold Cup,Pasadena,United States,True
+2002-01-27 00:00:00,United States,El Salvador,4,0,Gold Cup,Pasadena,United States,False
+2002-01-27 00:00:00,United Arab Emirates,Bahrain,1,2,Gulf Cup,Riyadh,Saudi Arabia,True
+2002-01-27 00:00:00,Saudi Arabia,Oman,2,0,Gulf Cup,Riyadh,Saudi Arabia,False
+2002-01-28 00:00:00,Liberia,Nigeria,0,1,African Cup of Nations,Mopti,Mali,True
+2002-01-28 00:00:00,Mali,Algeria,2,0,African Cup of Nations,Bamako,Mali,False
+2002-01-29 00:00:00,Cameroon,Togo,3,0,African Cup of Nations,Sikasso,Mali,True
+2002-01-29 00:00:00,DR Congo,Ivory Coast,3,1,African Cup of Nations,Kayes,Mali,True
+2002-01-29 00:00:00,Kuwait,United Arab Emirates,2,1,Gulf Cup,Riyadh,Saudi Arabia,True
+2002-01-30 00:00:00,Burkina Faso,Ghana,1,2,African Cup of Nations,Mopti,Mali,True
+2002-01-30 00:00:00,Costa Rica,South Korea,3,1,Gold Cup,Pasadena,United States,True
+2002-01-30 00:00:00,South Africa,Morocco,3,1,African Cup of Nations,S√©gou,Mali,True
+2002-01-30 00:00:00,United States,Canada,0,0,Gold Cup,Pasadena,United States,False
+2002-01-30 00:00:00,Bahrain,Oman,1,1,Gulf Cup,Riyadh,Saudi Arabia,True
+2002-01-30 00:00:00,Saudi Arabia,Qatar,3,1,Gulf Cup,Riyadh,Saudi Arabia,False
+2002-01-31 00:00:00,Brazil,Bolivia,6,0,Friendly,Goi√¢nia,Brazil,False
+2002-01-31 00:00:00,Egypt,Zambia,2,1,African Cup of Nations,Bamako,Mali,True
+2002-01-31 00:00:00,Senegal,Tunisia,0,0,African Cup of Nations,Kayes,Mali,True
+2002-02-02 00:00:00,Canada,South Korea,2,1,Gold Cup,Pasadena,United States,True
+2002-02-02 00:00:00,United States,Costa Rica,2,0,Gold Cup,Pasadena,United States,False
+2002-02-03 00:00:00,Mali,South Africa,2,0,African Cup of Nations,Kayes,Mali,False
+2002-02-03 00:00:00,Nigeria,Ghana,1,0,African Cup of Nations,Bamako,Mali,True
+2002-02-04 00:00:00,Cameroon,Egypt,1,0,African Cup of Nations,Sikasso,Mali,True
+2002-02-04 00:00:00,Senegal,DR Congo,2,0,African Cup of Nations,Bamako,Mali,True
+2002-02-06 00:00:00,Iran,Slovakia,2,3,Friendly,Tehran,Iran,False
+2002-02-06 00:00:00,Saudi Arabia,Brazil,0,1,Friendly,Riyadh,Saudi Arabia,False
+2002-02-07 00:00:00,Mali,Cameroon,0,3,African Cup of Nations,Bamako,Mali,False
+2002-02-07 00:00:00,Nigeria,Senegal,1,2,African Cup of Nations,Bamako,Mali,True
+2002-02-07 00:00:00,Singapore,North Korea,2,1,Friendly,Singapore,Singapore,False
+2002-02-09 00:00:00,Lithuania,Moldova,1,0,Malta International Tournament,Attard,Malta,True
+2002-02-09 00:00:00,Mali,Nigeria,0,3,African Cup of Nations,Mopti,Mali,False
+2002-02-09 00:00:00,Malta,Jordan,2,1,Malta International Tournament,Attard,Malta,False
+2002-02-10 00:00:00,Faroe Islands,Poland,1,2,Friendly,Limassol,Cyprus,True
+2002-02-10 00:00:00,North Korea,Qatar,1,1,King's Cup,Bangkok,Thailand,True
+2002-02-10 00:00:00,Senegal,Cameroon,0,0,African Cup of Nations,Bamako,Mali,True
+2002-02-10 00:00:00,Thailand,Singapore,4,0,King's Cup,Bangkok,Thailand,False
+2002-02-11 00:00:00,Malta,Lithuania,1,1,Malta International Tournament,Attard,Malta,False
+2002-02-11 00:00:00,Moldova,Jordan,2,0,Malta International Tournament,Attard,Malta,True
+2002-02-12 00:00:00,Cyprus,Switzerland,1,1,Cyprus International Tournament,Nicosia,Cyprus,False
+2002-02-12 00:00:00,Czech Republic,Hungary,2,0,Cyprus International Tournament,Larnaca,Cyprus,True
+2002-02-12 00:00:00,North Korea,Singapore,4,2,King's Cup,Bangkok,Thailand,True
+2002-02-12 00:00:00,Slovenia,Honduras,1,5,Lunar New Year Cup,So Kon Po,Hong Kong,True
+2002-02-12 00:00:00,Thailand,Qatar,1,0,King's Cup,Bangkok,Thailand,False
+2002-02-12 00:00:00,Turkey,Ecuador,0,1,Friendly,Breda,Netherlands,True
+2002-02-13 00:00:00,Belgium,Norway,1,0,Friendly,Brussels,Belgium,False
+2002-02-13 00:00:00,Croatia,Bulgaria,0,0,Friendly,Rijeka,Croatia,False
+2002-02-13 00:00:00,Cyprus,Czech Republic,3,4,Cyprus International Tournament,Nicosia,Cyprus,False
+2002-02-13 00:00:00,Faroe Islands,Liechtenstein,1,0,Friendly,P√©geia,Cyprus,True
+2002-02-13 00:00:00,France,Romania,2,1,Friendly,Saint-Denis,France,False
+2002-02-13 00:00:00,Germany,Israel,7,1,Friendly,Kaiserslautern,Germany,False
+2002-02-13 00:00:00,Greece,Sweden,2,2,Friendly,Salonica,Greece,False
+2002-02-13 00:00:00,Republic of Ireland,Russia,2,0,Friendly,Dublin,Republic of Ireland,False
+2002-02-13 00:00:00,Italy,United States,1,0,Friendly,Catania,Italy,False
+2002-02-13 00:00:00,Lithuania,Jordan,0,3,Malta International Tournament,Attard,Malta,True
+2002-02-13 00:00:00,Luxembourg,Albania,0,0,Friendly,Hesperange,Luxembourg,False
+2002-02-13 00:00:00,Malta,Moldova,3,0,Malta International Tournament,Attard,Malta,False
+2002-02-13 00:00:00,Mexico,Serbia,1,2,Friendly,Phoenix,United States,True
+2002-02-13 00:00:00,Netherlands,England,1,1,Friendly,Amsterdam,Netherlands,False
+2002-02-13 00:00:00,Northern Ireland,Poland,1,4,Friendly,Limassol,Cyprus,True
+2002-02-13 00:00:00,Paraguay,Bolivia,2,2,Friendly,Ciudad del Este,Paraguay,False
+2002-02-13 00:00:00,Saudi Arabia,Denmark,0,1,Friendly,Riyadh,Saudi Arabia,False
+2002-02-13 00:00:00,Spain,Portugal,1,1,Friendly,Barcelona,Spain,False
+2002-02-13 00:00:00,Switzerland,Hungary,2,1,Cyprus International Tournament,Limassol,Cyprus,True
+2002-02-13 00:00:00,Uruguay,South Korea,2,1,Friendly,Montevideo,Uruguay,False
+2002-02-13 00:00:00,Wales,Argentina,1,1,Friendly,Cardiff,Wales,False
+2002-02-14 00:00:00,Qatar,Singapore,3,0,King's Cup,Bangkok,Thailand,True
+2002-02-14 00:00:00,Thailand,North Korea,0,1,King's Cup,Bangkok,Thailand,False
+2002-02-15 00:00:00,China PR,Slovenia,0,0,Lunar New Year Cup,So Kon Po,Hong Kong,True
+2002-02-16 00:00:00,Qatar,Singapore,2,0,King's Cup,Bangkok,Thailand,True
+2002-02-16 00:00:00,Thailand,North Korea,0,0,King's Cup,Bangkok,Thailand,False
+2002-02-18 00:00:00,Gibraltar,Monaco,2,2,Friendly,Nice,France,True
+2002-03-01 00:00:00,Iran,Venezuela,1,0,Friendly,Casablanca,Morocco,True
+2002-03-02 00:00:00,Botswana,Eswatini,6,2,Friendly,Gaborone,Botswana,False
+2002-03-02 00:00:00,United States,Honduras,4,0,Friendly,Seattle,United States,False
+2002-03-07 00:00:00,Brazil,Iceland,6,1,Friendly,Cuiab√°,Brazil,False
+2002-03-09 00:00:00,American Samoa,New Caledonia,0,10,Oceania Nations Cup qualification,Apia,Samoa,True
+2002-03-09 00:00:00,Samoa,Tonga,2,0,Oceania Nations Cup qualification,Apia,Samoa,False
+2002-03-10 00:00:00,Eswatini,Lesotho,1,0,Friendly,Mbabane,Eswatini,False
+2002-03-10 00:00:00,United States,Ecuador,1,0,Friendly,Birmingham,United States,False
+2002-03-12 00:00:00,American Samoa,Tonga,2,7,Oceania Nations Cup qualification,Apia,Samoa,True
+2002-03-12 00:00:00,New Caledonia,Papua New Guinea,1,4,Oceania Nations Cup qualification,Apia,Samoa,True
+2002-03-13 00:00:00,Mexico,Albania,4,0,Friendly,San Diego,United States,True
+2002-03-13 00:00:00,Tunisia,South Korea,0,0,Friendly,Tunis,Tunisia,False
+2002-03-14 00:00:00,Estonia,Saudi Arabia,2,0,Friendly,Montecatini Terme,Italy,True
+2002-03-14 00:00:00,Papua New Guinea,Tonga,5,0,Oceania Nations Cup qualification,Apia,Samoa,True
+2002-03-14 00:00:00,Samoa,American Samoa,5,0,Oceania Nations Cup qualification,Apia,Samoa,False
+2002-03-16 00:00:00,Botswana,Namibia,3,1,Friendly,Gaborone,Botswana,False
+2002-03-16 00:00:00,Mauritius,Madagascar,2,3,COSAFA Cup,Mapou,Mauritius,False
+2002-03-16 00:00:00,New Caledonia,Tonga,9,0,Oceania Nations Cup qualification,Apia,Samoa,True
+2002-03-16 00:00:00,Samoa,Papua New Guinea,1,4,Oceania Nations Cup qualification,Apia,Samoa,False
+2002-03-17 00:00:00,Sri Lanka,Pakistan,1,1,Friendly,Colombo,Sri Lanka,False
+2002-03-18 00:00:00,American Samoa,Papua New Guinea,0,7,Oceania Nations Cup qualification,Apia,Samoa,True
+2002-03-18 00:00:00,Samoa,New Caledonia,0,5,Oceania Nations Cup qualification,Apia,Samoa,False
+2002-03-19 00:00:00,Sri Lanka,Pakistan,0,0,Friendly,Kurunegala,Sri Lanka,False
+2002-03-20 00:00:00,Finland,South Korea,0,2,Friendly,Cartagena,Spain,True
+2002-03-20 00:00:00,Saudi Arabia,South Africa,1,0,Friendly,Pistoia,Italy,True
+2002-03-21 00:00:00,Japan,Ukraine,1,0,Friendly,Osaka,Japan,False
+2002-03-23 00:00:00,Sri Lanka,Pakistan,1,0,Friendly,Colombo,Sri Lanka,False
+2002-03-25 00:00:00,Sri Lanka,Pakistan,2,1,Friendly,Kalutara,Sri Lanka,False
+2002-03-26 00:00:00,South Korea,Turkey,0,0,Friendly,Bochum,Germany,True
+2002-03-26 00:00:00,Nigeria,Paraguay,1,1,Friendly,London,England,True
+2002-03-27 00:00:00,Albania,Azerbaijan,1,0,Friendly,Tirana,Albania,False
+2002-03-27 00:00:00,Argentina,Cameroon,2,2,Friendly,Geneva,Switzerland,True
+2002-03-27 00:00:00,Austria,Slovakia,2,0,Friendly,Graz,Austria,False
+2002-03-27 00:00:00,Belize,Guyana,3,1,Friendly,Belize,Belize,False
+2002-03-27 00:00:00,Bosnia and Herzegovina,North Macedonia,4,4,Friendly,Sarajevo,Bosnia and Herzegovina,False
+2002-03-27 00:00:00,Brazil,Serbia,1,0,Friendly,Fortaleza,Brazil,False
+2002-03-27 00:00:00,Bulgaria,Ecuador,0,3,Friendly,East Rutherford,United States,True
+2002-03-27 00:00:00,Croatia,Slovenia,0,0,Friendly,Zagreb,Croatia,False
+2002-03-27 00:00:00,England,Italy,1,2,Friendly,Leeds,England,False
+2002-03-27 00:00:00,Estonia,Russia,2,1,Friendly,Tallinn,Estonia,False
+2002-03-27 00:00:00,France,Scotland,5,0,Friendly,Saint-Denis,France,False
+2002-03-27 00:00:00,Georgia,South Africa,4,1,Friendly,Tbilisi,Georgia,False
+2002-03-27 00:00:00,Germany,United States,4,2,Friendly,Rostock,Germany,False
+2002-03-27 00:00:00,Republic of Ireland,Denmark,3,0,Friendly,Dublin,Republic of Ireland,False
+2002-03-27 00:00:00,Liechtenstein,Northern Ireland,0,0,Friendly,Vaduz,Liechtenstein,False
+2002-03-27 00:00:00,Luxembourg,Latvia,0,3,Friendly,Hesperange,Luxembourg,False
+2002-03-27 00:00:00,Malta,Andorra,1,1,Friendly,Attard,Malta,False
+2002-03-27 00:00:00,Moldova,Hungary,0,2,Friendly,Chi»ôinƒÉu,Moldova,False
+2002-03-27 00:00:00,Netherlands,Spain,1,0,Friendly,Rotterdam,Netherlands,False
+2002-03-27 00:00:00,Poland,Japan,0,2,Friendly,≈Å√≥d≈∫,Poland,False
+2002-03-27 00:00:00,Portugal,Finland,1,4,Friendly,Porto,Portugal,False
+2002-03-27 00:00:00,Romania,Ukraine,4,1,Friendly,Constan≈£a,Romania,False
+2002-03-27 00:00:00,Saudi Arabia,Uruguay,3,2,Friendly,Dammam,Saudi Arabia,False
+2002-03-27 00:00:00,Senegal,Bolivia,2,1,Friendly,Dakar,Senegal,False
+2002-03-27 00:00:00,Sweden,Switzerland,1,1,Friendly,Malm√∂,Sweden,False
+2002-03-27 00:00:00,Tunisia,Norway,0,0,Friendly,Tunis,Tunisia,False
+2002-03-27 00:00:00,Wales,Czech Republic,0,0,Friendly,Cardiff,Wales,False
+2002-03-30 00:00:00,Botswana,South Africa,0,0,COSAFA Cup,Gaborone,Botswana,False
+2002-03-30 00:00:00,Eswatini,Mozambique,1,2,Friendly,Mhlume,Eswatini,False
+2002-03-31 00:00:00,Eswatini,Mozambique,1,1,Friendly,Big Bend,Eswatini,False
+2002-04-04 00:00:00,Sri Lanka,Maldives,1,0,Friendly,Colombo,Sri Lanka,False
+2002-04-06 00:00:00,Sri Lanka,Maldives,1,1,Friendly,Jaffna,Sri Lanka,False
+2002-04-07 00:00:00,Lesotho,Mozambique,0,2,COSAFA Cup,Maseru,Lesotho,False
+2002-04-09 00:00:00,Singapore,Maldives,2,0,Friendly,Singapore,Singapore,False
+2002-04-10 00:00:00,Yemen,Ethiopia,1,1,Friendly,Sana'a,Yemen,False
+2002-04-17 00:00:00,Andorra,Albania,2,0,Friendly,Sant Juli√† de L√≤ria,Andorra,False
+2002-04-17 00:00:00,Austria,Cameroon,0,0,Friendly,Vienna,Austria,False
+2002-04-17 00:00:00,Belgium,Slovakia,1,1,Friendly,Brussels,Belgium,False
+2002-04-17 00:00:00,Belize,Nicaragua,7,1,Friendly,Belize,Belize,False
+2002-04-17 00:00:00,Croatia,Bosnia and Herzegovina,2,0,Friendly,Zagreb,Croatia,False
+2002-04-17 00:00:00,Denmark,Israel,3,1,Friendly,Copenhagen,Denmark,False
+2002-04-17 00:00:00,Ecuador,South Africa,0,0,Friendly,Murcia,Spain,True
+2002-04-17 00:00:00,England,Paraguay,4,0,Friendly,Liverpool,England,False
+2002-04-17 00:00:00,France,Russia,0,0,Friendly,Saint-Denis,France,False
+2002-04-17 00:00:00,Germany,Argentina,0,1,Friendly,Stuttgart,Germany,False
+2002-04-17 00:00:00,Greece,Czech Republic,0,0,Friendly,Ioannina,Greece,False
+2002-04-17 00:00:00,Hungary,Belarus,2,5,Friendly,Debrecen,Hungary,False
+2002-04-17 00:00:00,Republic of Ireland,United States,2,1,Friendly,Dublin,Republic of Ireland,False
+2002-04-17 00:00:00,Italy,Uruguay,1,1,Friendly,Milan,Italy,False
+2002-04-17 00:00:00,Japan,Costa Rica,1,1,Friendly,Yokohama,Japan,False
+2002-04-17 00:00:00,Latvia,Kazakhstan,2,1,Friendly,Ventspils,Latvia,False
+2002-04-17 00:00:00,Luxembourg,Liechtenstein,3,3,Friendly,Hesperange,Luxembourg,False
+2002-04-17 00:00:00,North Macedonia,Finland,1,0,Friendly,Prilep,North Macedonia,False
+2002-04-17 00:00:00,Malta,Azerbaijan,1,0,Friendly,Attard,Malta,False
+2002-04-17 00:00:00,Mexico,Bulgaria,1,0,Friendly,East Rutherford,United States,True
+2002-04-17 00:00:00,Northern Ireland,Spain,0,5,Friendly,Belfast,Northern Ireland,False
+2002-04-17 00:00:00,Norway,Sweden,0,0,Friendly,Oslo,Norway,False
+2002-04-17 00:00:00,Poland,Romania,1,2,Friendly,Bydgoszcz,Poland,False
+2002-04-17 00:00:00,Portugal,Brazil,1,1,Friendly,Lisbon,Portugal,False
+2002-04-17 00:00:00,Scotland,Nigeria,1,2,Friendly,Aberdeen,Scotland,False
+2002-04-17 00:00:00,Serbia,Lithuania,4,1,Friendly,Smederevo,Yugoslavia,False
+2002-04-17 00:00:00,Slovenia,Tunisia,1,0,Friendly,Ljubljana,Slovenia,False
+2002-04-17 00:00:00,Turkey,Chile,2,0,Friendly,Kerkrade,Netherlands,True
+2002-04-17 00:00:00,Ukraine,Georgia,2,1,Friendly,Kyiv,Ukraine,False
+2002-04-21 00:00:00,South Korea,Costa Rica,2,0,Friendly,Daegu,South Korea,False
+2002-04-21 00:00:00,Eswatini,Namibia,2,1,COSAFA Cup,Lobamba,Eswatini,False
+2002-04-27 00:00:00,South Korea,China PR,0,0,Friendly,Incheon,South Korea,False
+2002-04-29 00:00:00,Japan,Slovakia,1,0,Kirin Cup,Tokyo,Japan,False
+2002-05-02 00:00:00,Japan,Honduras,3,3,Kirin Cup,Kobe,Japan,False
+2002-05-04 00:00:00,Malawi,Tanzania,1,0,Friendly,Blantyre,Malawi,False
+2002-05-04 00:00:00,Nigeria,Kenya,3,0,Friendly,Lagos,Nigeria,False
+2002-05-05 00:00:00,Zimbabwe,Eswatini,0,2,COSAFA Cup,Harare,Zimbabwe,False
+2002-05-06 00:00:00,Jersey,Guernsey,2,1,Friendly,St. Helier,Jersey,False
+2002-05-07 00:00:00,Venezuela,Colombia,0,0,Friendly,Caracas,Venezuela,False
+2002-05-08 00:00:00,Ecuador,Serbia,1,0,Friendly,East Rutherford,United States,True
+2002-05-08 00:00:00,Hungary,Croatia,0,2,Friendly,P√©cs,Hungary,False
+2002-05-09 00:00:00,Costa Rica,Colombia,1,2,Friendly,San Jos√©,Costa Rica,False
+2002-05-09 00:00:00,Germany,Kuwait,7,0,Friendly,Freiburg,Germany,False
+2002-05-11 00:00:00,Kenya,Tanzania,1,0,Friendly,Nairobi,Kenya,False
+2002-05-12 00:00:00,Mexico,Colombia,2,1,Friendly,Mexico City,Mexico,False
+2002-05-12 00:00:00,South Africa,Madagascar,1,0,Friendly,Durban,South Africa,False
+2002-05-12 00:00:00,United States,Uruguay,2,1,Friendly,Washington,United States,False
+2002-05-14 00:00:00,Belgium,Algeria,0,0,Friendly,Brussels,Belgium,False
+2002-05-14 00:00:00,Norway,Japan,3,0,Friendly,Oslo,Norway,False
+2002-05-14 00:00:00,Saudi Arabia,Senegal,3,2,Friendly,Riyadh,Saudi Arabia,False
+2002-05-14 00:00:00,Slovakia,Uzbekistan,4,1,Friendly,Pre≈°ov,Slovakia,False
+2002-05-14 00:00:00,Wales,Germany,1,0,Friendly,Cardiff,Wales,False
+2002-05-15 00:00:00,Greece,Cyprus,3,1,Friendly,Rhodes,Greece,False
+2002-05-15 00:00:00,Switzerland,Canada,1,3,Friendly,St. Gallen,Switzerland,False
+2002-05-16 00:00:00,China PR,Uruguay,0,2,Friendly,Shenyang,China PR,False
+2002-05-16 00:00:00,Republic of Ireland,Nigeria,1,2,Friendly,Dublin,Republic of Ireland,False
+2002-05-16 00:00:00,South Korea,Scotland,4,1,Friendly,Busan,South Korea,False
+2002-05-16 00:00:00,Mexico,Bolivia,1,0,Friendly,San Francisco,United States,True
+2002-05-16 00:00:00,United States,Jamaica,5,0,Friendly,East Rutherford,United States,False
+2002-05-17 00:00:00,Myanmar,Malaysia,1,1,Friendly,Yangon,Myanmar,False
+2002-05-17 00:00:00,Denmark,Cameroon,2,1,Friendly,Copenhagen,Denmark,False
+2002-05-17 00:00:00,Russia,Belarus,1,1,Friendly,Moscow,Russia,False
+2002-05-17 00:00:00,Slovenia,Ghana,2,0,Friendly,Ljubljana,Slovenia,False
+2002-05-17 00:00:00,Sweden,Paraguay,1,2,Friendly,Solna,Sweden,False
+2002-05-17 00:00:00,Ukraine,Serbia,2,0,Friendly,Moscow,Russia,True
+2002-05-17 00:00:00,Canary Islands,Venezuela,0,2,Friendly,Las Palmas,Spain,False
+2002-05-18 00:00:00,Czech Republic,Italy,1,0,Friendly,Prague,Czech Republic,False
+2002-05-18 00:00:00,France,Belgium,1,2,Friendly,Saint-Denis,France,False
+2002-05-18 00:00:00,Germany,Austria,6,2,Friendly,Leverkusen,Germany,False
+2002-05-18 00:00:00,Jamaica,Nigeria,0,1,Friendly,London,England,True
+2002-05-18 00:00:00,Malawi,Angola,2,1,COSAFA Cup,Blantyre,Malawi,False
+2002-05-18 00:00:00,Poland,Estonia,1,0,Friendly,Warsaw,Poland,False
+2002-05-18 00:00:00,Tanzania,Kenya,0,5,Friendly,Arusha,Tanzania,False
+2002-05-18 00:00:00,Catalonia,Brazil,1,3,Friendly,Barcelona,Spain,False
+2002-05-19 00:00:00,Belarus,Ukraine,2,0,Friendly,Moscow,Russia,True
+2002-05-19 00:00:00,Myanmar,Malaysia,0,0,Friendly,Yangon,Myanmar,False
+2002-05-19 00:00:00,Russia,Serbia,1,1,Friendly,Moscow,Russia,False
+2002-05-19 00:00:00,United States,Netherlands,0,2,Friendly,Foxborough,United States,False
+2002-05-20 00:00:00,Scotland,South Africa,0,2,Friendly,So Kon Po,Hong Kong,True
+2002-05-21 00:00:00,South Korea,England,1,1,Friendly,Seogwipo,South Korea,False
+2002-05-21 00:00:00,San Marino,Estonia,0,1,Friendly,Serravalle,San Marino,False
+2002-05-21 00:00:00,Singapore,Uruguay,1,2,Friendly,Kallang,Singapore,False
+2002-05-22 00:00:00,Finland,Latvia,2,1,Friendly,Helsinki,Finland,False
+2002-05-22 00:00:00,Norway,Iceland,1,1,Friendly,Bod√∏,Norway,False
+2002-05-23 00:00:00,Ecuador,Senegal,0,1,Friendly,Tottori,Japan,True
+2002-05-23 00:00:00,South Africa,Turkey,2,0,Friendly,So Kon Po,Hong Kong,True
+2002-05-25 00:00:00,China PR,Portugal,0,2,Friendly,Macau,Macau,True
+2002-05-25 00:00:00,Japan,Sweden,1,1,Friendly,Tokyo,Japan,False
+2002-05-25 00:00:00,Malaysia,Brazil,0,4,Friendly,Kuala Lumpur,Malaysia,False
+2002-05-26 00:00:00,Belgium,Costa Rica,1,0,Friendly,Kumamoto,Japan,True
+2002-05-26 00:00:00,Cameroon,England,2,2,Friendly,Kobe,Japan,True
+2002-05-26 00:00:00,Denmark,Tunisia,2,1,Friendly,Wakayama,Japan,True
+2002-05-26 00:00:00,South Korea,France,2,3,Friendly,Suwon,South Korea,False
+2002-05-30 00:00:00,Kuwait,Iran,1,3,Friendly,Kuwait City,Kuwait,False
+2002-05-31 00:00:00,France,Senegal,0,1,FIFA World Cup,Seoul,South Korea,True
+2002-06-01 00:00:00,Germany,Saudi Arabia,8,0,FIFA World Cup,Sapporo,Japan,True
+2002-06-01 00:00:00,Republic of Ireland,Cameroon,1,1,FIFA World Cup,Niigata,Japan,True
+2002-06-01 00:00:00,Uruguay,Denmark,1,2,FIFA World Cup,Ulsan,South Korea,True
+2002-06-02 00:00:00,Argentina,Nigeria,1,0,FIFA World Cup,Kashima,Japan,True
+2002-06-02 00:00:00,England,Sweden,1,1,FIFA World Cup,Saitama,Japan,True
+2002-06-02 00:00:00,Paraguay,South Africa,2,2,FIFA World Cup,Busan,South Korea,True
+2002-06-02 00:00:00,Spain,Slovenia,3,1,FIFA World Cup,Gwangju,South Korea,True
+2002-06-03 00:00:00,Brazil,Turkey,2,1,FIFA World Cup,Ulsan,South Korea,True
+2002-06-03 00:00:00,Croatia,Mexico,0,1,FIFA World Cup,Niigata,Japan,True
+2002-06-03 00:00:00,Italy,Ecuador,2,0,FIFA World Cup,Sapporo,Japan,True
+2002-06-04 00:00:00,China PR,Costa Rica,0,2,FIFA World Cup,Gwangju,South Korea,True
+2002-06-04 00:00:00,Japan,Belgium,2,2,FIFA World Cup,Saitama,Japan,False
+2002-06-04 00:00:00,South Korea,Poland,2,0,FIFA World Cup,Busan,South Korea,False
+2002-06-05 00:00:00,Germany,Republic of Ireland,1,1,FIFA World Cup,Kashima,Japan,True
+2002-06-05 00:00:00,Russia,Tunisia,2,0,FIFA World Cup,Kobe,Japan,True
+2002-06-05 00:00:00,United States,Portugal,3,2,FIFA World Cup,Suwon,South Korea,True
+2002-06-06 00:00:00,Cameroon,Saudi Arabia,1,0,FIFA World Cup,Saitama,Japan,True
+2002-06-06 00:00:00,Denmark,Senegal,1,1,FIFA World Cup,Daegu,South Korea,True
+2002-06-06 00:00:00,France,Uruguay,0,0,FIFA World Cup,Busan,South Korea,True
+2002-06-06 00:00:00,Saint Martin,Anguilla,2,1,Friendly,Marigot,Saint Martin,False
+2002-06-07 00:00:00,Andorra,Armenia,0,2,Friendly,Sant Juli√† de L√≤ria,Andorra,False
+2002-06-07 00:00:00,Argentina,England,0,1,FIFA World Cup,Sapporo,Japan,True
+2002-06-07 00:00:00,Spain,Paraguay,3,1,FIFA World Cup,Jeonju,South Korea,True
+2002-06-07 00:00:00,Sweden,Nigeria,2,1,FIFA World Cup,Kobe,Japan,True
+2002-06-08 00:00:00,Brazil,China PR,4,0,FIFA World Cup,Seogwipo,South Korea,True
+2002-06-08 00:00:00,Italy,Croatia,1,2,FIFA World Cup,Kashima,Japan,True
+2002-06-08 00:00:00,Malawi,Botswana,2,0,Friendly,Lilongwe,Malawi,False
+2002-06-08 00:00:00,South Africa,Slovenia,1,0,FIFA World Cup,Daegu,South Korea,True
+2002-06-09 00:00:00,Costa Rica,Turkey,1,1,FIFA World Cup,Incheon,South Korea,True

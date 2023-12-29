@@ -1,0 +1,1001 @@
+date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
+1996-09-01 00:00:00,Bolivia,Peru,0,0,FIFA World Cup qualification,La Paz,Bolivia,False
+1996-09-01 00:00:00,Colombia,Chile,4,1,FIFA World Cup qualification,Barranquilla,Colombia,False
+1996-09-01 00:00:00,Ecuador,Venezuela,1,0,FIFA World Cup qualification,Quito,Ecuador,False
+1996-09-01 00:00:00,Greece,Bosnia and Herzegovina,3,0,FIFA World Cup qualification,Kalam√°ta,Greece,False
+1996-09-01 00:00:00,Hungary,Finland,1,0,FIFA World Cup qualification,Budapest,Hungary,False
+1996-09-01 00:00:00,Israel,Bulgaria,2,1,FIFA World Cup qualification,Ramat-Gan,Israel,False
+1996-09-01 00:00:00,Latvia,Sweden,1,2,FIFA World Cup qualification,Riga,Latvia,False
+1996-09-01 00:00:00,Moldova,England,0,3,FIFA World Cup qualification,Chi»ôinƒÉu,Moldova,False
+1996-09-01 00:00:00,Norway,Georgia,1,0,Friendly,Oslo,Norway,False
+1996-09-01 00:00:00,Russia,Cyprus,4,0,FIFA World Cup qualification,Moscow,Russia,False
+1996-09-01 00:00:00,Singapore,Malaysia,1,1,AFF Championship,Singapore,Singapore,False
+1996-09-01 00:00:00,Slovenia,Denmark,0,2,FIFA World Cup qualification,Ljubljana,Slovenia,False
+1996-09-01 00:00:00,Trinidad and Tobago,Costa Rica,0,1,FIFA World Cup qualification,Port of Spain,Trinidad and Tobago,False
+1996-09-02 00:00:00,Cambodia,Vietnam,1,3,AFF Championship,Singapore,Singapore,True
+1996-09-02 00:00:00,Laos,Indonesia,1,5,AFF Championship,Singapore,Singapore,True
+1996-09-02 00:00:00,Philippines,Thailand,0,5,AFF Championship,Singapore,Singapore,True
+1996-09-04 00:00:00,Czech Republic,Iceland,2,1,Friendly,Jablonec nad Nisou nad Nisou,Czech Republic,False
+1996-09-04 00:00:00,Faroe Islands,Spain,2,6,FIFA World Cup qualification,Toftir,Faroe Islands,False
+1996-09-04 00:00:00,Jamaica,Costa Rica,2,0,Friendly,Kingston,Jamaica,False
+1996-09-04 00:00:00,Malaysia,Philippines,7,0,AFF Championship,Singapore,Singapore,True
+1996-09-04 00:00:00,Poland,Germany,0,2,Friendly,Zabrze,Poland,False
+1996-09-04 00:00:00,Singapore,Brunei,3,0,AFF Championship,Singapore,Singapore,False
+1996-09-05 00:00:00,Myanmar,Cambodia,5,0,AFF Championship,Singapore,Singapore,True
+1996-09-05 00:00:00,Laos,Vietnam,1,1,AFF Championship,Singapore,Singapore,True
+1996-09-05 00:00:00,Lebanon,Oman,1,2,Friendly,Beirut,Lebanon,False
+1996-09-06 00:00:00,Singapore,Philippines,3,0,AFF Championship,Singapore,Singapore,False
+1996-09-06 00:00:00,Thailand,Brunei,6,0,AFF Championship,Singapore,Singapore,True
+1996-09-07 00:00:00,Myanmar,Vietnam,1,4,AFF Championship,Singapore,Singapore,True
+1996-09-07 00:00:00,Indonesia,Cambodia,3,0,AFF Championship,Singapore,Singapore,True
+1996-09-08 00:00:00,Brunei,Philippines,1,0,AFF Championship,Singapore,Singapore,True
+1996-09-08 00:00:00,El Salvador,Cuba,5,0,FIFA World Cup qualification,San Salvador,El Salvador,False
+1996-09-08 00:00:00,Thailand,Malaysia,1,1,AFF Championship,Singapore,Singapore,True
+1996-09-09 00:00:00,Indonesia,Myanmar,6,1,AFF Championship,Singapore,Singapore,True
+1996-09-09 00:00:00,Laos,Cambodia,1,0,AFF Championship,Singapore,Singapore,True
+1996-09-10 00:00:00,Brunei,Malaysia,0,6,AFF Championship,Singapore,Singapore,True
+1996-09-10 00:00:00,Singapore,Thailand,0,1,AFF Championship,Singapore,Singapore,False
+1996-09-11 00:00:00,Japan,Uzbekistan,1,0,Friendly,Tokyo,Japan,False
+1996-09-11 00:00:00,Laos,Myanmar,2,4,AFF Championship,Singapore,Singapore,True
+1996-09-11 00:00:00,Vietnam,Indonesia,1,1,AFF Championship,Singapore,Singapore,True
+1996-09-13 00:00:00,Malaysia,Indonesia,3,1,AFF Championship,Singapore,Singapore,True
+1996-09-13 00:00:00,Thailand,Vietnam,4,2,AFF Championship,Singapore,Singapore,True
+1996-09-14 00:00:00,Australia,Ghana,2,0,Simba Tournament,Durban,South Africa,True
+1996-09-14 00:00:00,South Africa,Kenya,1,0,Simba Tournament,Durban,South Africa,False
+1996-09-15 00:00:00,Indonesia,Vietnam,2,3,AFF Championship,Singapore,Singapore,True
+1996-09-15 00:00:00,Jamaica,Honduras,3,0,FIFA World Cup qualification,Kingston,Jamaica,False
+1996-09-15 00:00:00,Senegal,Mali,1,0,Friendly,Saint-Louis,Senegal,False
+1996-09-15 00:00:00,Thailand,Malaysia,1,0,AFF Championship,Singapore,Singapore,True
+1996-09-16 00:00:00,Papua New Guinea,Solomon Islands,1,1,FIFA World Cup qualification,Lae,Papua New Guinea,False
+1996-09-17 00:00:00,Oman,Zambia,0,0,Friendly,Muscat,Oman,False
+1996-09-18 00:00:00,Czech Republic,Malta,6,0,FIFA World Cup qualification,Teplice,Czech Republic,False
+1996-09-18 00:00:00,Ghana,Kenya,1,0,Simba Tournament,Johannesburg,South Africa,True
+1996-09-18 00:00:00,Romania,United Arab Emirates,1,2,Friendly,Bucharest,Romania,False
+1996-09-18 00:00:00,Solomon Islands,Vanuatu,1,1,FIFA World Cup qualification,Lae,Papua New Guinea,True
+1996-09-18 00:00:00,South Africa,Australia,2,0,Simba Tournament,Johannesburg,South Africa,False
+1996-09-19 00:00:00,El Salvador,Venezuela,0,1,Friendly,San Salvador,El Salvador,False
+1996-09-20 00:00:00,Papua New Guinea,Vanuatu,2,1,FIFA World Cup qualification,Lae,Papua New Guinea,False
+1996-09-20 00:00:00,Qatar,Sri Lanka,3,0,FIFA World Cup qualification,Doha,Qatar,False
+1996-09-21 00:00:00,Australia,Kenya,4,0,Simba Tournament,Pretoria,South Africa,True
+1996-09-21 00:00:00,Honduras,Mexico,2,1,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+1996-09-21 00:00:00,India,Philippines,2,0,FIFA World Cup qualification,Doha,Qatar,True
+1996-09-21 00:00:00,South Africa,Ghana,0,0,Simba Tournament,Pretoria,South Africa,False
+1996-09-22 00:00:00,Guinea,Gabon,0,1,Friendly,Conakry,Guinea,False
+1996-09-22 00:00:00,Panama,Cuba,1,3,FIFA World Cup qualification,Panama City,Panama,False
+1996-09-22 00:00:00,Saudi Arabia,Zambia,2,1,Friendly,Riyadh,Saudi Arabia,False
+1996-09-22 00:00:00,Slovakia,Malta,6,0,FIFA World Cup qualification,Bratislava,Slovakia,False
+1996-09-23 00:00:00,Mali,Guinea,0,0,Friendly,Bamako,Mali,False
+1996-09-23 00:00:00,Qatar,Philippines,5,0,FIFA World Cup qualification,Doha,Qatar,False
+1996-09-24 00:00:00,Sri Lanka,India,1,1,FIFA World Cup qualification,Doha,Qatar,True
+1996-09-25 00:00:00,El Salvador,Guatemala,2,1,Friendly,Los Angeles,United States,True
+1996-09-25 00:00:00,South Korea,China PR,3,1,Friendly,Seoul,South Korea,False
+1996-09-25 00:00:00,Oman,Mozambique,0,2,Friendly,Muscat,Oman,False
+1996-09-25 00:00:00,Poland,United Arab Emirates,1,0,Friendly,Wodzis≈Çaw ≈ölƒÖski,Poland,False
+1996-09-25 00:00:00,Saudi Arabia,Zambia,1,3,Friendly,Dammam,Saudi Arabia,False
+1996-09-25 00:00:00,Syria,Sudan,1,2,Friendly,Damascus,Syria,False
+1996-09-26 00:00:00,Philippines,Sri Lanka,0,3,FIFA World Cup qualification,Doha,Qatar,True
+1996-09-27 00:00:00,Qatar,India,6,0,FIFA World Cup qualification,Doha,Qatar,False
+1996-09-29 00:00:00,Gabon,Mali,1,1,Friendly,Libreville,Gabon,False
+1996-09-29 00:00:00,Oman,New Zealand,0,1,Friendly,Muscat,Oman,False
+1996-09-29 00:00:00,Syria,Sudan,1,0,Friendly,Damascus,Syria,False
+1996-09-29 00:00:00,Zimbabwe,Tanzania,1,0,Friendly,Harare,Zimbabwe,False
+1996-10-01 00:00:00,Oman,New Zealand,1,2,Friendly,Muscat,Oman,False
+1996-10-03 00:00:00,Lebanon,Bahrain,2,3,Friendly,Tripoli,Lebanon,False
+1996-10-03 00:00:00,Saudi Arabia,New Zealand,3,0,Friendly,Dhahran,Saudi Arabia,False
+1996-10-04 00:00:00,Ecuador,Jamaica,2,1,Friendly,Ambato,Ecuador,False
+1996-10-04 00:00:00,Kuwait,Iran,0,1,Friendly,Kuwait City,Kuwait,False
+1996-10-05 00:00:00,Estonia,Belarus,1,0,FIFA World Cup qualification,Tallinn,Estonia,False
+1996-10-05 00:00:00,Latvia,Scotland,0,2,FIFA World Cup qualification,Riga,Latvia,False
+1996-10-05 00:00:00,Lithuania,Iceland,2,0,FIFA World Cup qualification,Vilnius,Lithuania,False
+1996-10-05 00:00:00,Moldova,Italy,1,3,FIFA World Cup qualification,Chi»ôinƒÉu,Moldova,False
+1996-10-05 00:00:00,Northern Ireland,Armenia,1,1,FIFA World Cup qualification,Belfast,Northern Ireland,False
+1996-10-05 00:00:00,Qatar,New Zealand,3,2,Friendly,Doha,Qatar,False
+1996-10-05 00:00:00,Togo,Tanzania,2,1,African Cup of Nations qualification,Lom√©,Togo,False
+1996-10-05 00:00:00,Ukraine,Portugal,2,1,FIFA World Cup qualification,Kyiv,Ukraine,False
+1996-10-05 00:00:00,Wales,Netherlands,1,3,FIFA World Cup qualification,Cardiff,Wales,False
+1996-10-06 00:00:00,Algeria,Ivory Coast,4,1,African Cup of Nations qualification,Algiers,Algeria,False
+1996-10-06 00:00:00,Benin,Mali,1,2,African Cup of Nations qualification,Cotonou,Benin,False
+1996-10-06 00:00:00,Central African Republic,Guinea,2,3,African Cup of Nations qualification,Bangui,Central African Republic,False
+1996-10-06 00:00:00,DR Congo,Liberia,0,0,African Cup of Nations qualification,Kinshasa,Za√Øre,False
+1996-10-06 00:00:00,Ethiopia,Senegal,1,2,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+1996-10-06 00:00:00,Faroe Islands,Serbia,1,8,FIFA World Cup qualification,Toftir,Faroe Islands,False
+1996-10-06 00:00:00,Finland,Switzerland,2,3,FIFA World Cup qualification,Helsinki,Finland,False
+1996-10-06 00:00:00,Gabon,Cameroon,0,0,African Cup of Nations qualification,Libreville,Gabon,False
+1996-10-06 00:00:00,Ghana,Angola,2,1,African Cup of Nations qualification,Kumasi,Ghana,False
+1996-10-06 00:00:00,Mauritius,Malawi,1,2,African Cup of Nations qualification,Curepipe,Mauritius,False
+1996-10-06 00:00:00,Panama,El Salvador,1,1,FIFA World Cup qualification,Panama City,Panama,False
+1996-10-06 00:00:00,Sudan,Zimbabwe,0,3,African Cup of Nations qualification,Khartoum,Sudan,False
+1996-10-06 00:00:00,Trinidad and Tobago,Guatemala,1,1,FIFA World Cup qualification,Port of Spain,Trinidad and Tobago,False
+1996-10-06 00:00:00,Tunisia,Sierra Leone,2,0,African Cup of Nations qualification,Tunis,Tunisia,False
+1996-10-06 00:00:00,Zambia,Mozambique,1,0,African Cup of Nations qualification,Lusaka,Zambia,False
+1996-10-07 00:00:00,Oman,Azerbaijan,2,0,Friendly,Muscat,Oman,False
+1996-10-08 00:00:00,Bosnia and Herzegovina,Croatia,1,4,FIFA World Cup qualification,Bologna,Italy,True
+1996-10-08 00:00:00,Kuwait,Cyprus,1,1,Friendly,Al Ain,United Arab Emirates,True
+1996-10-08 00:00:00,Luxembourg,Bulgaria,1,2,FIFA World Cup qualification,Luxembourg,Luxembourg,False
+1996-10-08 00:00:00,Uruguay,Bolivia,1,0,FIFA World Cup qualification,Montevideo,Uruguay,False
+1996-10-09 00:00:00,Albania,Portugal,0,3,FIFA World Cup qualification,Tirana,Albania,False
+1996-10-09 00:00:00,Armenia,Germany,1,5,FIFA World Cup qualification,Yerevan,Armenia,False
+1996-10-09 00:00:00,Belarus,Latvia,1,1,FIFA World Cup qualification,Minsk,Belarus,False
+1996-10-09 00:00:00,Costa Rica,Jamaica,0,0,Friendly,San Jos√©,Costa Rica,False
+1996-10-09 00:00:00,Czech Republic,Spain,0,0,FIFA World Cup qualification,Prague,Czech Republic,False
+1996-10-09 00:00:00,Denmark,Greece,2,1,FIFA World Cup qualification,Copenhagen,Denmark,False
+1996-10-09 00:00:00,Ecuador,Colombia,0,1,FIFA World Cup qualification,Quito,Ecuador,False
+1996-10-09 00:00:00,England,Poland,2,1,FIFA World Cup qualification,London,England,False
+1996-10-09 00:00:00,France,Turkey,4,0,Friendly,Paris,France,False
+1996-10-09 00:00:00,Iceland,Romania,0,4,FIFA World Cup qualification,Reykjav√≠k,Iceland,False
+1996-10-09 00:00:00,Republic of Ireland,North Macedonia,3,0,FIFA World Cup qualification,Dublin,Republic of Ireland,False
+1996-10-09 00:00:00,Israel,Russia,1,1,FIFA World Cup qualification,Ramat-Gan,Israel,False
+1996-10-09 00:00:00,Italy,Georgia,1,0,FIFA World Cup qualification,Perugia,Italy,False
+1996-10-09 00:00:00,Lebanon,New Zealand,1,1,Friendly,Beirut,Lebanon,False
+1996-10-09 00:00:00,Lithuania,Liechtenstein,2,1,FIFA World Cup qualification,Vilnius,Lithuania,False
+1996-10-09 00:00:00,Norway,Hungary,3,0,FIFA World Cup qualification,Oslo,Norway,False
+1996-10-09 00:00:00,Paraguay,Chile,2,1,FIFA World Cup qualification,Asunci√≥n,Paraguay,False
+1996-10-09 00:00:00,San Marino,Belgium,0,3,FIFA World Cup qualification,Serravalle,San Marino,False
+1996-10-09 00:00:00,Saudi Arabia,Australia,0,0,Friendly,Dammam,Saudi Arabia,False
+1996-10-09 00:00:00,Sweden,Austria,0,1,FIFA World Cup qualification,Solna,Sweden,False
+1996-10-09 00:00:00,Venezuela,Argentina,2,5,FIFA World Cup qualification,San Crist√≥bal,Venezuela,False
+1996-10-10 00:00:00,Canada,Cuba,2,0,FIFA World Cup qualification,Edmonton,Canada,False
+1996-10-13 00:00:00,Canada,Cuba,2,0,FIFA World Cup qualification,Edmonton,Canada,False
+1996-10-13 00:00:00,Japan,Tunisia,1,0,Friendly,Kobe,Japan,False
+1996-10-15 00:00:00,Oman,Saudi Arabia,0,1,Gulf Cup,Muscat,Oman,False
+1996-10-16 00:00:00,Brazil,Lithuania,3,1,Friendly,Teresina,Brazil,False
+1996-10-16 00:00:00,Kuwait,Bahrain,1,0,Gulf Cup,Muscat,Oman,True
+1996-10-16 00:00:00,Mexico,Jamaica,2,1,FIFA World Cup qualification,Mexico City,Mexico,False
+1996-10-16 00:00:00,Peru,United States,4,1,Friendly,Lima,Peru,False
+1996-10-16 00:00:00,United Arab Emirates,Qatar,0,1,Gulf Cup,Muscat,Oman,True
+1996-10-18 00:00:00,Oman,Kuwait,1,2,Gulf Cup,Muscat,Oman,False
+1996-10-18 00:00:00,United Arab Emirates,Bahrain,1,1,Gulf Cup,Muscat,Oman,True
+1996-10-19 00:00:00,Gabon,Burkina Faso,2,0,Friendly,Libreville,Gabon,False
+1996-10-19 00:00:00,Qatar,Saudi Arabia,2,2,Gulf Cup,Muscat,Oman,True
+1996-10-21 00:00:00,Honduras,El Salvador,1,1,Friendly,Tegucigalpa,Honduras,False
+1996-10-21 00:00:00,Oman,Qatar,0,3,Gulf Cup,Muscat,Oman,False
+1996-10-21 00:00:00,Saudi Arabia,Bahrain,3,1,Gulf Cup,Muscat,Oman,True
+1996-10-22 00:00:00,Kuwait,United Arab Emirates,1,2,Gulf Cup,Muscat,Oman,True
+1996-10-23 00:00:00,Mexico,Ecuador,0,1,Friendly,Oakland,United States,True
+1996-10-23 00:00:00,Slovakia,Faroe Islands,3,0,FIFA World Cup qualification,Bratislava,Slovakia,False
+1996-10-24 00:00:00,Kuwait,Saudi Arabia,1,0,Gulf Cup,Muscat,Oman,True
+1996-10-24 00:00:00,Oman,United Arab Emirates,0,0,Gulf Cup,Muscat,Oman,False
+1996-10-25 00:00:00,Bahrain,Qatar,1,2,Gulf Cup,Muscat,Oman,True
+1996-10-26 00:00:00,Honduras,Jamaica,0,0,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+1996-10-27 00:00:00,Panama,Canada,0,0,FIFA World Cup qualification,Panama City,Panama,False
+1996-10-27 00:00:00,Tahiti,Australia,0,6,Oceania Nations Cup,Papeete,French Polynesia,True
+1996-10-27 00:00:00,United Arab Emirates,Saudi Arabia,2,2,Gulf Cup,Muscat,Oman,True
+1996-10-28 00:00:00,Oman,Bahrain,1,1,Gulf Cup,Muscat,Oman,False
+1996-10-28 00:00:00,Qatar,Kuwait,1,2,Gulf Cup,Muscat,Oman,True
+1996-10-30 00:00:00,Finland,Estonia,2,2,Friendly,Kotka,Finland,False
+1996-10-30 00:00:00,Indonesia,Moldova,1,2,Friendly,Genoa,Italy,True
+1996-11-01 00:00:00,Australia,Tahiti,5,0,Oceania Nations Cup,Canberra,Australia,False
+1996-11-01 00:00:00,Honduras,Colombia,1,2,Friendly,New York,United States,True
+1996-11-03 00:00:00,Canada,El Salvador,1,0,FIFA World Cup qualification,Burnaby,Canada,False
+1996-11-03 00:00:00,Lithuania,Indonesia,4,0,Friendly,Vilnius,Lithuania,False
+1996-11-03 00:00:00,Togo,Gabon,0,1,Friendly,Lom√©,Togo,False
+1996-11-03 00:00:00,United States,Guatemala,2,0,FIFA World Cup qualification,Washington,United States,False
+1996-11-06 00:00:00,Bosnia and Herzegovina,Italy,2,1,Friendly,Sarajevo,Bosnia and Herzegovina,False
+1996-11-06 00:00:00,Mexico,Honduras,3,1,FIFA World Cup qualification,Mexico City,Mexico,False
+1996-11-06 00:00:00,Saudi Arabia,Bulgaria,1,0,Friendly,Riyadh,Saudi Arabia,False
+1996-11-07 00:00:00,Costa Rica,Panama,2,0,Friendly,San Isidro de El General,Costa Rica,False
+1996-11-07 00:00:00,Uganda,Rwanda,3,2,Friendly,Kampala,Uganda,False
+1996-11-08 00:00:00,Egypt,Namibia,7,1,FIFA World Cup qualification,Cairo,Egypt,False
+1996-11-08 00:00:00,Thailand,Bulgaria,0,4,Friendly,Bangkok,Thailand,False
+1996-11-08 00:00:00,Uganda,Rwanda,1,1,Friendly,Kampala,Uganda,False
+1996-11-09 00:00:00,Albania,Armenia,1,1,FIFA World Cup qualification,Tirana,Albania,False
+1996-11-09 00:00:00,Austria,Latvia,2,1,FIFA World Cup qualification,Vienna,Austria,False
+1996-11-09 00:00:00,Denmark,France,1,0,Friendly,Copenhagen,Denmark,False
+1996-11-09 00:00:00,Georgia,England,0,2,FIFA World Cup qualification,Tbilisi,Georgia,False
+1996-11-09 00:00:00,Germany,Northern Ireland,1,1,FIFA World Cup qualification,Nuremberg,Germany,False
+1996-11-09 00:00:00,Liechtenstein,North Macedonia,1,11,FIFA World Cup qualification,Eschen,Liechtenstein,False
+1996-11-09 00:00:00,Morocco,Sierra Leone,4,0,FIFA World Cup qualification,Rabat,Morocco,False
+1996-11-09 00:00:00,Netherlands,Wales,7,1,FIFA World Cup qualification,Eindhoven,Netherlands,False
+1996-11-09 00:00:00,Nigeria,Burkina Faso,2,0,FIFA World Cup qualification,Lagos,Nigeria,False
+1996-11-09 00:00:00,Portugal,Ukraine,1,0,FIFA World Cup qualification,Porto,Portugal,False
+1996-11-09 00:00:00,South Africa,DR Congo,1,0,FIFA World Cup qualification,Johannesburg,South Africa,False
+1996-11-10 00:00:00,Angola,Zimbabwe,2,1,FIFA World Cup qualification,Luanda,Angola,False
+1996-11-10 00:00:00,Azerbaijan,Hungary,0,3,FIFA World Cup qualification,Baku,Azerbaijan,False
+1996-11-10 00:00:00,Bolivia,Colombia,2,2,FIFA World Cup qualification,La Paz,Bolivia,False
+1996-11-10 00:00:00,Congo,Zambia,1,0,FIFA World Cup qualification,Pointe-Noire,Congo,False
+1996-11-10 00:00:00,Croatia,Greece,1,1,FIFA World Cup qualification,Zagreb,Croatia,False
+1996-11-10 00:00:00,Cyprus,Israel,2,0,FIFA World Cup qualification,Limassol,Cyprus,False
+1996-11-10 00:00:00,El Salvador,Panama,3,2,FIFA World Cup qualification,San Salvador,El Salvador,False
+1996-11-10 00:00:00,Gabon,Ghana,1,1,FIFA World Cup qualification,Libreville,Gabon,False
+1996-11-10 00:00:00,Guinea,Kenya,3,1,FIFA World Cup qualification,Conakry,Guinea,False
+1996-11-10 00:00:00,Republic of Ireland,Iceland,0,0,FIFA World Cup qualification,Dublin,Republic of Ireland,False
+1996-11-10 00:00:00,Liberia,Tunisia,0,1,FIFA World Cup qualification,Accra,Ghana,True
+1996-11-10 00:00:00,Luxembourg,Russia,0,4,FIFA World Cup qualification,Luxembourg,Luxembourg,False
+1996-11-10 00:00:00,Paraguay,Ecuador,1,0,FIFA World Cup qualification,Asunci√≥n,Paraguay,False
+1996-11-10 00:00:00,Peru,Venezuela,4,1,FIFA World Cup qualification,Lima,Peru,False
+1996-11-10 00:00:00,Poland,Moldova,2,1,FIFA World Cup qualification,Katowice,Poland,False
+1996-11-10 00:00:00,Scotland,Sweden,1,0,FIFA World Cup qualification,Glasgow,Scotland,False
+1996-11-10 00:00:00,Serbia,Czech Republic,1,0,FIFA World Cup qualification,Belgrade,Yugoslavia,True
+1996-11-10 00:00:00,Slovenia,Bosnia and Herzegovina,1,2,FIFA World Cup qualification,Ljubljana,Slovenia,False
+1996-11-10 00:00:00,Switzerland,Norway,0,1,FIFA World Cup qualification,Berne,Switzerland,False
+1996-11-10 00:00:00,Togo,Cameroon,2,4,FIFA World Cup qualification,Lom√©,Togo,False
+1996-11-10 00:00:00,Turkey,San Marino,7,0,FIFA World Cup qualification,Istanbul,Turkey,False
+1996-11-10 00:00:00,United States,Trinidad and Tobago,2,0,FIFA World Cup qualification,Richmond,United States,False
+1996-11-11 00:00:00,Tonga,Cook Islands,2,0,FIFA World Cup qualification,Nuku'alofa,Tonga,False
+1996-11-12 00:00:00,Chile,Uruguay,1,0,FIFA World Cup qualification,Santiago,Chile,False
+1996-11-13 00:00:00,Andorra,Estonia,1,6,Friendly,Sant Juli√† de L√≤ria,Andorra,False
+1996-11-13 00:00:00,Brazil,Cameroon,2,0,Friendly,Curitiba,Brazil,False
+1996-11-13 00:00:00,Lebanon,Iran,0,0,Friendly,Beirut,Lebanon,False
+1996-11-13 00:00:00,Samoa,Cook Islands,2,1,FIFA World Cup qualification,Nuku'alofa,Tonga,True
+1996-11-13 00:00:00,Spain,Slovakia,4,1,FIFA World Cup qualification,Santa Cruz de Tenerife,Spain,False
+1996-11-15 00:00:00,Tonga,Samoa,1,0,FIFA World Cup qualification,Nuku'alofa,Tonga,False
+1996-11-15 00:00:00,United Arab Emirates,Malta,0,0,Friendly,Abu Dhabi,United Arab Emirates,False
+1996-11-16 00:00:00,Estonia,Indonesia,3,0,Friendly,Celle Ligure,Italy,True
+1996-11-16 00:00:00,Saudi Arabia,Syria,3,1,Friendly,Jeddah,Saudi Arabia,False
+1996-11-17 00:00:00,Costa Rica,Guatemala,3,0,FIFA World Cup qualification,San Jos√©,Costa Rica,False
+1996-11-17 00:00:00,Jamaica,Mexico,1,0,FIFA World Cup qualification,Kingston,Jamaica,False
+1996-11-17 00:00:00,Sudan,Uganda,1,1,CECAFA Cup,Khartoum,Sudan,False
+1996-11-19 00:00:00,Kenya,Rwanda,2,1,CECAFA Cup,Kassala,Sudan,True
+1996-11-19 00:00:00,Kuwait,Syria,2,2,Friendly,Kuwait City,Kuwait,False
+1996-11-19 00:00:00,Saudi Arabia,Mali,1,3,Friendly,Riyadh,Saudi Arabia,False
+1996-11-19 00:00:00,United Arab Emirates,Uzbekistan,4,2,Friendly,Abu Dhabi,United Arab Emirates,False
+1996-11-20 00:00:00,El Salvador,Mexico,1,3,Friendly,Los Angeles,United States,True
+1996-11-22 00:00:00,Kuwait,Mali,4,2,Friendly,Kuwait City,Kuwait,False
+1996-11-22 00:00:00,Rwanda,Zanzibar,1,1,CECAFA Cup,Kassala,Sudan,True
+1996-11-22 00:00:00,Tanzania,Uganda,0,1,CECAFA Cup,Khartoum,Sudan,True
+1996-11-22 00:00:00,United Arab Emirates,Uzbekistan,2,0,Friendly,Abu Dhabi,United Arab Emirates,False
+1996-11-23 00:00:00,South Korea,Colombia,4,1,Friendly,Suwon,South Korea,False
+1996-11-24 00:00:00,Guatemala,Costa Rica,1,0,FIFA World Cup qualification,Los Angeles,United States,True
+1996-11-24 00:00:00,Indonesia,Iraq,0,4,Friendly,Genoa,Italy,True
+1996-11-24 00:00:00,Kenya,Zanzibar,1,0,CECAFA Cup,Kassala,Sudan,True
+1996-11-24 00:00:00,Mali,Burkina Faso,2,0,Friendly,Bamako,Mali,False
+1996-11-24 00:00:00,Sudan,Tanzania,3,2,CECAFA Cup,Khartoum,Sudan,False
+1996-11-24 00:00:00,Trinidad and Tobago,United States,0,1,FIFA World Cup qualification,Port of Spain,Trinidad and Tobago,False
+1996-11-25 00:00:00,Iran,Turkmenistan,0,1,Friendly,Tehran,Iran,False
+1996-11-26 00:00:00,China PR,South Korea,2,3,Friendly,Guangzhou,China PR,False
+1996-11-26 00:00:00,United Arab Emirates,Syria,1,1,Friendly,Abu Dhabi,United Arab Emirates,False
+1996-11-27 00:00:00,Malta,North Macedonia,0,2,Friendly,Attard,Malta,False
+1996-11-27 00:00:00,Uganda,Kenya,2,0,CECAFA Cup,Khartoum,Sudan,True
+1996-11-28 00:00:00,United Arab Emirates,Syria,1,0,Friendly,Abu Dhabi,United Arab Emirates,False
+1996-11-29 00:00:00,Saudi Arabia,Indonesia,4,1,Friendly,Dammam,Saudi Arabia,False
+1996-11-29 00:00:00,Sudan,Kenya,1,1,Friendly,Khartoum,Sudan,False
+1996-12-01 00:00:00,Costa Rica,United States,2,1,FIFA World Cup qualification,San Jos√©,Costa Rica,False
+1996-12-01 00:00:00,El Salvador,Cuba,3,0,FIFA World Cup qualification,San Salvador,El Salvador,False
+1996-12-04 00:00:00,Indonesia,Kuwait,2,2,AFC Asian Cup,Abu Dhabi,United Arab Emirates,True
+1996-12-04 00:00:00,United Arab Emirates,South Korea,1,1,AFC Asian Cup,Abu Dhabi,United Arab Emirates,False
+1996-12-05 00:00:00,Iran,Iraq,1,2,AFC Asian Cup,Dubai,United Arab Emirates,True
+1996-12-05 00:00:00,Lebanon,Georgia,4,2,Friendly,Beirut,Lebanon,False
+1996-12-05 00:00:00,Saudi Arabia,Thailand,6,0,AFC Asian Cup,Dubai,United Arab Emirates,True
+1996-12-06 00:00:00,China PR,Uzbekistan,0,2,AFC Asian Cup,Al Ain,United Arab Emirates,True
+1996-12-06 00:00:00,Japan,Syria,2,1,AFC Asian Cup,Al Ain,United Arab Emirates,True
+1996-12-07 00:00:00,South Korea,Indonesia,4,2,AFC Asian Cup,Abu Dhabi,United Arab Emirates,True
+1996-12-07 00:00:00,United Arab Emirates,Kuwait,3,2,AFC Asian Cup,Abu Dhabi,United Arab Emirates,False
+1996-12-08 00:00:00,Guatemala,Trinidad and Tobago,2,1,FIFA World Cup qualification,Los Angeles,United States,True
+1996-12-08 00:00:00,Lebanon,Georgia,3,2,Friendly,Beirut,Lebanon,False
+1996-12-08 00:00:00,Saudi Arabia,Iraq,1,0,AFC Asian Cup,Dubai,United Arab Emirates,True
+1996-12-08 00:00:00,Thailand,Iran,1,3,AFC Asian Cup,Dubai,United Arab Emirates,True
+1996-12-09 00:00:00,Japan,Uzbekistan,4,0,AFC Asian Cup,Al Ain,United Arab Emirates,True
+1996-12-09 00:00:00,Syria,China PR,0,3,AFC Asian Cup,Al Ain,United Arab Emirates,True
+1996-12-10 00:00:00,Kuwait,South Korea,2,0,AFC Asian Cup,Abu Dhabi,United Arab Emirates,True
+1996-12-10 00:00:00,United Arab Emirates,Indonesia,2,0,AFC Asian Cup,Abu Dhabi,United Arab Emirates,False
+1996-12-11 00:00:00,Czech Republic,Nigeria,2,1,King Hassan II Tournament,Casablanca,Morocco,True
+1996-12-11 00:00:00,Iraq,Thailand,4,1,AFC Asian Cup,Dubai,United Arab Emirates,True
+1996-12-11 00:00:00,Morocco,Croatia,2,2,King Hassan II Tournament,Casablanca,Morocco,False
+1996-12-11 00:00:00,Saudi Arabia,Iran,0,3,AFC Asian Cup,Dubai,United Arab Emirates,True
+1996-12-12 00:00:00,Croatia,Czech Republic,1,1,King Hassan II Tournament,Casablanca,Morocco,True
+1996-12-12 00:00:00,Japan,China PR,1,0,AFC Asian Cup,Al Ain,United Arab Emirates,True
+1996-12-12 00:00:00,Morocco,Nigeria,2,0,King Hassan II Tournament,Casablanca,Morocco,False
+1996-12-12 00:00:00,Uzbekistan,Syria,1,2,AFC Asian Cup,Al Ain,United Arab Emirates,True
+1996-12-14 00:00:00,Belgium,Netherlands,0,3,FIFA World Cup qualification,Brussels,Belgium,False
+1996-12-14 00:00:00,Cyprus,Bulgaria,1,3,FIFA World Cup qualification,Limassol,Cyprus,False
+1996-12-14 00:00:00,Kenya,Zambia,1,0,Friendly,Nairobi,Kenya,False
+1996-12-14 00:00:00,North Macedonia,Romania,0,3,FIFA World Cup qualification,Skopje,North Macedonia,False
+1996-12-14 00:00:00,Northern Ireland,Albania,2,0,FIFA World Cup qualification,Belfast,Northern Ireland,False
+1996-12-14 00:00:00,Portugal,Germany,0,0,FIFA World Cup qualification,Lisbon,Portugal,False
+1996-12-14 00:00:00,Spain,Serbia,2,0,FIFA World Cup qualification,Valencia,Spain,False
+1996-12-14 00:00:00,United States,Costa Rica,2,1,FIFA World Cup qualification,Palo Alto,United States,False
+1996-12-14 00:00:00,Wales,Turkey,0,0,FIFA World Cup qualification,Cardiff,Wales,False
+1996-12-15 00:00:00,Argentina,Chile,1,1,FIFA World Cup qualification,Buenos Aires,Argentina,False
+1996-12-15 00:00:00,Bolivia,Paraguay,0,0,FIFA World Cup qualification,La Paz,Bolivia,False
+1996-12-15 00:00:00,El Salvador,Canada,0,2,FIFA World Cup qualification,San Salvador,El Salvador,False
+1996-12-15 00:00:00,Israel,Luxembourg,1,0,FIFA World Cup qualification,Ramat-Gan,Israel,False
+1996-12-15 00:00:00,Kenya,Zambia,0,2,Friendly,Mombasa,Kenya,False
+1996-12-15 00:00:00,Kuwait,Japan,2,0,AFC Asian Cup,Al Ain,United Arab Emirates,True
+1996-12-15 00:00:00,Panama,Cuba,3,1,FIFA World Cup qualification,Panama City,Panama,False
+1996-12-15 00:00:00,United Arab Emirates,Iraq,1,0,AFC Asian Cup,Abu Dhabi,United Arab Emirates,False
+1996-12-15 00:00:00,Uruguay,Peru,2,0,FIFA World Cup qualification,Montevideo,Uruguay,False
+1996-12-15 00:00:00,Venezuela,Colombia,0,2,FIFA World Cup qualification,San Crist√≥bal,Venezuela,False
+1996-12-16 00:00:00,South Korea,Iran,2,6,AFC Asian Cup,Dubai,United Arab Emirates,True
+1996-12-16 00:00:00,Saudi Arabia,China PR,4,3,AFC Asian Cup,Abu Dhabi,United Arab Emirates,True
+1996-12-18 00:00:00,Brazil,Bosnia and Herzegovina,1,0,Friendly,Manaus,Brazil,False
+1996-12-18 00:00:00,Malta,Spain,0,3,FIFA World Cup qualification,Attard,Malta,False
+1996-12-19 00:00:00,Iran,Saudi Arabia,0,0,AFC Asian Cup,Abu Dhabi,United Arab Emirates,True
+1996-12-19 00:00:00,United Arab Emirates,Kuwait,1,0,AFC Asian Cup,Abu Dhabi,United Arab Emirates,False
+1996-12-20 00:00:00,Burkina Faso,Gabon,1,1,Friendly,Cotonou,Benin,True
+1996-12-21 00:00:00,Costa Rica,Trinidad and Tobago,2,1,FIFA World Cup qualification,Cartago,Costa Rica,False
+1996-12-21 00:00:00,Guatemala,United States,2,2,FIFA World Cup qualification,San Salvador,El Salvador,True
+1996-12-21 00:00:00,Iran,Kuwait,1,1,AFC Asian Cup,Abu Dhabi,United Arab Emirates,True
+1996-12-21 00:00:00,United Arab Emirates,Saudi Arabia,0,0,AFC Asian Cup,Abu Dhabi,United Arab Emirates,False
+1996-12-21 00:00:00,Zimbabwe,Tanzania,2,2,Friendly,Harare,Zimbabwe,False
+1996-12-22 00:00:00,Benin,Gabon,3,3,Friendly,Cotonou,Benin,False
+1996-12-22 00:00:00,Burkina Faso,Ghana,2,1,Friendly,Cotonou,Benin,True
+1996-12-24 00:00:00,Benin,Ghana,1,1,Friendly,Cotonou,Benin,False
+1996-12-25 00:00:00,Benin,Burkina Faso,1,1,Friendly,Cotonou,Benin,False
+1996-12-25 00:00:00,Gabon,Ghana,1,1,Friendly,Cotonou,Benin,True
+1996-12-26 00:00:00,Basque Country,Estonia,3,1,Friendly,Bilbao,Spain,False
+1996-12-27 00:00:00,Benin,Burkina Faso,0,0,Friendly,Cotonou,Benin,False
+1996-12-28 00:00:00,Argentina,Serbia,2,3,Friendly,Mar del Plata,Argentina,False
+1997-01-04 00:00:00,Chile,Armenia,7,0,Friendly,Vi√±a del Mar,Chile,False
+1997-01-04 00:00:00,Tunisia,Algeria,0,0,Friendly,Sfax,Tunisia,False
+1997-01-05 00:00:00,Egypt,Belarus,2,0,Friendly,Alexandria,Egypt,False
+1997-01-06 00:00:00,Paraguay,Armenia,2,0,Friendly,Asunci√≥n,Paraguay,False
+1997-01-06 00:00:00,Togo,Ghana,4,0,Friendly,Lom√©,Togo,False
+1997-01-08 00:00:00,Ivory Coast,Guinea,2,1,Friendly,Bouak√©,Ivory Coast,False
+1997-01-11 00:00:00,Namibia,Liberia,0,0,FIFA World Cup qualification,Windhoek,Namibia,False
+1997-01-11 00:00:00,Sierra Leone,Gabon,1,0,FIFA World Cup qualification,Freetown,Sierra Leone,False
+1997-01-11 00:00:00,Zambia,South Africa,0,0,FIFA World Cup qualification,Lusaka,Zambia,False
+1997-01-12 00:00:00,Bolivia,Ecuador,2,0,FIFA World Cup qualification,La Paz,Bolivia,False
+1997-01-12 00:00:00,Burkina Faso,Guinea,0,2,FIFA World Cup qualification,Ouagadougou,Burkina Faso,False
+1997-01-12 00:00:00,Cameroon,Angola,0,0,FIFA World Cup qualification,Yaound√©,Cameroon,False
+1997-01-12 00:00:00,DR Congo,Congo,1,1,FIFA World Cup qualification,Kinshasa,Za√Øre,False
+1997-01-12 00:00:00,Ghana,Morocco,2,2,FIFA World Cup qualification,Kumasi,Ghana,False
+1997-01-12 00:00:00,Kenya,Nigeria,1,1,FIFA World Cup qualification,Nairobi,Kenya,False
+1997-01-12 00:00:00,Lebanon,Algeria,2,2,Friendly,Beirut,Lebanon,False
+1997-01-12 00:00:00,Peru,Chile,2,1,FIFA World Cup qualification,Lima,Peru,False
+1997-01-12 00:00:00,Tunisia,Egypt,1,0,FIFA World Cup qualification,Tunis,Tunisia,False
+1997-01-12 00:00:00,Uruguay,Argentina,0,0,FIFA World Cup qualification,Montevideo,Uruguay,False
+1997-01-12 00:00:00,Venezuela,Paraguay,0,2,FIFA World Cup qualification,M√©rida,Venezuela,False
+1997-01-12 00:00:00,Zimbabwe,Togo,3,0,FIFA World Cup qualification,Harare,Zimbabwe,False
+1997-01-17 00:00:00,United States,Peru,0,1,USA Cup,San Diego,United States,False
+1997-01-18 00:00:00,Australia,New Zealand,1,0,Friendly,Melbourne,Australia,False
+1997-01-18 00:00:00,South Korea,Norway,1,0,Friendly,Melbourne,Australia,True
+1997-01-19 00:00:00,Benin,Togo,1,1,Friendly,Cotonou,Benin,False
+1997-01-19 00:00:00,Mozambique,Zimbabwe,1,2,Friendly,Maputo,Mozambique,False
+1997-01-19 00:00:00,United States,Mexico,0,2,USA Cup,Pasadena,United States,False
+1997-01-22 00:00:00,Australia,South Korea,2,1,Friendly,Brisbane,Australia,False
+1997-01-22 00:00:00,Israel,Greece,1,1,Friendly,Jerusalem,Israel,False
+1997-01-22 00:00:00,Italy,Northern Ireland,2,0,Friendly,Palermo,Italy,False
+1997-01-22 00:00:00,Mexico,Peru,0,0,USA Cup,Pasadena,United States,True
+1997-01-22 00:00:00,New Zealand,Norway,0,3,Friendly,Brisbane,Australia,True
+1997-01-22 00:00:00,Portugal,France,0,2,Friendly,Braga,Portugal,False
+1997-01-25 00:00:00,Australia,Norway,1,0,Friendly,Sydney,Australia,False
+1997-01-25 00:00:00,South Korea,New Zealand,3,1,Friendly,Sydney,Australia,True
+1997-01-25 00:00:00,Malawi,Zambia,0,2,African Cup of Nations qualification,Blantyre,Malawi,False
+1997-01-26 00:00:00,Cameroon,Namibia,4,0,African Cup of Nations qualification,Yaound√©,Cameroon,False
+1997-01-26 00:00:00,Chile,Honduras,3,2,Friendly,Santiago,Chile,False
+1997-01-26 00:00:00,Guinea,Tunisia,1,0,African Cup of Nations qualification,Conakry,Guinea,False
+1997-01-26 00:00:00,Ivory Coast,Benin,1,0,African Cup of Nations qualification,Bouak√©,Ivory Coast,False
+1997-01-26 00:00:00,Lebanon,Estonia,2,0,Friendly,Beirut,Lebanon,False
+1997-01-26 00:00:00,Liberia,Togo,1,2,African Cup of Nations qualification,Accra,Ghana,True
+1997-01-26 00:00:00,Mali,Algeria,1,0,African Cup of Nations qualification,Bamako,Mali,False
+1997-01-26 00:00:00,Mozambique,Mauritius,3,0,African Cup of Nations qualification,Maputo,Mozambique,False
+1997-01-26 00:00:00,Eswatini,Lesotho,3,1,Friendly,Lobamba,Eswatini,False
+1997-01-26 00:00:00,Tanzania,DR Congo,1,2,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+1997-01-26 00:00:00,Zimbabwe,Ghana,0,0,African Cup of Nations qualification,Harare,Zimbabwe,False
+1997-01-29 00:00:00,China PR,United States,2,1,Friendly,Kunming,China PR,False
+1997-02-01 00:00:00,China PR,United States,1,1,Friendly,Guangzhou,China PR,False
+1997-02-02 00:00:00,Bolivia,Slovakia,0,1,Friendly,Cochabamba,Bolivia,False
+1997-02-02 00:00:00,Lebanon,Jordan,1,0,Friendly,Beirut,Lebanon,False
+1997-02-05 00:00:00,Costa Rica,Slovakia,2,2,Friendly,Alajuela,Costa Rica,False
+1997-02-05 00:00:00,Mexico,Ecuador,3,1,Friendly,Mexico City,Mexico,False
+1997-02-07 00:00:00,Jordan,Lebanon,0,0,Friendly,Amman,Jordan,False
+1997-02-07 00:00:00,Russia,Serbia,1,1,Lunar New Year Cup,So Kon Po,Hong Kong,True
+1997-02-08 00:00:00,Colombia,Slovakia,1,0,Friendly,Pereira,Colombia,False
+1997-02-09 00:00:00,Lebanon,Jordan,0,0,Friendly,Beirut,Lebanon,False
+1997-02-09 00:00:00,Thailand,Japan,1,1,King's Cup,Bangkok,Thailand,False
+1997-02-10 00:00:00,Russia,Switzerland,2,1,Lunar New Year Cup,So Kon Po,Hong Kong,True
+1997-02-11 00:00:00,Estonia,Scotland,0,0,FIFA World Cup qualification,Monaco,Monaco,True
+1997-02-11 00:00:00,Northern Ireland,Belgium,3,0,Friendly,Belfast,Northern Ireland,False
+1997-02-11 00:00:00,Thailand,Sweden,0,0,King's Cup,Bangkok,Thailand,False
+1997-02-11 00:00:00,Wales,Republic of Ireland,0,0,Friendly,Cardiff,Wales,False
+1997-02-12 00:00:00,Bolivia,Chile,1,1,FIFA World Cup qualification,La Paz,Bolivia,False
+1997-02-12 00:00:00,Colombia,Argentina,0,1,FIFA World Cup qualification,Barranquilla,Colombia,False
+1997-02-12 00:00:00,Ecuador,Uruguay,4,0,FIFA World Cup qualification,Quito,Ecuador,False
+1997-02-12 00:00:00,England,Italy,0,1,FIFA World Cup qualification,London,England,False
+1997-02-12 00:00:00,Jamaica,Venezuela,0,0,Friendly,Kingston,Jamaica,False
+1997-02-12 00:00:00,Paraguay,Peru,2,1,FIFA World Cup qualification,Asunci√≥n,Paraguay,False
+1997-02-12 00:00:00,Spain,Malta,4,0,FIFA World Cup qualification,Alicante,Spain,False
+1997-02-12 00:00:00,Turkey,Finland,1,1,Friendly,Denizli,Turkey,False
+1997-02-13 00:00:00,Japan,Sweden,0,1,King's Cup,Bangkok,Thailand,True
+1997-02-14 00:00:00,Cyprus,Latvia,2,0,Cyprus International Tournament,Paral√≠mni,Cyprus,False
+1997-02-14 00:00:00,Lithuania,Poland,0,0,Cyprus International Tournament,Ag√≠a N√°pa,Cyprus,True
+1997-02-15 00:00:00,Cyprus,Poland,2,3,Cyprus International Tournament,Ag√≠a N√°pa,Cyprus,False
+1997-02-15 00:00:00,Latvia,Lithuania,1,0,Cyprus International Tournament,Dherynia,Cyprus,True
+1997-02-15 00:00:00,Tonga,Solomon Islands,0,4,FIFA World Cup qualification,Nuku'alofa,Tonga,False
+1997-02-16 00:00:00,Iraq,Jordan,1,0,Friendly,Baghdad,Iraq,False
+1997-02-16 00:00:00,Senegal,Mali,1,1,Friendly,Dakar,Senegal,False
+1997-02-16 00:00:00,Thailand,Sweden,1,3,King's Cup,Bangkok,Thailand,False
+1997-02-17 00:00:00,Cyprus,Lithuania,1,0,Cyprus International Tournament,Paral√≠mni,Cyprus,False
+1997-02-17 00:00:00,Fiji,Solomon Islands,1,2,Friendly,Suva,Fiji,False
+1997-02-17 00:00:00,Latvia,Poland,2,3,Cyprus International Tournament,Dherynia,Cyprus,True
+1997-02-18 00:00:00,Kuwait,Egypt,2,0,Friendly,Kuwait City,Kuwait,False
+1997-02-19 00:00:00,Costa Rica,Venezuela,5,2,Friendly,Heredia,Costa Rica,False
+1997-02-19 00:00:00,Greece,Portugal,0,0,Friendly,Athens,Greece,False
+1997-02-19 00:00:00,Guyana,French Guiana,2,0,CFU Caribbean Cup qualification,Georgetown,Guyana,False
+1997-02-21 00:00:00,Botswana,Eswatini,0,0,Friendly,Gaborone,Botswana,False
+1997-02-21 00:00:00,China PR,Singapore,3,1,Dunhill Cup,Kuala Lumpur,Malaysia,True
+1997-02-21 00:00:00,Fiji,Solomon Islands,3,2,Friendly,Nadi,Fiji,False
+1997-02-21 00:00:00,Jamaica,Bermuda,1,0,CFU Caribbean Cup qualification,Kingston,Jamaica,False
+1997-02-21 00:00:00,Malaysia,Finland,2,1,Dunhill Cup,Kuala Lumpur,Malaysia,False
+1997-02-22 00:00:00,Bosnia and Herzegovina,Vietnam,4,0,Dunhill Cup,Kuala Lumpur,Malaysia,True
+1997-02-22 00:00:00,Hong Kong,South Korea,0,2,FIFA World Cup qualification,Victoria,Hong Kong,False
+1997-02-22 00:00:00,Indonesia,Zimbabwe,0,0,Dunhill Cup,Kuala Lumpur,Malaysia,True
+1997-02-23 00:00:00,Benin,Algeria,1,1,African Cup of Nations qualification,Cotonou,Benin,False
+1997-02-23 00:00:00,Botswana,Lesotho,1,4,Friendly,Jwaneng,Botswana,False
+1997-02-23 00:00:00,China PR,Finland,2,1,Dunhill Cup,Kuala Lumpur,Malaysia,True
+1997-02-23 00:00:00,Ethiopia,Egypt,1,1,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+1997-02-23 00:00:00,Guyana,French Guiana,2,2,CFU Caribbean Cup qualification,Georgetown,Guyana,False
+1997-02-23 00:00:00,Jamaica,Bermuda,3,2,CFU Caribbean Cup qualification,Kingston,Jamaica,False
+1997-02-23 00:00:00,Malaysia,Singapore,0,0,Dunhill Cup,Kuala Lumpur,Malaysia,False
+1997-02-23 00:00:00,Mali,Ivory Coast,1,2,African Cup of Nations qualification,Bamako,Mali,False
+1997-02-23 00:00:00,Mauritius,Zambia,0,0,African Cup of Nations qualification,Curepipe,Mauritius,False
+1997-02-23 00:00:00,Tanzania,Liberia,1,1,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+1997-02-23 00:00:00,Togo,DR Congo,1,1,African Cup of Nations qualification,Lom√©,Togo,False
+1997-02-23 00:00:00,Zimbabwe,Angola,1,0,African Cup of Nations qualification,Harare,Zimbabwe,False
+1997-02-24 00:00:00,Bosnia and Herzegovina,Zimbabwe,2,2,Dunhill Cup,Kuala Lumpur,Malaysia,True
+1997-02-24 00:00:00,Indonesia,Vietnam,1,0,Dunhill Cup,Kuala Lumpur,Malaysia,True
+1997-02-25 00:00:00,Malaysia,China PR,0,2,Dunhill Cup,Kuala Lumpur,Malaysia,False
+1997-02-25 00:00:00,Singapore,Finland,0,1,Dunhill Cup,Kuala Lumpur,Malaysia,True
+1997-02-26 00:00:00,Bosnia and Herzegovina,Indonesia,2,0,Dunhill Cup,Kuala Lumpur,Malaysia,True
+1997-02-26 00:00:00,Brazil,Poland,4,2,Friendly,Goi√¢nia,Brazil,False
+1997-02-26 00:00:00,France,Netherlands,2,1,Friendly,Paris,France,False
+1997-02-26 00:00:00,Israel,Germany,0,1,Friendly,Ramat-Gan,Israel,False
+1997-02-26 00:00:00,Vietnam,Zimbabwe,0,6,Dunhill Cup,Kuala Lumpur,Malaysia,True
+1997-02-28 00:00:00,China PR,Zimbabwe,3,1,Dunhill Cup,Kuala Lumpur,Malaysia,True
+1997-02-28 00:00:00,Malaysia,Bosnia and Herzegovina,0,1,Dunhill Cup,Kuala Lumpur,Malaysia,False
+1997-03-01 00:00:00,Azerbaijan,Estonia,0,2,Friendly,Larnaca,Cyprus,True
+1997-03-01 00:00:00,Botswana,Malawi,1,4,COSAFA Cup qualification,Gaborone,Botswana,False
+1997-03-01 00:00:00,Solomon Islands,Tonga,9,0,FIFA World Cup qualification,Honiara,Solomon Islands,False
+1997-03-02 00:00:00,Bosnia and Herzegovina,China PR,0,3,Dunhill Cup,Kuala Lumpur,Malaysia,True
+1997-03-02 00:00:00,Jamaica,United States,0,0,FIFA World Cup qualification,Kingston,Jamaica,False
+1997-03-02 00:00:00,Lesotho,Zambia,0,2,COSAFA Cup qualification,Maseru,Lesotho,False
+1997-03-02 00:00:00,Mexico,Canada,4,0,FIFA World Cup qualification,Mexico City,Mexico,False
+1997-03-02 00:00:00,Saudi Arabia,Syria,3,0,Friendly,Riyadh,Saudi Arabia,False
+1997-03-02 00:00:00,Thailand,South Korea,1,3,FIFA World Cup qualification,Bangkok,Thailand,False
+1997-03-03 00:00:00,Eswatini,Mozambique,0,4,COSAFA Cup qualification,Lobamba,Eswatini,False
+1997-03-05 00:00:00,Aruba,Cura√ßao,2,1,CFU Caribbean Cup qualification,Oranjestad,Aruba,False
+1997-03-06 00:00:00,Bahrain,Oman,1,0,Friendly,Muharraq,Bahrain,False
+1997-03-09 00:00:00,Costa Rica,Cameroon,5,0,Friendly,San Jos√©,Costa Rica,False
+1997-03-09 00:00:00,Saudi Arabia,Indonesia,2,0,Friendly,Dammam,Saudi Arabia,False
+1997-03-09 00:00:00,Thailand,Hong Kong,2,0,FIFA World Cup qualification,Bangkok,Thailand,False
+1997-03-12 00:00:00,Cyprus,Greece,0,4,Friendly,Paral√≠mni,Cyprus,False
+1997-03-12 00:00:00,Czech Republic,Poland,2,1,Friendly,Ostrava,Czech Republic,False
+1997-03-12 00:00:00,Israel,Sweden,0,1,Friendly,Ramat-Gan,Israel,False
+1997-03-12 00:00:00,North Macedonia,Australia,0,1,Friendly,Skopje,North Macedonia,False
+1997-03-12 00:00:00,Martinique,Saint Lucia,1,0,CFU Caribbean Cup qualification,Fort-de-France,Martinique,False
+1997-03-12 00:00:00,Saudi Arabia,Indonesia,3,1,Friendly,Dammam,Saudi Arabia,False
+1997-03-12 00:00:00,Serbia,Russia,0,0,Friendly,Belgrade,Yugoslavia,False
+1997-03-13 00:00:00,El Salvador,Guatemala,0,0,Friendly,San Salvador,El Salvador,False
+1997-03-14 00:00:00,Saint Lucia,Saint Vincent and the Grenadines,3,2,CFU Caribbean Cup qualification,Fort-de-France,Martinique,True
+1997-03-15 00:00:00,Thailand,Japan,3,1,Friendly,Bangkok,Thailand,False
+1997-03-16 00:00:00,Costa Rica,Mexico,0,0,FIFA World Cup qualification,San Jos√©,Costa Rica,False
+1997-03-16 00:00:00,Malaysia,Bangladesh,2,0,FIFA World Cup qualification,Kuala Lumpur,Malaysia,False
+1997-03-16 00:00:00,Namibia,Zimbabwe,2,1,COSAFA Cup qualification,Windhoek,Namibia,False
+1997-03-16 00:00:00,United States,Canada,3,0,FIFA World Cup qualification,Palo Alto,United States,False
+1997-03-18 00:00:00,Austria,Slovenia,0,2,Friendly,Linz,Austria,False
+1997-03-18 00:00:00,Bangladesh,Taiwan,1,3,FIFA World Cup qualification,Kuala Lumpur,Malaysia,True
+1997-03-18 00:00:00,Kuwait,Bahrain,3,1,Friendly,Kuwait City,Kuwait,False
+1997-03-18 00:00:00,Malaysia,Saudi Arabia,0,0,FIFA World Cup qualification,Kuala Lumpur,Malaysia,False
+1997-03-19 00:00:00,Malta,Hungary,1,4,Friendly,Attard,Malta,False
+1997-03-19 00:00:00,United Arab Emirates,Lebanon,2,1,Friendly,Abu Dhabi,United Arab Emirates,False
+1997-03-20 00:00:00,Bangladesh,Saudi Arabia,1,4,FIFA World Cup qualification,Kuala Lumpur,Malaysia,True
+1997-03-20 00:00:00,Malaysia,Taiwan,2,0,FIFA World Cup qualification,Kuala Lumpur,Malaysia,False
+1997-03-22 00:00:00,Azerbaijan,Turkmenistan,3,0,Friendly,Baku,Azerbaijan,False
+1997-03-23 00:00:00,Bolivia,Jamaica,6,0,Friendly,Oruro,Bolivia,False
+1997-03-23 00:00:00,Costa Rica,United States,3,2,FIFA World Cup qualification,San Jos√©,Costa Rica,False
+1997-03-23 00:00:00,Nepal,Macau,1,1,FIFA World Cup qualification,Muscat,Oman,True
+1997-03-23 00:00:00,Oman,Japan,0,1,FIFA World Cup qualification,Muscat,Oman,False
+1997-03-23 00:00:00,Panama,Belize,1,1,UNCAF Cup,Panama City,Panama,False
+1997-03-25 00:00:00,Guatemala,Ecuador,0,0,Friendly,Guatemala,Guatemala,False
+1997-03-25 00:00:00,Macau,Japan,0,10,FIFA World Cup qualification,Muscat,Oman,True
+1997-03-25 00:00:00,Oman,Nepal,1,0,FIFA World Cup qualification,Muscat,Oman,False
+1997-03-27 00:00:00,Nepal,Japan,0,6,FIFA World Cup qualification,Muscat,Oman,True
+1997-03-27 00:00:00,Oman,Macau,4,0,FIFA World Cup qualification,Muscat,Oman,False
+1997-03-27 00:00:00,Saudi Arabia,Bangladesh,3,0,FIFA World Cup qualification,Jeddah,Saudi Arabia,False
+1997-03-29 00:00:00,Albania,Ukraine,0,1,FIFA World Cup qualification,Granada,Spain,True
+1997-03-29 00:00:00,Croatia,Denmark,1,1,FIFA World Cup qualification,Split,Croatia,False
+1997-03-29 00:00:00,Cyprus,Russia,1,1,FIFA World Cup qualification,Paral√≠mni,Cyprus,False
+1997-03-29 00:00:00,England,Mexico,2,0,Friendly,London,England,False
+1997-03-29 00:00:00,Italy,Moldova,3,0,FIFA World Cup qualification,Trieste,Italy,False
+1997-03-29 00:00:00,Netherlands,San Marino,4,0,FIFA World Cup qualification,Amsterdam,Netherlands,False
+1997-03-29 00:00:00,Northern Ireland,Portugal,0,0,FIFA World Cup qualification,Belfast,Northern Ireland,False
+1997-03-29 00:00:00,Romania,Liechtenstein,8,0,FIFA World Cup qualification,Bucharest,Romania,False
+1997-03-29 00:00:00,Saudi Arabia,Malaysia,3,0,FIFA World Cup qualification,Jeddah,Saudi Arabia,False
+1997-03-29 00:00:00,Scotland,Estonia,2,0,FIFA World Cup qualification,Kilmarnock,Scotland,False
+1997-03-29 00:00:00,Sierra Leone,Senegal,2,1,Friendly,Freetown,Sierra Leone,False
+1997-03-29 00:00:00,Tanzania,Burkina Faso,3,2,Friendly,Arusha,Tanzania,False
+1997-03-29 00:00:00,United Arab Emirates,Norway,1,4,Friendly,Sharjah,United Arab Emirates,False
+1997-03-29 00:00:00,Wales,Belgium,1,2,FIFA World Cup qualification,Cardiff,Wales,False
+1997-03-30 00:00:00,Belize,Panama,0,1,UNCAF Cup,San Ignacio,Belize,False
+1997-03-30 00:00:00,China PR,Iraq,0,2,Nehru Cup,Kochi,India,True
+1997-03-30 00:00:00,Gabon,Togo,2,1,Friendly,Libreville,Gabon,False
+1997-03-30 00:00:00,Georgia,Armenia,7,0,Friendly,Tbilisi,Georgia,False
+1997-03-30 00:00:00,Hong Kong,Thailand,3,2,FIFA World Cup qualification,Victoria,Hong Kong,False
+1997-03-31 00:00:00,Bangladesh,Malaysia,0,1,FIFA World Cup qualification,Jeddah,Saudi Arabia,True
+1997-03-31 00:00:00,Luxembourg,Israel,0,3,FIFA World Cup qualification,Luxembourg,Luxembourg,False
+1997-03-31 00:00:00,Malta,Slovakia,0,2,FIFA World Cup qualification,Attard,Malta,False
+1997-03-31 00:00:00,Saudi Arabia,Taiwan,6,0,FIFA World Cup qualification,Jeddah,Saudi Arabia,False
+1997-04-01 00:00:00,India,China PR,0,0,Nehru Cup,Kochi,India,False
+1997-04-02 00:00:00,Albania,Germany,2,3,FIFA World Cup qualification,Granada,Spain,True
+1997-04-02 00:00:00,Azerbaijan,Finland,1,2,FIFA World Cup qualification,Baku,Azerbaijan,False
+1997-04-02 00:00:00,Barbados,Grenada,1,1,CFU Caribbean Cup qualification,Port of Spain,Trinidad and Tobago,True
+1997-04-02 00:00:00,Bolivia,Argentina,2,1,FIFA World Cup qualification,La Paz,Bolivia,False
+1997-04-02 00:00:00,Bosnia and Herzegovina,Greece,0,1,FIFA World Cup qualification,Sarajevo,Bosnia and Herzegovina,False
+1997-04-02 00:00:00,Brazil,Chile,4,0,Friendly,Bras√≠lia,Brazil,False
+1997-04-02 00:00:00,Bulgaria,Cyprus,4,1,FIFA World Cup qualification,Sofia,Bulgaria,False
+1997-04-02 00:00:00,Croatia,Slovenia,3,3,FIFA World Cup qualification,Split,Croatia,False
+1997-04-02 00:00:00,Czech Republic,Serbia,1,2,FIFA World Cup qualification,Prague,Czech Republic,False
+1997-04-02 00:00:00,Dominica,British Virgin Islands,6,1,CFU Caribbean Cup qualification,Roseau,Dominica,False
+1997-04-02 00:00:00,France,Sweden,1,0,Friendly,Paris,France,False
+1997-04-02 00:00:00,Hungary,Australia,1,3,Friendly,Budapest,Hungary,False
+1997-04-02 00:00:00,Lithuania,Romania,0,1,FIFA World Cup qualification,Vilnius,Lithuania,False
+1997-04-02 00:00:00,North Macedonia,Republic of Ireland,3,2,FIFA World Cup qualification,Skopje,North Macedonia,False
+1997-04-02 00:00:00,Paraguay,Colombia,2,1,FIFA World Cup qualification,Asunci√≥n,Paraguay,False
+1997-04-02 00:00:00,Peru,Ecuador,1,1,FIFA World Cup qualification,Lima,Peru,False
+1997-04-02 00:00:00,Poland,Italy,0,0,FIFA World Cup qualification,Chorz√≥w,Poland,False
+1997-04-02 00:00:00,Scotland,Austria,2,0,FIFA World Cup qualification,Glasgow,Scotland,False
+1997-04-02 00:00:00,Sint Maarten,Anguilla,3,0,CFU Caribbean Cup qualification,Roseau,Dominica,True
+1997-04-02 00:00:00,Switzerland,Latvia,1,0,Friendly,Lucerne,Switzerland,False
+1997-04-02 00:00:00,Trinidad and Tobago,Guyana,3,0,Friendly,Port of Spain,Trinidad and Tobago,False
+1997-04-02 00:00:00,Turkey,Netherlands,1,0,FIFA World Cup qualification,Bursa,Turkey,False
+1997-04-02 00:00:00,Ukraine,Northern Ireland,2,1,FIFA World Cup qualification,Kyiv,Ukraine,False
+1997-04-02 00:00:00,Uruguay,Venezuela,3,1,FIFA World Cup qualification,Montevideo,Uruguay,False
+1997-04-03 00:00:00,China PR,Ghana,0,0,Nehru Cup,Kochi,India,True
+1997-04-04 00:00:00,British Virgin Islands,Anguilla,4,2,CFU Caribbean Cup qualification,Roseau,Dominica,True
+1997-04-04 00:00:00,Dominica,Sint Maarten,1,0,CFU Caribbean Cup qualification,Roseau,Dominica,False
+1997-04-04 00:00:00,Grenada,Guyana,5,1,CFU Caribbean Cup qualification,Palo Seco,Trinidad and Tobago,True
+1997-04-04 00:00:00,Trinidad and Tobago,Barbados,0,1,Friendly,Palo Seco,Trinidad and Tobago,False
+1997-04-05 00:00:00,Nigeria,Guinea,2,1,FIFA World Cup qualification,Lagos,Nigeria,False
+1997-04-05 00:00:00,Sierra Leone,Ghana,1,1,FIFA World Cup qualification,Freetown,Sierra Leone,False
+1997-04-06 00:00:00,Angola,Togo,3,1,FIFA World Cup qualification,Luanda,Angola,False
+1997-04-06 00:00:00,Cameroon,Zimbabwe,1,0,FIFA World Cup qualification,Yaound√©,Cameroon,False
+1997-04-06 00:00:00,Canada,El Salvador,0,0,FIFA World Cup qualification,Burnaby,Canada,False
+1997-04-06 00:00:00,Congo,South Africa,2,0,FIFA World Cup qualification,Pointe-Noire,Congo,False
+1997-04-06 00:00:00,Dominica,Anguilla,5,0,CFU Caribbean Cup qualification,Roseau,Dominica,False
+1997-04-06 00:00:00,Gabon,Morocco,0,4,FIFA World Cup qualification,Libreville,Gabon,False
+1997-04-06 00:00:00,Guyana,Barbados,0,2,CFU Caribbean Cup qualification,Arima,Trinidad and Tobago,True
+1997-04-06 00:00:00,India,Iraq,0,1,Nehru Cup,Kochi,India,False
+1997-04-06 00:00:00,Indonesia,Cambodia,8,0,FIFA World Cup qualification,Jakarta,Indonesia,False
+1997-04-06 00:00:00,Kenya,Burkina Faso,4,3,FIFA World Cup qualification,Nairobi,Kenya,False
+1997-04-06 00:00:00,Liberia,Egypt,1,0,FIFA World Cup qualification,Accra,Ghana,True
+1997-04-06 00:00:00,Namibia,Tunisia,1,2,FIFA World Cup qualification,Windhoek,Namibia,False
+1997-04-06 00:00:00,Sint Maarten,British Virgin Islands,3,2,CFU Caribbean Cup qualification,Roseau,Dominica,True
+1997-04-06 00:00:00,Trinidad and Tobago,Grenada,2,3,Friendly,Arima,Trinidad and Tobago,False
+1997-04-08 00:00:00,India,Ghana,2,2,Nehru Cup,Kochi,India,False
+1997-04-08 00:00:00,Jordan,United Arab Emirates,0,0,FIFA World Cup qualification,Manama,Bahrain,True
+1997-04-09 00:00:00,DR Congo,Zambia,2,2,FIFA World Cup qualification,Harare,Zimbabwe,True
+1997-04-10 00:00:00,India,Iraq,1,1,Nehru Cup,Kochi,India,False
+1997-04-11 00:00:00,Bahrain,United Arab Emirates,1,2,FIFA World Cup qualification,Manama,Bahrain,False
+1997-04-11 00:00:00,India,China PR,1,2,Nehru Cup,Kochi,India,False
+1997-04-11 00:00:00,Kuwait,Iran,0,2,Friendly,Kuwait City,Kuwait,False
+1997-04-12 00:00:00,Malawi,Mozambique,2,2,COSAFA Cup,Lilongwe,Malawi,False
+1997-04-13 00:00:00,El Salvador,Guatemala,1,1,Friendly,Washington,United States,True
+1997-04-13 00:00:00,Indonesia,Yemen,0,0,FIFA World Cup qualification,Jakarta,Indonesia,False
+1997-04-13 00:00:00,Lebanon,Singapore,1,1,FIFA World Cup qualification,Beirut,Lebanon,False
+1997-04-13 00:00:00,Mexico,Jamaica,6,0,FIFA World Cup qualification,Mexico City,Mexico,False
+1997-04-14 00:00:00,Bahrain,Jordan,1,0,FIFA World Cup qualification,Manama,Bahrain,False
+1997-04-16 00:00:00,Guatemala,Costa Rica,1,1,UNCAF Cup,Guatemala,Guatemala,False
+1997-04-16 00:00:00,Honduras,Panama,5,0,UNCAF Cup,Guatemala,Guatemala,True
+1997-04-17 00:00:00,Thailand,Kuwait,3,1,Friendly,Bangkok,Thailand,False
+1997-04-18 00:00:00,Costa Rica,Nicaragua,5,1,UNCAF Cup,Guatemala,Guatemala,True
+1997-04-18 00:00:00,Honduras,El Salvador,3,0,UNCAF Cup,Guatemala,Guatemala,True
+1997-04-19 00:00:00,Zambia,Malawi,4,0,COSAFA Cup,Lusaka,Zambia,False
+1997-04-19 00:00:00,Jordan,Bahrain,4,1,FIFA World Cup qualification,Sharjah,United Arab Emirates,True
+1997-04-20 00:00:00,Cambodia,Yemen,0,1,FIFA World Cup qualification,Phnom Penh,Cambodia,False
+1997-04-20 00:00:00,Cameroon,Congo,2,0,Friendly,Yaound√©,Cameroon,False
+1997-04-20 00:00:00,El Salvador,Panama,2,0,UNCAF Cup,Guatemala,Guatemala,True
+1997-04-20 00:00:00,Guatemala,Nicaragua,6,1,UNCAF Cup,Guatemala,Guatemala,False
+1997-04-20 00:00:00,United States,Mexico,2,2,FIFA World Cup qualification,Foxborough,United States,False
+1997-04-21 00:00:00,China PR,Myanmar,5,0,Friendly,Beijing,China PR,False
+1997-04-21 00:00:00,Iran,Kenya,3,0,Friendly,Tabriz,Iran,False
+1997-04-22 00:00:00,United Arab Emirates,Bahrain,3,0,FIFA World Cup qualification,Sharjah,United Arab Emirates,False
+1997-04-23 00:00:00,China PR,South Korea,0,2,Friendly,Beijing,China PR,False
+1997-04-23 00:00:00,Guatemala,El Salvador,1,0,UNCAF Cup,Guatemala,Guatemala,False
+1997-04-23 00:00:00,Honduras,Costa Rica,0,4,UNCAF Cup,Guatemala,Guatemala,True
+1997-04-25 00:00:00,Costa Rica,El Salvador,1,0,UNCAF Cup,Guatemala,Guatemala,True
+1997-04-25 00:00:00,Guatemala,Honduras,1,0,UNCAF Cup,Guatemala,Guatemala,False
+1997-04-25 00:00:00,Turkmenistan,Azerbaijan,2,0,Friendly,Ashgabat,Turkmenistan,False
+1997-04-26 00:00:00,Namibia,Egypt,2,3,FIFA World Cup qualification,Windhoek,Namibia,False
+1997-04-26 00:00:00,Sierra Leone,Morocco,0,1,FIFA World Cup qualification,Freetown,Sierra Leone,False
+1997-04-26 00:00:00,Singapore,Kuwait,0,1,FIFA World Cup qualification,Singapore,Singapore,False
+1997-04-26 00:00:00,United Arab Emirates,Jordan,2,0,FIFA World Cup qualification,Sharjah,United Arab Emirates,False
+1997-04-27 00:00:00,Burkina Faso,Nigeria,1,2,FIFA World Cup qualification,Ouagadougou,Burkina Faso,False
+1997-04-27 00:00:00,Cambodia,Indonesia,1,1,FIFA World Cup qualification,Phnom Penh,Cambodia,False
+1997-04-27 00:00:00,Cameroon,Togo,2,0,FIFA World Cup qualification,Yaound√©,Cameroon,False
+1997-04-27 00:00:00,Canada,Jamaica,0,0,FIFA World Cup qualification,Burnaby,Canada,False
+1997-04-27 00:00:00,China PR,Iran,0,0,Friendly,Beijing,China PR,False
+1997-04-27 00:00:00,DR Congo,South Africa,1,2,FIFA World Cup qualification,Lom√©,Togo,True
+1997-04-27 00:00:00,Dominica,Martinique,1,2,CFU Caribbean Cup qualification,Roseau,Dominica,False
+1997-04-27 00:00:00,Ghana,Gabon,3,0,FIFA World Cup qualification,Accra,Ghana,False
+1997-04-27 00:00:00,Guatemala,Costa Rica,1,1,UNCAF Cup,Guatemala,Guatemala,False
+1997-04-27 00:00:00,Honduras,El Salvador,0,0,UNCAF Cup,Guatemala,Guatemala,True
+1997-04-27 00:00:00,Kenya,Guinea,1,0,FIFA World Cup qualification,Nairobi,Kenya,False
+1997-04-27 00:00:00,Lebanon,Libya,2,0,Friendly,Beirut,Lebanon,False
+1997-04-27 00:00:00,Tunisia,Liberia,2,0,FIFA World Cup qualification,Tunis,Tunisia,False
+1997-04-27 00:00:00,Zambia,Congo,3,0,FIFA World Cup qualification,Lusaka,Zambia,False
+1997-04-27 00:00:00,Zimbabwe,Angola,0,0,FIFA World Cup qualification,Harare,Zimbabwe,False
+1997-04-28 00:00:00,Bermuda,Saint Martin,2,1,Friendly,Hamilton,Bermuda,False
+1997-04-29 00:00:00,Chile,Venezuela,6,0,FIFA World Cup qualification,Santiago,Chile,False
+1997-04-29 00:00:00,Slovakia,Iceland,3,1,Friendly,Trnava,Slovakia,False
+1997-04-30 00:00:00,Argentina,Ecuador,2,1,FIFA World Cup qualification,Buenos Aires,Argentina,False
+1997-04-30 00:00:00,Armenia,Northern Ireland,0,0,FIFA World Cup qualification,Yerevan,Armenia,False
+1997-04-30 00:00:00,Austria,Estonia,2,0,FIFA World Cup qualification,Vienna,Austria,False
+1997-04-30 00:00:00,Brazil,Mexico,4,0,Friendly,Miami,United States,True
+1997-04-30 00:00:00,Colombia,Peru,0,1,FIFA World Cup qualification,Barranquilla,Colombia,False
+1997-04-30 00:00:00,Denmark,Slovenia,4,0,FIFA World Cup qualification,Copenhagen,Denmark,False
+1997-04-30 00:00:00,England,Georgia,2,0,FIFA World Cup qualification,London,England,False
+1997-04-30 00:00:00,Germany,Ukraine,2,0,FIFA World Cup qualification,Bremen,Germany,False
+1997-04-30 00:00:00,Greece,Croatia,0,1,FIFA World Cup qualification,Salonica,Greece,False
+1997-04-30 00:00:00,Israel,Cyprus,2,0,FIFA World Cup qualification,Ramat-Gan,Israel,False
+1997-04-30 00:00:00,Italy,Poland,3,0,FIFA World Cup qualification,Naples,Italy,False
+1997-04-30 00:00:00,Latvia,Belarus,2,0,FIFA World Cup qualification,Riga,Latvia,False
+1997-04-30 00:00:00,Liechtenstein,Lithuania,0,2,FIFA World Cup qualification,Eschen,Liechtenstein,False
+1997-04-30 00:00:00,Malta,Faroe Islands,1,2,FIFA World Cup qualification,Attard,Malta,False
+1997-04-30 00:00:00,Norway,Finland,1,1,FIFA World Cup qualification,Oslo,Norway,False
+1997-04-30 00:00:00,Paraguay,Uruguay,3,1,FIFA World Cup qualification,Asunci√≥n,Paraguay,False
+1997-04-30 00:00:00,Romania,Republic of Ireland,1,0,FIFA World Cup qualification,Bucharest,Romania,False
+1997-04-30 00:00:00,Russia,Luxembourg,3,0,FIFA World Cup qualification,Moscow,Russia,False
+1997-04-30 00:00:00,San Marino,Netherlands,0,6,FIFA World Cup qualification,Serravalle,San Marino,False
+1997-04-30 00:00:00,Serbia,Spain,1,1,FIFA World Cup qualification,Belgrade,Yugoslavia,True
+1997-04-30 00:00:00,Sweden,Scotland,2,1,FIFA World Cup qualification,Gothenburg,Sweden,False
+1997-04-30 00:00:00,Switzerland,Hungary,1,0,FIFA World Cup qualification,Z√ºrich,Switzerland,False
+1997-04-30 00:00:00,Syria,Libya,1,1,Friendly,Damascus,Syria,False
+1997-04-30 00:00:00,Turkey,Belgium,1,3,FIFA World Cup qualification,Istanbul,Turkey,False
+1997-05-01 00:00:00,Fiji,New Caledonia,5,1,Friendly,Suva,Fiji,False
+1997-05-01 00:00:00,Trinidad and Tobago,Jamaica,1,1,Friendly,Palo Seco,Trinidad and Tobago,False
+1997-05-04 00:00:00,Aruba,Jamaica,0,6,CFU Caribbean Cup qualification,Oranjestad,Aruba,False
+1997-05-04 00:00:00,El Salvador,Costa Rica,2,1,FIFA World Cup qualification,San Salvador,El Salvador,False
+1997-05-04 00:00:00,Martinique,Dominica,7,0,CFU Caribbean Cup qualification,Fort-de-France,Martinique,False
+1997-05-04 00:00:00,Tajikistan,Vietnam,4,0,FIFA World Cup qualification,Dushanbe,Tajikistan,False
+1997-05-04 00:00:00,Turkmenistan,China PR,1,4,FIFA World Cup qualification,Ashgabat,Turkmenistan,False
+1997-05-05 00:00:00,Guernsey,Jersey,2,1,Friendly,St. Sampson,Guernsey,False
+1997-05-07 00:00:00,Ukraine,Armenia,1,1,FIFA World Cup qualification,Kyiv,Ukraine,False
+1997-05-08 00:00:00,Ivory Coast,Senegal,4,1,Friendly,Bouak√©,Ivory Coast,False
+1997-05-08 00:00:00,Kuwait,Lebanon,2,0,FIFA World Cup qualification,Kuwait City,Kuwait,False
+1997-05-09 00:00:00,Yemen,Uzbekistan,0,1,FIFA World Cup qualification,Sana'a,Yemen,False
+1997-05-11 00:00:00,Costa Rica,Jamaica,3,1,FIFA World Cup qualification,San Jos√©,Costa Rica,False
+1997-05-11 00:00:00,Kazakhstan,Pakistan,3,0,FIFA World Cup qualification,Almaty,Kazakhstan,False
+1997-05-11 00:00:00,Tajikistan,China PR,0,1,FIFA World Cup qualification,Dushanbe,Tajikistan,False
+1997-05-11 00:00:00,Turkmenistan,Vietnam,2,1,FIFA World Cup qualification,Ashgabat,Turkmenistan,False
+1997-05-16 00:00:00,Yemen,Cambodia,7,0,FIFA World Cup qualification,Sana'a,Yemen,False
+1997-05-18 00:00:00,Estonia,Latvia,1,3,FIFA World Cup qualification,Tallinn,Estonia,False
+1997-05-18 00:00:00,Jamaica,El Salvador,1,0,FIFA World Cup qualification,Kingston,Jamaica,False
+1997-05-21 00:00:00,Republic of Ireland,Liechtenstein,5,0,FIFA World Cup qualification,Dublin,Republic of Ireland,False
+1997-05-21 00:00:00,Japan,South Korea,1,1,Friendly,Tokyo,Japan,False
+1997-05-21 00:00:00,Thailand,Northern Ireland,0,0,Friendly,Bangkok,Thailand,False
+1997-05-22 00:00:00,Sweden,Poland,2,2,Friendly,Solna,Sweden,False
+1997-05-23 00:00:00,Pakistan,Iraq,2,6,FIFA World Cup qualification,Lahore,Pakistan,False
+1997-05-24 00:00:00,England,South Africa,2,1,Friendly,Manchester,England,False
+1997-05-24 00:00:00,Singapore,Lebanon,1,2,FIFA World Cup qualification,Singapore,Singapore,False
+1997-05-25 00:00:00,Turkmenistan,Tajikistan,1,2,FIFA World Cup qualification,Ashgabat,Turkmenistan,False
+1997-05-25 00:00:00,Uzbekistan,Cambodia,6,0,FIFA World Cup qualification,Tashkent,Uzbekistan,False
+1997-05-25 00:00:00,Vietnam,China PR,1,3,FIFA World Cup qualification,Ho Chi Minh City,Vietnam,False
+1997-05-27 00:00:00,Kuwait,Zambia,2,1,Friendly,Kuwait City,Kuwait,False
+1997-05-27 00:00:00,Scotland,Wales,0,1,Friendly,Kilmarnock,Scotland,False
+1997-05-28 00:00:00,El Salvador,Ecuador,0,2,Friendly,San Salvador,El Salvador,False
+1997-05-28 00:00:00,South Korea,Hong Kong,4,0,FIFA World Cup qualification,Daejeon,South Korea,False
+1997-05-30 00:00:00,Norway,Brazil,4,2,Friendly,Oslo,Norway,False
+1997-05-31 00:00:00,Burkina Faso,Mali,2,0,Friendly,Bobo Dioulasso,Burkina Faso,False
+1997-05-31 00:00:00,Morocco,Ethiopia,4,0,African Cup of Nations qualification,Rabat,Morocco,False
+1997-05-31 00:00:00,Papua New Guinea,New Zealand,1,0,FIFA World Cup qualification,Port Moresby,Papua New Guinea,False
+1997-05-31 00:00:00,Poland,England,0,2,FIFA World Cup qualification,Chorz√≥w,Poland,False
+1997-05-31 00:00:00,Tanzania,Namibia,0,0,COSAFA Cup,Mwanza,Tanzania,False
+1997-05-31 00:00:00,Tunisia,Algeria,0,1,Friendly,Tunis,Tunisia,False
+1997-06-01 00:00:00,Canada,Costa Rica,1,0,FIFA World Cup qualification,Edmonton,Canada,False
+1997-06-01 00:00:00,China PR,Turkmenistan,1,0,FIFA World Cup qualification,Beijing,China PR,False
+1997-06-01 00:00:00,Indonesia,Uzbekistan,1,1,FIFA World Cup qualification,Jakarta,Indonesia,False
+1997-06-01 00:00:00,South Korea,Thailand,0,0,FIFA World Cup qualification,Seoul,South Korea,False
+1997-06-01 00:00:00,Malta,Scotland,2,3,Friendly,Attard,Malta,False
+1997-06-01 00:00:00,Vietnam,Tajikistan,0,4,FIFA World Cup qualification,Ho Chi Minh City,Vietnam,False
+1997-06-01 00:00:00,Zambia,Cameroon,3,0,Friendly,Lusaka,Zambia,False
+1997-06-02 00:00:00,Maldives,Iran,0,17,FIFA World Cup qualification,Damascus,Syria,True
+1997-06-03 00:00:00,France,Brazil,1,1,Tournoi de France,Lyon,France,False
+1997-06-04 00:00:00,England,Italy,2,0,Tournoi de France,Nantes,France,True
+1997-06-04 00:00:00,Estonia,Azerbaijan,1,0,Friendly,Viljandi,Estonia,False
+1997-06-04 00:00:00,Kyrgyzstan,Iran,0,7,FIFA World Cup qualification,Damascus,Syria,True
+1997-06-04 00:00:00,South Africa,Netherlands,0,2,Friendly,Johannesburg,South Africa,False
+1997-06-04 00:00:00,Syria,Maldives,12,0,FIFA World Cup qualification,Damascus,Syria,False
+1997-06-04 00:00:00,Togo,Burkina Faso,0,0,Friendly,Lom√©,Togo,False
+1997-06-04 00:00:00,United States,Paraguay,0,0,Friendly,St. Louis,United States,False
+1997-06-05 00:00:00,Kuwait,Singapore,4,0,FIFA World Cup qualification,Kuwait City,Kuwait,False
+1997-06-05 00:00:00,Senegal,Algeria,0,0,Friendly,Dakar,Senegal,False
+1997-06-06 00:00:00,Iraq,Kazakhstan,1,2,FIFA World Cup qualification,Baghdad,Iraq,False
+1997-06-06 00:00:00,Kyrgyzstan,Maldives,3,0,FIFA World Cup qualification,Damascus,Syria,True
+1997-06-06 00:00:00,Palestine,Jordan,0,0,Friendly,Jericho,Palestine,False
+1997-06-06 00:00:00,Syria,Iran,0,1,FIFA World Cup qualification,Damascus,Syria,False
+1997-06-07 00:00:00,Belgium,San Marino,6,0,FIFA World Cup qualification,Brussels,Belgium,False
+1997-06-07 00:00:00,Fiji,New Zealand,0,1,FIFA World Cup qualification,Ba,Fiji,False
+1997-06-07 00:00:00,France,England,0,1,Tournoi de France,Montpellier,France,False
+1997-06-07 00:00:00,Georgia,Moldova,2,0,FIFA World Cup qualification,Batumi,Georgia,False
+1997-06-07 00:00:00,North Macedonia,Iceland,1,0,FIFA World Cup qualification,Skopje,North Macedonia,False
+1997-06-07 00:00:00,Morocco,Ghana,1,0,FIFA World Cup qualification,Casablanca,Morocco,False
+1997-06-07 00:00:00,Nigeria,Kenya,3,0,FIFA World Cup qualification,Lagos,Nigeria,False
+1997-06-07 00:00:00,Portugal,Albania,2,0,FIFA World Cup qualification,Porto,Portugal,False
+1997-06-07 00:00:00,Ukraine,Germany,0,0,FIFA World Cup qualification,Kyiv,Ukraine,False
+1997-06-08 00:00:00,Angola,Cameroon,1,1,FIFA World Cup qualification,Luanda,Angola,False
+1997-06-08 00:00:00,Argentina,Peru,2,0,FIFA World Cup qualification,Buenos Aires,Argentina,False
+1997-06-08 00:00:00,Belarus,Scotland,0,1,FIFA World Cup qualification,Minsk,Belarus,False
+1997-06-08 00:00:00,Bulgaria,Luxembourg,4,0,FIFA World Cup qualification,Burgas,Bulgaria,False
+1997-06-08 00:00:00,China PR,Tajikistan,0,0,FIFA World Cup qualification,Beijing,China PR,False
+1997-06-08 00:00:00,Congo,DR Congo,1,0,FIFA World Cup qualification,Pointe-Noire,Congo,False
+1997-06-08 00:00:00,Denmark,Bosnia and Herzegovina,2,0,FIFA World Cup qualification,Copenhagen,Denmark,False
+1997-06-08 00:00:00,Ecuador,Chile,1,1,FIFA World Cup qualification,Quito,Ecuador,False
+1997-06-08 00:00:00,Egypt,Tunisia,0,0,FIFA World Cup qualification,Cairo,Egypt,False
+1997-06-08 00:00:00,El Salvador,Mexico,0,1,FIFA World Cup qualification,San Salvador,El Salvador,False
+1997-06-08 00:00:00,Estonia,Sweden,2,3,FIFA World Cup qualification,Tallinn,Estonia,False
+1997-06-08 00:00:00,Faroe Islands,Malta,2,1,FIFA World Cup qualification,Toftir,Faroe Islands,False
+1997-06-08 00:00:00,Finland,Azerbaijan,3,0,FIFA World Cup qualification,Helsinki,Finland,False
+1997-06-08 00:00:00,Guinea,Burkina Faso,3,1,FIFA World Cup qualification,Conakry,Guinea,False
+1997-06-08 00:00:00,Hungary,Norway,1,1,FIFA World Cup qualification,Budapest,Hungary,False
+1997-06-08 00:00:00,Italy,Brazil,3,3,Tournoi de France,Lyon,France,True
+1997-06-08 00:00:00,Japan,Croatia,4,3,Kirin Cup,Tokyo,Japan,False
+1997-06-08 00:00:00,Latvia,Austria,1,3,FIFA World Cup qualification,Riga,Latvia,False
+1997-06-08 00:00:00,Liberia,Namibia,1,2,FIFA World Cup qualification,Monrovia,Liberia,False
+1997-06-08 00:00:00,Russia,Israel,2,0,FIFA World Cup qualification,Moscow,Russia,False
+1997-06-08 00:00:00,Serbia,Slovakia,2,0,FIFA World Cup qualification,Belgrade,Yugoslavia,True
+1997-06-08 00:00:00,South Africa,Zambia,3,0,FIFA World Cup qualification,Johannesburg,South Africa,False
+1997-06-08 00:00:00,Spain,Czech Republic,1,0,FIFA World Cup qualification,Valladolid,Spain,False
+1997-06-08 00:00:00,Togo,Zimbabwe,2,1,FIFA World Cup qualification,Lom√©,Togo,False
+1997-06-08 00:00:00,Uruguay,Colombia,1,1,FIFA World Cup qualification,Montevideo,Uruguay,False
+1997-06-08 00:00:00,Venezuela,Bolivia,1,1,FIFA World Cup qualification,Valera,Venezuela,False
+1997-06-08 00:00:00,Vietnam,Turkmenistan,0,4,FIFA World Cup qualification,Ho Chi Minh City,Vietnam,False
+1997-06-09 00:00:00,Iran,Kyrgyzstan,3,1,FIFA World Cup qualification,Tehran,Iran,False
+1997-06-09 00:00:00,Maldives,Syria,0,12,FIFA World Cup qualification,Tehran,Iran,True
+1997-06-10 00:00:00,England,Brazil,0,1,Tournoi de France,Paris,France,True
+1997-06-11 00:00:00,Argentina,Ecuador,0,0,Copa Am√©rica,Cochabamba,Bolivia,True
+1997-06-11 00:00:00,Australia,Solomon Islands,13,0,FIFA World Cup qualification,Sydney,Australia,False
+1997-06-11 00:00:00,Chile,Paraguay,0,1,Copa Am√©rica,Cochabamba,Bolivia,True
+1997-06-11 00:00:00,France,Italy,2,2,Tournoi de France,Paris,France,False
+1997-06-11 00:00:00,Iceland,Lithuania,0,0,FIFA World Cup qualification,Reykjav√≠k,Iceland,False
+1997-06-11 00:00:00,Iran,Maldives,9,0,FIFA World Cup qualification,Tehran,Iran,False
+1997-06-11 00:00:00,Kyrgyzstan,Syria,2,1,FIFA World Cup qualification,Tehran,Iran,True
+1997-06-11 00:00:00,New Zealand,Papua New Guinea,7,0,FIFA World Cup qualification,Auckland,New Zealand,False
+1997-06-11 00:00:00,Pakistan,Kazakhstan,0,7,FIFA World Cup qualification,Lahore,Pakistan,False
+1997-06-12 00:00:00,Bolivia,Venezuela,1,0,Copa Am√©rica,La Paz,Bolivia,False
+1997-06-12 00:00:00,Croatia,Turkey,1,1,Kirin Cup,Sendai,Japan,True
+1997-06-12 00:00:00,Ghana,Serbia,1,3,Korea Cup,Seoul,South Korea,True
+1997-06-12 00:00:00,South Korea,Egypt,3,1,Korea Cup,Seoul,South Korea,False
+1997-06-12 00:00:00,Peru,Uruguay,1,0,Copa Am√©rica,Sucre,Bolivia,True
+1997-06-13 00:00:00,Australia,Tahiti,5,0,FIFA World Cup qualification,Sydney,Australia,False
+1997-06-13 00:00:00,Brazil,Costa Rica,5,0,Copa Am√©rica,Santa Cruz,Bolivia,True
+1997-06-13 00:00:00,Iran,Syria,2,2,FIFA World Cup qualification,Tehran,Iran,False
+1997-06-13 00:00:00,Maldives,Kyrgyzstan,0,6,FIFA World Cup qualification,Tehran,Iran,True
+1997-06-13 00:00:00,Mexico,Colombia,2,1,Copa Am√©rica,Santa Cruz,Bolivia,True
+1997-06-13 00:00:00,Yemen,Indonesia,1,1,FIFA World Cup qualification,Sana'a,Yemen,False
+1997-06-14 00:00:00,Argentina,Chile,2,0,Copa Am√©rica,Cochabamba,Bolivia,True
+1997-06-14 00:00:00,Egypt,Serbia,0,0,Korea Cup,Suwon,South Korea,True
+1997-06-14 00:00:00,South Korea,Ghana,3,0,Korea Cup,Suwon,South Korea,False
+1997-06-14 00:00:00,Paraguay,Ecuador,0,2,Copa Am√©rica,Cochabamba,Bolivia,True
+1997-06-14 00:00:00,Poland,Georgia,4,1,FIFA World Cup qualification,Katowice,Poland,False
+1997-06-15 00:00:00,Bolivia,Peru,2,0,Copa Am√©rica,La Paz,Bolivia,False
+1997-06-15 00:00:00,Fiji,Papua New Guinea,3,1,FIFA World Cup qualification,Suva,Fiji,False
+1997-06-15 00:00:00,Japan,Turkey,1,0,Kirin Cup,Osaka,Japan,False
+1997-06-15 00:00:00,Mozambique,Tanzania,3,0,COSAFA Cup,Maputo,Mozambique,False
+1997-06-15 00:00:00,Solomon Islands,Tahiti,4,1,FIFA World Cup qualification,Sydney,Australia,True
+1997-06-15 00:00:00,Uruguay,Venezuela,2,0,Copa Am√©rica,Sucre,Bolivia,True
+1997-06-16 00:00:00,Brazil,Mexico,3,2,Copa Am√©rica,Santa Cruz,Bolivia,True
+1997-06-16 00:00:00,Colombia,Costa Rica,4,1,Copa Am√©rica,Santa Cruz,Bolivia,True
+1997-06-16 00:00:00,Egypt,Ghana,2,0,Korea Cup,Seoul,South Korea,True
+1997-06-16 00:00:00,South Korea,Serbia,1,1,Korea Cup,Seoul,South Korea,False
+1997-06-17 00:00:00,Argentina,Paraguay,1,1,Copa Am√©rica,Cochabamba,Bolivia,True
+1997-06-17 00:00:00,Australia,Solomon Islands,6,2,FIFA World Cup qualification,Sydney,Australia,False
+1997-06-17 00:00:00,Chile,Ecuador,1,2,Copa Am√©rica,Cochabamba,Bolivia,True
+1997-06-17 00:00:00,United States,Israel,2,1,Friendly,Jacksonville,United States,False
+1997-06-18 00:00:00,Bolivia,Uruguay,1,0,Copa Am√©rica,La Paz,Bolivia,False
+1997-06-18 00:00:00,New Zealand,Fiji,5,0,FIFA World Cup qualification,Auckland,New Zealand,False
+1997-06-18 00:00:00,Peru,Venezuela,2,0,Copa Am√©rica,Sucre,Bolivia,True
+1997-06-19 00:00:00,Australia,Tahiti,2,0,FIFA World Cup qualification,Sydney,Australia,False
+1997-06-19 00:00:00,Brazil,Colombia,2,0,Copa Am√©rica,Santa Cruz,Bolivia,True
+1997-06-19 00:00:00,Mexico,Costa Rica,1,1,Copa Am√©rica,Santa Cruz,Bolivia,True
+1997-06-20 00:00:00,Iraq,Pakistan,6,1,FIFA World Cup qualification,Baghdad,Iraq,False
+1997-06-20 00:00:00,Uzbekistan,Indonesia,3,0,FIFA World Cup qualification,Tashkent,Uzbekistan,False
+1997-06-21 00:00:00,Antigua and Barbuda,Saint Lucia,1,1,Friendly,St. John's,Antigua and Barbuda,False
+1997-06-21 00:00:00,Bolivia,Colombia,2,1,Copa Am√©rica,La Paz,Bolivia,False
+1997-06-21 00:00:00,Morocco,Egypt,1,0,African Cup of Nations qualification,Rabat,Morocco,False
+1997-06-21 00:00:00,Papua New Guinea,Fiji,0,1,FIFA World Cup qualification,Port Moresby,Papua New Guinea,False
+1997-06-21 00:00:00,Peru,Argentina,2,1,Copa Am√©rica,Sucre,Bolivia,True
+1997-06-21 00:00:00,Tahiti,Solomon Islands,1,1,FIFA World Cup qualification,Sydney,Australia,True
+1997-06-22 00:00:00,Angola,Ghana,1,0,African Cup of Nations qualification,Luanda,Angola,False
+1997-06-22 00:00:00,Antigua and Barbuda,Saint Lucia,1,0,Friendly,St. John's,Antigua and Barbuda,False
+1997-06-22 00:00:00,Brazil,Paraguay,2,0,Copa Am√©rica,Santa Cruz,Bolivia,True
+1997-06-22 00:00:00,Cameroon,Gabon,2,2,African Cup of Nations qualification,Yaound√©,Cameroon,False
+1997-06-22 00:00:00,China PR,Vietnam,4,0,FIFA World Cup qualification,Beijing,China PR,False
+1997-06-22 00:00:00,Ecuador,Mexico,1,1,Copa Am√©rica,Cochabamba,Bolivia,True
+1997-06-22 00:00:00,Estonia,Andorra,4,1,Friendly,Kuressaare,Estonia,False
+1997-06-22 00:00:00,Ivory Coast,Algeria,2,1,African Cup of Nations qualification,Bouak√©,Ivory Coast,False
+1997-06-22 00:00:00,Japan,Macau,10,0,FIFA World Cup qualification,Tokyo,Japan,False
+1997-06-22 00:00:00,Lebanon,Kuwait,1,3,FIFA World Cup qualification,Beirut,Lebanon,False
+1997-06-22 00:00:00,Liberia,DR Congo,2,1,African Cup of Nations qualification,Monrovia,Liberia,False
+1997-06-22 00:00:00,Mali,Benin,3,1,African Cup of Nations qualification,Bamako,Mali,False
+1997-06-22 00:00:00,Mozambique,Zambia,2,2,African Cup of Nations qualification,Maputo,Mozambique,False
+1997-06-22 00:00:00,Nepal,Oman,0,6,FIFA World Cup qualification,Tokyo,Japan,True
+1997-06-22 00:00:00,Senegal,Ethiopia,3,0,African Cup of Nations qualification,Dakar,Senegal,False
+1997-06-22 00:00:00,Tajikistan,Turkmenistan,5,0,FIFA World Cup qualification,Dushanbe,Tajikistan,False
+1997-06-22 00:00:00,Tanzania,Togo,1,0,African Cup of Nations qualification,Arusha,Tanzania,False
+1997-06-25 00:00:00,Bolivia,Mexico,3,1,Copa Am√©rica,La Paz,Bolivia,False
+1997-06-25 00:00:00,Japan,Nepal,3,0,FIFA World Cup qualification,Tokyo,Japan,False
+1997-06-25 00:00:00,Latvia,Andorra,4,1,Friendly,Riga,Latvia,False
+1997-06-25 00:00:00,Macau,Oman,0,2,FIFA World Cup qualification,Tokyo,Japan,True
+1997-06-26 00:00:00,Brazil,Peru,7,0,Copa Am√©rica,Santa Cruz,Bolivia,True
+1997-06-28 00:00:00,DR Congo,Uganda,0,0,Friendly,Kinshasa,DR Congo,False
+1997-06-28 00:00:00,Japan,Oman,1,1,FIFA World Cup qualification,Tokyo,Japan,False
+1997-06-28 00:00:00,Macau,Nepal,2,1,FIFA World Cup qualification,Tokyo,Japan,True
+1997-06-28 00:00:00,Mexico,Peru,1,0,Copa Am√©rica,Oruro,Bolivia,True
+1997-06-28 00:00:00,Namibia,Malawi,4,1,COSAFA Cup,Windhoek,Namibia,False
+1997-06-28 00:00:00,New Zealand,Australia,0,3,FIFA World Cup qualification,Auckland,New Zealand,False
+1997-06-29 00:00:00,Bolivia,Brazil,1,3,Copa Am√©rica,La Paz,Bolivia,False
+1997-06-29 00:00:00,Cambodia,Uzbekistan,1,4,FIFA World Cup qualification,Phnom Penh,Cambodia,False
+1997-06-29 00:00:00,El Salvador,United States,1,1,FIFA World Cup qualification,San Salvador,El Salvador,False
+1997-06-29 00:00:00,Jamaica,Cuba,3,0,Friendly,Kingston,Jamaica,False
+1997-06-29 00:00:00,Kazakhstan,Iraq,3,1,FIFA World Cup qualification,Almaty,Kazakhstan,False
+1997-06-29 00:00:00,Jersey,Fr√∏ya,4,1,Island Games,St. Clement,Jersey,False
+1997-06-29 00:00:00,Gibraltar,Guernsey,1,2,Island Games,Grouville,Jersey,True
+1997-06-29 00:00:00,Ynys M√¥n,Hitra,8,0,Island Games,St. Peter,Jersey,True
+1997-06-29 00:00:00,Shetland,Isle of Wight,0,0,Island Games,St. Peter,Jersey,True
+1997-06-30 00:00:00,Jersey,Greenland,2,1,Island Games,St. Peter,Jersey,False
+1997-06-30 00:00:00,Fr√∏ya,Guernsey,1,2,Island Games,St. Peter,Jersey,True
+1997-07-01 00:00:00,Ynys M√¥n,Shetland,4,0,Island Games,St. Clement,Jersey,True
+1997-07-01 00:00:00,Hitra,Isle of Wight,0,4,Island Games,Grouville,Jersey,True
+1997-07-01 00:00:00,Guernsey,Greenland,0,0,Island Games,St. Helier,Jersey,True
+1997-07-01 00:00:00,Fr√∏ya,Gibraltar,0,4,Island Games,St. Lawrence,Jersey,True
+1997-07-02 00:00:00,Barbados,Trinidad and Tobago,1,1,Friendly,Bridgetown,Barbados,False
+1997-07-02 00:00:00,Gibraltar,Greenland,5,1,Island Games,St. Lawrence,Jersey,True
+1997-07-02 00:00:00,Jersey,Guernsey,4,0,Island Games,St. Helier,Jersey,False
+1997-07-03 00:00:00,Fr√∏ya,Greenland,2,1,Island Games,Grouville,Jersey,True
+1997-07-03 00:00:00,Jersey,Gibraltar,3,2,Island Games,St. Helier,Jersey,False
+1997-07-03 00:00:00,Ynys M√¥n,Isle of Wight,0,0,Island Games,St. Peter,Jersey,True
+1997-07-03 00:00:00,Shetland,Hitra,2,1,Island Games,St. Lawrence,Jersey,True
+1997-07-03 00:00:00,Fr√∏ya,Hitra,4,1,Island Games,Grouville,Jersey,True
+1997-07-03 00:00:00,Shetland,Gibraltar,2,1,Island Games,St. Lawrence,Jersey,True
+1997-07-03 00:00:00,Isle of Wight,Guernsey,3,1,Island Games,St. Peter,Jersey,True
+1997-07-03 00:00:00,Jersey,Ynys M√¥n,2,1,Island Games,St. Helier,Jersey,False
+1997-07-04 00:00:00,Jamaica,Grenada,1,1,CFU Caribbean Cup,St. John's,Antigua and Barbuda,True
+1997-07-04 00:00:00,Martinique,Trinidad and Tobago,2,1,CFU Caribbean Cup,Basseterre,Saint Kitts and Nevis,True
+1997-07-05 00:00:00,Chile,Colombia,4,1,FIFA World Cup qualification,Santiago,Chile,False
+1997-07-05 00:00:00,Tanzania,Zambia,2,2,COSAFA Cup,Arusha,Tanzania,False
+1997-07-05 00:00:00,Tunisia,Mali,1,0,Friendly,Tunis,Tunisia,False
+1997-07-06 00:00:00,Antigua and Barbuda,Grenada,1,3,CFU Caribbean Cup,St. John's,Antigua and Barbuda,False
+1997-07-06 00:00:00,Australia,New Zealand,2,0,FIFA World Cup qualification,Sydney,Australia,False
+1997-07-06 00:00:00,Malawi,Botswana,0,0,Friendly,Lilongwe,Malawi,False
+1997-07-06 00:00:00,Paraguay,Argentina,1,2,FIFA World Cup qualification,Asunci√≥n,Paraguay,False
+1997-07-06 00:00:00,Peru,Bolivia,2,1,FIFA World Cup qualification,Lima,Peru,False
+1997-07-06 00:00:00,Saint Kitts and Nevis,Martinique,2,0,CFU Caribbean Cup,Basseterre,Saint Kitts and Nevis,False
+1997-07-06 00:00:00,Venezuela,Ecuador,1,1,FIFA World Cup qualification,Maracaibo,Venezuela,False
+1997-07-08 00:00:00,Antigua and Barbuda,Jamaica,0,2,CFU Caribbean Cup,St. John's,Antigua and Barbuda,False
+1997-07-08 00:00:00,Saint Kitts and Nevis,Trinidad and Tobago,0,3,CFU Caribbean Cup,Basseterre,Saint Kitts and Nevis,False
+1997-07-09 00:00:00,Lithuania,Estonia,2,1,Baltic Cup,Vilnius,Lithuania,False
+1997-07-10 00:00:00,Estonia,Latvia,1,2,Baltic Cup,Vilnius,Lithuania,True
+1997-07-10 00:00:00,Saint Kitts and Nevis,Grenada,2,1,CFU Caribbean Cup,Basseterre,Saint Kitts and Nevis,False
+1997-07-10 00:00:00,Trinidad and Tobago,Jamaica,1,1,CFU Caribbean Cup,St. John's,Antigua and Barbuda,True
+1997-07-11 00:00:00,Lithuania,Latvia,1,0,Baltic Cup,Vilnius,Lithuania,False
+1997-07-13 00:00:00,Benin,Ivory Coast,0,0,African Cup of Nations qualification,Cotonou,Benin,False
+1997-07-13 00:00:00,DR Congo,Tanzania,1,1,African Cup of Nations qualification,Kinshasa,DR Congo,False
+1997-07-13 00:00:00,Egypt,Senegal,2,0,African Cup of Nations qualification,Cairo,Egypt,False
+1997-07-13 00:00:00,Ethiopia,Morocco,0,1,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+1997-07-13 00:00:00,Gabon,Kenya,1,0,African Cup of Nations qualification,Libreville,Gabon,False
+1997-07-13 00:00:00,Ghana,Zimbabwe,2,1,African Cup of Nations qualification,Accra,Ghana,False
+1997-07-13 00:00:00,Jamaica,Grenada,4,1,CFU Caribbean Cup,St. John's,Antigua and Barbuda,True
+1997-07-13 00:00:00,Mauritius,Mozambique,1,3,African Cup of Nations qualification,Port Louis,Mauritius,False
+1997-07-13 00:00:00,Togo,Liberia,4,0,African Cup of Nations qualification,Lom√©,Togo,False
+1997-07-13 00:00:00,Trinidad and Tobago,Saint Kitts and Nevis,4,0,CFU Caribbean Cup,St. John's,Antigua and Barbuda,True
+1997-07-13 00:00:00,Tunisia,Guinea,1,0,African Cup of Nations qualification,Tunis,Tunisia,False
+1997-07-20 00:00:00,Argentina,Venezuela,2,0,FIFA World Cup qualification,Buenos Aires,Argentina,False
+1997-07-20 00:00:00,Bolivia,Uruguay,1,0,FIFA World Cup qualification,La Paz,Bolivia,False
+1997-07-20 00:00:00,Chile,Paraguay,2,1,FIFA World Cup qualification,Santiago,Chile,False
+1997-07-20 00:00:00,Colombia,Ecuador,1,0,FIFA World Cup qualification,Barranquilla,Colombia,False
+1997-07-20 00:00:00,Iceland,Norway,0,1,Friendly,Reykjav√≠k,Iceland,False
+1997-07-20 00:00:00,Mozambique,Namibia,1,1,COSAFA Cup,Maputo,Mozambique,False
+1997-07-27 00:00:00,Algeria,Benin,2,0,African Cup of Nations qualification,Algiers,Algeria,False
+1997-07-27 00:00:00,Angola,Zimbabwe,2,1,African Cup of Nations qualification,Luanda,Angola,False
+1997-07-27 00:00:00,Cameroon,Kenya,1,1,African Cup of Nations qualification,Yaound√©,Cameroon,False
+1997-07-27 00:00:00,DR Congo,Togo,1,0,African Cup of Nations qualification,Kinshasa,DR Congo,False
+1997-07-27 00:00:00,Egypt,Ethiopia,8,1,African Cup of Nations qualification,Alexandria,Egypt,False
+1997-07-27 00:00:00,Gabon,Namibia,1,1,African Cup of Nations qualification,Libreville,Gabon,False
+1997-07-27 00:00:00,Iceland,Faroe Islands,1,0,Friendly,H√∂fn,Iceland,False
+1997-07-27 00:00:00,Ivory Coast,Mali,4,2,African Cup of Nations qualification,Bouak√©,Ivory Coast,False
+1997-07-27 00:00:00,Liberia,Tanzania,1,0,African Cup of Nations qualification,Monrovia,Liberia,False
+1997-07-27 00:00:00,Morocco,Senegal,3,0,African Cup of Nations qualification,Rabat,Morocco,False
+1997-07-27 00:00:00,Mozambique,Malawi,2,1,African Cup of Nations qualification,Maputo,Mozambique,False
+1997-07-27 00:00:00,Zambia,Mauritius,1,0,African Cup of Nations qualification,Chililabombwe,Zambia,False
+1997-08-02 00:00:00,Zambia,Mozambique,2,1,COSAFA Cup,Lusaka,Zambia,False
+1997-08-05 00:00:00,Belarus,Israel,2,3,Friendly,Minsk,Belarus,False
+1997-08-06 00:00:00,Estonia,Faroe Islands,0,2,Friendly,Tartu,Estonia,False
+1997-08-06 00:00:00,Hungary,Malta,3,0,Friendly,Si√≥fok,Hungary,False
+1997-08-06 00:00:00,Jamaica,Colombia,1,0,Friendly,Kingston,Jamaica,False
+1997-08-06 00:00:00,Slovakia,Switzerland,1,0,Friendly,Bratislava,Slovakia,False
+1997-08-06 00:00:00,Sweden,Lithuania,1,0,Friendly,Malm√∂,Sweden,False
+1997-08-07 00:00:00,Cameroon,Nigeria,0,1,Friendly,Tunis,Tunisia,True
+1997-08-07 00:00:00,Tunisia,Zambia,3,1,Friendly,Tunis,Tunisia,False
+1997-08-07 00:00:00,United States,Ecuador,0,1,Friendly,Baltimore,United States,False
+1997-08-09 00:00:00,Cameroon,Zambia,3,3,Friendly,Tunis,Tunisia,True
+1997-08-09 00:00:00,Malawi,Tanzania,2,2,COSAFA Cup,Lilongwe,Malawi,False
+1997-08-09 00:00:00,Tunisia,Nigeria,2,0,Friendly,Tunis,Tunisia,False
+1997-08-10 00:00:00,Costa Rica,El Salvador,0,0,FIFA World Cup qualification,San Jos√©,Costa Rica,False
+1997-08-10 00:00:00,South Korea,Brazil,1,2,Friendly,Seoul,South Korea,False
+1997-08-13 00:00:00,Japan,Brazil,0,3,Friendly,Osaka,Japan,False
+1997-08-16 00:00:00,Burkina Faso,Kenya,2,4,FIFA World Cup qualification,Ouagadougou,Burkina Faso,False
+1997-08-16 00:00:00,Morocco,Gabon,2,0,FIFA World Cup qualification,Casablanca,Morocco,False
+1997-08-16 00:00:00,South Africa,Congo,1,0,FIFA World Cup qualification,Johannesburg,South Africa,False
+1997-08-16 00:00:00,Zambia,DR Congo,2,0,FIFA World Cup qualification,Lusaka,Zambia,False
+1997-08-17 00:00:00,Canada,Iran,0,1,Friendly,Toronto,Canada,False
+1997-08-17 00:00:00,Egypt,Liberia,5,0,FIFA World Cup qualification,Cairo,Egypt,False
+1997-08-17 00:00:00,Ghana,Sierra Leone,0,2,FIFA World Cup qualification,Obuasi,Ghana,False
+1997-08-17 00:00:00,Guinea,Nigeria,1,0,FIFA World Cup qualification,Conakry,Guinea,False
+1997-08-17 00:00:00,Togo,Angola,1,1,FIFA World Cup qualification,Lom√©,Togo,False
+1997-08-17 00:00:00,Tunisia,Namibia,4,0,FIFA World Cup qualification,Tunis,Tunisia,False
+1997-08-17 00:00:00,Zimbabwe,Cameroon,1,2,FIFA World Cup qualification,Harare,Zimbabwe,False
+1997-08-19 00:00:00,Greece,Cyprus,2,1,Friendly,Heraklion,Greece,False
+1997-08-19 00:00:00,Latvia,Azerbaijan,0,0,Friendly,Riga,Latvia,False
+1997-08-20 00:00:00,Belarus,Sweden,1,2,FIFA World Cup qualification,Minsk,Belarus,False
+1997-08-20 00:00:00,Bosnia and Herzegovina,Denmark,3,0,FIFA World Cup qualification,Sarajevo,Bosnia and Herzegovina,False
+1997-08-20 00:00:00,Bulgaria,Israel,1,0,FIFA World Cup qualification,Sofia,Bulgaria,False
+1997-08-20 00:00:00,Colombia,Bolivia,3,0,FIFA World Cup qualification,Barranquilla,Colombia,False
+1997-08-20 00:00:00,Czech Republic,Faroe Islands,2,0,FIFA World Cup qualification,Teplice,Czech Republic,False
+1997-08-20 00:00:00,Ecuador,Paraguay,2,1,FIFA World Cup qualification,Quito,Ecuador,False
+1997-08-20 00:00:00,Estonia,Austria,0,3,FIFA World Cup qualification,Tallinn,Estonia,False
+1997-08-20 00:00:00,Finland,Norway,0,4,FIFA World Cup qualification,Helsinki,Finland,False
+1997-08-20 00:00:00,Hungary,Switzerland,1,1,FIFA World Cup qualification,Budapest,Hungary,False
+1997-08-20 00:00:00,Republic of Ireland,Lithuania,0,0,FIFA World Cup qualification,Dublin,Republic of Ireland,False
+1997-08-20 00:00:00,Liechtenstein,Iceland,0,4,FIFA World Cup qualification,Eschen,Liechtenstein,False
+1997-08-20 00:00:00,Northern Ireland,Germany,1,3,FIFA World Cup qualification,Belfast,Northern Ireland,False
+1997-08-20 00:00:00,Portugal,Armenia,3,1,FIFA World Cup qualification,Set√∫bal,Portugal,False
+1997-08-20 00:00:00,Romania,North Macedonia,4,2,FIFA World Cup qualification,Bucharest,Romania,False
+1997-08-20 00:00:00,Russia,Serbia,0,1,Friendly,Saint Petersburg,Russia,False
+1997-08-20 00:00:00,Turkey,Wales,6,4,FIFA World Cup qualification,Istanbul,Turkey,False
+1997-08-20 00:00:00,Ukraine,Albania,1,0,FIFA World Cup qualification,Kyiv,Ukraine,False
+1997-08-20 00:00:00,Uruguay,Chile,1,0,FIFA World Cup qualification,Montevideo,Uruguay,False
+1997-08-20 00:00:00,Venezuela,Peru,0,3,FIFA World Cup qualification,Barinas,Venezuela,False
+1997-08-21 00:00:00,Lebanon,Iraq,0,2,Friendly,Beirut,Lebanon,False
+1997-08-24 00:00:00,South Korea,Tajikistan,4,1,Friendly,Daegu,South Korea,False
+1997-08-24 00:00:00,Peru,Colombia,2,1,Friendly,Lima,Peru,False
+1997-08-24 00:00:00,Slovakia,Czech Republic,2,1,FIFA World Cup qualification,Bratislava,Slovakia,False
+1997-08-24 00:00:00,Uzbekistan,Yemen,5,1,FIFA World Cup qualification,Tashkent,Uzbekistan,False
+1997-08-30 00:00:00,South Korea,China PR,0,0,Friendly,Seoul,South Korea,False
+1997-08-31 00:00:00,Jamaica,Trinidad and Tobago,6,1,Friendly,Kingston,Jamaica,False
+1997-08-31 00:00:00,Namibia,Zambia,1,1,COSAFA Cup,Windhoek,Namibia,False
+1997-09-02 00:00:00,China PR,Kazakhstan,3,0,Friendly,Dalian,China PR,False
+1997-09-02 00:00:00,United Arab Emirates,Iran,3,1,Friendly,Abu Dhabi,United Arab Emirates,False
+1997-09-04 00:00:00,Nepal,Pakistan,0,2,SAFF Cup,Kathmandu,Nepal,False
+1997-09-05 00:00:00,Maldives,Bangladesh,1,1,SAFF Cup,Kathmandu,Nepal,True
+1997-09-06 00:00:00,Armenia,Albania,3,0,FIFA World Cup qualification,Yerevan,Armenia,False
+1997-09-06 00:00:00,Austria,Sweden,1,0,FIFA World Cup qualification,Vienna,Austria,False
+1997-09-06 00:00:00,Azerbaijan,Norway,0,1,FIFA World Cup qualification,Baku,Azerbaijan,False
+1997-09-06 00:00:00,Croatia,Bosnia and Herzegovina,3,2,FIFA World Cup qualification,Zagreb,Croatia,False
+1997-09-06 00:00:00,El Salvador,Colombia,2,2,Friendly,East Rutherford,United States,True
+1997-09-06 00:00:00,Faroe Islands,Czech Republic,0,2,FIFA World Cup qualification,Toftir,Faroe Islands,False
+1997-09-06 00:00:00,Germany,Portugal,1,1,FIFA World Cup qualification,Berlin,Germany,False
+1997-09-06 00:00:00,Iceland,Republic of Ireland,2,2,FIFA World Cup qualification,Reykjav√≠k,Iceland,False
+1997-09-06 00:00:00,South Korea,Kazakhstan,3,0,FIFA World Cup qualification,Seoul,South Korea,False
+1997-09-06 00:00:00,Latvia,Estonia,1,0,FIFA World Cup qualification,Riga,Latvia,False
+1997-09-06 00:00:00,Liechtenstein,Romania,1,8,FIFA World Cup qualification,Eschen,Liechtenstein,False
+1997-09-06 00:00:00,Lithuania,North Macedonia,2,0,FIFA World Cup qualification,Vilnius,Lithuania,False
+1997-09-06 00:00:00,Netherlands,Belgium,3,1,FIFA World Cup qualification,Rotterdam,Netherlands,False
+1997-09-06 00:00:00,Poland,Hungary,1,0,Friendly,Warsaw,Poland,False
+1997-09-06 00:00:00,Slovenia,Greece,0,3,FIFA World Cup qualification,Ljubljana,Slovenia,False
+1997-09-06 00:00:00,Sri Lanka,Pakistan,2,0,SAFF Cup,Kathmandu,Nepal,True
+1997-09-06 00:00:00,Switzerland,Finland,1,2,FIFA World Cup qualification,Lausanne,Switzerland,False
+1997-09-07 00:00:00,India,Bangladesh,3,0,SAFF Cup,Kathmandu,Nepal,True
+1997-09-07 00:00:00,Jamaica,Canada,1,0,FIFA World Cup qualification,Kingston,Jamaica,False
+1997-09-07 00:00:00,Japan,Uzbekistan,6,3,FIFA World Cup qualification,Tokyo,Japan,False
+1997-09-07 00:00:00,Luxembourg,Cyprus,1,3,FIFA World Cup qualification,Luxembourg,Luxembourg,False
+1997-09-07 00:00:00,Scotland,Belarus,4,1,FIFA World Cup qualification,Aberdeen,Scotland,False
+1997-09-07 00:00:00,United States,Costa Rica,1,0,FIFA World Cup qualification,Portland,United States,False
+1997-09-08 00:00:00,Nepal,Sri Lanka,1,3,SAFF Cup,Kathmandu,Nepal,False
+1997-09-09 00:00:00,Maldives,India,2,2,SAFF Cup,Kathmandu,Nepal,True
+1997-09-10 00:00:00,Albania,Northern Ireland,1,0,FIFA World Cup qualification,Z√ºrich,Switzerland,True
+1997-09-10 00:00:00,Belarus,Austria,0,1,FIFA World Cup qualification,Minsk,Belarus,False
+1997-09-10 00:00:00,Bosnia and Herzegovina,Slovenia,1,0,FIFA World Cup qualification,Sarajevo,Bosnia and Herzegovina,False
+1997-09-10 00:00:00,Brazil,Ecuador,4,2,Friendly,Salvador,Brazil,False
+1997-09-10 00:00:00,Bulgaria,Russia,1,0,FIFA World Cup qualification,Sofia,Bulgaria,False
+1997-09-10 00:00:00,Chile,Argentina,1,2,FIFA World Cup qualification,Santiago,Chile,False
+1997-09-10 00:00:00,Colombia,Venezuela,1,0,FIFA World Cup qualification,Barranquilla,Colombia,False
+1997-09-10 00:00:00,Denmark,Croatia,3,1,FIFA World Cup qualification,Copenhagen,Denmark,False
+1997-09-10 00:00:00,England,Moldova,4,0,FIFA World Cup qualification,London,England,False
+1997-09-10 00:00:00,Georgia,Italy,0,0,FIFA World Cup qualification,Tbilisi,Georgia,False
+1997-09-10 00:00:00,Germany,Armenia,4,0,FIFA World Cup qualification,Dortmund,Germany,False
+1997-09-10 00:00:00,Hungary,Azerbaijan,3,1,FIFA World Cup qualification,Budapest,Hungary,False
+1997-09-10 00:00:00,Lithuania,Republic of Ireland,1,2,FIFA World Cup qualification,Vilnius,Lithuania,False
+1997-09-10 00:00:00,Norway,Switzerland,5,0,FIFA World Cup qualification,Oslo,Norway,False
+1997-09-10 00:00:00,Paraguay,Bolivia,2,1,FIFA World Cup qualification,Asunci√≥n,Paraguay,False
+1997-09-10 00:00:00,Peru,Uruguay,2,1,FIFA World Cup qualification,Lima,Peru,False
+1997-09-10 00:00:00,Romania,Iceland,4,0,FIFA World Cup qualification,Bucharest,Romania,False
+1997-09-10 00:00:00,San Marino,Turkey,0,5,FIFA World Cup qualification,Serravalle,San Marino,False
+1997-09-10 00:00:00,Slovakia,Serbia,1,1,FIFA World Cup qualification,Bratislava,Slovakia,False
+1997-09-10 00:00:00,Sri Lanka,Maldives,1,2,SAFF Cup,Kathmandu,Nepal,True
+1997-09-10 00:00:00,Sweden,Latvia,1,0,FIFA World Cup qualification,Solna,Sweden,False
+1997-09-11 00:00:00,India,Pakistan,2,0,SAFF Cup,Kathmandu,Nepal,True
+1997-09-12 00:00:00,South Korea,Uzbekistan,2,1,FIFA World Cup qualification,Seoul,South Korea,False
+1997-09-12 00:00:00,United Arab Emirates,Kazakhstan,4,0,FIFA World Cup qualification,Abu Dhabi,United Arab Emirates,False
+1997-09-13 00:00:00,China PR,Iran,2,4,FIFA World Cup qualification,Dalian,China PR,False
+1997-09-13 00:00:00,India,Maldives,5,1,SAFF Cup,Kathmandu,Nepal,True
+1997-09-13 00:00:00,Pakistan,Sri Lanka,1,0,SAFF Cup,Kathmandu,Nepal,True
