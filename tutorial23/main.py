@@ -1,15 +1,11 @@
 from langchain.document_loaders import DirectoryLoader
-import os
-import time
-
-st = time.time()
+import os , time
 pwd=os.getcwd()
-loader = DirectoryLoader(pwd, glob="**/*.csv",use_multithreading=True)
-docs=loader.load()
-print(len(docs))
-# get the end time
-et = time.time()
+st=time.time()
 
-# get the execution time
-elapsed_time = et - st
-print(elapsed_time)
+loader=DirectoryLoader(path=pwd,glob="**/*.csv",use_multithreading=True)
+docs=loader.load()
+endt=time.time()
+et=endt-st
+print(et)
+print(len(docs))
