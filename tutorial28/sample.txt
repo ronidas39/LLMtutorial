@@ -1,0 +1,1385 @@
+04/01/2024, 18:09
+
+Neo4J: Sample Questions 1 - Glitchdata
+
+Neo4J: Sample
+Questions 1
+
+Question 1 of 80
+To restore a Neo4j instance from a backup, which of
+the following is accurate?
+A) The Neo4j backups are fully functional
+databases. To use a backup, all you need to do
+replace your database folder with the backup.
+Just make sure the database isn't running
+while replacing the folder.
+B) The Neo4j "backup-restore" command will copy
+the compressed backup archive files and logical
+logs to the existing instance database folder, replay
+the transactions, and bring the database back
+online.
+C) Issuing a "restore" command with a timestamp
+will recover the Neo4j instance up to that particular
+point in time, before any transactions corrupted the
+database files.
+D) Shut down the current instance, replace the
+database folder with the backup, and then startup
+the Neo4j instance in recovery mode so the
+database is fully recovered.
+Points: 0 out of 1
+Correct answer: A)
+
+Question 2 of 80
+Which statements regarding page cache are true:
+A) The page cache uses off-heap memory.
+B) The Java heap contains the page cache
+C) If possible you should assign enough RAM
+to "dbms.pagecache.memory" to hold the full
+graph.
+D) The page cache is implemented in C++ for
+maximum throughput.
+https://wiki.glitchdata.com/index.php/Neo4J:_Sample_Questions_1
+
+1/30
+
+04/01/2024, 18:09
+
+Neo4J: Sample Questions 1 - Glitchdata
+
+E) The page cache has a minimal of overhead
+compared to the binary storage on disc.
+Points: 0.7 out of 2
+Correct answer: A) C) E)
+
+Question 3 of 80
+The following Cypher statement may not return the list
+of all employees who work for Acme.
+MATCH (a:Employee {id:5})-[:WORKS_FOR]->(b:Company
+{name:"Acme"})
+RETURN a
+LIMIT 10
+
+Select the statement(s) below that describe why the
+statement may not return the list of all employees who
+work for Acme.
+A) We are returning only the variable a; to get the
+list of employee names we would have to return
+a.name.
+￼B) The LIMIT 10 following the RETURN clause
+means we will only get 10 results and there
+may be more than 10 employees who work at
+Acme in the graph.
+￼C) We are matching on a node with an
+Employee label and with an id property of value
+5, which may refer only to a single employee.
+D) The LIST keyword needs to be used in the
+RETURN statement to generate the list of all
+nodes.
+
+https://wiki.glitchdata.com/index.php/Neo4J:_Sample_Questions_1
+
+2/30
+
+04/01/2024, 18:09
+
+Neo4J: Sample Questions 1 - Glitchdata
+
+Points: 0 out of 1
+Correct answer: B) C)
+
+Question 4 of 80
+Which statement best defines uniqueness constraints
+in Neo4j?
+A) Neo4j does not support uniqueness constraints.
+￼B) A rule in the database that ensures a property
+value is unique among all nodes.
+￼C) A rule in the database that ensures a
+property value is unique for all nodes with a
+specific label.
+D) A rule in the database that ensures a node or
+relationship is unique.
+Points: 0 out of 1
+Correct answer: C)
+Uniqueness constraints are rules in the database that
+ensure a property value is unique for all nodes with a
+specific label.
+
+Question 5 of 80
+What's the default port for the Bolt server?
+A) 7687
+B) 7474
+C) 7473
+D) 5000
+Points: 1 out of 1
+Correct answer: A)
+
+Question 6 of 80
+What information can we not find out by executing
+the dbms.listQueries() procedure?
+A) Bytes allocated for the executing query
+￼B) Planner used by the query
+C) Username of the user who is executing the
+query.
+￼D)IP address of the machine that is executing
+the query
+
+https://wiki.glitchdata.com/index.php/Neo4J:_Sample_Questions_1
+
+3/30
+
+04/01/2024, 18:09
+
+Neo4J: Sample Questions 1 - Glitchdata
+
+Points: 0 out of 1
+Correct answer: D)
+
+Question 7 of 80
+When using a language driver, a statement results
+comprises a stream of...
+A) nodes
+B) rows
+C) entries
+￼D) records
+Points: 1 out of 1
+Correct answer: D)
+
+Question 8 of 80
+Is ORDER BY a valid Cypher clause?
+A) True
+B) False
+Points: 1 out of 1
+Correct answer: A)
+
+Question 9 of 80
+Which of the following best describes what the below
+Cypher statement will do?
+MATCH (city:City {name: "San Mateo"})
+MERGE (state:State {name: "California"})
+MERGE (city)-[:LOCATED_IN]->(state)
+RETURN city, state
+
+A) If there is a City node with name "San
+Mateo", uniquely create a :LOCATED_IN
+relationship to a State node with name
+"California," creating the State node if it does
+not already exist.
+B) The :LOCATED_IN relationship is only created if
+there is both a City node with name "San Mateo"
+and a State node with name "California."
+C) The :LOCATED_IN relationship is overwritten
+only if there is both a City node with name "San
+Mateo" and a State node with name "California."
+https://wiki.glitchdata.com/index.php/Neo4J:_Sample_Questions_1
+
+4/30
+
+04/01/2024, 18:09
+
+Neo4J: Sample Questions 1 - Glitchdata
+
+D) The :LOCATED_IN relationship is matched
+only if there is both a City node with name "San
+Mateo" and a State node with name "California."
+Points: 1 out of 1
+Correct answer: A)
+
+Question 10 of 80
+Which algorithm does Neo4j use to achieve consensus
+commits?
+A) Paxos
+￼B) Raft
+C) An in house algorithm
+D) SWIM
+Points: 1 out of 1
+Correct answer: B)
+
+Question 11 of 80
+Select the Cypher statements below that will find all of
+Jason's friends and set their verified property to true?
+A)
+MATCH (a:Person {name:"Jason"})-[:FRIEND]-(b:Person)
+WITH COLLECT(b) AS friends
+FOREACH (n IN friends | SET n.verified = TRUE)
+
+B)
+MATCH (a:Person)-[:FRIEND]->(b)
+UPDATE b
+SET b.verified = TRUE
+
+C)
+MATCH (a:Person)-[:FRIEND]->(b)
+WHERE a.name = "Jason"
+UPDATE b
+SET b.verified = TRUE
+
+D)
+MATCH (a:Person {name:"Jason"})-[:FRIEND]-(b:Person)
+SET b.verified = TRUE
+https://wiki.glitchdata.com/index.php/Neo4J:_Sample_Questions_1
+
+5/30
+
+04/01/2024, 18:09
+
+Neo4J: Sample Questions 1 - Glitchdata
+
+Points: 0.5 out of 1
+Correct answer: A) D)
+
+Question 12 of 80
+Of the following, which would be recommended
+approaches for tuning and potentially improving
+performance of Neo4j?
+￼A) Optimizing the cache settings so more of
+the graph fits into memory.
+B) Increasing the size of the performance global
+area to increase the number of hits in the cache.
+C) Distributing reads across a cluster of Neo4j
+instances for higher concurrent access.
+D) Increasing the parallel_servers configuration
+setting so queries can be broken down and worked
+on by multiple threads.
+Points: 2 out of 2
+Correct answer: A) C)
+
+Question 13 of 80
+Referential integrity is maintained in Neo4j because
+you cannot delete a node that has existing
+relationships attached.
+A) True
+B) False
+Points: 1 out of 1
+Correct answer: A)
+Nodes cannot be deleted if they still have relationships
+attached to them.
+
+Question 14 of 80
+A single node can have a relationship that points at
+itself?
+A) True
+B) False
+Points: 1 out of 1
+https://wiki.glitchdata.com/index.php/Neo4J:_Sample_Questions_1
+
+6/30
+
+04/01/2024, 18:09
+
+Neo4J: Sample Questions 1 - Glitchdata
+
+Correct answer: A)
+
+Question 15 of 80
+Which of the following statements best describes
+Cypher's MERGE clause?
+A) MERGE is used to merge multiple nodes or
+relationships in the graph together to form a single
+node or relationship.
+￼B) MERGE is used to return multiple nodes in a
+Cypher return statement.
+￼C) The MERGE clause ensures that a pattern
+exists in the graph. Either the pattern already
+exists, or it needs to be created.
+D) MERGE can be used to join two graph
+databases together by de-duplicating nodes and
+relationships.
+E) MERGE is not a valid Cypher clause.
+Points: 0 out of 1
+Correct answer: C)
+
+Question 16 of 80
+What, specifically, does the following expression do?:
+size( (n)-[:TYPE]->() ) ?￼
+A) It counts the number of relationships with
+this type and direction?￼
+B) This is not valid Cypher.￼
+C) It reads the degree-value for this
+relationship-type and direction directly from
+the node record.
+D) It executes a MATCH first and then returns the
+size of the path - collection.
+Points: 0 out of 2
+Correct answer: A) C)
+
+Question 17 of 80
+Property values can be the following:
+A) Numbers
+B) boolean values
+https://wiki.glitchdata.com/index.php/Neo4J:_Sample_Questions_1
+
+7/30
+
+04/01/2024, 18:09
+
+Neo4J: Sample Questions 1 - Glitchdata
+
+C) byte[]
+D) Strings
+E) Arrays of Strings
+F) List<String>
+G) Date
+H) Nested Documents
+Points: 0 out of 1
+Correct answer: A) B) C) D) E) G)
+
+Question 18 of 80
+How do you perform an aggregation in Cypher?
+A) Using the GROUP BY keyword￼.
+B) Using at least one aggregation function.
+C) Defining grouping keys with WITH.
+D) With the AGGREGATE keyword.
+Points: 0 out of 1
+Correct answer: B)
+
+Question 19 of 80
+Which procedure can be run to get a list of all
+procedures in the DBMS?
+A) db.procedures()
+￼B) dbms.showProcedures()
+C) db.listProcedures()
+￼D) dbms.procedures()
+Points: 0 out of 1
+Correct answer: D)
+
+Question 20 of 80
+In a Neo4j database, which of the below best describes
+what Nodes are used for?
+A) Used to represent entities and complex
+value types in the graph.
+B) As a table structure that identifies like entities
+and groups them together.
+https://wiki.glitchdata.com/index.php/Neo4J:_Sample_Questions_1
+
+8/30
+
+04/01/2024, 18:09
+
+Neo4J: Sample Questions 1 - Glitchdata
+
+C) As a reference holder for keys, which also store
+values, and foreign key links to other nodes.
+D) As endpoints on either side of a relationship,
+used to bring together relationships in the graph.
+Points: 1 out of 1
+Correct answer: A)
+
+Question 21 of 80
+When using a language driver, TLS encryption is
+enabled for all connections by default
+A) True
+B) False
+Points: 1 out of 1
+Correct answer: A)
+
+Question 22 of 80
+What's the correct exception to throw to signal an
+error from within a procedure?
+A) RuntimeException
+B) ProcedureException
+C) NotFoundException
+D) TransientTransactionFailureException
+Points: 1 out of 1
+Correct answer: A)
+
+Question 23 of 80
+Which of the following would be the correct Cypher
+syntax to create an index on the id property for nodes
+with the Customer label?
+￼A) CREATE INDEX ON :Customer(id);
+B) CREATE INDEX ON :Customer.id;
+C) CREATE INDEX ON Customer(id);
+D) CREATE GRAPH INDEX ON :Customer.id;
+Points: 0 out of 1
+Correct answer: A)
+
+https://wiki.glitchdata.com/index.php/Neo4J:_Sample_Questions_1
+
+9/30
+
+04/01/2024, 18:09
+
+Neo4J: Sample Questions 1 - Glitchdata
+
+Question 24 of 80
+The Cypher PROFILE keyword can be used for what
+purpose?￼
+A) Entered before the statement it is used to
+return the query plan and execution
+information for a Cypher statement for
+performance tuning purposes.
+B) Used when creating parameterized Cypher
+queries, it tells the query engine to build a query
+plan for later use.￼
+C) The PROFILE clause will detail the current
+statistics for the server, including node counts,
+relationship counts, and data size.
+D) PROFILE will identify the schema for the current
+database, including labels in use, relationship
+types, and indexes.
+Points: 0 out of 1
+Correct answer: A)
+
+Question 25 of 80
+In modeling, the use of Bi-directional relationships is a
+good practice when which of the following is true?￼
+A) The semantics of the relationship in one
+direction is different from the other direction.
+B) When you want to show the same relationship
+between two nodes in each direction.
+C) When a relationship between two nodes could
+be represented in either direction.￼
+D) This is never a good idea.
+Points: 0 out of 1
+Correct answer: A)
+
+Question 26 of 80
+Labels are best described as:
+A) Unique tags on each node for fast lookups.
+B) Special types of node or relationship properties.
+C) Tags that are used to group nodes into sets.
+D) Table names in the graph database.
+https://wiki.glitchdata.com/index.php/Neo4J:_Sample_Questions_1
+
+10/30
+
+04/01/2024, 18:09
+
+Neo4J: Sample Questions 1 - Glitchdata
+
+Points: 0 out of 1
+Correct answer: C)
+Labels are a tags that are used to group nodes into
+sets.
+
+Question 27 of 80
+Which of the following statements best describes
+properties?
+A) Properties are the key-value pairs on both
+nodes and relationships.
+B) Properties are the key-value pairs on nodes
+only.
+￼C) Properties are the key-value pairs on
+relationships only.
+D) None of the above.
+Points: 0 out of 1
+Correct answer: A)
+Properties are the key-value pairs on both nodes and
+relationships.
+
+Question 28 of 80
+Which of the following best describes Cypher, Neo4j's
+graph query language?
+A) It's a SQL plugin for Neo4j.
+B) It is a regular expression-like programming
+language for interfacing with Neo4j.
+C) It is a declarative query language designed
+for graph pattern matching and traversals.
+D) It is a procedural programming language for
+interfacing with Neo4j.
+Points: 0 out of 1
+Correct answer: C)
+Cypher is a declarative query language designed for
+graph pattern matching and traversals.
+
+Question 29 of 80
+When using a language driver, transactions can be
+executed in which access modes?
+
+https://wiki.glitchdata.com/index.php/Neo4J:_Sample_Questions_1
+
+11/30
+
+04/01/2024, 18:09
+
+Neo4J: Sample Questions 1 - Glitchdata
+
+A) ReadWriteOnce, ReadOnlyMany, or
+ReadWriteMany
+B) Master or Slave
+C) Read or Write
+D) Serializable, Read committed, or Read
+uncommitted
+Points: 0 out of 1
+Correct answer: C)
+
+Question 30 of 80
+Two nodes can only be connected by a single
+relationship?
+A) True
+B) False
+Points: 1 out of 1
+Correct answer: B)
+
+Question 31 of 80
+Of the following, which are reasons why Labels are
+used?
+A) Used to represent entities, such as users,
+products, or company.
+B) Used to group like nodes together.
+C) Used to represent tables in the database.
+D) Used to associate indexes and constraints
+with groups of nodes.
+Points: 1 out of 3
+Correct answer: A) B) D)
+
+Question 32 of 80
+Which log files should I inspect if Neo4j doesn't start
+up - on a production installation (not Neo4j Desktop).
+A) logs/main.log
+B) /var/log/neo4j.log
+C) logs/neo4j.log
+￼D) logs/debug.log
+E) /dev/null
+https://wiki.glitchdata.com/index.php/Neo4J:_Sample_Questions_1
+
+12/30
+
+04/01/2024, 18:09
+
+Neo4J: Sample Questions 1 - Glitchdata
+
+Points: 0 out of 2
+Correct answer: C) D)
+
+Question 33 of 80
+Which of the following best describes the OPTIONAL
+MATCH clause in Cypher?
+A) OPTIONAL MATCH is not a Cypher clause.￼
+B) The OPTIONAL MATCH searches for a
+described pattern that may or may not exist,
+assigning NULL to any identifiers in the pattern
+that do not exist.
+C) The OPTIONAL MATCH clause will take a set of
+property values and optionally match them against
+all nodes in the database.
+D) OPTIONAL MATCH provides parameter
+placeholders for Cypher queries. It holds a
+parameterized query and then optionally matches it
+against the graph with the values supplied by the
+client.
+Points: 0 out of 1
+Correct answer: B)
+
+Question 34 of 80
+Neo4j can be deployed...
+A) ...embedded in a Java application.
+￼B) ...as a standalone server.
+￼C) ...embedded in a Java application or as a
+standalone server.
+D) ...with an app server only.
+E) None of the above.
+Points: 0 out of 1
+Correct answer: C)
+Neo4j can either be embedded in a Java application or
+deployed as a standalone server.
+
+Question 35 of 80
+All nodes with the same label must have the same
+property keys.
+A) True
+B) False
+https://wiki.glitchdata.com/index.php/Neo4J:_Sample_Questions_1
+
+13/30
+
+04/01/2024, 18:09
+
+Neo4J: Sample Questions 1 - Glitchdata
+
+Points: 1 out of 1
+Correct answer: B)
+Neo4j does not enforce that all nodes with the same
+label must have the same property keys.
+
+Question 36 of 80
+When modeling with Neo4j, which of the following
+best represents inferring a symmetric relationship for
+the below simple graph:
+(parent:Parent)-[:PARENT_OF]->(child:Child)
+
+A) child is a CHILD_OF parent
+B) parent is the CHILD_OF parent
+C) child is the PARENT_OF parent
+D) child HAS_SIBLINGS from parent
+Points: 0 out of 1
+Correct answer: A)
+
+Question 37 of 80
+How does the Neo4j configuration
+"keep_logical_logs" affect Neo4j backup?
+
+property
+
+A) This property defines how long to keep the
+log files with transaction history. When
+running a backup, if the time since you've last
+run a backup is longer than the time specified
+in this configuration setting, Neo4j will be
+unable to incrementally apply all historical
+transactions and instead will do a full backup.
+B) This configuration property identifies the number
+of logs to keep to recover a backup into a fully
+functioning instance.
+C) This configuration will define whether logical or
+physical logs will be stored by Neo4j, which will
+determine whether a backup can copy data from
+memory or from the disk.
+D) This configuration identifies how many logs
+Neo4j should keep in memory for quick,
+incremental backups every hour.
+
+https://wiki.glitchdata.com/index.php/Neo4J:_Sample_Questions_1
+
+14/30
+
+04/01/2024, 18:09
+
+Neo4J: Sample Questions 1 - Glitchdata
+
+Points: 1 out of 1
+Correct answer: A)
+
+Question 38 of 80
+What prefix should be used in the connection URI
+when connecting an application to a Neo4j causal
+cluster?
+A) bolt
+B) bolt+cluster
+C) bolt+routing
+D) bolt+causalcluster
+Points: 0 out of 1
+Correct answer: C)
+
+Question 39 of 80
+In the following MATCH clause, which of the elements
+represents the relationship between two nodes?
+MATCH (a)-[b]->(c)
+
+A) (a)
+B) (a)C) -[b]->
+D) (c)
+E) ->(c)
+Points: 0 out of 1
+Correct answer: C)
+
+Question 40 of 80
+What is the main responsibility of read replicas in a
+causal cluster?
+A) Scaling writes
+B) Taking part in the Raft election algorithm
+C) Scaling out graph workloads
+D) Replicating data around the cluster
+
+https://wiki.glitchdata.com/index.php/Neo4J:_Sample_Questions_1
+
+15/30
+
+04/01/2024, 18:09
+
+Neo4J: Sample Questions 1 - Glitchdata
+
+Points: 0 out of 1
+Correct answer: C)
+
+Question 41 of 80
+You can create the same type of relationship between
+two nodes with each relationship having different
+properties?
+A) True
+B) False
+Points: 0 out of 1
+Correct answer: A)
+
+Question 42 of 80
+Which of the following actions is a user with the native
+role 'architect' able to do? ￼
+A) Change own password
+B) Assign/remove role to/from user
+C) Create/drop index/constraint
+D) View all queries
+E) View all roles for a user
+You did not select all available correct options.
+Points: 0 out of 2
+Correct answer: A) C) Selected answer: No answer given
+
+Question 43 of 80
+Which of the following best describes the Causal
+Clustering
+causal_clustering.refuse_to_be_leader
+configuration setting in the neo4j.conf file?
+A) Defines whether this instance should not put
+itself forward for election
+B) Identifies whether the instance can be written to
+or not.
+C) Determines whether all instances in the cluster
+will be writable or not.
+D) Configures a standalone Neo4j instance to be
+read only.
+Points: 0 out of 1
+Correct answer: A) Selected answer: No answer given
+
+Question 44 of 80
+https://wiki.glitchdata.com/index.php/Neo4J:_Sample_Questions_1
+
+16/30
+
+04/01/2024, 18:09
+
+Neo4J: Sample Questions 1 - Glitchdata
+
+Which export formats does the Neo4j Browser
+support?
+A) PNG
+B) XML
+C) GraphML
+D) XLS
+E) CSV
+F) SVG
+Points: 0 out of 1
+Correct answer: A) E) F)
+
+Question 45 of 80
+Neo4j is an ACID-compliant database.
+A) True
+B) False
+Points: 0 out of 1
+Correct answer: A)
+Neo4j is an ACID-compliant database.
+
+Question 46 of 80
+Which of the following best describes a Relationship in
+Neo4j?
+A) A structure with a name and direction that
+describes the relationship between two nodes
+and provides structure and context to the
+graph.
+B) The link between two types of nodes.
+C) A link that indicates how one type of node is, or
+should be connected to another type of node.
+D) A key/value pair that identifies additional nodes
+that a single node is related to, including direction
+and weight
+Points: 0 out of 1
+Correct answer: A)
+
+Question 47 of 80
+Neo4j is available with both open-source and
+commercial licenses.
+A) True
+B) False
+
+https://wiki.glitchdata.com/index.php/Neo4J:_Sample_Questions_1
+
+17/30
+
+04/01/2024, 18:09
+
+Neo4J: Sample Questions 1 - Glitchdata
+
+Points: 0 out of 1
+Correct answer: A)
+Neo4j can be used with both the open-source license or a
+commercial license which includes technical support.
+
+Question 48 of 80
+Which of the following best describes the Neo4j data
+model?
+A) Nodes and properties.
+B) Nodes, relationships, and properties.
+C) Nodes, foreign keys, and relationships.
+D) Rows, properties, and relationships.
+E) Nodes and relationships.
+Points: 0 out of 1
+Correct answer: B)
+Neo4j's data model consists of nodes, relationships
+between the nodes, and properties on both nodes and
+relationships.
+
+Question 49 of 80
+Read replicas have transactions pushed down to them
+by core servers
+A) True
+B) False
+Points: 0 out of 1
+Correct answer: B)
+Read replicas pull from core servers
+
+Question 50 of 80
+On a Neo4j instance participating in a cluster, which of
+the following configuration settings is used to define
+the list of other known instances that cluster?
+A)
+causal_clustering.initial_discovery_members
+B) causal_clustering.host_list
+C) causal_clustering.cluster_members
+D) causal_clustering.cluster_instances
+Points: 0 out of 1
+Correct answer: A)
+
+Question 51 of 80
+https://wiki.glitchdata.com/index.php/Neo4J:_Sample_Questions_1
+
+18/30
+
+04/01/2024, 18:09
+
+Neo4J: Sample Questions 1 - Glitchdata
+
+Which function allows you to create a list of values as
+result of an aggregation?
+A) The collect() function.
+B) The toList() function.
+C) The aggregate() function.
+D) The values() function.
+Points: 0 out of 1
+Correct answer: A)
+
+Question 52 of 80
+Foreign keys are necessary in a graph database. These
+allow you to determine which nodes are related.
+A) True
+B) False
+Points: 0 out of 1
+Correct answer: B)
+Nodes are connected by relationships. Foreign keys are
+not needed.
+
+Question 53 of 80
+Which of the following Cypher statements will return
+the number of cities in the state of California?￼
+A)
+MATCH (:State {name:"California"})<-[:LOCATED_IN](city:City)
+RETURN count(city)
+￼
+
+B)
+MATCH (state:State)<-[:LOCATED_IN]-(city:City)
+WHERE state.name="California"
+RETURN count(city)
+
+C)
+MATCH (state:State {name:"California"})
+JOIN state, MATCH (city:City)
+RETURN count(city)
+
+D)
+
+https://wiki.glitchdata.com/index.php/Neo4J:_Sample_Questions_1
+
+19/30
+
+04/01/2024, 18:09
+
+Neo4J: Sample Questions 1 - Glitchdata
+
+MATCH (city:City)
+FILTER relationships(LOCATED_IN)
+FILTER related(:STATE {name:"California"})
+RETURN count(city)
+
+Points: 0 out of 2
+Correct answer: A) B)
+
+Question 54 of 80
+Which of the following best describes the LIMIT clause
+in Cypher?￼
+A) LIMIT is used to limit the number rows
+returned from the query or passed to other
+parts of a query.
+B) LIMIT is used within the WHERE clause to limit
+the number of relationships traversed during a
+query.
+C) The LIMIT clause is used when creating nodes
+to limit the number of relationships between two
+nodes.
+D) The LIMIT clause is used with a RETURN
+clause to limit the types of values returned from
+node properties.
+Points: 0 out of 1
+Correct answer: A)
+
+Question 55 of 80
+Which of the following Cypher statements will list all
+the labels in the database?
+A) RETURN db.labels()￼
+B) CALL db.labels()
+C) RETURN CALL db.labels()￼
+D) CALL db.labels() YIELD label RETURN label
+Points: 0 out of 1
+Correct answer: B) D)
+
+Question 56 of 80
+Neo4j allows for undirected relationships between
+nodes.
+A) True
+B) False
+Points: 0 out of 1
+Correct answer: B)
+https://wiki.glitchdata.com/index.php/Neo4J:_Sample_Questions_1
+
+20/30
+
+04/01/2024, 18:09
+
+Neo4J: Sample Questions 1 - Glitchdata
+
+Neo4j requires each relationship to have a direction and
+type.
+
+Question 57 of 80
+Cypher has a collection of statistics functions that
+allow you to identify data points such as the maximum
+and minimum values, standard deviation, and
+percentiles.
+A) True
+B) False
+Points: 0 out of 1
+Correct answer: A)
+
+Question 58 of 80
+What parts of a Cypher query can be parameterized?
+A) Labels.
+B) Property values.
+C) Map values.
+D) Relationship types.￼
+E) Index query expressions for explicit indexes.
+F) Literals.
+Points: 0 out of 2
+Correct answer: B) C) E) F)
+
+Question 59 of 80
+Which of the following Cypher statements would
+return the total population in all cities located in
+California?
+A)
+MATCH (:STATE {name:"California"})<-[:LOCATED_IN](city:CITY)
+RETURN sum(city.population)
+
+B)
+
+https://wiki.glitchdata.com/index.php/Neo4J:_Sample_Questions_1
+
+21/30
+
+04/01/2024, 18:09
+
+Neo4J: Sample Questions 1 - Glitchdata
+
+MATCH (city:CITY)
+sum(city.population) as total
+WHERE (city)-[:LOCATED_IN]->(:STATE {name="California"})
+RETURN total
+
+C)
+SUM (:CITY.population)
+WHERE city.relationships(:SATE.name="California")
+RETURN
+
+D)
+MATCH (state:STATE {name:"California"})
+MATCH (city:CITY)
+JOIN state,city
+RETURN SUM(city.population)
+
+Points: 0 out of 1
+Correct answer: A)
+
+Question 60 of 80
+Neo4j version 2.2 introduced basic authentication with
+the server, which when enabled requires a username
+and password to be supplied to query the server.￼
+A) True
+B) False
+Points: 0 out of 1
+Correct answer: A)
+
+Question 61 of 80
+Which of the following are not native security roles in
+Neo4j?
+A) admin
+B) publisher
+C) developer
+D) architect
+Points: 0 out of 1
+Correct answer: C)
+
+Question 62 of 80
+How do you define ";" as field terminator in LOAD
+CSV?
+A) LOAD CSV FROM "url" AS row
+FIELDTERMINATOR ";"
+https://wiki.glitchdata.com/index.php/Neo4J:_Sample_Questions_1
+
+22/30
+
+04/01/2024, 18:09
+
+Neo4J: Sample Questions 1 - Glitchdata
+
+B) LOAD CSV FROM "url" AS row TERMINATED
+BY ";"
+C) LOAD CSV DELIMETER ";" FROM "url" AS row
+D) LOAD CSV FROM "url" AS row WITH split(row,
+";") as fields
+Points: 0 out of 1
+Correct answer: A)
+
+Question 63 of 80
+Relationships are defined with regard to node
+instances, not classes of nodes.
+A) True
+B) False
+Points: 0 out of 1
+Correct answer: A)
+
+Question 64 of 80
+What type of database is Neo4j?
+A) Key-value store.
+B) Document database.
+C) Graph database.
+D) Relational database.
+E) Semantic database.
+Points: 0 out of 1
+Correct answer: C)
+Neo4j is a graph database.
+
+Question 65 of 80
+Which of the following best
+CONNECT_BY clause in Cypher
+
+describes
+
+the
+
+A) The CONNECT_BY clause is used to join nodes
+when they are connected by varying relationship
+depths.
+B) The CONNECT_BY clause is used when
+constructing a graph tree structure where you want
+to define the nodes that a leaf node is connected
+to.
+C) The CONNECT_BY clause is used in Cypher to
+limit the pattern to only certain relationship types.
+
+https://wiki.glitchdata.com/index.php/Neo4J:_Sample_Questions_1
+
+23/30
+
+04/01/2024, 18:09
+
+Neo4J: Sample Questions 1 - Glitchdata
+
+D) The CONNECT_BY clause is a constraint that
+ensures only certain relationships can connect two
+nodes with specific labels together.
+E) CONNECT_BY is not a valid Cypher clause.
+Points: 0 out of 1
+Correct answer: E)
+
+Question 66 of 80
+An Unmanaged Extension is best described by which
+of the following?
+A) Unmanaged Extensions provide finer
+grained control over your application's
+interactions with Neo4j than Cypher by
+allowing you to write server-side code using
+Neo4j's Java API's and access the extension
+through REST calls.
+B) Unmanaged Extensions are references to the
+HTTP REST API's that currently do not require
+authentication for reading or writing data to the
+graph.
+C) Unmanaged Extensions are custom application
+services that bypass Neo4j's Cypher interface and
+directly interact with data stored on disk.
+D) Unmanaged Extensions are custom Cypher
+extensions that provide end-user specific functional
+capabilities to Cypher.
+Points: 0 out of 1
+Correct answer: A)
+
+Question 67 of 80
+Which of the following Cypher statements will return
+actors and the directors who directed their movies?
+A)
+MATCH (actor)-[:ACTED_IN]->(movie)<-[:DIRECTED](director)
+RETURN actor, director
+
+B)
+MATCH (actor)-[:ACTED_IN]->(movie)
+JOIN (movie)<-[:DIRECTED]-(director)
+RETURN actor, director
+https://wiki.glitchdata.com/index.php/Neo4J:_Sample_Questions_1
+
+24/30
+
+04/01/2024, 18:09
+
+Neo4J: Sample Questions 1 - Glitchdata
+
+C)
+MATCH (actor)-[:ACTED_IN]-(movie)
+CONNECT (movie)-[d:DIRECTED]-(director)
+RETURN actor, director
+
+D)
+MATCH (actor)-[a:ACTED_IN]->(movie)<-[b:DIRECTED](director)
+RETURN a, b
+
+Points: 0 out of 1
+Correct answer: A)
+
+Question 68 of 80
+Which of the following best describes the options
+available for loading data into Neo4j?
+A) Neo4j's neo4j-import tool, Cypher LOAD
+CSV clause, or batch operations against the
+REST endpoint.
+B) Commercial ETL tools that can transform and
+load data in graph format.
+C) Direct database connections from other
+database tools to load data in directly.
+D) The Cypher BULK LOAD clause to import data
+from an existing text file.
+Points: 0 out of 1
+Correct answer: A)
+
+Question 69 of 80
+The four building blocks of a Neo4j Graph Database
+are:
+1. Nodes
+2. Relationships
+3. Properties
+4. Labels
+A) True
+B) False
+
+https://wiki.glitchdata.com/index.php/Neo4J:_Sample_Questions_1
+
+25/30
+
+04/01/2024, 18:09
+
+Neo4J: Sample Questions 1 - Glitchdata
+
+Points: 0 out of 1
+Correct answer: A)
+
+Question 70 of 80
+In Neo4j modeling, a timeline tree is a recommended
+approach for representing time and connecting
+discrete events with no natural relationship to other
+events where you need to find events by granularity of
+time.
+A) True
+B) False
+Points: 0 out of 1
+Correct answer: A)
+
+Question 71 of 80
+Neo4j requires which of the following?
+A) Java runtime environment.
+B) Microsoft .NET environment.
+C) A J2EE container server.
+D) A SAN storage system.
+E) None of the above.
+Points: 0 out of 1
+Correct answer: A)
+Neo4j requires a Java runtime environment for
+deployment.
+
+Question 72 of 80
+Which keyword in the RETURN clause will return only
+one instance of each item in a result set?
+A) UNIQUE￼
+B) DISTINCT
+C) SINGLE
+D) FIRST
+Points: 0 out of 1
+Correct answer: B)
+
+https://wiki.glitchdata.com/index.php/Neo4J:_Sample_Questions_1
+
+26/30
+
+04/01/2024, 18:09
+
+Neo4J: Sample Questions 1 - Glitchdata
+
+Question 73 of 80
+Which of the following schema objects does Neo4j
+include?
+A) Tables.
+B) Columns.
+C) Materialized views.
+D) Rows.￼
+E) None of the above.
+Points: 0 out of 1
+Correct answer: E)
+Neo4j is a graph database and does not enforce
+relational schema objects.
+
+Question 74 of 80
+Two nodes representing the same kind of thing, such
+as a person, can be connected to other nodes using
+different relationship types. ￼
+A) True
+B) False
+Points: 0 out of 1
+Correct answer: A)
+
+Question 75 of 80
+Given this Cypher statement, select the answer
+that best describes what data is returned from the
+query?
+MATCH (person:Person)
+WHERE person.id = 526321
+RETURN KEYS(person)
+
+￼
+A) A collection of the property keys stored on
+the node with the Person label and an id
+property with a value of 526321.
+B) The internal key reference pointer for the node
+with the Person label and an id property with a
+value of 526321.
+C) The index keys stored for the node with the
+Person label and an id property with a value of
+https://wiki.glitchdata.com/index.php/Neo4J:_Sample_Questions_1
+
+27/30
+
+04/01/2024, 18:09
+
+Neo4J: Sample Questions 1 - Glitchdata
+
+526321.
+D) The key pointers for relationships connected to
+the node with the Person label and an id property
+with a value of 526321.
+Points: 0 out of 1
+Correct answer: A)
+
+Question 76 of 80
+What are the benefits of parameterized Cypher?
+A) The query plan from previous invocations is
+reused, therefore it's much more performant.￼
+B) Provides protection against code injection.
+C) Automatic query parallelization in a cluster
+D) There are no benefits. Constructing statements
+with literal values is as good.
+E) Parameters are only available in SQL, Cypher
+doesn't support it.
+Points: 0 out of 2
+Correct answer: A) B)
+
+Question 77 of 80
+Neo4j uses the Property graph model. Which of the
+following best describes a property graph?￼
+A) Nodes and relationships define the graph
+while properties add context by storing
+relevant information in the nodes and
+relationships.
+B) Property graph defines a graph meta-structure
+that acts as a model or schema for the data as it is
+entered.
+C) The Property graph is a model similar to RDF
+which describes how Neo4j stores resources in the
+database.
+D) The Property graph allows for configuration
+properties to define schema and structure of the
+graph.
+Points: 0 out of 1
+Correct answer: A)
+
+Question 78 of 80
+
+https://wiki.glitchdata.com/index.php/Neo4J:_Sample_Questions_1
+
+28/30
+
+04/01/2024, 18:09
+
+Neo4J: Sample Questions 1 - Glitchdata
+
+Select the Cypher statements below that will delete a
+node with an id of 3563 and all of its possibly
+connected relationships?
+A)
+MATCH (a:Thing {id:3563})
+OPTIONAL MATCH (a)-[r]-()
+DELETE a, r
+
+B)
+MATCH (a:Thing {id:3563})
+DELETE a
+
+C)
+MATCH (a:Thing {id:3563})
+DETACH DELETE a
+
+D)
+MATCH (a:Thing {id:3563})-[r]-(b)
+DELETE a, r
+
+Points: 0 out of 1
+Correct answer: A) C)
+
+Question 79 of 80
+In modeling, the concept of an intermediate node is
+used in what situation?
+A) To connect more than two nodes in a single
+context, such as where a person worked and in
+what role during what timeframe.
+B) As a sub-node to represent complex entities as
+multiple nodes.
+C) In support of linked lists to identify next
+relationships.
+D) Before or after Primary nodes for quick
+traversals through the graph.
+Points: 0 out of 1
+Correct answer: A)
+
+Question 80 of 80
+
+https://wiki.glitchdata.com/index.php/Neo4J:_Sample_Questions_1
+
+29/30
+
+04/01/2024, 18:09
+
+Neo4J: Sample Questions 1 - Glitchdata
+
+Which of the following best describes a Neo4j
+incremental backup?
+A) A snapshot of the transaction log from the last
+backup point is copied to the backup location so it
+can be replayed during a restore.
+B) An incremental backup is performed
+whenever an existing backup directory is
+specified. The backup tool will then copy any
+new transactions from the Neo4j server and
+apply them to the backup. The result will be an
+updated backup that is consistent with the
+current server state.
+C) An incremental backup is a scheduled backup
+process in Neo4j that copies transactions from the
+database to a backup location for future recovery
+purposes.
+D) Neo4j does not have an incremental backup
+capability.
+Points: 0 out of 1
+Correct answer: B)
+
+Retrieved from ‘https://wiki.glitchdata.com/index.php?
+title=Neo4J:_Sample_Questions_1&oldid=37444’
+
+This page was last modified on 19 January 2023, at 10:15.
+Content is available under Creative Commons Attribution unless otherwise noted.
+
+https://wiki.glitchdata.com/index.php/Neo4J:_Sample_Questions_1
+
+30/30
+
+
