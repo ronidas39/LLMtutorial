@@ -1,24 +1,43 @@
 from typing import Any
 from pydantic import BaseModel
 from unstructured.partition.pdf import partition_pdf
-raw_pdf_elements = partition_pdf(
-    filename=r"C:\Users\welcome\OneDrive\Documents\GitHub\LLMtutorial\tutorial33\sample.pdf",
+from dotenv import load_dotenv
+import io,glob,os
+from langchain.schema.messages import HumanMessage
+from langchain_openai import ChatOpenAI
+from PIL import Image
+import base64
+load_dotenv()
+llm=ChatOpenAI(model="gpt-4-vision-preview",max_tokens=1024)
+rpe=partition_pdf(filename="sample.pdf",extract_images_in_pdf=True,infer_table_structure=True,chunking_strategy="title",
+                  max_characters=4000,new_after_n_chars=3800,combine_text_under_n_chars=2000)
+
+def image2base64(image_path):
+    with Image.open(image_path) as image:
+        buffer=io.BytesIO()
+        image.save(buffer,format=image.format)
+        img_str=base64.b64encode(buffer.getvalue())
+        return img_str.decode("utf-8")
     
-    # Using pdf format to find embedded image blocks
-    extract_images_in_pdf=True,
-    
-    # Use layout model (YOLOX) to get bounding boxes (for tables) and find titles
-    # Titles are any sub-section of the document
-    infer_table_structure=True,
-    
-    # Post processing to aggregate text once we have the title
-    chunking_strategy="by_title",
-    # Chunking params to aggregate text blocks
-    # Attempt to create a new chunk 3800 chars
-    # Attempt to keep chunks > 2000 chars
-    # Hard max on chunks
-    max_characters=4000,
-    new_after_n_chars=3800,
-    combine_text_under_n_chars=2000,
-    image_output_dir_path="static/pdfImages/",
-)
+cwd="/Users/roni/Documents/GitHub/LLMtutorial/tutorial33/figures"
+files=glob.glob(cwd+"/*.jpg")
+for file in files:
+    image_str=image2base64(file)
+    response=llm.invoke(
+        [
+            HumanMessage(
+                content=[
+                    {"type":"text","text":"please give a summary of the image provided , be descriptive and smart"},
+                    {"type":"image_url","image_url":
+                     {
+                        "url":f"data:image/jpg;base64,{image_str}"
+
+                    },
+                    },
+                ]
+            )
+        ]
+    )
+    print(file.split("/")[-1])
+    print(response.content)
+    print("========================================")
