@@ -2,7 +2,7 @@ from langchain.agents import initialize_agent,AgentType,load_tools
 from langchain_openai import ChatOpenAI
 from langchain.prompts import ChatPromptTemplate
 import os
-os.environ["SERPAPI_API_KEY"]="c0e23b261ee29de6ab6155ca25f0e8845a9a8e1a60d2fd62bd1d95d9f8772bc6"
+os.environ["SERPAPI_API_KEY"]="b80da0e0471a9b4d198b7accd612fce298addb1036c9cc73ee65c2307de4aee9"
 tools=load_tools(["serpapi"])
 
 ts="""
@@ -18,8 +18,13 @@ price
 rating
 """
 pt=ChatPromptTemplate.from_template(ts)
+
 llm=ChatOpenAI(model="gpt-4",temperature=0.0)
-agent=initialize_agent(tools,llm,agent_type=AgentType.ZERO_SHOT_REACT_DESCRIPTION)
-pi=pt.format_messages(input="best sports car in Germany")
+
+agent=initialize_agent(tools,llm,agent_type=AgentType.ZERO_SHOT_REACT_DESCRIPTION,verbose=True)
+
+pi=pt.format_messages(input="best luxury watch in uae")
+
 pa_response=agent.run(pi)
 print(type(pa_response))
+
