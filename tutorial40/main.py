@@ -1,35 +1,75 @@
+import streamlit as st
+import arxiv,os
+from langchain_community.document_loaders import PyPDFLoader, DirectoryLoader
+from langchain.prompts import ChatPromptTemplate
+from pdf2vectore import pdf2VectoreStore
 from langchain_openai import ChatOpenAI
-from langchain.prompts import HumanMessagePromptTemplate,ChatPromptTemplate,PromptTemplate
-from langchain.output_parsers import StructuredOutputParser,ResponseSchema
 from langchain.chains import LLMChain
-
-llm=ChatOpenAI(model="gpt-4",temperature=0.0)
-
-tagline=ResponseSchema(
-    name="tagline",description="generated tagline for the input company description"
-)
-rating=ResponseSchema(
-    name="rating",description="this is a whole number ,generated rating between 1-100 for the input company description"
-)
-rs=[tagline,rating]
-output_parser=StructuredOutputParser.from_response_schemas(rs)
-format_instruction=output_parser.get_format_instructions()
-ts="""
-you are master at suggesting unique tagline for a company based on a input description.
-take the company description below delimited by triple backticks and use it to create the unique tagline.
-input description: ```{input}```
-the based on the input you should create a tagline and popularity score for the generates tagline between 1-100 basaed on your knowledge and analysis.
-{format_instruction}
+template = """Answer the question based only on the following context:
+{context}
+Question: {question}
 """
-prompt=ChatPromptTemplate(
-    messages=[
-        HumanMessagePromptTemplate.from_template(ts)
-    ],
-    input_variables=["input"],
-    partial_variables={
-    "format_instruction":format_instruction},
-    output_parser=output_parser
+prompt = ChatPromptTemplate.from_template(template)
+qa_chain=LLMChain(
+    llm=ChatOpenAI(model="gpt-4",max_tokens=1024),
+    prompt=prompt
 )
-chain=LLMChain(llm=llm,prompt=prompt)
-response=chain.predict_and_parse(input="this is company makes cool and trendy watches for indian youth ")
-print(response["tagline"])
+# Function to handle the logic after submission
+def handle_submission(selected_option, input_text):
+    # Example logic to generate output based on the input text
+    # This can be customized based on your needs
+    output_text = f"You selected '{selected_option}' and submitted: '{input_text}'"
+    return output_text
+
+def download_docs(selected_option):
+    client = arxiv.Client()
+
+# Search for the 10 most recent articles matching the keyword "quantum."
+    search = arxiv.Search(
+    query = "quantum",
+    max_results = 10,
+    sort_by = arxiv.SortCriterion.SubmittedDate
+    )
+
+    results = client.results(search)
+    for result in results:
+        result.download_pdf(dirpath=os.getcwd()+"\\output\\")
+
+
+
+
+
+
+# Setting up the layout
+st.title("Example Streamlit UI")
+
+# Creating two columns for the left and right sides
+col1, col2 = st.columns(2)
+
+# Working on the left side (Column 1)
+with col1:
+    st.header("Input Section")
+    # Dropdown menu for selecting an option
+    options = ["healthcare", "mathematics", "physics","environment","computer science","AI","Quantum computing","space research"]
+    selected_option = st.selectbox("Choose an option", options, index=0, key="select_option")
+
+    # Activating text box and submit button based on dropdown selection
+    if selected_option:
+        download_docs(selected_option)
+        context=pdf2VectoreStore()
+        print("vector store created)")
+        input_text = st.text_area("Text Box", f"Text for {selected_option}", key="input_text")
+        submit_button = st.button("Submit")
+        
+# Handling submission and displaying output on the right side (Column 2)
+if submit_button:
+    output = qa_chain.run({"context":context,"question":input_text})
+
+    with col2:
+        st.header("Output Section")
+        st.write(output)
+else:
+    # Showing a message or placeholder in the output section before submission
+    with col2:
+        st.header("Output Section")
+        st.write("Your output will appear here after submission.")
