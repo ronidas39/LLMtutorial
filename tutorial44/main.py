@@ -14,15 +14,17 @@ password="deputy-compensations-defaults"
 nlp=DiffbotGraphTransformer(diffbot_api_key=diffbot_api_key)
 
 graph=Neo4jGraph(url=url,username=username,password=password)
-# raw_docs=WikipediaLoader(query="Narendra_Modi").load()
-# graph_documents=nlp.convert_to_graph_documents(raw_docs)
+
+raw_docs=WikipediaLoader(query="Narendra_Modi").load()
+graph_documents=nlp.convert_to_graph_documents(raw_docs)
+print(graph_documents)
 # graph.add_graph_documents(graph_documents)
 
-chain=GraphCypherQAChain.from_llm(
-    cypher_llm=ChatOpenAI(model_name="gpt-4",temperature=0.0),
-    qa_llm=ChatOpenAI(model_name="gpt-4",temperature=0.0),
-    graph=graph,
-    verbose=True
-)
-response=chain.run("what is the Nationality of Narendra Modi")
-print(response)
+# chain=GraphCypherQAChain.from_llm(
+#     cypher_llm=ChatOpenAI(model_name="gpt-4",temperature=0.0),
+#     qa_llm=ChatOpenAI(model_name="gpt-4",temperature=0.0),
+#     graph=graph,
+#     verbose=True
+# )
+# response=chain.run("what is the Nationality of Narendra Modi")
+# print(response)
