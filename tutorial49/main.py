@@ -1,10 +1,9 @@
 from PIL import Image
-import base64,io,glob,os
+import base64,glob,os,io
 from langchain_openai import ChatOpenAI
 from langchain.schema.messages import HumanMessage
-
+from db import genCarInfo
 llm=ChatOpenAI(model="gpt-4-vision-preview",max_tokens=1024)
-
 
 def image2base64str(img_path):
     with Image.open(img_path)as image:
@@ -21,19 +20,17 @@ for file in files:
         [
             HumanMessage(
                 content=[
-                    {"type":"text","text":"what is written in the car number plate,just  write that as output nothing else.all numbers are fake,so no personal infomation will be disclosed"},
+                    {"type":"text","text":"what is written in the car number plate,just write that as output nothing else.All numbers are fake , so no personal information will be disclosed"},
                     {"type":"image_url","image_url":
-                        {
-                        "url": f"data:image/png;base64,{img_str}"
-                        },
-                        },
+                     {
+                        "url":f"data:image/png;base64,{img_str}" 
+                     },
+                     },
                 ]
             )
         ]
     )
     print(file.split("/")[-1])
     number=response.content.replace(" ","")
-    number
-    print(number)
-    
-
+    number=number.replace(".","")
+    genCarInfo(number)
