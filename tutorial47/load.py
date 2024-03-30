@@ -5,12 +5,12 @@ import io
 
 api_service_name="youtube"
 api_version="v3"
-DEVELOPER_KEY="AIzaSyCcm-A4GyHuZL_2q9hUY4g23HcFdxw3mEQ"
+DEVELOPER_KEY="AIzaSyD1SXEou8XbVaOe04BmMtxN8yQc0Crfkhw"
 
 youtube=googleapiclient.discovery.build(api_service_name,api_version,developerKey=DEVELOPER_KEY)
 request=youtube.commentThreads().list(
     part="snippet",
-    videoId="nj8J6K3NnwQ",
+    videoId="H_dPOuhbB1k",
     textFormat="plainText"
 )
 response=request.execute()
@@ -31,7 +31,7 @@ while response:
 
 with io.open("comment.txt","a",encoding="utf-8") as f1:
     for data in comment:
-        f1.write(data+"\n\n")
+        f1.write(data+"\n")
 f1.close()
 
         
