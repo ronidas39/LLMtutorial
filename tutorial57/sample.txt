@@ -1,0 +1,93 @@
+Below are several sample user questions related to the MongoDB document provided, 
+and the corresponding MongoDB aggregation pipeline queries that can be used to fetch the desired data.
+Use them wisely.
+
+Question 1: What are the amenities provided at the "Ribeira Charming Duplex"?
+
+Query:
+json
+[
+  { "$match": { "name": "Ribeira Charming Duplex" } },
+  { "$project": { "amenities": 1, "_id": 0 } }
+]
+
+
+Question 2: How many reviews does the "Ribeira Charming Duplex" have, and what is the average rating?
+
+Query:
+json
+[
+  { "$match": { "name": "Ribeira Charming Duplex" } },
+  { "$project": { 
+      "number_of_reviews": 1, 
+      "average_rating": { "$toInt": "$review_scores.review_scores_rating" }, 
+      "_id": 0 
+    } 
+  }
+]
+
+
+Question 3: What is the cleaning fee and security deposit for the "Ribeira Charming Duplex"?
+
+Query:
+json
+[
+  { "$match": { "name": "Ribeira Charming Duplex" } },
+  { "$project": { 
+      "cleaning_fee": 1, 
+      "security_deposit": 1, 
+      "_id": 0 
+    } 
+  }
+]
+
+
+Question 4: List all reviews for the "Ribeira Charming Duplex" that are from the year 2018.
+
+Query:
+json
+[
+  { "$match": { "name": "Ribeira Charming Duplex" } },
+  { "$unwind": "$reviews" },
+  { "$match": { "reviews.date.$date.$numberLong": { "$gte": "1514764800000", "$lte": "1546300800000" } } },
+  { "$project": { "reviews": 1, "_id": 0 } }
+]
+
+
+Question 5: Find the details of the host for the "Ribeira Charming Duplex".
+
+Query:
+json
+[
+  { "$match": { "name": "Ribeira Charming Duplex" } },
+  { "$project": { "host": 1, "_id": 0 } }
+]
+
+
+Question 6: How many days is the "Ribeira Charming Duplex" available over the next 90 days?
+
+Query:
+json
+[
+  { "$match": { "name": "Ribeira Charming Duplex" } },
+  { "$project": { "availability_90_days": "$availability.availability_90.$numberInt", "_id": 0 } }
+]
+
+
+Question 7: What are the maximum and minimum nights one can stay at the "Ribeira Charming Duplex"?
+
+Query:
+json
+[
+  { "$match": { "name": "Ribeira Charming Duplex" } },
+  { "$project": { 
+      "maximum_nights": { "$toInt": "$maximum_nights" },
+      "minimum_nights": { "$toInt": "$minimum_nights" }, 
+      "_id": 0 
+    } 
+  }
+]
+
+
+Each of these queries is designed to run within MongoDB's aggregation framework to extract specific information based on the user's questions.
+ The `$project` step is used to format the output to include only relevant fields. 

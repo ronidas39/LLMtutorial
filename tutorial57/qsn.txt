@@ -1,0 +1,4 @@
+which country has the maximum properties listed?
+which country has the least number properties listed?
+which host has the maximum number of listing, need the hostname and id?
+which host has the least number of listing, need the hostname and id?
