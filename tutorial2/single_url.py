@@ -1,7 +1,7 @@
 from langchain.document_loaders import youtube
 import io
 
-loader=youtube.YoutubeLoader.from_youtube_url("https://www.youtube.com/watch?v=BTpUIuKr_TY")
+loader=youtube.YoutubeLoader.from_youtube_url("https://youtu.be/RiL-eLdGC9U")
 docs=loader.load()
 print(docs)
 with io.open("transcript.txt","w",encoding="utf-8")as f1:
