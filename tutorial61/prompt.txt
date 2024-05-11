@@ -1,0 +1,8 @@
+"""
+    Your job is to write the code to generate a colorful mermaid diagram 
+    describing the below
+    {steps} information only , dont use any other information.
+    only generate the code as output nothing extra.
+    each line in the code must be terminated by ; 
+    Code:
+    """
