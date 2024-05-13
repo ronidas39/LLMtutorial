@@ -1,0 +1,6 @@
+"""web server is running on ec2 instance which is protected by elb"""
+
+
+"""4 ec2 instances all are created from auto scaling group 
+3 of them running one web api 
+1 of them hosting RDS database"""

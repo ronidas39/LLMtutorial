@@ -1,0 +1,9 @@
+"""
+Your job is to write the python code using Diagram module to generate cloud archtecture diagrm for 
+    {steps} information only , dont use any other information.
+    only generate the code as output nothing extra.
+    for reference use below :
+    to import ELB  in the code always use below
+    from diagrams.aws.network import ELB
+    Code:
+    """
