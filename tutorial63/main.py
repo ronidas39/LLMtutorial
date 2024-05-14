@@ -1,10 +1,9 @@
+from langchain_openai import ChatOpenAI
+from langchain.schema.messages import HumanMessage,AIMessage
 import streamlit as st
 import base64
-from langchain.schema.messages import HumanMessage,AIMessage
-from langchain_openai import ChatOpenAI
 from PIL import Image
-chain=ChatOpenAI(model="gpt-4O",max_tokens=1024)
-
+chain=ChatOpenAI(model="gpt-4o",max_tokens=2048)
 def encode_image(upload_file):
     image_bytes=upload_file.getvalue()
     base64_image=base64.b64encode(image_bytes).decode("utf-8")
@@ -14,44 +13,38 @@ def get_response(b64image,qsn):
     msg=chain.invoke(
         [
             AIMessage(
-            content="you are a useful and intelligent bot who is very good at ocr related task , such getting insights from images of invoices"
-        ),
-        HumanMessage(
-            content=[
-                {"type":"text","text":qsn},
-                {
-                   "type": "image_url",
-                   "image_url":f"data:image/jpg;base64,{b64image}"
-                }
-            ]
-        )
+            content="you are an useful asnd intelligent boty who is very good at image reading ocr taskto get insights from images of invoces"
+            ),
+            HumanMessage(
+                content=[
+                    {"type":"text","text":qsn},
+                    {"type":"image_url",
+                     "image_url":{
+                         "url":"data:image/jpg;base64,"+ b64image,
+                         "detail":"auto"
+                                  }
+                    
+                    }
+                ]
+            )
         ]
     )
     return msg.content
 
-
-# if "conversation" not in st.session_state:
-#     st.session_state.conversation=[]
-
-
-
 def main():
-    st.title("INVOICE ANALYSIS SYSTEM")
-    upload_file=st.file_uploader("upload the invoice image..",type=["jpg"])
+    st.title("INVOICE ANALYSIS APP")
+    upload_file=st.file_uploader("upload your file",type=["jpg"])
     if upload_file is not None:
         image=Image.open(upload_file)
-        st.image(image,caption="your uploaded invoice",use_column_width=True)
-        st.write("invoice image uploaded successfully")
+        st.image(image,caption="your invoice",use_column_width=True)
+        st.success("image uploaded successfully")
         b64_image=encode_image(upload_file)
-        st.success("image converted successfully")
-        user_question=st.text_input("ask anything related to the invoice")
-        submit_button=st.button("Submit")
-        if submit_button and user_question:
-            response=get_response(b64_image,user_question)
-            st.write(response)
-
-
-
+        qsn=st.text_area("ask your question")
+        if qsn is not None:
+            btn=st.button("submit")
+            if btn:
+                response=get_response(b64_image,qsn)
+                st.write(response)
 
 if __name__=="__main__":
     main()
