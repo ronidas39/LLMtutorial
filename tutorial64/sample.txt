@@ -1,0 +1,51 @@
+Question 1: What is the total price of invoices issued to "Susan Davis"?
+
+Query:
+json
+[
+  { "$match": { "customer_name": "Susan Davis" } },
+  { "$group": { "_id": "$customer_name", "total_price": { "$sum": "$total_price.$numberInt" } } },
+  { "$project": { "_id": 0, "total_price": 1 } }
+]
+
+
+ Question 2: List all products bought by "Susan Davis" along with their brands and item names.
+
+Query:
+json
+[
+  { "$match": { "customer_name": "Susan Davis" } },
+  { "$unwind": "$product" },
+  { "$project": { "_id": 0, "brand": "$product.brand", "item": "$product.item" } }
+]
+
+
+ Question 3: How many units of each product were bought in total?
+
+Query:
+json
+[
+  { "$unwind": "$product" },
+  { "$group": { "_id": { "brand": "$product.brand", "item": "$product.item" }, "total_units": { "$sum": { "$toInt": "$product.unit.$numberInt" } } } },
+  { "$project": { "_id": 0, "brand": "$_id.brand", "item": "$_id.item", "total_units": 1 } }
+]
+
+
+ Question 4: Find the total revenue from each brand of products.
+
+Query:
+json
+[
+  { "$unwind": "$product" },
+  { "$group": { "_id": "$product.brand", "total_revenue": { "$sum": { "$toInt": "$product.all_unit_price.$numberInt" } } } },
+  { "$project": { "_id": 0, "brand": "$_id", "total_revenue": 1 } }
+]
+
+
+ Question 5: List all invoices with their invoice numbers and total prices.
+
+Query:
+json
+[
+  { "$project": { "_id": 0, "invoice_number": 1, "total_price": { "$toInt": "$total_price.$numberInt" } } }
+]
