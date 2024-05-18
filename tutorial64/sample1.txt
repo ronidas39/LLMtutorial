@@ -1,0 +1,24 @@
+{
+  "_id": {"$oid": "664495848b7d3c4a165be667"},  // Unique identifier for the document, represented as an ObjectId.
+  "invoice_number": "2024-020",  // A unique number assigned to the invoice.
+  "invoice_date": "2024-12-02",  // The date when the invoice was issued.
+  "customer_name": "James Brown",  // The name of the customer to whom the invoice is issued.
+  "product": [  // A list of products included in the invoice.
+    {
+      "brand": "HP",  // The brand of the product.
+      "item": "Envy 15",  // The name or model of the product.
+      "unit": {"$numberInt": "3"},  // The number of units of the product being invoiced, represented as an integer using the $numberInt type.
+      "single_unit_price": {"$numberInt": "1534"},  // The price of a single unit of the product, represented as an integer using the $numberInt type.
+      "all_unit_price": {"$numberInt": "4602"}  // The total price for all units of this product, represented as an integer using the $numberInt type.
+    },
+    {
+      "brand": "Microsoft",  // The brand of the product.
+      "item": "Surface Laptop 4",  // The name or model of the product.
+      "unit": {"$numberInt": "3"},  // The number of units of the product being invoiced, represented as an integer using the $numberInt type.
+      "single_unit_price": {"$numberInt": "1241"},  // The price of a single unit of the product, represented as an integer using the $numberInt type.
+      "all_unit_price": {"$numberInt": "3723"}  // The total price for all units of this product, represented as an integer using the $numberInt type.
+    }
+  ],
+  "total_price": {"$numberInt": "8325"},  // The total price of all products included in the invoice, represented as an integer using the $numberInt type.
+  "mode_of_payment": "UPI"  // The mode of payment used for the invoice.
+}

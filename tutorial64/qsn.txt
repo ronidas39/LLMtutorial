@@ -1,0 +1,10 @@
+write all brand names
+write all brand names and their corresponding product count
+write all  product names for Samsung
+write all  unique product names for Microsoft
+write all  unique product  names for Microsoft and their price
+write all  unique product  names for Microsoft and their price
+which brand genrerated maximum sales
+which product ordered maximum times
+which product ordered maximum number of units in a singhle invoice?
+for which user maximum number of invoices generated? write all the invoice numbers
