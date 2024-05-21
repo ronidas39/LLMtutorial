@@ -1,12 +1,9 @@
 import streamlit as st
-from pymongo import MongoClient
-import json,urllib
 from langchain_openai import ChatOpenAI
 from langchain.chains import LLMChain
 from langchain.prompts import PromptTemplate
-from ticket import generate_ticket
-
-
+from ticket import gen_ticket
+import json
 
 llm=ChatOpenAI(model="gpt-4o",temperature=0.0)
 prompt="""
@@ -20,7 +17,6 @@ Summary
 follow the below conditions very strictly :
 just include the json in the output nothing extra
 """
-
 def genresponse(input):
     query_with_prompt=PromptTemplate(
         template=prompt,
@@ -37,13 +33,13 @@ def genresponse(input):
     return data
 
 
-st.title("AI driven HRMS app")
-st.write("enter your instructions in english")
-input=st.text_area("write your instruction")
+st.title("AI Driven Service Desk Analyst")
+st.write("enter your issue")
+input=st.text_area("write your problem")
 if input is not None:
     btn=st.button("submit")
     if btn:
         response=genresponse(input)
         st.write(response)
-        
-            
+        ticket=gen_ticket(response)
+        st.write(ticket)
