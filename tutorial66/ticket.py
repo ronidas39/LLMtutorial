@@ -21,7 +21,7 @@ def generate_ticket(data):
       }
    }
    )
-   response=requests.post(url,headers=headers,data=payload,auth=("thetotaltechnology@gmail.com","ATATT3xFfGF0oyzRgUnRJE9kwn6mGmkP5o0-0Wh7gcnce4fH4MzZbrGr4v--d3sam9b1EBeHILuP4REqm9bJbuWAnXFDug3qGh95wzImPOno88NNm-B_Ejo-TtreCiw5npLQjAZJFZH944LOVT0jxSqEgEG8rQOHUj9ZHwPPFqQZ7x7CaHh7D0M=F954B576"))
+   response=requests.post(url,headers=headers,data=payload,auth=(""))
    data=response.json()
    return data
 
