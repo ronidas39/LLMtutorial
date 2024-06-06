@@ -1,23 +1,41 @@
-from langchain.chains.api.base import APIChain
-from langchain_openai import ChatOpenAI
+from langchain_openai import OpenAIEmbeddings,ChatOpenAI
+from langchain_community.document_loaders import TextLoader
+from langchain.text_splitter import CharacterTextSplitter
+from langchain.prompts import ChatPromptTemplate
+from langchain.schema.runnable import RunnablePassthrough
+from langchain.schema.output_parser import StrOutputParser
+import weaviate
+from langchain_weaviate.vectorstores import WeaviateVectorStore
+llm=ChatOpenAI(model="gpt-4o")
+loader=TextLoader(r"C:\Users\welcome\OneDrive\Documents\GitHub\LLMtutorial\tutorial78\test.txt")
+docs=loader.load()
+text_splitter=CharacterTextSplitter(chunk_size=500,chunk_overlap=0)
+document=text_splitter.split_documents(docs)
 
-llm = ChatOpenAI(model="gpt-4o")
-
-api_docs = """
-
-BASE_URL: http://localhost:8000/
-
-API Documentation:
-
-The API endpoint /get/zip_code/{city} Used to find informatin about the zip code for the given us city. All URL parameters are listed below:
-    - city: Name of city - Ex: Camuy, Maricao
-    
-The API endpoint /get/state_name/{id}} Uesd to find information about the state name for the given state code. All URL parameters are listed below:
-    - id: 2 letter usa state code. Example: PR,VI
-    
+URL = "https://test-2lt4id2i.weaviate.network"
+APIKEY = "DnmmkH4txFMUr6UnAg0SCBbOSeuzaLANxhqF"
+  
+# Connect to a WCS instance
+client = weaviate.connect_to_wcs(
+    cluster_url=URL,
+    auth_credentials=weaviate.auth.AuthApiKey(APIKEY))
+# vs=WeaviateVectorStore.from_documents(document,embedding=OpenAIEmbeddings(),client=client)
+vs=WeaviateVectorStore(client=client,index_name="LangChain_65700351ec2b4baf889198b62eeb6e13",embedding=OpenAIEmbeddings(),text_key="text")
+retriever=vs.as_retriever()
+template= """You are an assistant for question-answering tasks. 
+Use the following pieces of retrieved context to answer the question. 
+If you don't know the answer, just say that you don't know. 
+Use five sentences minimum and keep the answer concise.
+Question: {question} 
+Context: {context} 
+Answer:
 """
-
-chain = APIChain.from_llm_and_api_docs(llm, api_docs=api_docs, verbose=True,limit_to_domains=None)
-
-response=chain.run('Can you tell me zip code for about Frederiksted?')
-print()
+prompt=ChatPromptTemplate.from_template(template)
+rag_chain=(
+    {"context":retriever,"question":RunnablePassthrough()}
+    |prompt
+    |llm
+    |StrOutputParser()
+)
+response=rag_chain.invoke("write is the moral of this story")
+print(response)
