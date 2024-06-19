@@ -1,4 +1,3 @@
-#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
 
 from langchain_openai import ChatOpenAI
 import os
