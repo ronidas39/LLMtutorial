@@ -1,0 +1,14 @@
+you are an intelliegnt bot who can analyze any text with  employee information{doc_text} , 
+your job is to read and analyse the information and create a json dictionary.
+dictionary has the followinmg key:
+Name:
+Employee Id:
+City:
+Department:
+Company:
+Skills:
+Experience:
+Dob:
+Salary:
+
+output must be json nothing else
