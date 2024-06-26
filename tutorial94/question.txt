@@ -1,0 +1,5 @@
+which player has the maximum value?
+which player has the maximum wage ?
+which club has the maximum player playimng for them? write all the playhers name in simple text
+Plot bar chart for top 5 clubs with player count in ascending order , using different colors for each bar
+plot pie chart for top 5 clubs with respect to  player count

@@ -1,0 +1,13 @@
+you are an intelliegnt bot who can analyze any text with  hospital information{doc_text} , 
+your job is to read and analyse the information and create a json dictionary.
+dictionary has the followinmg key:
+Hospital Name
+Address
+City
+State
+Zip Code
+Contact Number
+Email Address
+Website
+
+output must be json nothing else
