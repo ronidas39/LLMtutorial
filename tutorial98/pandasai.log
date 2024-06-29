@@ -1,0 +1,673 @@
+2024-06-29 22:02:33 [INFO] Question: which player has the best average
+2024-06-29 22:02:33 [INFO] Running PandasAI with langchain_openai-chat LLM...
+2024-06-29 22:02:33 [INFO] Prompt ID: dc21c853-ea4b-48b2-ba81-071c69197226
+2024-06-29 22:02:33 [INFO] Executing Pipeline: GenerateChatPipeline
+2024-06-29 22:02:33 [INFO] Executing Step 0: ValidatePipelineInput
+2024-06-29 22:02:33 [INFO] Executing Step 1: CacheLookup
+2024-06-29 22:02:33 [INFO] Executing Step 2: PromptGeneration
+2024-06-29 22:02:33 [INFO] Using prompt: <dataframe>
+dfs[0]:107x15
+PlayerName,Duration_in_years,MatchPlayed,Number_of_Innings,NotOut_Count,TotalRuns,HighestScore,Average,Number_of_Balls_Fcaed,Strike_Rate,1OO's_count,50's Count,zero count,fours count,sixers count
+JM Bairstow (ENG),2010-2022,70,145,24,5347,185*,49.84,14372,65.18,23,37,17,592,70
+R Dravid (ICC/IND),1957-1974,112,178,26,9265,280*,42.29,12484,45.64,18,23,15,912,7
+CA Pujara (IND),2010-2024,85,173,32,5138,248*,39.83,7573,59.07,17,24,22,919,20
+</dataframe>
+
+
+
+
+Update this initial code:
+```python
+# TODO: import the required dependencies
+import pandas as pd
+
+# Write code here
+
+# Declare result var: 
+type (possible values "string", "number", "dataframe", "plot"). Examples: { "type": "string", "value": f"The highest salary is {highest_salary}." } or { "type": "number", "value": 125 } or { "type": "dataframe", "value": pd.DataFrame({...}) } or { "type": "plot", "value": "temp_chart.png" }
+
+```
+
+
+
+### QUERY
+ which player has the best average
+
+Variable `dfs: list[pd.DataFrame]` is already declared.
+
+At the end, declare "result" variable as a dictionary of type and value.
+
+If you are asked to plot a chart, use "matplotlib" for charts, save as png.
+
+
+Generate python code and return full updated code:
+2024-06-29 22:02:33 [INFO] Executing Step 3: CodeGenerator
+2024-06-29 22:02:37 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-29 22:02:37 [INFO] Prompt used:
+            
+<dataframe>
+dfs[0]:107x15
+PlayerName,Duration_in_years,MatchPlayed,Number_of_Innings,NotOut_Count,TotalRuns,HighestScore,Average,Number_of_Balls_Fcaed,Strike_Rate,1OO's_count,50's Count,zero count,fours count,sixers count
+JM Bairstow (ENG),2010-2022,70,145,24,5347,185*,49.84,14372,65.18,23,37,17,592,70
+R Dravid (ICC/IND),1957-1974,112,178,26,9265,280*,42.29,12484,45.64,18,23,15,912,7
+CA Pujara (IND),2010-2024,85,173,32,5138,248*,39.83,7573,59.07,17,24,22,919,20
+</dataframe>
+
+
+
+
+Update this initial code:
+```python
+# TODO: import the required dependencies
+import pandas as pd
+
+# Write code here
+
+# Declare result var: 
+type (possible values "string", "number", "dataframe", "plot"). Examples: { "type": "string", "value": f"The highest salary is {highest_salary}." } or { "type": "number", "value": 125 } or { "type": "dataframe", "value": pd.DataFrame({...}) } or { "type": "plot", "value": "temp_chart.png" }
+
+```
+
+
+
+### QUERY
+ which player has the best average
+
+Variable `dfs: list[pd.DataFrame]` is already declared.
+
+At the end, declare "result" variable as a dictionary of type and value.
+
+If you are asked to plot a chart, use "matplotlib" for charts, save as png.
+
+
+Generate python code and return full updated code:
+            
+2024-06-29 22:02:37 [INFO] Code generated:
+            ```
+            # TODO: import the required dependencies
+import pandas as pd
+
+# Write code here
+
+# Assuming dfs is a list of DataFrames and we are working with the first one
+df = dfs[0]
+
+# Find the player with the best average
+best_average_player = df.loc[df['Average'].idxmax()]
+
+# Prepare the result as a dictionary
+result = {
+    "type": "string",
+    "value": f"The player with the best average is {best_average_player['PlayerName']} with an average of {best_average_player['Average']}."
+}
+
+# This would be the final result to be used elsewhere
+print(result)
+            ```
+            
+2024-06-29 22:02:37 [INFO] Executing Step 4: CachePopulation
+2024-06-29 22:02:37 [INFO] Executing Step 5: CodeCleaning
+2024-06-29 22:02:37 [INFO] 
+Code running:
+```
+df = dfs[0]
+best_average_player = df.loc[df['Average'].idxmax()]
+result = {'type': 'string', 'value': f"The player with the best average is {best_average_player['PlayerName']} with an average of {best_average_player['Average']}."}
+print(result)
+        ```
+2024-06-29 22:02:37 [INFO] Executing Step 6: CodeExecution
+2024-06-29 22:02:37 [INFO] Executing Step 7: ResultValidation
+2024-06-29 22:02:37 [INFO] Answer: {'type': 'string', 'value': 'The player with the best average is DG Bradman (AUS) with an average of 99.94.'}
+2024-06-29 22:02:37 [INFO] Executing Step 8: ResultParsing
+2024-06-29 22:03:03 [INFO] Question: which player hits maximum number of fours
+2024-06-29 22:03:03 [INFO] Running PandasAI with langchain_openai-chat LLM...
+2024-06-29 22:03:03 [INFO] Prompt ID: 368c7392-bc14-416c-a4a1-39ad2bf7f901
+2024-06-29 22:03:03 [INFO] Executing Pipeline: GenerateChatPipeline
+2024-06-29 22:03:03 [INFO] Executing Step 0: ValidatePipelineInput
+2024-06-29 22:03:03 [INFO] Executing Step 1: CacheLookup
+2024-06-29 22:03:03 [INFO] Executing Step 2: PromptGeneration
+2024-06-29 22:03:03 [INFO] Using prompt: <dataframe>
+dfs[0]:107x15
+PlayerName,Duration_in_years,MatchPlayed,Number_of_Innings,NotOut_Count,TotalRuns,HighestScore,Average,Number_of_Balls_Fcaed,Strike_Rate,1OO's_count,50's Count,zero count,fours count,sixers count
+Saleem Malik (PAK),2000-2017,112,206,25,7727,207,51.12,19375,55.22,5,50,6,358,2
+JL Langer (AUS),2009-2024,77,124,10,11174,280*,50.56,7154,49.97,21,30,12,776,22
+SP Fleming (NZ),1990-2007,88,291,32,8765,333,37.82,18573,48.65,31,40,14,659,34
+</dataframe>
+
+
+
+
+Update this initial code:
+```python
+# TODO: import the required dependencies
+import pandas as pd
+
+# Write code here
+
+# Declare result var: 
+type (possible values "string", "number", "dataframe", "plot"). Examples: { "type": "string", "value": f"The highest salary is {highest_salary}." } or { "type": "number", "value": 125 } or { "type": "dataframe", "value": pd.DataFrame({...}) } or { "type": "plot", "value": "temp_chart.png" }
+
+```
+
+
+
+### QUERY
+ which player hits maximum number of fours
+
+Variable `dfs: list[pd.DataFrame]` is already declared.
+
+At the end, declare "result" variable as a dictionary of type and value.
+
+If you are asked to plot a chart, use "matplotlib" for charts, save as png.
+
+
+Generate python code and return full updated code:
+2024-06-29 22:03:03 [INFO] Executing Step 3: CodeGenerator
+2024-06-29 22:03:10 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-29 22:03:10 [INFO] Prompt used:
+            
+<dataframe>
+dfs[0]:107x15
+PlayerName,Duration_in_years,MatchPlayed,Number_of_Innings,NotOut_Count,TotalRuns,HighestScore,Average,Number_of_Balls_Fcaed,Strike_Rate,1OO's_count,50's Count,zero count,fours count,sixers count
+Saleem Malik (PAK),2000-2017,112,206,25,7727,207,51.12,19375,55.22,5,50,6,358,2
+JL Langer (AUS),2009-2024,77,124,10,11174,280*,50.56,7154,49.97,21,30,12,776,22
+SP Fleming (NZ),1990-2007,88,291,32,8765,333,37.82,18573,48.65,31,40,14,659,34
+</dataframe>
+
+
+
+
+Update this initial code:
+```python
+# TODO: import the required dependencies
+import pandas as pd
+
+# Write code here
+
+# Declare result var: 
+type (possible values "string", "number", "dataframe", "plot"). Examples: { "type": "string", "value": f"The highest salary is {highest_salary}." } or { "type": "number", "value": 125 } or { "type": "dataframe", "value": pd.DataFrame({...}) } or { "type": "plot", "value": "temp_chart.png" }
+
+```
+
+
+
+### QUERY
+ which player hits maximum number of fours
+
+Variable `dfs: list[pd.DataFrame]` is already declared.
+
+At the end, declare "result" variable as a dictionary of type and value.
+
+If you are asked to plot a chart, use "matplotlib" for charts, save as png.
+
+
+Generate python code and return full updated code:
+            
+2024-06-29 22:03:10 [INFO] Code generated:
+            ```
+            # TODO: import the required dependencies
+import pandas as pd
+
+# Write code here
+
+# Assuming dfs is already defined and contains our data
+dfs = [
+    pd.DataFrame({
+        "PlayerName": ["Saleem Malik (PAK)", "JL Langer (AUS)", "SP Fleming (NZ)"],
+        "Duration_in_years": ["2000-2017", "2009-2024", "1990-2007"],
+        "MatchPlayed": [112, 77, 88],
+        "Number_of_Innings": [206, 124, 291],
+        "NotOut_Count": [25, 10, 32],
+        "TotalRuns": [7727, 11174, 8765],
+        "HighestScore": ["207", "280*", "333"],
+        "Average": [51.12, 50.56, 37.82],
+        "Number_of_Balls_Fcaed": [19375, 7154, 18573],
+        "Strike_Rate": [55.22, 49.97, 48.65],
+        "1OO's_count": [5, 21, 31],
+        "50's Count": [50, 30, 40],
+        "zero count": [6, 12, 14],
+        "fours count": [358, 776, 659],
+        "sixers count": [2, 22, 34]
+    })
+]
+
+# Extract the dataframe from the list
+df = dfs[0]
+
+# Find the player with the maximum number of fours
+max_fours_player = df.loc[df['fours count'].idxmax(), 'PlayerName']
+
+# Declare result var
+result = {
+    "type": "string",
+    "value": f"The player who hit the maximum number of fours is {max_fours_player}."
+}
+
+# Print the result
+print(result)
+            ```
+            
+2024-06-29 22:03:10 [INFO] Executing Step 4: CachePopulation
+2024-06-29 22:03:10 [INFO] Executing Step 5: CodeCleaning
+2024-06-29 22:03:10 [INFO] 
+Code running:
+```
+df = dfs[0]
+max_fours_player = df.loc[df['fours count'].idxmax(), 'PlayerName']
+result = {'type': 'string', 'value': f'The player who hit the maximum number of fours is {max_fours_player}.'}
+print(result)
+        ```
+2024-06-29 22:03:10 [INFO] Executing Step 6: CodeExecution
+2024-06-29 22:03:10 [INFO] Executing Step 7: ResultValidation
+2024-06-29 22:03:10 [INFO] Answer: {'type': 'string', 'value': 'The player who hit the maximum number of fours is SR Tendulkar (IND).'}
+2024-06-29 22:03:10 [INFO] Executing Step 8: ResultParsing
+2024-06-29 22:03:32 [INFO] Question: which player has maximum number of notouts
+2024-06-29 22:03:32 [INFO] Running PandasAI with langchain_openai-chat LLM...
+2024-06-29 22:03:32 [INFO] Prompt ID: 58963025-25f7-44b5-b019-47566152bf53
+2024-06-29 22:03:32 [INFO] Executing Pipeline: GenerateChatPipeline
+2024-06-29 22:03:32 [INFO] Executing Step 0: ValidatePipelineInput
+2024-06-29 22:03:32 [INFO] Executing Step 1: CacheLookup
+2024-06-29 22:03:32 [INFO] Executing Step 2: PromptGeneration
+2024-06-29 22:03:32 [INFO] Using prompt: <dataframe>
+dfs[0]:107x15
+PlayerName,Duration_in_years,MatchPlayed,Number_of_Innings,NotOut_Count,TotalRuns,HighestScore,Average,Number_of_Balls_Fcaed,Strike_Rate,1OO's_count,50's Count,zero count,fours count,sixers count
+V Kohli (IND),1984-2000,108,280,15,7195,188,45.97,11726,41.56,24,32,20,708,44
+MD Crowe (NZ),2013-2023,134,173,8,5719,275,45.36,16217,52.27,16,23,19,991,41
+MEK Hussey (AUS),2000-2017,61,180,22,5134,302*,43.6,7154,48.06,17,27,7,1046,35
+</dataframe>
+
+
+
+
+Update this initial code:
+```python
+# TODO: import the required dependencies
+import pandas as pd
+
+# Write code here
+
+# Declare result var: 
+type (possible values "string", "number", "dataframe", "plot"). Examples: { "type": "string", "value": f"The highest salary is {highest_salary}." } or { "type": "number", "value": 125 } or { "type": "dataframe", "value": pd.DataFrame({...}) } or { "type": "plot", "value": "temp_chart.png" }
+
+```
+
+
+
+### QUERY
+ which player has maximum number of notouts
+
+Variable `dfs: list[pd.DataFrame]` is already declared.
+
+At the end, declare "result" variable as a dictionary of type and value.
+
+If you are asked to plot a chart, use "matplotlib" for charts, save as png.
+
+
+Generate python code and return full updated code:
+2024-06-29 22:03:32 [INFO] Executing Step 3: CodeGenerator
+2024-06-29 22:03:36 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-29 22:03:36 [INFO] Prompt used:
+            
+<dataframe>
+dfs[0]:107x15
+PlayerName,Duration_in_years,MatchPlayed,Number_of_Innings,NotOut_Count,TotalRuns,HighestScore,Average,Number_of_Balls_Fcaed,Strike_Rate,1OO's_count,50's Count,zero count,fours count,sixers count
+V Kohli (IND),1984-2000,108,280,15,7195,188,45.97,11726,41.56,24,32,20,708,44
+MD Crowe (NZ),2013-2023,134,173,8,5719,275,45.36,16217,52.27,16,23,19,991,41
+MEK Hussey (AUS),2000-2017,61,180,22,5134,302*,43.6,7154,48.06,17,27,7,1046,35
+</dataframe>
+
+
+
+
+Update this initial code:
+```python
+# TODO: import the required dependencies
+import pandas as pd
+
+# Write code here
+
+# Declare result var: 
+type (possible values "string", "number", "dataframe", "plot"). Examples: { "type": "string", "value": f"The highest salary is {highest_salary}." } or { "type": "number", "value": 125 } or { "type": "dataframe", "value": pd.DataFrame({...}) } or { "type": "plot", "value": "temp_chart.png" }
+
+```
+
+
+
+### QUERY
+ which player has maximum number of notouts
+
+Variable `dfs: list[pd.DataFrame]` is already declared.
+
+At the end, declare "result" variable as a dictionary of type and value.
+
+If you are asked to plot a chart, use "matplotlib" for charts, save as png.
+
+
+Generate python code and return full updated code:
+            
+2024-06-29 22:03:36 [INFO] Code generated:
+            ```
+            # TODO: import the required dependencies
+import pandas as pd
+
+# Write code here
+
+# Declare result var: 
+# type (possible values "string", "number", "dataframe", "plot"). Examples: { "type": "string", "value": f"The highest salary is {highest_salary}." } or { "type": "number", "value": 125 } or { "type": "dataframe", "value": pd.DataFrame({...}) } or { "type": "plot", "value": "temp_chart.png" }
+
+# Assuming dfs is a list of DataFrames
+df = dfs[0]
+
+# Find the player with the maximum number of notouts
+max_notout_player = df.loc[df['NotOut_Count'].idxmax()]
+
+result = {
+    "type": "string",
+    "value": f"The player with the maximum number of notouts is {max_notout_player['PlayerName']} with {max_notout_player['NotOut_Count']} notouts."
+}
+            ```
+            
+2024-06-29 22:03:36 [INFO] Executing Step 4: CachePopulation
+2024-06-29 22:03:36 [INFO] Executing Step 5: CodeCleaning
+2024-06-29 22:03:36 [INFO] Saving charts to C:\Users\welcome\OneDrive\Documents\GitHub\LLMtutorial\tutorial98\exports\charts\temp_chart.png
+2024-06-29 22:03:36 [INFO] 
+Code running:
+```
+df = dfs[0]
+max_notout_player = df.loc[df['NotOut_Count'].idxmax()]
+result = {'type': 'string', 'value': f"The player with the maximum number of notouts is {max_notout_player['PlayerName']} with {max_notout_player['NotOut_Count']} notouts."}
+        ```
+2024-06-29 22:03:36 [INFO] Executing Step 6: CodeExecution
+2024-06-29 22:03:36 [INFO] Executing Step 7: ResultValidation
+2024-06-29 22:03:36 [INFO] Answer: {'type': 'string', 'value': 'The player with the maximum number of notouts is S Chanderpaul (WI) with 49 notouts.'}
+2024-06-29 22:03:36 [INFO] Executing Step 8: ResultParsing
+2024-06-29 22:03:41 [INFO] Question: which player has maximum number of notouts
+2024-06-29 22:03:41 [INFO] Running PandasAI with langchain_openai-chat LLM...
+2024-06-29 22:03:41 [INFO] Prompt ID: fece098c-0e9a-428c-9c30-1bd88459f233
+2024-06-29 22:03:41 [INFO] Executing Pipeline: GenerateChatPipeline
+2024-06-29 22:03:41 [INFO] Executing Step 0: ValidatePipelineInput
+2024-06-29 22:03:41 [INFO] Executing Step 1: CacheLookup
+2024-06-29 22:03:41 [INFO] Using cached response
+2024-06-29 22:03:41 [INFO] Executing Step 2: PromptGeneration
+2024-06-29 22:03:41 [INFO] Executing Step 2: Skipping...
+2024-06-29 22:03:41 [INFO] Executing Step 3: CodeGenerator
+2024-06-29 22:03:41 [INFO] Executing Step 3: Skipping...
+2024-06-29 22:03:41 [INFO] Executing Step 4: CachePopulation
+2024-06-29 22:03:41 [INFO] Executing Step 4: Skipping...
+2024-06-29 22:03:41 [INFO] Executing Step 5: CodeCleaning
+2024-06-29 22:03:41 [INFO] Saving charts to C:\Users\welcome\OneDrive\Documents\GitHub\LLMtutorial\tutorial98\exports\charts\temp_chart.png
+2024-06-29 22:03:41 [INFO] 
+Code running:
+```
+df = dfs[0]
+max_notout_player = df.loc[df['NotOut_Count'].idxmax()]
+result = {'type': 'string', 'value': f"The player with the maximum number of notouts is {max_notout_player['PlayerName']} with {max_notout_player['NotOut_Count']} notouts."}
+        ```
+2024-06-29 22:03:41 [INFO] Executing Step 6: CodeExecution
+2024-06-29 22:03:41 [INFO] Executing Step 7: ResultValidation
+2024-06-29 22:03:41 [INFO] Answer: {'type': 'string', 'value': 'The player with the maximum number of notouts is S Chanderpaul (WI) with 49 notouts.'}
+2024-06-29 22:03:41 [INFO] Executing Step 8: ResultParsing
+2024-06-29 22:04:06 [INFO] Question: who scored zero highest number of times?
+2024-06-29 22:04:06 [INFO] Running PandasAI with langchain_openai-chat LLM...
+2024-06-29 22:04:06 [INFO] Prompt ID: f2279f5c-61f0-4a8a-b1b0-511ad199cf58
+2024-06-29 22:04:06 [INFO] Executing Pipeline: GenerateChatPipeline
+2024-06-29 22:04:06 [INFO] Executing Step 0: ValidatePipelineInput
+2024-06-29 22:04:06 [INFO] Executing Step 1: CacheLookup
+2024-06-29 22:04:06 [INFO] Executing Step 2: PromptGeneration
+2024-06-29 22:04:06 [INFO] Using prompt: <dataframe>
+dfs[0]:107x15
+PlayerName,Duration_in_years,MatchPlayed,Number_of_Innings,NotOut_Count,TotalRuns,HighestScore,Average,Number_of_Balls_Fcaed,Strike_Rate,1OO's_count,50's Count,zero count,fours count,sixers count
+SC Ganguly (IND),1982-2000,67,213,22,5949,313,39.54,15456,70.19,5,50,15,742,3
+TT Samaraweera (SL),1964-1982,116,188,2,6806,235,50.66,19753,55.56,36,27,9,719,20
+DA Warner (AUS),1993-2001,107,147,18,5502,380,56.94,8662,39.34,23,30,22,1280,42
+</dataframe>
+
+
+
+
+Update this initial code:
+```python
+# TODO: import the required dependencies
+import pandas as pd
+
+# Write code here
+
+# Declare result var: 
+type (possible values "string", "number", "dataframe", "plot"). Examples: { "type": "string", "value": f"The highest salary is {highest_salary}." } or { "type": "number", "value": 125 } or { "type": "dataframe", "value": pd.DataFrame({...}) } or { "type": "plot", "value": "temp_chart.png" }
+
+```
+
+
+
+### QUERY
+ who scored zero highest number of times?
+
+Variable `dfs: list[pd.DataFrame]` is already declared.
+
+At the end, declare "result" variable as a dictionary of type and value.
+
+If you are asked to plot a chart, use "matplotlib" for charts, save as png.
+
+
+Generate python code and return full updated code:
+2024-06-29 22:04:06 [INFO] Executing Step 3: CodeGenerator
+2024-06-29 22:04:12 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-29 22:04:12 [INFO] Prompt used:
+            
+<dataframe>
+dfs[0]:107x15
+PlayerName,Duration_in_years,MatchPlayed,Number_of_Innings,NotOut_Count,TotalRuns,HighestScore,Average,Number_of_Balls_Fcaed,Strike_Rate,1OO's_count,50's Count,zero count,fours count,sixers count
+SC Ganguly (IND),1982-2000,67,213,22,5949,313,39.54,15456,70.19,5,50,15,742,3
+TT Samaraweera (SL),1964-1982,116,188,2,6806,235,50.66,19753,55.56,36,27,9,719,20
+DA Warner (AUS),1993-2001,107,147,18,5502,380,56.94,8662,39.34,23,30,22,1280,42
+</dataframe>
+
+
+
+
+Update this initial code:
+```python
+# TODO: import the required dependencies
+import pandas as pd
+
+# Write code here
+
+# Declare result var: 
+type (possible values "string", "number", "dataframe", "plot"). Examples: { "type": "string", "value": f"The highest salary is {highest_salary}." } or { "type": "number", "value": 125 } or { "type": "dataframe", "value": pd.DataFrame({...}) } or { "type": "plot", "value": "temp_chart.png" }
+
+```
+
+
+
+### QUERY
+ who scored zero highest number of times?
+
+Variable `dfs: list[pd.DataFrame]` is already declared.
+
+At the end, declare "result" variable as a dictionary of type and value.
+
+If you are asked to plot a chart, use "matplotlib" for charts, save as png.
+
+
+Generate python code and return full updated code:
+            
+2024-06-29 22:04:12 [INFO] Code generated:
+            ```
+            # TODO: import the required dependencies
+import pandas as pd
+
+# Write code here
+
+# Declare result var: 
+# type (possible values "string", "number", "dataframe", "plot").
+# Examples: { "type": "string", "value": f"The highest salary is {highest_salary}." }
+# or { "type": "number", "value": 125 }
+# or { "type": "dataframe", "value": pd.DataFrame({...}) }
+# or { "type": "plot", "value": "temp_chart.png" }
+
+# Assuming dfs is a list of DataFrames
+df = dfs[0]
+
+# Find the player who scored zero the highest number of times
+player_with_most_zeros = df.loc[df['zero count'].idxmax()]
+
+result = {
+    "type": "string",
+    "value": f"The player who scored zero the highest number of times is {player_with_most_zeros['PlayerName']} with {player_with_most_zeros['zero count']} zeros."
+}
+            ```
+            
+2024-06-29 22:04:12 [INFO] Executing Step 4: CachePopulation
+2024-06-29 22:04:12 [INFO] Executing Step 5: CodeCleaning
+2024-06-29 22:04:12 [INFO] Saving charts to C:\Users\welcome\OneDrive\Documents\GitHub\LLMtutorial\tutorial98\exports\charts\temp_chart.png
+2024-06-29 22:04:12 [INFO] 
+Code running:
+```
+df = dfs[0]
+player_with_most_zeros = df.loc[df['zero count'].idxmax()]
+result = {'type': 'string', 'value': f"The player who scored zero the highest number of times is {player_with_most_zeros['PlayerName']} with {player_with_most_zeros['zero count']} zeros."}
+        ```
+2024-06-29 22:04:12 [INFO] Executing Step 6: CodeExecution
+2024-06-29 22:04:12 [INFO] Executing Step 7: ResultValidation
+2024-06-29 22:04:12 [INFO] Answer: {'type': 'string', 'value': 'The player who scored zero the highest number of times is SR Waugh (AUS) with 22 zeros.'}
+2024-06-29 22:04:12 [INFO] Executing Step 8: ResultParsing
+2024-06-29 22:04:38 [INFO] Question: who played longest duration in years?
+2024-06-29 22:04:39 [INFO] Running PandasAI with langchain_openai-chat LLM...
+2024-06-29 22:04:39 [INFO] Prompt ID: 955f5b03-5105-4b28-85f7-ca696f2e4dfc
+2024-06-29 22:04:39 [INFO] Executing Pipeline: GenerateChatPipeline
+2024-06-29 22:04:39 [INFO] Executing Step 0: ValidatePipelineInput
+2024-06-29 22:04:39 [INFO] Executing Step 1: CacheLookup
+2024-06-29 22:04:39 [INFO] Executing Step 2: PromptGeneration
+2024-06-29 22:04:39 [INFO] Using prompt: <dataframe>
+dfs[0]:107x15
+PlayerName,Duration_in_years,MatchPlayed,Number_of_Innings,NotOut_Count,TotalRuns,HighestScore,Average,Number_of_Balls_Fcaed,Strike_Rate,1OO's_count,50's Count,zero count,fours count,sixers count
+IVA Richards (WI),1948-1963,104,191,49,7214,208,35.48,14693,47.77,22,45,22,1082,107
+GP Thorpe (ENG),1998-2010,70,214,12,7212,153*,39.02,19375,46.79,5,38,16,755,14
+SM Gavaskar (IND),1983-1995,81,209,29,7608,242*,42.69,19753,37.23,4,28,15,694,15
+</dataframe>
+
+
+
+
+Update this initial code:
+```python
+# TODO: import the required dependencies
+import pandas as pd
+
+# Write code here
+
+# Declare result var: 
+type (possible values "string", "number", "dataframe", "plot"). Examples: { "type": "string", "value": f"The highest salary is {highest_salary}." } or { "type": "number", "value": 125 } or { "type": "dataframe", "value": pd.DataFrame({...}) } or { "type": "plot", "value": "temp_chart.png" }
+
+```
+
+
+
+### QUERY
+ who played longest duration in years?
+
+Variable `dfs: list[pd.DataFrame]` is already declared.
+
+At the end, declare "result" variable as a dictionary of type and value.
+
+If you are asked to plot a chart, use "matplotlib" for charts, save as png.
+
+
+Generate python code and return full updated code:
+2024-06-29 22:04:39 [INFO] Executing Step 3: CodeGenerator
+2024-06-29 22:04:46 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-29 22:04:46 [INFO] Prompt used:
+            
+<dataframe>
+dfs[0]:107x15
+PlayerName,Duration_in_years,MatchPlayed,Number_of_Innings,NotOut_Count,TotalRuns,HighestScore,Average,Number_of_Balls_Fcaed,Strike_Rate,1OO's_count,50's Count,zero count,fours count,sixers count
+IVA Richards (WI),1948-1963,104,191,49,7214,208,35.48,14693,47.77,22,45,22,1082,107
+GP Thorpe (ENG),1998-2010,70,214,12,7212,153*,39.02,19375,46.79,5,38,16,755,14
+SM Gavaskar (IND),1983-1995,81,209,29,7608,242*,42.69,19753,37.23,4,28,15,694,15
+</dataframe>
+
+
+
+
+Update this initial code:
+```python
+# TODO: import the required dependencies
+import pandas as pd
+
+# Write code here
+
+# Declare result var: 
+type (possible values "string", "number", "dataframe", "plot"). Examples: { "type": "string", "value": f"The highest salary is {highest_salary}." } or { "type": "number", "value": 125 } or { "type": "dataframe", "value": pd.DataFrame({...}) } or { "type": "plot", "value": "temp_chart.png" }
+
+```
+
+
+
+### QUERY
+ who played longest duration in years?
+
+Variable `dfs: list[pd.DataFrame]` is already declared.
+
+At the end, declare "result" variable as a dictionary of type and value.
+
+If you are asked to plot a chart, use "matplotlib" for charts, save as png.
+
+
+Generate python code and return full updated code:
+            
+2024-06-29 22:04:46 [INFO] Code generated:
+            ```
+            # TODO: import the required dependencies
+import pandas as pd
+
+# Write code here
+
+# Assuming dfs is a list of dataframes
+dfs = [pd.DataFrame({
+    'PlayerName': ['IVA Richards (WI)', 'GP Thorpe (ENG)', 'SM Gavaskar (IND)'],
+    'Duration_in_years': ['1948-1963', '1998-2010', '1983-1995'],
+    'MatchPlayed': [104, 70, 81],
+    'Number_of_Innings': [191, 214, 209],
+    'NotOut_Count': [49, 12, 29],
+    'TotalRuns': [7214, 7212, 7608],
+    'HighestScore': ['208', '153*', '242*'],
+    'Average': [35.48, 39.02, 42.69],
+    'Number_of_Balls_Fcaed': [14693, 19375, 19753],
+    'Strike_Rate': [47.77, 46.79, 37.23],
+    '1OO\'s_count': [22, 5, 4],
+    '50\'s Count': [45, 38, 28],
+    'zero count': [22, 16, 15],
+    'fours count': [1082, 755, 694],
+    'sixers count': [107, 14, 15]
+})]
+
+# Calculate duration in years
+dfs[0]['Duration_in_years_int'] = dfs[0]['Duration_in_years'].apply(lambda x: int(x.split('-')[1]) - int(x.split('-')[0]))
+
+# Find the player with the longest duration in years
+longest_duration_player = dfs[0].loc[dfs[0]['Duration_in_years_int'].idxmax()]
+
+# Declare result var
+result = {
+    "type": "string",
+    "value": f"The player who played the longest duration in years is {longest_duration_player['PlayerName']} with {longest_duration_player['Duration_in_years_int']} years."
+}
+
+# Print result for verification
+print(result)
+            ```
+            
+2024-06-29 22:04:46 [INFO] Executing Step 4: CachePopulation
+2024-06-29 22:04:46 [INFO] Executing Step 5: CodeCleaning
+2024-06-29 22:04:46 [INFO] 
+Code running:
+```
+dfs[0]['Duration_in_years_int'] = dfs[0]['Duration_in_years'].apply(lambda x: int(x.split('-')[1]) - int(x.split('-')[0]))
+longest_duration_player = dfs[0].loc[dfs[0]['Duration_in_years_int'].idxmax()]
+result = {'type': 'string', 'value': f"The player who played the longest duration in years is {longest_duration_player['PlayerName']} with {longest_duration_player['Duration_in_years_int']} years."}
+print(result)
+        ```
+2024-06-29 22:04:46 [INFO] Executing Step 6: CodeExecution
+2024-06-29 22:04:46 [INFO] Executing Step 7: ResultValidation
+2024-06-29 22:04:46 [INFO] Answer: {'type': 'string', 'value': 'The player who played the longest duration in years is SR Tendulkar (IND) with 24 years.'}
+2024-06-29 22:04:46 [INFO] Executing Step 8: ResultParsing

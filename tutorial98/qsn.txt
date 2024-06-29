@@ -1,0 +1,5 @@
+which player has the best average
+which player hits maximum number of fours
+which player has maximum number of notouts
+who scored zero highest number of times?
+who played longest duration in years?
