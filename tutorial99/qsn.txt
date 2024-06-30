@@ -1,0 +1,8 @@
+which student has the registration number REG7878
+give me the count of students who are part of department Electrical Engineering
+give me the count of students who are part of department Electrical Engineering,also give their name and registration number
+which university has maximum students
+car number BMW6104 belongs to whom
+who all owns model BMW X1 write their names ?
+which car model sold maximum number of times
+what is the car_no  of the highest priced car and who owns it , write the price 

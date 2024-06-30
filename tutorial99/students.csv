@@ -1,0 +1,501 @@
+name,registration_no,university,passingyear,department,grade
+John Williams,REG7878,Columbia,2021,Mathematics,D
+Sarah Taylor,REG9414,Harvard,2024,Computer Science,B
+Emily Miller,REG6865,Oxford,2020,Mechanical Engineering,A
+Laura Smith,REG8184,MIT,2023,Business Administration,C
+Michael Johnson,REG8164,Yale,2020,Biology,A
+Chris Davis,REG1069,Caltech,2022,Civil Engineering,A
+Sarah Brown,REG3998,Caltech,2024,Mathematics,F
+Sarah Jones,REG5038,Yale,2023,Chemistry,F
+David Moore,REG9169,MIT,2024,Biology,B
+Emily Miller,REG5901,Columbia,2023,Civil Engineering,A
+Alex Davis,REG7734,Oxford,2021,Economics,A
+Sarah Williams,REG9268,Columbia,2021,Electrical Engineering,D
+Jane Jones,REG7733,Cambridge,2023,Mathematics,B
+Sarah Williams,REG5373,Caltech,2020,Biology,A
+Chris Taylor,REG2291,MIT,2023,Civil Engineering,B
+Sarah Johnson,REG7220,Yale,2022,Physics,F
+Michael Brown,REG6456,Cambridge,2021,Mathematics,C
+Sarah Williams,REG3927,Stanford,2021,Mathematics,C
+Katie Moore,REG7996,Caltech,2021,Computer Science,C
+John Taylor,REG7245,Caltech,2023,Mathematics,A
+Michael Moore,REG2041,Harvard,2022,Chemistry,B
+Sarah Taylor,REG1607,MIT,2021,Physics,D
+Alex Davis,REG6114,Cambridge,2024,Mathematics,B
+John Brown,REG6086,Cambridge,2023,Mechanical Engineering,F
+Jane Miller,REG7558,Stanford,2021,Computer Science,A
+Alex Smith,REG8262,Harvard,2020,Mechanical Engineering,F
+Michael Taylor,REG1978,Yale,2023,Mechanical Engineering,B
+Emily Brown,REG7569,Harvard,2024,Chemistry,A
+Chris Wilson,REG5726,Berkeley,2020,Mechanical Engineering,B
+Katie Williams,REG2355,Columbia,2021,Electrical Engineering,C
+Katie Smith,REG7097,Oxford,2023,Economics,A
+David Jones,REG2028,Cambridge,2021,Economics,F
+Jane Miller,REG3292,Harvard,2024,Economics,B
+Alex Williams,REG1378,Stanford,2023,Civil Engineering,F
+Emily Taylor,REG9519,Cambridge,2021,Electrical Engineering,D
+Emily Davis,REG7748,Yale,2023,Mathematics,D
+David Davis,REG8493,Caltech,2024,Physics,B
+Laura Jones,REG3813,Yale,2022,Biology,D
+Sarah Johnson,REG9584,Berkeley,2020,Mechanical Engineering,D
+Jane Johnson,REG9518,Yale,2021,Physics,C
+David Moore,REG6523,Cambridge,2024,Computer Science,D
+Emily Taylor,REG8489,Princeton,2021,Chemistry,F
+Jane Wilson,REG1751,Stanford,2022,Electrical Engineering,A
+Michael Williams,REG8356,MIT,2024,Economics,B
+Alex Taylor,REG3481,Princeton,2023,Chemistry,F
+Chris Johnson,REG8721,Berkeley,2022,Mathematics,B
+Chris Davis,REG4167,MIT,2024,Physics,D
+Michael Taylor,REG9602,Cambridge,2022,Physics,C
+Emily Wilson,REG4771,MIT,2021,Business Administration,D
+Chris Miller,REG3785,Cambridge,2020,Computer Science,A
+Sarah Taylor,REG6319,Harvard,2020,Economics,B
+Sarah Taylor,REG2298,Cambridge,2024,Computer Science,A
+Katie Williams,REG2071,MIT,2022,Biology,B
+Chris Johnson,REG1365,Oxford,2021,Physics,F
+Sarah Williams,REG5030,MIT,2023,Economics,D
+Alex Williams,REG4083,Cambridge,2022,Business Administration,C
+John Taylor,REG3249,Columbia,2024,Business Administration,F
+Chris Jones,REG5407,Berkeley,2023,Economics,B
+Sarah Taylor,REG4851,MIT,2021,Mathematics,C
+Alex Moore,REG6905,Caltech,2022,Mechanical Engineering,F
+Sarah Miller,REG7122,Cambridge,2020,Computer Science,B
+Chris Smith,REG7549,Yale,2023,Economics,B
+Laura Moore,REG9409,Berkeley,2020,Biology,F
+David Smith,REG5613,Caltech,2020,Chemistry,F
+John Williams,REG4127,Caltech,2021,Computer Science,A
+Chris Moore,REG3097,Columbia,2020,Physics,A
+Chris Jones,REG8139,Berkeley,2020,Chemistry,A
+Jane Wilson,REG3538,MIT,2023,Computer Science,F
+Katie Johnson,REG7939,Oxford,2021,Economics,D
+David Taylor,REG6758,Oxford,2023,Electrical Engineering,F
+Katie Williams,REG2562,Oxford,2021,Mechanical Engineering,D
+Sarah Taylor,REG2541,Cambridge,2024,Civil Engineering,A
+Sarah Davis,REG4828,Stanford,2020,Electrical Engineering,D
+Jane Miller,REG5926,Berkeley,2024,Mechanical Engineering,B
+Jane Taylor,REG8228,MIT,2024,Physics,A
+Laura Taylor,REG4930,Stanford,2024,Civil Engineering,D
+Chris Jones,REG9313,Stanford,2024,Chemistry,B
+David Taylor,REG2041,Princeton,2022,Electrical Engineering,A
+Katie Davis,REG1766,Princeton,2022,Economics,F
+Jane Brown,REG1286,Princeton,2021,Biology,D
+Jane Taylor,REG7795,Harvard,2023,Economics,D
+John Davis,REG2657,Harvard,2022,Mathematics,B
+Sarah Davis,REG3757,Stanford,2021,Computer Science,D
+John Miller,REG5999,Princeton,2024,Electrical Engineering,F
+Chris Miller,REG7555,Oxford,2023,Mechanical Engineering,C
+Katie Williams,REG9679,MIT,2024,Electrical Engineering,C
+Emily Taylor,REG8100,MIT,2023,Physics,D
+Michael Williams,REG4472,Princeton,2020,Electrical Engineering,D
+Jane Wilson,REG5259,Stanford,2023,Biology,B
+Jane Johnson,REG5351,Caltech,2020,Computer Science,F
+Laura Jones,REG4504,Stanford,2022,Mathematics,B
+Michael Miller,REG5548,MIT,2021,Business Administration,A
+Alex Wilson,REG4031,Columbia,2024,Electrical Engineering,C
+Alex Miller,REG2473,Caltech,2020,Electrical Engineering,A
+Katie Brown,REG6923,Harvard,2020,Computer Science,F
+Chris Johnson,REG2089,Columbia,2020,Computer Science,B
+Emily Smith,REG1842,Caltech,2023,Physics,C
+David Williams,REG8106,Oxford,2022,Electrical Engineering,D
+Laura Wilson,REG6798,Stanford,2022,Computer Science,F
+Alex Moore,REG2808,Harvard,2023,Mathematics,C
+Michael Williams,REG4613,Berkeley,2020,Chemistry,A
+Alex Wilson,REG6398,Caltech,2020,Civil Engineering,B
+John Johnson,REG6661,Oxford,2024,Physics,D
+John Wilson,REG1607,Oxford,2021,Mechanical Engineering,B
+Emily Moore,REG1655,Yale,2024,Physics,C
+Katie Wilson,REG2509,Stanford,2020,Business Administration,A
+Sarah Davis,REG6484,Yale,2023,Mathematics,B
+Laura Williams,REG1616,Princeton,2021,Biology,C
+Katie Johnson,REG8069,Yale,2020,Biology,D
+Sarah Wilson,REG1590,Caltech,2020,Electrical Engineering,F
+Emily Moore,REG7376,Caltech,2024,Mathematics,A
+Katie Moore,REG7910,Berkeley,2024,Chemistry,D
+Michael Davis,REG2479,Cambridge,2020,Physics,C
+Emily Williams,REG2677,MIT,2022,Biology,F
+Alex Wilson,REG8916,Caltech,2020,Electrical Engineering,B
+Laura Smith,REG1435,Columbia,2024,Mechanical Engineering,D
+John Miller,REG4686,Columbia,2022,Biology,C
+Chris Moore,REG5124,MIT,2024,Business Administration,D
+Chris Moore,REG3165,Princeton,2023,Computer Science,A
+David Williams,REG4263,Caltech,2023,Mathematics,C
+John Wilson,REG2713,Caltech,2024,Economics,C
+John Smith,REG3075,Princeton,2020,Civil Engineering,F
+Jane Brown,REG6233,Oxford,2021,Biology,C
+Chris Miller,REG4264,Cambridge,2021,Computer Science,B
+Katie Wilson,REG8291,Columbia,2021,Chemistry,D
+Laura Brown,REG3667,Caltech,2021,Business Administration,B
+Michael Miller,REG5461,Cambridge,2020,Mathematics,B
+Alex Jones,REG7566,Columbia,2023,Mathematics,B
+John Brown,REG2684,Yale,2023,Business Administration,B
+Sarah Jones,REG2408,Berkeley,2020,Mathematics,F
+Laura Davis,REG2346,Cambridge,2022,Business Administration,D
+Laura Davis,REG8171,Cambridge,2022,Mathematics,F
+Jane Williams,REG7711,Berkeley,2023,Mechanical Engineering,A
+Katie Jones,REG7765,Oxford,2020,Mathematics,B
+Michael Davis,REG7925,Berkeley,2022,Physics,C
+Alex Johnson,REG9190,Cambridge,2021,Electrical Engineering,A
+David Jones,REG9376,Stanford,2022,Mechanical Engineering,C
+John Smith,REG5535,Berkeley,2020,Computer Science,D
+Laura Williams,REG2933,Princeton,2023,Chemistry,C
+Laura Jones,REG4028,Columbia,2022,Biology,C
+Emily Williams,REG9409,Stanford,2021,Computer Science,B
+Laura Davis,REG5891,Columbia,2023,Mechanical Engineering,C
+Emily Jones,REG7923,Stanford,2021,Mechanical Engineering,F
+Alex Brown,REG4446,Stanford,2023,Business Administration,D
+David Miller,REG5421,Berkeley,2023,Business Administration,B
+Michael Jones,REG5958,Yale,2020,Mathematics,A
+Sarah Wilson,REG4780,Oxford,2022,Mechanical Engineering,C
+Laura Miller,REG4455,MIT,2022,Business Administration,B
+Chris Miller,REG5659,Princeton,2020,Economics,A
+Alex Jones,REG6046,Cambridge,2022,Economics,C
+Michael Brown,REG3837,Harvard,2023,Physics,A
+Alex Moore,REG5388,Harvard,2020,Electrical Engineering,B
+David Taylor,REG9037,Caltech,2022,Physics,F
+Emily Davis,REG6368,Stanford,2021,Civil Engineering,B
+Alex Miller,REG6410,Cambridge,2020,Electrical Engineering,B
+John Moore,REG2502,Berkeley,2023,Civil Engineering,C
+Katie Smith,REG9054,Columbia,2021,Mechanical Engineering,F
+David Brown,REG2633,Columbia,2024,Physics,D
+David Davis,REG7476,MIT,2020,Electrical Engineering,C
+David Miller,REG5767,Caltech,2022,Civil Engineering,A
+Alex Jones,REG2639,Berkeley,2021,Mechanical Engineering,C
+Michael Taylor,REG9732,Cambridge,2022,Civil Engineering,B
+Chris Smith,REG1698,Yale,2021,Civil Engineering,C
+David Williams,REG3019,MIT,2020,Economics,A
+Michael Moore,REG1902,Cambridge,2020,Civil Engineering,B
+Emily Jones,REG9844,Columbia,2020,Mechanical Engineering,D
+Jane Johnson,REG1407,Stanford,2023,Economics,D
+Alex Moore,REG2649,Princeton,2021,Biology,F
+Alex Williams,REG7122,Princeton,2023,Chemistry,D
+Sarah Moore,REG1189,Harvard,2020,Mathematics,C
+Emily Brown,REG8454,Princeton,2021,Mathematics,B
+Michael Brown,REG4818,Princeton,2023,Chemistry,F
+Jane Davis,REG2035,Yale,2024,Civil Engineering,B
+Michael Moore,REG1366,Harvard,2024,Economics,D
+Katie Smith,REG2173,Berkeley,2020,Electrical Engineering,F
+Michael Moore,REG2914,Cambridge,2024,Mechanical Engineering,F
+Katie Davis,REG7485,Yale,2023,Economics,F
+Laura Williams,REG8311,Stanford,2023,Computer Science,D
+Laura Taylor,REG8283,Caltech,2020,Computer Science,B
+Emily Taylor,REG6369,Berkeley,2023,Physics,D
+Katie Brown,REG1018,MIT,2020,Business Administration,A
+Sarah Miller,REG3854,MIT,2024,Civil Engineering,C
+Alex Jones,REG1949,Cambridge,2021,Biology,C
+Jane Moore,REG6895,Berkeley,2022,Chemistry,C
+Jane Smith,REG2500,Harvard,2021,Business Administration,C
+Chris Williams,REG8520,MIT,2023,Mechanical Engineering,C
+Emily Moore,REG8903,Cambridge,2024,Physics,C
+Michael Davis,REG2310,Cambridge,2024,Computer Science,D
+Katie Moore,REG4751,Cambridge,2024,Business Administration,C
+Laura Davis,REG3126,Oxford,2021,Biology,C
+Katie Moore,REG5558,Columbia,2024,Physics,A
+Jane Wilson,REG1247,Harvard,2020,Biology,A
+Emily Moore,REG4396,Stanford,2024,Computer Science,F
+Emily Miller,REG4349,Berkeley,2023,Mathematics,B
+Laura Johnson,REG6035,Harvard,2023,Mathematics,C
+Michael Wilson,REG6027,Oxford,2024,Economics,C
+Alex Williams,REG2802,Yale,2020,Economics,F
+Katie Johnson,REG1781,Cambridge,2020,Business Administration,D
+Michael Miller,REG8271,Cambridge,2024,Electrical Engineering,D
+John Brown,REG6090,Cambridge,2023,Mechanical Engineering,C
+John Brown,REG7844,Berkeley,2024,Mathematics,D
+Michael Brown,REG1685,Harvard,2020,Mechanical Engineering,D
+Chris Wilson,REG5767,Caltech,2023,Mechanical Engineering,F
+Alex Jones,REG8223,Cambridge,2021,Mechanical Engineering,A
+Emily Jones,REG7392,Caltech,2022,Computer Science,F
+Alex Smith,REG3988,Caltech,2020,Chemistry,B
+Laura Davis,REG2823,Columbia,2024,Business Administration,D
+Michael Brown,REG1652,Oxford,2020,Civil Engineering,A
+Jane Williams,REG8650,Yale,2023,Mechanical Engineering,A
+David Wilson,REG1908,Oxford,2020,Mathematics,F
+Katie Williams,REG2090,Yale,2022,Electrical Engineering,F
+Sarah Smith,REG2895,Caltech,2022,Mechanical Engineering,D
+Jane Moore,REG5964,Princeton,2021,Mechanical Engineering,A
+John Wilson,REG8143,Caltech,2021,Chemistry,D
+Emily Taylor,REG9725,Columbia,2024,Electrical Engineering,B
+Emily Williams,REG6489,Princeton,2021,Mechanical Engineering,A
+Alex Wilson,REG3840,MIT,2022,Civil Engineering,D
+Michael Williams,REG5814,MIT,2020,Economics,B
+Laura Miller,REG5947,Berkeley,2022,Physics,C
+Katie Jones,REG9970,Caltech,2021,Chemistry,C
+Alex Smith,REG5996,Harvard,2024,Biology,F
+Emily Taylor,REG9785,Oxford,2024,Mechanical Engineering,F
+Sarah Smith,REG1374,Cambridge,2022,Mechanical Engineering,D
+Katie Johnson,REG1763,Harvard,2022,Civil Engineering,A
+Sarah Williams,REG3883,MIT,2024,Biology,F
+Sarah Brown,REG5410,Stanford,2020,Electrical Engineering,C
+Michael Brown,REG6621,Columbia,2021,Business Administration,D
+Alex Miller,REG3285,Harvard,2021,Business Administration,F
+Alex Moore,REG4903,Oxford,2021,Electrical Engineering,F
+Sarah Jones,REG2544,Oxford,2021,Economics,C
+Jane Williams,REG9030,Oxford,2021,Mathematics,F
+Jane Miller,REG3851,Yale,2022,Chemistry,D
+Sarah Miller,REG7087,Cambridge,2023,Economics,C
+Katie Johnson,REG2887,Caltech,2020,Mechanical Engineering,A
+Sarah Smith,REG2719,MIT,2024,Electrical Engineering,B
+Alex Brown,REG4315,Harvard,2024,Physics,C
+Sarah Brown,REG4532,Princeton,2022,Biology,D
+Chris Smith,REG2879,Yale,2022,Economics,F
+Chris Smith,REG4442,Stanford,2020,Computer Science,D
+Jane Brown,REG2049,Caltech,2020,Biology,F
+Emily Jones,REG3367,Berkeley,2020,Mathematics,C
+John Brown,REG8044,Oxford,2022,Electrical Engineering,D
+Sarah Williams,REG7429,Oxford,2020,Civil Engineering,F
+David Miller,REG6649,Columbia,2022,Physics,B
+John Miller,REG4771,Yale,2024,Business Administration,F
+Chris Johnson,REG1899,Harvard,2020,Biology,C
+Katie Wilson,REG1330,Caltech,2022,Chemistry,A
+Alex Jones,REG3801,Stanford,2020,Electrical Engineering,D
+Emily Brown,REG1242,Caltech,2021,Civil Engineering,C
+Sarah Johnson,REG8208,Oxford,2020,Physics,A
+Chris Johnson,REG2692,Harvard,2022,Physics,A
+Emily Wilson,REG5909,Cambridge,2023,Biology,C
+Alex Brown,REG9826,Berkeley,2024,Electrical Engineering,C
+Chris Johnson,REG4034,Harvard,2022,Business Administration,C
+Sarah Moore,REG7532,MIT,2024,Computer Science,F
+Chris Davis,REG8631,Oxford,2020,Mechanical Engineering,B
+Laura Johnson,REG8742,Harvard,2023,Electrical Engineering,D
+Emily Brown,REG7548,Princeton,2021,Economics,C
+John Taylor,REG9156,Stanford,2022,Physics,C
+Michael Taylor,REG4479,Harvard,2021,Electrical Engineering,C
+Jane Davis,REG9404,Stanford,2024,Chemistry,B
+John Williams,REG6580,Caltech,2024,Economics,C
+Katie Johnson,REG3913,Stanford,2020,Business Administration,C
+Sarah Moore,REG1169,Caltech,2024,Mechanical Engineering,C
+John Smith,REG9781,Cambridge,2024,Physics,A
+Chris Wilson,REG5653,Stanford,2020,Biology,B
+Sarah Williams,REG7653,Harvard,2024,Business Administration,F
+John Miller,REG9301,MIT,2021,Civil Engineering,F
+Jane Brown,REG3533,Princeton,2020,Mechanical Engineering,A
+Katie Moore,REG7099,Oxford,2022,Chemistry,D
+Sarah Wilson,REG5648,Columbia,2022,Economics,A
+Michael Williams,REG3251,Caltech,2024,Civil Engineering,A
+Katie Johnson,REG5686,Harvard,2021,Chemistry,A
+Chris Taylor,REG9492,Caltech,2021,Business Administration,F
+Sarah Moore,REG1963,Harvard,2023,Chemistry,F
+Laura Davis,REG4201,Stanford,2021,Economics,D
+John Jones,REG6728,Yale,2024,Computer Science,C
+Emily Williams,REG5622,Princeton,2022,Mechanical Engineering,B
+Sarah Miller,REG8213,Yale,2021,Electrical Engineering,A
+David Davis,REG4821,Cambridge,2023,Civil Engineering,B
+Michael Smith,REG6264,Oxford,2020,Economics,A
+John Moore,REG2090,Stanford,2023,Business Administration,B
+Michael Taylor,REG5304,MIT,2022,Chemistry,B
+Michael Williams,REG3965,MIT,2021,Biology,A
+Laura Johnson,REG5559,Cambridge,2021,Chemistry,A
+Jane Johnson,REG9938,MIT,2023,Business Administration,C
+John Taylor,REG3293,MIT,2021,Chemistry,B
+Emily Davis,REG5311,Cambridge,2020,Civil Engineering,A
+Emily Davis,REG3310,Princeton,2023,Mathematics,B
+Sarah Miller,REG3719,Berkeley,2020,Chemistry,D
+John Williams,REG7399,Berkeley,2023,Mechanical Engineering,B
+John Jones,REG4636,MIT,2023,Mathematics,B
+Emily Taylor,REG2588,Yale,2021,Biology,A
+Katie Davis,REG5147,Caltech,2022,Biology,C
+Chris Moore,REG8917,Harvard,2024,Mechanical Engineering,F
+Jane Smith,REG4820,Oxford,2022,Business Administration,F
+Katie Williams,REG6323,Berkeley,2022,Electrical Engineering,B
+Chris Moore,REG3767,Columbia,2020,Electrical Engineering,D
+Emily Johnson,REG6720,Cambridge,2023,Business Administration,A
+Jane Wilson,REG5060,Cambridge,2020,Civil Engineering,C
+John Jones,REG4025,MIT,2021,Computer Science,B
+John Miller,REG2860,Columbia,2021,Biology,C
+David Johnson,REG1867,Princeton,2023,Chemistry,D
+Chris Wilson,REG3504,Columbia,2023,Biology,F
+Emily Johnson,REG5764,Oxford,2021,Computer Science,A
+Katie Jones,REG6433,Princeton,2021,Business Administration,A
+Laura Williams,REG5278,Caltech,2020,Physics,F
+Jane Johnson,REG6196,Columbia,2023,Physics,D
+Katie Smith,REG7991,Caltech,2020,Mechanical Engineering,C
+Laura Williams,REG6654,Berkeley,2023,Economics,D
+Jane Jones,REG7507,Cambridge,2020,Mathematics,A
+Alex Williams,REG1551,Yale,2022,Economics,D
+Michael Smith,REG4841,Berkeley,2021,Physics,B
+Laura Taylor,REG5493,MIT,2020,Business Administration,F
+John Miller,REG7804,Columbia,2021,Economics,D
+John Smith,REG5606,Yale,2022,Mathematics,F
+Emily Miller,REG9091,Yale,2021,Business Administration,B
+David Williams,REG6776,Princeton,2020,Mathematics,B
+David Moore,REG1019,MIT,2023,Mathematics,F
+Jane Johnson,REG3297,Cambridge,2023,Mathematics,F
+Chris Davis,REG7070,Columbia,2022,Mechanical Engineering,B
+Alex Williams,REG1663,MIT,2020,Biology,C
+Michael Taylor,REG7186,Cambridge,2023,Biology,B
+Alex Miller,REG6599,Yale,2020,Chemistry,A
+David Miller,REG6733,Oxford,2021,Biology,B
+Emily Williams,REG7031,MIT,2021,Economics,C
+Jane Taylor,REG7722,Oxford,2023,Economics,D
+Alex Brown,REG8257,Harvard,2022,Mathematics,C
+David Williams,REG8825,Oxford,2023,Economics,F
+John Smith,REG1679,Yale,2020,Economics,C
+Alex Jones,REG3851,Berkeley,2021,Mechanical Engineering,A
+John Smith,REG7290,Cambridge,2023,Computer Science,C
+Laura Johnson,REG5412,Princeton,2024,Chemistry,F
+Jane Johnson,REG8153,Cambridge,2020,Physics,F
+Katie Moore,REG8212,Princeton,2022,Computer Science,A
+Alex Brown,REG9224,MIT,2024,Mathematics,D
+Michael Moore,REG9671,MIT,2021,Mechanical Engineering,C
+Alex Jones,REG9501,Cambridge,2024,Civil Engineering,B
+Alex Williams,REG2051,MIT,2023,Mechanical Engineering,B
+Chris Davis,REG1151,MIT,2020,Economics,D
+Jane Moore,REG9080,Berkeley,2024,Mechanical Engineering,B
+Jane Williams,REG9170,Stanford,2021,Business Administration,D
+Chris Davis,REG5109,Stanford,2023,Economics,F
+Alex Jones,REG4246,MIT,2020,Biology,C
+Sarah Jones,REG7572,Oxford,2023,Mathematics,C
+Jane Taylor,REG1737,Columbia,2021,Mathematics,C
+Katie Williams,REG5366,Harvard,2022,Physics,C
+Laura Jones,REG4849,Oxford,2021,Biology,C
+Alex Davis,REG6754,Princeton,2021,Electrical Engineering,A
+Jane Moore,REG3690,Princeton,2022,Computer Science,D
+John Moore,REG9027,Caltech,2020,Business Administration,D
+Laura Williams,REG4545,MIT,2022,Economics,F
+Chris Davis,REG3070,Harvard,2023,Computer Science,A
+Laura Wilson,REG5528,Harvard,2022,Chemistry,C
+Chris Smith,REG5453,Oxford,2023,Civil Engineering,D
+David Johnson,REG9326,Columbia,2020,Civil Engineering,F
+Jane Brown,REG2751,Stanford,2022,Mechanical Engineering,B
+Jane Wilson,REG2286,Harvard,2021,Mathematics,D
+David Williams,REG3558,Harvard,2022,Mathematics,B
+Katie Jones,REG1558,MIT,2021,Economics,A
+Emily Taylor,REG6156,Stanford,2021,Electrical Engineering,B
+Jane Smith,REG1712,Oxford,2024,Mechanical Engineering,B
+Alex Moore,REG6298,MIT,2023,Civil Engineering,F
+John Johnson,REG5645,Caltech,2023,Electrical Engineering,A
+Emily Smith,REG2994,Cambridge,2021,Business Administration,C
+Katie Davis,REG6653,Stanford,2020,Mechanical Engineering,B
+Sarah Brown,REG3781,Berkeley,2024,Economics,A
+Alex Williams,REG2138,Harvard,2024,Economics,B
+David Davis,REG7817,Stanford,2021,Electrical Engineering,A
+Chris Jones,REG5593,Harvard,2020,Mechanical Engineering,D
+David Taylor,REG2754,Oxford,2023,Biology,C
+Jane Taylor,REG1853,Yale,2021,Electrical Engineering,C
+Alex Johnson,REG3153,Berkeley,2020,Civil Engineering,C
+Sarah Brown,REG5285,Oxford,2023,Physics,B
+John Johnson,REG5970,Harvard,2021,Mathematics,D
+Sarah Johnson,REG9880,Harvard,2020,Chemistry,B
+John Smith,REG2732,Yale,2020,Computer Science,F
+Sarah Brown,REG1743,Cambridge,2021,Mechanical Engineering,C
+Michael Jones,REG8213,Yale,2020,Computer Science,D
+Jane Davis,REG7246,Princeton,2023,Electrical Engineering,F
+Emily Williams,REG6710,Princeton,2022,Computer Science,D
+Michael Johnson,REG9784,Princeton,2024,Economics,C
+David Wilson,REG9202,Harvard,2020,Civil Engineering,F
+Michael Smith,REG4906,Stanford,2020,Economics,C
+Chris Jones,REG3972,Princeton,2021,Business Administration,D
+Alex Brown,REG4471,Cambridge,2024,Chemistry,A
+Sarah Wilson,REG9735,Oxford,2022,Biology,B
+John Jones,REG4362,Columbia,2023,Mathematics,F
+David Williams,REG8526,Berkeley,2021,Business Administration,F
+Jane Moore,REG1651,Berkeley,2022,Electrical Engineering,D
+Sarah Davis,REG1004,Princeton,2020,Mathematics,D
+Jane Taylor,REG6580,Cambridge,2020,Economics,A
+Laura Brown,REG6891,MIT,2021,Biology,F
+David Moore,REG3655,Berkeley,2024,Biology,F
+Jane Johnson,REG9833,Harvard,2023,Biology,B
+David Johnson,REG2223,Princeton,2022,Electrical Engineering,C
+John Wilson,REG8821,Caltech,2021,Mathematics,C
+Emily Johnson,REG7566,Princeton,2023,Computer Science,C
+Alex Brown,REG7490,Stanford,2022,Chemistry,D
+Michael Johnson,REG2406,Berkeley,2021,Mathematics,F
+Jane Brown,REG5890,Berkeley,2020,Civil Engineering,B
+Alex Taylor,REG5512,Yale,2023,Biology,B
+Michael Williams,REG4798,Stanford,2021,Economics,B
+Jane Taylor,REG3813,Columbia,2024,Business Administration,B
+Katie Williams,REG4765,Berkeley,2020,Physics,F
+Emily Williams,REG8155,MIT,2021,Economics,B
+Michael Johnson,REG7630,Columbia,2020,Business Administration,A
+Katie Smith,REG1354,Harvard,2024,Business Administration,F
+Alex Davis,REG1182,MIT,2024,Economics,A
+Katie Miller,REG4767,Cambridge,2022,Business Administration,D
+John Brown,REG4384,Stanford,2022,Physics,B
+Jane Williams,REG9086,MIT,2021,Electrical Engineering,B
+Michael Williams,REG1151,Oxford,2024,Electrical Engineering,A
+Michael Williams,REG9425,Columbia,2021,Business Administration,B
+Emily Taylor,REG9390,Caltech,2020,Chemistry,A
+Alex Miller,REG2055,Cambridge,2021,Business Administration,F
+Sarah Wilson,REG3252,Oxford,2020,Economics,F
+Michael Davis,REG6545,MIT,2020,Civil Engineering,A
+Katie Smith,REG8750,Princeton,2023,Business Administration,D
+Michael Moore,REG6622,Stanford,2024,Mathematics,A
+Laura Williams,REG1395,Columbia,2020,Mechanical Engineering,F
+David Taylor,REG3131,Stanford,2023,Biology,B
+Michael Williams,REG4190,Caltech,2022,Computer Science,B
+Alex Johnson,REG3693,Harvard,2024,Physics,B
+Laura Wilson,REG6566,Berkeley,2020,Mechanical Engineering,A
+Alex Davis,REG9604,Yale,2020,Civil Engineering,D
+Michael Wilson,REG9773,Caltech,2023,Economics,C
+David Miller,REG9690,Princeton,2021,Civil Engineering,B
+Emily Wilson,REG5093,Berkeley,2020,Mathematics,D
+Laura Jones,REG4035,Yale,2020,Physics,C
+Alex Williams,REG4317,Stanford,2023,Physics,F
+Laura Davis,REG3049,Yale,2023,Physics,D
+John Miller,REG3321,Yale,2021,Mechanical Engineering,A
+Emily Brown,REG8441,Yale,2021,Civil Engineering,A
+Chris Jones,REG2824,Oxford,2021,Economics,F
+Katie Davis,REG2375,Caltech,2020,Chemistry,C
+John Wilson,REG5525,Yale,2023,Mechanical Engineering,A
+Michael Miller,REG8034,Cambridge,2022,Biology,D
+Chris Brown,REG4068,Caltech,2023,Biology,D
+Jane Brown,REG9357,Caltech,2020,Mechanical Engineering,A
+Chris Jones,REG7035,Caltech,2023,Biology,A
+David Moore,REG9730,Stanford,2020,Physics,D
+Jane Miller,REG6806,Caltech,2022,Economics,D
+Jane Moore,REG1436,MIT,2024,Mathematics,D
+Jane Brown,REG5549,Stanford,2022,Civil Engineering,A
+Alex Johnson,REG2861,Yale,2023,Economics,A
+John Jones,REG6702,Cambridge,2024,Physics,F
+Michael Jones,REG7397,Columbia,2020,Computer Science,C
+Sarah Wilson,REG7489,Stanford,2023,Mathematics,F
+Emily Davis,REG3934,Stanford,2021,Civil Engineering,D
+Jane Williams,REG6716,Oxford,2024,Computer Science,F
+Chris Moore,REG7751,Cambridge,2023,Mathematics,D
+Michael Smith,REG3412,Columbia,2022,Mechanical Engineering,A
+Laura Brown,REG6290,Berkeley,2024,Chemistry,B
+Jane Miller,REG1939,MIT,2022,Business Administration,F
+Chris Williams,REG4923,Harvard,2023,Computer Science,A
+Jane Wilson,REG8334,Yale,2024,Mathematics,C
+Jane Smith,REG7276,Yale,2023,Mathematics,C
+Laura Brown,REG9097,Cambridge,2022,Mathematics,F
+David Smith,REG2191,MIT,2024,Business Administration,D
+Alex Wilson,REG7352,Berkeley,2022,Civil Engineering,F
+Laura Smith,REG1008,Columbia,2021,Electrical Engineering,B
+Michael Johnson,REG5180,Oxford,2021,Mechanical Engineering,F
+Emily Wilson,REG2392,MIT,2021,Economics,A
+Chris Davis,REG2050,Berkeley,2020,Civil Engineering,C
+Alex Williams,REG6121,Yale,2023,Computer Science,B
+Sarah Williams,REG2657,Yale,2024,Mechanical Engineering,C
+Laura Wilson,REG2183,Stanford,2023,Biology,B
+Emily Johnson,REG3966,Harvard,2021,Computer Science,D
+Laura Moore,REG3958,Stanford,2022,Mathematics,A
+John Miller,REG4710,Stanford,2022,Computer Science,F
+Chris Davis,REG8470,Princeton,2021,Economics,A
+Alex Brown,REG8412,Yale,2024,Mechanical Engineering,F
+Chris Wilson,REG5679,Stanford,2021,Civil Engineering,D
+Sarah Davis,REG6141,Princeton,2020,Civil Engineering,A
+John Taylor,REG8272,Harvard,2021,Economics,C
+Emily Davis,REG8291,Harvard,2022,Mechanical Engineering,B
+Katie Smith,REG5386,MIT,2020,Chemistry,F
+Chris Williams,REG9771,Cambridge,2021,Civil Engineering,F
+Laura Moore,REG5950,Oxford,2024,Chemistry,F
+John Davis,REG6721,Stanford,2021,Electrical Engineering,B
+Alex Miller,REG3647,Princeton,2023,Mathematics,C
+Michael Miller,REG2205,Cambridge,2020,Computer Science,C
+John Smith,REG4104,MIT,2022,Physics,B
+Laura Jones,REG5629,Harvard,2022,Biology,B
+David Moore,REG1363,Harvard,2021,Physics,A
+Sarah Williams,REG1265,Cambridge,2020,Computer Science,B
+David Brown,REG3334,Yale,2024,Economics,C
+Alex Williams,REG4519,Oxford,2021,Mathematics,B
+John Smith,REG2341,Yale,2024,Civil Engineering,B
+John Davis,REG5612,Princeton,2020,Computer Science,C
+Emily Smith,REG2458,MIT,2020,Chemistry,C
+Michael Jones,REG3083,Yale,2023,Chemistry,C
+Emily Jones,REG8716,MIT,2022,Mechanical Engineering,A
+David Williams,REG4568,Oxford,2022,Electrical Engineering,C
+Alex Davis,REG6047,Oxford,2021,Business Administration,B
+Emily Smith,REG4668,Oxford,2020,Biology,A
+Katie Wilson,REG6121,Stanford,2023,Civil Engineering,A
+John Williams,REG6330,Oxford,2022,Electrical Engineering,F
+Michael Williams,REG8008,Columbia,2022,Biology,F
