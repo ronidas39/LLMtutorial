@@ -1,0 +1,51 @@
+Question,Answer
+What is an algorithm?,A step-by-step set of operations to solve a problem or perform a task.
+What is a variable in programming?,A variable is a symbolic name associated with a value and whose associated value may be changed.
+What is the function of the CPU?,"The CPU, or Central Processing Unit, is responsible for executing instructions and processing data in a computer."
+What is a loop in programming?,A loop is a control structure that repeats a block of code while a condition is true or until a condition is met.
+What is binary code?,"Binary code is the representation of data using a base-2 numeral system, consisting of only 0s and 1s."
+What is the purpose of an operating system?,An operating system manages computer hardware and software resources and provides services for computer programs.
+What is the difference between hardware and software?,"Hardware refers to the physical components of a computer, while software is the collection of programs that run on it."
+What is a database?,"A database is an organized collection of data, generally stored and accessed electronically from a computer system."
+What is object-oriented programming (OOP)?,"OOP is a programming paradigm based on the concept of objects, which can contain data and code that manipulates the data."
+What is the difference between a compiler and an interpreter?,"A compiler translates the entire code into machine code before execution, while an interpreter translates and executes code line by line."
+What is a function in programming?,A function is a block of code designed to perform a specific task when called.
+What is recursion?,Recursion is a programming technique where a function calls itself to solve a smaller instance of a problem.
+What is an array?,"An array is a data structure that can hold a collection of values, typically of the same type, at contiguous memory locations."
+What is a data type?,"A data type is a classification that specifies the type of data that a variable can hold, such as integers, floats, and strings."
+What is an IDE?,"An IDE, or Integrated Development Environment, is a software application that provides comprehensive facilities to programmers for software development."
+What is a loop counter?,A loop counter is a variable that keeps track of the number of iterations in a loop.
+What is a syntax error?,A syntax error is a mistake in the source code that makes it impossible to parse or compile.
+What is a logic error?,A logic error is a bug in the program that causes it to operate incorrectly but does not prevent it from running.
+What is debugging?,Debugging is the process of finding and fixing errors or bugs in a program.
+What is source code?,Source code is the set of instructions and statements written by a programmer using a programming language.
+What is pseudocode?,Pseudocode is an informal way of writing algorithms that combines elements of programming and human language.
+What is a conditional statement?,A conditional statement is a feature that performs different actions based on whether a condition is true or false.
+What is a boolean value?,A boolean value is a data type that can be either true or false.
+What is a flowchart?,"A flowchart is a diagram that represents an algorithm or process, showing the steps as boxes connected by arrows."
+What is an exception?,An exception is an event that occurs during the execution of a program that disrupts its normal flow.
+What is inheritance in OOP?,Inheritance is a feature in OOP where one class can inherit attributes and methods from another class.
+What is encapsulation?,"Encapsulation is the concept of wrapping data and the methods that operate on the data within a single unit, typically a class."
+What is a class in OOP?,"A class is a blueprint for creating objects, providing initial values for state and implementations of behavior."
+What is a constructor?,A constructor is a special method in a class that is called when an object is instantiated.
+What is a pointer?,A pointer is a variable that stores the memory address of another variable.
+What is memory allocation?,Memory allocation is the process of reserving a block of memory for use by a program.
+What is a stack?,"A stack is a data structure that follows the Last In, First Out (LIFO) principle."
+What is a queue?,"A queue is a data structure that follows the First In, First Out (FIFO) principle."
+What is a linked list?,"A linked list is a data structure consisting of nodes, where each node contains data and a reference to the next node."
+What is a sorting algorithm?,"A sorting algorithm is a method for arranging elements in a list in a specific order, such as ascending or descending."
+What is Big O notation?,Big O notation is a mathematical representation of the time and space complexity of an algorithm.
+What is a search algorithm?,A search algorithm is a method for finding an item in a collection of items.
+What is a hash function?,"A hash function is a function that converts input data of any size into a fixed-size value, often used in hashing algorithms."
+What is an API?,"An API, or Application Programming Interface, allows different software applications to communicate with each other."
+What is cloud computing?,"Cloud computing is the delivery of computing services over the internet, including storage, processing, and databases."
+What is machine learning?,Machine learning is a subset of AI that involves training algorithms to learn patterns from data and make predictions.
+What is a chatbot?,A chatbot is an AI-based program that can simulate conversations with users through text or voice.
+What is encryption?,Encryption is the process of converting data into a coded form to prevent unauthorized access.
+What is cybersecurity?,Cybersecurity is the practice of protecting computer systems and networks from digital attacks.
+What is a network protocol?,A network protocol is a set of rules that define how data is transmitted and received over a network.
+What is TCP/IP?,TCP/IP is a set of communication protocols used to interconnect network devices on the internet.
+What is a firewall?,A firewall is a network security system that monitors and controls incoming and outgoing network traffic.
+What is the Internet of Things (IoT)?,The Internet of Things (IoT) is a system of interconnected devices that can communicate and exchange data.
+What is artificial intelligence (AI)?,AI is the simulation of human intelligence in machines that are programmed to think and learn.
+What is a neural network?,A neural network is a series of algorithms that mimic the operations of a human brain to recognize relationships between data.
