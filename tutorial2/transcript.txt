@@ -1,1 +1,122 @@
-[Music] [Music] what's up guys this is Ronnie welcome back to our Channel Total technology Zone this is tutorial 26 and today's topic will be how to chat with Wikipedia page using Lama index okay so in this tutorial we will learn how to integrate with Wikipedia when I say integrate uh it means uh with this technique or with this method you can read uh any Wikipedia page within a few lines of code we can you can pass the text you can do some filtering you can uh you can create a report or you can do anything right so that is why I'm saying integration but BAS basically uh here we are going to use a specific module which is created by Laha and with the help of that we'll be going to read uh any specific uh Wikipedia pages and from there we'll be going to do our uh uh things like for example we can create um indexes like within a vector uh IND database like you can create a vector index and after that we can do simple question answering okay this is going to be very simple tutorial but again uh if you're going to work on uh multi capability driven AI agents then this sort of Integrations are very much required with Lama index okay so without wasting much time let me move ahead with the tutorial so these are the prerequisite so this Lama index um uh readers uh this one is required and this is also required okay as usual the source code will be available in this GitHub link okay so I Will Not Waste much time let me start writing the code here directly so first thing first what we do we'll be going to import from Lama uh llama index llama index. code here we'll be going to import like vector store index okay and another thing we'll be going to write Lama index dot readers. Wikipedia then we'll be going to import uh okay sorry guys some uh some some uh like something is happening uh something is happening outside so I'll be just going to uh give a pause over here and shortly I will start the recording again okay noises are coming actually okay guys so the noise has been stopped so let's start again so I imported this uh module and then I'll be going to import let's say Wikipedia reader now what we'll do uh I will create a reader uh reader here uh reader object and this will come like this okay and then we'll be going to load it okay so let's say uh let's do something loader equals to reader dot leader. load data and probably here it it will be pages and it will be a string uh uh it will be a list uh string um like string within um within a list actually okay um so there you have to write down the page name so if you see here I have the page name brat Ki so it is one of the famous Cricket player okay if you don't like Cricket then I'm sorry it's done then uh then what will happen so basically here what I'm doing here I'm actually uh loading the data right and after that we need to convert that into documents right so this will load the data and after that it will create the documents right so uh so maybe I can do this is ultimately creating the document and after that we'll just write print document just to check whether everything is coming ni or not okay so let's see so this will write the page content here okay everything is written so fine so what I'll do I'll just clear it here and now I will create an instance of vector database so vs equals to Vector store Index right then from documents okay which document so documents will be documents right done now we'll create a query engine okay so query uncore engine and this is going to be vs. squer engine right completed now we'll create an chat now response and response will be what response will be query engine do query right inside the query I'll be just going to write my question I'll be going to write couple of question uh what is the birth date of Barat okay right then print response right now what we do now we going to do this thing okay let's see [Music] okay so bat Koh was born on 5th November this uh let's take some typical question okay [Music] so okay okay uh when did Co debut okay let's [Music] see let's see is able to answer it or not I don't know whether it is going to do it or not K made for the Indian cricket team in test and ODI Cricket when did go debut uh when what what the date and here when GOI did H debut in od test okay let's see a little bit complicated question okay let's see I'm not using any model maybe it is using the default model of llama index maybe it is uh U let's see Ki made his debut OD Cricket in uh OD Cricket on August 18 2008 and in test Cricket uh June 20 2011 right so I believe uh everything is fine over here right so let's uh ask another question uh how many centuries he scored in ODI let's ask this question he scored 50 centuries in one day international okay is everything is fine okay so that is what I would like to represent in this tutorial and I think we are very much uh okay not very much we are absolutely on point okay so now um why this sort of tutorials are important let me give you some example suppose uh suppose you are working for a customer and customer wants to to develop an AI agent which is going to give some answer to some some question but those questions are uh uh related to some Global product or Global topic and there your company wants to develop a certain capabilities where you need to search in the internet you need to search uh in the Wikipedia you need to search Reddit you need to search stack Overflow medium YouTube so many different platforms so that is why is this that is why this small small integration for every platform is very much essential because if you don't know how to integrate uh like this sort of platform then probably you won't be able to consider for those sort of jobs or maybe in the interview because see everything is now just available in the internet right but the company or the interviewer wants to see uh whether you know this thing or whether you develop something in the past based on that they're going to hire you right so that they should not waste any time on uh training or other stuff right so that is why um whenever you are getting some time from your regular job try to learn something and same thing is for me whenever I'm getting some time from the job I'm learning and I'm Al also creating this videos for you and trust me guys I'm actually having uh multiple uh like streams of like income ultimately uh uh everything will be judged in terms of right uh how much money you are making from a job right and this sort of jobs are giving a very stady and well um like kind of handsome or some some some like uh yeah some quite a good amount of money right whether it's a freelance job whether it's a freelance project part-time project whether you are doing it from the any freelancing website or app work or Etc right so that is why learn it then showcase it by building your GitHub and Linkedin profile you will uh start getting calls from everywhere right okay so enough of talking guys so before I close so I would like to uh raise couple of point point is not it's not a point it's a request guys please try to subscribe to my channel hit the like button share share this videos with your family and friend and try to please subscribe because if you see I'm uploading regular videos and my videos are on point on mostly on the Hands-On driven approach so guys please help me to grow because if you don't subscribe my channel will not grow and the moment you start subscribing my subscriber count will grow and YouTube and Google algorithm will start pushing this video to the large number of audience and last thing if you like this videos and contents are actually helping you then please put some positive com so that other people will also find this video useful and also this will help me to crack the Google algorithm or YouTube algorithm as well okay so please help me grow guys I need your support okay so that's it guys and I'll come back with another exciting tutorial in the next video very soon till then take care goodbye have a nice day and happy learning [Music]
+He was the man who established the First French
+Empire. To the French people he was a hero. To the French royalty he was their demise. Napoleon Bonaparte was a scourge to European
+leaders, but the countries he conquered joined a vast empire spanning from Spain into Russia. Along with his control over Europe, Napoleon
+Bonaparte conquered territories in the West Indies, Americas, and Northern Africa. Napoleon may have been the greatest conqueror
+history has ever seen. Napoleon Bonaparte was born on August 15,
+1769 on Corsica, an island in the Mediterranean Sea. Just before his birth the island of Corsica
+was conquered by French forces, making baby Napoleon and his family subjects of King Louis
+XV. At the age of nine Napoleon joined a military
+school in France. He excelled in math and history and after
+seven years he received a commission as an officer in the artillery division of the French
+Army. Then in the summer of 1789 the French Revolution
+began as Parisian mobs stormed the Bastille. The French Revolution concluded with the removal
+of the monarchy. The country was relabeled as a republic, to
+be governed by an assembly known as the Convention. Louis the XVI was guillotined in 1793 and
+the French monarchy died with him. With the dismantling of the monarchy and aristocracy
+France was thrown into what became known as The Reign of Terror. It is estimated around 300,000 suspects were
+arrested and 17,000 people were executed during this time. It is during this tumultuous period that Napoleon
+began to gain fame. His first major victory came when he defeated
+Royalist forces supported by the British Navy at the port of Toulon. After the battle he was celebrated as a war
+hero. In 1795 Napoleon gained even more fame when
+he fired upon Royalists and defeated anti-Republic forces that threatened the new government. His battles against the forces that opposed
+the new republic gained him favor with the leaders in the new government. Young general Bonaparte was appointed Commander
+in Chief of the French Military, a turn of events eerily similar to the rise to power
+of Emperor Palpatine in Star Wars. It was seven days later when Napoleon married
+his first wife Josephine de Beauharnais- although they would later be divorced because she did
+not birth a male heir for Napoleon. With his new power and prestige bestowed upon
+him by the French government, Napoleon Bonaparte began his military conquest of the region. He started by defeating Austrian forces and
+forcing Philipp von Cobenzl to sign the Treaty of Campo in 1797, which gave France control
+over the majority of the Austrian nation. By 1799 Napoleon had acquired vast new territories
+for France in Europe. He shifted his focus to Egypt where he hoped
+to dominate the Eastern Mediteranian and disrupt British control of India. During this campaign French soldiers discovered
+the Rosetta Stone by accident. The Rosetta Stone was brought to Europe and
+eventually translated, unlocking the mysteries of Egyptian hieroglyphics. Upon returning to France in 1799 Napoleon
+began to create a plan to overthrow the French government. This plot would come to be known as the Coup
+d’état of 18 Brumaire. Napoleon succeeded in dismantling the current
+governing body and set up a new government called The Consulate with himself as First
+Consul. Napoleon had now conquered easterm Europe
+and the French government. By now Napoleon had been First Consul for
+almost a year. In this time he had instituted many popular
+reforms, such as free secondary education and creating the Bank of France to improve
+the stability of the empire. On December 24, 1800 though Georges Cadoudal
+led monarchist rebels in an attempt to assassinate Napoleon Bonaparte with a homemade bomb. The assasination was planned to kill Bonaparte
+while he was at the opera. As Napoleon sat in the Theater of the Republic
+and the Arts in Paris watching the premier of The Creation by Joseph Haydn an explosion
+erupted outside of the building. The assasination plot had failed and would
+be called The “Infernal Machine” plot. It ended with the death of several people
+outside the theater, but left Napoleon unharmed. This marked the first time that a bomb had
+been used for an assassination attempt, and it was during this period in world history
+that the word terrorism was first used in its current form. The term became synonymous with acts that
+attempted to dismantle or destroy a leader or ideology. After gaining almost absolute power and surviving
+more than one attempt on his life, Napoleon set his sights on conquest once again. In 1802 Napoleon sent French forces to the
+West Indies to secure and protect France's interests in the region. He had decided it was time for an empire in
+the Americas and began to assert dominance in the New World. He was mildly successful, but before Napoleon
+could make his American Empire a reality he had a realization. His Navy was not powerful enough to defeat
+the British. France suffered several defeats at the hands
+and ships of the rival nation. Napoleon decided to consolidate his military
+and sold the Louisiana Territory to the United States, which would come to be known as the
+Louisiana Purchase. In return for the land Napoleon received money
+that France badly needed. In 1804 The Consulate was transformed into
+an empire and Napoleon was officially named Emperor of The First French Empire. The following year what was left of Austria
+and Russia allied themselves with the British. Napoleon decided it was time to bring the
+rest of Europe to their knees and began plans to invade England. But in a major defeat at the Battle of Trafalgar,
+the British naval fleet commanded by Admiral Nelson destroyed the French Navy and ended
+Napoleon’s plans to invade England. Realizing that the British Navy was again
+too powerful, Napoleon turned his attention to conquering Russia and the Holy Roman Empire. In 1805 French forces defeated Tsar Alexander
+I of Russia and Holy Roman Emperor Francis II at the Battle of Austerlitz. This eventually led to Tsar Alexander I signing
+a treaty with Napoleon and giving Napoleon control of all of Eastern Europe. There was a time of relative peace in the
+First French Empire until 1812 when Russia withdrew from the treaty and once again allied
+itself with Britain. Napoleon made the decision that Russia must
+be invaded and completely conquered if he was going to maintain control of the region. The invasion led to the bloodiest battle of
+the Napoleonic Wars. The Battle of Borodino was fought just outside
+Moscow. The Russian forces were estimated to have
+suffered around 45,000 casualties, while the French lost approximately 30,000 men. Although both sides took great losses Tsar
+Alexander I refused to surrender and Napoleon refused to abandon his conquest. But then the Russian winter did what the Russian
+army could not. Due to lack of supplies and resources the
+French army was forced to retreat from the bitter Russian winter and Napoleon returned
+to Paris. In 1813 the combined forces of Russia, Prussia,
+Austria, and Sweden defeated Napoleon’s armies in Europe. This forced Napoleon to abdicate his throne
+on April 11, 1814. The European leaders decided to banish Napoleon
+to the Mediterranean island of Elba. However, due to his craftiness and help from
+loyal supporters Napoleon escaped captivity and returned to France in 1815. He reclaimed the throne in what was known
+as the “Hundred Days.” After returning to France Napoleon re-established
+his power and began his conquest once again. He swept across Europe meeting British forces
+and their allies at the Battle of Waterloo. The British commander, the Duke of Wellington,
+decided to wait for Napoleon to attack rather than use precious men and resources in an
+advancing assault. Napoleon’s desire for conquest pushed him
+to take the offensive. He sent his forces into battle. At first Napoleon was largely successful using
+infantry and cavalry charges. His men were disciplined and believed in their
+leader. Wellington and his generals were confident
+that the battle was going to be lost due to the unrelenting French attacks. However, in a stroke of lucky timing, Prussian
+forces joined the British Army and helped them repel the French advances. Napoleon decided to use his Imperial Guard,
+the force always reserved to decide battles, to end the war. But due to a miscalculation, Napoleon split
+his Imperial Guard instead of sending them into battle together. This led to both smaller forces being defeated
+and a retreat by the French Army. The Battle of Waterloo made Great Britain
+the dominant global power for the next one hundred years. After Napoleon’s defeat at Waterloo the
+leaders of Europe decided he needed to be sent further away. Napoleon Bonaparte was exiled to Saint Helena,
+a remote volcanic island in the South Atlantic Ocean. The British kept two Navy frigates on patrol
+of the island at all times, to ensure that Napoleon stayed in exile. Napoleon eventually died of cancer on May
+5, 1821 on Saint Helena at the age of fifty-one. He was originally buried under three stone
+slabs beneath two willow trees, but later his body was moved back to France where his
+remains to this day. Due to Napoleon’s fame he became a legend. As with all legends incredible stories were
+told and myths created about the man. Conspiracy theories that Napoleon was poisoned
+instead of dying from natural causes spread like wildfire. People believed that his remains were stolen
+on the way back to Europe and secretly buried at an undisclosed location in Paris. You have probably heard the claim that Napoleon
+was extremely short. This was actually one of the myths that came
+out of the Napoleonic legends. It was true that Napoleon was called “le
+petit caporal,” or “the little corporal.” But this name had nothing to do with his height. Instead, his men used it as a term of endearment. It was said that when Napoleon died he was
+five feet two inches tall - two inches shorter than Kevin Hart. However, it has been determined that the measurement
+provided was in French inches, which at the time were longer than English inches. When the measurement is converted, Napoleon
+was closer to five feet six inches tall (making him two inches taller than Kevin Hart… sorry
+Kevin). This means that Napoleon was actually average
+height for a male in Europe at the time he was alive. Was Napoleon the greatest conqueror ever? His military, political, and social accomplishments
+were impressive and some still exist today. He survived several assasination attempts
+and escaped exile only to return to Europe and very nearly take back his Empire. Regardless of his height or legends, Napoleon
+Bonaparte was most assuredly a force to be reckoned with in the eighteenth and nineteenth
+centuries. He conquered vast amounts of land across Europe,
+controlled several territories overseas, and marched deep into Russia. Europe had not been unified under one ruler
+since the Roman Empire, and Napoleon Bonaparte was the first conqueror to succeed in creating
+an Empire in Europe and abroad where so many before him had failed- even if only briefly. Now go check out our video on Genghis Khan
+or Julius Caesar and decide for yourself who was actually the greatest conqueror of all
+time! Don’t forget to tell us who you decided
+was the best in the comments.
