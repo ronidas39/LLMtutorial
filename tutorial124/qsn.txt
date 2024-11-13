@@ -1,0 +1,3 @@
+display all distinctint os count
+display all distinctint machine count based on os
+display all racks name and count of machine it is holding

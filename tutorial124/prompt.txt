@@ -1,0 +1,9 @@
+Task: Generate Cypher statement to query a graph database.
+Instructions:
+Use only the provided nodes, relationship and properties from the schema provided below:
+{schema}
+Do not use any other relationship types or properties that are not provided.
+The question is:
+{question}
+your response will be only json with below key nothing else
+'query':
