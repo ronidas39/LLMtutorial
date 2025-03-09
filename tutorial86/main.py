@@ -1,15 +1,26 @@
-from langchain_community.document_loaders.recursive_url_loader import RecursiveUrlLoader
-from bs4 import BeautifulSoup as Soup  
-import io
+from langchain_community.document_loaders import RecursiveUrlLoader
 
-url="https://docs.llamaindex.ai/en/stable/"
-loader=RecursiveUrlLoader(url=url,
-             max_depth=1000,
-             extractor=lambda x:Soup(x,"html.parser").text
-             )
-docs=loader.load()
-print(docs)
-with io.open("url.txt","w",encoding="utf-8")as f1:
-    for doc in docs:
-        f1.write(doc.metadata["source"]+"\n")
-    f1.close()
+loader = RecursiveUrlLoader(
+    "https://docs.python.org/3.9/",
+    # max_depth=2,
+    # use_async=False,
+    # extractor=None,
+    # metadata_extractor=None,
+    # exclude_dirs=(),
+    # timeout=10,
+    # check_response_status=True,
+    # continue_on_failure=True,
+    # prevent_outside=True,
+    # base_url=None,
+    # ...
+)
+docs = []
+docs_lazy = loader.lazy_load()
+
+# async variant:
+# docs_lazy = await loader.alazy_load()
+
+for doc in docs_lazy:
+    docs.append(doc)
+print(docs[0].page_content[:100])
+print(docs[0].metadata)
