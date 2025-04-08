@@ -1,0 +1,141 @@
+Metadata-Version: 2.1
+Name: docling-core
+Version: 2.25.0
+Summary: A python library to define and validate data types in Docling.
+Home-page: https://github.com/docling-project
+License: MIT
+Keywords: docling,discovery,etl,information retrieval,analytics,database,database schema,schema,JSON
+Author: Cesar Berrospi Ramis
+Author-email: ceb@zurich.ibm.com
+Maintainer: Cesar Berrospi Ramis
+Maintainer-email: ceb@zurich.ibm.com
+Requires-Python: >=3.9,<4.0
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Classifier: Topic :: Database
+Classifier: Topic :: Scientific/Engineering :: Information Analysis
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Typing :: Typed
+Provides-Extra: chunking
+Requires-Dist: jsonref (>=1.1.0,<2.0.0)
+Requires-Dist: jsonschema (>=4.16.0,<5.0.0)
+Requires-Dist: latex2mathml (>=3.77.0,<4.0.0)
+Requires-Dist: pandas (>=2.1.4,<3.0.0)
+Requires-Dist: pillow (>=10.0.0,<12.0.0)
+Requires-Dist: pydantic (>=2.6.0,<3.0.0,!=2.10.0,!=2.10.1,!=2.10.2)
+Requires-Dist: pyyaml (>=5.1,<7.0.0)
+Requires-Dist: semchunk (>=2.2.0,<3.0.0) ; extra == "chunking"
+Requires-Dist: tabulate (>=0.9.0,<0.10.0)
+Requires-Dist: transformers (>=4.34.0,<5.0.0) ; extra == "chunking"
+Requires-Dist: typer (>=0.12.5,<0.13.0)
+Requires-Dist: typing-extensions (>=4.12.2,<5.0.0)
+Project-URL: Repository, https://github.com/docling-project/docling-core
+Description-Content-Type: text/markdown
+
+# Docling Core
+
+[![PyPI version](https://img.shields.io/pypi/v/docling-core)](https://pypi.org/project/docling-core/)
+![Python](https://img.shields.io/badge/python-3.9%20%7C%203.10%20%7C%20%203.11%20%7C%203.12%20%7C%203.13-blue)
+[![Poetry](https://img.shields.io/endpoint?url=https://python-poetry.org/badge/v0.json)](https://python-poetry.org/)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+[![Imports: isort](https://img.shields.io/badge/%20imports-isort-%231674b1?style=flat&labelColor=ef8336)](https://pycqa.github.io/isort/)
+[![Checked with mypy](https://www.mypy-lang.org/static/mypy_badge.svg)](https://mypy-lang.org/)
+[![Pydantic v2](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/pydantic/pydantic/main/docs/badge/v2.json)](https://pydantic.dev)
+[![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
+[![License MIT](https://img.shields.io/github/license/docling-project/docling-core)](https://opensource.org/licenses/MIT)
+
+Docling Core is a library that defines the data types in [Docling](https://github.com/docling-project/docling), leveraging pydantic models.
+
+## Installation
+
+To use Docling Core, simply install `docling-core` from your package manager, e.g. pip:
+```bash
+pip install docling-core
+```
+
+### Development setup
+
+To develop for Docling Core, you need Python 3.9 / 3.10 / 3.11 / 3.12 / 3.13 and Poetry. You can then install from your local clone's root dir:
+```bash
+poetry install --all-extras
+```
+
+To run the pytest suite, execute:
+```
+poetry run pytest test
+```
+
+## Basic Usage
+
+- You can validate your JSON objects using the pydantic class definition.
+
+  ```py
+  from docling_core.types import DoclingDocument
+
+  data_dict = {...}  # here the object you want to validate, as a dictionary
+  DoclingDocument.model_validate(data_dict)
+
+  data_str = {...}  # here the object as a JSON string
+  DoclingDocument.model_validate_json(data_str)
+  ```
+
+- You can generate the JSON schema of a model with the script `generate_jsonschema`.
+
+  ```py
+  # for the `DoclingDocument` type
+  generate_jsonschema DoclingDocument
+
+  # for the use `Record` type
+  generate_jsonschema Record
+  ```
+
+## Documentation
+
+Docling Core contains 3 top-level data types:
+
+- **DoclingDocument** for publications like books, articles, reports, or patents. The JSON that can be exported using Docling follows this schema.
+  The DoclingDocument type also models the metadata that may be attached to the converted document.
+  Check [DoclingDocument](docs/DoclingDocument.json) for the full JSON schema.
+- **Record** for structured database records, centered on an entity or _subject_ that is provided with a list of attributes.
+  Related to records, the statements can represent annotations on text by Natural Language Processing (NLP) tools.
+  Check [Record](docs/Record.json) for the full JSON schema.
+- **Generic** for any data representation, ensuring minimal configuration and maximum flexibility.
+  Check [Generic](docs/Generic.json) for the full JSON schema.
+
+The data schemas are defined using [pydantic](https://pydantic-docs.helpmanual.io/) models, which provide built-in processes to support the creation of data that adhere to those models.
+
+## Contributing
+
+Please read [Contributing to Docling Core](./CONTRIBUTING.md) for details.
+
+## References
+
+If you use Docling Core in your projects, please consider citing the following:
+
+```bib
+@techreport{Docling,
+  author = "Deep Search Team",
+  month = 8,
+  title = "Docling Technical Report",
+  url = "https://arxiv.org/abs/2408.09869",
+  eprint = "2408.09869",
+  doi = "10.48550/arXiv.2408.09869",
+  version = "1.0.0",
+  year = 2024
+}
+```
+
+## License
+
+The Docling Core codebase is under MIT license.
+For individual model usage, please refer to the model licenses found in the original packages.
+

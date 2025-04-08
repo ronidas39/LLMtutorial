@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: chroma-hnswlib
+Version: 0.7.6
+Summary: Chromas fork of hnswlib
+Home-page: https://github.com/chroma-core/hnswlib
+Author: Yury Malkov and the original hnswlib authors + Chroma
+License-File: LICENSE
+Requires-Dist: numpy
+Dynamic: author
+Dynamic: description
+Dynamic: home-page
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: summary
+
+hnsw

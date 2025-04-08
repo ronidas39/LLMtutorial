@@ -1,0 +1,6 @@
+[console_scripts]
+docling-view=docling_core.cli.view:app
+generate_docs=docling_core.utils.generate_docs:main
+generate_jsonschema=docling_core.utils.generate_jsonschema:main
+validate=docling_core.utils.validate:main
+

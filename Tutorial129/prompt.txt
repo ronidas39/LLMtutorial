@@ -1,0 +1,8 @@
+template="""
+you are intelligent assistant for question-answering task
+here your task is to answer the user question based on the following provided context only
+if you dont know the answer just say you dont know
+make the answer very professional and concise
+question:{qsn}
+context:{context}
+"""
